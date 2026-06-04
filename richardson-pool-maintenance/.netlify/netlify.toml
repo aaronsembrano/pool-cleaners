@@ -1,0 +1,26 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/aaronsembrano/Desktop/Pool Cleaners/richardson-pool-maintenance"
+publishOrigin = "default"
+base = "/Users/aaronsembrano/Desktop/Pool Cleaners/richardson-pool-maintenance"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
