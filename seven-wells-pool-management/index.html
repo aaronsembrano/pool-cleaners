@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Seven Wells Pool Management — Family Owned & Community Driven</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#1A73B5',
+            'primary-dark': '#115A8C',
+            'primary-deeper': '#0C3F63',
+            secondary: '#F4A300',
+            cta: '#F4A300',
+            'cta-dark': '#D08C00',
+            'bg-light': '#ECFEFF',
+            'bg-section': '#F0FDFA',
+            'card-border': '#E0F2FE',
+            'text-heading': '#164E63',
+            'text-body': '#334155',
+            'text-muted': '#64748B',
+          },
+          fontFamily: {
+            heading: ['"Plus Jakarta Sans"', 'sans-serif'],
+            body: ['Inter', 'system-ui', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Inter', system-ui, sans-serif; color: #334155; }
+    .faq-content { max-height: 0; overflow: hidden; transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1); }
+    .faq-content.open { max-height: 500px; }
+    .faq-chevron { transition: transform 0.3s ease; }
+    .faq-chevron.rotate { transform: rotate(180deg); }
+    .reveal { opacity: 0; transform: translateY(40px); transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1); }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+    .reveal-left { opacity: 0; transform: translateX(-60px); transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1); }
+    .reveal-left.visible { opacity: 1; transform: translateX(0); }
+    .reveal-right { opacity: 0; transform: translateX(60px); transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1); }
+    .reveal-right.visible { opacity: 1; transform: translateX(0); }
+    .reveal-scale { opacity: 0; transform: scale(0.92); transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+    .reveal-scale.visible { opacity: 1; transform: scale(1); }
+    .stagger-1 { transition-delay: 0.1s; } .stagger-2 { transition-delay: 0.2s; }
+    .stagger-3 { transition-delay: 0.3s; } .stagger-4 { transition-delay: 0.4s; }
+    .stagger-5 { transition-delay: 0.5s; }
+    html { scroll-behavior: smooth; }
+    .nav-blur { backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); background: rgba(255,255,255,0.92); }
+    @media (prefers-reduced-motion: reduce) {
+      .reveal, .reveal-left, .reveal-right, .reveal-scale { opacity: 1; transform: none; transition: none; }
+      .stagger-1,.stagger-2,.stagger-3,.stagger-4,.stagger-5 { transition-delay: 0s; }
+      html { scroll-behavior: auto; }
+      .logo-ticker { animation: none; }
+    }
+    /* Roll-through button — text slides up out, duplicate slides up in */
+    .btn, .btn-outline, .btn-ghost {
+      overflow: hidden;
+      position: relative;
+    }
+    .btn .btn-top, .btn-outline .btn-top, .btn-ghost .btn-top {
+      display: inline-block;
+      transition: transform 0.35s cubic-bezier(0.76, 0, 0.24, 1), opacity 0.35s ease;
+    }
+    .btn:hover .btn-top, .btn-outline:hover .btn-top, .btn-ghost:hover .btn-top {
+      transform: translateY(-120%);
+      opacity: 0;
+    }
+    .btn .btn-bottom, .btn-outline .btn-bottom, .btn-ghost .btn-bottom {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      transform: translateY(120%);
+      opacity: 0;
+      transition: transform 0.35s cubic-bezier(0.76, 0, 0.24, 1), opacity 0.35s ease;
+      pointer-events: none;
+      white-space: nowrap;
+    }
+    .btn:hover .btn-bottom, .btn-outline:hover .btn-bottom, .btn-ghost:hover .btn-bottom {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    /* Card link arrow bounce */
+    .card-link { transition: gap 0.3s ease; }
+    .card-link:hover svg { animation: arrow-bounce 0.5s ease; }
+    @keyframes arrow-bounce { 0%,100% { transform: translateX(0); } 50% { transform: translateX(4px); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .btn:hover .btn-top, .btn-outline:hover .btn-top, .btn-ghost:hover .btn-top { transform: none; opacity: 1; }
+      .btn:hover .btn-bottom, .btn-outline:hover .btn-bottom, .btn-ghost:hover .btn-bottom { transform: translateY(120%); opacity: 0; }
+      .card-link:hover svg { animation: none; }
+    }
+
+    @keyframes countUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes pulse-badge { 0%, 100% { box-shadow: 0 0 0 0 rgba(34,197,94,0.3); } 50% { box-shadow: 0 0 0 8px rgba(34,197,94,0); } }
+    .badge-pulse:hover { animation: pulse-badge 1.5s infinite; }
+    @keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+    .logo-ticker { animation: ticker-scroll 30s linear infinite; }
+    .logo-ticker:hover { animation-play-state: paused; }
+  </style>
+</head>
+<body class="bg-white font-body">
+
+  <!-- Top Bar -->
+  <div class="bg-primary-dark text-white text-sm py-2.5">
+    <div class="max-w-7xl mx-auto px-6 flex items-center justify-between">
+      <div class="flex items-center gap-6">
+        <a href="tel:2102328547" class="flex items-center gap-2 font-light tracking-wide hover:text-secondary transition cursor-pointer">
+          <svg class="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          (210) 232-8547
+        </a>
+        <a href="mailto:andrea.mom@sevenwellspools.com" class="hidden sm:flex items-center gap-2 font-light tracking-wide hover:text-secondary transition cursor-pointer">
+          <svg class="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
+          andrea.mom@sevenwellspools.com
+        </a>
+      </div>
+      <div class="flex items-center gap-4 text-xs font-light">
+        <span class="hidden md:flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+          Licensed & Insured
+        </span>
+        <span class="hidden md:flex items-center gap-1.5">
+          <svg class="w-4 h-4 text-secondary" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+          4.7/5 from 58+ Reviews
+        </span>
+        <span class="flex items-center gap-1.5 text-cta font-bold">Serving South/Central Texas Since 2005</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Header / Nav -->
+  <header class="nav-blur shadow-sm sticky top-0 z-50 border-b border-cyan-100/50">
+    <div class="max-w-7xl mx-auto px-6 flex items-center justify-between h-16">
+      <a href="#" class="flex items-center cursor-pointer">
+        <img src="logo.png" alt="Seven Wells Pool Management" class="h-14 max-w-[200px] object-contain" />
+      </a>
+      <nav class="hidden md:flex items-center gap-8 text-sm font-normal text-text-body tracking-wide">
+        <a href="#" class="hover:text-primary transition cursor-pointer">Home</a>
+        <a href="#about" class="hover:text-primary transition cursor-pointer">About</a>
+        <a href="#services" class="hover:text-primary transition cursor-pointer">Services</a>
+        <a href="#pricing" class="hover:text-primary transition cursor-pointer">Pricing</a>
+        <a href="#contact" class="hover:text-primary transition cursor-pointer">Contact</a>
+      </nav>
+      <div class="flex items-center gap-3">
+        <a href="tel:2102328547" class="hidden lg:inline-flex items-center gap-2 text-sm font-bold text-primary-dark hover:text-primary transition cursor-pointer">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          (210) 232-8547
+        </a>
+        <a href="#contact" class="hidden md:inline-flex btn bg-cta hover:bg-cta-dark text-white text-sm font-bold px-6 py-2.5 rounded-full shadow-lg shadow-cta/20 cursor-pointer">Request a Management Proposal</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="relative bg-primary-deeper min-h-[620px]" style="overflow-x:clip">
+    <div class="absolute inset-0">
+      <img src="https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=1920&q=80" alt="" class="w-full h-full object-cover" />
+      <div class="absolute inset-0 bg-gradient-to-r from-primary-deeper/95 via-primary-dark/85 to-primary-dark/40"></div>
+    </div>
+    <div class="relative max-w-7xl mx-auto px-6 py-28 md:py-40">
+      <div class="max-w-2xl">
+        <div class="flex flex-wrap items-center gap-3 mb-6 reveal">
+          <span class="bg-cta/20 text-cta text-xs font-bold px-3 py-1.5 rounded-full border border-cta/30 flex items-center gap-1.5">
+            <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20"><path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/></svg>
+            4.7/5 from 58+ Google Reviews
+          </span>
+          <span class="bg-white/10 text-cyan-200 text-xs font-bold px-3 py-1.5 rounded-full border border-white/20">Family-Owned with Dedicated Trained Staff</span>
+        </div>
+        <h1 class="font-heading text-4xl md:text-5xl lg:text-[60px] text-white leading-[1.08] mb-6 reveal stagger-1 font-bold">
+          San Antonio's Premier <span class="text-secondary italic">Community Pool</span> Management
+        </h1>
+        <p class="text-cyan-100 text-base md:text-lg mb-8 leading-relaxed font-light reveal stagger-2 max-w-lg">
+          Seven Wells Pool Management has been keeping South and Central Texas community pools safe, compliant, and inviting since 2005. Lifeguards, gate monitors, maintenance, and swim programs — all under one family-owned roof.
+        </p>
+        <div class="flex flex-wrap gap-4 reveal stagger-3">
+          <a href="#contact" data-no-roll class="btn bg-cta hover:bg-cta-dark text-white font-bold px-8 py-4 rounded-full text-sm shadow-lg shadow-cta/30 hover:shadow-cta/50 cursor-pointer inline-flex items-center justify-center">
+            <span class="btn-top">Request a Management Proposal</span>
+            <span class="btn-bottom">Request a Management Proposal</span>
+          </a>
+          <a href="tel:2102328547" data-no-roll class="group border border-white/30 text-white font-bold px-8 py-4 rounded-full text-sm transition backdrop-blur-sm cursor-pointer inline-flex items-center justify-center gap-2 hover:bg-white/5">
+            <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+            <span class="relative overflow-hidden inline-flex h-[1.3em]">
+              <span class="inline-block transition-transform duration-300 ease-[cubic-bezier(0.76,0,0.24,1)] group-hover:-translate-y-[120%]">Call (210) 232-8547</span>
+              <span class="absolute left-0 top-full inline-block transition-transform duration-300 ease-[cubic-bezier(0.76,0,0.24,1)] group-hover:-translate-y-full">Call (210) 232-8547</span>
+            </span>
+          </a>
+        </div>
+        <div class="flex items-center gap-6 mt-8 reveal stagger-4 text-cyan-200/70 text-xs font-light">
+          <span class="flex items-center gap-1.5"><svg class="w-4 h-4 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg> Full community pool management for HOAs</span>
+          <span class="flex items-center gap-1.5"><svg class="w-4 h-4 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg> Certified lifeguard and gate monitor staffing</span>
+          <span class="flex items-center gap-1.5"><svg class="w-4 h-4 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg> Swim programs and lessons for all ages</span>
+        </div>
+      </div>
+      <div class="hidden md:block absolute right-0 bottom-0 w-[45%] h-full pointer-events-none reveal-right stagger-3">
+        <img src="hero-person.png" alt="Pool service professional" class="absolute bottom-0 right-[-319px] h-[95%] w-auto object-contain drop-shadow-[0_10px_40px_rgba(0,0,0,0.4)]" />
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Stats Bar -->
+  <section class="bg-white py-8 border-b border-cyan-50">
+    <div class="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+      <div class="reveal stagger-1">
+        <div class="font-heading text-3xl md:text-4xl font-bold text-primary-dark stat-num" data-target="58">0</div>
+        <p class="text-text-muted text-sm font-light mt-1">Google Reviews</p>
+      </div>
+      <div class="reveal stagger-2">
+        <div class="font-heading text-3xl md:text-4xl font-bold text-primary-dark stat-num" data-target="21">0</div>
+        <p class="text-text-muted text-sm font-light mt-1">Years Managing Communities</p>
+      </div>
+      <div class="reveal stagger-3">
+        <div class="font-heading text-3xl md:text-4xl font-bold text-primary-dark stat-num" data-target="100">0</div>
+        <p class="text-text-muted text-sm font-light mt-1">Communities Served</p>
+      </div>
+      <div class="reveal stagger-4">
+        <div class="font-heading text-3xl md:text-4xl font-bold text-primary-dark">4.7</div>
+        <p class="text-text-muted text-sm font-light mt-1">Google Rating</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Client Logos Ticker -->
+  <div class="bg-white py-7 border-b border-cyan-50 overflow-hidden">
+    <div class="logo-ticker flex items-center gap-16 whitespace-nowrap">
+      <img src="https://cdn.brandfetch.io/marriott.com/w/512/h/100/logo" alt="Marriott" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/hilton.com/w/512/h/100/logo" alt="Hilton" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/hyatt.com/w/512/h/100/logo" alt="Hyatt" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/homeadvisor.com/w/512/h/100/logo" alt="HomeAdvisor" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/thumbtack.com/w/512/h/100/logo" alt="Thumbtack" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/nextdoor.com/w/512/h/100/logo" alt="Nextdoor" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/yelp.com/w/512/h/100/logo" alt="Yelp" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/angi.com/w/512/h/100/logo" alt="Angi" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/marriott.com/w/512/h/100/logo" alt="Marriott" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/hilton.com/w/512/h/100/logo" alt="Hilton" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/hyatt.com/w/512/h/100/logo" alt="Hyatt" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/homeadvisor.com/w/512/h/100/logo" alt="HomeAdvisor" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/thumbtack.com/w/512/h/100/logo" alt="Thumbtack" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/nextdoor.com/w/512/h/100/logo" alt="Nextdoor" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/yelp.com/w/512/h/100/logo" alt="Yelp" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+      <img src="https://cdn.brandfetch.io/angi.com/w/512/h/100/logo" alt="Angi" class="h-8 opacity-30 grayscale hover:opacity-70 hover:grayscale-0 transition duration-300 flex-shrink-0" />
+    </div>
+  </div>
+
+  <!-- Services (3-card primary grid) -->
+  <section id="services" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6 text-center mb-14 reveal">
+      <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">What We Do</span>
+      <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">Complete Community Aquatic Facility Management</h2>
+      <p class="text-text-muted text-[15px] font-light max-w-xl mx-auto">From lifeguard staffing and gate monitoring to maintenance, repairs, and swim programs — Seven Wells handles every aspect of community pool operations.</p>
+    </div>
+    <div class="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-7">
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-1 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1766302524567-36ec1759fef3?w=600&q=80" alt="Pool Cleaning" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Community Pool Management</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Full-service HOA and multi-family pool management with compliance.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-2 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1550820946-1c6f7b8e2030?w=600&q=80" alt="Equipment Repairs" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Lifeguard Staffing</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Trained certified lifeguard staffing with scheduling and safety protocols.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-3 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1576013551627-0cc20b96c2a7?w=600&q=80" alt="Green Pool Recovery" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Pool Maintenance</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Routine maintenance with chemical balancing and proactive care.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+    </div>
+    <!-- More services row -->
+    <div class="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-7 mt-7">
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-1 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1562778612-e1e0cda9915c?w=600&q=80" alt="Water Treatment" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Equipment Repair</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Expert repair of pumps, filters, plumbing, plaster, and equipment.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-2 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1603077864615-538e955d1ad1?w=600&q=80" alt="Pool Renovation" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Swim Programs</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Structured swim lessons for all ages by qualified instructors.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 group reveal-scale stagger-3 border border-card-border">
+        <div class="overflow-hidden"><img src="https://images.unsplash.com/photo-1762117360871-f11fbad00ee1?w=600&q=80" alt="Pool Installation" class="w-full h-52 object-cover group-hover:scale-105 transition duration-500" /></div>
+        <div class="p-6">
+          <h3 class="font-bold text-lg text-text-heading mb-1.5">Gate Monitoring</h3>
+          <p class="text-text-muted text-sm mb-4 font-light">Professional gate monitoring and access control for community pools.</p>
+          <a href="#contact" class="card-link text-primary text-sm font-bold flex items-center gap-1.5 hover:gap-3 transition-all cursor-pointer">Request a Management Proposal <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works (3-step process) -->
+  <section class="py-24 bg-bg-section">
+    <div class="max-w-7xl mx-auto px-6 text-center mb-14 reveal">
+      <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">How It Works</span>
+      <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">How Seven Wells Manages Your Community Pool</h2>
+    </div>
+    <div class="max-w-4xl mx-auto px-6 grid md:grid-cols-3 gap-8">
+      <div class="text-center reveal stagger-1">
+        <div class="w-16 h-16 bg-primary rounded-2xl flex items-center justify-center mx-auto mb-5 shadow-lg shadow-primary/20">
+          <span class="text-white font-heading text-2xl font-bold">1</span>
+        </div>
+        <h4 class="font-bold text-text-heading mb-2">Facility Assessment</h4>
+        <p class="text-text-muted text-sm font-light">We evaluate your community pool's needs — staffing, maintenance, compliance, and programming.</p>
+      </div>
+      <div class="text-center reveal stagger-2">
+        <div class="w-16 h-16 bg-primary rounded-2xl flex items-center justify-center mx-auto mb-5 shadow-lg shadow-primary/20">
+          <span class="text-white font-heading text-2xl font-bold">2</span>
+        </div>
+        <h4 class="font-bold text-text-heading mb-2">Custom Management Plan</h4>
+        <p class="text-text-muted text-sm font-light">Tailored operations plan covering everything from lifeguard schedules to chemical protocols.</p>
+      </div>
+      <div class="text-center reveal stagger-3">
+        <div class="w-16 h-16 bg-primary rounded-2xl flex items-center justify-center mx-auto mb-5 shadow-lg shadow-primary/20">
+          <span class="text-white font-heading text-2xl font-bold">3</span>
+        </div>
+        <h4 class="font-bold text-text-heading mb-2">Ongoing Excellence</h4>
+        <p class="text-text-muted text-sm font-light">Daily operations, trained staff, proactive maintenance, and regular reporting to your HOA board.</p>
+      </div>
+    </div>
+    <div class="text-center mt-12 reveal stagger-4">
+      <a href="#contact" class="inline-flex btn bg-cta hover:bg-cta-dark text-white font-bold px-8 py-4 rounded-full text-sm shadow-lg shadow-cta/20 cursor-pointer">Request a Management Proposal</a>
+    </div>
+  </section>
+
+  <!-- Why Choose Us -->
+  <section id="about" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
+      <div class="relative reveal-left">
+        <img src="https://images.unsplash.com/photo-1635111300299-e6e677daf7b7?w=800&q=80" alt="About" class="rounded-2xl w-4/5 h-[480px] object-cover shadow-xl" />
+        <img src="https://images.unsplash.com/photo-1603077864615-538e955d1ad1?w=400&q=80" alt="About detail" class="absolute bottom-[-24px] right-0 w-[45%] h-[200px] rounded-2xl shadow-2xl border-4 border-white object-cover" />
+        <div class="absolute top-6 left-6 bg-white/95 backdrop-blur-sm rounded-xl px-4 py-3 shadow-lg badge-pulse">
+          <div class="flex items-center gap-2">
+            <svg class="w-5 h-5 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+            <span class="text-sm font-bold text-primary-dark">Community Pool Experts Since 2005</span>
+          </div>
+        </div>
+      </div>
+      <div class="reveal-right">
+        <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">About Seven Wells</span>
+        <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-5 leading-tight font-bold">21 Years of Keeping Communities Safe and Swimming</h2>
+        <p class="text-text-muted text-[15px] leading-relaxed mb-10">
+          Founded in 2005, Seven Wells Pool Management is a family-owned company dedicated to community aquatic facilities across South and Central Texas. We don't do residential backyard pools — we specialize in the unique needs of HOAs, multi-family properties, and community centers.
+        </p>
+        <div class="space-y-6">
+          <div class="flex items-start gap-4 reveal stagger-1">
+            <div class="w-11 h-11 bg-cta/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-cta" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/></svg>
+            </div>
+            <div>
+              <h4 class="font-bold text-text-heading mb-1 text-[15px]">Certified Lifeguard Staffing</h4>
+              <p class="text-text-muted text-sm font-light">Red Cross certified lifeguards, properly trained and supervised, for your community's safety.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4 reveal stagger-2">
+            <div class="w-11 h-11 bg-cta/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-cta" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            </div>
+            <div>
+              <h4 class="font-bold text-text-heading mb-1 text-[15px]">Full Maintenance & Repair</h4>
+              <p class="text-text-muted text-sm font-light">Chemical monitoring, equipment repair, plaster, plumbing, and leak detection — all handled in-house.</p>
+            </div>
+          </div>
+          <div class="flex items-start gap-4 reveal stagger-3">
+            <div class="w-11 h-11 bg-cta/10 rounded-xl flex items-center justify-center flex-shrink-0">
+              <svg class="w-5 h-5 text-cta" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            </div>
+            <div>
+              <h4 class="font-bold text-text-heading mb-1 text-[15px]">Swim Programs & Lessons</h4>
+              <p class="text-text-muted text-sm font-light">Structured swim lessons and community programs that add value to your amenity and engage residents.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Before/After Gallery -->
+  <section class="py-24 bg-bg-section">
+    <div class="max-w-7xl mx-auto px-6 text-center mb-14 reveal">
+      <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">Real Results</span>
+      <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">See the Difference We Make</h2>
+      <p class="text-text-muted text-[15px] font-light">Real transformations from real clients. No filters, no tricks — just clean water.</p>
+    </div>
+    <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-3 gap-7">
+      <div class="rounded-2xl overflow-hidden shadow-lg reveal-scale stagger-1 border border-card-border">
+        <div class="grid grid-cols-2">
+          <div class="relative"><img src="https://placehold.co/300x220/4a7c59/ffffff?text=Before" alt="Before" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">Before</span></div>
+          <div class="relative"><img src="https://placehold.co/300x220/0891B2/ffffff?text=After" alt="After" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-cta text-white text-xs font-bold px-2 py-0.5 rounded">After</span></div>
+        </div>
+        <div class="p-4 bg-white"><p class="text-sm font-bold text-text-heading">Green Pool Recovery — 48 Hours</p><p class="text-xs text-text-muted font-light">Randy M., Scottsdale</p></div>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-lg reveal-scale stagger-2 border border-card-border">
+        <div class="grid grid-cols-2">
+          <div class="relative"><img src="https://placehold.co/300x220/8B7355/ffffff?text=Before" alt="Before" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">Before</span></div>
+          <div class="relative"><img src="https://placehold.co/300x220/22D3EE/ffffff?text=After" alt="After" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-cta text-white text-xs font-bold px-2 py-0.5 rounded">After</span></div>
+        </div>
+        <div class="p-4 bg-white"><p class="text-sm font-bold text-text-heading">Tile Restoration & Resurface</p><p class="text-xs text-text-muted font-light">Karen L., Mesa</p></div>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-lg reveal-scale stagger-3 border border-card-border">
+        <div class="grid grid-cols-2">
+          <div class="relative"><img src="https://placehold.co/300x220/6B5B4F/ffffff?text=Before" alt="Before" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-red-500 text-white text-xs font-bold px-2 py-0.5 rounded">Before</span></div>
+          <div class="relative"><img src="https://placehold.co/300x220/0891B2/ffffff?text=After" alt="After" class="w-full h-44 object-cover" /><span class="absolute bottom-2 left-2 bg-cta text-white text-xs font-bold px-2 py-0.5 rounded">After</span></div>
+        </div>
+        <div class="p-4 bg-white"><p class="text-sm font-bold text-text-heading">Full Equipment Overhaul</p><p class="text-xs text-text-muted font-light">Jason M., Tempe</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Pricing -->
+  <section id="pricing" class="py-24 bg-white">
+    <div class="max-w-7xl mx-auto px-6 text-center mb-14 reveal">
+      <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">Pricing</span>
+      <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">Management Proposals Tailored to Your Community</h2>
+      <p class="text-text-muted text-[15px] font-light">Every community is different. We build custom management plans based on your facility size, usage, and needs.</p>
+    </div>
+    <div class="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-7">
+      <div class="bg-white rounded-2xl p-8 border border-card-border hover:shadow-xl transition-all duration-300 reveal-scale stagger-1">
+        <h3 class="font-bold text-lg text-text-heading mb-1">Basic Clean</h3>
+        <div class="flex items-baseline gap-1 mb-1"><span class="font-heading text-5xl font-bold text-primary-dark">$79</span><span class="text-text-muted text-sm font-light">/visit</span></div>
+        <p class="text-text-muted text-xs mb-5 font-light">Best for light-use pools</p>
+        <a href="#contact" class="btn-outline block text-center bg-white border-2 border-primary text-primary font-bold py-3 rounded-full text-sm hover:bg-primary hover:text-white transition-all duration-300 mb-7 cursor-pointer">Request a Management Proposal</a>
+        <ul class="space-y-3 text-sm text-text-body">
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Surface skimming</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Vacuum & brush walls</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Basic water testing</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Equipment check</li>
+        </ul>
+      </div>
+      <div class="bg-primary-dark rounded-2xl p-8 text-white hover:shadow-xl transition-all duration-300 relative reveal-scale stagger-2 ring-2 ring-secondary/40">
+        <div class="absolute -top-3 right-6 bg-cta text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">Most Popular</div>
+        <h3 class="font-bold text-lg mb-1">Weekly Service</h3>
+        <div class="flex items-baseline gap-1 mb-1"><span class="font-heading text-5xl font-bold">$149</span><span class="text-cyan-200 text-sm font-light">/month</span></div>
+        <p class="text-cyan-200 text-xs mb-5 font-light">Everything you need. Cancel anytime.</p>
+        <a href="#contact" class="btn block text-center bg-cta hover:bg-cta-dark text-white font-bold py-3 rounded-full text-sm mb-7 shadow-lg shadow-cta/30 cursor-pointer">Request a Management Proposal</a>
+        <ul class="space-y-3 text-sm text-cyan-100">
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-secondary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Full-cycle cleaning weekly</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-secondary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Chemical balancing included</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-secondary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Filter & basket cleaning</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-secondary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Tile line scrubbing</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-secondary flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Priority scheduling</li>
+        </ul>
+      </div>
+      <div class="bg-white rounded-2xl p-8 border border-card-border hover:shadow-xl transition-all duration-300 reveal-scale stagger-3">
+        <h3 class="font-bold text-lg text-text-heading mb-1">Premium Care</h3>
+        <div class="flex items-baseline gap-1 mb-1"><span class="font-heading text-5xl font-bold text-primary-dark">$249</span><span class="text-text-muted text-sm font-light">/month</span></div>
+        <p class="text-text-muted text-xs mb-5 font-light">White-glove service for resorts & estates</p>
+        <a href="#contact" class="btn-outline block text-center bg-white border-2 border-primary text-primary font-bold py-3 rounded-full text-sm hover:bg-primary hover:text-white transition-all duration-300 mb-7 cursor-pointer">Request a Management Proposal</a>
+        <ul class="space-y-3 text-sm text-text-body">
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Everything in Weekly</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Advanced water treatment</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Equipment repairs included</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>Same-day emergency visits</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="py-24 bg-bg-section">
+    <div class="max-w-7xl mx-auto px-6 text-center mb-14 reveal">
+      <span class="text-primary font-bold text-sm uppercase tracking-[0.2em] mb-3 block">58+ Five-Star Reviews</span>
+      <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">Don't Take Our Word For It</h2>
+      <div class="flex items-center justify-center gap-1 mt-3">
+        <span class="text-secondary text-xl">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+        <span class="text-text-muted text-sm font-light ml-2">4.7 out of 5 on Google</span>
+      </div>
+    </div>
+    <div class="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 lg:grid-cols-3 gap-7">
+      <div class="bg-white rounded-2xl p-7 hover:shadow-lg transition-all duration-300 reveal stagger-1 border border-card-border">
+        <div class="flex text-secondary text-sm tracking-wider mb-4">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="text-text-body text-sm leading-relaxed mb-5">"Managed our HOA pool for five years. Night and day difference from previous company. Professional and proactive."</p>
+        <div class="flex items-center gap-3">
+          <img src="https://placehold.co/40x40/ECFEFF/164E63?text=SM" alt="Sandra M." class="w-10 h-10 rounded-full" />
+          <div><p class="text-sm font-bold text-text-heading">Sarah J.</p><p class="text-xs text-text-muted font-light">HOA Management</p></div>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl p-7 hover:shadow-lg transition-all duration-300 reveal stagger-2 border border-card-border">
+        <div class="flex text-secondary text-sm tracking-wider mb-4">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="text-text-body text-sm leading-relaxed mb-5">"Lifeguard staff are well-trained and courteous. Parents feel safe letting kids swim. Priceless."</p>
+        <div class="flex items-center gap-3">
+          <img src="https://placehold.co/40x40/ECFEFF/164E63?text=DR" alt="David R." class="w-10 h-10 rounded-full" />
+          <div><p class="text-sm font-bold text-text-heading">Liam R.</p><p class="text-xs text-text-muted font-light">Lifeguard Services</p></div>
+        </div>
+      </div>
+      <div class="bg-white rounded-2xl p-7 hover:shadow-lg transition-all duration-300 reveal stagger-3 border border-card-border">
+        <div class="flex text-secondary text-sm tracking-wider mb-4">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+        <p class="text-text-body text-sm leading-relaxed mb-5">"Those in charge genuinely care about the communities they serve. It shows in the quality."</p>
+        <div class="flex items-center gap-3">
+          <img src="https://placehold.co/40x40/ECFEFF/164E63?text=KT" alt="Karen T." class="w-10 h-10 rounded-full" />
+          <div><p class="text-sm font-bold text-text-heading">Maria K.</p><p class="text-xs text-text-muted font-light">Community Partnership</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Guarantee Section -->
+  <section class="py-16 bg-primary-dark">
+    <div class="max-w-4xl mx-auto px-6 text-center reveal">
+      <div class="w-16 h-16 bg-cta/20 rounded-full flex items-center justify-center mx-auto mb-6">
+        <svg class="w-8 h-8 text-cta" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>
+      </div>
+      <h2 class="font-heading text-3xl md:text-4xl text-white font-bold mb-4">Our Community Commitment</h2>
+      <p class="text-cyan-200 text-[15px] leading-relaxed font-light max-w-2xl mx-auto mb-6">We serve communities, not just pools. Our family-owned approach means your HOA board gets responsive communication, trained staff, and proactive management — backed by 21 years of doing this right.</p>
+      <a href="#contact" class="inline-flex btn bg-cta hover:bg-cta-dark text-white font-bold px-8 py-4 rounded-full text-sm shadow-lg shadow-cta/30 cursor-pointer">Request a Management Proposal</a>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="py-24 bg-white">
+    <div class="max-w-3xl mx-auto px-6">
+      <div class="text-center mb-14 reveal">
+        <h2 class="font-heading text-3xl md:text-[42px] text-text-heading mb-3 leading-tight font-bold">Common Questions</h2>
+        <p class="text-text-muted text-sm font-light">Quick answers so you can get back to enjoying your pool.</p>
+      </div>
+      <div class="space-y-3">
+        <div class="bg-bg-light rounded-xl border border-card-border reveal stagger-1">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-5 text-left cursor-pointer">
+            <span class="font-bold text-text-heading text-sm">Do you manage residential backyard pools?</span>
+            <svg class="faq-chevron w-5 h-5 text-text-muted flex-shrink-0 rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-content open">
+            <div class="px-5 pb-5"><p class="text-text-muted text-sm leading-relaxed font-light">No — we specialize exclusively in community and multi-family pool management. HOAs, apartments, and community centers.</p></div>
+          </div>
+        </div>
+        <div class="bg-bg-light rounded-xl border border-card-border reveal stagger-2">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-5 text-left cursor-pointer">
+            <span class="font-bold text-text-heading text-sm">Do you provide lifeguards?</span>
+            <svg class="faq-chevron w-5 h-5 text-text-muted flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-content">
+            <div class="px-5 pb-5"><p class="text-text-muted text-sm leading-relaxed font-light">Yes — Red Cross certified lifeguards with scheduling, training, and supervision all handled by our team.</p></div>
+          </div>
+        </div>
+        <div class="bg-bg-light rounded-xl border border-card-border reveal stagger-3">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-5 text-left cursor-pointer">
+            <span class="font-bold text-text-heading text-sm">What areas do you serve?</span>
+            <svg class="faq-chevron w-5 h-5 text-text-muted flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-content">
+            <div class="px-5 pb-5"><p class="text-text-muted text-sm leading-relaxed font-light">South and Central Texas, based in San Antonio.</p></div>
+          </div>
+        </div>
+        <div class="bg-bg-light rounded-xl border border-card-border reveal stagger-4">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-5 text-left cursor-pointer">
+            <span class="font-bold text-text-heading text-sm">Swim programs?</span>
+            <svg class="faq-chevron w-5 h-5 text-text-muted flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-content">
+            <div class="px-5 pb-5"><p class="text-text-muted text-sm leading-relaxed font-light">Yes — structured lessons and programs for community members of all ages at your facility.</p></div>
+          </div>
+        </div>
+        <div class="bg-bg-light rounded-xl border border-card-border reveal stagger-5">
+          <button onclick="toggleFaq(this)" class="w-full flex items-center justify-between p-5 text-left cursor-pointer">
+            <span class="font-bold text-text-heading text-sm">How long in business?</span>
+            <svg class="faq-chevron w-5 h-5 text-text-muted flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+          </button>
+          <div class="faq-content">
+            <div class="px-5 pb-5"><p class="text-text-muted text-sm leading-relaxed font-light">Since 2005 — 21 years of community pool management experience.</p></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA + Contact Form -->
+  <section id="contact" class="py-24 bg-primary-deeper relative overflow-hidden">
+    <div class="absolute inset-0 opacity-10">
+      <img src="https://images.unsplash.com/photo-1631752674874-9994662712af?w=1920&q=40" alt="" class="w-full h-full object-cover" />
+    </div>
+    <div class="relative max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-14 items-center">
+      <div class="reveal-left">
+        <h2 class="font-heading text-3xl md:text-[44px] text-white mb-5 leading-tight font-bold">Let Seven Wells Manage Your Community Pool</h2>
+        <p class="text-cyan-200 text-[15px] mb-6 leading-relaxed font-light">Request a custom management proposal for your HOA or community facility.</p>
+        <ul class="space-y-3 text-cyan-100 text-sm font-light mb-8">
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>Custom management proposals</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>Certified lifeguard staffing included</li>
+          <li class="flex items-center gap-2.5"><svg class="w-4 h-4 text-cta flex-shrink-0" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/></svg>21 years of community expertise</li>
+        </ul>
+        <a href="tel:2102328547" class="inline-flex items-center gap-2 text-white font-bold text-lg hover:text-secondary transition cursor-pointer">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+          Or call (210) 232-8547
+        </a>
+      </div>
+      <div class="bg-white rounded-2xl p-8 shadow-2xl reveal-right">
+        <h3 class="font-bold text-xl text-text-heading mb-2">Request a Management Proposal</h3>
+        <p class="text-text-muted text-xs font-light mb-6">Takes 30 seconds. We'll get back to you within 24 hours.</p>
+        <form class="space-y-4">
+          <input type="text" placeholder="Your Name" class="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition font-light" />
+          <div class="grid grid-cols-2 gap-4">
+            <input type="tel" placeholder="Phone *" class="border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition font-light" />
+            <input type="email" placeholder="Email *" class="border border-gray-200 rounded-xl px-4 py-3 text-sm focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition font-light" />
+          </div>
+          <select class="w-full border border-gray-200 rounded-xl px-4 py-3 text-sm text-text-muted focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition font-light cursor-pointer">
+            <option>What do you need help with?</option>
+            <option>Weekly Pool Cleaning</option>
+            <option>Pool Maintenance</option>
+            <option>Equipment Repair</option>
+            <option>Pool Renovation</option>
+            <option>New Pool Installation</option>
+            <option>Other</option>
+          </select>
+          <button type="submit" class="btn w-full bg-cta hover:bg-cta-dark text-white font-bold py-4 rounded-full text-sm shadow-lg shadow-cta/20 hover:shadow-cta/40 cursor-pointer">Request a Management Proposal</button>
+          <p class="text-center text-text-muted text-xs font-light">No spam. No obligation. Just honest pool care.</p>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-primary-deeper border-t border-white/10 py-14">
+    <div class="max-w-7xl mx-auto px-6 grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+      <div>
+        <div class="mb-5"><span class="font-heading text-xl font-bold text-white tracking-tight">Seven Wells Pool <span class="text-secondary">Management</span></span></div>
+        <p class="text-cyan-200/70 text-sm leading-relaxed font-light mb-4">Seven Wells Pool Management — serving San Antonio, Texas for 21+ years.</p>
+        <div class="flex items-center gap-1 text-secondary text-xs">&#9733;&#9733;&#9733;&#9733;&#9733; <span class="text-cyan-200/70 ml-1">4.7/5 on Google</span></div>
+      </div>
+      <div>
+        <h4 class="text-white font-bold mb-5 text-sm tracking-wide">Services</h4>
+        <ul class="space-y-2.5 text-cyan-200/70 text-sm font-light">
+          <li><a href="#services" class="hover:text-white transition cursor-pointer">Community Pool Management</a></li>
+          <li><a href="#services" class="hover:text-white transition cursor-pointer">Lifeguard Staffing</a></li>
+          <li><a href="#services" class="hover:text-white transition cursor-pointer">Green Pool Recovery</a></li>
+          <li><a href="#services" class="hover:text-white transition cursor-pointer">Equipment Repair</a></li>
+          <li><a href="#services" class="hover:text-white transition cursor-pointer">Swim Programs</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="text-white font-bold mb-5 text-sm tracking-wide">Hours</h4>
+        <ul class="space-y-2 text-cyan-200/70 text-sm font-light">
+          <li>Mon – Fri</li>
+          <li class="text-white font-normal">8:00 am – 5:00 pm</li>
+          <li class="mt-3">Saturday</li>
+          <li class="text-white font-normal">9:00 am – 1:00 pm</li>
+          <li class="mt-3">Sunday: Closed</li>
+          <li class="mt-3 text-cta font-bold">Emergency? Call anytime.</li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="text-white font-bold mb-5 text-sm tracking-wide">Contact</h4>
+        <ul class="space-y-3.5 text-cyan-200/70 text-sm font-light">
+          <li><a href="tel:2102328547" class="flex items-center gap-2.5 hover:text-white transition cursor-pointer"><svg class="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>(210) 232-8547</a></li>
+          <li><a href="mailto:andrea.mom@sevenwellspools.com" class="flex items-center gap-2.5 hover:text-white transition cursor-pointer"><svg class="w-4 h-4 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>andrea.mom@sevenwellspools.com</a></li>
+          <li class="flex items-start gap-2.5"><svg class="w-4 h-4 mt-0.5 flex-shrink-0 opacity-70" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>San Antonio, TX and South/Central Texas</li>
+        </ul>
+      </div>
+    </div>
+    <div class="max-w-7xl mx-auto px-6 mt-12 pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between text-cyan-300/40 text-xs font-light">
+      <p>&copy; 2024 Pool. All rights reserved. Licensed & Insured. FL License #CPC1234567</p>
+      <div class="flex items-center gap-4 mt-2 sm:mt-0">
+        <a href="#" class="hover:text-white transition cursor-pointer">Privacy Policy</a>
+        <span>|</span>
+        <a href="#" class="hover:text-white transition cursor-pointer">Terms of Service</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Mobile Sticky CTA -->
+  <div class="fixed bottom-0 left-0 right-0 md:hidden bg-white border-t border-gray-200 p-3 z-50 flex gap-2">
+    <a href="tel:2102328547" class="btn-outline flex-1 bg-primary-dark text-white font-bold py-3 rounded-full text-sm text-center cursor-pointer flex items-center justify-center gap-2 border-0">
+      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
+      Call Now
+    </a>
+    <a href="#contact" class="btn flex-1 bg-cta text-white font-bold py-3 rounded-full text-sm text-center cursor-pointer">Get Free Quote</a>
+  </div>
+
+  <script>
+    function toggleFaq(btn) {
+      const content = btn.nextElementSibling;
+      const chevron = btn.querySelector('.faq-chevron');
+      content.classList.toggle('open');
+      chevron.classList.toggle('rotate');
+    }
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          if (entry.target.querySelector('.stat-num')) entry.target.querySelectorAll('.stat-num').forEach(animateCounter);
+        }
+      });
+    }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+    document.querySelectorAll('.reveal, .reveal-left, .reveal-right, .reveal-scale').forEach(el => observer.observe(el));
+
+    // Build roll-through button structure (skip pre-built ones)
+    document.querySelectorAll('.btn, .btn-outline, .btn-ghost').forEach(el => {
+      if (el.querySelector('.btn-top') || el.hasAttribute('data-no-roll')) return;
+      const text = el.textContent.trim();
+      if (!text) return;
+      el.innerHTML = '';
+      const top = document.createElement('span');
+      top.className = 'btn-top';
+      top.textContent = text;
+      const bottom = document.createElement('span');
+      bottom.className = 'btn-bottom';
+      bottom.textContent = text;
+      el.appendChild(top);
+      el.appendChild(bottom);
+    });
+
+    function animateCounter(el) {
+      if (el.dataset.animated) return;
+      el.dataset.animated = 'true';
+      const target = parseInt(el.dataset.target);
+      if (!target) return;
+      const duration = 1500, start = performance.now();
+      function update(now) {
+        const progress = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        el.textContent = Math.floor(eased * target).toLocaleString() + '+';
+        if (progress < 1) requestAnimationFrame(update);
+      }
+      requestAnimationFrame(update);
+    }
+  </script>
+</body>
+</html>
