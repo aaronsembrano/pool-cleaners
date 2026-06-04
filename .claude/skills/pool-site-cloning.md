@@ -73,7 +73,10 @@ file "{folder}/logo.png"
 ```bash
 mkdir -p "/Users/aaronsembrano/Desktop/Pool Cleaners/{Folder Name}"
 cp "/Users/aaronsembrano/Desktop/Pool Cleaners/index.html" "/Users/aaronsembrano/Desktop/Pool Cleaners/{Folder Name}/index.html"
+cp "/Users/aaronsembrano/Desktop/Pool Cleaners/hero-person.png" "/Users/aaronsembrano/Desktop/Pool Cleaners/{Folder Name}/hero-person.png"
 ```
+
+**LEARNED:** The template references `hero-person.png` (the pool technician cutout in the hero section). This file MUST be copied to every cloned site folder or the hero image will be broken.
 
 ### Step 5: Apply All Substitutions
 
