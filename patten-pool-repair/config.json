@@ -1,0 +1,184 @@
+{
+  "folder_name": "patten-pool-repair",
+  "company_name": "Patten Pool Repair",
+  "tagline": "Dependable Pool Repair & Remodeling",
+  "phone": "+1 281-367-7796",
+  "email": "info@pattenpool.com",
+  "logo_path": "",
+  "review_count": "47",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2840",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — TICL #802",
+    "badge_2": "4.2/5 from 47+ Reviews",
+    "badge_3": "Serving Spring Since 1982"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 47+ Google Reviews",
+    "badge_2": "44 Years of Trusted Service",
+    "headline": "44 Years Keeping Pools <span class=\"text-secondary italic\">Running Right</span>",
+    "subheadline": "Since 1982, Patten Pool Repair has been the name North Houston trusts for dependable pool repair, remodeling, and weekly care. Our vans arrive stocked with parts so most repairs get done on the spot — no second trips, no waiting around.",
+    "cta_text": "Get Your Free Pool Assessment",
+    "checkmarks": [
+      "Same-day on-site repairs",
+      "Parts stocked in every van",
+      "No-pressure honest estimates"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1500",
+    "stat_1_label": "Customers Served",
+    "stat_2_value": "44",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "2",
+    "stat_3_label": "Counties Covered",
+    "stat_4_value": "1982",
+    "stat_4_label": "Established"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Expert Pool Repair & Remodeling<br class=\"hidden md:block\"> for North Houston",
+    "subtitle": "From a broken pump to a full pool transformation, our licensed technicians handle it all. Vans stocked with parts mean faster fixes and fewer headaches for you.",
+    "cards": [
+      {
+        "title": "Pool Repair & Equipment",
+        "description": "Fast diagnosis and repair of pumps, filters, heaters, and more from major manufacturers. Technicians carry parts on every call so most repairs are finished the same day."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Complete pool renovations including re-plastering, coping, tile, and decking. Premium finish options like Jewelscape, QuartzScape, and RiverRoc bring your pool back to life."
+      },
+      {
+        "title": "Weekly Maintenance",
+        "description": "Consistent weekly cleaning, chemical balancing, and equipment checks keep your pool swim-ready year-round. Trusted by over 1,500 families across two counties."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Modernize your pool with energy-efficient pumps, salt systems, automation, and LED lighting. We help you cut costs while upgrading performance."
+      },
+      {
+        "title": "Natural Stone Sealing",
+        "description": "Professional mineral blast and sealing services that protect your pool's natural stone surfaces, extending the life and beauty of your coping and decking."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Thorough water chemistry testing, equipment evaluation, and preventive maintenance that catches small problems before they turn into expensive repairs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us what's going on with your pool. We'll give you a straightforward estimate — no pressure, no upsells, just honest answers from people who have been doing this since 1982."
+      },
+      {
+        "title": "We Show Up Prepared",
+        "description": "Our technicians arrive with parts already in the van. That means faster repairs, fewer return trips, and less time between you and a working pool."
+      },
+      {
+        "title": "Enjoy Your Pool Again",
+        "description": "Whether it's a quick fix or a full remodel, we get it done right the first time. Join the 1,500+ families who trust Patten Pool Repair to keep things running."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why North Houston Trusts Us",
+    "headline": "Four Decades of Doing Right by Our Neighbors",
+    "description": "Since 1982, Patten Pool Repair has served over 1,500 customers across North Harris and Montgomery Counties. We didn't grow through advertising — we grew because satisfied customers told their neighbors. Our technicians are trained, licensed, and carry the parts they need to fix problems on the spot. Every pool we touch gets the same care and honesty that built our reputation over 44 years.",
+    "badge": "TICL #802 Licensed",
+    "features": [
+      {
+        "title": "Parts-Stocked Vans",
+        "description": "Every technician carries common repair parts on board. Most issues get diagnosed and fixed in a single visit — no waiting for parts, no second appointment."
+      },
+      {
+        "title": "Advanced Plasterwork",
+        "description": "Our remodeling crew uses bond coat and hollow spot removal techniques that exceed competitor standards. Premium finishes like Jewelscape and QuartzScape are applied right."
+      },
+      {
+        "title": "Word-of-Mouth Reputation",
+        "description": "Our growth has been driven by referrals from satisfied customers. When your neighbors trust someone with their pool for 44 years, that says everything."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "We quote what it costs and stick to it. No hidden fees, no bait-and-switch — just honest pricing from a company that's been here since 1982."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If any repair or service doesn't meet your expectations, we come back and make it right at no additional charge. We've built our reputation on honest work over 44 years, and we stand behind every job. Your satisfaction is what keeps our customers referring their neighbors."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you get to my pool?",
+      "answer": "For most repairs, we can schedule a visit within a few days. Since our technicians carry parts in their vans, the majority of repairs are completed in a single visit — no waiting for parts to be ordered."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve The Woodlands, Spring, Magnolia, Champions, FM 1960, Cypress, Tomball, Gleannloch Farms, Willowbrook, Memorial Northwest, and surrounding communities across North Harris and Montgomery Counties."
+    },
+    {
+      "question": "What pool finishes do you offer for remodeling?",
+      "answer": "We offer White Plaster, Stonescape, Jewelscape, RiverRoc, and QuartzScape finishes. Our advanced bond coat and hollow spot removal techniques ensure a longer-lasting, higher-quality finish than standard application methods."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Patten Pool Repair holds State License TICL #802 and is fully insured. We're also a BBB Accredited Business and have earned the Angie's List Super Service Award from 2014 through 2018."
+    },
+    {
+      "question": "Do you offer weekly pool maintenance?",
+      "answer": "Absolutely. We provide consistent weekly maintenance including cleaning, chemical balancing, and equipment checks. We currently serve over 1,500 customers who count on us to keep their pools swim-ready year-round."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Steve A.",
+      "context": "Pool remodel — coping, tile, LED lighting",
+      "initials": "SA",
+      "text": "We had a truly great experience with Patten Pool Repair. The results on our 14-year-old pool were even better than we expected — new water features, coping, tile, LED lighting, and a beautiful new surface."
+    },
+    {
+      "name": "Donna L.",
+      "context": "Pool renovation project",
+      "initials": "DL",
+      "text": "Bill England was nothing short of amazingly professional, dependable, honest and fair. He kept us focused and on budget throughout the entire project. We couldn't be happier with the result."
+    },
+    {
+      "name": "Annette M.",
+      "context": "Pool service and repair",
+      "initials": "AM",
+      "text": "They did an excellent job at a competitive price. Bill and Ethan were always available and responsive throughout the process. We'll definitely be calling them again for future work."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Fix or Remodel<br>Your Pool?",
+    "subtitle": "Call us or request a free estimate. No pressure, no contracts — just honest advice from a team that's been doing this for 44 years.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "44 years of trusted experience"
+    ]
+  },
+  "footer": {
+    "description": "Dependable pool repair and remodeling since 1982. Serving North Harris and Montgomery Counties.",
+    "service_area": "Serving The Woodlands, Spring, Magnolia, Cypress & Surrounding Areas",
+    "services": [
+      "Pool Repair",
+      "Pool Remodeling",
+      "Weekly Maintenance",
+      "Equipment Upgrades",
+      "Pool Inspections"
+    ],
+    "copyright": "&copy; 2024 Patten Pool Repair. All rights reserved. Licensed — TICL #802"
+  }
+}

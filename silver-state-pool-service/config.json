@@ -1,0 +1,183 @@
+{
+  "folder_name": "silver-state-pool-service",
+  "company_name": "Silver State Pool Service",
+  "tagline": "Experienced. Trusted. Your #1 Source for Pool Cleaning and Maintenance in Las Vegas.",
+  "phone": "+1 702-715-4449",
+  "email": "pat@silverstatepools.com",
+  "review_count": "89",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2840",
+    "secondary": "#c0c0c0",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "trust_badges": {
+    "badge_1": "CPO-Certified Technicians",
+    "badge_2": "4.7/5 from 89+ Reviews",
+    "badge_3": "Expertise.com Top 15"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 89+ Google Reviews",
+    "badge_2": "CPO-Certified Professionals",
+    "headline": "Crystal Clear Pools, <span class=\"text-secondary italic\">Complete<br>Transparency</span>",
+    "subheadline": "Every visit ends with a detailed photo report — chemical readings, timestamps, and technician notes delivered straight to your inbox. No guesswork, no surprises, just a perfect pool waiting for you in the Las Vegas heat.",
+    "cta_text": "Get Your Free Pool Assessment",
+    "checkmarks": [
+      "Detailed post-visit reports with photos",
+      "CPO-certified technicians on every job",
+      "Owner Patrick answers your calls directly"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained Weekly",
+    "stat_2_value": "11",
+    "stat_2_label": "Years in Las Vegas",
+    "stat_3_value": "89",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Report Transparency"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care for<br class=\"hidden md:block\"> Las Vegas Homeowners",
+    "subtitle": "From weekly maintenance to emergency repairs, Silver State Pool Service handles every aspect of pool ownership so you can focus on enjoying your backyard oasis year-round.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Complete weekly maintenance with detailed email reports — chemical readings, before/after photos, technician name, arrival and departure times, and every service performed."
+      },
+      {
+        "title": "Pool & Spa Repair",
+        "description": "Heaters, pumps, filters, salt systems, and spa equipment diagnosed and repaired by CPO-certified technicians. Most issues resolved on the first visit."
+      },
+      {
+        "title": "Acid Wash & Restoration",
+        "description": "Professional acid washing to strip away stains, algae buildup, and mineral deposits. We restore tired pool surfaces to their original clean, bright finish."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Expert leak identification using professional-grade equipment to pinpoint the source before it causes costly structural damage to your pool or surrounding property."
+      },
+      {
+        "title": "Chlorine-Free Treatment",
+        "description": "Alternative sanitization methods for chlorine-sensitive swimmers. Enjoy safe, gentle pool water without the harsh chemicals, red eyes, or skin irritation."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Pool turned swamp green? Our rapid-response team transforms neglected pools back to crystal clear in 48-72 hours with full chemical rebalancing."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call or Text Patrick Directly",
+        "description": "Reach the owner — not a call center. Tell us about your pool and we'll schedule a free on-site assessment within 48 hours. No pressure, no sales pitch."
+      },
+      {
+        "title": "We Service & Report",
+        "description": "Our CPO-certified technicians arrive on schedule, handle everything, then send you a detailed email report with photos, chemical readings, and timestamps."
+      },
+      {
+        "title": "Relax and Swim",
+        "description": "Your pool stays pristine week after week. You'll always know exactly what was done, and if anything needs attention, we flag it before it becomes a problem."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Las Vegas Trusts Silver State",
+    "headline": "Your Pool Guy Should Know Your Name",
+    "description": "Since 2015, Silver State Pool Service has built its reputation on something rare in this industry — complete transparency. Owner Patrick personally answers every call and text, and after every service visit you receive a detailed report with photos, chemical readings, technician info, and timestamps. We're not a faceless franchise. We're your neighbors in Northwest Las Vegas, CPO-certified, and ranked among the top 15 pool companies in the city by Expertise.com.",
+    "badge": "CPO Certified Professionals",
+    "features": [
+      {
+        "title": "Full Transparency After Every Visit",
+        "description": "You receive a detailed email report with photos, chemical readings, technician name, arrival/departure times, and any safety advisories."
+      },
+      {
+        "title": "Owner-Operated, Owner-Responsive",
+        "description": "Patrick personally answers calls and texts. No call centers, no runaround — just direct communication with the person who runs your pool service."
+      },
+      {
+        "title": "Expertise.com Top 15 Ranked",
+        "description": "The only Northwest Las Vegas pool company recognized among the 15 best in the city. Independently verified by Expertise.com."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Guesswork.",
+    "subtitle": "Every plan includes detailed post-visit reports. No contracts, no hidden fees — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Total Transparency\" Guarantee",
+    "description": "If you're ever unsatisfied with a service visit, we come back and make it right at no charge. And because every visit includes a detailed photo report with chemical readings and timestamps, you'll always have proof of the work performed. No excuses, no he-said-she-said — just honest, documented pool care."
+  },
+  "faqs": [
+    {
+      "question": "What's included in your post-visit reports?",
+      "answer": "Every report includes photos of your pool's condition, all chemical readings, the technician's name, arrival and departure times, services performed, and any safety advisories or recommendations. It's delivered to your email after each visit."
+    },
+    {
+      "question": "Do you offer chlorine-free pool treatment?",
+      "answer": "Yes! We provide alternative sanitization methods for chlorine-sensitive swimmers. These treatments keep your water safe and clear without the harsh side effects of traditional chlorine. Ask Patrick about options during your assessment."
+    },
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent situations like green pools or equipment failures, we offer priority response. Call or text Patrick directly and we'll work with your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate access and go about their day. After every visit, you'll receive a detailed email report with photos so you always know exactly what was done — even if you weren't there."
+    },
+    {
+      "question": "What areas of Las Vegas do you serve?",
+      "answer": "We primarily serve Northwest Las Vegas including Skye Canyon, Providence, Centennial, Summerlin, Lone Mountain, Elkhorn Ranch, and Silverstone Ranch. Contact us to confirm coverage for your neighborhood."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jack A.",
+      "context": "Google Review",
+      "initials": "JA",
+      "text": "Pat at Silver State Pool helped me fix my pool and spa heater over the phone. He was the most helpful person I have met in this field."
+    },
+    {
+      "name": "Carlo M.",
+      "context": "Google Review",
+      "initials": "CM",
+      "text": "First day with Silver State and most impressed with the way my pool looks and detailed report on pool chemicals."
+    },
+    {
+      "name": "Clarissa D.",
+      "context": "Weekly Service Client",
+      "initials": "CD",
+      "text": "They are not just pool guys. They care, they help solve issues and they do it rapidly. Every week I get pictures of my picture perfect clean pool."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Worry About?",
+    "subtitle": "Call or text Patrick directly for a free, no-pressure pool assessment. You'll get honest pricing and a clear plan — no sales pitch, no contracts.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Patrick responds within 24 hours",
+      "Detailed photo reports from day one"
+    ]
+  },
+  "footer": {
+    "description": "CPO-certified pool service. Proudly serving Northwest Las Vegas since 2015.",
+    "service_area": "Serving Skye Canyon, Summerlin, Centennial & Northwest Las Vegas",
+    "services": [
+      "Weekly Pool Service",
+      "Pool & Spa Repair",
+      "Acid Wash & Restoration",
+      "Leak Detection",
+      "Green-to-Clean Recovery"
+    ],
+    "copyright": "&copy; 2024 Silver State Pool Service. All rights reserved. Las Vegas, NV"
+  }
+}

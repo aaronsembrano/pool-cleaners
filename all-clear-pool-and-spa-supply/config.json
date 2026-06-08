@@ -1,0 +1,183 @@
+{
+  "folder_name": "all-clear-pool-and-spa-supply",
+  "company_name": "All Clear Pool & Spa Supply",
+  "tagline": "Experience That Shows",
+  "phone": "+1 916-686-7665",
+  "email": "graphics@shopallclear.com",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "trust_badges": {
+    "badge_1": "BioGuard Authorized Dealer",
+    "badge_2": "4.2/5 from 210+ Reviews",
+    "badge_3": "Serving Sacramento Since 1990"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 210+ Google Reviews",
+    "badge_2": "1,200+ Pools Serviced Weekly",
+    "headline": "Sacramento's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Since 1990</span>",
+    "subheadline": "With over 36 years and 1,200 pools serviced every week, All Clear Pool & Spa Supply has the experience, the team, and the retail selection to keep your pool perfect. One call handles everything — maintenance, repairs, supplies, and more.",
+    "cta_text": "Get Your Free Pool Assessment",
+    "checkmarks": [
+      "Free water testing in-store",
+      "Same-week service available",
+      "CPO-certified technicians"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1200",
+    "stat_1_label": "Pools Serviced Weekly",
+    "stat_2_value": "36",
+    "stat_2_label": "Years of Experience",
+    "stat_3_value": "210",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "In-House Technicians"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care &<br class=\"hidden md:block\"> California's Best Supply Store",
+    "subtitle": "From weekly maintenance to equipment repair to our massive retail showroom, All Clear handles every aspect of pool and spa ownership so you can focus on enjoying the water.",
+    "cards": [
+      {
+        "title": "Weekly Full-Service Maintenance",
+        "description": "Comprehensive weekly care customized to your pool — skimming, vacuuming, chemical balancing, and filter checks. Your pool stays swim-ready year-round."
+      },
+      {
+        "title": "Equipment Repair & Diagnostics",
+        "description": "Pumps, filters, heaters, salt systems, automation — our trained technicians diagnose and repair it right. Most issues resolved in a single visit."
+      },
+      {
+        "title": "Chemical Balancing & Water Testing",
+        "description": "Precise water chemistry analysis and treatment that keeps your water crystal clear, safe, and gentle on skin. Free in-store water testing available."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Full installation of energy-efficient pumps, variable-speed filters, heaters, and salt chlorine generators. Upgrade your pool system with confidence."
+      },
+      {
+        "title": "Pool & Spa Retail Store",
+        "description": "One of California's largest independent pool supply stores. Chemicals, accessories, pool toys, and everything you need — all under one roof in Elk Grove."
+      },
+      {
+        "title": "Routine Pool & Spa Cleaning",
+        "description": "Deep cleaning services including tile scrubbing, surface brushing, and thorough vacuuming to keep your pool and spa looking their absolute best."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Crystal-Clear Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool or visit our Elk Grove store. We'll assess your needs, test your water, and provide an honest quote — no pressure, no obligation."
+      },
+      {
+        "title": "Our Technicians Take Over",
+        "description": "CPO-certified, professionally trained technicians arrive on schedule. Cleaning, chemicals, equipment checks — everything handled with 36 years of expertise."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays perfectly maintained, week after week. Need supplies? Our full retail store has everything. Need repairs? We handle that too."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Sacramento Trusts All Clear",
+    "headline": "36 Years of Pool Care Expertise — Locally Managed, Professionally Staffed",
+    "description": "Founded in 1990, All Clear Pool & Spa Supply has grown into one of California's largest independently owned pool and spa operations. Based right here in Elk Grove, we service over 1,200 pools every week across the greater Sacramento area. Our trained, CPO-certified technicians combine decades of hands-on experience with genuine care for every pool they touch. As a BioGuard Authorized Dealer, we bring you the best products backed by real expertise — not just service, but a partnership you can count on.",
+    "badge": "BioGuard Authorized",
+    "features": [
+      {
+        "title": "CPO-Certified Technicians",
+        "description": "Every technician on our team holds current CPO certification and receives ongoing training to stay current on the latest pool care technology."
+      },
+      {
+        "title": "Full Retail Supply Store",
+        "description": "Our Elk Grove showroom is one of California's largest independent pool supply stores — chemicals, equipment, accessories, and expert advice all in one place."
+      },
+      {
+        "title": "1,200+ Pools Every Week",
+        "description": "With over 1,200 pools serviced weekly, our systems and processes are built for reliability. Your pool gets the same consistent, high-quality care every single visit."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Flexible plans with no long-term contracts — upgrade, adjust, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us within 24 hours and we'll send a technician back to make it right — at no additional charge. With 36 years in the business and over 1,200 pools under our care each week, our reputation depends on every single pool looking its best. We stand behind our work, period."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can I get on your service schedule?",
+      "answer": "Most new clients are scheduled within 3-5 business days. We service over 1,200 pools weekly across the Sacramento area, and our routing team will find the most efficient day for your neighborhood. Call us or visit our Elk Grove store to get started."
+    },
+    {
+      "question": "Do I need to be home when your technicians arrive?",
+      "answer": "Not at all. Most clients simply provide gate access, and our technicians handle everything. After each visit, you'll know your pool was serviced because it looks perfect — and you can always call us with questions."
+    },
+    {
+      "question": "What certifications do your technicians have?",
+      "answer": "All of our technicians are CPO (Certified Pool Operator) certified and receive ongoing training. As a BioGuard Authorized Dealer, our team is also trained on the latest BioGuard water treatment products and protocols."
+    },
+    {
+      "question": "Can I buy pool supplies from your store without a service contract?",
+      "answer": "Absolutely. Our Elk Grove retail store is open to everyone — no service contract needed. We carry a huge selection of chemicals, accessories, pool toys, and equipment. Plus, we offer free in-store water testing to help you get the right products."
+    },
+    {
+      "question": "What areas do you service around Sacramento?",
+      "answer": "We service Elk Grove, Sacramento, Greenhaven, Davis, Dixon, Winters, Woodland, Vacaville, and the surrounding greater Sacramento area. If you're unsure whether we cover your neighborhood, just give us a call."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Customer",
+      "context": "Yelp Review",
+      "initials": "LC",
+      "text": "Dependable, knowledgeable, and great customer service. They have the best selection of pool toys and accessories in the area. I've been using their services for 9 years and wouldn't go anywhere else."
+    },
+    {
+      "name": "Sacramento Homeowner",
+      "context": "Online Review",
+      "initials": "SH",
+      "text": "All Clear has taken care of our pool for years. Their technicians are professional and always thorough. The water quality has never been better since we started using them."
+    },
+    {
+      "name": "Elk Grove Resident",
+      "context": "Online Review",
+      "initials": "ER",
+      "text": "Great local pool store with staff who really know their stuff. They helped me troubleshoot a pump issue and saved me hundreds compared to what another company quoted. Highly recommend."
+    }
+  ],
+  "review_count": "210",
+  "review_rating": "4.2",
+  "contact": {
+    "headline": "Ready for Sacramento's<br>Best Pool Care?",
+    "subtitle": "Get a free, no-obligation pool assessment from a team with 36 years of experience. Visit our Elk Grove store or call today — we service 1,200+ pools weekly and we'd love to add yours.",
+    "benefits": [
+      "Free in-store water testing",
+      "Assessment within 48 hours",
+      "No contracts — ever"
+    ]
+  },
+  "footer": {
+    "description": "Sacramento's trusted pool care experts since 1990. One of California's largest independent pool supply stores.",
+    "service_area": "Serving Elk Grove, Sacramento, Davis, Woodland, Vacaville & Beyond",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Chemical Balancing",
+      "Equipment Installation",
+      "Pool & Spa Supplies"
+    ],
+    "copyright": "&copy; 2024 All Clear Pool & Spa Supply. All rights reserved. Elk Grove, CA"
+  }
+}

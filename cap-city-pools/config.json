@@ -1,0 +1,183 @@
+{
+  "folder_name": "cap-city-pools",
+  "company_name": "Cap City Pools",
+  "tagline": "Pool Maintenance Done Right",
+  "phone": "+1 916-270-4109",
+  "email": "support@capcitypools.com",
+  "review_count": "35",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1A73E8",
+    "primary_dark": "#0D47A1",
+    "primary_deeper": "#0A2E6B",
+    "secondary": "#26C6DA",
+    "cta": "#E8782A",
+    "cta_dark": "#C9621A"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified & Insured",
+    "badge_2": "4.9/5 from 35+ Reviews",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 35+ Google Reviews",
+    "badge_2": "Month-to-Month — No Contracts",
+    "headline": "Your Sacramento Pool, <span class=\"text-secondary italic\">Our Weekly<br>Commitment</span>",
+    "subheadline": "Cap City Pools is a family-owned Sacramento pool service that shows up every week like clockwork. No contracts, no surprise charges, and a detailed service report after every visit — so you always know exactly what was done.",
+    "cta_text": "Get Your Free First Month",
+    "checkmarks": [
+      "Free first month of service",
+      "No contracts or hidden fees",
+      "Service reports after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "7",
+    "stat_2_label": "Years Serving Sacramento",
+    "stat_3_value": "35",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Transparency Promise"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Reliable Pool Care Tailored to<br class=\"hidden md:block\"> Your Sacramento Home",
+    "subtitle": "From chemical balancing to full-service maintenance, Cap City Pools handles everything so you can enjoy your backyard without lifting a finger.",
+    "cards": [
+      {
+        "title": "Chemical Service",
+        "description": "Weekly chemical testing and balancing with thorough equipment checks. You receive a detailed service report emailed after every visit — total transparency."
+      },
+      {
+        "title": "Semi Full Service",
+        "description": "Everything in Chemical Service plus skimmer and cleaner bag emptying, pump basket cleaning, ongoing equipment maintenance, and tile and step brushing."
+      },
+      {
+        "title": "Full Service",
+        "description": "The complete package — all Semi Full Service features plus debris netting, energy bowl cleaning, and unlimited service calls for total peace of mind."
+      },
+      {
+        "title": "Equipment Diagnostics",
+        "description": "Pumps acting up? Heater not firing? Our CPO-certified techs diagnose problems fast and get your equipment running right — often in a single visit."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Sacramento heat can turn a pool green fast. We bring it back to crystal clear with aggressive treatment and follow-up visits until it stays clean."
+      },
+      {
+        "title": "Pool Start-Up & Winterization",
+        "description": "Seasonal opening and closing done right. We prep your pool for summer fun or winter rest so nothing gets damaged while you're not looking."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Sign Up in Minutes",
+        "description": "Tell us about your pool and choose your service level. We keep it simple — no long forms, no sales pressure, and your first month is on us."
+      },
+      {
+        "title": "We Show Up Every Week",
+        "description": "Our trained technicians arrive on your scheduled day, every week, without fail. After each visit you get a service report emailed straight to your inbox."
+      },
+      {
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Your pool stays swim-ready all season long. If something ever isn't right, one call and we're back out — no extra charge, no questions asked."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Sacramento Trusts Cap City Pools",
+    "headline": "Family-Owned, Locally Operated, Personally Invested",
+    "description": "David founded Cap City Pools in 2019 with a simple belief: pool service should be reliable, transparent, and personal. Seven years later, that same hands-on approach drives every visit. We treat every customer's pool as if it were our own — because our reputation in Sacramento depends on it. No corporate call centers, no revolving door of strangers. Just a dedicated local team that knows your pool by name.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Trained Technicians Every Visit",
+        "description": "Every tech on your property is fully trained and CPO-certified. No temps, no shortcuts — just skilled professionals who know pools inside and out."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your business every single week. Month-to-month service with zero cancellation fees — stay because you want to, not because you have to."
+      },
+      {
+        "title": "Service Reports After Every Visit",
+        "description": "You get a detailed email after each service showing exactly what was tested, adjusted, and completed. Full transparency, every time."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no cancellation fees, ever."
+  },
+  "guarantee": {
+    "headline": "Our \"Show Up or It's Free\" Guarantee",
+    "description": "We promise to show up on your scheduled service day, every single week. If we ever miss a visit without rescheduling in advance, that week's service is free. And if you're not happy with any visit, we come back and make it right at no extra charge — no questions asked. That's the Cap City Pools commitment."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can I get started with service?",
+      "answer": "Most new customers are up and running within a few days. We keep the sign-up process quick and easy — just tell us about your pool, pick your plan, and we'll schedule your first visit. Your first month is free so you can see the difference before paying a dime."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our Sacramento customers provide gate access and go about their day. After each visit, you'll receive a detailed service report via email so you always know exactly what was done — even when you're not there."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Every Cap City Pools technician is CPO-certified (Certified Pool Operator), fully trained, and insured. We're also BBB Accredited. You'll never get an untrained temp showing up at your pool."
+    },
+    {
+      "question": "What if I want to cancel?",
+      "answer": "Cancel anytime with zero fees. We don't do contracts or cancellation penalties — ever. We believe in earning your trust every week, and if we're not the right fit, parting ways should be painless."
+    },
+    {
+      "question": "What areas in Sacramento do you service?",
+      "answer": "We serve the greater Sacramento region including Carmichael, Citrus Heights, Fair Oaks, Orangevale, Rancho Cordova, Folsom, Roseville, Elk Grove, and Natomas. If you're nearby, there's a good chance we can help — just reach out."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Emma G.",
+      "context": "Weekly Service Customer",
+      "initials": "EG",
+      "text": "Cap City Pools is a consistent 10+ on a scale of five stars! Each week the technician shows up on time and equipped with supplies. They never cut corners — I couldn't be happier with the service."
+    },
+    {
+      "name": "Lindsay P.",
+      "context": "Long-term Customer",
+      "initials": "LP",
+      "text": "I've been a customer for over a year and I'm beyond impressed with their communication and professionalism. David and the team go above and beyond to keep my pool maintained properly. Highly recommend Cap City Pools!"
+    },
+    {
+      "name": "Adam E.",
+      "context": "Emergency Pump Repair",
+      "initials": "AE",
+      "text": "When our pool pump failed right before the 4th of July, David came out, assessed the problem, and got the replacement done a week early. They saved our holiday weekend — the best pool service in Sacramento."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs Itself?",
+    "subtitle": "Get a free quote and your first month free. No contracts, no pressure — just reliable pool care from a family that takes it personally.",
+    "benefits": [
+      "Free first month of pool service",
+      "Response within 24 hours",
+      "No contracts — cancel anytime"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Sacramento since 2019.",
+    "service_area": "Serving Sacramento, Carmichael, Citrus Heights, Fair Oaks & Surrounding Areas",
+    "services": [
+      "Chemical Service",
+      "Semi Full Service",
+      "Full Service",
+      "Equipment Diagnostics",
+      "Green Pool Recovery"
+    ],
+    "copyright": "&copy; 2024 Cap City Pools. All rights reserved. CPO Certified | Licensed & Insured | BBB Accredited"
+  }
+}

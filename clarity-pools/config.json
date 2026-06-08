@@ -1,0 +1,184 @@
+{
+  "folder_name": "clarity-pools",
+  "company_name": "Clarity Pool Service",
+  "tagline": "Professional Pool and Spa Service You Can Trust",
+  "phone": "(602) 903-7280",
+  "email": "jjohnson@claritypoolservice.net",
+  "logo_path": "",
+  "review_count": "14",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Bonded (ROC #322348)",
+    "badge_2": "4.8/5 from 14+ Reviews",
+    "badge_3": "Serving AZ Since 2009"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 14+ Google Reviews",
+    "badge_2": "Licensed Pool Contractor Since 2009",
+    "headline": "Your Pool Deserves an <span class=\"text-secondary italic\">Owner Who<br>Shows Up</span>",
+    "subheadline": "Josh Johnson and his 18-person crew have spent 17 years keeping Chandler pools crystal clear. From weekly maintenance to full remodels, you get transparent pricing, honest advice, and a contractor who answers his own phone.",
+    "cta_text": "Get Your Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site inspection",
+      "Parts billed at cost, zero markup",
+      "17 years in the East Valley"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "2000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "17",
+    "stat_2_label": "Years in Chandler",
+    "stat_3_value": "18",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "100%",
+    "stat_4_label": "Transparent Pricing"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\">From One Trusted Team",
+    "subtitle": "Whether your pool needs a weekly tune-up or a complete transformation, Clarity Pool Service has the crew, equipment, and 17 years of East Valley experience to handle it right the first time.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Thorough weekly cleaning, chemical balancing, and equipment checks keep your pool swim-ready all year in the Arizona heat. No contracts required."
+      },
+      {
+        "title": "Pool & Spa Repair",
+        "description": "Pumps, motors, filters, plumbing, leaks — our 18-person crew diagnoses fast and fixes right. Parts billed at cost with zero markup."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "New tile, pebble finishes, complete surface renovation. Josh personally oversees every remodel from planning to final walkthrough."
+      },
+      {
+        "title": "Salt System & Automation",
+        "description": "Saltwater chlorination and smart automation systems let you control your pool from your phone. Gentler water, easier management."
+      },
+      {
+        "title": "Tile Cleaning & Acid Wash",
+        "description": "Remove calcium buildup, stains, and algae with professional tile cleaning, drain services, and acid wash treatments."
+      },
+      {
+        "title": "Leak Detection & PVC Repair",
+        "description": "Pinpoint leaks fast with professional detection equipment, then repair PVC plumbing to stop water loss and prevent further damage."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Pool You Can Trust",
+    "steps": [
+      {
+        "title": "Call Josh Directly",
+        "description": "Tell us about your pool and what you need. Josh personally reviews every request and provides an honest, no-pressure assessment within 24 hours."
+      },
+      {
+        "title": "We Show Up and Deliver",
+        "description": "Our licensed, experienced crew arrives on schedule with the right equipment. Every service is thorough, every invoice is transparent — parts at cost, labor clearly itemized."
+      },
+      {
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Your pool stays sparkling, your equipment runs right, and you have a contractor who picks up the phone when you call. That’s the Clarity difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Chandler Trusts Clarity",
+    "headline": "Owner-Operated Means the Buck Stops with Josh",
+    "description": "Since 2009, Josh Johnson has built Clarity Pool Service on a simple principle: treat every pool like it’s your own. With a team of 18 professionals, two ROC contractor licenses, and a commitment to billing parts at cost, Clarity has become one of the most trusted names in the East Valley. We don’t do contracts because we’d rather earn your business every single visit.",
+    "badge": "ROC Licensed Contractor",
+    "features": [
+      {
+        "title": "Transparent, Fair Pricing",
+        "description": "We show you the invoice for every part — billed at our cost, not retail. No hidden fees, no surprise markups, ever."
+      },
+      {
+        "title": "18-Person Professional Crew",
+        "description": "Specialized equipment, technical expertise, and the manpower to handle anything from a filter clean to a full remodel."
+      },
+      {
+        "title": "BBB Accredited & Fully Bonded",
+        "description": "Two ROC licenses, BBB accreditation, full bonding and insurance. Your investment is protected by a contractor who plays by the book."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Prices. Honest Invoices. No Surprises.",
+    "subtitle": "Every job quoted upfront with parts at cost. No contracts, no cancellation fees — just reliable pool care you can count on."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If any service visit doesn’t meet your expectations, call Josh directly and we’ll come back to make it right at no extra charge. We’ve built our reputation on honesty and follow-through for 17 years, and we’re not about to stop now. Your satisfaction isn’t a policy — it’s a promise from the owner himself."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Clarity start servicing my pool?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For urgent repairs or green pool situations, call Josh directly at (602) 903-7280 and we'll get a crew out as fast as possible."
+    },
+    {
+      "question": "Do you really bill parts at cost with no markup?",
+      "answer": "Yes. We show you the actual supplier invoice for every part we install. Our profit comes from fair labor rates, not inflated parts prices. One customer reported saving $250 on a single repair because of this policy."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Clarity Pool Service holds two ROC contractor licenses (#322348 and #322349), is fully bonded and insured, and is a BBB Accredited Business. You can verify our credentials anytime."
+    },
+    {
+      "question": "Do I need to sign a contract for weekly service?",
+      "answer": "Never. We don't do contracts because we believe in earning your business every visit. You can adjust, pause, or cancel your service anytime with zero fees or penalties."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the entire East Valley and greater Phoenix metro including Chandler, Gilbert, Mesa, Tempe, Queen Creek, San Tan Valley, Ahwatukee, and surrounding Maricopa County communities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Yelp Reviewer",
+      "text": "Josh gets an A+ for his hands on approach, communication, listening, planning and creating this beautiful oasis. Highly recommend Clarity Pool Service for any pool remodeling project.",
+      "context": "Pool Remodeling Client",
+      "initials": "YR"
+    },
+    {
+      "name": "Yellow Pages Reviewer",
+      "text": "The owner explained they did not retail parts, showing invoices for repairs at cost, saving me $250. They also provided free service to fix a small leak that had been bothering me for over a year. Truly honest and fair.",
+      "context": "Pool Repair Client",
+      "initials": "YP"
+    },
+    {
+      "name": "Satisfied Customer",
+      "text": "Josh is amazing, reliable and honest. I cannot recommend their service enough. Awesome, cheap, and prompt — definitely the best in Chandler.",
+      "context": "Weekly Maintenance Client",
+      "initials": "SC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool Pro Who<br>Actually Picks Up the Phone?",
+    "subtitle": "Call Josh directly or request a free assessment online. No contracts, no pressure — just honest pricing from a contractor who’s been doing this for 17 years.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Same-week response guaranteed",
+      "Parts at cost — zero markup"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated pool service. Serving the East Valley since 2009.",
+    "service_area": "Serving Chandler, Gilbert, Mesa, Tempe & the East Valley",
+    "services": [
+      "Weekly Maintenance",
+      "Pool & Spa Repair",
+      "Pool Remodeling",
+      "Salt Systems & Automation",
+      "Leak Detection"
+    ],
+    "copyright": "&copy; 2024 Clarity Pool Service. All rights reserved. ROC #322348 / #322349"
+  }
+}

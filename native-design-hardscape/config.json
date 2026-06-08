@@ -1,0 +1,183 @@
+{
+  "folder_name": "native-design-hardscape",
+  "company_name": "Native Design & Hardscape",
+  "tagline": "Your Vision. Our Expertise. Complete Outdoor Transformations.",
+  "phone": "+1 865-310-3256",
+  "email": "jacob@nativetn.com",
+  "review_count": "85",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3D1A",
+    "primary_deeper": "#132910",
+    "secondary": "#C4A356",
+    "cta": "#C4A356",
+    "cta_dark": "#A8893D"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed General Contractor",
+    "badge_2": "4.5/5 from 85+ Reviews",
+    "badge_3": "100% In-House Crews"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 85+ Google Reviews",
+    "badge_2": "Zero Subcontractors — Ever",
+    "headline": "Built by One Crew. <span class=\"text-secondary italic\">Start to<br>Finish.</span>",
+    "subheadline": "Your outdoor space deserves more than a patchwork of subcontractors. Native Design & Hardscape handles every phase in-house — from 3D design renderings to the final stone set — so your vision comes to life exactly as planned. Over 20 years serving Knoxville and East Tennessee.",
+    "cta_text": "Start Your Outdoor Transformation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "Full 3D renderings before we break ground",
+      "20+ years in East Tennessee"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in East TN",
+    "stat_3_value": "0",
+    "stat_3_label": "Subcontractors Used",
+    "stat_4_value": "100%",
+    "stat_4_label": "In-House Built"
+  },
+  "services": {
+    "label": "Our Craft",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Designed & Built In-House",
+    "subtitle": "From pools and patios to retaining walls and landscape lighting — one crew handles it all. No middlemen, no miscommunication, just meticulous craftsmanship from start to finish.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "Gunite and fiberglass pool builds designed around your property and lifestyle. Full remodeling and resurfacing for existing pools that need a second life."
+      },
+      {
+        "title": "Hardscape & Retaining Walls",
+        "description": "Durable stone retaining walls, walkways, and structural hardscape elements engineered to handle East Tennessee terrain and weather year after year."
+      },
+      {
+        "title": "Landscape Design & Build",
+        "description": "Professional planting plans with 2D and 3D renderings so you see your yard transformed before we plant a single shrub. Full installation by our crew."
+      },
+      {
+        "title": "Paver Patios & Driveways",
+        "description": "Premium permeable paver installations with proper drainage engineering. Built for durability and finished with the detail your property deserves."
+      },
+      {
+        "title": "Water Features & Waterfalls",
+        "description": "Custom-built natural waterfalls, koi ponds, and fountain features that bring movement, sound, and tranquility to your outdoor space."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Heavy timber pavilions, custom outdoor kitchens, fire pits, and fireplaces — complete entertaining spaces built to gather around for years."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Your Vision to Your Backyard",
+    "steps": [
+      {
+        "title": "On-Site Design Consultation",
+        "description": "We walk your property together, listen to your vision, and assess the site. Within days you receive detailed 2D plans and realistic 3D renderings — so you see exactly what we'll build before a single shovel hits the ground."
+      },
+      {
+        "title": "Our Crew Builds It — All of It",
+        "description": "No subcontractors, no hand-offs, no surprises. Our own trained crew handles excavation, stonework, planting, lighting, and every detail in between. One team, one standard of quality."
+      },
+      {
+        "title": "Enjoy Your Outdoor Space",
+        "description": "Your finished space is built to last through East Tennessee seasons. We walk you through every feature, answer every question, and stand behind our work long after the last stone is set."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why East Tennessee Trusts Us",
+    "headline": "One Crew. Zero Subcontractors. Every Detail Ours.",
+    "description": "Native Design & Hardscape has been transforming outdoor spaces across Knoxville and East Tennessee for over 20 years. Owner Jacob and his dedicated in-house crew handle every project from initial design through final construction — no subcontractors, no disconnects, no finger-pointing. We use vetted local suppliers, build for the East Tennessee climate, and communicate transparently at every step. When you hire Native, you get the team that actually does the work.",
+    "badge": "ICPI Certified",
+    "features": [
+      {
+        "title": "100% In-House Crews",
+        "description": "Every worker on your project is a Native employee. No random subcontractors, no strangers in your yard. One accountable team from day one."
+      },
+      {
+        "title": "3D Renderings Before We Build",
+        "description": "See your finished project in photorealistic detail before construction starts. No guesswork, no surprises — what you approve is what we build."
+      },
+      {
+        "title": "Built for East Tennessee",
+        "description": "We design and construct for our local climate — proper drainage, freeze-thaw-resistant materials, and native plantings that thrive here year-round."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprise Change Orders.",
+    "subtitle": "Every project gets a detailed scope and fixed quote upfront. We walk you through every line item so you know exactly what you're investing in."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any element of your project doesn't match the approved design or meet our quality standards, we fix it at our expense — period. We also back our hardscape and structural work with a multi-year craftsmanship warranty because we build it to last, not just to look good on completion day."
+  },
+  "faqs": [
+    {
+      "question": "How far out are you booking projects?",
+      "answer": "Our schedule typically books 4-8 weeks out depending on project scope. We recommend reaching out early in your planning process so we can get your design consultation on the calendar. Smaller projects like lighting or irrigation may have shorter lead times."
+    },
+    {
+      "question": "Do you really use zero subcontractors?",
+      "answer": "Yes — every single person working on your property is a Native employee. We've built our team this way intentionally so we can control quality, maintain accountability, and deliver a consistent experience on every project."
+    },
+    {
+      "question": "What does the design process look like?",
+      "answer": "We start with an on-site consultation to understand your vision and assess the property. From there, we create detailed 2D plans and photorealistic 3D renderings. You review, we refine, and nothing gets built until you're completely happy with the design."
+    },
+    {
+      "question": "Do you handle permits and HOA approvals?",
+      "answer": "Absolutely. As a licensed general contractor in Tennessee, we manage the full permitting process. We also prepare documentation for HOA submissions when needed, including detailed site plans and material specifications."
+    },
+    {
+      "question": "What areas do you serve around Knoxville?",
+      "answer": "We serve homeowners within about 30 minutes of our base in Louisville, TN. That includes Knoxville, Farragut, Maryville, Oak Ridge, Lenoir City, Seymour, Alcoa, Jefferson City, and surrounding East Tennessee Valley communities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mark T.",
+      "context": "Landscape Design & Installation",
+      "initials": "MT",
+      "text": "Service was performed on time, efficiently, and clean up was excellent. The employees are friendly and the work was professional and effective. The design was responsive to our requests and interests."
+    },
+    {
+      "name": "Sarah H.",
+      "context": "Ongoing Landscape Maintenance",
+      "initials": "SH",
+      "text": "Jacob is genuinely interested in his customers and keeping their yard looking well attended. They did our original design work and continue to provide maintenance services twice a year. Highly recommend Native for any outdoor project."
+    },
+    {
+      "name": "David R.",
+      "context": "Hardscape & Lighting Project",
+      "initials": "DR",
+      "text": "The team at Native transformed our entire backyard with a new patio, retaining wall, and landscape lighting. Their attention to detail is unmatched and the 3D rendering they provided before construction was exactly what we got. Couldn't be happier."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Schedule a free on-site design consultation. We'll walk your property, discuss your vision, and show you what's possible — no pressure, no obligation.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed 3D renderings included",
+      "100% in-house crew guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Design-build outdoor living. Serving Knoxville & East Tennessee for 20+ years.",
+    "service_area": "Serving Knoxville, Farragut, Maryville & East Tennessee",
+    "services": [
+      "Pool Construction",
+      "Hardscape & Walls",
+      "Landscape Design",
+      "Outdoor Kitchens",
+      "Water Features"
+    ],
+    "copyright": "&copy; 2024 Native Design & Hardscape. All rights reserved. Licensed General Contractor — Tennessee"
+  }
+}

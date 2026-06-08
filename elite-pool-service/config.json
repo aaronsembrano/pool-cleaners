@@ -1,0 +1,183 @@
+{
+  "folder_name": "elite-pool-service",
+  "company_name": "Elite Pool Service",
+  "tagline": "Clean, Clear, Stress-Free Pool Service",
+  "phone": "+1 918-893-3893",
+  "email": "zach@elitepoolservice.co",
+  "review_count": "45",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#142942",
+    "primary_deeper": "#0D1C2E",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified Technicians",
+    "badge_2": "5.0/5 from 45+ Reviews",
+    "badge_3": "Family-Owned & Operated"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 45+ Google Reviews",
+    "badge_2": "CPO Certified Team",
+    "headline": "No Shortcuts. No Skipped Steps. <span class=\"text-secondary italic\">Just a<br>Perfect Pool.</span>",
+    "subheadline": "Elite Pool Service takes the guesswork out of pool ownership. Every visit includes thorough cleaning, precise chemical balancing, and a detailed report sent straight to your phone — so you always know exactly what's happening with your pool.",
+    "cta_text": "Get Your Pool Dialed In",
+    "checkmarks": [
+      "Detailed reports after every visit",
+      "Text alerts when we're on the way",
+      "No contracts — ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "45",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "7",
+    "stat_2_label": "Years Serving Clay County",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Pool Care Done Right,<br class=\"hidden md:block\"> Every Single Visit",
+    "subtitle": "From weekly cleaning to emergency green pool rescues, we handle every detail so you can enjoy a swim-ready pool without lifting a finger.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Surface skimming, vacuuming, wall and tile brushing, basket emptying, and debris removal — every step, every visit, no shortcuts."
+      },
+      {
+        "title": "Chemical Balancing & Testing",
+        "description": "Professional water chemistry testing and precise balancing every visit, with a detailed chemical report sent straight to your phone afterward."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Neglected pool turned swamp green? We'll transform it back to crystal-clear blue — often in a single visit. Fast response, guaranteed results."
+      },
+      {
+        "title": "Filter Maintenance",
+        "description": "Cartridge cleaning, DE filter servicing, and sand filter maintenance to keep your filtration running at peak performance all year long."
+      },
+      {
+        "title": "Salt Cell Inspection",
+        "description": "Thorough inspection and cleaning of salt water chlorination cells to maintain proper chlorine generation and extend your equipment's lifespan."
+      },
+      {
+        "title": "Equipment Repair & Alerts",
+        "description": "Pumps, filters, heaters, and automation systems diagnosed and repaired. We proactively alert you to issues before they become expensive problems."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Reach out for a free, no-pressure quote. We'll ask a few quick questions about your pool setup and have a custom plan ready within 24 hours."
+      },
+      {
+        "title": "We Show Up & Handle It All",
+        "description": "Our CPO-certified team arrives on schedule — you'll get a text when we're on the way. Every visit covers cleaning, chemicals, equipment checks, and a full report."
+      },
+      {
+        "title": "Dive In, Stress-Free",
+        "description": "Your pool stays crystal clear and swim-ready every day. Check your service reports, enjoy the water, and never worry about pool care again."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clay County Trusts Us",
+    "headline": "Family-Owned, CPO Certified, and Obsessed with Getting It Right",
+    "description": "Elite Pool Service was built on a simple promise: do the job right every time, no exceptions. As a family-owned company serving Clay County since 2019, we take a hands-on, no-shortcuts approach to every pool we touch. Our CPO-certified technicians are trained in-house, and every visit includes detailed chemical reporting and proactive equipment alerts — because we believe you deserve to know exactly what's happening with your pool.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Detailed Service Reports",
+        "description": "After every single visit, you receive a complete chemical report and service summary. Full transparency, zero guesswork."
+      },
+      {
+        "title": "Proactive Equipment Alerts",
+        "description": "We catch pump, filter, and heater issues during routine service and alert you before they become costly breakdowns."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your trust every visit. No long-term commitments, no cancellation fees, no fine print. Just great pool service."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose a plan that fits your pool. No contracts, no hidden fees — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"No Shortcuts\" Guarantee",
+    "description": "If you're ever not satisfied with a service visit, we'll come back and redo it at no charge — no questions asked. Every visit follows our full checklist, every chemical reading is documented, and every detail is reported to you. That's the Elite standard, and we stand behind it 100%."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients in Clay County are on the schedule within 3-5 business days. For green pool emergencies, we offer same-day or next-day response — just give us a call."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and go about their day. After every visit, you'll receive a detailed service report and chemical summary so you know exactly what was done."
+    },
+    {
+      "question": "What happens after each visit?",
+      "answer": "You'll receive a text notification when our technician is on the way, and a full chemical report after the visit is complete. We believe in total transparency — you'll always know what was added and why."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our team is CPO certified (Certified Pool Operator) and trained through our hands-on in-house program. Every technician follows our no-shortcuts checklist on every visit."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Fleming Island, Orange Park, Middleburg, Green Cove Springs, and all of Clay County, Florida. If you're nearby and not sure, just ask — we're happy to check."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Peg G.",
+      "text": "Elite Pools took my green pool to blue in less than four hours. I left home and came back a few hours later and it was blue. I only wish I had hired them in the beginning of summer.",
+      "context": "Green-to-clean service",
+      "initials": "PG"
+    },
+    {
+      "name": "Ben H.",
+      "text": "Elite Pool Service is definitely the best pool service around. These folks have a high standard of pool care and it shows in their work. We always get so many compliments on the pool. Zach has been great from the start and does a very good job cleaning our pool.",
+      "context": "Weekly maintenance",
+      "initials": "BH"
+    },
+    {
+      "name": "Greystone K.",
+      "text": "Elite Pool has done a great job with my pool cleaning and maintenance. They alert me to any problems with equipment and their reporting gives me a clear picture of what they added to the pool.",
+      "context": "Ongoing pool maintenance",
+      "initials": "GK"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure quote within 24 hours. No contracts, no commitments — just honest pricing from a family-owned team that does the job right.",
+    "benefits": [
+      "Free pool assessment with every quote",
+      "Detailed chemical reports after every visit",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Clay County, FL since 2019.",
+    "service_area": "Serving Fleming Island, Orange Park, Middleburg & Clay County",
+    "services": [
+      "Weekly Cleaning",
+      "Chemical Balancing",
+      "Green Pool Recovery",
+      "Filter Maintenance",
+      "Equipment Repair"
+    ],
+    "copyright": "&copy; 2024 Elite Pool Service. All rights reserved. CPO Certified — Clay County, FL"
+  }
+}

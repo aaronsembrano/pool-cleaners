@@ -1,0 +1,184 @@
+{
+  "folder_name": "buddenbaum-moore",
+  "company_name": "Buddenbaum & Moore",
+  "tagline": "Commercial Pool Experts — Indiana & Northern Kentucky",
+  "phone": "+1 317-214-7443",
+  "email": "bill@buddenbaummoore.com",
+  "logo_path": "",
+  "review_count": "12",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#003366",
+    "primary_dark": "#002244",
+    "primary_deeper": "#001a33",
+    "secondary": "#1a5c8a",
+    "cta": "#f0a500",
+    "cta_dark": "#d4920a"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited — A+ Rating",
+    "badge_2": "4.8/5 from 12+ Reviews",
+    "badge_3": "100+ Years Combined Experience"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 12+ Google Reviews",
+    "badge_2": "BBB A+ Accredited",
+    "headline": "300+ Commercial Pools <span class=\"text-secondary italic\">Built, Renovated<br>& Maintained</span>",
+    "subheadline": "With over 100 years of combined experience, Buddenbaum & Moore is Indiana's trusted partner for commercial pool construction, renovation, and maintenance. We handle the mechanical rooms so you can focus on your facility.",
+    "cta_text": "Request a Commercial Quote",
+    "checkmarks": [
+      "Free facility assessment",
+      "Full-service commercial solutions",
+      "BBB A+ rated since 2023"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "300",
+    "stat_1_label": "Pools Built & Renovated",
+    "stat_2_value": "100",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "6",
+    "stat_3_label": "Authorized Brand Partners",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Commercial Services",
+    "headline": "Full-Service Commercial Pool<br class=\"hidden md:block\"> Solutions Under One Roof",
+    "subtitle": "From new construction to daily maintenance, we keep commercial aquatic facilities running at peak performance across Indiana and Northern Kentucky.",
+    "cards": [
+      {
+        "title": "Commercial Pool Maintenance",
+        "description": "Filtration, chemical control, treatment systems, pumps, VFDs, chlorine systems, UV treatment, CO2 systems, and complete mechanical room services to keep your facility compliant and running."
+      },
+      {
+        "title": "New Pool Construction",
+        "description": "Competition pools, leisure pools, splash pads, lazy rivers, and feature pools — custom designed and built on schedule. You dream it, we create it."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Stainless steel gutter systems, structural repair, filter and mechanical room updates, and pool finish upgrades that extend the life of your investment."
+      },
+      {
+        "title": "Equipment Sales & Distribution",
+        "description": "Authorized distributor for Accu-Tab, ProMinent, Neptune Benson, Pentair, Coates, Lochinvar, and SR Smith. We source and install the right equipment for your facility."
+      },
+      {
+        "title": "Mechanical Room Services",
+        "description": "Complete design, installation, and servicing of commercial pool mechanical rooms — pumps, heaters, filtration, and chemical feed systems engineered for reliability."
+      },
+      {
+        "title": "Design-Build Projects",
+        "description": "Turnkey aquatic facility development from concept through completion. Our team manages every phase so your project stays on time and on budget."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How We Partner With Your Facility",
+    "steps": [
+      {
+        "title": "Schedule a Facility Assessment",
+        "description": "Contact us to discuss your commercial pool needs. We'll evaluate your facility, review your equipment, and provide a detailed scope of work — no obligation."
+      },
+      {
+        "title": "We Deliver the Solution",
+        "description": "Our experienced team handles everything from construction and renovation to ongoing maintenance. We bring 100+ years of combined expertise to every project."
+      },
+      {
+        "title": "Your Facility Runs Flawlessly",
+        "description": "With Buddenbaum & Moore as your partner, your aquatic facility stays compliant, safe, and operating at peak efficiency — so you can focus on your guests and members."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Facilities Trust Us",
+    "headline": "Indiana's Commercial Pool Authority Since 2014",
+    "description": "Buddenbaum & Moore, LLC was founded with a clear mission: deliver professional, high-quality commercial pool services that facility managers can depend on. With over 300 commercial pools built or renovated and 100+ years of combined experience across our team, we've earned the trust of municipalities, recreation centers, hotels, and aquatic facilities throughout Indiana and Northern Kentucky.",
+    "badge": "BBB A+ Accredited",
+    "features": [
+      {
+        "title": "Authorized Equipment Distributors",
+        "description": "We're factory-authorized for Accu-Tab, ProMinent, Neptune Benson, Pentair, Coates, Lochinvar, and SR Smith — ensuring you get genuine parts and expert installation."
+      },
+      {
+        "title": "Commercial-Only Specialists",
+        "description": "We focus exclusively on commercial pools. No residential distractions — just deep expertise in the systems, codes, and standards that commercial facilities demand."
+      },
+      {
+        "title": "On-Time Construction Guarantee",
+        "description": "We stake our reputation on meeting construction deadlines. With 300+ projects completed, our track record speaks for itself."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Commercial Pricing.",
+    "subtitle": "Every facility is different. Contact us for a custom proposal tailored to your pool size, equipment, and service needs — no hidden fees, no surprises."
+  },
+  "guarantee": {
+    "headline": "Our Commercial Commitment",
+    "description": "We build long-term relationships, not one-time transactions. If any service or installation doesn't meet your expectations, we'll return and make it right at no additional cost. With an A+ BBB rating and 300+ completed projects, our word is our bond."
+  },
+  "faqs": [
+    {
+      "question": "What types of commercial pools do you service?",
+      "answer": "We service all commercial aquatic facilities including municipal pools, recreation centers, hotels, waterparks, fitness centers, HOA pools, and competition venues across Indiana and Northern Kentucky."
+    },
+    {
+      "question": "Are you authorized to sell and install major brand equipment?",
+      "answer": "Yes. We are factory-authorized distributors for Accu-Tab, ProMinent Fluid Systems, Neptune Benson, Pentair Pool Products, Coates, Lochinvar, and SR Smith. This means genuine parts, factory training, and warranty-backed installations."
+    },
+    {
+      "question": "How long does a typical commercial pool construction project take?",
+      "answer": "Timelines vary by scope, but most commercial pool construction projects range from 4 to 12 months. We pride ourselves on meeting deadlines — with 300+ projects completed, on-time delivery is a core part of our reputation."
+    },
+    {
+      "question": "Do you handle ongoing maintenance after construction?",
+      "answer": "Absolutely. We offer comprehensive maintenance programs covering filtration, chemical control, pump systems, UV treatment, CO2 systems, and full mechanical room services. Many of our construction clients transition to long-term maintenance partnerships."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve commercial facilities throughout Indiana and Northern Kentucky, with our headquarters in Noblesville, Indiana. For large-scale projects, we've traveled across the broader region as well."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Municipal Aquatics Director",
+      "context": "Pool complex maintenance & renovation",
+      "initials": "MA",
+      "text": "Buddenbaum & Moore has been our go-to partner for commercial pool maintenance and renovations. Their expertise and professionalism are unmatched in the Indiana market."
+    },
+    {
+      "name": "Recreation Center Manager",
+      "context": "New competition pool construction",
+      "initials": "RC",
+      "text": "The team delivered our new competition pool on schedule and within budget. Their combined experience really shows in the quality of their construction work."
+    },
+    {
+      "name": "Hotel Property Manager",
+      "context": "Commercial equipment & maintenance",
+      "initials": "HP",
+      "text": "We trust Buddenbaum & Moore with all our pool equipment needs. Their knowledge of commercial systems and prompt service keeps our facility running smoothly year-round."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Elevate Your<br>Aquatic Facility?",
+    "subtitle": "Get a detailed proposal for your commercial pool project. Whether it's new construction, renovation, or ongoing maintenance — we'll scope it right the first time.",
+    "benefits": [
+      "Free facility assessment with every proposal",
+      "Detailed scope of work within 48 hours",
+      "100+ years combined experience behind every project"
+    ]
+  },
+  "footer": {
+    "description": "Commercial pool experts serving Indiana and Northern Kentucky since 2014.",
+    "service_area": "Serving Indiana & Northern Kentucky",
+    "services": [
+      "Commercial Maintenance",
+      "New Construction",
+      "Pool Renovations",
+      "Equipment Sales",
+      "Design-Build Projects"
+    ],
+    "copyright": "&copy; 2024 Buddenbaum & Moore, LLC. All rights reserved. Noblesville, Indiana."
+  }
+}
