@@ -1,0 +1,183 @@
+{
+  "folder_name": "accurate-pool-spa",
+  "company_name": "Accurate Pool & Spa Services",
+  "tagline": "The Art of Swimming Pools and Spas",
+  "phone": "+1 920-988-1157",
+  "email": "paul@accuratepoolspas.com",
+  "review_count": "11",
+  "review_rating": "3.7",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#113854",
+    "primary_deeper": "#0b2638",
+    "secondary": "#2e86c1",
+    "cta": "#e67e22",
+    "cta_dark": "#ca6a10"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "Family-Owned Since 1998",
+    "badge_3": "Serving SE Wisconsin"
+  },
+  "hero": {
+    "badge_1": "Family-Owned & Trusted Since 1998",
+    "badge_2": "28 Years of Hands-On Experience",
+    "headline": "Your Dream Pool, Built <span class=\"text-secondary italic\">One Family<br>at a Time</span>",
+    "subheadline": "For 28 years, Paul and the Accurate Pool team have built custom pools and spas across Southeastern Wisconsin -- one project at a time, with the care your family deserves. No assembly lines, no shortcuts. Just honest craftsmanship from people who treat your backyard like their own.",
+    "cta_text": "Start Your Pool Project",
+    "checkmarks": [
+      "Free on-site consultation",
+      "Custom builds at competitive prices",
+      "Financing options available"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "28",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "100",
+    "stat_3_label": "Referral-Based Clients",
+    "stat_4_value": "1",
+    "stat_4_label": "Project at a Time"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Full-Service Pool & Spa Solutions<br class=\"hidden md:block\"> for Southeast Wisconsin",
+    "subtitle": "From custom pool construction to liner replacements and spa installations, Accurate Pool & Spa handles every detail so you can focus on enjoying your backyard.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "In-ground pools designed around your property, lifestyle, and budget. We use proven construction techniques and the best equipment to build pools that last decades."
+      },
+      {
+        "title": "Hot Tubs & Swim Spas",
+        "description": "Sales, installation, and servicing of name-brand spas and swim spas. Extend your backyard season year-round with a luxury spa built for Wisconsin weather."
+      },
+      {
+        "title": "Pool Liner Replacement",
+        "description": "Worn, faded, or damaged liner? We replace it with precision fitting and quality materials, restoring your pool's look and preventing costly leaks."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Pumps, filters, heaters, and automation systems replaced and upgraded for better performance and energy savings. Most upgrades completed in a single visit."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Transform an outdated pool into a modern backyard centerpiece. New finishes, water features, lighting, and layouts that bring your vision to life."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Custom patios, outdoor kitchens, fire features, and poolside structures designed to create your perfect backyard entertainment area."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How Your Pool Project Comes to Life",
+    "steps": [
+      {
+        "title": "Free Consultation with Paul",
+        "description": "Call or visit our Watertown showroom. Paul will personally discuss your vision, walk through options, and provide an honest quote tailored to your property and budget."
+      },
+      {
+        "title": "Custom Design & Build",
+        "description": "We dedicate our full attention to your project -- no juggling dozens of jobs at once. Every detail is handled with the precision that 28 years of experience brings."
+      },
+      {
+        "title": "Dive Into Your New Pool",
+        "description": "Your backyard is transformed. We walk you through everything you need to know about maintenance, supplies, and care -- and we're always just a phone call away."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Wisconsin Families Choose Us",
+    "headline": "A Family Business That Treats Every Pool Like Our Own",
+    "description": "Since 1998, Accurate Pool & Spa has been building and servicing pools across Watertown, Lake Country, and Southeastern Wisconsin. Owner Paul works directly with every client -- no salespeople, no middlemen. Our business has grown almost entirely through referrals, because when you do quality work at fair prices and actually answer the phone on weekends, people tell their neighbors. We focus on one project at a time so nothing gets rushed and every detail is right.",
+    "badge": "Licensed Pool Contractor",
+    "features": [
+      {
+        "title": "One Project at a Time",
+        "description": "We don't juggle dozens of builds. Your pool gets our full attention from groundbreaking to final walkthrough."
+      },
+      {
+        "title": "Owner-Direct Communication",
+        "description": "You work with Paul personally -- not a call center. Evenings, weekends, he's available when you need answers."
+      },
+      {
+        "title": "Referral-Built Reputation",
+        "description": "Most of our clients come from word-of-mouth. That's the kind of trust you earn by doing the job right, every time."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed, transparent quote. Competitive pricing with financing options available -- no hidden fees, no bait-and-switch."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Promise",
+    "description": "We stand behind every pool we build and every repair we make. If something isn't right, Paul will personally make sure it gets fixed -- no runaround, no excuses. That's the advantage of working with a family business that has been here for 28 years and isn't going anywhere."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a new pool?",
+      "answer": "Most in-ground pool builds take 4-8 weeks depending on the design, permits, and weather. Because we focus on one project at a time, there are no delays from juggling other jobs. Paul will give you a realistic timeline during your free consultation."
+    },
+    {
+      "question": "Do you service pools you didn't build?",
+      "answer": "Absolutely. We service, repair, and upgrade all types of in-ground pools regardless of who built them. Liner replacements, equipment upgrades, remodeling -- we handle it all across Southeastern Wisconsin."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We're based in Watertown and serve Lake Country, Oconomowoc, Waukesha, Jefferson County, and the broader Southeastern Wisconsin region. If you're within driving distance, give us a call -- we've traveled for the right project."
+    },
+    {
+      "question": "Do you offer financing for new pools?",
+      "answer": "Yes, we offer financing assistance to help make your dream pool affordable. Paul will walk you through the options during your consultation so you can find a payment plan that fits your budget."
+    },
+    {
+      "question": "Can I visit your showroom to see spas?",
+      "answer": "Yes! Our Watertown location has hot tubs and swim spas on display from quality name-brand manufacturers. Stop by to see them in person, or call ahead to schedule a time with Paul for a personal walkthrough."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Leah W.",
+      "context": "Pool Installation & Supplies",
+      "initials": "LW",
+      "text": "Paul was wonderful in helping us out. He answered my millions of questions, made sure we had the supplies and preplanning we needed, and made himself available during weekends and evenings. We will be making the drive to Watertown for all of our pool needs."
+    },
+    {
+      "name": "Chris B.",
+      "context": "Pool Construction",
+      "initials": "CB",
+      "text": "Our pool looks great, and they made it happen before Memorial Day! The whole process was smooth and Paul kept us in the loop every step of the way. Couldn't be happier with how it turned out."
+    },
+    {
+      "name": "Trent N.",
+      "context": "Ongoing Pool Service",
+      "initials": "TN",
+      "text": "Paul's always great to work with and he always fits us in his busy schedule. You can tell this is a family business that actually cares about their customers. Wouldn't go anywhere else."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Perfect Backyard?",
+    "subtitle": "Talk directly with Paul about your pool or spa project. Free consultations, honest quotes, and 28 years of experience behind every recommendation.",
+    "benefits": [
+      "Free on-site consultation and quote",
+      "Direct access to owner Paul",
+      "28 years of pool building experience"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & spa contractor serving Southeastern Wisconsin since 1998.",
+    "service_area": "Serving Watertown, Lake Country & SE Wisconsin",
+    "services": [
+      "Pool Construction",
+      "Hot Tubs & Spas",
+      "Liner Replacement",
+      "Pool Remodeling",
+      "Outdoor Living"
+    ],
+    "copyright": "&copy; 2026 Accurate Pool & Spa Services, LLC. All rights reserved. Watertown, WI — Licensed Swimming Pool Contractor"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "folder_name": "the-pool-doctor",
+  "company_name": "The Pool Doctor",
+  "tagline": "Alameda and Contra Costa County's Premier Family-Owned Pool Service",
+  "phone": "+1 925-854-2173",
+  "email": "gary@thepooldoctors.com",
+  "review_count": "113",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#0072CE",
+    "primary_dark": "#004A8F",
+    "primary_deeper": "#003366",
+    "secondary": "#00AEEF",
+    "cta": "#E87722",
+    "cta_dark": "#C9631A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Contractor #973365",
+    "badge_2": "4.7/5 from 113+ Reviews",
+    "badge_3": "Diamond Certified 22 Years"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 113+ Google Reviews",
+    "badge_2": "Diamond Certified Since 2005",
+    "headline": "70 Years of Pools Done <span class=\"text-secondary italic\">Right the<br>First Time</span>",
+    "subheadline": "Since 1956, Bay Area families have trusted The Pool Doctor to keep their pools pristine, safe, and energy-efficient. With Diamond Certified quality and SSI Certified divers on staff, we handle everything so you just dive in.",
+    "cta_text": "Schedule Your Free Pool Evaluation",
+    "checkmarks": [
+      "Free pool evaluation",
+      "Diamond Certified since 2005",
+      "No-drain underwater repairs"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1956",
+    "stat_2_value": "70",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "120",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "22 Yrs",
+    "stat_4_label": "Diamond Certified"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care From the<br class=\"hidden md:block\"> Bay Area's Most Trusted Team",
+    "subtitle": "From weekly maintenance to underwater repairs, our technicians bring decades of hands-on expertise to every pool we touch. Customized service schedules, energy-saving upgrades, and the Bay Area's only SSI Certified dive team for pool repairs.",
+    "cards": [
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Customized weekly or bi-weekly service including skimming, vacuuming, chemical balancing, and filter care. Every visit tailored to your pool's specific needs and conditions."
+      },
+      {
+        "title": "Pool & Spa Repairs",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, valves, and plumbing. Over 120 years of combined team experience means we fix it right the first time."
+      },
+      {
+        "title": "Underwater Dive Repairs",
+        "description": "SSI Certified divers perform repairs below the waterline without draining your pool. Save thousands in water costs and get back to swimming faster."
+      },
+      {
+        "title": "Energy-Efficient Upgrades",
+        "description": "Energy Star certified equipment upgrades for pumps, heaters, and filtration. Our clients see up to 90% reduction in pool operating costs."
+      },
+      {
+        "title": "Pool & Spa Automation",
+        "description": "Automated chemical control and smart pool systems for hands-free water management. Monitor and control your pool from your phone."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Specialized service for HOAs, fitness centers, and commercial properties. Full compliance with government regulations and health code requirements."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Evaluation",
+        "description": "Call us or fill out the form below. We'll inspect your pool, assess its condition, and provide an honest recommendation with transparent pricing — no pressure, no obligations."
+      },
+      {
+        "title": "We Create Your Custom Plan",
+        "description": "Every pool is different. Our experienced technicians design a service schedule around your pool's unique needs, whether that's weekly maintenance, equipment upgrades, or a one-time repair."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "With 70 years of expertise behind every visit, your pool stays crystal clear and swim-ready year-round. Diamond Certified quality means if you're ever not satisfied, we make it right."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Bay Area Families Choose Us",
+    "headline": "Family-Owned Since 1956 — Three Generations of Pool Expertise",
+    "description": "Gary and Kelly Heath carry on a tradition of pool care excellence that began nearly 70 years ago. Our team of seasoned technicians brings over 120 years of combined experience and receives continuous training on the latest products and repair techniques. We're Diamond Certified for 22 consecutive years because we treat every pool like it's our own.",
+    "badge": "Diamond Certified",
+    "features": [
+      {
+        "title": "SSI Certified Dive Team",
+        "description": "Our certified divers perform underwater repairs without draining — saving you time, water, and thousands in refill costs."
+      },
+      {
+        "title": "22 Years Diamond Certified",
+        "description": "Rated highest in quality by the independent Diamond Certified organization every year since 2005. That's trust you can verify."
+      },
+      {
+        "title": "Up to 90% Energy Savings",
+        "description": "We specialize in Energy Star certified equipment upgrades that dramatically cut your pool's operating costs while improving performance."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is unique, so we provide custom quotes after a free evaluation. Fair pricing, honest recommendations, and no hidden fees — that's the Pool Doctor way."
+  },
+  "guarantee": {
+    "headline": "Our \"Diamond Standard\" Guarantee",
+    "description": "We've been Diamond Certified for 22 consecutive years because we stand behind every service call. If you're not completely satisfied with any visit, we'll return and make it right at no additional charge. With 70 years of reputation on the line, your satisfaction isn't just a promise — it's our legacy."
+  },
+  "faqs": [
+    {
+      "question": "How long has The Pool Doctor been in business?",
+      "answer": "We were founded in 1956, making us one of the longest-operating pool service companies in the Bay Area. Gary and Kelly Heath continue the tradition of excellence with a team that has over 120 years of combined industry experience."
+    },
+    {
+      "question": "What does Diamond Certified mean?",
+      "answer": "Diamond Certified is an independent rating organization that surveys real customers to identify top-rated companies. The Pool Doctor has earned this distinction for 22 consecutive years — meaning our customers consistently rate us highest in quality and helpful expertise."
+    },
+    {
+      "question": "Can you repair my pool without draining it?",
+      "answer": "Yes! We have SSI Certified divers on staff who perform underwater repairs without draining your pool. This saves you thousands in water costs, avoids potential structural damage from draining, and gets you back to swimming faster."
+    },
+    {
+      "question": "How much can I save with energy-efficient equipment?",
+      "answer": "Our clients typically see up to 90% reduction in pool operating costs after upgrading to Energy Star certified equipment. We'll evaluate your current setup and show you exactly how much you can save with modern pumps, heaters, and filtration systems."
+    },
+    {
+      "question": "Do you service commercial pools and spas?",
+      "answer": "Absolutely. We provide specialized commercial pool service for HOAs, fitness centers, apartment communities, and public facilities. Our team is trained in all government regulations and health code requirements to keep your commercial pool compliant and safe."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Anna T.",
+      "context": "Customer for 20+ years",
+      "initials": "AT",
+      "text": "I've been using the Pool Doctor for over 20 years and they have done an excellent job. The consistency and quality of their service is unmatched — I wouldn't trust anyone else with our pool."
+    },
+    {
+      "name": "Dennis S.",
+      "context": "Pool service consultation",
+      "initials": "DS",
+      "text": "Excellent customized service. They explained everything clearly and there was no pressure at all. You can tell they genuinely care about getting it right, not just making a sale."
+    },
+    {
+      "name": "Diamond Certified Review",
+      "context": "Ongoing pool maintenance",
+      "initials": "DC",
+      "text": "Not all pool services are equal, but with The Pool Doctor, both the company and technicians are excellent. I have complete confidence in the person who services my pool, and the administrative side is just as professional."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Diamond-Certified<br>Pool Care?",
+    "subtitle": "Schedule your free pool evaluation today. No pressure, no obligations — just honest advice from a team with 70 years of experience serving the Bay Area.",
+    "benefits": [
+      "Free comprehensive pool evaluation",
+      "Custom service plan within 48 hours",
+      "Diamond Certified quality guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned since 1956. Proudly serving the Bay Area for 70 years.",
+    "service_area": "Serving Alameda, Contra Costa & Solano Counties",
+    "services": [
+      "Pool Cleaning & Maintenance",
+      "Pool & Spa Repairs",
+      "Underwater Dive Repairs",
+      "Energy-Efficient Upgrades",
+      "Commercial Pool Service"
+    ],
+    "copyright": "&copy; 2024 The Pool Doctor. All rights reserved. Licensed Contractor #973365"
+  }
+}

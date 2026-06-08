@@ -1,0 +1,184 @@
+{
+  "folder_name": "action-home-services",
+  "company_name": "Action Home Services",
+  "tagline": "Award-Winning Pool & Outdoor Living Experts",
+  "phone": "+1 647-937-1023",
+  "email": "earl.crawford@actionhomeservices.ca",
+  "logo_path": "",
+  "review_count": "2000",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a1a1a",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#2563eb",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & WSIB Compliant",
+    "badge_2": "4.9/5 from 2000+ Reviews",
+    "badge_3": "58+ Industry Awards"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 2,000+ Google Reviews",
+    "badge_2": "10-Year Labour Warranty",
+    "headline": "Award-Winning Outdoor Spaces <span class=\"text-secondary italic\">Built to<br>Last Decades</span>",
+    "subheadline": "With 6,000+ completed projects and 58 industry awards, Action Home Services designs and builds pools, landscapes, and outdoor living spaces across the GTA. No subcontractors, no shortcuts — just 100+ trained professionals delivering results backed by a 10-year warranty.",
+    "cta_text": "Book Your Free Design Consultation",
+    "checkmarks": [
+      "Free 3D design visualization",
+      "No subcontractors — ever",
+      "10-year labour warranty included"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "6000",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "11",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "2000",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "58+",
+    "stat_4_label": "Industry Awards"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living Solutions<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From pools and patios to full landscape transformations, our in-house team handles every phase of your project — design, build, and warranty support — with zero subcontracting.",
+    "cards": [
+      {
+        "title": "Pool Installation & Renovation",
+        "description": "Fiberglass, vinyl, concrete, infinity, and plunge pools built by certified specialists. Plus decks, coping, hot tubs, swim spas, and water features — all managed in-house."
+      },
+      {
+        "title": "Interlocking & Stonework",
+        "description": "Custom driveways, patios, walkways, and retaining walls in natural stone, flagstone, and premium pavers. Engineered for beauty and durability through every GTA season."
+      },
+      {
+        "title": "Decks, Fences & Structures",
+        "description": "Custom-built decks, fences, pergolas, gazebos, cabanas, and privacy screens. Designed to extend your living space and complement your landscape."
+      },
+      {
+        "title": "Landscape Design & Build",
+        "description": "Full-service landscape architecture including outdoor kitchens, fire pits, lighting, drainage, artificial turf, game courts, and putting greens — all previewed in 3D before we break ground."
+      },
+      {
+        "title": "Asphalt Paving & Sealing",
+        "description": "Professional driveway paving, sealing, crack repair, and extensions for residential and commercial properties. Heated driveway systems also available."
+      },
+      {
+        "title": "Home Construction & Renovation",
+        "description": "Front porches, home additions, exterior renovations, and refacing. Structural upgrades that boost curb appeal and property value with the same quality our outdoor work is known for."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Project in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Visit Our Showroom or Book a Consult",
+        "description": "Tour our 12,000 sq ft showroom to explore materials and designs, or schedule a free on-site consultation. Our design team will assess your property and listen to your vision."
+      },
+      {
+        "title": "Review Your Custom 3D Design",
+        "description": "Our in-house designers create a detailed 3D visualization of your project so you can see exactly what you're getting before construction begins. Refine every detail until it's perfect."
+      },
+      {
+        "title": "We Build — You Enjoy",
+        "description": "Our crew of 100+ trained professionals handles every phase of construction without subcontractors. Your project is backed by our industry-leading 10-year labour warranty."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why GTA Homeowners Choose Us",
+    "headline": "58 Awards. 6,000 Projects. One Team That Does It All.",
+    "description": "Action Home Services has been transforming outdoor spaces across Toronto and the GTA since 2015. With over 100 trained professionals, an in-house design team, and a 12,000 sq ft showroom, we manage every project from concept to completion — no subcontractors, no compromises. Our 2,000+ five-star reviews and 58 industry awards speak to a standard of craftsmanship that homeowners trust with their biggest investments.",
+    "badge": "58+ Awards Won",
+    "features": [
+      {
+        "title": "100% In-House Teams",
+        "description": "Every project is designed, managed, and built by our own trained professionals. No subcontractors means consistent quality and full accountability."
+      },
+      {
+        "title": "10-Year Labour Warranty",
+        "description": "The strongest warranty in the industry. If anything related to our workmanship needs attention within 10 years, we handle it at no charge."
+      },
+      {
+        "title": "3D Design Before You Commit",
+        "description": "See your project in photorealistic 3D before we break ground. Adjust materials, layouts, and features until it matches your exact vision."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every quote is detailed, itemized, and honoured. No hidden fees, no change-order games — just honest pricing for award-winning work."
+  },
+  "guarantee": {
+    "headline": "Our 10-Year Warranty Promise",
+    "description": "Every project we build is backed by a 10-year labour warranty — the strongest guarantee in the industry. If any workmanship issue arises within that period, we come back and fix it at absolutely no cost to you. With 58 industry awards and 2,000+ five-star reviews, we stake our reputation on every project we deliver."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical pool installation take?",
+      "answer": "Most pool installations are completed within 6-10 weeks depending on pool type and site conditions. During your consultation, we provide a detailed timeline so you know exactly what to expect at every stage."
+    },
+    {
+      "question": "Do you use subcontractors?",
+      "answer": "Never. Every project is handled by our in-house team of 100+ trained professionals. This means consistent quality, clear communication, and full accountability from start to finish."
+    },
+    {
+      "question": "Can I see what my project will look like before construction?",
+      "answer": "Absolutely. Our in-house design team creates detailed 3D visualizations of your project so you can see materials, layouts, and features in realistic detail before we break ground. We refine until you're completely satisfied."
+    },
+    {
+      "question": "What does the 10-year warranty cover?",
+      "answer": "Our 10-year labour warranty covers all workmanship on your project. If anything we built needs repair or adjustment within that period, we come back and fix it at no charge. It's the strongest warranty in the industry."
+    },
+    {
+      "question": "Do you offer financing or payment plans?",
+      "answer": "Yes, we offer flexible financing options to fit a range of budgets. Our team will walk you through available plans during your consultation so you can choose what works best for your project."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mariia V.",
+      "context": "Interlocking driveway, Toronto",
+      "initials": "MV",
+      "text": "We had our front driveway redone with interlock and added a new garden bed, and the curb appeal improvement is amazing. The crew was professional and the finished result exceeded what we imagined."
+    },
+    {
+      "name": "Kat H.",
+      "context": "Driveway project, GTA",
+      "initials": "KH",
+      "text": "Action Home Services did an amazing job on our driveway this summer. The quality of work, attention to detail, and professionalism were outstanding from start to finish. Would highly recommend."
+    },
+    {
+      "name": "Ilia T.",
+      "context": "Landscaping project, Toronto",
+      "initials": "IT",
+      "text": "From the initial consultation to the final walkthrough, everything was handled professionally. The crew was punctual, polite, and kept the site clean throughout. The result speaks for itself."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your<br>Outdoor Space?",
+    "subtitle": "Book a free consultation or visit our 12,000 sq ft showroom. No pressure, no obligation — just expert guidance on bringing your vision to life.",
+    "benefits": [
+      "Free on-site consultation & 3D design",
+      "Response within 24 hours",
+      "10-year labour warranty on every project"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning outdoor construction. Serving the GTA since 2015.",
+    "service_area": "Serving Toronto, Vaughan, Richmond Hill, Markham, Mississauga & Oakville",
+    "services": [
+      "Pool Installation",
+      "Interlocking & Stone",
+      "Decks & Fences",
+      "Landscape Design",
+      "Asphalt Paving"
+    ],
+    "copyright": "&copy; 2024 Action Home Services. All rights reserved. Licensed, Insured & WSIB Compliant."
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "folder_name": "paradise-pool",
+  "company_name": "Paradise Pool & Spa",
+  "tagline": "Paradise — In Your Own Backyard",
+  "phone": "(310) 370-2144",
+  "email": "paradise@paradisepools.biz",
+  "review_count": "212",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a55",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "CA License #926847",
+    "badge_2": "4.8/5 from 212+ Reviews",
+    "badge_3": "Serving South Bay Since 1989"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 212+ Google Reviews",
+    "badge_2": "Certified Pool Operators",
+    "headline": "Your Backyard Paradise <span class=\"text-secondary italic\">Starts Right Here</span>",
+    "subheadline": "For over 35 years, South Bay families have trusted Paradise Pool & Spa for weekly maintenance, expert repairs, and stunning pool remodels. Licensed, insured, and staffed by Certified Pool Operators — so you can relax while we handle everything.",
+    "cta_text": "Get Your Free Pool Consultation",
+    "checkmarks": [
+      "Free filter cleaning with new service",
+      "Certified Pool Operators on staff",
+      "37 years of South Bay expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "37",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "212",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Insured"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> From One Trusted Team",
+    "subtitle": "From weekly cleaning to full construction, Paradise Pool & Spa handles every aspect of pool ownership so you never have to worry about a thing.",
+    "cards": [
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Reliable weekly service including skimming, vacuuming, chemical balancing, and filter maintenance. Free filter cleaning included with every new service agreement."
+      },
+      {
+        "title": "Equipment Repairs",
+        "description": "Fast, accurate diagnosis and repair of pumps, filters, heaters, salt systems, and all pool equipment. Emergency response available for urgent breakdowns."
+      },
+      {
+        "title": "Pool & Spa Remodeling",
+        "description": "Breathe new life into your pool with updated plaster, tile, coping, decking, and modern equipment upgrades. Transform your backyard without starting from scratch."
+      },
+      {
+        "title": "New Pool & Spa Construction",
+        "description": "Custom-designed gunite and vinyl pools and spas, tailored to your property and lifestyle. From initial concept to your first splash — built to last decades."
+      },
+      {
+        "title": "Pool Lighting Installation",
+        "description": "Modern LED lighting systems that enhance safety, set the mood, and let you enjoy your pool well into the evening. Energy-efficient and stunning."
+      },
+      {
+        "title": "Hot Tub Sales & Service",
+        "description": "Expert hot tub selection, installation, and ongoing maintenance. We help you find the perfect spa for relaxation, therapy, or entertaining guests."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We'll schedule a free on-site evaluation and provide an honest, no-pressure quote — usually within 24 hours."
+      },
+      {
+        "title": "We Send a Certified Pro",
+        "description": "One of our Certified Pool Operators arrives on schedule, fully equipped to handle cleaning, repairs, or project planning. We never cut corners."
+      },
+      {
+        "title": "Enjoy Your Paradise",
+        "description": "Your pool stays crystal clear and worry-free. With 37 years of experience behind every visit, you can trust that your backyard is in the best hands in the South Bay."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Bay Trusts Us",
+    "headline": "37 Years of Keeping South Bay Pools Perfect",
+    "description": "Since 1989, Paradise Pool & Spa has been the South Bay's go-to pool care team. As fully licensed California contractors (License #926847) with Certified Pool Operators on staff, we bring a level of expertise and professionalism that most companies simply cannot match. Our thorough employee training program ensures that every technician who steps into your backyard delivers the same high-quality work we've been known for across Torrance, Manhattan Beach, Redondo Beach, and beyond.",
+    "badge": "CA License #926847",
+    "features": [
+      {
+        "title": "Certified Pool Operators",
+        "description": "Every technician on our team is a Certified Pool Operator with LA County Health Department licensing — the gold standard in pool care."
+      },
+      {
+        "title": "Free Filter Cleaning Included",
+        "description": "Sign up for weekly service and filter cleaning is on us. No hidden fees, no upsells — just honest value from day one."
+      },
+      {
+        "title": "Emergency Response Available",
+        "description": "Equipment failure or water emergency? We offer fast, reliable response times to get your pool back in shape quickly."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool and your budget. Every plan comes with free filter cleaning."
+  },
+  "guarantee": {
+    "headline": "Our \"Paradise Promise\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no additional charge. We've built our reputation over 37 years by standing behind every job — from a routine cleaning to a full pool remodel. Your satisfaction isn't just a policy; it's the foundation of our business."
+  },
+  "faqs": [
+    {
+      "question": "How long has Paradise Pool & Spa been in business?",
+      "answer": "We've been proudly serving the South Bay since 1989 — that's over 35 years of pool service, repair, remodeling, and construction. Our team of Certified Pool Operators brings decades of combined experience to every job."
+    },
+    {
+      "question": "Do I need to be home for weekly service visits?",
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. You can always reach us by phone or email if you have questions about your service."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Absolutely. Paradise Pool & Spa holds California Contractor License #926847 (C-53, C-61/D35), and we carry full general liability and workers' compensation insurance. Our technicians are Certified Pool Operators licensed by the LA County Health Department."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We serve the entire South Bay and surrounding communities, including Torrance, Manhattan Beach, Hermosa Beach, Redondo Beach, Palos Verdes, El Segundo, Marina Del Rey, Long Beach, and many more. Call us to confirm service in your area."
+    },
+    {
+      "question": "Do you offer pool remodeling and new construction?",
+      "answer": "Yes! In addition to weekly maintenance and repairs, we specialize in pool and spa remodeling as well as new gunite and vinyl pool construction. From updated finishes and tile to complete backyard transformations, we handle it all from concept to completion."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Michael R.",
+      "context": "Long-term maintenance customer",
+      "initials": "MR",
+      "text": "We've used Paradise Pool for almost 15 years and couldn't be happier. The service men come every week and keep our pool and equipment in great working order. We've had no problems since switching to their service."
+    },
+    {
+      "name": "Sarah L.",
+      "context": "Pool remodeling project",
+      "initials": "SL",
+      "text": "Paradise Pool was prompt and professional from the very first call. They were responsive, punctual, and completely professional throughout our pool remodel. Their pricing is reasonable and the quality of work exceeded our expectations."
+    },
+    {
+      "name": "David K.",
+      "context": "Equipment repair customer",
+      "initials": "DK",
+      "text": "They are excellent at working with you to come up with the most practical and economic solution when repairs are needed. Very professional, timely, and attentive. I highly recommend Paradise Pool & Spa for anyone in the South Bay."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your Own<br>Backyard Paradise?",
+    "subtitle": "Get a free, no-pressure consultation from the South Bay's most trusted pool team. 37 years of experience, Certified Pool Operators, and a commitment to quality that shows in every visit.",
+    "benefits": [
+      "Free on-site pool evaluation",
+      "Response within 24 hours",
+      "37 years of trusted South Bay service"
+    ]
+  },
+  "footer": {
+    "description": "South Bay's trusted pool service since 1989. Licensed, insured, and Certified Pool Operators.",
+    "service_area": "Serving the South Bay — Torrance, Manhattan Beach, Redondo Beach, Palos Verdes & Beyond",
+    "services": [
+      "Pool Cleaning & Maintenance",
+      "Equipment Repairs",
+      "Pool & Spa Remodeling",
+      "New Construction",
+      "Hot Tub Sales & Service"
+    ],
+    "copyright": "&copy; 2024 Paradise Pool & Spa. All rights reserved. CA Contractor License #926847"
+  }
+}

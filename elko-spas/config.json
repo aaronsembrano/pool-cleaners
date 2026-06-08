@@ -1,0 +1,183 @@
+{
+  "folder_name": "elko-spas",
+  "company_name": "Elko Spas, Billiards & Pools",
+  "tagline": "Isn't It Time to Relax?",
+  "phone": "+1 843-294-3556",
+  "email": "info@elkospasandbilliards.com",
+  "review_count": "719",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0C1D30",
+    "secondary": "#3B82C4",
+    "cta": "#E8A525",
+    "cta_dark": "#C98B1A"
+  },
+  "trust_badges": {
+    "badge_1": "Award-Winning Since 1987",
+    "badge_2": "4.5/5 from 719+ Reviews",
+    "badge_3": "2024 AQUA 100 Winner"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 719+ Google Reviews",
+    "badge_2": "2024 AQUA 100 Winner",
+    "headline": "38 Years of Backyard <span class=\"text-secondary italic\">Bliss Starts<br>Right Here</span>",
+    "subheadline": "From hot tubs and pools to billiards and saunas, Elko Spas has been the Grand Strand's trusted destination since 1987. Visit our Myrtle Beach showroom and let our award-winning team help you create the backyard retreat you deserve.",
+    "cta_text": "Visit Our Showroom Today",
+    "checkmarks": [
+      "Award-winning Hot Spring dealer",
+      "Full showroom experience",
+      "Expert guidance, zero pressure"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "719",
+    "stat_1_label": "Google Reviews",
+    "stat_2_value": "38",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1000",
+    "stat_3_label": "Hot Tubs Delivered",
+    "stat_4_value": "AQUA 100",
+    "stat_4_label": "2024 Award Winner"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Premium Products for Your<br class=\"hidden md:block\"> Home & Backyard",
+    "subtitle": "From relaxation to recreation, Elko Spas carries only the highest quality brands. Whether you want a hot tub for unwinding, a pool for the family, or a game room for entertaining, we have you covered.",
+    "cards": [
+      {
+        "title": "Hot Tubs & Spas",
+        "description": "Authorized Hot Spring Spas dealer with a full lineup of premium hot tubs. Expert consultation, local delivery, professional installation, and ongoing maintenance all under one roof."
+      },
+      {
+        "title": "Swimming Pools",
+        "description": "Inground and above ground pools from Alaglas, Imagine Pools, Doughboy, and Embassy. Full design, installation, and service to bring your dream pool to life."
+      },
+      {
+        "title": "Swim Spas",
+        "description": "PDC Swim Spas for year-round fitness and relaxation. Combines the benefits of a full pool and hot tub in one compact, versatile unit with professional installation."
+      },
+      {
+        "title": "Billiards & Game Rooms",
+        "description": "Premium Olhausen billiard tables and game room equipment. Expert delivery and setup to create the perfect entertainment space in your home."
+      },
+      {
+        "title": "Saunas & Cold Plunge",
+        "description": "TYLO saunas and Vigor Cold Plunge systems for complete home wellness. Professional installation and expert guidance on usage and maintenance included."
+      },
+      {
+        "title": "Water Care & Service",
+        "description": "E-Z CLOR water care products and professional water testing to keep your hot tub or pool clean, balanced, and safe. Plus full service and repair by factory-trained techs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Perfect Backyard in Three Steps",
+    "steps": [
+      {
+        "title": "Visit Our Showroom",
+        "description": "Browse our fully-loaded Myrtle Beach showroom at your own pace. Our knowledgeable staff is here to answer questions with zero pressure to buy."
+      },
+      {
+        "title": "Get Expert Guidance",
+        "description": "We help you choose the right product for your space, lifestyle, and budget. With 38 years of experience, we match you with exactly what you need."
+      },
+      {
+        "title": "Relax & Enjoy",
+        "description": "We handle delivery, installation, and setup. Then our service team is always here when you need maintenance, water care, or repairs down the road."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Grand Strand Families Choose Us",
+    "headline": "Family-Owned, Award-Winning, and Built on Trust",
+    "description": "Founded by Michael and Kimberly Elko in 1987, Elko Spas has grown into the Grand Strand's most trusted name in hot tubs, pools, and recreation. Our philosophy is simple: carry only the highest quality products priced fairly, provide a comfortable shopping environment, and educate our customers on every product we sell. As multiple-time National Hot Spring Dealer of the Year winners, we back every product with premium warranties and the kind of personal service only a family business can deliver.",
+    "badge": "AQUA 100 Winner",
+    "features": [
+      {
+        "title": "National Award-Winning Dealer",
+        "description": "Multiple-time Hot Spring Dealer of the Year for Retail Excellence and 2024 AQUA 100 honoree among the nation's top pool and spa retailers."
+      },
+      {
+        "title": "No-Pressure Showroom",
+        "description": "Our fully-loaded Myrtle Beach showroom lets you explore at your own pace. We educate, we answer questions, and we never push you to buy."
+      },
+      {
+        "title": "Full-Service from Start to Finish",
+        "description": "Sales, delivery, installation, water care, and ongoing service all handled in-house by our trained team. One call does it all."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Premium Products, Fair Pricing.",
+    "subtitle": "We carry only the best brands and price them honestly. Visit our showroom for a personalized quote tailored to your space and budget."
+  },
+  "guarantee": {
+    "headline": "Our \"Relax With Confidence\" Guarantee",
+    "description": "Every product we sell is backed by some of the best warranties in the industry. If anything needs attention after installation, our factory-trained service team is just a phone call away. We stand behind every hot tub, pool, and game table we deliver because your satisfaction is our reputation."
+  },
+  "faqs": [
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We are an authorized Hot Spring Spas dealer, carrying their full lineup of premium hot tubs. As multiple-time National Dealer of the Year winners, we offer models at every price point with industry-leading warranties. Visit our showroom to try them out."
+    },
+    {
+      "question": "Do you handle delivery and installation?",
+      "answer": "Absolutely. Our trained crew handles everything from delivery to professional installation. Whether it's a hot tub, pool, swim spa, or billiard table, we make sure it's set up perfectly so you can start enjoying it right away."
+    },
+    {
+      "question": "Can I visit your showroom without an appointment?",
+      "answer": "Yes! Our Myrtle Beach showroom is open for walk-ins during regular business hours. Our staff is here to answer questions and help you explore options at your own pace with absolutely no pressure to buy."
+    },
+    {
+      "question": "Do you service and repair hot tubs and pools?",
+      "answer": "We do. Our factory-trained technicians provide comprehensive service and repairs for spas, pools, and game room equipment. We also offer professional water testing and a full line of E-Z CLOR water care products."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the entire Grand Strand region including Myrtle Beach, Horry County, and surrounding areas throughout coastal South Carolina. Contact us to confirm service availability for your specific location."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Anne K.",
+      "context": "Hot Tub Purchase",
+      "initials": "AK",
+      "text": "I have owned spas before but the salt spa I bought from Elko is by far the best experience. The team was knowledgeable and made the entire process seamless."
+    },
+    {
+      "name": "Heather H.",
+      "context": "Pool Installation",
+      "initials": "HH",
+      "text": "Just wanted to let you know how pleased we are with our pool that was installed by Elko. The entire process from sales to installation was professional and smooth."
+    },
+    {
+      "name": "Gary B.",
+      "context": "Spa Service",
+      "initials": "GB",
+      "text": "ELKO Spas did a magnificent job servicing and providing great peace of mind. Excellent service and workmanship from start to finish."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Create Your<br>Perfect Backyard?",
+    "subtitle": "Stop by our Myrtle Beach showroom or call for a free consultation. No pressure, no obligations — just honest advice from a family team that's been doing this for 38 years.",
+    "benefits": [
+      "Free consultation in our showroom",
+      "Expert guidance with zero pressure",
+      "Industry-leading warranties on every product"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning family-owned dealer. Serving the Grand Strand since 1987.",
+    "service_area": "Serving Myrtle Beach & the Grand Strand",
+    "services": [
+      "Hot Tubs & Spas",
+      "Swimming Pools",
+      "Swim Spas",
+      "Billiards & Game Rooms",
+      "Saunas & Cold Plunge"
+    ],
+    "copyright": "&copy; 2024 Elko Spas, Billiards & Pools. All rights reserved. Myrtle Beach, SC"
+  }
+}

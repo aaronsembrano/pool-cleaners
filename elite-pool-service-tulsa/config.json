@@ -1,0 +1,183 @@
+{
+  "folder_name": "elite-pool-service-tulsa",
+  "company_name": "Elite Pool Service",
+  "tagline": "Residential Pool Services in the Tulsa Metro Area",
+  "phone": "+1 918-893-3893",
+  "email": "jennifer@theelitepool.com",
+  "review_count": "85",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#2B2362",
+    "primary_dark": "#1C1745",
+    "primary_deeper": "#110E2E",
+    "secondary": "#1A73E8",
+    "cta": "#F5A623",
+    "cta_dark": "#D4900E"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Accredited",
+    "badge_2": "4.6/5 from 85+ Reviews",
+    "badge_3": "Hayward Authorized Center"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 85+ Google Reviews",
+    "badge_2": "BBB A+ Rated Since 2016",
+    "headline": "Family-Owned Pool Care <span class=\"text-secondary italic\">You Can<br>Count On</span>",
+    "subheadline": "With over 20 years of pool expertise, Elite Pool Service handles everything from weekly maintenance to custom gunite construction. Sit back and enjoy your backyard while our certified team keeps your pool sparkling clean and worry-free.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection",
+      "Authorized Hayward warranty center",
+      "A+ BBB accredited business"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "85",
+    "stat_1_label": "Happy Families",
+    "stat_2_value": "20",
+    "stat_2_label": "Years Pool Experience",
+    "stat_3_value": "1500",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Construction to Cleanup",
+    "subtitle": "From building your dream pool to keeping it crystal clear every week, our family handles it all so you never have to worry about a thing.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Consistent weekly service that keeps your pool chemically balanced, debris-free, and swim-ready every single day of the season."
+      },
+      {
+        "title": "Swimming Pool Repair",
+        "description": "Expert diagnostics and repair for pumps, heaters, filters, automation, and plaster. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Pool Algae Removal",
+        "description": "Green pool? We will have it sparkling again in 48-72 hours. Our proven treatment process eliminates algae at the root."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and winterization done right to protect your investment through Oklahoma's unpredictable weather."
+      },
+      {
+        "title": "Pool Resurfacing & Remodeling",
+        "description": "Transform your pool with new plaster, coping, tile, rock detailing, and premium finish upgrades that look stunning for years."
+      },
+      {
+        "title": "Custom Gunite Construction",
+        "description": "Design and build your dream pool from the ground up with custom gunite construction, water features, lighting, and decking."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out the form and we will discuss your pool's needs. You will receive an honest, no-pressure quote from Jennifer's team within 24 hours."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our experienced technicians arrive on schedule and handle cleaning, chemicals, equipment checks, and repairs with care and precision."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and swim-ready all season. If anything is not right, we come back and fix it at no additional cost."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tulsa Trusts Us",
+    "headline": "A Family Business Built on 20 Years of Pool Expertise",
+    "description": "Elite Pool Service is a family-owned Oklahoma business led by Jennifer Cox. With more than two decades of hands-on swimming pool experience, we have earned our BBB A+ rating, Hayward warranty center authorization, and recognition from Expertise.com and Yelp as one of Tulsa's top pool service providers. We treat every pool like it is our own.",
+    "badge": "Hayward Authorized",
+    "features": [
+      {
+        "title": "BBB A+ Accredited Since 2016",
+        "description": "We have maintained our A+ rating and accreditation with the Better Business Bureau for nearly a decade of trusted service."
+      },
+      {
+        "title": "Full-Service Pool Company",
+        "description": "From new gunite construction and remodeling to weekly maintenance and emergency repairs, one team handles everything."
+      },
+      {
+        "title": "Recognized Top Provider",
+        "description": "Named a top pool service in Tulsa by both Expertise.com and Yelp, backed by real reviews from real families."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Flexible plans with no long-term contracts required."
+  },
+  "guarantee": {
+    "headline": "Our Family Promise to You",
+    "description": "If you are not completely satisfied with any service visit, call Jennifer's team and we will come back to make it right at no extra charge. We have built our reputation one pool at a time over 20 years, and we stand behind every job with our family name."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients in the Tulsa metro area are scheduled within 3-5 business days. For green pool emergencies or urgent repairs, we offer same-day and next-day response. Just call us at 918-893-3893."
+    },
+    {
+      "question": "What areas do you serve around Tulsa?",
+      "answer": "We serve the entire Tulsa metro area and northeast Oklahoma including Broken Arrow, Bixby, Jenks, Owasso, Sand Springs, and Sapulpa. If you are not sure whether you are in our service area, give us a call."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Elite Pool Service is a licensed contractor with the City of Broken Arrow, BBB A+ accredited since 2016, and an authorized Hayward warranty center. We carry full liability insurance on every job."
+    },
+    {
+      "question": "Do you build new pools or just maintain them?",
+      "answer": "We do both. Elite Pool Service is a full-service company that handles custom gunite pool construction, remodeling, resurfacing, weekly maintenance, repairs, and seasonal openings and closings."
+    },
+    {
+      "question": "What makes Elite Pool Service different from other companies?",
+      "answer": "We are family-owned with 20-plus years of pool experience, an authorized Hayward warranty center, and BBB A+ accredited. We have been recognized by Expertise.com and Yelp as a top Tulsa pool service, and our owner Jennifer is personally involved in every project."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "text": "We were first-time pool owners and found it difficult to find someone to explain pool maintenance basics. After trying other companies, we found Elite Pool Service and they have been amazing. They treat us with respect and patience, and we have been working with them for over a year now.",
+      "context": "Weekly Maintenance Customer",
+      "initials": "SM"
+    },
+    {
+      "name": "David R.",
+      "text": "Our house pool was not winterized and was very dirty. Elite responded quickly and turned the mess into a beautiful clean pool. The staff was patient and explained everything well. I highly recommend their service.",
+      "context": "Pool Opening and Cleaning",
+      "initials": "DR"
+    },
+    {
+      "name": "Mark T.",
+      "text": "The gentlemen were professional and knowledgeable, offering sound advice and going beyond the call of service to ensure the pool was properly prepared. The office staff is wonderful and patient as well.",
+      "context": "Pool Closing Service",
+      "initials": "MT"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs Itself?",
+    "subtitle": "Get a free, no-pressure quote from our family-owned team. We will respond within 24 hours with honest pricing and a plan tailored to your pool.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours guaranteed",
+      "BBB A+ accredited — service you can trust"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Serving the Tulsa metro area for 20+ years.",
+    "service_area": "Serving Broken Arrow, Tulsa, Bixby, Jenks, Owasso & Beyond",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Repairs",
+      "Algae Removal",
+      "Resurfacing & Remodeling",
+      "Custom Pool Construction"
+    ],
+    "copyright": "&copy; 2024 Elite Pool Service. All rights reserved. Licensed Contractor — City of Broken Arrow"
+  }
+}

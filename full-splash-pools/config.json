@@ -1,0 +1,183 @@
+{
+  "folder_name": "full-splash-pools",
+  "company_name": "Full Splash Pools",
+  "tagline": "We Create The Pool of Your Dreams",
+  "phone": "+1 713-347-7665",
+  "email": "stefan@fullsplash.com",
+  "review_count": "192",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#0CBFE9",
+    "primary_dark": "#0A8FB0",
+    "primary_deeper": "#074F63",
+    "secondary": "#1B2D4F",
+    "cta": "#E8773A",
+    "cta_dark": "#D0622A"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Accredited",
+    "badge_2": "4.9/5 from 192+ Reviews",
+    "badge_3": "Google Guaranteed"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 192+ Google Reviews",
+    "badge_2": "Best of Houston 2025",
+    "headline": "Houston's Award-Winning <span class=\"text-secondary italic\">Pool Builder</span>",
+    "subheadline": "From dream pool designs to weekly maintenance, Full Splash Pools handles it all. Owner-operated with an A+ BBB rating and voted Houston's Best -- so you get craftsmanship you can trust and a backyard you'll never want to leave.",
+    "cta_text": "Start Your Dream Pool",
+    "checkmarks": [
+      "Free on-site consultation",
+      "Financing options available",
+      "Licensed & fully insured"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "8",
+    "stat_2_label": "Years in Houston",
+    "stat_3_value": "192",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Build It. Renovate It. Maintain It.<br class=\"hidden md:block\"> We Do It All.",
+    "subtitle": "Full Splash Pools is your single source for everything pool -- from breaking ground on a brand-new build to keeping your water crystal clear every week. No subcontractors, no runaround.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "Your dream pool, designed and built from the ground up. We handle every detail from permits to the final fill -- delivered with the craftsmanship Houston voted best."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "New plaster, tile, decking, or a complete backyard makeover. We breathe new life into aging pools and transform them into resort-worthy retreats."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Pumps, filters, heaters, automation -- our licensed technicians diagnose fast and fix it right the first time. Most repairs done same-visit."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Affordable weekly cleaning and chemical balancing so your pool stays swim-ready year-round. Show up, dive in -- we handle the rest."
+      },
+      {
+        "title": "Outdoor Living Design",
+        "description": "Outdoor kitchens, patios, fire features, and landscaping designed to complement your pool and turn your backyard into an entertainment destination."
+      },
+      {
+        "title": "Spa & Water Features",
+        "description": "Custom spas, waterfalls, bubblers, and lighting features that elevate your pool from functional to unforgettable. Built to impress."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From First Call to First Splash",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us your vision. Stefan meets you on-site, listens to your goals, and provides an honest, transparent estimate -- no pressure, no obligation."
+      },
+      {
+        "title": "We Build or Service Your Pool",
+        "description": "Our in-house team handles everything with owner-level oversight on every project. You'll get regular updates, clear timelines, and zero surprises."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Dive into a pool built or maintained to the highest standards. And if you ever need us again -- for maintenance, repairs, or upgrades -- we're one call away."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Houston Trusts Full Splash",
+    "headline": "Owner-Operated. Award-Winning. Built on Integrity.",
+    "description": "When Stefan founded Full Splash Pools in 2018, he made a simple promise: treat every customer's pool like his own. Eight years and hundreds of projects later, that hands-on approach has earned an A+ BBB rating, Google Guaranteed status, and back-to-back Best of Houston awards. Every project gets owner-level attention because Stefan and his team believe your backyard deserves nothing less.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Owner on Every Project",
+        "description": "Stefan is personally involved in every build and renovation -- not just a name on the truck, but boots on the ground."
+      },
+      {
+        "title": "Award-Winning Craftsmanship",
+        "description": "Voted Houston's Best Pool Builder and Best Pool Service 2025. Our work speaks for itself across 192+ five-star reviews."
+      },
+      {
+        "title": "Financing Available",
+        "description": "Dream pool doesn't have to wait. We offer flexible financing options to fit your budget and get your project started sooner."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets an honest quote upfront. No hidden fees, no change-order games -- just straightforward pricing from a company that values your trust."
+  },
+  "guarantee": {
+    "headline": "Our \"Full Splash\" Guarantee",
+    "description": "We stand behind every pool we build, every renovation we complete, and every service visit we make. If something isn't right, we come back and fix it -- no excuses, no extra charges. That's the commitment that earned us Houston's Best and an A+ BBB rating, and it's the standard we hold ourselves to on every single project."
+  },
+  "faqs": [
+    {
+      "question": "How long does a custom pool build take?",
+      "answer": "Most custom pool builds take 8 to 12 weeks depending on design complexity and permitting. Stefan will walk you through a realistic timeline during your free consultation so there are never any surprises."
+    },
+    {
+      "question": "Do you offer financing for pool construction?",
+      "answer": "Yes! We offer flexible financing options to make your dream pool affordable. During your consultation, we'll discuss payment plans that fit your budget so you can get started sooner rather than later."
+    },
+    {
+      "question": "What areas in Houston do you serve?",
+      "answer": "We serve Houston and all surrounding communities including Katy, Sugar Land, The Woodlands, Pearland, Cypress, and more. If you're in the greater Houston metro area, we've got you covered."
+    },
+    {
+      "question": "Can you renovate my existing pool?",
+      "answer": "Absolutely. From new plaster and tile to complete backyard transformations with outdoor kitchens and patios, we specialize in bringing aging pools back to life. We'll assess your pool and present options that fit your vision and budget."
+    },
+    {
+      "question": "What makes Full Splash different from other pool companies?",
+      "answer": "Owner Stefan is personally involved in every project -- not just managing from an office. Combined with our A+ BBB rating, Google Guaranteed status, and back-to-back Best of Houston awards, you're getting a level of accountability and craftsmanship most companies simply can't match."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Todd H.",
+      "context": "Pool Construction",
+      "initials": "TH",
+      "text": "Stefan and Ron worked together to make the pool build proceed in the best way using very good craftsmen. The entire process was smooth and the result exceeded what we imagined."
+    },
+    {
+      "name": "Kathryn D.",
+      "context": "Pool Construction",
+      "initials": "KD",
+      "text": "Stefan and his team exceeded my expectations throughout the process of the pool install. Communication was excellent and the craftsmanship is outstanding."
+    },
+    {
+      "name": "Gary A.",
+      "context": "Weekly Maintenance",
+      "initials": "GA",
+      "text": "Their team consistently ensures our pool is pristine, demonstrating meticulous attention to detail every single visit. Couldn't be happier with the service."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Pool?",
+    "subtitle": "Get a free, no-obligation consultation with Stefan. We'll discuss your vision, walk your space, and provide an honest quote -- no pressure, just expert guidance.",
+    "benefits": [
+      "Free on-site consultation & estimate",
+      "Response within 24 hours",
+      "Flexible financing available"
+    ]
+  },
+  "footer": {
+    "description": "Houston's award-winning pool builder. Building dream pools since 2018.",
+    "service_area": "Serving Houston & Surrounding Communities",
+    "services": [
+      "Pool Construction",
+      "Pool Renovations",
+      "Equipment Repairs",
+      "Weekly Maintenance",
+      "Outdoor Living"
+    ],
+    "copyright": "&copy; 2024 Full Splash Pools. All rights reserved. TICL #630132"
+  }
+}

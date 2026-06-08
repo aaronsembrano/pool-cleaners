@@ -1,0 +1,183 @@
+{
+  "folder_name": "triton-water-renewal",
+  "company_name": "Triton Water Renewal",
+  "tagline": "Pure Water, San Diego's Premier Pool & Home Filtration Experts",
+  "phone": "+1 858-888-6565",
+  "email": "tritonwaterrenewal@gmail.com",
+  "review_count": "415",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "CA License #1078989",
+    "badge_2": "5.0/5 from 415+ Reviews",
+    "badge_3": "BBB Accredited"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 415+ Google Reviews",
+    "badge_2": "EcoSmarte Certified Dealer",
+    "headline": "Crystal Pure Water <span class=\"text-secondary italic\">Without<br>Draining a Drop</span>",
+    "subheadline": "Our mobile reverse osmosis systems purify up to 40,000 gallons in a single day while conserving 85% of your existing pool water. No drain-and-refill waste, no downtime, just drinking-quality water flowing through your pool.",
+    "cta_text": "Get Your Free Water Analysis",
+    "checkmarks": [
+      "Saves 85% of your pool water",
+      "Same-day 40,000-gallon capacity",
+      "Zero-waste filtration technology"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "415",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "9",
+    "stat_2_label": "Years Serving SD",
+    "stat_3_value": "40000",
+    "stat_3_label": "Gallons Purified Daily",
+    "stat_4_value": "85%",
+    "stat_4_label": "Water Conserved"
+  },
+  "services": {
+    "label": "Our Solutions",
+    "headline": "Water Purification That<br class=\"hidden md:block\">Protects Every Drop",
+    "subtitle": "From pool reclamation to whole-house filtration, Triton delivers advanced water technology that conserves resources, eliminates contaminants, and keeps your water pristine.",
+    "cards": [
+      {
+        "title": "Mobile RO Pool Purification",
+        "description": "Our trailer-mounted reverse osmosis systems process up to 40,000 gallons daily, stripping calcium, TDS, cyanuric acid, and salt while saving 85% of your water."
+      },
+      {
+        "title": "Commercial Pool Filtration",
+        "description": "High-volume purification engineered for hotels, HOAs, and public facilities. Consistent water quality at scale with minimal operational disruption."
+      },
+      {
+        "title": "Zero Chlorine Pool Systems",
+        "description": "Ionic copper and titanium technology that replaces chlorine entirely. No red eyes, no chemical smell, no irritation — just naturally clean water."
+      },
+      {
+        "title": "Whole House Water Systems",
+        "description": "Comprehensive filtration for every faucet in your home. Remove contaminants, improve taste, and protect your plumbing and appliances."
+      },
+      {
+        "title": "Well & City Water Filtration",
+        "description": "Custom treatment for municipal or well water sources. We address iron, manganese, chlorine, sediment, and hardness with precision-matched systems."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnostics and repair for pumps, filters, heaters, and automation systems. We keep your pool running efficiently year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Perfectly Pure Water",
+    "steps": [
+      {
+        "title": "Schedule Your Water Test",
+        "description": "Contact us for a free water analysis. We test your pool or home water and identify exactly what needs treatment — no guesswork, no upselling."
+      },
+      {
+        "title": "We Deploy Our Technology",
+        "description": "Our certified team arrives with trailer-mounted RO systems or installs your custom filtration solution. Most pool purifications complete in a single day."
+      },
+      {
+        "title": "Enjoy Pure, Balanced Water",
+        "description": "Your water is restored to drinking-quality purity. Owner Jeff personally monitors your chemistry remotely and returns to rebalance at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why San Diego Trusts Triton",
+    "headline": "9 Years of Water Science, Not Just Pool Service",
+    "description": "Founded in 2017 by Jeff H., Triton Water Renewal started with a simple mission: stop wasting San Diego's precious water on drain-and-refill pool maintenance. Today we are the region's leading mobile RO purification company, serving San Diego, Riverside, and Orange counties with a 98% contaminant rejection rate. Every job is backed by our CA License #1078989, full insurance, and 415+ five-star reviews from homeowners who trust our zero-waste technology.",
+    "badge": "EcoSmarte Certified",
+    "features": [
+      {
+        "title": "98% Contaminant Rejection",
+        "description": "Our reverse osmosis systems achieve a 98% rejection rate — industry-leading filtration that removes what other methods leave behind."
+      },
+      {
+        "title": "Owner-Monitored Chemistry",
+        "description": "Jeff remotely monitors your pool chemistry after service and returns to recheck and rebalance at no additional cost. Your water stays perfect."
+      },
+      {
+        "title": "Conservation-First Approach",
+        "description": "We conserve up to 85% of your existing pool water. In drought-conscious San Diego, that saves thousands of gallons compared to draining."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Water-Saving Value.",
+    "subtitle": "Every service is quoted upfront with no hidden fees. We save you water, money, and the hassle of old-school drain-and-refill methods."
+  },
+  "guarantee": {
+    "headline": "Our \"Pure Water\" Guarantee",
+    "description": "If your water quality doesn't meet our published standards after treatment, we come back and re-treat at zero cost. Owner Jeff personally monitors every job remotely and will return to rebalance your chemistry at no extra charge. We don't consider the job done until your water is perfect."
+  },
+  "faqs": [
+    {
+      "question": "How does mobile reverse osmosis work for pools?",
+      "answer": "We bring a trailer-mounted RO system to your property and connect it to your pool. Water is cycled through our filtration membranes, removing calcium, TDS, cyanuric acid, salt, and other contaminants. We process up to 40,000 gallons in a single day while conserving 85% of your existing water — no draining required."
+    },
+    {
+      "question": "How long does pool water purification take?",
+      "answer": "Most residential pools are completed in a single day. Our systems process up to 40,000 gallons daily, so even large pools are handled quickly. Commercial facilities may require additional time depending on volume. We schedule around your availability."
+    },
+    {
+      "question": "Is this better than draining and refilling my pool?",
+      "answer": "Significantly. Drain-and-refill wastes 100% of your pool water and takes days to complete. Our Puripool process conserves up to 85% of your existing water, removes more contaminants than fresh fill water contains, and finishes in hours — not days. In water-conscious San Diego, the savings are substantial."
+    },
+    {
+      "question": "What areas does Triton Water Renewal serve?",
+      "answer": "We serve all of San Diego County including La Jolla, Del Mar, Rancho Santa Fe, Poway, Carlsbad, Oceanside, and Escondido. We also cover parts of Riverside County and Orange County. Contact us to confirm service in your area."
+    },
+    {
+      "question": "Do you offer whole-house water filtration?",
+      "answer": "Yes. Beyond pool purification, we install comprehensive whole-house systems, city water filtration, well water treatment, and EcoSmarte chemical-free pool systems. We also handle hot water heater replacement. Triton is your complete water quality partner."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Pete",
+      "context": "Pool water reclamation",
+      "initials": "PE",
+      "text": "The pool water is perfect. Dylan, Jason and Jeff communicated frequently and answered any questions that I had. Outstanding service from start to finish."
+    },
+    {
+      "name": "San Diego Homeowner",
+      "context": "Pool water treatment",
+      "initials": "SD",
+      "text": "This is the company to contact if you need your pool water treated. From the ease of doing business, fair pricing, and excellent service — Triton is the gold standard."
+    },
+    {
+      "name": "Local Customer",
+      "context": "Pool purification service",
+      "initials": "LC",
+      "text": "Dylan and the crew at Triton Water Service were absolutely top notch. Professional, knowledgeable, and great to work with. Our pool has never looked better."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Water That's<br>Actually Pure?",
+    "subtitle": "Get a free water analysis and no-obligation quote. We'll test your water, explain what we find, and show you exactly how our technology solves it.",
+    "benefits": [
+      "Free water analysis with every quote",
+      "Same-day response guaranteed",
+      "85% water conservation — save thousands of gallons"
+    ]
+  },
+  "footer": {
+    "description": "San Diego's premier water purification company. Serving the community since 2017.",
+    "service_area": "Serving San Diego, Riverside & Orange Counties",
+    "services": [
+      "Mobile RO Purification",
+      "Commercial Filtration",
+      "Zero Chlorine Systems",
+      "Whole House Filtration",
+      "Pool Equipment Repair"
+    ],
+    "copyright": "&copy; 2026 Triton Water Renewal. All rights reserved. CA License #1078989"
+  }
+}

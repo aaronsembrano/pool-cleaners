@@ -1,0 +1,183 @@
+{
+  "folder_name": "poolside-of-az",
+  "company_name": "Poolside of AZ",
+  "tagline": "Pool Repair You Can Count On",
+  "phone": "+1 480-818-3959",
+  "email": "chris@poolsideofaz.com",
+  "review_count": "51",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96C00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured — ROC #315847",
+    "badge_2": "4.9/5 from 51+ Reviews",
+    "badge_3": "2-Year Workmanship Guarantee"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 51+ Google Reviews",
+    "badge_2": "Same-Day Response",
+    "headline": "Pool Repairs Done Right — <span class=\"text-secondary italic\">Guaranteed<br>for Two Years</span>",
+    "subheadline": "Stop worrying about your pool equipment and start enjoying your backyard again. Poolside of AZ delivers transparent pricing, CPO-certified technicians, and a 2-year guarantee on every repair — so you never pay twice for the same problem.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Same-day response available",
+      "No unauthorized charges — ever",
+      "2-year workmanship guarantee"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1000",
+    "stat_1_label": "Pools Repaired",
+    "stat_2_value": "19",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "51",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "2 Yr",
+    "stat_4_label": "Repair Guarantee"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Repair, Maintain & Upgrade —<br class=\"hidden md:block\"> Your Pool Deserves the Best",
+    "subtitle": "From emergency pump failures to full pool renovations, our CPO-certified technicians handle it all. Every job backed by our 2-year workmanship guarantee and exclusive manufacturer warranties.",
+    "cards": [
+      {
+        "title": "Pool Repair",
+        "description": "Leaks, cracks, plumbing issues, and structural problems — diagnosed fast and fixed right the first time. Same-day response and a 2-year guarantee on every repair."
+      },
+      {
+        "title": "Pool Pump Installation",
+        "description": "Professional installation and replacement of Pentair, Hayward, and Fluidra pumps. Backed by exclusive manufacturer warranties you won't find elsewhere."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Filters, heaters, chlorinators, automation systems, and motors — our CPO-certified techs diagnose the real issue and get your equipment running efficiently."
+      },
+      {
+        "title": "Pool Equipment Installation",
+        "description": "New equipment professionally installed, calibrated, and tested. We carry top brands like Pentair, Hayward, and NPT so your pool runs like new."
+      },
+      {
+        "title": "Swimming Pool Maintenance",
+        "description": "Tiered maintenance plans to fit any budget. Weekly cleaning, chemical balancing, and equipment checks performed by certified technicians who know Arizona pools."
+      },
+      {
+        "title": "Pool Renovation & Remodeling",
+        "description": "Resurface, retile, and upgrade aging pools into modern backyard retreats. From cosmetic refreshes to full equipment overhauls — we handle the transformation."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Pool That Works",
+    "steps": [
+      {
+        "title": "Call or Text Us",
+        "description": "Reach out during business hours and get a same-day response. Describe the issue — we'll ask the right questions and schedule your visit within 1-2 business days."
+      },
+      {
+        "title": "Get an Honest Diagnosis",
+        "description": "Our CPO-certified technicians inspect your pool, explain exactly what's wrong, and provide a transparent quote. We never repair anything without your approval first."
+      },
+      {
+        "title": "Relax — It's Guaranteed",
+        "description": "We complete the work, test everything, and back it with our 2-year workmanship guarantee plus manufacturer warranties. If anything goes wrong, we make it right."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Phoenix Trusts Poolside of AZ",
+    "headline": "19 Years of Doing Right by Pool Owners",
+    "description": "Founded in 2007 by Chris Williams, Poolside of AZ was built on a simple promise: never bill a customer for work they didn't authorize. That commitment to transparency has earned us thousands of loyal customers across the Valley. We're fully licensed (ROC #315847), bonded, insured, and our technicians hold CPO certification from the National Swimming Pool Foundation. When you call us, you get honest answers, fair pricing, and repairs that last.",
+    "badge": "CPO Certified — ROC #315847",
+    "features": [
+      {
+        "title": "No Surprise Bills — Ever",
+        "description": "We provide a clear quote before any work begins and never charge for unauthorized repairs. You approve everything in advance."
+      },
+      {
+        "title": "2-Year Workmanship Guarantee",
+        "description": "Every repair we do is backed for two full years. If something we fixed fails, we come back and make it right at no cost to you."
+      },
+      {
+        "title": "Same-Day Response Available",
+        "description": "Call us during business hours and hear back the same day. For urgent equipment failures, we prioritize getting your pool back online fast."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Unauthorized Charges.",
+    "subtitle": "Every quote is detailed and upfront. We never start work without your approval — and we never add surprise fees. Period."
+  },
+  "guarantee": {
+    "headline": "Our 2-Year Workmanship Guarantee",
+    "description": "Every repair and installation we perform is backed by a full 2-year workmanship guarantee. If anything we fixed or installed fails within that window, we return and make it right at absolutely no cost. On top of that, equipment we install carries exclusive manufacturer warranties. We stand behind our work because we know the quality we deliver."
+  },
+  "faqs": [
+    {
+      "question": "How fast can you respond to a pool emergency?",
+      "answer": "We offer same-day response during business hours. For equipment failures or urgent repairs, call or text us and we'll prioritize getting a technician to your property as quickly as possible. Quotes are typically provided within 1-2 business days."
+    },
+    {
+      "question": "What does your 2-year guarantee cover?",
+      "answer": "Our 2-year workmanship guarantee covers every repair and installation we perform. If anything we fixed fails within two years, we come back and fix it at no charge. Equipment we install also carries separate manufacturer warranties for additional protection."
+    },
+    {
+      "question": "Will you do repairs without my approval?",
+      "answer": "Absolutely not. We never bill for unauthorized repairs — it's a core principle of our business. Our technician will diagnose the issue, explain what's needed, and provide a clear quote. No work begins until you say go."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our technicians hold CPO (Certified Pool Operator) certification from the National Swimming Pool Foundation. We're also fully licensed with the Arizona Registrar of Contractors (ROC #315847), bonded, and insured for your protection."
+    },
+    {
+      "question": "What areas do you serve in the Valley?",
+      "answer": "We serve Phoenix, Scottsdale, North Phoenix, Tempe, Mesa, Chandler, and surrounding communities across the greater Valley area. If you're unsure whether we cover your neighborhood, give us a call — we're happy to check."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-time Customer",
+      "context": "Pool Maintenance",
+      "initials": "LC",
+      "text": "They've been keeping our old pool beautiful for almost two years now, and their service has been amazing. I've called or texted with questions or concerns, and they've often responded within minutes. They've frequently come over on the same day to adjust pumps, check the vacuum or address whatever small concerns we've had."
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "context": "Pool Repair",
+      "initials": "SH",
+      "text": "Truly great experience with Chris, Robyn, and the team at Poolside of AZ. Top notch service, great attention to detail, and great follow through. Would recommend to anyone."
+    },
+    {
+      "name": "New Equipment Customer",
+      "context": "Pool Equipment Installation",
+      "initials": "NC",
+      "text": "I loved working with Robyn and Poolside AZ. After trying for weeks to find a company to install a new pool filter and zero calling us back, I found Robyn. Outstanding communication and professional service from start to finish."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Fix Your Pool<br>the Right Way?",
+    "subtitle": "Get a transparent, no-pressure quote within 1-2 business days. Same-day response during business hours — just call or text.",
+    "benefits": [
+      "Same-day response during business hours",
+      "Transparent quote — no hidden fees",
+      "2-year workmanship guarantee included"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool repair and service. Serving Phoenix and the Valley since 2007.",
+    "service_area": "Serving Phoenix, Scottsdale & the Greater Valley",
+    "services": [
+      "Pool Repair",
+      "Pump Installation",
+      "Equipment Repair",
+      "Pool Maintenance",
+      "Pool Renovation"
+    ],
+    "copyright": "&copy; 2024 Poolside of AZ. All rights reserved. Licensed, Bonded & Insured — ROC #315847"
+  }
+}
