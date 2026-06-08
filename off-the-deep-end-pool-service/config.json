@@ -1,0 +1,183 @@
+{
+  "folder_name": "off-the-deep-end-pool-service",
+  "company_name": "Off The Deep End Pool Service",
+  "tagline": "Your Pool Deserves Better Than 'Good Enough.'",
+  "phone": "+1 602-920-3409",
+  "email": "service@otdepool.com",
+  "review_count": "117",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0077b6",
+    "primary_dark": "#1a1a2e",
+    "primary_deeper": "#0f0f1c",
+    "secondary": "#00b4d8",
+    "cta": "#e07a2f",
+    "cta_dark": "#c4631e"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured — ROC #302981",
+    "badge_2": "5.0/5 from 117+ Reviews",
+    "badge_3": "No Contracts. Ever."
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 117+ Google Reviews",
+    "badge_2": "CPO-Certified Technicians",
+    "headline": "Crystal Clear Pools, <span class=\"text-secondary italic\">Zero<br>Guesswork</span>",
+    "subheadline": "For 18 years, East Valley families have trusted Off The Deep End to keep their pools perfect. No contracts, no hidden fees, no surprises — just honest, reliable pool care from a family that treats your backyard like their own.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Service starts within days",
+      "100% satisfaction — guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "117",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "18",
+    "stat_2_label": "Years in the East Valley",
+    "stat_3_value": "3000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Pool Care That Lets You<br class=\"hidden md:block\"> Actually Relax",
+    "subtitle": "From weekly maintenance to full equipment overhauls, Off The Deep End handles every detail so you can enjoy the water instead of worrying about it.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Skimming, brushing, vacuuming, filter care, and full water chemistry testing every visit. Your pool stays swim-ready week after week — guaranteed."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Pumps, filters, heaters, salt systems, and automation — diagnosed fast and fixed right. Most repairs completed the same visit, no return trips."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Pool gone green? We bring it back to crystal clear in 48-72 hours. Emergency same-day response available for East Valley homeowners."
+      },
+      {
+        "title": "Water Chemistry Balancing",
+        "description": "Precise chemical balancing that keeps water safe, sparkling, and gentle on skin. No red eyes, no irritation — just clean, healthy water."
+      },
+      {
+        "title": "Tile Cleaning & Acid Wash",
+        "description": "Stubborn calcium buildup and stained plaster don't stand a chance. We restore your tile line and pool surface to like-new condition."
+      },
+      {
+        "title": "Pool Upgrades & Renovation",
+        "description": "New tile, resurfacing, LED lighting, variable-speed pumps, and automation systems. Modernize your pool and cut energy costs at the same time."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call or Text for a Free Quote",
+        "description": "Tell us about your pool and we'll give you a straight, honest quote — usually within 24 hours. No pressure, no contracts, no commitment required."
+      },
+      {
+        "title": "We Show Up and Handle It",
+        "description": "Our CPO-certified technicians arrive on schedule, every time. Cleaning, chemicals, equipment checks — everything handled so you don't have to think about it."
+      },
+      {
+        "title": "Dive Into a Perfect Pool",
+        "description": "Your pool stays crystal clear and swim-ready all year. Not happy with a visit? We come back and make it right — that's the Off The Deep End promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why East Valley Families Choose Us",
+    "headline": "Family-Owned Since 2008 — Your Pool Is Personal to Us",
+    "description": "Off The Deep End started as a one-truck operation in Chandler back in 2008. Eighteen years later, we're still family-owned, still answering our own phones, and still treating every pool like it belongs to someone in our family. Our CPO-certified technicians don't just check boxes — they take pride in leaving your water sparkling and your equipment running right. That's why 117 families have left us five-star reviews and why most of our customers have been with us for years.",
+    "badge": "CPO Certified — ROC #302981",
+    "features": [
+      {
+        "title": "CPO-Certified Technicians",
+        "description": "Every tech on our team holds a Certified Pool Operator credential and stays current on the latest equipment and water chemistry standards."
+      },
+      {
+        "title": "No Contracts. No Hidden Fees.",
+        "description": "We earn your business every single visit. No long-term lock-ins, no cancellation penalties, no surprise charges on your bill."
+      },
+      {
+        "title": "Straight Answers, Every Time",
+        "description": "We tell you what your pool actually needs — not what pads our invoice. Honest recommendations and transparent pricing are how we've kept customers for 18 years."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no cancellation fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back and redo it at no charge — no questions asked, no fine print. We've built our reputation on doing things right, and 117 five-star reviews prove we mean it. Your pool will be clean, balanced, and swim-ready, or we make it right until it is."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new customers in Chandler, Gilbert, Mesa, and Tempe are on the schedule within 3-5 business days. For green pool emergencies, we offer same-day or next-day response — just give us a call."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our customers provide gate access and we handle everything while you're at work or out and about. You'll get a service summary after each visit so you always know what was done."
+    },
+    {
+      "question": "Are your technicians certified and insured?",
+      "answer": "Absolutely. Every technician is CPO-certified, and we're fully licensed (ROC #302981), bonded, and insured. We also carry full liability coverage for your peace of mind."
+    },
+    {
+      "question": "What if I want to cancel my service?",
+      "answer": "Cancel anytime — zero fees, zero penalties, zero guilt trips. We don't do contracts because we believe in earning your business every visit. Most customers stay for years because they want to, not because they have to."
+    },
+    {
+      "question": "What areas do you serve in the East Valley?",
+      "answer": "We proudly serve Chandler, Gilbert, Mesa, and Tempe, along with surrounding communities in the greater Phoenix East Valley. Not sure if you're in our area? Call us and we'll let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Reggie R.",
+      "context": "Google Review — Long-time Customer",
+      "initials": "RR",
+      "text": "I've had several pool service providers over the years. When I called Off the Deep End several years ago, I never called anyone else. They're reliable, honest, and my pool has never looked better."
+    },
+    {
+      "name": "Lauren M.",
+      "context": "Google Review — Weekly Service",
+      "initials": "LM",
+      "text": "The water is always sparkling clean, and I never have to worry about whether everything is balanced or running the way it should. Off The Deep End takes all the stress out of owning a pool."
+    },
+    {
+      "name": "Tammy Y.",
+      "context": "Google Review — East Valley Homeowner",
+      "initials": "TY",
+      "text": "Off The Deep End is the best pool service in the business! Ben is always quick with servicing our pool needs. They go above and beyond every single time."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs Itself?",
+    "subtitle": "Get a free, no-pressure quote from a family that's been keeping East Valley pools perfect since 2008. No contracts, no hidden fees — just honest pricing and reliable service.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours — usually faster",
+      "117+ five-star reviews and counting"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving the East Valley since 2008.",
+    "service_area": "Serving Chandler, Gilbert, Mesa & Tempe",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Tile Cleaning & Acid Wash",
+      "Pool Upgrades"
+    ],
+    "copyright": "&copy; 2024 Off The Deep End Pool Service. All rights reserved. Licensed, Bonded & Insured — ROC #302981"
+  }
+}

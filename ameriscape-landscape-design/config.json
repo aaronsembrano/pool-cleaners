@@ -1,0 +1,183 @@
+{
+  "folder_name": "ameriscape-landscape-design",
+  "company_name": "Ameriscape Landscape & Design",
+  "tagline": "Let's Create Something Beautiful Together",
+  "phone": "+1 732-530-9377",
+  "email": "phil@ameriscapelandscaping.com",
+  "review_count": "32",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#2C5F2D",
+    "primary_dark": "#1E4220",
+    "primary_deeper": "#132E15",
+    "secondary": "#4A7C59",
+    "cta": "#D4A843",
+    "cta_dark": "#B8922F"
+  },
+  "trust_badges": {
+    "badge_1": "NJ Licensed Contractor",
+    "badge_2": "4.7/5 from 32+ Reviews",
+    "badge_3": "ICPI Certified Installers"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 32+ Google Reviews",
+    "badge_2": "NJ Licensed & ICPI Certified",
+    "headline": "Your Dream Backyard, <span class=\"text-secondary italic\">Built by<br>Family Hands</span>",
+    "subheadline": "Your outdoor space should feel like home. Ameriscape handles every detail in-house — design, construction, and finishing touches — so you get a seamless transformation without the runaround. Just tell us your vision and we bring it to life.",
+    "cta_text": "Start Your Outdoor Transformation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "100% in-house crews, no subcontractors",
+      "15+ years serving Central New Jersey"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "15",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "32",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "In-House Teams"
+  },
+  "services": {
+    "label": "What We Build",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From pools and patios to full property transformations, Ameriscape designs and builds everything in-house. One team, one vision, one seamless experience from first sketch to final walkthrough.",
+    "cards": [
+      {
+        "title": "Swimming Pool Installation",
+        "description": "Custom-designed pools that blend luxury and fun. We handle every phase — excavation, plumbing, finishing — creating backyard retreats built to last."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Stylish, functional outdoor entertaining spaces including kitchens, fire features, and gathering areas. Designed for the way your family actually lives."
+      },
+      {
+        "title": "Brick Pavers & Patios",
+        "description": "Expert hardscape installations using premium pavers for walkways, driveways, and patios. ICPI-certified craftsmanship that stays level for decades."
+      },
+      {
+        "title": "Landscape Design/Build",
+        "description": "Full residential landscape architecture — plantings, grading, drainage, and complete outdoor transformations tailored to your property and lifestyle."
+      },
+      {
+        "title": "Retaining Walls",
+        "description": "Decorative and structural walls for grading, erosion control, and visual impact. Engineered for strength, designed for beauty."
+      },
+      {
+        "title": "Commercial Properties",
+        "description": "Design, build, and ongoing management for commercial landscapes. From site development to snow removal, we keep business properties polished year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Outdoor Space",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your property and what you're dreaming of. We'll meet you on-site for a free consultation, walk the space together, and give you an honest, detailed proposal."
+      },
+      {
+        "title": "We Design & Build It",
+        "description": "Our in-house team handles everything — design, materials, construction. No subcontractors, no finger-pointing. One crew, one point of contact, start to finish."
+      },
+      {
+        "title": "Love Your New Space",
+        "description": "Walk out your back door to the outdoor space you've always wanted. Built to last, built with care, and backed by a team that stands behind every project."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Families Trust Ameriscape",
+    "headline": "We're Not Just Contractors — We're Your Neighbors",
+    "description": "Ameriscape is a family-driven business with over 15 years of hands-on experience in Central New Jersey. We manage every project in-house — no subcontractors, no middlemen — because we believe the only way to guarantee quality is to do the work ourselves. From the first design meeting to the final walkthrough, you work directly with our team. We treat every backyard like our own.",
+    "badge": "ICPI Certified",
+    "features": [
+      {
+        "title": "All Work Done In-House",
+        "description": "Every crew member is on our payroll. No subcontractors means total quality control and accountability on every project."
+      },
+      {
+        "title": "NJ Licensed Contractor",
+        "description": "Fully licensed (HIC #13VH09363600), insured, and Cambridge Certified. We meet every standard so you never have to worry."
+      },
+      {
+        "title": "Your Satisfaction, Guaranteed",
+        "description": "We don't consider a project done until you're thrilled with the result. If something isn't right, we come back and fix it — period."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed, upfront proposal. No hidden fees, no change-order games — just honest numbers from a family business that values your trust."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "Every Ameriscape project is backed by our commitment to excellence. If any element of our work doesn't meet your expectations, we'll return and make it right at no additional cost. We've built our reputation on standing behind our craftsmanship — your complete satisfaction is how we earn your referral."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical landscape project take?",
+      "answer": "Timelines vary by scope — a patio or walkway may take 1-2 weeks, while a full backyard transformation with pool can take 6-10 weeks. We provide a detailed timeline during your consultation and keep you updated throughout the build."
+    },
+    {
+      "question": "Do you handle the entire project in-house?",
+      "answer": "Yes, 100%. Design, excavation, hardscaping, planting, lighting — our own crews handle every phase. This means one point of contact, consistent quality, and no subcontractor delays or miscommunication."
+    },
+    {
+      "question": "Are you licensed and insured in New Jersey?",
+      "answer": "Absolutely. Ameriscape holds NJ Home Improvement Contractor License #13VH09363600, ICPI certification, and Cambridge Certified Installer credentials. We carry full liability insurance for your peace of mind."
+    },
+    {
+      "question": "Can you work with my existing landscape?",
+      "answer": "Of course. Many of our projects enhance or reimagine existing outdoor spaces. We'll assess what you have, preserve what works, and design improvements that blend seamlessly with your current property."
+    },
+    {
+      "question": "Do you offer commercial landscape services?",
+      "answer": "Yes. We provide full commercial design/build, ongoing property management, and winter snow removal. Our commercial clients include developers, property managers, and business owners across Monmouth County."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Local Homeowner",
+      "context": "Lawn restoration after construction",
+      "initials": "LH",
+      "text": "Great job and timely manner to reseed my lawn after a construction project. The owner listens to my questions and talks to me like a neighbor."
+    },
+    {
+      "name": "Middletown Resident",
+      "context": "Backyard renovation project",
+      "initials": "MR",
+      "text": "Ameriscape transformed our backyard into the outdoor living space we always dreamed of. Their attention to detail and professionalism made the entire process easy and enjoyable."
+    },
+    {
+      "name": "NJ Property Owner",
+      "context": "Pool and patio installation",
+      "initials": "NP",
+      "text": "From start to finish, the team was exceptional. They handled our pool installation and patio work beautifully and stayed on schedule throughout the project."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Outdoor Space?",
+    "subtitle": "Get a free, no-obligation design consultation. We'll walk your property, listen to your vision, and deliver a detailed proposal — no pressure, no gimmicks.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned landscape design & build. Serving Central New Jersey for 15+ years.",
+    "service_area": "Serving Middletown, Lincroft & Monmouth County",
+    "services": [
+      "Pool Installation",
+      "Outdoor Kitchens",
+      "Pavers & Patios",
+      "Landscape Design",
+      "Commercial Services"
+    ],
+    "copyright": "&copy; 2024 Ameriscape Landscape & Design. All rights reserved. NJ HIC #13VH09363600"
+  }
+}

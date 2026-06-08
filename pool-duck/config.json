@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-duck",
+  "company_name": "Pool Duck",
+  "tagline": "Crystal Clear Pools Aren't Luck — They're Cleaned by Pool Duck",
+  "phone": "+1 813-606-0773",
+  "email": "justin@poolduck.com",
+  "review_count": "70",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B13",
+    "secondary": "#1E88E5",
+    "cta": "#F57C00",
+    "cta_dark": "#E65100"
+  },
+  "trust_badges": {
+    "badge_1": "Veteran-Owned & Fully Insured",
+    "badge_2": "4.9/5 from 70+ Reviews",
+    "badge_3": "100% Money-Back Guarantee"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 70+ Google Reviews",
+    "badge_2": "100% Money-Back Guarantee",
+    "headline": "Tampa's Most Trusted Pool Care <span class=\"text-secondary italic\">Backed by<br>Our Veterans' Honor</span>",
+    "subheadline": "Pool Duck has kept 531+ Tampa Bay families swimming in crystal clear water since 1997. Veteran-owned, award-winning, and backed by a 100% satisfaction guarantee — so you never worry about your pool again.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Service starts within days",
+      "100% money-back guarantee"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "531",
+    "stat_1_label": "Happy Families",
+    "stat_2_value": "29",
+    "stat_2_label": "Years Serving Tampa",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Cleaned",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">a Team You Can Count On",
+    "subtitle": "From weekly cleaning to full equipment overhauls, Pool Duck handles every aspect of pool ownership so you can focus on making memories in your backyard.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Skimming, vacuuming, brushing, basket cleaning, water chemistry balancing, and full equipment checks — every single week, rain or shine."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems — our certified techs diagnose and fix it right the first time. Most repairs done same-visit."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Neglected pool turned swamp green? We bring it back to crystal clear in 48–72 hours with our proven algae elimination process."
+      },
+      {
+        "title": "Acid & Chlorine Wash",
+        "description": "Deep chemical treatment that strips away stubborn stains, calcium scale, and embedded algae — restoring surfaces to like-new condition."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "New pumps, filters, heaters, LED lights, salt chlorinators, and pool automation — professionally installed for peak performance."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Reliable, compliance-ready maintenance for HOAs, apartment complexes, and commercial facilities across the Tampa Bay area."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy as 1-2-3",
+    "steps": [
+      {
+        "title": "Book Your Free Inspection",
+        "description": "Tell us about your pool and we will schedule a free on-site inspection. No pressure, no obligations — just honest answers and a fair quote."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Our veteran-led team arrives on schedule every week. Cleaning, chemistry, equipment — everything handled with military precision and care."
+      },
+      {
+        "title": "Dive In & Relax",
+        "description": "Your pool stays sparkling, safe, and swim-ready all year long. And if anything is ever less than perfect, we make it right — guaranteed."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tampa Trusts Pool Duck",
+    "headline": "Veteran-Owned. Award-Winning. 100% Guaranteed.",
+    "description": "Founded in 1997, Pool Duck is a veteran-owned pool service company serving the Tampa Bay area with pride, discipline, and a commitment to excellence. With 531+ satisfied customers and a 4.9-star Google rating, we have earned a reputation for showing up on time, doing the job right, and standing behind every visit with a 100% money-back satisfaction guarantee. When you choose Pool Duck, you are choosing a team that treats your pool — and your trust — with the respect they deserve.",
+    "badge": "Veteran-Owned",
+    "features": [
+      {
+        "title": "Veteran-Owned & Operated",
+        "description": "Built on the values of service, discipline, and integrity. Our military background means we show up on time, every time."
+      },
+      {
+        "title": "100% Money-Back Guarantee",
+        "description": "Not satisfied with any service visit? We refund your money. No questions, no fine print, no hassle. Period."
+      },
+      {
+        "title": "531+ Happy Customers",
+        "description": "Hundreds of 5-star reviews across Wesley Chapel, Odessa, Lakewood Ranch, and beyond. Our reputation speaks for itself."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, backed by our money-back guarantee."
+  },
+  "guarantee": {
+    "headline": "Our \"Duck's Honor\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, we will come back and make it right at no charge. Still not happy? We will refund your money — no questions asked. That is the Pool Duck promise, and in 29 years of business, we have never backed away from it."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Pool Duck start servicing my pool?",
+      "answer": "Most new customers are on our schedule within 3–5 business days. For green pool emergencies or storm damage, we offer priority same-day or next-day response. Just give us a call at 813-606-0773."
+    },
+    {
+      "question": "What does your money-back guarantee actually cover?",
+      "answer": "Everything. If you are not 100% satisfied with any service visit, we will come back and redo it for free. If you are still not happy, we refund your payment. No fine print, no hoops to jump through — that is our promise."
+    },
+    {
+      "question": "Do I need to be home when your team arrives?",
+      "answer": "Not at all. Most customers provide gate access and we handle everything while you are away. After each visit, you will receive a detailed service summary so you always know exactly what was done."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. Every Pool Duck technician is licensed, fully insured, and trained to our veteran-standard of excellence. Your property and peace of mind are always protected."
+    },
+    {
+      "question": "Do you service commercial pools and HOAs?",
+      "answer": "Absolutely. We service HOAs, apartment complexes, and commercial facilities across the Tampa Bay area with reliable scheduling, compliance documentation, and dedicated account management."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Dean R.",
+      "context": "Google Review",
+      "initials": "DR",
+      "text": "Their professionalism, excellence, and commitment to quality are truly unmatched. Pool Duck is the real deal — I would not trust anyone else with our pool."
+    },
+    {
+      "name": "Jeannine Z.",
+      "context": "Google Review",
+      "initials": "JZ",
+      "text": "COULD NOT BE ANY HAPPIER with Pool Duck. Truly an awesome and communicative company. They keep us in the loop every single visit and our pool has never looked better."
+    },
+    {
+      "name": "Caio M.",
+      "context": "Google Review",
+      "initials": "CM",
+      "text": "Honestly one of the easiest companies to work with. Our family is 100% Pool Duck. They show up on time, do incredible work, and genuinely care about their customers."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Get a free, no-obligation pool inspection and honest quote within 24 hours. Veteran-owned, money-back guaranteed — just great pool care from a team that gives a duck.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Quote delivered within 24 hours",
+      "100% money-back satisfaction guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Veteran-owned pool service. Proudly serving Tampa Bay since 1997.",
+    "service_area": "Serving Wesley Chapel, New Tampa, Lutz, Land O' Lakes, Odessa, Westchase, Carrollwood, Lakewood Ranch & More",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Acid & Chlorine Wash",
+      "Commercial Service"
+    ],
+    "copyright": "&copy; 2024 Pool Duck. All rights reserved. Veteran-Owned — Licensed & Insured"
+  }
+}

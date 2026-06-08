@@ -1,0 +1,183 @@
+{
+  "folder_name": "torres-water-company",
+  "company_name": "Torres Water Company",
+  "tagline": "Clean Water Starts Here",
+  "phone": "+1 504-838-8345",
+  "email": "janet@torreswater.com",
+  "review_count": "15",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#0056A6",
+    "primary_dark": "#003D75",
+    "primary_deeper": "#002B54",
+    "secondary": "#00AEEF",
+    "cta": "#E8860C",
+    "cta_dark": "#C47009"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.7/5 from 15+ Reviews",
+    "badge_3": "Free Water Testing"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 15+ Google Reviews",
+    "badge_2": "Authorized Puronics Dealer",
+    "headline": "Pure Water for Your Family <span class=\"text-secondary italic\">Since<br>1984</span>",
+    "subheadline": "Your water should never be a question mark. Torres Water Company has protected Gulf Coast families for over 40 years with custom water treatment systems that remove contaminants, improve taste, and safeguard your health. Get a free on-site water test and find out exactly what is in your water.",
+    "cta_text": "Schedule My Free Water Test",
+    "checkmarks": [
+      "Free on-site water testing",
+      "Custom system design",
+      "After-hours emergency service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Systems Installed",
+    "stat_2_value": "42",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "12",
+    "stat_3_label": "Parishes Served",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Solutions",
+    "headline": "Water Treatment That Protects<br class=\"hidden md:block\"> Your Home and Health",
+    "subtitle": "From hard water buildup to invisible contaminants, every drop matters. We test, design, and install the right system so your family drinks, cooks, and bathes with confidence.",
+    "cards": [
+      {
+        "title": "Water Softeners",
+        "description": "Eliminate hard water scale that damages pipes, appliances, and fixtures. Our Puronics softeners save you money and extend equipment life for years."
+      },
+      {
+        "title": "Reverse Osmosis Systems",
+        "description": "Molecular-level filtration that removes impurities and re-mineralizes your drinking water for a clean, balanced taste straight from the tap."
+      },
+      {
+        "title": "Whole Home Filtration",
+        "description": "Point-of-entry systems that filter chlorine, sediment, and contaminants at the source — before water reaches a single faucet in your home."
+      },
+      {
+        "title": "UV Disinfection",
+        "description": "Chemical-free protection from bacteria, viruses, and microorganisms using ultraviolet light. Safe, effective, and maintenance-friendly."
+      },
+      {
+        "title": "Lead & PFAS Removal",
+        "description": "Certified filtration that reduces lead below EPA limits and targets harmful forever chemicals like PFOA and PFOS in your water supply."
+      },
+      {
+        "title": "Water Testing & Analysis",
+        "description": "Professional on-site water analysis to identify exactly what is in your water and recommend the precise treatment solution your home needs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Water You Can Trust",
+    "steps": [
+      {
+        "title": "Book Your Free Water Test",
+        "description": "Call or fill out our form and we will schedule a free on-site water analysis at your home. No obligation, no pressure — just answers about your water quality."
+      },
+      {
+        "title": "Get a Custom Solution",
+        "description": "Our water treatment experts design a system tailored to your specific water issues, home size, and budget — complete with a 10-year savings estimate."
+      },
+      {
+        "title": "Enjoy Pure, Safe Water",
+        "description": "We professionally install your system and handle ongoing maintenance so every faucet in your home delivers clean, great-tasting water you can trust."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why New Orleans Trusts Us",
+    "headline": "Four Decades of Water Treatment Expertise on the Gulf Coast",
+    "description": "Since 1984, Torres Water Company has been the Gulf Coast leader in residential and commercial water treatment. As an authorized Puronics dealer, we have helped thousands of homeowners — and iconic New Orleans restaurants — solve complex water problems with custom-designed systems. Our team does not sell one-size-fits-all boxes. We test your water, design the right solution, and stand behind every installation with expert service and real accountability.",
+    "badge": "Authorized Puronics Dealer",
+    "features": [
+      {
+        "title": "Free On-Site Water Testing",
+        "description": "We come to your home, test your water on the spot, and show you exactly what contaminants are present — before you spend a dime."
+      },
+      {
+        "title": "Custom System Design",
+        "description": "Every system is engineered for your specific water quality, home size, and budget. We include a 10-year savings estimate with every proposal."
+      },
+      {
+        "title": "After-Hours Emergency Service",
+        "description": "Water emergencies do not wait for business hours. Our team is available evenings and weekends when you need us most."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every system is custom-designed for your water quality needs. Get a free water test and a detailed quote with a 10-year savings estimate."
+  },
+  "guarantee": {
+    "headline": "Our \"Clean Water\" Guarantee",
+    "description": "If your water quality does not meet the standards we promised after installation, we will come back, retest, and adjust your system at no additional charge. We have stood behind our work for over 40 years because we believe every family deserves water they can trust — and we will not stop until yours does."
+  },
+  "faqs": [
+    {
+      "question": "How do I know if I need a water treatment system?",
+      "answer": "The best way to find out is with a free on-site water test. We analyze your water for hardness, contaminants, pH, and more. Many water issues — like lead, PFAS, or bacteria — are invisible and odorless, so testing is the only way to know for sure."
+    },
+    {
+      "question": "What areas do you serve in Louisiana?",
+      "answer": "We serve the Greater New Orleans metro area including Jefferson Parish, Orleans Parish, St. Tammany Parish, St. Charles Parish, Ascension Parish, St. Bernard Parish, Plaquemines Parish, Baton Rouge, and Hancock County, Mississippi."
+    },
+    {
+      "question": "How long does installation take?",
+      "answer": "Most residential installations are completed in a single day. Commercial systems may take longer depending on complexity. We schedule at your convenience and handle all the plumbing connections professionally."
+    },
+    {
+      "question": "Do you offer maintenance and filter replacements?",
+      "answer": "Yes. We provide ongoing maintenance plans to keep your system performing at its best. Regular filter changes and system checks ensure your water quality stays consistent year after year."
+    },
+    {
+      "question": "What makes Puronics systems different from store-bought filters?",
+      "answer": "Puronics systems are custom-engineered, professionally installed, and designed to treat your specific water issues at the point of entry. Unlike pitcher filters or faucet attachments, they protect your entire home — every faucet, appliance, and fixture — with far superior filtration capacity and longevity."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Miranda",
+      "context": "Facebook Review",
+      "initials": "MI",
+      "text": "Michael and Julio have been absolutely amazing. They are extremely professional and knowledgeable. Highly recommend Torres Water Company."
+    },
+    {
+      "name": "Alex F.",
+      "context": "Court of Two Sisters Restaurant",
+      "initials": "AF",
+      "text": "Torres Water has been instrumental in maintaining our water quality standards. Their expertise in commercial water treatment is unmatched in the New Orleans area."
+    },
+    {
+      "name": "Long-time Customer",
+      "context": "Verified Homeowner",
+      "initials": "LC",
+      "text": "The product is great and you can really tell the difference in the water quality. Wish we had installed it sooner."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Water You<br>Can Actually Trust?",
+    "subtitle": "Schedule a free on-site water test today. No pressure, no obligation — just honest answers about your water and a custom solution designed for your home.",
+    "benefits": [
+      "Free on-site water testing and analysis",
+      "Custom system quote within 48 hours",
+      "Over 40 years of Gulf Coast expertise"
+    ]
+  },
+  "footer": {
+    "description": "Gulf Coast water treatment experts since 1984. Serving Greater New Orleans for over 40 years.",
+    "service_area": "Serving Greater New Orleans and the Gulf Coast",
+    "services": [
+      "Water Softeners",
+      "Reverse Osmosis",
+      "Whole Home Filtration",
+      "UV Disinfection",
+      "Water Testing"
+    ],
+    "copyright": "&copy; 2024 Torres Water Company. All rights reserved. Authorized Puronics Dealer."
+  }
+}

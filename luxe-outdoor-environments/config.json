@@ -1,0 +1,183 @@
+{
+  "folder_name": "luxe-outdoor-environments",
+  "company_name": "Luxe Outdoor Environments",
+  "tagline": "Welcome To Your New Outdoor Oasis",
+  "phone": "+1 480-634-8060",
+  "email": "jen@luxeoutdoorenvironments.com",
+  "review_count": "217",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#2C3E50",
+    "primary_dark": "#1A252F",
+    "primary_deeper": "#0F171E",
+    "secondary": "#D4A855",
+    "cta": "#C17829",
+    "cta_dark": "#A5641E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "4.9/5 from 217+ Reviews",
+    "badge_3": "BBB Accredited Since 2012"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 217+ Google Reviews",
+    "badge_2": "BBB Accredited Since 2012",
+    "headline": "See Your Dream Yard <span class=\"text-secondary italic\">Before<br>We Build It</span>",
+    "subheadline": "Walk through your future outdoor oasis in immersive 3D virtual reality before a single shovel hits the ground. Luxe Outdoor Environments brings 14 years of Scottsdale expertise, honest pricing, and a 100% satisfaction guarantee to every project. You dream it, we design it, you experience it, we build it.",
+    "cta_text": "Design My Outdoor Oasis",
+    "checkmarks": [
+      "Free VR design walkthrough",
+      "14 years serving Scottsdale",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "217",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "14",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1200",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\">Designed & Built for Arizona",
+    "subtitle": "From pools and outdoor kitchens to misting systems and landscape lighting, we handle every detail of your outdoor transformation. One team, one vision, one stunning result.",
+    "cards": [
+      {
+        "title": "Pools & Spas",
+        "description": "Custom-designed pools and spas built for the Arizona lifestyle. From resort-style infinity edges to intimate plunge pools, we create your perfect backyard escape."
+      },
+      {
+        "title": "Outdoor Kitchens & BBQ Islands",
+        "description": "Gourmet outdoor kitchens and custom BBQ islands designed for serious entertaining. Built-in grills, countertops, and storage that rival any indoor kitchen."
+      },
+      {
+        "title": "Landscape Design & VR",
+        "description": "Walk through your future yard in immersive 3D virtual reality before construction begins. Our cutting-edge technology eliminates guesswork and guarantees you love the result."
+      },
+      {
+        "title": "Misting & Cooling Systems",
+        "description": "Professional misting and fogging systems that drop outdoor temperatures by up to 30 degrees. Make Arizona summers enjoyable again."
+      },
+      {
+        "title": "Pavers & Hardscaping",
+        "description": "Custom paver patios, walkways, retaining walls, and decorative hardscaping that define your outdoor spaces with lasting elegance and durability."
+      },
+      {
+        "title": "Lighting & Water Features",
+        "description": "Dramatic landscape lighting, custom water features, fire pits, and fireplaces that transform your yard into an evening showpiece."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Reality in Three Steps",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us what you dream about for your outdoor space. We visit your property, listen to your ideas, and present a custom design with detailed pricing. No surprises, no pressure."
+      },
+      {
+        "title": "Walk Through It in VR",
+        "description": "Experience your future backyard in immersive 3D virtual reality before we break ground. Adjust colors, materials, and layouts until every detail is exactly right."
+      },
+      {
+        "title": "We Build Your Oasis",
+        "description": "Our licensed, bonded crew brings your design to life with meticulous craftsmanship. Weekly updates keep you informed, and our 100% satisfaction guarantee means we are not done until you are thrilled."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Scottsdale Trusts Us",
+    "headline": "14 Years of Turning Backyards Into Outdoor Resorts",
+    "description": "Luxe Outdoor Environments was founded in 2012 with one mission: build outdoor spaces that make you never want to go inside. As a licensed, bonded, and insured company with Arizona ROC #296490, we bring the same integrity and craftsmanship to every project, whether it is a pool renovation or a complete backyard transformation. Our immersive VR technology lets you experience your new space before construction begins, so there are zero surprises and total confidence in every detail.",
+    "badge": "AZ ROC #296490",
+    "features": [
+      {
+        "title": "Licensed, Bonded & Insured",
+        "description": "Full Arizona ROC licensure, bonding, and insurance on every project. Your investment is protected from the first design to the final walkthrough."
+      },
+      {
+        "title": "Immersive VR Design Technology",
+        "description": "Walk through your future outdoor space in stunning 3D virtual reality. See exactly what you are getting before a single dollar is spent on construction."
+      },
+      {
+        "title": "100% Satisfaction Guaranteed",
+        "description": "We stand behind every project with our complete satisfaction guarantee. If something is not right, we make it right at no additional cost."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Honest Estimates.",
+    "subtitle": "Every project is custom, but every quote is clear. Detailed line-item pricing with no hidden fees, no change-order surprises."
+  },
+  "guarantee": {
+    "headline": "Our \"Dream Yard\" Guarantee",
+    "description": "If any element of your project does not meet the standard we showed you in virtual reality, we will redo it at our expense. We also guarantee honest pricing with no hidden fees, weekly communication updates throughout construction, and on-time project completion. Your satisfaction is not a goal, it is a requirement."
+  },
+  "faqs": [
+    {
+      "question": "How does the virtual reality design process work?",
+      "answer": "After our initial consultation and property survey, we create a detailed 3D model of your proposed outdoor space. You then walk through it using immersive VR technology, seeing every material, color, and feature exactly as it will look. We refine the design together until you are completely satisfied before any construction begins."
+    },
+    {
+      "question": "What areas of the Phoenix metro do you serve?",
+      "answer": "We serve Scottsdale, Paradise Valley, Cave Creek, Carefree, Fountain Hills, Central and North Phoenix, North Peoria, North Glendale, Chandler, Mesa, and Ahwatukee. If you are in the greater Phoenix metro area, give us a call."
+    },
+    {
+      "question": "Are you licensed and insured for pool construction?",
+      "answer": "Absolutely. We hold Arizona ROC License #296490 and are fully licensed, bonded, and insured for all landscape and pool construction. We have been BBB Accredited since 2012 with a stellar track record."
+    },
+    {
+      "question": "How long does a typical backyard project take?",
+      "answer": "Timelines vary based on scope. A simple paver patio may take 1-2 weeks, while a complete backyard transformation with pool, kitchen, and landscaping typically runs 8-16 weeks. We provide a detailed timeline during our VR design presentation and keep you updated weekly."
+    },
+    {
+      "question": "Do you handle everything or do I need separate contractors?",
+      "answer": "We are a full-service design and build company. Pools, spas, kitchens, lighting, misting systems, pavers, irrigation, turf, entertainment systems, and more. One team, one contract, one point of contact from start to finish. No juggling multiple contractors."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Martha K.",
+      "context": "Ahwatukee, AZ",
+      "initials": "MK",
+      "text": "They made a dream come true for us. Not only did they deliver party-ready results, but our yard looks more beautiful now than it ever has. Worth every penny."
+    },
+    {
+      "name": "Evan S.",
+      "context": "Phoenix, AZ",
+      "initials": "ES",
+      "text": "These guys are the best because, unlike 99% of businesses out there, they actually do what they say they will do. It is called integrity. Highest recommendation."
+    },
+    {
+      "name": "Scott M.",
+      "context": "Scottsdale, AZ",
+      "initials": "SM",
+      "text": "The system that they delivered far exceeded our expectations. My wife and I cannot recommend them highly enough. The VR walkthrough was incredible."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Backyard?",
+    "subtitle": "Get a free design consultation and experience your future outdoor space in virtual reality. No pressure, no obligation, just honest answers and a stunning vision for your yard.",
+    "benefits": [
+      "Free VR design consultation",
+      "Detailed quote within 48 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Licensed, bonded & insured outdoor living design and construction. Serving Scottsdale and the Phoenix metro since 2012.",
+    "service_area": "Serving Scottsdale, Paradise Valley & Greater Phoenix",
+    "services": [
+      "Pools & Spas",
+      "Outdoor Kitchens",
+      "Landscape Design",
+      "Pavers & Hardscaping",
+      "Misting Systems"
+    ],
+    "copyright": "&copy; 2024 Luxe Outdoor Environments. All rights reserved. Arizona ROC #296490"
+  }
+}
