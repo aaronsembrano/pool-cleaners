@@ -1,0 +1,183 @@
+{
+  "folder_name": "best-pool-service",
+  "company_name": "Best Pro Pool Service",
+  "tagline": "Your backyard should be your favorite place to relax",
+  "phone": "+1 209-358-7665",
+  "email": "benny@bestpropool.com",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C4A",
+    "primary_deeper": "#0E1F35",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D4900E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Contractor #871411",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Serving Merced County Since 2009"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Photo Updates After Every Visit",
+    "headline": "See Your Pool Sparkling <span class=\"text-secondary italic\">Before You<br>Get Home</span>",
+    "subheadline": "We send you a photo after every service visit so you never have to wonder. Best Pro Pool Service has kept Merced County pools crystal clear since 2009 — just dive in.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free pool inspection",
+      "Photo proof after every visit",
+      "Licensed contractor #871411"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "16",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "30",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Cleaning to Construction",
+    "subtitle": "From weekly maintenance to full backyard remodels, our licensed team handles every aspect of pool care so you can focus on enjoying your outdoor space.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Skimming, vacuuming, brushing walls and tiles, and emptying baskets — your pool stays swim-ready every week with photo documentation sent after every visit."
+      },
+      {
+        "title": "Pool Maintenance Plans",
+        "description": "Year-round chemical balancing, water testing, filter cleaning, and equipment inspections starting at $175/month. Your pool stays safe and healthy every season."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Expert leak detection, equipment troubleshooting, and structural repairs. We diagnose problems fast and charge honestly — even less when the fix is simpler than expected."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Authorized service for Pentair, Jandy, Zodiac, and Waterway. Filters, pumps, heaters, LED lighting, and automation systems repaired or replaced right."
+      },
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom pool design and new construction to transform your backyard into the perfect outdoor oasis. From concept sketches through the first splash."
+      },
+      {
+        "title": "Backyard Remodeling",
+        "description": "Surface refinishing, equipment upgrades, new tile, and outdoor living improvements. We revitalize tired pools into backyard retreats you actually want to use."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Tell us about your pool and we'll come out for a free inspection. You'll get an honest quote within 24 hours — no pressure, no obligation."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our licensed technicians arrive on schedule and handle cleaning, chemicals, and equipment checks. You get a photo sent to your phone after every single visit."
+      },
+      {
+        "title": "Relax in Your Backyard",
+        "description": "Your pool stays crystal clear and swim-ready all year. With 16 years of trusted service, you can finally treat your backyard like the retreat it should be."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Merced County Trusts Us",
+    "headline": "Locally Owned. Photo-Verified. Honest to the Core.",
+    "description": "Founded in 2009 by Benny Friesen and Andrew Jantz, Best Pro Pool Service was built on a simple idea: treat every customer's pool like it's our own. With over 30 years of combined experience and a licensed team (Contractor #871411), we've earned the trust of families across Atwater, Merced, Turlock, and beyond. We send photo proof after every visit because transparency isn't a policy — it's who we are.",
+    "badge": "License #871411",
+    "features": [
+      {
+        "title": "Photo Proof After Every Visit",
+        "description": "You'll receive a photo of your sparkling pool after each service so you always know exactly what condition it's in."
+      },
+      {
+        "title": "Honest, Fair Pricing Always",
+        "description": "We charge less when the repair is simpler than expected. No upselling, no hidden fees — just straightforward pricing you can trust."
+      },
+      {
+        "title": "Pentair & Jandy Certified",
+        "description": "Our technicians are factory-certified to service the top equipment brands, so your pool hardware is in expert hands."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Maintenance plans starting at $175/month. Flexible options for every pool size — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra charge. With 16 years in business and photo documentation of every visit, we stand behind our work completely. Your pool will be sparkling — or we keep working until it is."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent issues like equipment failures or green pools, we offer priority response. Call us at 209-358-7665 and we'll get you on the calendar fast."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Atwater, Merced, Turlock, Livingston, Winton, Delhi, and surrounding Merced County communities. If you're in the region and not sure, just give us a call — we'll let you know."
+    },
+    {
+      "question": "Do you send updates after each visit?",
+      "answer": "Yes! We send a photo of your pool after every single service visit. You'll always know exactly what condition your pool is in, even when you're away from home. It's one of the things our customers love most."
+    },
+    {
+      "question": "What brands of equipment do you service?",
+      "answer": "We're authorized to service top brands including Pentair, Jandy, Zodiac, and Waterway. Whether it's a pump, filter, heater, LED lighting, or automation system, our certified techs have you covered."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We hold Pool Contractor License #871411 and carry full liability insurance. Benny and Andrew founded this company in 2009 and have over 30 years of combined experience in the pool industry."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Yvonne T.",
+      "text": "We love our pool service! Best Pro Pools are the very best! Always on time, always doing a great job and always letting us know if there are any issues with our equipment!",
+      "context": "Weekly cleaning client",
+      "initials": "YT"
+    },
+    {
+      "name": "Elizabeth W.",
+      "text": "Great reliable service. I love that they send you a picture every time they clean the pool so you always know the condition of your pool.",
+      "context": "Homeowner, Merced County",
+      "initials": "EW"
+    },
+    {
+      "name": "Arthur D.",
+      "text": "Highly recommend, Andrew fixed my pool issue and charged less than quoted when the repair didn't require a part. Honest and fair pricing.",
+      "context": "Pool repair customer",
+      "initials": "AD"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Photo-Ready?",
+    "subtitle": "Get a free inspection and honest quote within 24 hours. No contracts, no pressure — just two local guys who've been keeping Merced County pools sparkling since 2009.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Honest quote within 24 hours",
+      "Photo documentation after every visit"
+    ]
+  },
+  "footer": {
+    "description": "Locally-owned pool service. Proudly serving Merced County since 2009.",
+    "service_area": "Serving Atwater, Merced, Turlock, Livingston, Winton & Delhi",
+    "services": [
+      "Weekly Cleaning",
+      "Pool Maintenance",
+      "Pool Repair",
+      "Equipment Service",
+      "Pool Construction"
+    ],
+    "copyright": "&copy; 2024 Best Pro Pool Service. All rights reserved. Licensed Pool Contractor #871411"
+  }
+}
