@@ -1,0 +1,183 @@
+{
+  "folder_name": "watertite-solutions",
+  "company_name": "Watertite Solutions",
+  "tagline": "Leak Detection & Permanent Pool Repair For Commercial & Residential Inground Swimming Pools",
+  "phone": "+1 218-232-3710",
+  "email": "jack@watertitesolutions.com",
+  "review_count": "15",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1B4D7A",
+    "primary_dark": "#12354F",
+    "primary_deeper": "#0A2236",
+    "secondary": "#2A8FBD",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "Permanent Repairs Guaranteed"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "Permanent Fixes, Not Patches",
+    "headline": "Stop Losing Water. <span class=\"text-secondary italic\">Start Enjoying<br>Your Pool Again.</span>",
+    "subheadline": "Every pool leak has an answer. Watertite Solutions finds it with surgical precision and fixes it permanently — so you never worry about water loss, rising bills, or structural damage again.",
+    "cta_text": "Schedule My Leak Detection",
+    "checkmarks": [
+      "Every inch inspected",
+      "Permanent repair guarantee",
+      "No leak left unfound"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Leaks Found & Fixed",
+    "stat_2_value": "5",
+    "stat_2_label": "Years Serving Atlanta",
+    "stat_3_value": "100",
+    "stat_3_label": "Pools Made Watertight",
+    "stat_4_value": "100%",
+    "stat_4_label": "Permanent Fix Rate"
+  },
+  "services": {
+    "label": "Our Specialties",
+    "headline": "Precision Leak Detection &<br class=\"hidden md:block\"> Permanent Pool Repair",
+    "subtitle": "Stop guessing where the water is going. Our surgical approach pinpoints every leak and delivers permanent repairs that restore your pool's integrity for good.",
+    "cards": [
+      {
+        "title": "Full-Pool Leak Detection",
+        "description": "Every square inch of your pool inspected using innovative methods developed specifically for in-ground pools. We test all penetrations and plumbing lines — no leak goes unfound."
+      },
+      {
+        "title": "Structural Crack Repair",
+        "description": "Permanent repair of shell cracks, expansion joint failures, and structural compromises. Our customized solutions restore watertight integrity that lasts for years."
+      },
+      {
+        "title": "Plumbing Line Repair",
+        "description": "Underground plumbing leaks diagnosed and repaired with precision. We locate the exact breach point and fix it permanently — no unnecessary excavation."
+      },
+      {
+        "title": "Skimmer & Return Repair",
+        "description": "Skimmer bodies, return fittings, and light niches are common leak sources. We seal them with top-of-the-line materials that outlast the original installation."
+      },
+      {
+        "title": "Commercial Pool Solutions",
+        "description": "Hotels, HOAs, fitness centers, and municipal pools trust us for discreet, efficient leak detection and repair that minimizes downtime and keeps facilities operational."
+      },
+      {
+        "title": "Detailed Findings Report",
+        "description": "After every detection, you receive a comprehensive findings report with photos, measurements, and repair recommendations — so you understand exactly what needs fixing and why."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Watertight Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Detection",
+        "description": "Tell us about your pool and the water loss you're noticing. We'll schedule a thorough leak detection at a time that works for you — most appointments within days."
+      },
+      {
+        "title": "We Inspect Every Inch",
+        "description": "Jack personally inspects every square inch of your pool using proprietary methods developed for in-ground pools. All penetrations, plumbing lines, and surfaces are tested systematically."
+      },
+      {
+        "title": "Get a Permanent Fix",
+        "description": "You receive a detailed findings report with repair options. We discuss the best approach together, then execute a permanent, surgical repair — no temporary patches, no callbacks."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Atlanta Pool Owners Trust Us",
+    "headline": "Not a Quick Fix — A Permanent Solution",
+    "description": "Watertite Solutions was founded by Jack Eggen, a hands-on craftsman with deep roots in the swimming pool industry. After years in pool construction and repair in Florida and Minnesota, Jack brought his family and his mission to Atlanta: reform the pool industry through a commitment to excellence. Every repair is approached like surgery — precise, thorough, and built to last. When Jack is done, your pool is watertight. Period.",
+    "badge": "Licensed & Insured",
+    "features": [
+      {
+        "title": "Owner-Operated, Hands-On",
+        "description": "Jack Eggen personally handles every detection and repair. No subcontractors, no technician roulette — the owner does the work."
+      },
+      {
+        "title": "Permanent Solutions Only",
+        "description": "We don't do temporary patches. Every repair uses top-of-the-line materials and techniques engineered to outlast the pool itself."
+      },
+      {
+        "title": "Detailed Transparency",
+        "description": "You get a full findings report with photos and recommendations before any repair begins. No surprises, no pressure — just honest expertise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is different. We provide a detailed quote after your leak detection so you know exactly what you're paying for — and why."
+  },
+  "guarantee": {
+    "headline": "Our \"Watertight\" Guarantee",
+    "description": "If a repair we perform ever fails, we come back and fix it at no additional cost. Our surgical approach means this almost never happens — but if it does, you're covered. We stand behind every repair because permanent means permanent."
+  },
+  "faqs": [
+    {
+      "question": "How do I know if my pool has a leak?",
+      "answer": "Common signs include unexplained water loss, constantly running autofill, cracks in the deck or shell, soggy spots in your yard, and rising water bills. If you're adding more than 1/4 inch of water per day beyond normal evaporation, you likely have a leak. Call us for a professional detection."
+    },
+    {
+      "question": "How long does a leak detection take?",
+      "answer": "Most residential pool leak detections take 2-4 hours depending on pool size and complexity. We inspect every square inch — penetrations, plumbing lines, shell surfaces — so nothing is missed. We'd rather be thorough than fast."
+    },
+    {
+      "question": "Will you tear up my pool deck for repairs?",
+      "answer": "Our surgical approach minimizes disruption. We pinpoint the exact leak location so repairs are precise — no unnecessary excavation or deck removal. Most repairs leave your pool area looking exactly as it did before, minus the leak."
+    },
+    {
+      "question": "Do you work on commercial pools?",
+      "answer": "Absolutely. We serve hotels, HOAs, fitness centers, apartment communities, and municipal pools across the greater Atlanta area. Commercial clients appreciate our efficiency and detailed reporting that keeps management informed."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the greater Atlanta area including Smyrna, Marietta, Kennesaw, Roswell, Alpharetta, Decatur, Buckhead, Sandy Springs, and all of Cobb County. If you're in metro Atlanta, we can help."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Atlanta Homeowner",
+      "context": "Residential Pool Leak Repair",
+      "initials": "AH",
+      "text": "Jack came out and did a thorough leak detection for a very reasonable price. He found skimmer leaks that other companies had missed and sealed them permanently. Very professional and honest."
+    },
+    {
+      "name": "Smyrna Pool Owner",
+      "context": "Leak Detection & Repair",
+      "initials": "SP",
+      "text": "Watertite Solutions took a surgical approach to finding and fixing our pool leak. Jack was thorough, explained everything clearly, and the repair has held up perfectly. Highly recommend for anyone with a leaking pool."
+    },
+    {
+      "name": "Commercial Property Mgr.",
+      "context": "Commercial Pool Repair",
+      "initials": "CP",
+      "text": "We had been dealing with a persistent pool leak for months. Jack's detection process was incredibly detailed — he inspected every inch and found the issue quickly. The permanent repair saved us from ongoing water loss and costly bills."
+    }
+  ],
+  "contact": {
+    "headline": "Tired of Watching Your<br>Pool Lose Water?",
+    "subtitle": "Get a thorough leak detection scheduled within days. No guesswork, no temporary fixes — just permanent solutions from a company that stands behind every repair.",
+    "benefits": [
+      "Every square inch inspected",
+      "Detailed findings report included",
+      "Permanent repair guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated leak detection & permanent pool repair serving the greater Atlanta area since 2021.",
+    "service_area": "Serving Greater Atlanta, Smyrna, Marietta & Surrounding Areas",
+    "services": [
+      "Leak Detection",
+      "Structural Repair",
+      "Plumbing Repair",
+      "Commercial Pools",
+      "Findings Reports"
+    ],
+    "copyright": "&copy; 2026 Watertite Solutions. All rights reserved. Licensed & Insured Pool Contractor — Smyrna, Georgia"
+  }
+}

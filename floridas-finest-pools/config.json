@@ -1,0 +1,183 @@
+{
+  "folder_name": "floridas-finest-pools",
+  "company_name": "Florida's Finest Pools",
+  "tagline": "Professional, Knowledgeable, Responsive, and Committed to Customer Satisfaction",
+  "phone": "+1 561-672-7665",
+  "email": "jeff@floridasfinestpools.com",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005F8C",
+    "primary_deeper": "#003F5E",
+    "secondary": "#22D3EE",
+    "cta": "#F4A300",
+    "cta_dark": "#D48E00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "3.4/5 from 32+ Reviews",
+    "badge_3": "Hayward Certified"
+  },
+  "hero": {
+    "badge_1": "20+ Years Serving South Florida",
+    "badge_2": "Factory-Certified Technicians",
+    "headline": "South Florida's Most Trusted <span class=\"text-secondary italic\">Pool Experts</span>",
+    "subheadline": "For over 20 years, homeowners from Boca Raton to Lake Worth have counted on our factory-trained technicians to keep their pools flawless. Authorized by Hayward, Pentair, Zodiac, and Jandy -- so your pool is always in certified hands.",
+    "cta_text": "Request Your Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Factory-certified technicians",
+      "Authorized warranty service center"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in South Florida",
+    "stat_3_value": "7",
+    "stat_3_label": "Brand Certifications",
+    "stat_4_value": "24hr",
+    "stat_4_label": "Emergency Response"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Certified Professionals",
+    "subtitle": "From weekly maintenance to full renovations, our factory-trained team handles every aspect of pool ownership so you can focus on enjoying your backyard oasis.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Flexible scheduling with thorough cleaning, chemical balancing, and equipment checks. Your pool stays swim-ready every single week, guaranteed."
+      },
+      {
+        "title": "Equipment Repairs & Installation",
+        "description": "Factory-trained on Hayward, Pentair, Zodiac, and Jandy systems. We diagnose fast and repair right the first time with genuine parts."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Transform your outdated pool into a stunning backyard centerpiece. Full project management from design through final inspection."
+      },
+      {
+        "title": "Surface Refinishing",
+        "description": "Authorized Diamond Brite and River Rock applicators. We restore your pool interior with premium, long-lasting surface finishes."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak sourcing technology pinpoints the problem fast. Professional repairs stop water loss and prevent costly structural damage."
+      },
+      {
+        "title": "Pool Lighting & Upgrades",
+        "description": "Energy-efficient LED lighting, automation systems, and modern upgrades that extend your pool enjoyment well into the evening."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Perfectly Maintained Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out our form. We'll visit your property, inspect your pool and equipment, and provide an honest recommendation -- no pressure, no obligation."
+      },
+      {
+        "title": "Our Certified Team Takes Over",
+        "description": "Factory-trained technicians handle everything -- cleaning, chemistry, equipment checks, and repairs. We show up on schedule, every time."
+      },
+      {
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Your pool stays pristine and swim-ready year round. Plus, as an authorized service center, your equipment warranties stay fully protected."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Florida Trusts Us",
+    "headline": "Not Just Pool Techs -- Factory-Certified Pool Experts",
+    "description": "Founded in Boca Raton over 20 years ago, Florida's Finest Pools has grown into one of the largest pool companies in South Florida. Our showroom headquarters serves as a resource center where customers can get free water testing and expert advice. Every technician on our team is factory-trained and certified by the brands they service -- Hayward, Zodiac, Jandy, Pentair, and more.",
+    "badge": "7x Brand Certified",
+    "features": [
+      {
+        "title": "Factory-Trained & Certified",
+        "description": "Every technician holds certifications from Hayward, Pentair, Zodiac, and Jandy. Your equipment is serviced by the people who know it best."
+      },
+      {
+        "title": "Authorized Warranty Center",
+        "description": "As an authorized service provider for major manufacturers, we protect your equipment warranties while delivering expert-level repairs."
+      },
+      {
+        "title": "20+ Years of Local Expertise",
+        "description": "Two decades of South Florida pool care means we've seen it all. From Coral Springs to Lake Worth, we know the unique challenges of pools in this region."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different. Contact us for a custom quote tailored to your pool size, equipment, and service needs."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us within 24 hours and we'll return to make it right at no additional cost. We've built our reputation over 20 years by standing behind every job -- and we're not about to stop now."
+  },
+  "faqs": [
+    {
+      "question": "What brands of pool equipment do you service?",
+      "answer": "We are factory-trained and authorized service providers for Hayward, Zodiac, Jandy, Pentair, and Autopilot. As a certified service center, we carry genuine parts and our repairs protect your manufacturer warranties."
+    },
+    {
+      "question": "How quickly can you start weekly pool service?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For equipment emergencies or green pools, we offer priority response. Call our Boca Raton office and we'll get you on the schedule fast."
+    },
+    {
+      "question": "Do you handle pool renovations from start to finish?",
+      "answer": "Absolutely. We manage every phase of your renovation -- from initial design consultation through surface finishing, equipment upgrades, deck work, and final inspection. One company, one point of contact, zero headaches."
+    },
+    {
+      "question": "What areas do you serve in South Florida?",
+      "answer": "We service Boca Raton, Coral Springs, Deerfield Beach, Margate, Lake Worth, and surrounding communities. Our team covers residential, commercial, and developer properties throughout the region."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Every technician is factory-trained and holds certifications from multiple major pool equipment manufacturers. We also maintain authorized applicator status for Diamond Brite and River Rock pool finishes."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "M.S.",
+      "context": "Boca Raton Homeowner",
+      "initials": "MS",
+      "text": "Jeff took the time to discuss all our options. Our pool went from shabby and run down to the nicest pool in the neighborhood. We couldn't be happier with the transformation."
+    },
+    {
+      "name": "P.R.",
+      "context": "Deerfield Beach, Since 2005",
+      "initials": "PR",
+      "text": "Florida's Finest Pools has been servicing our pool since 2005. They are competent, honest, and professional. Great service and always reliable -- over 18 years and counting."
+    },
+    {
+      "name": "S.P.",
+      "context": "Coral Springs Resident",
+      "initials": "SP",
+      "text": "We have been using Florida's Finest Pools for over five years and are completely satisfied with their work. We highly recommend them for all your pool service needs."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care You Can<br>Actually Count On?",
+    "subtitle": "Get a free, no-obligation pool assessment from our certified team. We'll inspect your pool, review your equipment, and give you honest recommendations -- no pressure.",
+    "benefits": [
+      "Free on-site pool and equipment inspection",
+      "Response within 24 hours",
+      "Factory-certified service guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "South Florida's trusted pool experts. Serving Boca Raton and surrounding communities for 20+ years.",
+    "service_area": "Serving Boca Raton, Coral Springs, Deerfield Beach, Margate & Lake Worth",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repairs",
+      "Pool Renovations",
+      "Surface Refinishing",
+      "Leak Detection"
+    ],
+    "copyright": "&copy; 2024 Florida's Finest Pools. All rights reserved. Boca Raton, FL"
+  },
+  "review_count": "32",
+  "review_rating": "3.4"
+}

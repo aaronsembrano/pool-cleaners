@@ -1,0 +1,183 @@
+{
+  "folder_name": "jps-pool-service",
+  "company_name": "JPS Pool Service",
+  "tagline": "Dive Into Professional Pool Service & Repair",
+  "phone": "+1 401-230-3493",
+  "email": "josh@poolguyri.com",
+  "review_count": "35",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122843",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "trust_badges": {
+    "badge_1": "NESPA Certified Member",
+    "badge_2": "4.8/5 from 35+ Reviews",
+    "badge_3": "Authorized Warranty Center"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 35+ Google Reviews",
+    "badge_2": "NESPA Certified Since 2009",
+    "headline": "Rhode Island's Gunite Pool <span class=\"text-secondary italic\">Experts Since 2009</span>",
+    "subheadline": "Your high-end pool deserves specialized care from a family who has dedicated 17 years to mastering gunite pools. From weekly maintenance to full resurfacing, JPS handles it all so you just dive in.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Authorized warranty service center",
+      "Serving RI, CT & South MA"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "17",
+    "stat_2_label": "Years of Experience",
+    "stat_3_value": "3",
+    "stat_3_label": "States Served",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Specialties",
+    "headline": "Gunite Pool Experts for<br class=\"hidden md:block\"> Every Season & Every Need",
+    "subtitle": "From spring openings to winter closings, equipment upgrades to full renovations, JPS delivers premium care for your investment.",
+    "cards": [
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and winterization done right by certified technicians. Your pool is protected year-round and swim-ready when the weather turns warm."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Balanced chemistry, thorough cleaning, and equipment checks every visit. Your pool stays crystal clear and safe for your family all season long."
+      },
+      {
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, filters, heaters, salt systems — we diagnose fast and fix it right. As an authorized warranty center, we service all major brands."
+      },
+      {
+        "title": "Structural Pool Repair",
+        "description": "Cracks, leaks, and structural issues in gunite and concrete pools repaired with precision. We restore integrity so your pool lasts decades more."
+      },
+      {
+        "title": "Resurfacing & Replastering",
+        "description": "Full interior resurfacing and replastering for a smooth, beautiful, watertight finish. Transform a worn pool into a showpiece."
+      },
+      {
+        "title": "Tile, Coping & Deck Renovation",
+        "description": "Complete renovation of tile, coping, and pool decking. Upgrade the look, safety, and value of your entire pool area."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out our form. Josh or a team member will visit your pool, evaluate its condition, and provide an honest, no-pressure quote within 24 hours."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our NESPA-trained technicians arrive on time, every time. Whether it is weekly maintenance, a repair, or a full renovation, your pool is in expert hands."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays pristine and swim-ready while you spend your weekends relaxing, not working. That is the JPS difference families count on."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Rhode Islanders Trust JPS",
+    "headline": "Family-Owned, Gunite-Focused, Community-Driven",
+    "description": "Founded in 2009 by Joshua Mattey, JPS Pool Service grew from a passion project into the region's go-to gunite pool experts. As a NESPA member and authorized warranty center for major equipment brands, we invest in yearly training so every technician brings current knowledge to your backyard. We serve Rhode Island, Connecticut, southern Massachusetts, and even Block Island — because great pool care should not stop at the shore.",
+    "badge": "NESPA Certified",
+    "features": [
+      {
+        "title": "Authorized Warranty Center",
+        "description": "Factory-trained and certified to service and warranty major pool equipment brands. Your repairs are backed by the manufacturer."
+      },
+      {
+        "title": "Family-Owned Since 2009",
+        "description": "Josh and his team treat every pool like their own. Personalized service, direct communication, and accountability you can count on."
+      },
+      {
+        "title": "Gunite & Concrete Specialists",
+        "description": "We focus exclusively on high-end gunite pools — the most demanding pool type. That specialization means deeper expertise for your investment."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is unique. Contact us for an honest quote tailored to your pool's size, condition, and needs — no hidden fees, ever."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional cost. We have built our reputation on doing the job right the first time, and we stand behind every visit with a 100% satisfaction promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within one week. For urgent repairs or green pool emergencies, we offer priority same-day or next-day response. Call us and we will work with your timeline."
+    },
+    {
+      "question": "Do you only service gunite pools?",
+      "answer": "We specialize in gunite and concrete pools, which is where our deepest expertise lies. However, we also service vinyl and fiberglass pools for maintenance, equipment work, and openings/closings. Contact us to discuss your pool."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve all of Rhode Island including Block Island, Connecticut, and southern Massachusetts. Our team regularly travels throughout the tri-state region to care for residential and commercial pools."
+    },
+    {
+      "question": "Are you an authorized warranty service center?",
+      "answer": "Yes. JPS is an authorized dealer warranty center for several major pool equipment brands. This means your equipment repairs and installations are backed by manufacturer warranties and performed by factory-trained technicians."
+    },
+    {
+      "question": "Do you handle commercial pools?",
+      "answer": "Absolutely. We provide specialized maintenance, repair, and compliance services for commercial pool facilities including hotels, fitness centers, and community pools throughout our service area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Chad S.",
+      "context": "Pool opening & repairs",
+      "initials": "CS",
+      "text": "Josh and his technicians were simply outstanding in both responsiveness and results. They handled our opening and fixed issues we didn't even know we had. Truly top-notch service."
+    },
+    {
+      "name": "Richard W.",
+      "context": "Pool maintenance & restoration",
+      "initials": "RW",
+      "text": "JPS is without a doubt the most professional pool service company out there. From routine maintenance to a full restoration project, they exceeded every expectation. Our pool has never looked better."
+    },
+    {
+      "name": "Kevin O.",
+      "context": "Refinishing & salt conversion",
+      "initials": "KO",
+      "text": "Josh is very reliable and easy to work with. He handled our replastering, tile updates, pump replacement, and salt system conversion flawlessly. Our family cannot wait for swim season every year now."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for the Pool Care<br>Your Family Deserves?",
+    "subtitle": "Get a free, no-pressure assessment from Rhode Island's gunite pool specialists. 17 years of expertise, one phone call away.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "NESPA-certified expert technicians"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned gunite pool specialists serving Rhode Island, Connecticut & southern Massachusetts since 2009.",
+    "service_area": "Serving RI, CT & Southern MA including Block Island",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair & Install",
+      "Resurfacing & Replastering",
+      "Tile & Coping Renovation",
+      "Pool Opening & Closing"
+    ],
+    "copyright": "&copy; 2024 JPS Pool Service. All rights reserved. North Scituate, Rhode Island."
+  }
+}

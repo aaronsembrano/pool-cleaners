@@ -1,0 +1,183 @@
+{
+  "folder_name": "alotta-pool-service",
+  "company_name": "Alotta Pool Service",
+  "tagline": "We keep pools clean. You enjoy them.",
+  "phone": "+1 239-572-9200",
+  "email": "derek@alottapoolservice.com",
+  "review_count": "30",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1B4F72",
+    "primary_dark": "#143A55",
+    "primary_deeper": "#0E2A3E",
+    "secondary": "#2196F3",
+    "cta": "#00BCD4",
+    "cta_dark": "#0097A7"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified & Insured",
+    "badge_2": "5.0/5 from 30+ Reviews",
+    "badge_3": "100% Satisfaction Guarantee"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 30+ Google Reviews",
+    "badge_2": "CPO Certified Technicians",
+    "headline": "Your Pool, Always Ready <span class=\"text-secondary italic\">Always<br>Crystal Clear</span>",
+    "subheadline": "Lee County families trust Alotta Pool Service for dependable weekly care, real-time water tracking, and photo updates after every visit. Stop worrying about your pool — just dive in.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-week service start",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "8",
+    "stat_2_label": "Years in Lee County",
+    "stat_3_value": "30",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\">Lee County Homes & Businesses",
+    "subtitle": "From weekly cleanings to emergency green-pool rescues, our CPO-certified team handles every detail so you can enjoy your backyard year-round.",
+    "cards": [
+      {
+        "title": "Pool Cleaning",
+        "description": "Thorough debris removal, surface scrubbing, and tile cleaning that leaves your pool sparkling and swim-ready every single visit."
+      },
+      {
+        "title": "Pool Maintenance",
+        "description": "Weekly equipment checks, filter cleaning, and system inspections to keep your pool running efficiently all year long in the Florida heat."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Neglected or algae-filled pool? Our specialized treatment restores green, cloudy water to pristine condition — typically within 48-72 hours."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing using real-time tracking software. Safe, clear water that's gentle on skin — no red eyes, no guesswork."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Expert care for HOAs, resorts, and business pools. We ensure full compliance with health standards and keep your facility swim-ready daily."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Pumps, filters, heaters, and salt systems — our certified technicians diagnose and fix equipment issues quickly to minimize downtime."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Tell us about your pool and we'll provide an honest, no-pressure quote within 24 hours. We'll inspect your equipment, water, and surfaces at no cost."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our CPO-certified technicians arrive on schedule with real-time chemical tracking. You'll get weekly email updates with photos after every service visit."
+      },
+      {
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready year-round. Not satisfied with any visit? We come back and fix it — free. That's our 100% guarantee."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Lee County Trusts Us",
+    "headline": "Locally Owned, Personally Invested in Your Pool",
+    "description": "Since 2017, Alotta Pool Service has been the trusted pool care partner for families across Estero, Bonita Springs, and Lee County. Our CPO-certified technicians use real-time chemical tracking software — not guesswork — to keep your water perfectly balanced. Every visit includes a photo update sent straight to your inbox, so you always know exactly what was done. We treat every pool like it's our own.",
+    "badge": "CPO Certified #C-063248",
+    "features": [
+      {
+        "title": "Real-Time Chemical Tracking",
+        "description": "Our software monitors your pool's chemistry in real time, ensuring perfectly balanced water at every visit — no guesswork, no surprises."
+      },
+      {
+        "title": "Weekly Photo Updates",
+        "description": "After every service, you receive an email with photos of your pool. Full transparency so you always know the condition of your water."
+      },
+      {
+        "title": "100% Satisfaction Guaranteed",
+        "description": "Not happy with any visit? We come back and redo it at no charge — no questions asked. Your satisfaction is our reputation."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — we earn your trust every visit."
+  },
+  "guarantee": {
+    "headline": "Our 100% Satisfaction Promise",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right — at absolutely no extra cost. No fine print, no runaround. We've built our reputation on doing right by Lee County pool owners, and we intend to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Estero and Bonita Springs area are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Call us at 239-572-9200 and we'll get you on the schedule fast."
+    },
+    {
+      "question": "What's included in a weekly pool service visit?",
+      "answer": "Every visit includes surface skimming, vacuuming, chemical testing and balancing using our real-time tracking software, filter check, and equipment inspection. You'll receive an email with photos after each visit so you always know what was done."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our technicians are CPO certified through the Pool & Hot Tub Alliance (Certificate #C-063248) and trained in current industry practices. They carry full liability insurance and are committed to safe, professional service."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "No contracts required. We believe in earning your business every visit. You can upgrade, downgrade, or cancel at any time with zero fees or penalties."
+    },
+    {
+      "question": "Do you service commercial properties?",
+      "answer": "Absolutely. We service HOA community pools, resort properties, and commercial facilities across Lee County. Commercial clients get dedicated service schedules and full compliance with health and safety standards."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-time Customer",
+      "context": "Google Review",
+      "initials": "LC",
+      "text": "I finally found a pool company that has great service with excellent follow up and communication. Derek goes out of his way to make sure my pool is taken care of. He is second to none."
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "context": "Google Review",
+      "initials": "SH",
+      "text": "Derek is very competent in his craft and always ensures the water is clean and safe for swimming. He is a fine young man who not only does good work but also knows how to treat his customers."
+    },
+    {
+      "name": "Returning Client",
+      "context": "Google Review",
+      "initials": "RC",
+      "text": "Alotta Pool Service provided us with excellent service over two years. The quality of service, dependability and price were far better than the larger pool service company we used previously."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure pool inspection and quote within 24 hours. No contracts, no commitments — just honest, dependable pool care from your neighbors in Lee County.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours guaranteed",
+      "100% satisfaction guaranteed on every visit"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. Serving Lee County, FL since 2017.",
+    "service_area": "Serving Estero, Bonita Springs & Lee County, FL",
+    "services": [
+      "Pool Cleaning",
+      "Pool Maintenance",
+      "Green-to-Clean Recovery",
+      "Commercial Pool Service",
+      "Pool Repair"
+    ],
+    "copyright": "&copy; 2024 Alotta Pool Service. All rights reserved. CPO Certified #C-063248"
+  }
+}
