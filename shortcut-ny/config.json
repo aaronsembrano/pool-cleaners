@@ -1,0 +1,183 @@
+{
+  "folder_name": "shortcut-ny",
+  "company_name": "Shortcut",
+  "tagline": "Revitalize Your Workplace with On-Site Wellness",
+  "phone": "(212) 555-0199",
+  "email": "will@getshortcut.co",
+  "review_count": "100,000",
+  "review_rating": "4.96",
+  "colors": {
+    "primary": "#F5C518",
+    "primary_dark": "#C99E0E",
+    "primary_deeper": "#1A1A2E",
+    "secondary": "#F5C518",
+    "cta": "#E85D26",
+    "cta_dark": "#C44A1A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured Professionals",
+    "badge_2": "4.96/5 from 100K+ Services",
+    "badge_3": "HSA/FSA Reimbursable"
+  },
+  "hero": {
+    "badge_1": "4.96/5 from 100,000+ Services Delivered",
+    "badge_2": "87% Client Retention Rate",
+    "headline": "Your Team Deserves <span class=\"text-secondary italic\">World-Class<br>Wellness</span>",
+    "subheadline": "Premium massage, nail, hair, and mindfulness services delivered directly to your office. Shortcut handles every detail so your employees get the perks they deserve and you get the retention results you need.",
+    "cta_text": "Book a Wellness Event",
+    "checkmarks": [
+      "Full setup and equipment included",
+      "7-day turnaround from quote to event",
+      "Trusted by DraftKings, PwC & BCG"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "100",
+    "stat_1_label": "Thousand Services Delivered",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "94",
+    "stat_3_label": "Employee Satisfaction %",
+    "stat_4_value": "87%",
+    "stat_4_label": "Client Retention Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Wellness That Comes<br class=\"hidden md:block\"> to Your Team",
+    "subtitle": "Stop losing talent to burnout and disengagement. From chair massages to professional headshots, we bring premium wellness experiences that your employees will actually use and love.",
+    "cards": [
+      {
+        "title": "Corporate Massage",
+        "description": "On-site chair and table massage including sports, Swedish, deep tissue, and compression. Licensed therapists bring all equipment and set up in rooms as small as 10x10 feet."
+      },
+      {
+        "title": "Corporate Nail Services",
+        "description": "Professional manicures brought directly to your office. A convenient, morale-boosting perk delivered by licensed nail technicians with full setup and supplies included."
+      },
+      {
+        "title": "Hair & Styling",
+        "description": "On-site haircuts, blowouts, and styling for men, women, and kids. All barbers and stylists are licensed and background-checked with premium cuts starting around $35."
+      },
+      {
+        "title": "Mindfulness & Meditation",
+        "description": "Virtual and in-person mindfulness sessions designed to reduce workplace stress and sharpen focus. Expert-led programs that integrate seamlessly into the workday."
+      },
+      {
+        "title": "Professional Headshots",
+        "description": "On-site photography sessions for corporate headshots. A turnkey service that helps teams update their professional image without leaving the office."
+      },
+      {
+        "title": "Nutrition Consulting",
+        "description": "Expert nutrition consulting brought to the workplace. Personalized guidance to help employees make healthier choices as part of a comprehensive wellness program."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Workplace Wellness",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Share your team size, preferred services, and schedule. We'll send a tailored quote within 24 hours. Volume discounts of 15-20% available for recurring programs."
+      },
+      {
+        "title": "We Handle Every Detail",
+        "description": "Our licensed, background-checked professionals arrive with all equipment, supplies, and ambiance. We transform any conference room into a tranquil wellness space."
+      },
+      {
+        "title": "Watch Your Team Thrive",
+        "description": "Employees book through a custom portal, enjoy premium services, and leave re-energized. You get measurable retention and satisfaction data to prove ROI."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Leading Companies Choose Us",
+    "headline": "We're Not a Vendor — We're Your Wellness Partner",
+    "description": "Founded in 2016 in New York City, Shortcut has delivered over 100,000 on-site wellness services with a 4.96 average rating. Our team of licensed, certified, and insured professionals transforms ordinary conference rooms into premium wellness spaces. Trusted by DraftKings, BCG, VaynerMedia, PwC, and Warner Bros, we handle all logistics, setup, and scheduling so you can focus on what matters.",
+    "badge": "Licensed & Insured",
+    "features": [
+      {
+        "title": "Background-Checked Professionals",
+        "description": "Every therapist, stylist, and technician passes a thorough background check and holds current licenses before joining the Shortcut team."
+      },
+      {
+        "title": "Turnkey Setup. Zero Hassle.",
+        "description": "We bring all equipment, supplies, and ambiance. Your team just shows up and enjoys the experience. No coordination needed on your end."
+      },
+      {
+        "title": "Measurable Satisfaction Guaranteed",
+        "description": "With 94% employee satisfaction and 87% client retention, our results speak for themselves. Not happy with an event? We make it right."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Premium Results.",
+    "subtitle": "Choose one-time events or recurring quarterly programs with 15-20% volume discounts. No hidden fees, no long-term contracts."
+  },
+  "guarantee": {
+    "headline": "Our \"Premium Experience\" Guarantee",
+    "description": "If your team isn't completely satisfied with any Shortcut wellness event, we'll come back and make it right at no additional cost. With a 4.96 rating across 100,000+ services, we stand behind every single appointment."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you set up our first event?",
+      "answer": "We can go from signed quote to first event in as little as 7 business days. For recurring programs, we'll build a custom schedule around your team's availability and preferences."
+    },
+    {
+      "question": "What space do you need in our office?",
+      "answer": "A room as small as 10x10 feet works perfectly. We bring all equipment, chairs, tables, and supplies. Just point us to a conference room and we'll handle the rest."
+    },
+    {
+      "question": "Are your professionals licensed and insured?",
+      "answer": "Absolutely. Every Shortcut professional is licensed, certified, fully insured, and background-checked before they ever step into your office. Your team's safety is our top priority."
+    },
+    {
+      "question": "Can employees use HSA/FSA for these services?",
+      "answer": "Yes! Shortcut services are HSA/FSA reimbursable via a Truemed Letter of Medical Necessity. We're also accepted by Cigna, Aetna, and Anthem wellness programs."
+    },
+    {
+      "question": "Do you offer services outside of New York?",
+      "answer": "We operate across 7 major US markets including New York. Whether you have one office or multiple locations nationwide, we can coordinate wellness programming across all of them."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Allison B.",
+      "text": "The Shortcut team is an absolute pleasure to work with — friendly, responsive, and dedicated. They've become an essential part of our employee experience program.",
+      "context": "Teads",
+      "initials": "AB"
+    },
+    {
+      "name": "Christian W.",
+      "text": "Shortcut perks boost morale and motivation. Their team has become an extension of the DraftKings family. Our employees look forward to wellness days every quarter.",
+      "context": "DraftKings",
+      "initials": "CW"
+    },
+    {
+      "name": "Dannie V.",
+      "text": "Shortcut has made employee amenities easy for us. The booking portal is seamless, the professionals are top-notch, and our team engagement scores have never been higher.",
+      "context": "VaynerMedia",
+      "initials": "DV"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Elevate<br>Your Workplace?",
+    "subtitle": "Get a free, no-pressure quote in 24 hours. From signed proposal to first event in just 7 business days.",
+    "benefits": [
+      "Custom wellness program proposal included",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Premium on-site wellness for the modern workplace. Serving New York since 2016.",
+    "service_area": "Serving Midtown, FiDi, SoHo, Hudson Yards, Flatiron, Chelsea, Tribeca & More",
+    "services": [
+      "Corporate Massage",
+      "Nail Services",
+      "Hair & Styling",
+      "Mindfulness Sessions",
+      "Professional Headshots"
+    ],
+    "copyright": "&copy; 2024 Shortcut. All rights reserved."
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-services-palm-beach",
+  "company_name": "Pool Services Palm Beach",
+  "tagline": "The Premier Pool Service Is Here",
+  "phone": "+1 561-693-0022",
+  "email": "andrew@npbpools.com",
+  "review_count": "7",
+  "review_rating": "3.9",
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — FL #U-21949",
+    "badge_2": "Family-Owned Since 2010",
+    "badge_3": "Open 365 Days a Year"
+  },
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "hero": {
+    "badge_1": "FL Licensed #U-21949 — Serving Palm Beach 16 Years",
+    "badge_2": "Open 365 Days — 24/7 Emergency Service",
+    "headline": "Your Pool, Our Family's <span class=\"text-secondary italic\">Commitment</span>",
+    "subheadline": "For 16 years, our family has treated every Palm Beach County pool like our own. We assign the same trained technician to your pool every visit — so you get someone who knows your system inside and out, not a random subcontractor.",
+    "cta_text": "Get My Free Pool Consultation",
+    "checkmarks": [
+      "Free quote within 24 hours",
+      "Same technician every visit",
+      "Eco-friendly pool care"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "16",
+    "stat_2_label": "Years Serving Palm Beach",
+    "stat_3_value": "365",
+    "stat_3_label": "Days Open Per Year",
+    "stat_4_value": "24/7",
+    "stat_4_label": "Emergency Response"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a<br class=\"hidden md:block\"> Family That Knows Pools",
+    "subtitle": "From weekly cleaning to emergency repairs, our trained employees handle every aspect of your pool. No subcontractors, no shortcuts — just personalized care from people who take pride in their work.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Surface netting, tile brushing, vacuuming, chemical balancing with eco-friendly additives, filter inspections, and basket emptying. Your pool stays swim-ready year-round."
+      },
+      {
+        "title": "Pool Repairs & Diagnostics",
+        "description": "Pumps, motors, heaters, filters, plumbing, lighting, and leak detection. Our technicians diagnose accurately and fix it right the first time."
+      },
+      {
+        "title": "Saltwater Pool Conversions",
+        "description": "Switch from harsh chlorine to a gentler saltwater system. Lower long-term costs, softer water, and a more natural swimming experience for your family."
+      },
+      {
+        "title": "Emergency Pool Service",
+        "description": "Pool emergency at 2 AM? We answer. Our 24/7 rapid response team handles unexpected issues before they become costly disasters."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of pumps, heaters, filters, lighting, and automated cleaning systems. We source quality brands and stand behind every install."
+      },
+      {
+        "title": "Commercial Pool Care",
+        "description": "HOAs, resorts, and commercial properties trust us for reliable, code-compliant pool maintenance. Flexible scheduling and dedicated account management included."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Free Quote",
+        "description": "Tell us about your pool — size, type, any issues. We will provide an honest, no-pressure quote and pair you with a personal pool consultant."
+      },
+      {
+        "title": "Meet Your Dedicated Technician",
+        "description": "We assign the same trained employee to your pool every visit. They learn your system, your preferences, and treat your property with respect."
+      },
+      {
+        "title": "Enjoy a Swim-Ready Pool",
+        "description": "Your pool stays crystal clear with eco-friendly care, 365 days a year. If something goes wrong, our 24/7 emergency line has you covered."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Palm Beach Trusts Us",
+    "headline": "Family-Owned, Personally Invested in Your Pool",
+    "description": "Since 2010, Pool Services Palm Beach has been the trusted name in North Palm Beach County pool care. We are a family-owned company that believes pool servicing is a relationship built on trust. Our clients average 20 years with us because we treat every pool — and every homeowner — like family. Every technician is a trained employee, never a subcontractor, and we use only eco-friendly additives to keep your water safe and sparkling.",
+    "badge": "FL Licensed #U-21949",
+    "features": [
+      {
+        "title": "Trained Employees, Never Subcontractors",
+        "description": "Every technician on our team is hired, trained, and supervised by us. You will never get a random stranger — just trusted professionals who know your pool."
+      },
+      {
+        "title": "Same Tech Every Visit",
+        "description": "We assign the same technician to your pool so they learn your system inside and out. Consistency means fewer missed issues and better care."
+      },
+      {
+        "title": "Eco-Friendly Pool Care",
+        "description": "We use environmentally responsible additives and treatment methods that are gentle on your family, your pets, and the Palm Beach waterways."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is unique, so we quote after understanding yours. No hidden fees, no upsells — just honest pricing from a family that values your trust."
+  },
+  "guarantee": {
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If your pool is not sparkling and swim-ready after any service visit, call us and we will come back and make it right at no extra charge. We have built our reputation on trust over 16 years, and we intend to keep it that way. Your satisfaction is not just a promise — it is how our family does business."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For emergencies, our 24/7 line means we can often respond same-day. Call us at +1 561-693-0022 and we will work with your schedule."
+    },
+    {
+      "question": "Will I get the same technician every time?",
+      "answer": "Yes — that is one of our core commitments. We assign the same trained employee to your pool so they learn your specific system, water chemistry patterns, and preferences. Consistency leads to better care."
+    },
+    {
+      "question": "Do you use subcontractors?",
+      "answer": "Never. Every person who services your pool is a direct employee of our company — hired, trained, and supervised by our family. That is how we maintain quality and accountability."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve North Palm Beach, Palm Beach Gardens, Jupiter, Tequesta, West Palm Beach, Singer Island, Palm Beach Island, Juno Beach, Riviera Beach, PGA National, Ibis, and surrounding Palm Beach County communities."
+    },
+    {
+      "question": "Do you handle commercial pools too?",
+      "answer": "Absolutely. We maintain pools for HOAs, resorts, fitness centers, and commercial properties throughout Palm Beach County. Commercial clients receive dedicated account management and flexible scheduling to meet their needs."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Gail L.",
+      "context": "Birdeye Review",
+      "initials": "GL",
+      "text": "This is absolutely the best pool company I have ever dealt with! They do everything they say they are going to do! My pool is always spotless and ready for a swim!! Highly recommend them!"
+    },
+    {
+      "name": "Nextdoor Reviewer",
+      "context": "Nextdoor Review",
+      "initials": "NR",
+      "text": "Pool Services of North Palm Beach is reliable and professional. They consistently deliver a clean, sparkly pool and are particularly skilled at handling complex issues such as leaks, heater malfunctions, and pump operations."
+    },
+    {
+      "name": "Satisfied Customer",
+      "context": "Yelp Review",
+      "initials": "SC",
+      "text": "Awesome company with reasonable prices, easy to get along with. My pool has never looked better since switching to their service."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure quote from our family to yours. We will pair you with a personal pool consultant and have a plan for your pool within 24 hours.",
+    "benefits": [
+      "Free pool consultation and honest quote",
+      "Personal pool consultant assigned to you",
+      "24/7 emergency line — we are always here"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Palm Beach County since 2010.",
+    "service_area": "Serving North Palm Beach, Palm Beach Gardens, Jupiter, West Palm Beach & Surrounding Areas",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Pool Repairs & Diagnostics",
+      "Saltwater Conversions",
+      "Equipment Installation",
+      "Emergency Pool Service"
+    ],
+    "copyright": "&copy; 2024 Pool Services Palm Beach. All rights reserved. FL License #U-21949"
+  }
+}

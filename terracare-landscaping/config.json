@@ -1,0 +1,184 @@
+{
+  "folder_name": "terracare-landscaping",
+  "company_name": "Terracare Landscaping",
+  "tagline": "Premier Outdoor Living Since 1988",
+  "phone": "+1 201-891-1700",
+  "email": "gary.kayal@terracarelandscaping.com",
+  "logo_path": "",
+  "review_count": "57",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3D1A",
+    "primary_deeper": "#142B12",
+    "secondary": "#4A7C43",
+    "cta": "#C8A96E",
+    "cta_dark": "#B08D4F"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 57+ Reviews",
+    "badge_3": "Family-Owned Since 1988"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 57+ Google Reviews",
+    "badge_2": "Family-Owned Since 1988",
+    "headline": "Your Backyard Deserves <span class=\"text-secondary italic\">37 Years<br>of Mastery</span>",
+    "subheadline": "Since 1988, the Kayal family has transformed Northern New Jersey properties into stunning outdoor retreats. From custom stonework to year-round lawn care, our team of 30+ treats every yard like our own.",
+    "cta_text": "Get My Free Consultation",
+    "checkmarks": [
+      "Free property assessment",
+      "Design-to-build under one roof",
+      "Year-round maintenance plans"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "37",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "30",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Landscape Solutions<br class=\"hidden md:block\"> From Design to Maintenance",
+    "subtitle": "Stop juggling multiple contractors for your outdoor projects. Terracare handles everything from the first sketch to the final mulch, so your property looks incredible every season.",
+    "cards": [
+      {
+        "title": "Landscape Design & Build",
+        "description": "Custom luxury backyard transformations featuring stonework, outdoor kitchens, and fire features. We bring your vision to life from concept through completion."
+      },
+      {
+        "title": "Hardscape & Paver Installation",
+        "description": "Expert patios, walkways, driveways, and retaining walls built with premium materials. Structural beauty that lasts decades."
+      },
+      {
+        "title": "Lawn Maintenance Programs",
+        "description": "Weekly mowing, pruning, fertilization, and plant health care delivered by uniformed crews. Your lawn stays lush and green without lifting a finger."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Complete outdoor kitchens, fire pits, seating areas, and entertainment zones. Turn your backyard into the room your family never wants to leave."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Professional outdoor lighting design and installation that enhances safety, security, and the beauty of your property long after sunset."
+      },
+      {
+        "title": "Snow & Ice Management",
+        "description": "24/7 winter response with plowing, shoveling, and salt applications. Your property stays safe and accessible no matter what the forecast brings."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your property and goals. Gary or a senior designer visits your home, listens to your ideas, and provides an honest, detailed proposal at no cost."
+      },
+      {
+        "title": "We Design & Build It Right",
+        "description": "Our team of 30+ professionals handles every detail, from custom design drawings to expert installation. One company, one point of contact, zero headaches."
+      },
+      {
+        "title": "Enjoy Your Outdoor Paradise",
+        "description": "Relax in a landscape that looks stunning year-round. Our maintenance programs keep everything thriving so you never worry about upkeep again."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Trust Terracare",
+    "headline": "A Family Business That Treats You Like a Neighbor",
+    "description": "Founded by Gary Kayal in 1988, Terracare started as a kid with a lawn mower in Oakland, NJ. Today, we are a team of 30+ professionals with deep roots in Bergen and Passaic counties. Our clients stay with us for decades because we combine big-company capability with the personal care only a family business can deliver. We know Northern New Jersey soil, climate, and growing seasons inside and out.",
+    "badge": "37+ Years of Excellence",
+    "features": [
+      {
+        "title": "Full-Service, One Company",
+        "description": "Design, build, maintain, and manage snow — all handled by Terracare. No subcontractors, no finger-pointing, just seamless results."
+      },
+      {
+        "title": "Decades-Long Client Relationships",
+        "description": "Many of our clients have trusted us for 20-25+ years. We earn your loyalty every single visit with consistent, quality work."
+      },
+      {
+        "title": "Deep Local Expertise",
+        "description": "We know Bergen and Passaic County landscapes better than anyone — the soil, the drainage patterns, and exactly which plants thrive here."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Honest Estimates.",
+    "subtitle": "Every project is unique. We provide detailed proposals with clear line items so you know exactly what you are getting and what it costs."
+  },
+  "guarantee": {
+    "headline": "Our \"Neighbor-First\" Guarantee",
+    "description": "If you are not completely satisfied with any service we provide, we will return and make it right at no additional charge. We have built our reputation one yard at a time over 37 years, and we are not about to stop now. Your satisfaction is not just a policy — it is personal."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start my project?",
+      "answer": "Most consultations are scheduled within a week. Project timelines depend on scope, but we pride ourselves on clear scheduling and keeping our commitments. Call us and we will walk you through the timeline for your specific project."
+    },
+    {
+      "question": "Do you handle both design and installation?",
+      "answer": "Yes. Terracare is a true full-service company. We design your landscape, build every element in-house, and offer ongoing maintenance. One company from start to finish means better communication and better results."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Oakland, Allendale, Franklin Lakes, Hohokus, Mahwah, Ramsey, Ridgewood, Saddle River, Wyckoff, and all of Bergen and Passaic counties in Northern New Jersey."
+    },
+    {
+      "question": "Do you offer year-round maintenance?",
+      "answer": "Absolutely. From weekly lawn care in summer to snow and ice management in winter, we keep your property looking its best every season. Our maintenance clients enjoy priority scheduling and consistent crews."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Terracare is fully licensed and insured. We also maintain a BBB Business Profile and are a 5-star rated Houzz professional. We carry comprehensive liability coverage for your complete peace of mind."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Client",
+      "context": "25+ year client, paving project",
+      "initials": "LC",
+      "text": "We have been using Terracare for more than 25 years. The reliability and responsiveness of Gary and his team is superior. Their paving and regrading work is impeccable."
+    },
+    {
+      "name": "Loyal Homeowner",
+      "context": "20-year client, lawn maintenance",
+      "initials": "LH",
+      "text": "Amazing lawn care service and unbelievable customer care. We have been using Terracare for nearly 20 years. They truly listen to our comments and implement lawn care within the next week."
+    },
+    {
+      "name": "Satisfied Client",
+      "context": "Design and build project",
+      "initials": "SC",
+      "text": "Amazing full service landscape company. Gary and his team work closely with you to understand your needs. They listen to your ideas and translate them into beautiful and practical designs."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Property?",
+    "subtitle": "Get a free, no-obligation consultation from Gary and his team. We will visit your property, listen to your vision, and provide a detailed proposal — all at no cost.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Detailed proposal within one week",
+      "37+ years of local expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned landscape company. Serving Northern New Jersey since 1988.",
+    "service_area": "Serving Oakland, Ridgewood, Franklin Lakes & All of Bergen County",
+    "services": [
+      "Landscape Design & Build",
+      "Hardscape & Pavers",
+      "Lawn Maintenance",
+      "Outdoor Living Spaces",
+      "Snow Management"
+    ],
+    "copyright": "&copy; 2024 Terracare Landscaping. All rights reserved. Licensed & Insured — Oakland, NJ"
+  }
+}

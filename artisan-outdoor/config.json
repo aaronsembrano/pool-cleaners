@@ -1,0 +1,183 @@
+{
+  "folder_name": "artisan-outdoor",
+  "company_name": "Artisan Outdoor",
+  "tagline": "Luxury Outdoor Living By Design",
+  "phone": "+1 949-390-8181",
+  "email": "jim@artisanoutdoor.com",
+  "review_count": "17",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#2C5F2D",
+    "primary_dark": "#1E4220",
+    "primary_deeper": "#132E15",
+    "secondary": "#97BC62",
+    "cta": "#D4A843",
+    "cta_dark": "#B8912E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Contractor #623523",
+    "badge_2": "5.0/5 from 17+ Reviews",
+    "badge_3": "HGTV Featured"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 17+ Google Reviews",
+    "badge_2": "HGTV Featured Design-Build Firm",
+    "headline": "Your Dream Backyard, <span class=\"text-secondary italic\">Built by<br>Master Craftsmen</span>",
+    "subheadline": "Your outdoor space should inspire you every time you step outside. Artisan Outdoor designs and builds extraordinary pools, kitchens, and living spaces across Southern California — so you get a backyard that feels like a private resort.",
+    "cta_text": "Start My Backyard Transformation",
+    "checkmarks": [
+      "Free design consultation",
+      "In-house craftsmen team",
+      "Award-winning results"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "35",
+    "stat_1_label": "Cities Served",
+    "stat_2_value": "11",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "500",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Specialties",
+    "headline": "Outdoor Living Spaces That<br class=\"hidden md:block\"> Transform How You Live",
+    "subtitle": "From stunning pools to complete backyard retreats, our in-house design-build team handles every detail so you enjoy a seamless experience from first sketch to final walkthrough.",
+    "cards": [
+      {
+        "title": "Custom Pools & Spas",
+        "description": "Stunning pool and spa designs tailored to your lifestyle — from resort-style infinity edges to intimate plunge pools, built by our in-house craftsmen."
+      },
+      {
+        "title": "Outdoor Kitchens & BBQs",
+        "description": "Premium outdoor kitchens with built-in grills, countertops, and bar seating. Designed for serious entertaining under the Southern California sun."
+      },
+      {
+        "title": "Fire & Water Features",
+        "description": "Custom fire pits, fireplaces, fountains, and water walls that create a captivating atmosphere and become the centerpiece of your outdoor space."
+      },
+      {
+        "title": "Patios & Patio Covers",
+        "description": "Beautifully designed patios with custom cover structures that extend your living space and provide comfortable shade for year-round enjoyment."
+      },
+      {
+        "title": "Landscape Design & Hardscape",
+        "description": "Complete landscape architecture including premium plantings, pavers, retaining walls, and decorative stonework — all installed by our crew."
+      },
+      {
+        "title": "Turf, Lighting & Irrigation",
+        "description": "Low-maintenance synthetic turf, putting greens, sport courts, professional landscape lighting, and water-efficient irrigation systems."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Reality in Three Steps",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Schedule a free design consultation. We visit your property, listen to your ideas, and discuss possibilities. You'll receive a custom design concept that captures your dream outdoor space."
+      },
+      {
+        "title": "We Design & Build It",
+        "description": "Our in-house team of craftsmen handles everything — design, permits, and construction. One crew, one point of contact, and complete transparency from start to finish."
+      },
+      {
+        "title": "Live the Outdoor Life",
+        "description": "Step into your new backyard oasis. Every detail is crafted to perfection, backed by our commitment to quality. Your outdoor living dream is now your daily reality."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Choose Artisan",
+    "headline": "Not Just Contractors — We're Outdoor Living Artisans",
+    "description": "Founded by Jim Neeld, Artisan Outdoor is a design-build firm with an in-house crew of craftsmen who take your project from initial concept through final construction. Featured on HGTV and honored with CLCA Beautification Awards and Best of Houzz recognition, we bring visionary craftsmanship and meticulous attention to detail to every backyard across Orange County and Southern California.",
+    "badge": "HGTV Featured",
+    "features": [
+      {
+        "title": "In-House Design-Build Team",
+        "description": "No subcontractors, no miscommunication. Our craftsmen handle every phase of your project for a seamless, stress-free experience."
+      },
+      {
+        "title": "Award-Winning Craftsmanship",
+        "description": "CLCA Beautification Awards, Best of Houzz honors, and HGTV recognition — our work speaks for itself in every detail."
+      },
+      {
+        "title": "Complete Transparency & Collaboration",
+        "description": "You're involved at every step. We believe the best outdoor spaces are born from genuine collaboration between designer and homeowner."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is custom — request a free consultation to get an honest quote tailored to your vision and property. Financing available through Lyon Financial."
+  },
+  "guarantee": {
+    "headline": "Our \"Artisan Perfection\" Guarantee",
+    "description": "We don't consider a project complete until every detail meets our exacting standards — and yours. If anything falls short of the vision we agreed upon together, we make it right at no additional cost. That's the Artisan promise."
+  },
+  "faqs": [
+    {
+      "question": "How does the design-build process work?",
+      "answer": "It starts with a free consultation where we visit your property and discuss your vision. From there, we create a custom design, handle all permits, and build everything with our in-house crew. One team from start to finish — no juggling subcontractors."
+    },
+    {
+      "question": "How long does a typical project take?",
+      "answer": "Timelines vary by scope. A simple patio project might take 2-4 weeks, while a full backyard transformation with pool, kitchen, and landscaping typically runs 8-16 weeks. We provide a detailed timeline during the design phase so you know exactly what to expect."
+    },
+    {
+      "question": "Do you offer financing options?",
+      "answer": "Yes! We partner with Lyon Financial to offer flexible financing options so you can build your dream backyard without waiting. Ask about available plans during your free consultation."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve 35+ cities across Orange County and Southern California, including Irvine, Newport Beach, Huntington Beach, Laguna Beach, Anaheim, Fullerton, Costa Mesa, and many more. Contact us to confirm service in your area."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Artisan Outdoor holds Contractor License #623523 with C27, C53, and B classifications. We carry full liability insurance and workers' compensation. Your property and our team are fully protected on every project."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jason P.",
+      "text": "Simply the best landscape/hardscape contractor I have seen. It was the most seamless process and great results. They do design and build and can make just about anything you can imagine.",
+      "context": "Landscape and Hardscape Project",
+      "initials": "JP"
+    },
+    {
+      "name": "Holly O.",
+      "text": "They did a phenomenal job renovating my patio. I was impressed with their professionalism and dedication in delivering a first class result.",
+      "context": "Patio Renovation",
+      "initials": "HO"
+    },
+    {
+      "name": "Hector R.",
+      "text": "An exceptional company with expert employees who are dedicated to making your wish list come true. Highly recommend for anyone looking to transform their outdoor space.",
+      "context": "Complete Outdoor Transformation",
+      "initials": "HR"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Backyard?",
+    "subtitle": "Get a free design consultation with our team. We'll visit your property, discuss your vision, and show you what's possible — no pressure, no obligation.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Custom proposal within one week",
+      "Award-winning design-build team"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning design-build firm. Crafting luxury outdoor living spaces across Southern California since 2015.",
+    "service_area": "Serving Orange County & Southern California",
+    "services": [
+      "Custom Pools & Spas",
+      "Outdoor Kitchens",
+      "Landscape Design",
+      "Fire & Water Features",
+      "Patios & Covers"
+    ],
+    "copyright": "&copy; 2026 Artisan Outdoor. All rights reserved. Licensed Contractor #623523 (C27/C53/B)"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "i-am-ready-swim",
+  "company_name": "I Am Ready Swim",
+  "tagline": "Complete Pool Management Services and Swim Lessons for the Austin-Metro Area",
+  "phone": "512-872-1176",
+  "email": "miranda@iamreadyswim.com",
+  "logo_path": "",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F4A300",
+    "cta_dark": "#D48E00"
+  },
+  "trust_badges": {
+    "badge_1": "Award-Winning Company",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Minority-Owned Business"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Award-Winning Austin Company",
+    "headline": "Austin's Most Trusted <span class=\"text-secondary italic\">Aquatic<br>Services Team</span>",
+    "subheadline": "From swim lessons that build confidence to full-scale pool management that keeps your facility running flawlessly. I Am Ready Swim has served the Austin metro for 17 years with 100+ trained staff every season.",
+    "cta_text": "Get a Free Consultation",
+    "checkmarks": [
+      "Swim lessons for all ages",
+      "100+ trained staff each season",
+      "Free community Splash Bash events"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "100",
+    "stat_1_label": "Staff Each Season",
+    "stat_2_value": "17",
+    "stat_2_label": "Years Serving Austin",
+    "stat_3_value": "1000",
+    "stat_3_label": "Swimmers Taught",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Aquatic Services",
+    "headline": "Everything Your Pool<br class=\"hidden md:block\"> or Facility Needs",
+    "subtitle": "Whether you need swim lessons for your kids, lifeguards for your community pool, or full facility management, our award-winning team handles it all so you can focus on enjoying the water.",
+    "cards": [
+      {
+        "title": "Swim Lessons",
+        "description": "Group and private lessons for ages 6 months through adult. We teach to the student, not the lesson plan, building real confidence in the water at every level."
+      },
+      {
+        "title": "Lifeguard Services",
+        "description": "CPR-certified lifeguards for public pools, private events, and community facilities. Professional, reliable staffing that keeps every swimmer safe all season."
+      },
+      {
+        "title": "Gate & Pool Monitoring",
+        "description": "Trained pool monitors for access control, rule enforcement, and facility oversight. Peace of mind for HOAs, municipalities, and commercial aquatic centers."
+      },
+      {
+        "title": "Pool Maintenance",
+        "description": "Comprehensive cleaning, chemical balancing, equipment maintenance, and repairs to keep your pool pristine and swim-ready year-round."
+      },
+      {
+        "title": "Janitorial Services",
+        "description": "Full facility opening and closing procedures, pool area cleaning, and upkeep so your aquatic facility stays spotless and welcoming for every guest."
+      },
+      {
+        "title": "CPR & First Aid Training",
+        "description": "Certification classes for individuals, organizations, and facility staff. Keep your team prepared with professional training from our certified instructors."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Aquatic Services",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Swim lessons, lifeguards, pool management, or all of the above? Contact us and we'll build a custom plan for your pool, facility, or community within 48 hours."
+      },
+      {
+        "title": "We Deploy Our Trained Team",
+        "description": "Our 100+ certified staff arrive on schedule, fully equipped and ready. Every team member is CPR-certified and trained to our high standards of safety and professionalism."
+      },
+      {
+        "title": "Relax and Enjoy the Water",
+        "description": "Your pool stays safe, clean, and professionally managed. From the first splash to the last day of the season, we handle everything so you don't have to worry."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Austin Trusts Us",
+    "headline": "From a Dream to Austin's Premier Aquatic Services Company",
+    "description": "Founded by Miranda Melendez with personal savings and a passion for water safety, I Am Ready Swim has grown from a single lifeguarding contract into an award-winning company employing 100+ individuals every pool season. Recognized as the FAVE Innovative Company of 2024 by the Austin Young Chamber and Business of the Year by EGBI, we are deeply rooted in the Austin community and committed to giving back through free Splash Bash events.",
+    "badge": "Award-Winning Company",
+    "features": [
+      {
+        "title": "CPR-Certified Staff",
+        "description": "Every team member is CPR and First Aid certified before they set foot on your property. Safety is never optional."
+      },
+      {
+        "title": "Minority-Owned, Community-Rooted",
+        "description": "We are proud to be a minority-owned business that gives back through free Splash Bash community events across Austin."
+      },
+      {
+        "title": "100+ Trained Professionals",
+        "description": "We employ and train over 100 individuals each season, giving you a deep bench of reliable, professional aquatic staff."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool and facility is different. Contact us for a custom quote tailored to your exact needs — no hidden fees, no pressure."
+  },
+  "guarantee": {
+    "headline": "Our \"Safe & Sparkling\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, we will return and make it right at no additional cost. We have built our reputation on trust, and we stand behind every lifeguard shift, every swim lesson, and every pool cleaning with our full commitment to excellence."
+  },
+  "faqs": [
+    {
+      "question": "What ages do you offer swim lessons for?",
+      "answer": "We teach swimmers from 6 months old all the way through adults. Our programs include Parent-N-Me, Pre-School, Beginner, Intermediate, Advanced, and Adult levels. We teach to the student, not the lesson plan, so every swimmer progresses at their own pace."
+    },
+    {
+      "question": "Can you staff lifeguards for our HOA or community pool?",
+      "answer": "Absolutely. We provide CPR-certified lifeguards to HOAs, municipalities, resorts, clubs, and residential communities across the Austin metro. We employ 100+ trained staff each season and can scale to fit your facility's needs."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the greater Austin metro area including Pflugerville, Hutto, Georgetown, Round Rock, Cedar Park, Manor, and Buda. If your community is nearby, chances are we can help — just reach out."
+    },
+    {
+      "question": "Do you offer CPR and First Aid certification classes?",
+      "answer": "Yes! We offer CPR and First Aid certification courses for individuals, organizations, and facility staff. Whether you need personal certification or training for your entire team, we have you covered."
+    },
+    {
+      "question": "What makes I Am Ready Swim different from other pool companies?",
+      "answer": "We are an award-winning, minority-owned company that does far more than pool cleaning. From swim lessons to lifeguard staffing to full facility management, we offer comprehensive aquatic services backed by 17 years of experience and a genuine commitment to community through our free Splash Bash events."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "context": "Swim Lessons",
+      "initials": "SM",
+      "text": "Miranda and her team are incredible. My kids went from being afraid of the water to swimming laps in just a few weeks. The instructors are patient and really know how to connect with children."
+    },
+    {
+      "name": "James R.",
+      "context": "Pool Management",
+      "initials": "JR",
+      "text": "We hired I Am Ready Swim for our HOA pool management and it has been the best decision. Their lifeguards are professional, the pool is always clean, and communication is excellent."
+    },
+    {
+      "name": "Community Mgr.",
+      "context": "Community Pool Services",
+      "initials": "CM",
+      "text": "They have been managing our community pool for several seasons now. Their team is reliable, well-trained, and the residents love them. The Splash Bash events are always a hit."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Worry-Free<br>Pool Services?",
+    "subtitle": "Get a free consultation within 48 hours. Whether you need swim lessons, lifeguards, or full pool management — we have the team and experience to deliver.",
+    "benefits": [
+      "Free consultation for any service",
+      "Response within 48 hours",
+      "Award-winning Austin team"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning aquatic services. Proudly serving Austin for 17+ years.",
+    "service_area": "Serving Austin, Pflugerville, Round Rock, Cedar Park & Beyond",
+    "services": [
+      "Swim Lessons",
+      "Lifeguard Services",
+      "Pool Maintenance",
+      "CPR & First Aid Training",
+      "Gate & Pool Monitoring"
+    ],
+    "copyright": "&copy; 2024 I Am Ready Swim. All rights reserved."
+  }
+}

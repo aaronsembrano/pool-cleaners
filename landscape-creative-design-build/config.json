@@ -1,0 +1,183 @@
+{
+  "folder_name": "landscape-creative-design-build",
+  "company_name": "Landscape Creative Design Build",
+  "tagline": "Custom landscapes. Thoughtfully designed. Intentionally built.",
+  "phone": "+1 404-207-0111",
+  "email": "david@landscapecreativedb.com",
+  "review_count": "12",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#2C3E2D",
+    "primary_dark": "#1E2B1F",
+    "primary_deeper": "#141D15",
+    "secondary": "#8B7355",
+    "cta": "#C4873B",
+    "cta_dark": "#A6702F"
+  },
+  "trust_badges": {
+    "badge_1": "UGA-Trained Landscape Architect",
+    "badge_2": "5.0/5 from 12+ Reviews",
+    "badge_3": "Owner-Led Every Project"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 12+ Google Reviews",
+    "badge_2": "Owner-Led Design-Build",
+    "headline": "Your Dream Backyard, <span class=\"text-secondary italic\">Architect-Designed<br>& Built Right</span>",
+    "subheadline": "Your outdoor space should inspire you, not overwhelm you. David Neuman, a UGA-trained landscape architect, personally leads every project from first sketch to final stone -- so your vision is never lost in translation.",
+    "cta_text": "Start Your Landscape Transformation",
+    "checkmarks": [
+      "Free design consultation",
+      "Owner on every job site",
+      "From concept to completion"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "50",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "2",
+    "stat_2_label": "Years in Atlanta",
+    "stat_3_value": "100",
+    "stat_3_label": "Design Hours Logged",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Landscape Services That Transform<br class=\"hidden md:block\"> Your Outdoor Living",
+    "subtitle": "From initial concept drawings to the last plant in the ground, we handle every phase of your landscape project with architectural precision and hands-on craftsmanship.",
+    "cards": [
+      {
+        "title": "Landscape Design",
+        "description": "Clear, buildable plans rooted in how you actually want to live outdoors. Every design starts with your vision and ends with a detailed blueprint ready for construction."
+      },
+      {
+        "title": "Landscape Construction",
+        "description": "Precision grading, drainage, hardscapes, and plantings executed by our own crew. No subcontractor surprises -- the team that designed it builds it."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Pergolas, patios, outdoor kitchens, and entertainment areas that extend your home into the yard. Designed for how your family actually gathers."
+      },
+      {
+        "title": "Pools & Water Features",
+        "description": "Custom pool design and water features that become the centerpiece of your landscape. Integrated seamlessly with surrounding hardscape and plantings."
+      },
+      {
+        "title": "Hardscape & Stonework",
+        "description": "Retaining walls, walkways, fire pits, and stone patios built to last. Every material chosen to complement your home's architecture and the natural surroundings."
+      },
+      {
+        "title": "Landscape Maintenance",
+        "description": "Ongoing care that protects your investment and keeps your landscape thriving season after season. We know every plant because we placed it there."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Dream, Design, Build -- Our Three-Phase Process",
+    "steps": [
+      {
+        "title": "Dream Together",
+        "description": "We start with a conversation about how you want to use your outdoor space. David visits your property, listens to your ideas, and helps shape a vision that fits your home, lifestyle, and budget."
+      },
+      {
+        "title": "Design with Precision",
+        "description": "Using his landscape architecture training, David creates detailed plans you can see and understand before a single shovel breaks ground. Every grade, plant, and stone is intentional."
+      },
+      {
+        "title": "Build It Right",
+        "description": "Our crew executes the design with the same care that went into drawing it. David stays on-site to ensure every detail matches the plan. The result: a landscape that looks exactly like you imagined."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Atlanta Homeowners Choose Us",
+    "headline": "An Architect Who Builds What He Designs",
+    "description": "Landscape Creative was founded by David Neuman, a University of Georgia-trained landscape architect who got tired of watching great designs get lost in translation during construction. With hands-on experience in golf course construction -- grading, drainage, earthwork -- David bridges the gap between design vision and built reality. He personally leads every project, so the person who drew your plan is the same person making sure it gets built right.",
+    "badge": "UGA Landscape Architecture",
+    "features": [
+      {
+        "title": "Owner-Led Every Project",
+        "description": "David personally manages each project from first consultation through final walkthrough. Your landscape is never handed off to strangers."
+      },
+      {
+        "title": "Design-Build Under One Roof",
+        "description": "No miscommunication between designer and builder -- they are the same team. What you approve on paper is exactly what gets built in your yard."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind every project we complete. If something does not meet the standard we agreed on, we make it right at no additional cost."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprise Charges.",
+    "subtitle": "Every project gets a detailed proposal with clear pricing before work begins. No hidden fees, no change-order games -- just honest numbers for exceptional landscapes."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any element of your landscape project does not meet the specifications we agreed on during the design phase, we will return and correct it at no additional charge. We stake our reputation on every project because David's name is on every plan."
+  },
+  "faqs": [
+    {
+      "question": "How does the design-build process work?",
+      "answer": "We follow a three-phase approach: Dream, Design, Build. It starts with a conversation about your vision, moves into detailed architectural plans, and finishes with our crew constructing exactly what was designed. David leads every phase personally."
+    },
+    {
+      "question": "How long does a typical landscape project take?",
+      "answer": "Design typically takes 2-4 weeks depending on complexity. Construction timelines vary by scope -- a patio project may take 1-2 weeks, while a full backyard transformation can take 4-8 weeks. We give you a clear timeline before starting."
+    },
+    {
+      "question": "Do you handle permits and HOA approvals?",
+      "answer": "Yes. We handle all necessary permits and can prepare materials for HOA submissions. David's architectural drawings meet professional standards that HOA boards and municipal offices expect."
+    },
+    {
+      "question": "What areas of Atlanta do you serve?",
+      "answer": "We serve the Greater Atlanta area including Buckhead, Brookhaven, Decatur, Dunwoody, Sandy Springs, Roswell, and surrounding North Metro Atlanta communities. Contact us to confirm service in your area."
+    },
+    {
+      "question": "Can you work with an existing landscape or pool?",
+      "answer": "Absolutely. Many of our projects involve renovating or enhancing existing outdoor spaces. David will assess what you have, identify what works, and design improvements that integrate seamlessly with your current landscape."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Todd & Julie C.",
+      "context": "Landscape Design & Build",
+      "initials": "TC",
+      "text": "Great organization. Great creativity, timely delivery, competitive pricing. David's design vision combined with his hands-on approach made our backyard transformation seamless from start to finish."
+    },
+    {
+      "name": "Keith C.",
+      "context": "Residential Landscape Project",
+      "initials": "KC",
+      "text": "David and his team did a fantastic job for us! He provided the initial design and listened to our needs. The final result exceeded what we imagined when we first walked him through our yard."
+    },
+    {
+      "name": "Ari",
+      "context": "Landscape Design & Build",
+      "initials": "AR",
+      "text": "Working with David was an absolute pleasure from start to finish. His landscape architecture background really shows in the quality of the design, and having him on-site during construction gave us total confidence."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Schedule a free design consultation with David. He will visit your property, listen to your vision, and show you what is possible -- no pressure, no obligation.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "Owner-led from start to finish"
+    ]
+  },
+  "footer": {
+    "description": "Atlanta's design-build landscape firm. UGA-trained architect on every project.",
+    "service_area": "Serving Greater Atlanta, Buckhead, Brookhaven & North Metro",
+    "services": [
+      "Landscape Design",
+      "Landscape Construction",
+      "Outdoor Living Spaces",
+      "Pools & Water Features",
+      "Landscape Maintenance"
+    ],
+    "copyright": "&copy; 2024 Landscape Creative Design Build. All rights reserved. Licensed Landscape Architect."
+  }
+}

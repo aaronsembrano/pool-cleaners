@@ -1,0 +1,184 @@
+{
+  "folder_name": "perfect-day-pools",
+  "company_name": "Perfect Day Pools",
+  "tagline": "No More Pool Complaints – We've Got You Covered!",
+  "phone": "+1 954-251-2549",
+  "email": "ray@perfectdaypools.com",
+  "logo_path": "",
+  "review_count": "43",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#142A45",
+    "primary_deeper": "#0E1E33",
+    "secondary": "#2196F3",
+    "cta": "#FFB300",
+    "cta_dark": "#E09F00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed FL Contractor CPC1458563",
+    "badge_2": "4.9/5 from 43+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 43+ Google Reviews",
+    "badge_2": "Trusted by Top Resorts & Hotels",
+    "headline": "Commercial Pools Done Right, <span class=\"text-secondary italic\">Every Single Day</span>",
+    "subheadline": "Your guests, residents, and members deserve a pool that passes every inspection and sparkles year-round. Perfect Day Pools handles full-service commercial pool operations so you never worry about compliance, breakdowns, or complaints again.",
+    "cta_text": "Request a Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site pool assessment",
+      "Health & safety compliant",
+      "Owner-involved on every project"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "50",
+    "stat_1_label": "Commercial Properties Served",
+    "stat_2_value": "8",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "500",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Inspection Pass Rate"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Full-Service Commercial Pool<br class=\"hidden md:block\"> Operations You Can Count On",
+    "subtitle": "From five-star resorts to HOA community pools, we keep commercial aquatic facilities running flawlessly so you can focus on your guests and residents.",
+    "cards": [
+      {
+        "title": "Commercial Pool Maintenance",
+        "description": "Comprehensive cleaning, chemical balancing, equipment checks, and filter maintenance. Your pool stays inspection-ready and guest-approved every single day."
+      },
+      {
+        "title": "Pool Repairs & Equipment",
+        "description": "Pumps, heaters, filters, salt systems — we diagnose and fix commercial equipment fast. Minimizing downtime so your facility stays open."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Advanced leak detection technology to identify hidden water loss quickly. We pinpoint the problem and fix it before it becomes a costly disaster."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Resurfacing, tile upgrades, and modern enhancements that extend your pool's lifespan and wow your guests with a fresh, updated look."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Full-scale redesigns that transform outdated commercial pools into stunning, contemporary aquatic facilities your property deserves."
+      },
+      {
+        "title": "Energy-Efficient Upgrades",
+        "description": "Variable-speed pumps, LED lighting, automation systems, and smart controls that cut operating costs while improving pool performance."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Pool Operations",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your property and pool needs. We'll conduct a thorough on-site assessment and deliver an honest, detailed proposal within 48 hours."
+      },
+      {
+        "title": "We Take Full Ownership",
+        "description": "Our licensed, experienced team arrives on schedule and handles everything — maintenance, compliance, equipment monitoring, and reporting. The owner stays involved in every account."
+      },
+      {
+        "title": "Pass Every Inspection, Every Time",
+        "description": "Your pool stays crystal clear, fully compliant, and guest-ready 365 days a year. If something ever falls short, we make it right immediately — no excuses."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Property Managers Trust Us",
+    "headline": "South Florida's Go-To Commercial Pool Operator",
+    "description": "Since 2018, Perfect Day Pools has earned the trust of South Florida's most prestigious properties — from Hawks Cay Resort and Woodfield Country Club to Miami Airport Marriott and Hyde Resorts. Owner-operated and hands-on, we partner with leading property management firms like First Service Residential and KW Management to deliver proactive maintenance, full regulatory compliance, and the kind of accountability that comes only when the owner's name is on every job.",
+    "badge": "FL Licensed CPC1458563",
+    "features": [
+      {
+        "title": "Hands-On Owner Involvement",
+        "description": "The owner is personally involved in every account. No middlemen, no runaround — direct accountability from the top."
+      },
+      {
+        "title": "Full Health & Safety Compliance",
+        "description": "Proactive preventative maintenance keeps your facility ahead of every inspection. We handle DOH requirements so you don't have to."
+      },
+      {
+        "title": "Trusted by Premier Properties",
+        "description": "Hawks Cay Resort, Woodfield Country Club, Porto Vita Grand, and Miami Airport Marriott all trust us with their pools. Your property is in proven hands."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Commercial Pricing. No Surprises.",
+    "subtitle": "Every property is different. We provide custom proposals based on your pool size, usage, and needs — always with upfront, honest pricing."
+  },
+  "guarantee": {
+    "headline": "Our \"Perfect Day\" Guarantee",
+    "description": "If your pool doesn't pass inspection or isn't guest-ready on any service day, we'll be back within 24 hours to make it right at no additional cost. We stake our reputation on every visit — because in commercial pool service, there's no room for excuses."
+  },
+  "faqs": [
+    {
+      "question": "What types of commercial properties do you service?",
+      "answer": "We specialize in hotels, resorts, country clubs, HOA community pools, apartment complexes, and fitness centers across South Florida. From a single pool to multi-pool resort properties, we have the team and experience to handle it all."
+    },
+    {
+      "question": "How quickly can you start servicing our property?",
+      "answer": "Most new commercial accounts are onboarded within one week. We begin with a thorough assessment of your pool systems, then build a custom maintenance plan. For urgent situations like equipment failures or inspection prep, we offer expedited response."
+    },
+    {
+      "question": "Do you handle DOH inspections and compliance?",
+      "answer": "Absolutely. Our proactive maintenance approach is specifically designed to keep your pools in full compliance with Florida Department of Health regulations. We maintain detailed logs and handle all the paperwork so you pass every inspection with confidence."
+    },
+    {
+      "question": "Is the owner really involved in every account?",
+      "answer": "Yes. Hands-on owner involvement is a core part of how we operate. You'll have direct access to ownership, not a call center. This ensures accountability, fast decision-making, and the quality control that only comes from the top."
+    },
+    {
+      "question": "Can you help reduce our pool operating costs?",
+      "answer": "Definitely. We specialize in energy-efficient upgrades — variable-speed pumps, LED lighting, and automation systems — that significantly reduce operating costs. Most properties see measurable savings within the first few months of switching to us."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Oscar Z.",
+      "context": "Google Review - 5 Stars",
+      "initials": "OZ",
+      "text": "Perfect Day Pools is an outstanding pool company that delivers top-tier craftsmanship and exceptional customer service. Paul Z, whose dedication and expertise set him apart."
+    },
+    {
+      "name": "Tim A.",
+      "context": "Google Review - 5 Stars",
+      "initials": "TA",
+      "text": "Perfect Day Pools has been absolutely fantastic with our pool maintenance and cleaning! The water is consistently crystal clear, and they take the time to ensure everything is working perfectly."
+    },
+    {
+      "name": "T. Torres",
+      "context": "Property Manager - Inspection Success",
+      "initials": "TT",
+      "text": "We passed inspections with flying colors and that is due to Anthony's consistency and knowledge. Perfect Day Pools keeps us compliant and our residents happy."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Operations<br>You Never Have to Worry About?",
+    "subtitle": "Get a free, no-obligation property assessment. We'll evaluate your pools, identify cost savings, and deliver a custom proposal — all within 48 hours.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Custom proposal within 48 hours",
+      "100% inspection-pass guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Licensed commercial pool contractor serving South Florida's finest properties since 2018.",
+    "service_area": "Serving Fort Lauderdale, Hollywood, Pembroke Pines & All of South Florida",
+    "services": [
+      "Commercial Maintenance",
+      "Pool Repairs & Equipment",
+      "Leak Detection",
+      "Renovations & Remodeling",
+      "Energy-Efficient Upgrades"
+    ],
+    "copyright": "&copy; 2024 Perfect Day Pools. All rights reserved. Licensed FL Contractor #CPC1458563"
+  }
+}

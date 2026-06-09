@@ -1,0 +1,184 @@
+{
+  "folder_name": "paradise-robotics",
+  "company_name": "Paradise Robotics",
+  "tagline": "Mowing Made Better",
+  "phone": "+1 847-960-8520",
+  "email": "kathy@paradiserobotics.com",
+  "logo_path": "",
+  "review_count": "15",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B5E20",
+    "primary_dark": "#0D3B12",
+    "primary_deeper": "#072508",
+    "secondary": "#4CAF50",
+    "cta": "#FF6F00",
+    "cta_dark": "#E65100"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.8/5 from 15+ Reviews",
+    "badge_3": "Serving 5 States"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 15+ Google Reviews",
+    "badge_2": "BBB A+ Rated Since 2006",
+    "headline": "Robotic Pool & Lawn Care <span class=\"text-secondary italic\">Without<br>Lifting a Finger</span>",
+    "subheadline": "Paradise Robotics brings nearly 20 years of engineering expertise to your backyard. From wireless robotic pool cleaners to autonomous mowers, we deliver cutting-edge solutions so you can enjoy a pristine outdoor space -- hands-free.",
+    "cta_text": "Talk to an Expert Today",
+    "checkmarks": [
+      "Free expert consultation",
+      "Wireless pool cleaning technology",
+      "Engineer-backed support"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "20",
+    "stat_1_label": "Years of Expertise",
+    "stat_2_value": "5",
+    "stat_2_label": "States Covered",
+    "stat_3_value": "500",
+    "stat_3_label": "Robots Deployed",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Robotic Solutions That Work<br class=\"hidden md:block\"> While You Relax",
+    "subtitle": "Stop spending weekends on yard work and pool maintenance. Our robotic technology handles it all -- quietly, efficiently, and with zero emissions.",
+    "cards": [
+      {
+        "title": "Robotic Pool Cleaner Sales",
+        "description": "Authorized dealer of NemH2O wireless robotic pool cleaners -- the world's only cordless robot pool cleaner. Expert model selection and professional installation support for every pool type."
+      },
+      {
+        "title": "Robotic Lawn Mower Sales",
+        "description": "Upper Midwest distributor for Ambrogio Robot Mowers. Full range of residential and commercial robotic mowing solutions with zero emissions and whisper-quiet operation."
+      },
+      {
+        "title": "Parts, Accessories & Repair",
+        "description": "Complete inventory of replacement parts and accessories for Ambrogio and NemH2O products. Expert troubleshooting and repair services to keep your robots running at peak performance."
+      },
+      {
+        "title": "Commercial Slope Mowing",
+        "description": "Tracmow remote control commercial slope mowers and brush cutters for terrain too steep or dangerous for traditional mowers. Ideal for landscaping companies and municipalities."
+      },
+      {
+        "title": "Dealer Network & Training",
+        "description": "We build and support a network of showroom dealers and dealer-installers across five states, providing comprehensive training, expertise, and ongoing collaboration for dealer success."
+      },
+      {
+        "title": "Consultation & System Design",
+        "description": "Expert consultation for homeowners, landscapers, and commercial properties on integrating robotic mowing and pool cleaning technology, including complex installation planning."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Hands-Free Yard",
+    "steps": [
+      {
+        "title": "Call or Email Kathy Directly",
+        "description": "Speak with our founder and former Motorola engineer. She'll assess your property, answer every question, and recommend the perfect robotic solution -- no pressure, no runaround."
+      },
+      {
+        "title": "We Set Up Your Robot",
+        "description": "Our team handles delivery, installation, boundary mapping, and programming. We train you on operation and make sure everything runs flawlessly before we leave."
+      },
+      {
+        "title": "Enjoy a Perfect Yard & Pool",
+        "description": "Your robot mows the lawn or cleans the pool on autopilot -- quietly, safely, and with zero emissions. If anything needs attention, we're one phone call away."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Customers Trust Us",
+    "headline": "Founded by an Engineer, Built on 20 Years of Expertise",
+    "description": "Paradise Robotics was founded in 2006 by Kathy Moseler, a former Electrical Engineer and Engineering Manager at Motorola. What started as an online robotics retailer evolved into the Upper Midwest's premier distributor for Ambrogio Robot Mowers and NemH2O wireless pool cleaners across Illinois, Indiana, Michigan, Ohio, and Wisconsin. When you call Paradise Robotics, you talk directly to Kathy -- an owner who understands the technology inside and out.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Engineer-Led Technical Support",
+        "description": "Our founder brings decades of engineering experience from Motorola. Every recommendation is backed by deep technical knowledge, not a sales script."
+      },
+      {
+        "title": "Direct Access to the Owner",
+        "description": "No call centers, no runaround. Kathy is available by phone and email to every customer -- whether you're buying your first mower or troubleshooting a complex install."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "BBB A+ rated since day one. If something isn't right, we make it right. That's been our commitment for nearly two decades."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Expert Guidance.",
+    "subtitle": "Every property is different. Contact us for a personalized quote on the right robotic solution for your needs -- no obligation, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Right Robot, Right Results\" Guarantee",
+    "description": "If your robotic mower or pool cleaner isn't performing as promised, we'll troubleshoot, repair, or replace it until it does. With nearly 20 years in business and a BBB A+ rating, we stand behind every product we sell and every installation we complete. Your satisfaction isn't negotiable."
+  },
+  "faqs": [
+    {
+      "question": "Do robotic pool cleaners really work without a cord?",
+      "answer": "Yes! The NemH2O is the world's only truly wireless robotic pool cleaner. It operates on rechargeable batteries with no cords or hoses in the water, giving it complete freedom to clean every inch of your pool. We'll demonstrate exactly how it works during your consultation."
+    },
+    {
+      "question": "What states do you serve?",
+      "answer": "We are the authorized Upper Midwest distributor covering Illinois, Indiana, Michigan, Ohio, and Wisconsin. We also ship parts and accessories nationwide through our eCommerce store. For local installation support, we can connect you with a trained dealer in our network."
+    },
+    {
+      "question": "Are robotic mowers safe around kids and pets?",
+      "answer": "Absolutely. Ambrogio Robot Mowers are equipped with advanced safety sensors that stop the blades instantly upon lifting or tilting. They operate quietly and stay within programmed boundaries, making them safe for families, pets, and neighbors."
+    },
+    {
+      "question": "Can I speak directly with the owner?",
+      "answer": "Yes -- that's one of our biggest advantages. Kathy Moseler, our founder and a former Motorola engineer, is directly accessible by phone at 847-960-8520 or email. You'll never be routed to a call center or put on hold."
+    },
+    {
+      "question": "Do you offer dealer or commercial partnerships?",
+      "answer": "We do. We actively build and support a network of showroom dealers and dealer-installers across our five-state territory. We provide comprehensive training, marketing support, and ongoing collaboration. Contact us to learn about becoming an authorized dealer."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kevin H.",
+      "context": "International Decorators, Inc.",
+      "initials": "KH",
+      "text": "Kathy has tremendous experience with robotic lawn mowers and can help tackle even the most complex installations. Her engineering background makes all the difference."
+    },
+    {
+      "name": "James M.",
+      "context": "Residential customer, Illinois",
+      "initials": "JM",
+      "text": "Paradise Robotics made the transition to a robotic mower seamless. The technical knowledge and support from Kathy was outstanding -- she walked us through every step of the installation process."
+    },
+    {
+      "name": "Tom D.",
+      "context": "Commercial landscaping partner",
+      "initials": "TD",
+      "text": "As a landscaping company, adding robotic mowing services was a game-changer for our business. Paradise Robotics provided the training and ongoing support we needed to succeed."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Smarter<br>Outdoor Space?",
+    "subtitle": "Get expert advice from a real engineer -- not a sales rep. Call, email, or fill out the form and Kathy will personally respond within 24 hours.",
+    "benefits": [
+      "Free personalized consultation",
+      "Direct response from the owner",
+      "BBB A+ rated for nearly 20 years"
+    ]
+  },
+  "footer": {
+    "description": "Engineer-founded robotics company. Serving the Upper Midwest since 2006.",
+    "service_area": "Serving IL, IN, MI, OH, WI & Nationwide Online",
+    "services": [
+      "Robotic Pool Cleaners",
+      "Robotic Lawn Mowers",
+      "Parts & Repair",
+      "Commercial Solutions",
+      "Dealer Partnerships"
+    ],
+    "copyright": "&copy; 2024 Paradise Robotics (Moselco Inc). All rights reserved."
+  }
+}

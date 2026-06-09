@@ -1,0 +1,184 @@
+{
+  "folder_name": "luxury-pools-by-mf",
+  "company_name": "Luxury Pools By MF",
+  "tagline": "Bringing The Resort Experience Home",
+  "phone": "(508) 504-7665",
+  "email": "mike.freiberger@luxurypoolsbymf.com",
+  "logo_path": "",
+  "review_count": "95",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0b1d2e",
+    "secondary": "#c9a84c",
+    "cta": "#c9a84c",
+    "cta_dark": "#b08f3a"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.7/5 from 95+ Reviews",
+    "badge_3": "Lifetime Structural Warranty"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 95+ Google Reviews",
+    "badge_2": "Lifetime Structural Warranty",
+    "headline": "Your Backyard Deserves <span class=\"text-secondary italic\">Resort-Level<br>Luxury</span>",
+    "subheadline": "Massachusetts' premier gunite pool builder with 30+ years of craftsmanship. From custom 3D design to white-glove construction, we handle every detail so you simply enjoy the transformation.",
+    "cta_text": "Schedule My Design Consultation",
+    "checkmarks": [
+      "Free 3D design rendering",
+      "30+ years gunite experience",
+      "Lifetime structural warranty"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "95",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Warranty Backed"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Custom Pool & Outdoor Living<br class=\"hidden md:block\">Crafted for You",
+    "subtitle": "From gunite pools to complete outdoor retreats, every project is designed and built to your exact vision with uncompromising quality.",
+    "cards": [
+      {
+        "title": "Custom Gunite Pools",
+        "description": "Bespoke gunite swimming pools built to last a lifetime. Custom 3D renderings, smart technology, and energy-efficient systems tailored to your home and landscape."
+      },
+      {
+        "title": "Custom Spas & Hot Tubs",
+        "description": "Luxury spa installations seamlessly integrated with your pool and outdoor environment, delivering year-round relaxation and therapeutic comfort."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Fully equipped outdoor kitchens with premium appliances and custom stonework that transform your backyard into the ultimate entertainment destination."
+      },
+      {
+        "title": "Water Features & Fire Pits",
+        "description": "Dramatic waterfalls, fountains, cascading elements, and custom fire pits that add visual impact and intimate gathering spaces to your retreat."
+      },
+      {
+        "title": "Landscape Design",
+        "description": "Comprehensive landscape architecture integrating your pool into a cohesive outdoor environment with premium plantings, hardscaping, and lighting."
+      },
+      {
+        "title": "Pool Renovation & Service",
+        "description": "Expert renovation, resurfacing, equipment upgrades, and ongoing maintenance to keep your investment in pristine, swim-ready condition year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Dream Pool in Three Steps",
+    "steps": [
+      {
+        "title": "Design Consultation",
+        "description": "Share your vision with Mike and our design team. We visit your property, discuss your goals, and create stunning 3D renderings so you can see your dream pool before a single shovel hits the ground."
+      },
+      {
+        "title": "White-Glove Construction",
+        "description": "Our veteran crew handles every detail from excavation through final landscaping. You get a dedicated project manager, regular updates, and zero stress throughout the build."
+      },
+      {
+        "title": "Dive Into Your Resort",
+        "description": "Your backyard transformation is complete. We walk you through every feature, set up ongoing maintenance, and back it all with our lifetime structural warranty."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Choose Us",
+    "headline": "30+ Years Building Massachusetts' Finest Pools",
+    "description": "Founded by Mike Freiberger and backed by three decades of gunite pool expertise through MF Landscape & Design, Luxury Pools By MF delivers a concierge-level experience from first consultation to final swim. We are a Pebble Technology Certified Partner and Jandy Authorized Dealer, and every pool we build carries a lifetime structural warranty on the gunite shell. Our team treats your project like our own backyard.",
+    "badge": "Pebble Technology Certified",
+    "features": [
+      {
+        "title": "Custom 3D Design Renderings",
+        "description": "See your dream pool in photorealistic detail before construction begins. No guesswork, no surprises — just complete confidence in your investment."
+      },
+      {
+        "title": "One-Stop Luxury Builder",
+        "description": "Pool, landscaping, outdoor kitchen, hardscaping, and lighting — all managed by one team. No juggling subcontractors or coordinating schedules."
+      },
+      {
+        "title": "Lifetime Structural Warranty",
+        "description": "Every gunite pool shell we build is backed by a lifetime structural warranty. We stand behind our craftsmanship for as long as you own your home."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Investment-Grade Pools. Transparent Pricing.",
+    "subtitle": "Custom gunite pools starting at $130,000. Every project is unique — schedule a consultation for your personalized proposal."
+  },
+  "guarantee": {
+    "headline": "Our \"Built to Last\" Promise",
+    "description": "Every gunite pool we construct carries a lifetime structural warranty on the shell. If any structural issue arises, we make it right at our expense. We also guarantee clear communication, on-schedule milestones, and a finished result that matches your approved 3D design — or we keep working until it does."
+  },
+  "faqs": [
+    {
+      "question": "How long does a custom gunite pool take to build?",
+      "answer": "Most custom gunite pools take 8-12 weeks from groundbreaking to first swim, depending on complexity and permits. We provide a detailed timeline during your design consultation and keep you updated at every milestone."
+    },
+    {
+      "question": "What does a custom pool project cost?",
+      "answer": "Our custom gunite pool projects start at $130,000. Final investment depends on size, features, landscaping, and finishes. We provide a transparent, itemized proposal after your design consultation — no hidden fees or surprise charges."
+    },
+    {
+      "question": "Do you handle permits and HOA approvals?",
+      "answer": "Yes, our white-glove service includes managing all local permits, zoning requirements, and HOA submissions. We handle the paperwork so you can focus on choosing your pool's features and finishes."
+    },
+    {
+      "question": "Can I see my pool design before construction starts?",
+      "answer": "Absolutely. Every client receives custom 3D renderings showing exactly how their pool, landscaping, and outdoor living space will look. You approve the design before we break ground — no guesswork involved."
+    },
+    {
+      "question": "Do you offer pool maintenance after construction?",
+      "answer": "Yes, we provide ongoing professional maintenance including seasonal openings and closings, water chemistry management, equipment servicing, and repairs. We protect your investment so it stays pristine for decades."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Maria F.S.",
+      "context": "Pool Deck, Patio & Retaining Wall",
+      "initials": "MF",
+      "text": "We love the work that Mike and his crew did for us. A new pool deck, patio, and retaining wall. Mike listened to all our questions and explained what would take place. True professionals with excellent craftsmanship and responsive communication throughout."
+    },
+    {
+      "name": "Karen A.",
+      "context": "Complete Pool & Outdoor Living",
+      "initials": "KA",
+      "text": "MF recently did a large project for our new pool — installing hardscape, kitchen area, greenery, lighting, and more. They are great to work with, very professional, and we could not be more pleased with the results. The attention to detail was outstanding."
+    },
+    {
+      "name": "Sheryl C.",
+      "context": "Pool Surround Renovation",
+      "initials": "SC",
+      "text": "They replaced our 30-plus year old concrete skirt around our inground pool with pavers and then sod. The professionalism from design through implementation was impressive. The team was courteous, hardworking, and delivered exactly what was promised."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your Backyard<br>Transformation?",
+    "subtitle": "Schedule a free design consultation and receive a custom 3D rendering of your dream pool. No pressure, no obligations — just expert guidance from a team with 30+ years of experience.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Custom 3D pool rendering included",
+      "Lifetime structural warranty on every pool"
+    ]
+  },
+  "footer": {
+    "description": "Premier gunite pool builder. Serving Greater Boston for 30+ years.",
+    "service_area": "Serving Walpole, Westwood, Needham, Dover, Wellesley & Greater Boston",
+    "services": [
+      "Custom Gunite Pools",
+      "Spas & Hot Tubs",
+      "Outdoor Kitchens",
+      "Pool Renovation",
+      "Landscape Design"
+    ],
+    "copyright": "&copy; 2026 Luxury Pools By MF. All rights reserved. | RI Builders Reg #GC-51538"
+  }
+}
