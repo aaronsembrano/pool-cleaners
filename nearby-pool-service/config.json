@@ -1,0 +1,183 @@
+{
+  "folder_name": "nearby-pool-service",
+  "company_name": "Nearby Pool Service",
+  "tagline": "Las Vegas Pool Service Built for Desert Conditions",
+  "phone": "+1 725-210-7444",
+  "email": "derek@nearbypoolservice.com",
+  "review_count": "57",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F34",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "NV License #0091918",
+    "badge_2": "4.9/5 from 57+ Reviews",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 57+ Google Reviews",
+    "badge_2": "No Contracts Ever",
+    "headline": "Desert-Proof Pool Care <span class=\"text-secondary italic\">You Can<br>Count On</span>",
+    "subheadline": "Las Vegas heat, hard water, and extreme UV destroy pools fast. Our CPO-certified team uses a proven five-step process built specifically for desert conditions — so your pool stays crystal clear while you just dive in.",
+    "cta_text": "Get My Free Pool Diagnosis",
+    "checkmarks": [
+      "Free photo diagnosis via text",
+      "Same-week service available",
+      "Digital reports after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Las Vegas",
+    "stat_3_value": "40",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Expert Pool Care Designed<br class=\"hidden md:block\"> for the Las Vegas Desert",
+    "subtitle": "From weekly chemistry management to full equipment overhauls, our CPO-certified team handles every aspect of pool ownership in extreme desert conditions.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Full LSI chemistry testing, pH and alkalinity management, skimming, brushing, basket cleaning, filter monitoring, and digital service reports delivered after every single visit."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems, and automation — we service all major brands including Pentair, Hayward, Jandy, and Raypak. Most repairs completed same-visit."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Expert algae identification, shock treatment, and filter cleaning. We bring green pools back to crystal clear in 24 hours to 7 days depending on severity."
+      },
+      {
+        "title": "Saltwater Pool Service",
+        "description": "Specialized salt cell monitoring, descaling, and advanced chemistry management tailored specifically for Las Vegas saltwater pool systems."
+      },
+      {
+        "title": "Drain & Acid Wash",
+        "description": "Safe pool draining, acid and chlorine wash, and complete water rebalancing. We restore neglected pools to pristine condition the right way."
+      },
+      {
+        "title": "New Pool Startup",
+        "description": "Complete plaster startup services including daily brushing, equipment commissioning, and initial chemistry balancing for your newly built pool."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Text Us a Photo",
+        "description": "Snap a photo of your pool and text it to us for a free diagnosis. We will respond with an honest assessment and clear pricing within 24 hours — no pressure, no obligations."
+      },
+      {
+        "title": "We Follow Our 5-Step Process",
+        "description": "Our CPO-certified technicians arrive on schedule and follow our proven process: Test, Diagnose, Treat, Verify, Report. You receive a digital service report after every visit."
+      },
+      {
+        "title": "Enjoy Your Desert Oasis",
+        "description": "Your pool stays crystal clear year-round despite the Las Vegas heat. Same technician every visit, consistent results, and zero guesswork on your end."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Las Vegas Pool Owners Trust Us",
+    "headline": "Owner-Operated, Desert-Specialized, No Excuses",
+    "description": "Founded in 2016 by a team with over 40 years of combined pool industry experience, Nearby Pool Service was built to solve one problem: Las Vegas pools need desert-specific care that franchise companies simply cannot deliver. Our small, owner-operated team knows your pool by name — not by route number. We specialize in LSI chemistry, extreme UV protection, and hard water management that keeps your pool pristine in conditions that destroy others.",
+    "badge": "CPO Certified Team",
+    "features": [
+      {
+        "title": "CPO-Certified Desert Experts",
+        "description": "Every technician is Certified Pool Operator trained with specialized knowledge of desert water chemistry, extreme UV, and rapid evaporation management."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your business every single visit. No long-term commitments, no cancellation fees, no surprises. If we are not delivering, you walk — simple as that."
+      },
+      {
+        "title": "Digital Reports Every Visit",
+        "description": "After every service, you receive a detailed digital report showing exactly what we tested, what we treated, and the verified results. Full transparency, always."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straight Talk Pricing. No Desert Mirages.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no cancellation fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Clear Water\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and redo the work at absolutely no charge. No excuses, no fine print. We have built our reputation on doing the job right — and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients in the Las Vegas area are on-schedule within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Text us a photo and we will get you a diagnosis immediately."
+    },
+    {
+      "question": "Why does my pool need desert-specific care?",
+      "answer": "Las Vegas pools face extreme UV exposure, high calcium hardness, rapid evaporation, and temperature swings that standard maintenance programs ignore. Our LSI-balanced chemistry approach is specifically designed for these conditions, preventing scale buildup and equipment damage."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are out. You will receive a detailed digital service report after each visit showing exactly what was done."
+    },
+    {
+      "question": "What if I want to cancel?",
+      "answer": "Cancel anytime with zero fees. We do not use contracts, cancellation penalties, or guilt trips. We believe in earning your trust every single visit — if we are not delivering, you should leave."
+    },
+    {
+      "question": "Do you service rental and investment properties?",
+      "answer": "Absolutely. We offer owner-controlled weekly maintenance designed specifically for short-term rental and investment properties. We keep pools guest-ready at all times so you never worry about a bad review."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Brian K.",
+      "context": "Google Review",
+      "initials": "BK",
+      "text": "Great pool service. I've been using them for many years. Fair prices and outstanding customer service. They really know what they're doing out here in the Vegas heat."
+    },
+    {
+      "name": "Robert W.",
+      "context": "Google Review",
+      "initials": "RW",
+      "text": "The quality of their work is superb, and they're clearly committed to doing a good job and delivering quality results — not just skating by on the bare minimum."
+    },
+    {
+      "name": "Michalene E.",
+      "context": "Google Review",
+      "initials": "ME",
+      "text": "Since they took over maintenance, we have had no issues and the pool is clean and clear all the time. I can't recommend them highly enough."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Survives the Desert?",
+    "subtitle": "Text us a pool photo for a free diagnosis, or request a no-pressure quote. We respond within 24 hours — no contracts, no commitments, just honest pool care.",
+    "benefits": [
+      "Free photo diagnosis via text message",
+      "Response within 24 hours guaranteed",
+      "No contracts — cancel anytime"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated Las Vegas pool service. Desert-specific care since 2016.",
+    "service_area": "Serving Summerlin, Henderson, The Ridges, Red Rock, Centennial Hills & Greater Las Vegas",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Drain & Acid Wash",
+      "Saltwater Service"
+    ],
+    "copyright": "&copy; 2024 Nearby Pool Service. All rights reserved. NV License #0091918"
+  }
+}

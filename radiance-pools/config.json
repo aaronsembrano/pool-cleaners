@@ -1,0 +1,183 @@
+{
+  "folder_name": "radiance-pools",
+  "company_name": "Radiance Pools",
+  "tagline": "Enjoy a Radiant Pool All Year Round",
+  "phone": "+1 480-442-1909",
+  "email": "clean@radiancepools.com",
+  "colors": {
+    "primary": "#F59E0B",
+    "primary_dark": "#D97706",
+    "primary_deeper": "#92400E",
+    "secondary": "#1E3A5F",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "4.0/5 from 81+ Reviews",
+    "badge_3": "CPO Certified"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 81+ Google Reviews",
+    "badge_2": "Authorized Hayward & Pentair Provider",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Same Tech<br>Every Week</span>",
+    "subheadline": "Most pool companies send whoever is available. Radiance Pools assigns a dedicated, CPO-certified technician to your account so nothing gets missed and your pool stays radiant all year long.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site inspection",
+      "Same-week service start",
+      "Pay only for chemicals you use"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "5",
+    "stat_2_label": "Years Serving AZ",
+    "stat_3_value": "81",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "2",
+    "stat_4_label": "ROC Licenses"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Cleaning to Complete Remodels",
+    "subtitle": "From weekly maintenance to full renovations, Radiance Pools handles it all. Authorized Hayward and Pentair service means your equipment is in expert hands.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Professional chemical management, surface skimming, vacuuming, and filter cleaning. You only pay for the chemicals actually used — no flat-rate markups."
+      },
+      {
+        "title": "Pool Repairs",
+        "description": "Expert diagnosis and repair of pumps, filters, plumbing, and surface issues. Most repairs completed same-visit so you are back to swimming fast."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "New pumps, filters, heaters, salt systems, and automation installed right. As authorized Hayward and Pentair providers, we match the best equipment to your pool."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Complete pool renovation with updated finishes, tile, coping, and modern features. Transform your backyard into the oasis you have been imagining."
+      },
+      {
+        "title": "Hayward Equipment Services",
+        "description": "Authorized Hayward sales, installation, and repair. Get factory-trained expertise on one of the industry's most trusted pool equipment brands."
+      },
+      {
+        "title": "Pentair Equipment Services",
+        "description": "Specialized Pentair maintenance, installation, and repair including variable speed pumps and IntelliConnect automation systems."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Radiant Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Assessment",
+        "description": "Tell us about your pool and we will provide an honest quote based on your pool's actual needs. No pressure, no upselling, no hidden fees."
+      },
+      {
+        "title": "Meet Your Dedicated Technician",
+        "description": "We assign the same CPO-certified tech to your pool every week. They learn your equipment, your water chemistry, and what your pool needs to stay perfect."
+      },
+      {
+        "title": "Enjoy a Radiant Pool Year-Round",
+        "description": "Your pool stays crystal clear and swim-ready through every Arizona season. You only pay for chemicals used, and we keep you updated after every visit."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Chandler Trusts Radiance Pools",
+    "headline": "Same Tech. Fair Pricing. Zero Guesswork.",
+    "description": "Founded in 2021, Radiance Pools was built on a simple frustration: pool companies that send random techs, overcharge for chemicals, and disappear when something breaks. We do the opposite. Every account gets a dedicated technician who knows your pool inside and out. You pay only for the chemicals actually used. And with dual ROC licenses and CPO certification, we have the credentials to back up every repair, installation, and remodel we take on.",
+    "badge": "CPO Certified — Dual ROC Licensed",
+    "features": [
+      {
+        "title": "Consistent Technicians Every Visit",
+        "description": "No revolving door of strangers. Your assigned tech learns your pool and catches issues early before they become expensive problems."
+      },
+      {
+        "title": "Fair, Transparent Chemical Billing",
+        "description": "We charge for chemicals actually used, not a flat markup. You see exactly what goes into your pool and what it costs."
+      },
+      {
+        "title": "Authorized Hayward & Pentair Provider",
+        "description": "Factory-trained on both leading equipment brands. Your pool gets the right parts, installed the right way, with manufacturer backing."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. Pay for What You Use.",
+    "subtitle": "No flat-rate chemical markups. No long-term contracts. Just honest pricing based on what your pool actually needs."
+  },
+  "guarantee": {
+    "headline": "Our \"Radiant Pool\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will send your dedicated technician back to make it right at no extra charge. We also guarantee transparent billing on every invoice — you will see exactly what chemicals were used and why. No surprises, ever."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service in my area?",
+      "answer": "Most new clients across Phoenix, Tempe, Mesa, Gilbert, Chandler, and surrounding areas are scheduled within 3-5 business days. We will assign your dedicated technician and get your pool on a consistent weekly schedule right away."
+    },
+    {
+      "question": "Why do you charge based on actual chemical usage?",
+      "answer": "Flat-rate chemical pricing means you overpay when your pool needs less and your tech skimps when it needs more. Our usage-based billing keeps your water perfectly balanced and your costs fair. Every invoice shows exactly what was used."
+    },
+    {
+      "question": "Will I get the same technician every week?",
+      "answer": "Yes, that is one of our core promises. Your assigned technician handles your pool every visit. They learn your equipment, your water patterns, and catch small issues before they become big repairs."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Radiance Pools holds dual ROC licenses (341720 and 359422), CPO certification, and full bonding and insurance. We are also authorized service providers for both Hayward and Pentair equipment."
+    },
+    {
+      "question": "Do you handle equipment repairs and installations?",
+      "answer": "Yes, from pump replacements to full equipment overhauls and pool remodels. As authorized Hayward and Pentair providers, we install and service premium equipment with factory-trained expertise."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kara G.",
+      "context": "Ongoing pool service",
+      "initials": "KG",
+      "text": "I've worked with several pool services and nothing comes close to their level of detail and expertise. Radiance Pools is the best pool service in the valley hands down."
+    },
+    {
+      "name": "Michael F.",
+      "context": "Full equipment renovation",
+      "initials": "MF",
+      "text": "Kyle and his team did a fantastic job at a total renovation of all of our pool equipment and plumbing, following it up with a complete servicing of the pool. Kyle is very knowledgeable and responsive. I recommend Radiance Pools for any and all of your pool needs."
+    },
+    {
+      "name": "Chris R.",
+      "context": "Pool repair",
+      "initials": "CR",
+      "text": "Very honest with a fair price. They just quickly fixed something for a great price. Kyle responded within just a few minutes. Would highly recommend."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Radiant Year-Round?",
+    "subtitle": "Get a free, no-pressure pool assessment within 24 hours. No contracts, no hidden fees — just honest service from a dedicated technician who knows your pool.",
+    "benefits": [
+      "Free on-site pool inspection with every quote",
+      "Your dedicated technician assigned within days",
+      "Pay only for chemicals actually used"
+    ]
+  },
+  "footer": {
+    "description": "Licensed, bonded & insured pool service. Serving the Phoenix metro since 2021.",
+    "service_area": "Serving Phoenix, Tempe, Mesa, Gilbert, Chandler, Ahwatukee, Queen Creek & San Tan Valley",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Repairs & Equipment",
+      "Pool Remodeling",
+      "Hayward Equipment",
+      "Pentair Equipment"
+    ],
+    "copyright": "&copy; 2026 Radiance Pools. All rights reserved. Licensed, Bonded & Insured — ROC 341720 / ROC 359422"
+  },
+  "review_count": "81",
+  "review_rating": "4.0"
+}

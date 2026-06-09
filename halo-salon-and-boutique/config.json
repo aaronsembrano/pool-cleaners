@@ -1,0 +1,183 @@
+{
+  "folder_name": "halo-salon-and-boutique",
+  "company_name": "Halo Salon + Boutique",
+  "tagline": "Your Downtown Longview Salon, Med Spa and Boutique",
+  "phone": "+1 360-261-3112",
+  "email": "leann@kattwalksalon.com",
+  "review_count": "281",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a1a2e",
+    "primary_dark": "#111122",
+    "primary_deeper": "#0a0a18",
+    "secondary": "#c9a96e",
+    "cta": "#c9a96e",
+    "cta_dark": "#b0924f"
+  },
+  "trust_badges": {
+    "badge_1": "Certified Brazilian Blowout Salon",
+    "badge_2": "4.7/5 from 281+ Reviews",
+    "badge_3": "Hand-Tied Extension Specialists"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 281+ Google Reviews",
+    "badge_2": "Salon, Med Spa & Boutique",
+    "headline": "Your Best Hair Day <span class=\"text-secondary italic\">Starts<br>at Halo</span>",
+    "subheadline": "Downtown Longview's full-service salon, med spa, and boutique — where expert stylists, inclusive vibes, and complimentary refreshments make every visit feel like a celebration of you.",
+    "cta_text": "Book Your Appointment",
+    "checkmarks": [
+      "Complimentary consultation",
+      "Same-week availability",
+      "Walk-ins welcome"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "281",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "8",
+    "stat_2_label": "Years in Downtown Longview",
+    "stat_3_value": "5000",
+    "stat_3_label": "Happy Clients Served",
+    "stat_4_value": "96%",
+    "stat_4_label": "Recommendation Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Beauty<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From expert color and extensions to med spa treatments and a curated boutique, Halo is your complete destination for beauty, self-care, and confidence.",
+    "cards": [
+      {
+        "title": "Hair Coloring & Balayage",
+        "description": "Full highlights, balayage, color corrections, and vivid transformations. Our colorists create dimension and vibrancy tailored to your unique style."
+      },
+      {
+        "title": "Hand-Tied Extensions",
+        "description": "Premium hand-tied extensions for length, volume, and dimension. Our trained specialists deliver seamless, natural-looking results every time."
+      },
+      {
+        "title": "Precision Cuts & Styling",
+        "description": "Custom haircuts, layers, blowouts, and special occasion styling. From everyday looks to wedding-day glam, we make you feel incredible."
+      },
+      {
+        "title": "Brazilian Blowout",
+        "description": "Certified Brazilian Blowout and keratin treatments that smooth frizz, boost shine, and cut your styling time in half. Results last for months."
+      },
+      {
+        "title": "Med Spa Treatments",
+        "description": "Advanced aesthetics and rejuvenation services in a relaxing salon setting. Look and feel your best with our medical spa offerings."
+      },
+      {
+        "title": "Boutique Shopping",
+        "description": "A curated collection of beauty products, accessories, and gifts. Browse our boutique before or after your appointment for the perfect finishing touch."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Best Look",
+    "steps": [
+      {
+        "title": "Book a Consultation",
+        "description": "Tell us about your hair goals and vision. We'll match you with the right stylist and schedule a time that works for you — no pressure, just possibilities."
+      },
+      {
+        "title": "Relax & Get Pampered",
+        "description": "Enjoy complimentary beverages, a welcoming atmosphere, and the full attention of your stylist. We listen, collaborate, and create the look you've been dreaming of."
+      },
+      {
+        "title": "Walk Out Glowing",
+        "description": "Leave Halo feeling confident, beautiful, and ready to take on the world. Not thrilled? We'll adjust until you absolutely love it — that's our promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Choose Halo",
+    "headline": "More Than a Salon — We're Your Beauty Family",
+    "description": "Founded in 2018 by owner Leanna, Halo Salon + Boutique has grown into Downtown Longview's most beloved beauty destination. Our team of skilled stylists creates an inclusive, welcoming space where every client is celebrated. We invest in ongoing education, premium products, and a culture of warmth that keeps clients coming back — and traveling from across the region to see us.",
+    "badge": "Certified Extension Specialists",
+    "features": [
+      {
+        "title": "Inclusive & Welcoming Space",
+        "description": "Halo is a progressive, accepting salon where everyone belongs. Our clients consistently praise the loving, supportive atmosphere."
+      },
+      {
+        "title": "Ongoing Stylist Education",
+        "description": "Our team stays current with the latest techniques, certifications, and trends so you always get cutting-edge results."
+      },
+      {
+        "title": "Complimentary Refreshments",
+        "description": "Enjoy beverages and food offerings on the house during your visit. At Halo, every appointment feels like a treat."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every service includes a consultation. Pricing varies by stylist level and service complexity — we'll give you an honest quote before we start."
+  },
+  "guarantee": {
+    "headline": "Our \"Love Your Look\" Guarantee",
+    "description": "If you're not completely in love with your new look, let us know within 7 days and we'll adjust it at no extra charge. We want you to leave Halo feeling like the best version of yourself — every single time."
+  },
+  "faqs": [
+    {
+      "question": "How do I book an appointment?",
+      "answer": "You can book online through our website, call us at 360-261-3112, or send us a message on social media. We'll match you with the perfect stylist for your needs and get you scheduled quickly."
+    },
+    {
+      "question": "Do I need a consultation before my first visit?",
+      "answer": "We recommend a consultation for color services, extensions, and major transformations. For cuts and blowouts, you can book directly. Consultations are always complimentary."
+    },
+    {
+      "question": "How long do hand-tied extensions last?",
+      "answer": "Hand-tied extensions typically last 6-8 weeks between move-up appointments. With proper care and maintenance, the hair itself can last 9-12 months or longer."
+    },
+    {
+      "question": "Is Halo an inclusive salon?",
+      "answer": "Absolutely. Halo is a progressive, welcoming space for all people. Our team and our community of clients celebrate diversity, and we're proud to be a safe space for everyone."
+    },
+    {
+      "question": "Do you offer bridal packages?",
+      "answer": "Yes! We offer full bridal glam packages including hair, makeup, and nails. We recommend booking a trial run before your big day. Contact us early to reserve your date — we fill up fast during wedding season."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kim E.",
+      "context": "Google Review — Color & Cut",
+      "initials": "KE",
+      "text": "My experience at Halo was absolutely great. Meredith did a wonderful job with my color and cut. The salon has such a welcoming atmosphere and the owner's hospitality is amazing, including complimentary beverages and food."
+    },
+    {
+      "name": "Southern Oregon Client",
+      "context": "Google Review — Traveled for Color",
+      "initials": "SO",
+      "text": "I traveled from Southern Oregon to have my hair done by Maddi. She transformed my drab, grown-out blonde into the perfect fall blonde with spot-on dimension, tone, and brightness. She is truly an artist."
+    },
+    {
+      "name": "Bridal Client",
+      "context": "Google Review — Wedding Day",
+      "initials": "BC",
+      "text": "Autumn did my nails and I'm still obsessed. Maddi did my hair and pivoted perfectly when I changed my mind. Irene did my makeup flawlessly. The overall look was exactly what I wanted for my wedding day."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your<br>Best Hair Yet?",
+    "subtitle": "Book a complimentary consultation or schedule your next appointment. Walk-ins welcome — but booking ahead guarantees your favorite stylist.",
+    "benefits": [
+      "Complimentary consultation with every new client",
+      "Same-week availability most days",
+      "Love-your-look guarantee on every service"
+    ]
+  },
+  "footer": {
+    "description": "Downtown Longview's full-service salon, med spa, and boutique. Serving the community since 2018.",
+    "service_area": "Serving Longview, Kelso, Kalama, Castle Rock & Cowlitz County",
+    "services": [
+      "Hair Coloring & Balayage",
+      "Hand-Tied Extensions",
+      "Brazilian Blowout",
+      "Med Spa Services",
+      "Bridal Packages"
+    ],
+    "copyright": "&copy; 2024 Halo Salon + Boutique. All rights reserved. Licensed Cosmetologists — Longview, WA"
+  }
+}

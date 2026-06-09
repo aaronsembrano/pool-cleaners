@@ -1,0 +1,183 @@
+{
+  "folder_name": "the-martial-arfs",
+  "company_name": "The Martial ARFS",
+  "tagline": "Long Island Dog Training For Obedience, Agility, Swimming & More!",
+  "phone": "+1 516-280-8331",
+  "email": "carleplace@martialarfs.com",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0b1d2e",
+    "secondary": "#c8102e",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.3/5 from 146+ Reviews",
+    "badge_3": "Serving Long Island Since 2013"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 146+ Google Reviews",
+    "badge_2": "BBB A+ Rated Facility",
+    "headline": "Transform Your Dog's Life <span class=\"text-secondary italic\">Starting Today</span>",
+    "subheadline": "Long Island's premier 4,200 sq ft dog training and fitness center. From obedience and agility to our indoor heated pool and canine fitness programs, we don't just train dogs — we improve their quality of life.",
+    "cta_text": "Book a Free Consultation",
+    "checkmarks": [
+      "Free initial assessment",
+      "Programs for all ages & abilities",
+      "Indoor heated swimming pool"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Dogs Trained",
+    "stat_2_value": "13",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "4200",
+    "stat_3_label": "Sq Ft Facility",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Programs",
+    "headline": "Complete Training, Fitness &<br class=\"hidden md:block\"> Aquatic Programs for Every Dog",
+    "subtitle": "Whether your pup needs basic manners or your senior dog needs gentle therapy, our comprehensive facility has a program designed for every stage of life.",
+    "cards": [
+      {
+        "title": "Obedience & Behavior Training",
+        "description": "From basic commands to advanced behavioral modification, including reactivity and leash training. Private and group classes with patient, experienced trainers."
+      },
+      {
+        "title": "Agility & Dog Sports",
+        "description": "Build confidence and strengthen your bond through agility courses, lure coursing, dock diving, and disc dog — competitive or just for fun."
+      },
+      {
+        "title": "Indoor Heated Dog Pool",
+        "description": "Year-round indoor heated swimming pool for recreational swims and therapeutic hydrotherapy. Perfect for rehab, weight loss, and pure canine joy."
+      },
+      {
+        "title": "Canine Fitness & Conditioning",
+        "description": "Structured fitness programs to improve strength, flexibility, and overall health. Specialized weight loss and post-surgery recovery protocols available."
+      },
+      {
+        "title": "Puppy Kindergarten",
+        "description": "Early socialization and foundational training in a safe, supervised group environment. Give your puppy the best start with confidence-building exercises."
+      },
+      {
+        "title": "Senior & Therapy Programs",
+        "description": "Gentle, low-impact activity programs and therapeutic swimming for senior dogs and those with arthritis or mobility challenges. Maintain quality of life at every age."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Happier, Healthier Dog",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your dog's needs, goals, and personality. We'll recommend the perfect program and schedule a time for you to visit our 4,200 sq ft facility."
+      },
+      {
+        "title": "We Create a Custom Plan",
+        "description": "Our experienced trainers design a tailored program — whether it's obedience, agility, swimming, fitness, or a combination — matched to your dog's age, breed, and temperament."
+      },
+      {
+        "title": "Watch Your Dog Thrive",
+        "description": "See the transformation as your dog gains confidence, better behavior, improved fitness, and a higher quality of life. Most owners notice changes within the first few sessions."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Long Island Dog Owners Trust Us",
+    "headline": "More Than Training — We Improve Your Dog's Quality of Life",
+    "description": "Founded by Jeris Pugh in 2013, The Martial ARFS has been Long Island's go-to dog training and fitness center for over 13 years. Our 4,200 sq ft Carle Place facility is one of the only centers on Long Island with an indoor heated swimming pool for dogs. We combine training, fitness, sports, and aquatic therapy under one roof because we believe a well-rounded approach produces the happiest, healthiest dogs.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Experienced, Passionate Trainers",
+        "description": "Every trainer on our team is thoroughly vetted and genuinely passionate about canine wellness. They're patient, persistent, and invested in your dog's progress."
+      },
+      {
+        "title": "Programs for Every Life Stage",
+        "description": "From 8-week-old puppies to 14-year-old seniors, we have age-appropriate programs that meet your dog exactly where they are."
+      },
+      {
+        "title": "Results You Can See",
+        "description": "Not seeing improvement? We'll adjust the program until we find what works. Your dog's success is our reputation — and we take that seriously."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the program that fits your dog's needs. Packages available for multi-session savings — ask us about bundling training and swimming."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Dog\" Guarantee",
+    "description": "If you're not seeing progress with your dog's training or program, we'll work with you to adjust the approach at no extra cost. We're not satisfied until you and your dog are thriving — that's been our promise since 2013."
+  },
+  "faqs": [
+    {
+      "question": "What age can my dog start training?",
+      "answer": "Puppies can join our Puppy Kindergarten as early as 8 weeks old (with current vaccinations). For obedience and sports programs, we work with dogs of all ages — it's never too late to start."
+    },
+    {
+      "question": "Does my dog need to know how to swim?",
+      "answer": "Not at all! Our indoor heated pool sessions start with gentle introductions. Our team will help your dog become comfortable in the water at their own pace. Most dogs take to it quickly and love it."
+    },
+    {
+      "question": "How do I know which program is right for my dog?",
+      "answer": "Schedule a free assessment and we'll evaluate your dog's needs, temperament, and goals together. We'll recommend the right combination of training, fitness, or aquatic programs tailored to your dog."
+    },
+    {
+      "question": "Do you work with reactive or aggressive dogs?",
+      "answer": "Yes. We have experienced trainers who specialize in behavioral modification for reactive dogs. We'll start with a private assessment to create a safe, effective plan for your dog's specific challenges."
+    },
+    {
+      "question": "Can swimming help my senior dog with arthritis?",
+      "answer": "Absolutely. Hydrotherapy is one of the best low-impact exercises for dogs with arthritis, hip dysplasia, or post-surgery recovery. The warm water reduces joint stress while building muscle and improving mobility."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Client",
+      "context": "Online Review",
+      "initials": "SC",
+      "text": "The staff is extremely friendly and the people who work there are outstanding and love what they do. The environment overall is amazing for all types of furbabies and their friends!"
+    },
+    {
+      "name": "Training Client",
+      "context": "Online Review",
+      "initials": "TC",
+      "text": "My dog and I have worked with Rachael, Cole, Emma, and Nicole and they are all fantastic. Great experience for all dogs — the group classes provide excellent opportunities for proper socialization."
+    },
+    {
+      "name": "Long Island Dog Owner",
+      "context": "Online Review",
+      "initials": "LI",
+      "text": "The trainers are patient, persistent, and genuinely invested in each dog's progress. It's a fun and safe training environment that caters to various needs including behavioral issues like leash pulling or reactivity."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to See Your Dog<br>Thrive?",
+    "subtitle": "Book a free consultation and tour our 4,200 sq ft facility. See the indoor heated pool, meet our trainers, and find the perfect program for your dog.",
+    "benefits": [
+      "Free dog assessment with every consultation",
+      "Response within 24 hours",
+      "Programs starting the same week"
+    ]
+  },
+  "footer": {
+    "description": "Long Island's premier dog training & fitness center. Serving the community since 2013.",
+    "service_area": "Serving Long Island, Nassau County & Surrounding Areas",
+    "services": [
+      "Obedience Training",
+      "Agility & Sports",
+      "Indoor Dog Swimming",
+      "Canine Fitness",
+      "Puppy Kindergarten"
+    ],
+    "copyright": "&copy; 2024 The Martial ARFS. All rights reserved. Carle Place, NY"
+  },
+  "review_count": "146",
+  "review_rating": "4.3"
+}

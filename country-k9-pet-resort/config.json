@@ -1,0 +1,183 @@
+{
+  "folder_name": "country-k9-pet-resort",
+  "company_name": "Country K9 Pet Resort & Spa",
+  "tagline": "Your Pet's Home Away From Home",
+  "phone": "+1 540-722-0189",
+  "email": "melissa.stubblefield@countryk9pets.com",
+  "review_count": "85",
+  "review_rating": "4.3",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B13",
+    "secondary": "#8D6E63",
+    "cta": "#FFC107",
+    "cta_dark": "#FFA000"
+  },
+  "trust_badges": {
+    "badge_1": "CPR & First Aid Certified Staff",
+    "badge_2": "4.3/5 from 85+ Reviews",
+    "badge_3": "Family-Owned Since 2014"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 85+ Google Reviews",
+    "badge_2": "5 Acres of Resort Living",
+    "headline": "Where Pets Vacation <span class=\"text-secondary italic\">Like<br>Family</span>",
+    "subheadline": "Leaving your pet behind should never feel stressful. At our family-owned 5-acre resort, your dog or cat gets spacious suites, certified caregivers, and more love than they know what to do with. You travel worry-free — they come home happy.",
+    "cta_text": "Book Your Pet's Stay",
+    "checkmarks": [
+      "Free facility tour",
+      "112 climate-controlled suites",
+      "CPR & First Aid certified team"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "112",
+    "stat_1_label": "Climate-Controlled Suites",
+    "stat_2_value": "12",
+    "stat_2_label": "Years of Care",
+    "stat_3_value": "5",
+    "stat_3_label": "Acres of Resort",
+    "stat_4_value": "100%",
+    "stat_4_label": "Love & Dedication"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Everything Your Pet Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From overnight boarding to full grooming makeovers, we provide complete pet care so you never have to juggle multiple providers.",
+    "cards": [
+      {
+        "title": "Pet Boarding",
+        "description": "Spacious climate-controlled suites across three wings with 112 runs, large outdoor exercise yards, daily sanitization, and personalized feeding schedules for dogs, cats, birds, and small animals."
+      },
+      {
+        "title": "Professional Grooming",
+        "description": "Full-service bathing, haircuts, nail trimming, and breed-specific styling. Our expert groomers use gentle techniques so every pet leaves looking and feeling their absolute best."
+      },
+      {
+        "title": "Dog Training",
+        "description": "Basic obedience classes, immersive Board & Train programs, and an on-site agility course. We build confident, well-mannered dogs through positive, reward-based methods."
+      },
+      {
+        "title": "Spa Services",
+        "description": "Pampering spa treatments and specialty baths to keep your pet clean, comfortable, and refreshed — available during their stay or as a standalone visit."
+      },
+      {
+        "title": "Personal Playtime",
+        "description": "One-on-one staff interaction sessions lasting 15-30 minutes in outdoor play yards or our indoor training room. Extra exercise, socialization, and belly rubs included."
+      },
+      {
+        "title": "Pet Daycare",
+        "description": "Safe, supervised daytime care with indoor and outdoor play areas, climate-controlled comfort, and attentive staff to keep your pet active, social, and happy all day long."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Stress-Free Stay",
+    "steps": [
+      {
+        "title": "Schedule a Tour & Consultation",
+        "description": "Call or visit to tour our 5-acre facility. Meet the staff, see the suites, and ask every question you have. We want you completely comfortable before your pet's first stay."
+      },
+      {
+        "title": "We Pamper Your Pet",
+        "description": "Our CPR-certified team follows your pet's routine — feeding schedule, medications, favorite activities. With climate-controlled suites and acres of play space, they'll feel right at home."
+      },
+      {
+        "title": "Pick Up a Happy Pet",
+        "description": "Collect your tail-wagging, well-rested companion. We'll share how their stay went, and don't be surprised if they're excited to come back. Most of our guests are regulars."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pet Parents Trust Us",
+    "headline": "Not Just a Kennel — A Family-Run Resort",
+    "description": "Founded by Melissa and Tom Stubblefield in 2014, Country K9 was born from 18+ years of personal experience as pet boarding consumers who knew they could do better. Melissa left a 25-year IT career to pursue her dream of full-time animal care. Every decision we make — from our WYSIWASH sanitization system to our CPR-certified staff — comes from asking one question: would we trust our own pets here?",
+    "badge": "CPR & First Aid Certified",
+    "features": [
+      {
+        "title": "CPR & First Aid Certified Team",
+        "description": "Every staff member is certified in pet CPR and First Aid, with fully stocked emergency supplies and veterinary transport available at all times."
+      },
+      {
+        "title": "Military & First Responder Discounts",
+        "description": "We proudly offer discounts for active/retired military, law enforcement, and multi-pet families. Serving those who serve us is part of who we are."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with any aspect of your pet's care? We'll make it right immediately. Your trust and your pet's well-being are our top priorities."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the services that fit your pet's needs. Multi-pet discounts, military discounts, and flexible packages available."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Pet\" Guarantee",
+    "description": "If your pet's care doesn't meet your expectations for any reason, we'll make it right at no additional charge. We've been pet parents for over 18 years ourselves — we treat every guest with the same love and attention we give our own animals. Your peace of mind is non-negotiable."
+  },
+  "faqs": [
+    {
+      "question": "What do I need to bring for my pet's boarding stay?",
+      "answer": "Bring your pet's current vaccination records, any medications with instructions, and their regular food if they have a sensitive stomach. We provide bedding, bowls, and lots of love. Feel free to bring a favorite toy or blanket for extra comfort."
+    },
+    {
+      "question": "Can I tour the facility before booking?",
+      "answer": "Absolutely! We encourage every pet parent to schedule a tour. Walk through our three boarding wings, see our outdoor play areas, meet the staff, and ask any questions. We want you 100% comfortable before your pet's first stay."
+    },
+    {
+      "question": "Are your staff trained in pet emergencies?",
+      "answer": "Yes. Every team member is CPR and First Aid certified for pets. We keep fully stocked emergency supplies on-site and have veterinary transport arrangements in place. Your pet's safety is always our first priority."
+    },
+    {
+      "question": "Do you offer discounts for multiple pets?",
+      "answer": "We do! We offer multi-pet discounts as well as special rates for active and retired military, law enforcement, and first responders. Call us for current pricing and package options."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We're located in Stephenson, Virginia and serve Winchester, Clearbrook, Loudoun County, and surrounding Virginia communities, as well as Martinsburg WV and Hagerstown MD. Many clients happily drive from neighboring counties for the quality of care we provide."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah J.",
+      "text": "Thank you so much for welcoming Moose and treating him so great while he was on his doggie vacation. He had a wonderful time and came home happy and healthy. We'll definitely be back!",
+      "context": "Dog Boarding Guest",
+      "initials": "SJ"
+    },
+    {
+      "name": "Sue C.",
+      "text": "Country K9 is a great kennel and grooming salon. They do a really great job grooming. The facility is very clean and the staff are very friendly. I can tell these folks genuinely love animals and take great care of my fur baby.",
+      "context": "Boarding & Grooming Client",
+      "initials": "SC"
+    },
+    {
+      "name": "Rick & Donna S.",
+      "text": "Thanks for taking such good care of Chip this past year. We truly appreciate the love and attention you give him every time he stays with you. It means the world knowing he's in great hands.",
+      "context": "Repeat Boarding Clients",
+      "initials": "RS"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Give Your Pet<br>the Vacation They Deserve?",
+    "subtitle": "Schedule a tour or book your pet's stay today. Call us or fill out the form and we'll get back to you within 24 hours.",
+    "benefits": [
+      "Free facility tour with every inquiry",
+      "Response within 24 hours",
+      "Multi-pet and military discounts available"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pet resort on 5 beautiful acres in Stephenson, Virginia. Caring for pets since 2014.",
+    "service_area": "Serving Winchester VA, Loudoun County VA, Martinsburg WV & Hagerstown MD",
+    "services": [
+      "Pet Boarding",
+      "Professional Grooming",
+      "Dog Training",
+      "Spa Services",
+      "Pet Daycare"
+    ],
+    "copyright": "&copy; 2026 Country K9 Pet Resort & Spa. All rights reserved."
+  }
+}

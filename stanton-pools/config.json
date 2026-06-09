@@ -1,183 +1,183 @@
 {
   "folder_name": "stanton-pools",
-  "company_name": "Stanton Pools Inc",
-  "tagline": "Complete Pool Service You Can Trust — From New Builds to Full Restorations",
-  "phone": "(321) 591-8356",
-  "email": "jeffrey.stanton@partners.mcd.com",
-  "review_count": "30",
-  "review_rating": "4.8",
+  "company_name": "Stanton Pools",
+  "tagline": "Your pool should be an oasis where great memories are made year-round.",
+  "phone": "+1 888-365-4621",
+  "email": "eric@stantonpools.com",
+  "review_count": "225",
+  "review_rating": "5.0",
   "colors": {
     "primary": "#1a5276",
-    "primary_dark": "#133c57",
-    "primary_deeper": "#0d2a3d",
-    "secondary": "#2e86c1",
+    "primary_dark": "#133b56",
+    "primary_deeper": "#0d2a3e",
+    "secondary": "#2980b9",
     "cta": "#f39c12",
     "cta_dark": "#d68910"
   },
   "trust_badges": {
-    "badge_1": "Licensed FL Contractor #CPC1459682",
-    "badge_2": "4.8/5 from 30+ Reviews",
-    "badge_3": "A+ BBB Rated"
+    "badge_1": "C-53 & D-35 Licensed",
+    "badge_2": "5.0/5 from 225+ Reviews",
+    "badge_3": "Health Dept. Certified"
   },
   "hero": {
-    "badge_1": "4.8/5 from 30+ Google Reviews",
-    "badge_2": "A+ BBB Rating Since 1980",
-    "headline": "46 Years Keeping Brevard <span class=\"text-secondary italic\">Pools Perfect</span>",
-    "subheadline": "Since 1980, the Stanton family has built, repaired, and maintained pools across Merritt Island and the Space Coast. From new construction to weekly upkeep, we handle it all so you can skip the work and enjoy the water.",
-    "cta_text": "Get My Free Pool Estimate",
+    "badge_1": "5.0/5 from 225+ Google Reviews",
+    "badge_2": "C-53 & D-35 Licensed Contractor",
+    "headline": "Your Backyard Oasis, <span class=\"text-secondary italic\">Perfected by<br>225+ Happy Families</span>",
+    "subheadline": "For 18 years, Thousand Oaks families have trusted Stanton Pools for stunning remodels, reliable weekly care, and honest pricing. Owner Eric Stanton personally oversees every project so you get the backyard you deserve.",
+    "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Free on-site pool inspection",
-      "Family-owned since 1980",
-      "No hidden fees, ever"
+      "Free on-site consultation",
+      "Owner-supervised projects",
+      "Fair upfront pricing"
     ]
   },
   "stats": {
-    "stat_1_value": "2000",
-    "stat_1_label": "Pools Built & Serviced",
-    "stat_2_value": "46",
+    "stat_1_value": "225",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "18",
     "stat_2_label": "Years in Business",
     "stat_3_value": "500",
-    "stat_3_label": "Active Maintenance Clients",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_label": "Pools Remodeled",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Full-Service Pool Experts<br class=\"hidden md:block\"> for Every Need",
-    "subtitle": "From breaking ground on a brand-new pool to keeping your existing one crystal clear, Stanton Pools handles every stage of pool ownership with 46 years of proven expertise.",
+    "headline": "Complete Pool Remodeling &<br class=\"hidden md:block\">Care for Southern California",
+    "subtitle": "From full-scale renovations to weekly maintenance, our licensed specialist teams handle every detail so your pool stays beautiful year-round.",
     "cards": [
       {
-        "title": "Pool Construction",
-        "description": "Custom new pool builds designed for Florida homes, from consultation and design through excavation, plumbing, and finishing. Your dream backyard starts here."
+        "title": "Pool Remodeling & Resurfacing",
+        "description": "Complete pool renovations including plaster and pebble resurfacing, new tile and coping, copper-to-PVC plumbing conversions, and full equipment upgrades."
       },
       {
-        "title": "Pool Remodeling",
-        "description": "Complete renovation including resurfacing, tile replacement, coping upgrades, modern lighting, and deck improvements that transform aging pools into stunning retreats."
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly care including chemical balancing, skimmer and pump basket emptying, equipment checks, netting, vacuuming, and wall brushing."
       },
       {
-        "title": "Pool Resurfacing",
-        "description": "Expert application of pebble, plaster, and aggregate finishes that restore beauty and extend the life of your pool shell for years to come."
-      },
-      {
-        "title": "Pool Maintenance",
-        "description": "Reliable weekly and bi-weekly maintenance that keeps water crystal clear and chemically balanced. Protecting your investment and ensuring safe swimming year-round."
-      },
-      {
-        "title": "Equipment Repair & Install",
-        "description": "Pumps, filters, heaters, salt systems, and automation controls diagnosed and repaired. Full equipment upgrades to improve efficiency and cut energy costs."
+        "title": "Spa Additions",
+        "description": "Custom spa additions to your existing pool with full plumbing, electrical, and finishing work. Create the ultimate backyard relaxation experience."
       },
       {
         "title": "Structural Crack Repair",
-        "description": "Professional assessment and repair of pool shell cracks, leaks, and structural damage using proven techniques that restore watertight integrity."
+        "description": "Expert structural crack repair to restore your pool's integrity and prevent further damage using professional techniques and quality materials."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Pump repair, energy-efficient variable speed installations, heater replacement, salt water conversions, and Wi-Fi remote system setup."
+      },
+      {
+        "title": "Custom Pool Features",
+        "description": "Baja shelves, deck jets, LED lighting, custom tile accents, and umbrella holders to transform your pool into a personal resort."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Best Pool Yet",
+    "headline": "Three Steps to Your Dream Pool",
     "steps": [
       {
-        "title": "Schedule a Free Inspection",
-        "description": "Call us or fill out the form. We'll visit your property, assess your pool's condition, and provide an honest, no-pressure estimate within 24 hours."
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your pool and your vision. Eric will visit your home, assess your pool, and provide an honest, detailed quote within 24 hours. No pressure, no obligation."
       },
       {
-        "title": "We Get to Work",
-        "description": "Our experienced crew arrives on schedule with the right equipment. Whether it's a build, repair, or weekly cleaning, we treat your pool like our own."
+        "title": "We Handle Every Detail",
+        "description": "Our licensed specialist teams manage your project from start to finish. Eric personally oversees every phase, keeping you updated with clear communication throughout."
       },
       {
-        "title": "Enjoy Your Pool, Worry-Free",
-        "description": "Dive into a pool that's always clean, safe, and ready. With 46 years of expertise behind every visit, your satisfaction is guaranteed."
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool is transformed into the backyard retreat you've always wanted. We stand behind our work and stay available for ongoing maintenance and support."
       }
     ]
   },
   "about": {
-    "label": "Why Brevard Trusts Stanton Pools",
-    "headline": "Family-Owned Since 1980 — Your Neighbors, Not a Corporation",
-    "description": "Jeff and Martita Stanton have spent over four decades building pools and relationships across Brevard County. As a family-owned business, we're personally invested in every project. We know the challenges Florida pools face — salt air corrosion, hurricane prep, year-round chemistry — and we've been solving them since before most competitors existed. Our team treats your pool like their own because our reputation depends on it.",
-    "badge": "FL License #CPC1459682",
+    "label": "Why Thousand Oaks Trusts Us",
+    "headline": "Owner-Operated Since 2008, Backed by 225+ Five-Star Reviews",
+    "description": "Eric Stanton founded Stanton Pools in 2008 after graduating from USC with a business degree and one clear mission: treat every pool like his own. Eighteen years later, that commitment has earned 250+ five-star reviews across Google, Yelp, HomeAdvisor, Facebook, and Nextdoor. With dual C-53 and D-35 contractor licenses and Health Department water chemistry certification, our dedicated specialist teams deliver the craftsmanship and communication that Thousand Oaks families count on.",
+    "badge": "CA License #1009474",
     "features": [
       {
-        "title": "Licensed & Insured FL Contractor",
-        "description": "Fully licensed pool/spa contractor with 46 years of continuous operation and comprehensive liability coverage."
+        "title": "Owner On Every Project",
+        "description": "Eric Stanton personally oversees every remodel and responds to every client within 24 hours. You're never handed off to a stranger."
       },
       {
-        "title": "Honest, Upfront Pricing",
-        "description": "No hidden fees, no surprise charges, no upselling tactics. We quote fair and stick to it — that's how we earned our A+ BBB rating."
+        "title": "Dual Licensed & Certified",
+        "description": "We hold both C-53 and D-35 contractor licenses plus Health Department water chemistry certification — the highest standard in pool work."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not happy with our work? We come back and make it right at no charge. Over 46 years, that promise has never changed."
+        "title": "Fair, Upfront Pricing Always",
+        "description": "No hidden costs, no surprise charges. You get a detailed written quote before work begins, and that's the price you pay. Period."
       }
     ]
   },
   "pricing": {
-    "headline": "Fair Pricing. No Surprises. No Contracts.",
-    "subtitle": "Get a straightforward quote for exactly what your pool needs. No long-term commitments — just honest work at honest prices."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project starts with a detailed written quote. No hidden fees, no change-order games. Just honest pricing from a company that values your trust."
   },
   "guarantee": {
-    "headline": "Our \"Stanton Standard\" Guarantee",
-    "description": "If you're not completely satisfied with any service we perform, call us within 48 hours and we'll come back to make it right at absolutely no additional cost. We've stood behind this promise for 46 years because we believe great work speaks for itself. Your pool, your peace of mind — guaranteed."
+    "headline": "Our \"Backyard Oasis\" Guarantee",
+    "description": "If you're not completely satisfied with any service or project phase, call Eric directly. We'll come back and make it right at no additional cost. With 225+ five-star reviews and 18 years in business, our reputation is built on keeping that promise every single time."
   },
   "faqs": [
     {
-      "question": "How quickly can you start service?",
-      "answer": "Most new maintenance clients are scheduled within one week. For repairs and emergencies, we often respond same-day or next-day. For construction and remodeling, we'll schedule a consultation within a few days to get your project moving."
-    },
-    {
-      "question": "Do you handle both new builds and repairs?",
-      "answer": "Absolutely. Stanton Pools is a full-service pool company. We build new pools from scratch, remodel and resurface existing ones, handle all equipment repairs, and provide ongoing weekly maintenance. Whatever your pool needs, we do it."
-    },
-    {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. We hold Florida Pool/Spa Contractor License #CPC1459682, carry full liability insurance, and maintain an A+ rating with the Better Business Bureau. We've been continuously licensed since 1980."
+      "question": "How long does a typical pool remodel take?",
+      "answer": "Most pool remodels take 2-4 weeks depending on scope. Eric will give you a detailed timeline during your free consultation and keep you updated throughout the project. We work efficiently without cutting corners."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve all of Brevard County including Merritt Island, Melbourne, West Melbourne, Palm Bay, Titusville, Cocoa, Cocoa Beach, Rockledge, Viera, Satellite Beach, and Indian Harbour Beach."
+      "answer": "We serve Thousand Oaks, Westlake Village, Woodland Hills, Newbury Park, Simi Valley, Agoura Hills, Calabasas, Encino, Sherman Oaks, and the greater Los Angeles and Ventura County areas."
     },
     {
-      "question": "Why choose Stanton Pools over a larger company?",
-      "answer": "With 46 years in business, we combine the expertise of a large firm with the personal attention of a family operation. Jeff and Martita Stanton are personally involved in every project. You'll never be treated like just another account number."
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We hold both C-53 and D-35 California contractor licenses (#1009474), are Health Department certified for water chemistry, and carry full liability insurance. Your project is in fully credentialed hands."
+    },
+    {
+      "question": "Can I see examples of your past work?",
+      "answer": "Absolutely. We have hundreds of completed remodel photos with before-and-after galleries. Ask Eric during your consultation or check our website and social media pages for recent projects."
+    },
+    {
+      "question": "Do you offer weekly pool maintenance?",
+      "answer": "Yes. Our weekly maintenance service includes complete chemical balancing, equipment checks, skimming, vacuuming, brushing, and surface integrity inspections. Many remodel clients become long-term maintenance customers."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-Time Client",
-      "context": "Pool Maintenance, 6+ Years",
-      "initials": "LC",
-      "text": "I have used Stanton Pools for over 6 years. They are very professional, knowledgeable, and helpful. Their commitment to quality workmanship is evident in everything they do."
+      "name": "Karen J.",
+      "context": "Thousand Oaks, CA",
+      "initials": "KJ",
+      "text": "Stanton Pools was communicative, professional, and overall very attentive. I love my pool. Eric made the entire process easy and the results exceeded what I imagined."
     },
     {
-      "name": "Melbourne Homeowner",
-      "context": "Pool Remodeling",
-      "initials": "MH",
-      "text": "The craftsmanship is exceptional with meticulous tile and plaster work. The detail and pride in their work is evident throughout the finished product. I would give 10 stars if I could."
+      "name": "David W.",
+      "context": "Woodland Hills, CA - Pool Remodel",
+      "initials": "DW",
+      "text": "Best contractor experience in my lifetime. Demo crew, tile workers, pebble installation, start-up, follow-up. Every phase was perfect. I recommend Stanton Pools to everyone."
     },
     {
-      "name": "Brevard Resident",
-      "context": "Pool Resurfacing",
-      "initials": "BR",
-      "text": "What sets Stanton Pools apart is their commitment to honesty and integrity. Fair pricing with no hidden fees or upselling tactics. Communication was outstanding from start to finish."
+      "name": "Joshua M.",
+      "context": "Encino, CA - Pool Renovation",
+      "initials": "JM",
+      "text": "Eric and his team did an absolutely exceptional job on our pool renovation and I can't recommend Stanton Pools enough. The attention to detail was remarkable from start to finish."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Can Actually Count On?",
-    "subtitle": "Get a free, no-obligation estimate from Brevard County's most experienced pool team. 46 years of trusted service — one phone call away.",
+    "headline": "Ready to Transform<br>Your Backyard?",
+    "subtitle": "Get a free, no-obligation consultation with owner Eric Stanton. He'll visit your home, assess your pool, and provide an honest quote within 24 hours.",
     "benefits": [
-      "Free on-site pool inspection included",
-      "Response within 24 hours guaranteed",
-      "46 years of proven expertise"
+      "Free on-site consultation and assessment",
+      "Personal response from Eric within 24 hours",
+      "Detailed written quote with no hidden fees"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving Brevard County since 1980.",
-    "service_area": "Serving Merritt Island, Melbourne, Palm Bay & All of Brevard County",
+    "description": "Owner-operated pool remodeling and service. Serving Thousand Oaks and Southern California since 2008.",
+    "service_area": "Serving Thousand Oaks, Westlake Village & Greater LA",
     "services": [
-      "Pool Construction",
       "Pool Remodeling",
-      "Pool Resurfacing",
-      "Equipment Repair",
-      "Weekly Maintenance"
+      "Weekly Maintenance",
+      "Spa Additions",
+      "Equipment Upgrades",
+      "Crack Repair"
     ],
-    "copyright": "&copy; 2024 Stanton Pools Inc. All rights reserved. Licensed & Insured — FL #CPC1459682"
+    "copyright": "&copy; 2024 Stanton Pools. All rights reserved. CA Contractor License #1009474"
   }
 }

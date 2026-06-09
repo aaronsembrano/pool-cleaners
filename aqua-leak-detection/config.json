@@ -1,0 +1,183 @@
+{
+  "folder_name": "aqua-leak-detection",
+  "company_name": "Aqua Leak Detection",
+  "tagline": "Always Personal. Always Professional. Always Transparent.",
+  "phone": "+1 941-270-6138",
+  "email": "office@aqualeaks.com",
+  "review_count": "1556",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5C",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "trust_badges": {
+    "badge_1": "FL Licensed Pool Contractor",
+    "badge_2": "4.9/5 from 1,556 Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 1,556+ Google Reviews",
+    "badge_2": "Flat-Rate Pricing, Always",
+    "headline": "Stop Losing Water. <span class=\"text-secondary italic\">Start Getting<br>Answers.</span>",
+    "subheadline": "Southwest Florida's most trusted leak detection team has solved thousands of pool mysteries since 2005. We find the leak, fix it on the spot, and charge you one flat rate -- no surprises, no hourly fees, no matter how long it takes.",
+    "cta_text": "Schedule My Leak Detection",
+    "checkmarks": [
+      "Flat-rate diagnostic pricing",
+      "Every pool dived and pressure tested",
+      "On-site repairs included"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1556",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "20",
+    "stat_2_label": "Years Serving SW Florida",
+    "stat_3_value": "10000",
+    "stat_3_label": "Leaks Found & Fixed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Transparent Pricing"
+  },
+  "services": {
+    "label": "Our Specialties",
+    "headline": "We Find What Others Miss<br class=\"hidden md:block\">And Fix It the Same Day",
+    "subtitle": "From invisible plumbing leaks to mysterious air bubbles, our team uses professional-grade equipment and 20+ years of hands-on experience to diagnose and resolve every pool problem.",
+    "cards": [
+      {
+        "title": "Pool Leak Detection",
+        "description": "Full pressure testing on all pool plumbing plus a thorough diving inspection of every surface. Our flat-rate diagnostic means you pay one price no matter how long it takes to find the leak."
+      },
+      {
+        "title": "Pool Leak Repair",
+        "description": "Found a leak? We fix it on the spot. Epoxy patches and accessible repairs are included in your diagnostic price. We always get your approval before starting any additional work."
+      },
+      {
+        "title": "Air Leak Diagnosis",
+        "description": "Bubbles in your return jets? Air in the pump basket? We trace air intrusion back to its source using specialized equipment and systematic testing of every connection point."
+      },
+      {
+        "title": "Pre-Sale Pool Inspections",
+        "description": "Buying or selling a home with a pool? Our detailed inspection covers structure, plumbing, and equipment so you know exactly what you're getting before closing day."
+      },
+      {
+        "title": "Plumbing Pressure Testing",
+        "description": "We pressure test every line individually to pinpoint exactly which pipe is losing water. No guessing, no exploratory digging -- just precise diagnosis backed by data."
+      },
+      {
+        "title": "Structural Crack Detection",
+        "description": "Our divers inspect every inch of your pool shell underwater, identifying hairline cracks, delamination, and fitting failures invisible from the surface."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Leak-Free Pool",
+    "steps": [
+      {
+        "title": "Call Us & Describe the Problem",
+        "description": "Tell us what you're experiencing -- water loss, air bubbles, wet spots in the yard. We'll schedule your diagnostic at a flat rate with no hidden fees."
+      },
+      {
+        "title": "We Test, Dive & Diagnose",
+        "description": "Our technicians pressure test every plumbing line and dive your pool to inspect every surface. We use high-tech equipment to pinpoint the exact source of the problem."
+      },
+      {
+        "title": "Get Answers & Same-Day Repairs",
+        "description": "We show you exactly what we found and fix what we can on the spot -- included in your diagnostic price. For larger repairs, you get a transparent quote with zero pressure."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why SW Florida Trusts Us",
+    "headline": "20 Years of Finding Leaks Others Can't",
+    "description": "Established in 2005, Aqua Leak Detection is a locally-owned team of 10 professionals led by Managing Member Robert J. Angelo. We've built our reputation on one simple principle: charge a fair flat rate, find the problem, and be completely honest about what it takes to fix it. With over 1,500 verified reviews and a 4.9-star rating, our track record speaks for itself.",
+    "badge": "FL Licensed CPC1457796",
+    "features": [
+      {
+        "title": "Flat-Rate, No Surprises",
+        "description": "You pay the same diagnostic price whether the leak takes 30 minutes or 3 hours to find. Same rate no matter where you live in our service area."
+      },
+      {
+        "title": "Every Pool Gets Dived",
+        "description": "We don't cut corners. Every diagnostic includes a full underwater inspection of your pool's surfaces, fittings, and fixtures."
+      },
+      {
+        "title": "Approval Before Every Repair",
+        "description": "We never start work you haven't agreed to. You'll know exactly what needs fixing and what it costs before we pick up a tool."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Flat-Rate Diagnostics. No Hourly Surprises.",
+    "subtitle": "One price covers your full leak detection -- pressure testing, diving inspection, and on-site repairs included. No contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our Transparency Guarantee",
+    "description": "We believe you deserve straight answers and honest pricing. If we can't find your leak, you'll know exactly why and what the next steps are -- no charge for guesswork. Every repair requires your approval first, and on-site patches are included in your diagnostic fee. That's the Aqua Leak Detection promise."
+  },
+  "faqs": [
+    {
+      "question": "How much does pool leak detection cost?",
+      "answer": "We charge a flat diagnostic rate regardless of how long it takes or where you live in our service area. No hourly fees, no trip charges, no surprises. Call us for the current rate -- it includes pressure testing, diving inspection, and on-site epoxy repairs."
+    },
+    {
+      "question": "How do you find pool leaks?",
+      "answer": "We use a systematic approach: full pressure testing on every plumbing line to isolate which pipe is losing water, followed by a complete underwater diving inspection of every pool surface, fitting, and fixture. Our high-tech equipment and 20+ years of experience let us pinpoint leaks most companies miss."
+    },
+    {
+      "question": "Do you fix the leak once you find it?",
+      "answer": "Yes -- any leak that can be patched with epoxy or repaired on-site is included in your diagnostic price at no extra charge. For larger repairs, we provide a transparent quote and always get your approval before starting any work."
+    },
+    {
+      "question": "How do I know if my pool has a leak?",
+      "answer": "Common signs include unexplained water loss, constantly running autofill, wet or soft spots in your yard near the pool, cracks in the deck, air bubbles in the return jets, or your pump losing prime. If you're adding water more than once a week, it's worth having us check."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve all of Southwest Florida from our North Venice headquarters -- including Sarasota, Bradenton, Lakewood Ranch, Venice, North Port, Port Charlotte, Punta Gorda, Fort Myers, Cape Coral, Naples, Bonita Springs, and all communities in between. Same flat rate no matter where you are."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "K.C.",
+      "text": "If you've got a pool leak -- call Aqua Leak Detection. They're the ones to trust. Professional, thorough, and they actually explain what's going on instead of just handing you a bill.",
+      "context": "BBB Review",
+      "initials": "KC"
+    },
+    {
+      "name": "Verified Customer",
+      "text": "Very professional and thorough. They found the leak quickly and had it repaired the same day. The flat-rate pricing was a huge relief -- no surprises when the bill came.",
+      "context": "Pool Leak Detection Service",
+      "initials": "VC"
+    },
+    {
+      "name": "Verified Customer",
+      "text": "Awesome customer service and quality work. Very pleased with Aqua Leak Detection. They were honest about what needed fixing and didn't try to upsell us on anything unnecessary.",
+      "context": "Pool Leak Repair Service",
+      "initials": "VC"
+    }
+  ],
+  "contact": {
+    "headline": "Losing Water? Get Answers<br>Today.",
+    "subtitle": "Call now or fill out the form for a flat-rate leak detection appointment. No hidden fees, no pressure -- just honest answers from Southwest Florida's most reviewed leak detection team.",
+    "benefits": [
+      "Flat-rate pricing -- no hourly surprises",
+      "On-site repairs included in diagnostic",
+      "1,556+ verified 5-star reviews"
+    ]
+  },
+  "footer": {
+    "description": "Southwest Florida's trusted pool leak detection team since 2005.",
+    "service_area": "Serving Sarasota, Bradenton, Venice, Fort Myers, Naples & All of SW Florida",
+    "services": [
+      "Pool Leak Detection",
+      "Pool Leak Repair",
+      "Air Leak Diagnosis",
+      "Pre-Sale Pool Inspections",
+      "Plumbing Pressure Testing"
+    ],
+    "copyright": "&copy; 2024 Aqua Leak Detection. All rights reserved. FL Licensed Pool Contractor #CPC1457796"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "clear-touch-pool-service",
+  "company_name": "Clear Touch Pool Service",
+  "tagline": "West Valley Swimming Pool Experts",
+  "phone": "(623) 208-9715",
+  "email": "miles@cleartouchpoolservice.com",
+  "logo_path": "",
+  "review_count": "50",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed AZ Pool Contractor",
+    "badge_2": "5.0/5 from 50+ Reviews",
+    "badge_3": "Family Owned Since 2015"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 50+ Google Reviews",
+    "badge_2": "Direct Owner Contact Always",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Owner's Touch</span>",
+    "subheadline": "Miles and the Clear Touch team treat every pool like their own. Sit back, relax, and let 11 years of West Valley expertise keep your water crystal clear -- you just dive in.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Owner on every job",
+      "West Valley families since 2015"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "West Valley Pools Served",
+    "stat_2_value": "11",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Star Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Treats It Like Their Own",
+    "subtitle": "From weekly maintenance to full remodels, Clear Touch handles every detail so you can stop worrying about your pool and start enjoying it.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Chemical testing, debris removal, equipment inspection, and detailed reports every visit. Your pool stays swim-ready all week long."
+      },
+      {
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, motors, filters, salt systems, automation, LED lights, and infloor cleaning systems. Expert diagnosis and fast turnarounds."
+      },
+      {
+        "title": "Pool Remodeling & Resurfacing",
+        "description": "Complete renovations including new tile, resurfacing, rolled edge repair, and acrylic decking to bring your pool back to life."
+      },
+      {
+        "title": "Acid Wash & Tile Cleaning",
+        "description": "Deep cleaning that strips calcium buildup and staining from tile and surfaces, restoring that brand-new sparkle to your pool."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak detection for pool plumbing, shells, and equipment. We find it, fix it, and stop the water loss for good."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Thorough buyer and seller inspections covering pool condition, equipment health, and safety. Peace of mind before you close."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or text Miles directly. We'll discuss your pool's needs, schedule a free inspection, and give you an honest quote within 24 hours."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our skilled technicians arrive on schedule and handle every detail -- cleaning, chemistry, equipment checks. You get a full report after every visit."
+      },
+      {
+        "title": "Just Enjoy Your Pool",
+        "description": "No more weekends spent on maintenance. Your pool stays crystal clear and swim-ready while you relax with family and friends."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why West Valley Families Choose Us",
+    "headline": "Not Just a Pool Company -- Your Pool Care Partners",
+    "description": "Clear Touch Pool Service was founded by Miles Shugg in 2015 with one simple belief: every customer deserves the same care he'd give his own pool. As a family-owned West Valley business, we've built lasting relationships with homeowners across Goodyear, Avondale, Litchfield Park, and beyond. You always have direct access to the owner -- no call centers, no runaround, just honest expertise from people who care.",
+    "badge": "AZ Licensed Contractor",
+    "features": [
+      {
+        "title": "Direct Owner Contact on Every Job",
+        "description": "Miles personally oversees your pool care. Call or text him directly anytime -- no phone trees, no waiting for callbacks."
+      },
+      {
+        "title": "Partnership, Not Transactions",
+        "description": "We build real relationships with our clients. Your pool's history, quirks, and needs are always top of mind because we treat it like our own."
+      },
+      {
+        "title": "Meticulous Attention to Detail",
+        "description": "Our skilled pool mechanics catch problems early and maintain your pool with the precision that keeps it running beautifully for years."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Every pool is different, so we quote based on your specific needs. No hidden fees, no upsells -- just fair pricing from a family business."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call Miles directly and we'll come back to make it right at no extra charge. We've built our reputation on accountability and craftsmanship, and we stand behind every job. Your pool should always be a source of enjoyment, never stress -- and we guarantee it will be."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For urgent pool issues, call Miles directly and we'll work to get you same-day or next-day service. We always accommodate West Valley neighbors as fast as possible."
+    },
+    {
+      "question": "Do I need to be home for pool service?",
+      "answer": "Not at all! Most of our clients provide gate access and we handle everything while you're at work or running errands. You'll get a detailed service summary after every visit so you always know exactly what was done."
+    },
+    {
+      "question": "What areas do you serve in the West Valley?",
+      "answer": "We serve Goodyear, Avondale, Estrella Mountain, Litchfield Park, Pebble Creek, Verrado, Victory, Palm Valley, and the greater West Valley area. If you're nearby and not sure, give Miles a call -- we'll make it work."
+    },
+    {
+      "question": "Can you handle equipment repairs and remodels too?",
+      "answer": "Absolutely. We're a licensed Arizona pool contractor, so we handle everything from pump repairs and filter replacements to full pool remodels, resurfacing, and new tile installations. One trusted team for all your pool needs."
+    },
+    {
+      "question": "What makes Clear Touch different from bigger pool companies?",
+      "answer": "You get direct access to Miles, the owner, on every job. We're not a franchise or call center -- we're a local family business that knows your pool by name. That personal accountability means higher quality work and faster response when you need us."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Grant D.",
+      "text": "Miles and Katie run a wonderful business. Very professional and great communication. Our pool has never looked better since switching to Clear Touch.",
+      "context": "Weekly pool care and repairs",
+      "initials": "GD"
+    },
+    {
+      "name": "Paul M.",
+      "text": "Miles delivered for us in a big way! Extremely knowledgeable regarding all things pool. He transformed our neglected pool into something we're proud to show off.",
+      "context": "Pool repair and restoration",
+      "initials": "PM"
+    },
+    {
+      "name": "Nicole S.",
+      "text": "It is so nice to never have to worry about pool maintenance, and just enjoy my pool. Miles is always reachable and the service is consistently excellent.",
+      "context": "Stress-free weekly maintenance",
+      "initials": "NS"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Call Miles directly or fill out the form for a free, no-pressure pool assessment. West Valley families trust Clear Touch -- find out why.",
+    "benefits": [
+      "Free pool inspection with your quote",
+      "Direct response from the owner within 24 hours",
+      "Zero contracts -- earn your trust every visit"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned West Valley pool service. Serving Arizona communities since 2015.",
+    "service_area": "Serving Goodyear, Avondale, Litchfield Park & the West Valley",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Pool Remodeling",
+      "Leak Detection",
+      "Pool Inspections"
+    ],
+    "copyright": "&copy; 2024 Clear Touch Pool Service. All rights reserved. Licensed AZ Pool Contractor ROC"
+  }
+}
