@@ -1,0 +1,184 @@
+{
+  "folder_name": "windermere-pool-services",
+  "company_name": "Windermere Pool Services",
+  "tagline": "Jump In, We Have You Covered",
+  "phone": "+1 407-654-0707",
+  "email": "joe@windermerepools.com",
+  "logo_path": "",
+  "review_count": "4",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1E73BE",
+    "primary_dark": "#155A96",
+    "primary_deeper": "#0E3F6A",
+    "secondary": "#22D3EE",
+    "cta": "#E67E22",
+    "cta_dark": "#CF6D17"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured Since 1987",
+    "badge_2": "4.0/5 on Google",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "badge_1": "37+ Years Serving Central Florida",
+    "badge_2": "No Minimum Service Period",
+    "headline": "37 Years of Pools Done <span class=\"text-secondary italic\">Right in<br>Windermere</span>",
+    "subheadline": "Since 1987, we have cleaned, repaired, and maintained thousands of pools across West Orange County. No contracts, no minimums, just dependable weekly service from a team that treats your pool like family.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "No contracts or minimums",
+      "Service starts this week"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "300",
+    "stat_1_label": "Thousand Pools Cleaned",
+    "stat_2_value": "37",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1000",
+    "stat_3_label": "Families Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Insured"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From the<br class=\"hidden md:block\"> Team That Wrote the Book",
+    "subtitle": "From weekly maintenance to emergency green-pool recovery, our licensed technicians handle it all so you can spend your weekends poolside, not pool-side hustling.",
+    "cards": [
+      {
+        "title": "Full-Service Maintenance",
+        "description": "Weekly chemical testing, skimming, vacuuming, tile brushing, and filter cleaning. You get a full report with chemical readings and safety notes after every visit."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Licensed pool contractor (#CPC1457474) for pumps, filters, heaters, and salt systems. Honest troubleshooting and most repairs finished same-visit."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Neglected or algae-filled pool? We bring mobile pumps and specialized chemicals to restore it fast, even without power. Custom quotes for every situation."
+      },
+      {
+        "title": "Chemical & Clean Service",
+        "description": "All full-service tasks minus vacuuming, perfect for homeowners who already run a robotic cleaner. Same thorough chemical balancing at a friendlier price."
+      },
+      {
+        "title": "Pool Heater Installation",
+        "description": "LP gas pool heater installation and service backed by LP Gas License #27858. Extend your swim season with professional heating solutions year-round."
+      },
+      {
+        "title": "New Pool Owner Setup",
+        "description": "Just moved in or bought your first pool? We offer flexible month-to-month service with pro-rated billing and zero long-term commitment."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out our form. We will visit your pool, assess its condition, and provide an honest quote within 24 hours. No pressure, no sales pitch."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Our uniformed, licensed technicians arrive on schedule every week. Chemical testing, cleaning, equipment checks, and a written report after every visit."
+      },
+      {
+        "title": "Jump In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready all year. If something ever seems off, call Joe directly and we will make it right, guaranteed."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Windermere Trusts Us",
+    "headline": "Family-Owned Since 1987 and Still Going Strong",
+    "description": "Joe founded Windermere Pool Services over 37 years ago and has personally overseen roughly 300,000 pool cleaning visits across West Orange County. We are members of the BBB, FSPA, and the West Orange Chamber of Commerce. When you call, you talk to people who know pools inside and out, and who genuinely care about your backyard.",
+    "badge": "FSPA & BBB Member",
+    "features": [
+      {
+        "title": "Licensed Pool Contractor",
+        "description": "Pool contractor license #CPC1457474 and LP gas license #27858. Fully insured for every job, large or small."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your loyalty every visit. No minimums, no cancellation fees. First and last months are pro-rated fairly."
+      },
+      {
+        "title": "Free Referral Rewards",
+        "description": "Refer a friend and receive a full month of pool cleaning on us. Our best customers come from happy neighbors."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Month-to-month service with pro-rated first and last months. Upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no extra charge. We have built our reputation on dependability for over 37 years, and we stand behind every single visit."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new customers are scheduled within 3-5 business days. For green pool emergencies, we can often respond same-day or next-day. Just call 407-654-0707 and we will find a slot that works for you."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "Absolutely not. We operate month-to-month with no minimum service period. Your first and last months are pro-rated, and you can cancel anytime with zero fees or hassle."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Windermere, Winter Garden, Ocoee, Oakland, Lake Buena Vista, Gotha, Metro West, Dr. Phillips, Bay Hill, and surrounding West Orange and South East Lake Counties."
+    },
+    {
+      "question": "What happens if my pool equipment breaks?",
+      "answer": "As a licensed pool contractor (#CPC1457474), we diagnose and repair pumps, filters, heaters, and salt systems. We also hold an LP gas license for heater installations. Most repairs are completed the same visit."
+    },
+    {
+      "question": "Do you offer any referral discounts?",
+      "answer": "Yes! When you refer a friend who signs up for service, you receive a full free month of pool cleaning. It is our way of thanking the neighbors who keep our business growing."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rob B.",
+      "context": "Windermere resident, 5-year customer",
+      "initials": "RB",
+      "text": "Their professionalism, responsiveness, quality of work, and price have been exceptional. Five years in and I would not trust anyone else with our pool."
+    },
+    {
+      "name": "Diane D.",
+      "context": "Winter Garden homeowner",
+      "initials": "DD",
+      "text": "Joe and his crew keep my pool looking sparkling clean and inviting! They even walk me through simple fixes over the phone to save on service call charges."
+    },
+    {
+      "name": "Sandy & Steven S.",
+      "context": "Long-time residential customer",
+      "initials": "SS",
+      "text": "Windermere Pool Service is totally professional, on time, uniformed, and dependable. We enthusiastically recommend them to anyone in West Orange County."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Get a free, no-pressure pool assessment within 24 hours. No contracts, no minimums, just honest service from a team with 37 years of experience.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "No contracts or minimum commitment"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving West Orange County since 1987.",
+    "service_area": "Serving Windermere, Winter Garden, Ocoee, Dr. Phillips & West Orange County",
+    "services": [
+      "Full-Service Maintenance",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Pool Heater Installation",
+      "New Owner Setup"
+    ],
+    "copyright": "&copy; 2024 Windermere Pool Services. All rights reserved. Licensed Pool Contractor #CPC1457474 | LP Gas #27858"
+  }
+}

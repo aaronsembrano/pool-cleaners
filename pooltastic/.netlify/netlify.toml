@@ -8,8 +8,10 @@ redirects = []
 
 [build]
 publish = "/Users/aaronsembrano/Desktop/Pool Cleaners/pooltastic"
-publishOrigin = "default"
+publishOrigin = "config"
+commandOrigin = "config"
 base = "/Users/aaronsembrano/Desktop/Pool Cleaners/pooltastic"
+command = "echo 'No build needed'"
 
 [build.environment]
 

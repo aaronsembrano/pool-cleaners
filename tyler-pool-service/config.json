@@ -1,0 +1,183 @@
+{
+  "folder_name": "tyler-pool-service",
+  "company_name": "Tyler Pool Service",
+  "tagline": "High Quality and Professional Pool Service With a Personal Touch",
+  "phone": "(903) 839-0669",
+  "email": "cody@tylerpoolservices.com",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.3/5 from 17+ Reviews",
+    "badge_3": "Family Owned Since 2015"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 17+ Google Reviews",
+    "badge_2": "Family Owned & Operated",
+    "headline": "Your Family Pool Deserves <span class=\"text-secondary italic\">Family-Level Care</span>",
+    "subheadline": "For over a decade, Tyler families have trusted us to keep their pools crystal clear and swim-ready. We handle the chemistry, the cleaning, and the equipment so you can focus on making memories in the backyard.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-week service available",
+      "Personal touch guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Tyler Families Served",
+    "stat_2_value": "11",
+    "stat_2_label": "Years in Tyler",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family Commitment"
+  },
+  "services": {
+    "label": "Our Pool Services",
+    "headline": "Complete Pool Care So You<br class=\"hidden md:block\"> Just Enjoy the Water",
+    "subtitle": "From weekly cleanings to full remodels, our trained technicians use advanced water chemistry techniques to keep your pool perfect year-round.",
+    "cards": [
+      {
+        "title": "Weekly & Bi-Weekly Maintenance",
+        "description": "Regularly scheduled pool cleaning and chemical balancing using advanced water chemistry techniques. Your pool stays swim-ready every single week."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and salt systems. We get your equipment running smoothly, often in a single visit."
+      },
+      {
+        "title": "Pool Automation",
+        "description": "Control your pool equipment, lighting, and water features from your smartphone. We install and service the latest automation systems."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Thorough assessment of your pool structure, equipment, and safety features. Perfect for home buyers or routine maintenance checkups."
+      },
+      {
+        "title": "Remodeling & Renovation",
+        "description": "Updated plaster, new tile, water features, LED lighting, and more. Transform your existing pool into a modern backyard retreat."
+      },
+      {
+        "title": "Spa & Hot Tub Service",
+        "description": "Complete maintenance, cleaning, and repair for spas and hot tubs. Keep your relaxation space in top condition all year long."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Tell us about your pool and we'll come out to assess it in person. You'll get an honest, no-pressure quote within 24 hours. No contracts required."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our thoroughly trained technicians arrive on schedule and handle cleaning, chemistry, equipment checks, and more. You never lift a finger."
+      },
+      {
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and perfectly balanced all season long. If anything ever seems off, one call and we're back at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tyler Trusts Us",
+    "headline": "Family-Owned, Community-Rooted, and Here to Stay",
+    "description": "Since 2015, Tyler Pool Service has been a family-owned business serving the Tyler community with a personal touch. We treat every customer like part of the family because that's how we were raised. Our technicians are thoroughly trained in advanced water chemistry and well supervised, so your pool gets expert care every single visit.",
+    "badge": "Licensed & Insured",
+    "features": [
+      {
+        "title": "Trained & Supervised Technicians",
+        "description": "Every technician is thoroughly trained in advanced water chemistry techniques and personally supervised for quality."
+      },
+      {
+        "title": "No Upselling, Just Honest Advice",
+        "description": "We tell you what your pool actually needs, not what pads our bottom line. Straightforward recommendations you can trust."
+      },
+      {
+        "title": "Responsive When It Counts",
+        "description": "Questions answered within minutes. Problems addressed immediately. We're here when you need us, not on our schedule."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Flexible scheduling, honest pricing, and no long-term contracts."
+  },
+  "guarantee": {
+    "headline": "Our \"Family Promise\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We treat your pool like it's our own, and we don't rest until you're happy. That's the personal touch we've built our reputation on."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Tyler area are scheduled within 3-5 business days. For urgent equipment issues or green pool emergencies, we do our best to respond same-day or next-day. Just give us a call."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our Tyler customers provide gate access and we take care of everything while you're out. You'll know exactly what was done after each visit."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We serve Tyler, TX and surrounding East Texas communities. If you're within driving distance of Tyler, give us a call and we'll let you know if we can get to you."
+    },
+    {
+      "question": "Are your technicians trained and insured?",
+      "answer": "Absolutely. Every technician is thoroughly trained in advanced water chemistry techniques, well supervised, and our company carries full insurance for your peace of mind."
+    },
+    {
+      "question": "Do you offer pool remodeling and automation?",
+      "answer": "Yes! Beyond routine maintenance, we handle pool remodeling, renovation, automation system installation, and spa service. We're your one-stop shop for everything pool-related."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John B.",
+      "context": "12-year maintenance customer",
+      "initials": "JB",
+      "text": "We have been using Tyler Pool Service for the last 12 years. Their knowledge of pools and pool maintenance is top notch. They are very professional and reliable."
+    },
+    {
+      "name": "Judy F.",
+      "context": "Ongoing pool maintenance",
+      "initials": "JF",
+      "text": "The best pool service! My pool is well taken care of, and if we ever have a problem or concern it is addressed and taken care of immediately."
+    },
+    {
+      "name": "Michael K.",
+      "context": "Pool repair service",
+      "initials": "MK",
+      "text": "Cody went above and beyond for our pool repairs. He got to us quickly and had us back up and running in time for our party!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure pool inspection and honest quote. No contracts, no commitments — just family-style service from people who care.",
+    "benefits": [
+      "Free pool inspection with your quote",
+      "Response within minutes, not days",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Tyler, TX since 2015.",
+    "service_area": "Serving Tyler, TX & Surrounding East Texas",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Pool Automation",
+      "Remodeling & Renovation",
+      "Spa & Hot Tub Service"
+    ],
+    "copyright": "&copy; 2025 Tyler Pool Service, LLC. All rights reserved."
+  },
+  "review_count": "17",
+  "review_rating": "4.3"
+}

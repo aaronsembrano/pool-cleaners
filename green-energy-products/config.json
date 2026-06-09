@@ -1,0 +1,183 @@
+{
+  "folder_name": "green-energy-products",
+  "company_name": "Green Energy Products",
+  "tagline": "Revolutionizing with Sustainable Energy Solutions",
+  "phone": "+1 305-251-9630",
+  "email": "jnovar@green-energy-products.com",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0A3D0C",
+    "secondary": "#00897B",
+    "cta": "#FF6F00",
+    "cta_dark": "#E65100"
+  },
+  "trust_badges": {
+    "badge_1": "Veteran Owned & Operated",
+    "badge_2": "4.8/5 from Google Reviews",
+    "badge_3": "NSF & UL Approved"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from Google Reviews",
+    "badge_2": "Veteran Owned Business",
+    "headline": "Cleaner Pools, Zero <span class=\"text-secondary italic\">Harsh Chemicals</span>",
+    "subheadline": "NASA-researched ionization technology reduces your pool's chlorine use by up to 75%. Crystal-clear water that's gentle on skin, safe for your family, and backed by 19 years of proven results across South Florida.",
+    "cta_text": "Get My Free Pool Consultation",
+    "checkmarks": [
+      "Free water quality assessment",
+      "Up to 75% less chlorine",
+      "NSF & UL certified systems"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Systems Installed",
+    "stat_2_value": "19",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "600",
+    "stat_3_label": "Pools Up to 600K Gal",
+    "stat_4_value": "75%",
+    "stat_4_label": "Less Chlorine Used"
+  },
+  "services": {
+    "label": "Our Solutions",
+    "headline": "Sustainable Pool & Water Systems<br class=\"hidden md:block\"> That Pay for Themselves",
+    "subtitle": "From chemical-free pool treatment to energy-saving LED lighting, every product we install is designed to cut costs, protect health, and reduce your environmental footprint.",
+    "cards": [
+      {
+        "title": "ClearWater Pool Ionization",
+        "description": "NASA-researched MineralPURE copper and silver ionization systems for pools up to 600,000 gallons. Reduces chlorine by 75% while keeping water crystal-clear and swimmer-safe."
+      },
+      {
+        "title": "Commercial LED Lighting",
+        "description": "High-performance LED flood lights, canopy lights, high bays, and street lights engineered to slash energy bills by up to 80% with superior light output."
+      },
+      {
+        "title": "Indoor Air Purification",
+        "description": "REME HALO ZERO in-duct air purifiers that neutralize viruses, bacteria, and odors throughout your entire home or facility. Breathe cleaner air every day."
+      },
+      {
+        "title": "Electronic Water Descaling",
+        "description": "ScaleBlaster salt-free, chemical-free descaling systems that eliminate hard water buildup in pipes and fixtures without costly maintenance or harsh chemicals."
+      },
+      {
+        "title": "Renewable Energy Consulting",
+        "description": "Custom energy efficiency audits and renewable power solutions for homes, businesses, and government buildings. Lower your carbon footprint and your utility bills."
+      },
+      {
+        "title": "Green Construction Products",
+        "description": "Environmentally responsible building materials and solutions that meet green construction standards. Build sustainably without compromising performance or durability."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Healthier Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and water challenges. We'll evaluate your setup and recommend the right MineralPURE system for your size and needs — no pressure, no obligation."
+      },
+      {
+        "title": "Professional Installation",
+        "description": "Our certified technicians install your ionization system quickly and cleanly. We handle everything from sizing to calibration so your water chemistry is dialed in from day one."
+      },
+      {
+        "title": "Enjoy Chemical-Free Water",
+        "description": "Swim in water that's gentle on skin, free of harsh chemical odors, and crystal-clear year-round. You'll use up to 75% less chlorine and save thousands over time."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Trust Us",
+    "headline": "Veteran-Owned. Science-Backed. Trusted by the Biggest Names in Florida.",
+    "description": "Since 2007, Green Energy Products has delivered smart, sustainable solutions to homes, businesses, and government facilities across South Florida and beyond. As a Service Disabled Veteran Owned Business, we bring military-grade discipline to every installation. Our clients include Wyndham Hotels, Miami-Dade County, Florida State University, FIU, Barry University, and the American Red Cross — proof that our technology performs at the highest level.",
+    "badge": "SDVOB Certified",
+    "features": [
+      {
+        "title": "NASA-Researched Technology",
+        "description": "Our MineralPURE ionization systems are built on copper-silver ionization research developed by NASA for space missions — now protecting your pool."
+      },
+      {
+        "title": "NSF & UL Certified Products",
+        "description": "Every system we install meets the strictest commercial safety and performance standards. NSF/ANSI CAN50 certified for commercial pools and aquatic facilities."
+      },
+      {
+        "title": "19 Years of Proven Results",
+        "description": "From waterparks saving tens of thousands on chlorine to homeowners enjoying softer, healthier water — our track record speaks for itself."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Real Savings.",
+    "subtitle": "Every system is sized to your pool and budget. Free consultations, honest quotes, and savings that pay for themselves within months."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal-Clear Water\" Guarantee",
+    "description": "If your MineralPURE system doesn't deliver the water quality improvement we promised, we'll make it right at no additional cost. We stand behind every product we install with manufacturer warranties and our personal commitment to your satisfaction. That's the Green Energy Products promise."
+  },
+  "faqs": [
+    {
+      "question": "How does the MineralPURE ionization system work?",
+      "answer": "The system uses copper and silver ions — based on NASA research — to purify your pool water. Copper controls algae while silver handles bacteria. This allows you to reduce chlorine use by up to 75% while maintaining crystal-clear, safe water."
+    },
+    {
+      "question": "Will this work on my size pool?",
+      "answer": "Our MineralPURE systems treat residential and commercial pools up to 600,000 gallons. Whether you have a backyard pool or a commercial aquatic facility, we have a system sized specifically for your needs."
+    },
+    {
+      "question": "Is the system approved for commercial use?",
+      "answer": "Yes. Our systems are NSF and UL approved, and NSF/ANSI CAN50 certified for commercial aquatic facilities. We serve hotels, waterparks, universities, and government facilities across the country."
+    },
+    {
+      "question": "How much will I save on chemicals?",
+      "answer": "Most pool owners reduce chlorine costs by 50-75%. Commercial clients like Wet 'n Wild Waterparks report savings of tens of thousands of dollars per year. The system typically pays for itself within the first year."
+    },
+    {
+      "question": "Do you serve areas outside South Florida?",
+      "answer": "While we're based in Pinecrest and serve all of Miami-Dade County locally, we ship products nationally and internationally. Remote consultation and support is available for clients everywhere."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Margaret S.",
+      "context": "Facebook Review",
+      "initials": "MS",
+      "text": "I believe that being environmentally responsible is something important for all of us. Working with Green Energy Products has been a pleasure — the attention to detail and care throughout the entire process was outstanding."
+    },
+    {
+      "name": "Wet 'n Wild",
+      "context": "Commercial Client",
+      "initials": "WW",
+      "text": "The savings in chlorine alone is in the tens of thousands of dollars a year thanks to the ClearWater MineralPURE system installed by Green Energy Products. It transformed our water quality."
+    },
+    {
+      "name": "David R.",
+      "context": "Homeowner, Pinecrest",
+      "initials": "DR",
+      "text": "Our family noticed the difference immediately — no more red eyes, no chemical smell, and the water feels incredibly soft. We've cut our chlorine purchases by over 70%. Wish we'd done this years ago."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Cleaner Water<br>Without the Chemicals?",
+    "subtitle": "Get a free, no-obligation water quality assessment. We'll evaluate your pool, recommend the right system, and show you how much you'll save — guaranteed.",
+    "benefits": [
+      "Free water quality assessment included",
+      "Custom system recommendation in 48 hours",
+      "Veteran-owned with 19 years of trust"
+    ]
+  },
+  "footer": {
+    "description": "Veteran-owned green energy company. Serving South Florida since 2007.",
+    "service_area": "Serving Miami-Dade County & South Florida",
+    "services": [
+      "Pool Ionization Systems",
+      "LED Lighting Solutions",
+      "Air Purification",
+      "Water Descaling",
+      "Energy Consulting"
+    ],
+    "copyright": "&copy; 2024 Green Energy Products. All rights reserved. Service Disabled Veteran Owned Business | Pinecrest, FL"
+  },
+  "review_count": "5",
+  "review_rating": "4.8"
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "daudelin-pool-services",
+  "company_name": "Daudelin Pool Services",
+  "tagline": "Build Your Dream Pool",
+  "phone": "(419) 874-1900",
+  "email": "josh@daudelinpoolservices.com",
+  "logo_path": "",
+  "review_count": "28",
+  "review_rating": "4.1",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3d",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated Since 2009",
+    "badge_2": "4.1/5 from 28+ Reviews",
+    "badge_3": "30+ Years Combined Experience"
+  },
+  "hero": {
+    "badge_1": "4.1/5 from 28+ Google Reviews",
+    "badge_2": "BBB A+ Accredited",
+    "headline": "Northwest Ohio's Trusted <span class=\"text-secondary italic\">Pool Builders</span>",
+    "subheadline": "From custom in-ground pools to expert renovations and weekly maintenance, our family team has served the Greater Toledo area since 2007. One-on-one design consultations, honest pricing, and craftsmanship that lasts decades.",
+    "cta_text": "Schedule My Free Consultation",
+    "checkmarks": [
+      "Free design consultation",
+      "BBB A+ rated since 2009",
+      "Full-service pool care"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "19",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "30",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Custom Pools, Expert Renovations &<br class=\"hidden md:block\"> Year-Round Pool Care",
+    "subtitle": "Whether you're dreaming of a brand-new backyard oasis or need your existing pool restored to its former glory, Daudelin handles every phase from design to ongoing maintenance.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "Vinyl liner and Gunite in-ground pools designed around your lifestyle. Every project starts with a one-on-one consultation to match your vision, property, and budget."
+      },
+      {
+        "title": "Pool Renovation & Makeovers",
+        "description": "Complete pool transformations including liner replacement, coping renovation, surface refinishing, and structural repairs. Trusted by local contractors for complex jobs."
+      },
+      {
+        "title": "Weekly Service & Maintenance",
+        "description": "Seasonal openings, closings, chemical balancing, and equipment checks to keep your pool swim-ready all season without lifting a finger."
+      },
+      {
+        "title": "Pump & Equipment Repair",
+        "description": "Authorized Pentair dealer specializing in energy-efficient IntelliFlo variable-speed pump installations that cut energy costs while maximizing performance."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Professional vinyl liner replacement with minimal downtime. Our experienced crew ensures a perfect fit and gets your pool back in service fast."
+      },
+      {
+        "title": "Heater & Equipment Diagnostics",
+        "description": "Expert troubleshooting and repair for pool heaters, filters, salt systems, and automation. We diagnose the real problem and fix it right the first time."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Book Your Free Consultation",
+        "description": "Call us or fill out the form below. We'll schedule a one-on-one design meeting to discuss your vision, walk your property, and provide an honest quote with no pressure."
+      },
+      {
+        "title": "We Design & Build Together",
+        "description": "Our team creates a custom plan tailored to your space and budget. From permits to final plaster, we handle every detail while keeping you informed at every stage."
+      },
+      {
+        "title": "Dive Into Your New Pool",
+        "description": "Your pool is built to last and backed by our commitment to quality. We stay with you for ongoing service and maintenance so every swim season is worry-free."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Toledo Trusts Daudelin",
+    "headline": "A Family Team That Builds Pools the Right Way",
+    "description": "Since 2007, Daudelin Pool Services has grown from a small service company into one of Northwest Ohio's most respected pool contractors. With over 30 years of combined experience and a BBB A+ rating held since 2009, we bring integrity, honest pricing, and genuine care to every project. We treat every backyard like it's our own.",
+    "badge": "BBB A+ Accredited",
+    "features": [
+      {
+        "title": "30+ Years Combined Experience",
+        "description": "Our team brings decades of hands-on pool construction, renovation, and service expertise to every project we take on."
+      },
+      {
+        "title": "Honest Pricing, No Surprises",
+        "description": "We quote fair prices and stick to them. No hidden fees, no upsells, no bait-and-switch. What we say is what you pay."
+      },
+      {
+        "title": "Trusted by Contractors & Homeowners",
+        "description": "Local contractors call us for complex renovations and structural repairs. Homeowners stay with us for life. That trust is earned."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. Honest Quotes. No Surprises.",
+    "subtitle": "Every pool and project is unique. Contact us for a free consultation and receive a straightforward quote tailored to your needs."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "We stand behind every pool we build, every renovation we complete, and every service call we make. If something isn't right, we come back and fix it at no additional charge. Our BBB A+ rating since 2009 is proof that we do what we say, every single time."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a new in-ground pool?",
+      "answer": "Most custom pool projects take 6-10 weeks depending on the design, permits, and weather. We'll give you a realistic timeline during your free consultation and keep you updated throughout every phase of construction."
+    },
+    {
+      "question": "Do you build both vinyl liner and Gunite pools?",
+      "answer": "Yes! We specialize in both vinyl liner and Gunite in-ground pools. During your design consultation, we'll walk you through the pros and cons of each option so you can make the best choice for your property and budget."
+    },
+    {
+      "question": "Can you renovate my older pool?",
+      "answer": "Absolutely. We've renovated pools over 40 years old with stunning results. From liner replacement and coping repair to complete structural makeovers, our team has the experience to bring any pool back to life."
+    },
+    {
+      "question": "Do you offer seasonal pool openings and closings?",
+      "answer": "Yes, we handle seasonal openings and closings as well as weekly maintenance throughout the swim season. We'll make sure your pool is properly winterized and ready to go when spring arrives."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the Greater Toledo area and Northwest Ohio including Perrysburg, Curtice, Grand Rapids, Haskins, Luckey, Neapolis, Pemberville, Portage, Stony Ridge, Tontogany, Williston, and Southeast Michigan communities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jack",
+      "context": "Google Review",
+      "initials": "J",
+      "text": "They're great! Reasonable pricing. Honest. They do what they say. That's worth a lot these days."
+    },
+    {
+      "name": "Alan",
+      "context": "Pool Renovation Client",
+      "initials": "A",
+      "text": "Josh and company did a complete makeover of our over 40 year old pool, and we can't say enough how pleased we are."
+    },
+    {
+      "name": "Coury",
+      "context": "Customer for Life",
+      "initials": "C",
+      "text": "Daudelin Pool Services has a customer for life! We appreciate their integrity through the whole process."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Pool?",
+    "subtitle": "Get a free, no-pressure consultation and honest quote. Whether it's a new build, renovation, or maintenance plan, we'll take care of everything.",
+    "benefits": [
+      "Free one-on-one design consultation",
+      "Honest quote within 48 hours",
+      "BBB A+ rated — integrity guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Northwest Ohio's trusted pool contractor since 2007. BBB A+ rated.",
+    "service_area": "Serving the Greater Toledo Area & Northwest Ohio",
+    "services": [
+      "Custom Pool Construction",
+      "Pool Renovation",
+      "Weekly Maintenance",
+      "Pump & Equipment Repair",
+      "Liner Replacement"
+    ],
+    "copyright": "&copy; 2024 Daudelin Pool Services. All rights reserved. Perrysburg, OH"
+  }
+}
