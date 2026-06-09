@@ -1,183 +1,184 @@
 {
   "folder_name": "atlanta-porch-and-patio",
   "company_name": "Atlanta Porch & Patio",
-  "tagline": "Your Vision, Our Expertise — Custom Outdoor Living Spaces",
+  "tagline": "Custom Outdoor Living Spaces That Become Your Favorite Place to Relax and Entertain",
   "phone": "+1 678-882-7340",
   "email": "sol@atlantaporchandpatio.com",
+  "logo_path": "logo.png",
   "review_count": "102",
   "review_rating": "4.0",
   "colors": {
-    "primary": "#2C5F2D",
-    "primary_dark": "#1E4220",
-    "primary_deeper": "#142E16",
-    "secondary": "#C8A96E",
-    "cta": "#C8A96E",
-    "cta_dark": "#B0914F"
+    "primary": "#2C5530",
+    "primary_dark": "#1E3B22",
+    "primary_deeper": "#142816",
+    "secondary": "#D4A84B",
+    "cta": "#D4A84B",
+    "cta_dark": "#B8903A"
   },
   "trust_badges": {
-    "badge_1": "GA Licensed Contractor",
+    "badge_1": "BBB A+ Rated",
     "badge_2": "4.0/5 from 102+ Reviews",
-    "badge_3": "BBB A+ Rated"
+    "badge_3": "22+ Years Experience"
   },
   "hero": {
     "badge_1": "4.0/5 from 102+ Google Reviews",
     "badge_2": "15x Best of Houzz Winner",
-    "headline": "Your Dream Outdoor Space <span class=\"text-secondary italic\">Built to Last</span>",
-    "subheadline": "For 25+ years, Atlanta Porch & Patio has designed and built premium outdoor living spaces across Metro Atlanta. From screened porches and custom decks to outdoor kitchens and fireplaces, our family-owned team handles every detail so you can enjoy the backyard you have always wanted.",
-    "cta_text": "Get My Free Design Consultation",
+    "headline": "Your Dream Outdoor Space <span class=\"text-secondary italic\">Built by<br>a Family Who Cares</span>",
+    "subheadline": "For over 22 years, Atlanta Porch & Patio has been designing and building the custom porches, decks, and patios that metro Atlanta families love coming home to. From first sketch to final nail, our licensed team handles everything so you can skip the stress and enjoy the transformation.",
+    "cta_text": "Schedule My Free Consultation",
     "checkmarks": [
-      "Free on-site consultation",
-      "25+ years of craftsmanship",
-      "BBB A+ rated builder"
+      "Free design consultation",
+      "Full 3D renderings included",
+      "Licensed & code-exceeding builds"
     ]
   },
   "stats": {
-    "stat_1_value": "1000",
+    "stat_1_value": "1500",
     "stat_1_label": "Projects Completed",
-    "stat_2_value": "25",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "102",
-    "stat_3_label": "Google Reviews",
+    "stat_2_value": "22",
+    "stat_2_label": "Years of Expertise",
+    "stat_3_value": "15",
+    "stat_3_label": "Best of Houzz Awards",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Specialties",
-    "headline": "Custom Outdoor Living<br class=\"hidden md:block\"> Built Around Your Life",
-    "subtitle": "From morning coffee on a screened porch to evening gatherings around a custom fireplace, we design and build outdoor spaces that become the heart of your home.",
+    "label": "What We Build",
+    "headline": "Outdoor Living Spaces Designed<br class=\"hidden md:block\"> Around How You Live",
+    "subtitle": "From screened porches that keep the bugs out to outdoor kitchens that keep the party going, we design and build every project around your family's lifestyle.",
     "cards": [
       {
         "title": "Screened Porches",
-        "description": "Custom-designed screened porches that extend your living space outdoors while keeping bugs and weather at bay, featuring premium materials and expert craftsmanship."
+        "description": "Custom screened-in porches with 3-season and 4-season options that extend your living space while keeping out bugs, pollen, and weather."
       },
       {
         "title": "Custom Decks",
-        "description": "Premium deck building using high-quality composite and Brazilian hardwood materials, designed and built to complement your home and elevate your outdoor experience."
+        "description": "Premium deck construction using Brazilian hardwood, composite, or traditional wood. Designed to complement your home and elevate your backyard."
+      },
+      {
+        "title": "Patios & Pavers",
+        "description": "Elegant stone and paver patios that create stunning outdoor living and entertaining areas, perfectly tailored to your landscape."
       },
       {
         "title": "Outdoor Kitchens",
-        "description": "Fully custom outdoor kitchen design and installation featuring built-in grills, countertops, cabinetry, and all the amenities for outdoor cooking and entertaining."
+        "description": "Full outdoor kitchen design with countertops, built-in grills, sinks, refrigeration, and custom cabinetry for the ultimate hosting experience."
       },
       {
-        "title": "Sunrooms & Enclosures",
-        "description": "Light-filled sunrooms and patio enclosures that seamlessly blend indoor comfort with outdoor views, perfect for three-season or year-round enjoyment."
+        "title": "Sunrooms",
+        "description": "Year-round sunroom construction that seamlessly blends indoor comfort with outdoor views, flooding your home with natural light."
       },
       {
-        "title": "Outdoor Fireplaces",
-        "description": "Custom stone and masonry outdoor fireplaces that create a stunning focal point and extend the usability of your outdoor living space into cooler months."
-      },
-      {
-        "title": "Complete Backyard Renovations",
-        "description": "Full-scale outdoor living transformations combining porches, patios, kitchens, and fireplaces into cohesive backyard retreats tailored to your vision."
+        "title": "Pergolas & Fireplaces",
+        "description": "Custom pergolas for shade and style, plus outdoor fireplaces and fire pits that make your backyard a year-round gathering spot."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Outdoor Space",
+    "headline": "From Vision to Your Favorite Room in the House",
     "steps": [
       {
-        "title": "Schedule Your Free Consultation",
-        "description": "Tell us about your vision. We visit your home, take measurements, and discuss design ideas. You receive a detailed proposal with transparent pricing — no pressure, no obligation."
+        "title": "Free Design Consultation",
+        "description": "Tell us how you want to live outdoors. We visit your home, listen to your ideas, and provide an honest, no-pressure consultation with a detailed estimate."
       },
       {
-        "title": "We Design & Build",
-        "description": "Your dedicated project manager guides every decision from materials to finishes. Our licensed team handles permits, construction, and inspections — exceeding Georgia building codes at every step."
+        "title": "3D Renderings & Permitting",
+        "description": "Our design team creates photorealistic 3D renderings so you can see your project before a single board is cut. We handle all permits and HOA approvals."
       },
       {
-        "title": "Enjoy Your New Outdoor Living Space",
-        "description": "Step into a backyard transformed. From the first morning coffee on your new porch to holiday gatherings around your fireplace, your outdoor space becomes your favorite room in the house."
+        "title": "Expert Construction & Enjoyment",
+        "description": "Our licensed crew builds your project to exceed Georgia code, keeping you informed at every stage. Then we hand you the keys to your new favorite space."
       }
     ]
   },
   "about": {
-    "label": "Why Atlanta Homeowners Trust Us",
-    "headline": "Family-Owned, Design-Build Experts Since 2001",
-    "description": "Founded by Solomon and Susan Elisha, Atlanta Porch & Patio has spent over 25 years turning backyards into beautiful outdoor living spaces across Metro Atlanta. We focus exclusively on custom builds and full-scale renovations — not repairs — because your outdoor space deserves the same care and craftsmanship as the finest room in your home. With 15 consecutive Best of Houzz awards, a BBB A+ rating, and a team that treats every project like their own home, we deliver results that stand the test of time.",
+    "label": "Why Metro Atlanta Trusts Us",
+    "headline": "A Family-Owned Firm That Treats Your Home Like Our Own",
+    "description": "Founded in 2003 by Solomon and Susan Elisha, Atlanta Porch & Patio has spent over 22 years earning the trust of metro Atlanta homeowners. We are a full-service design-build firm, meaning one team handles your project from the initial 3D rendering through permitting and final construction. Our licensed crew builds to exceed Georgia code, and our 15 Best of Houzz awards prove we deliver craftsmanship that homeowners love.",
     "badge": "BBB A+ Rated",
     "features": [
       {
-        "title": "Georgia Licensed & Insured",
-        "description": "Our licensed team exceeds Georgia building code standards on every project, and we handle all permits and inspections so you never have to."
+        "title": "Licensed Design-Build Team",
+        "description": "One team from start to finish. We handle design, 3D renderings, permitting, and construction so nothing falls through the cracks."
       },
       {
-        "title": "Dedicated Project Manager",
-        "description": "From your first design meeting to the final walkthrough, a dedicated project manager guides every decision and keeps you informed at every step."
+        "title": "15x Best of Houzz Winner",
+        "description": "Recognized year after year for outstanding design and client satisfaction by the largest home renovation community in the world."
       },
       {
-        "title": "Premium Materials & Craftsmanship",
-        "description": "We use only the finest materials — Brazilian hardwood, custom stone masonry, and top-tier composites — built to last for decades, not just seasons."
+        "title": "Craftsmanship Guarantee",
+        "description": "Every project is built to exceed Georgia building code. We stand behind our work because your outdoor space should last for decades."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. Exceptional Value.",
-    "subtitle": "Every project is custom-designed to your vision. Request a free consultation for a detailed, no-obligation proposal tailored to your home."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is custom, so we provide a detailed written estimate after your free consultation. No hidden fees, no change-order surprises."
   },
   "guarantee": {
-    "headline": "Our Craftsmanship Guarantee",
-    "description": "We stand behind every project we build. If any aspect of our work does not meet the standards we promised, we will make it right at no additional cost. With 25+ years of builds across Metro Atlanta, our reputation is built on delivering outdoor spaces that exceed expectations — and we intend to keep it that way."
+    "headline": "Our \"Built to Last\" Promise",
+    "description": "If any aspect of our craftsmanship does not meet the standards we discussed, we will come back and make it right at no additional cost. We have built our 22-year reputation on standing behind every project, and we are not about to stop now."
   },
   "faqs": [
     {
-      "question": "How long does a typical project take?",
-      "answer": "Project timelines vary by scope and complexity. A screened porch may take 4-6 weeks, while a full backyard renovation can take 3-6 months. We provide a detailed timeline during your consultation and keep you informed at every milestone."
+      "question": "How long does a typical porch or patio project take?",
+      "answer": "Most projects take 4-8 weeks from start to completion, depending on size and complexity. After your free consultation, we provide a detailed timeline so you know exactly what to expect at every stage."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve the entire Metro Atlanta area including Marietta, Roswell, Alpharetta, Sandy Springs, Woodstock, Milton, Canton, Buckhead, Decatur, Kennesaw, and 30+ surrounding communities throughout Cobb, Fulton, Cherokee, and DeKalb counties."
+      "question": "Do you handle permits and HOA approvals?",
+      "answer": "Absolutely. Our team manages all permitting and HOA submissions as part of our full-service process. We know metro Atlanta building codes inside and out, so approvals move smoothly."
     },
     {
-      "question": "Do you handle permits and inspections?",
-      "answer": "Absolutely. Our team manages all permits, HOA approvals, and code inspections from start to finish. We are fully licensed in Georgia and our work exceeds local building code standards."
+      "question": "What is your service area?",
+      "answer": "We serve Marietta, Atlanta, Alpharetta, Roswell, Sandy Springs, Woodstock, Milton, Canton, Buckhead, Kennesaw, Smyrna, Decatur, and 30+ communities throughout metro Atlanta."
     },
     {
-      "question": "What is the typical investment range?",
-      "answer": "Our custom projects typically range from $25,000 to $500,000 depending on scope and materials. We provide detailed, transparent proposals after your free on-site consultation so there are never any surprises."
+      "question": "Can I see what my project will look like before construction?",
+      "answer": "Yes! We create photorealistic 3D renderings of your project so you can visualize the finished space, make adjustments, and feel confident before any construction begins."
     },
     {
-      "question": "Do you offer financing options?",
-      "answer": "Yes, we work with several financing partners to offer flexible payment options for qualified homeowners. We discuss all available options during your consultation so you can choose what works best for your budget."
+      "question": "What is the typical investment range for a project?",
+      "answer": "Our projects typically range from $25,000 to $500,000 depending on scope and materials. During your free consultation, we will discuss your budget and provide a transparent, detailed estimate with no hidden fees."
     }
   ],
   "testimonials": [
     {
       "name": "Hillary D.",
-      "context": "Screened Porch Build",
+      "context": "Screened Porch",
       "initials": "HD",
-      "text": "We just finished our screened in porch and could not be happier! Judy was fantastic — very communicative and clear throughout the permitting process. The craftsmanship is outstanding."
+      "text": "We just finished our screened in porch and could not be happier! Judy was fantastic - very communicative and clear throughout the entire process. The craftsmanship is beautiful."
     },
     {
       "name": "Drew M.",
-      "context": "10+ Year Customer",
+      "context": "Long-term Client, 10+ Years",
       "initials": "DM",
-      "text": "We have been customers for over 10 years. The team's professionalism, responsiveness, and quality craftsmanship earn our strongest recommendation. They truly stand behind their work."
+      "text": "I have worked with Atlanta Porch and Patio for over 10 years now. The team over there has always been super professional and responsive. They consistently deliver outstanding results."
     },
     {
       "name": "Andrew E.",
       "context": "3-Season Screened Porch",
       "initials": "AE",
-      "text": "Top-notch craftsmanship on our custom 3-season screened porch. Project Manager Judy Goldberg's professionalism and communication were outstanding from start to finish."
+      "text": "We recently worked with Atlanta Porch and Patio to build a stunning custom 3-Season Screened Porch for our home, and we couldn't be happier with the results. Highly recommend."
     }
   ],
   "contact": {
-    "headline": "Ready for the Backyard<br>You Have Always Wanted?",
-    "subtitle": "Get a free, no-obligation design consultation. We will visit your home, discuss your vision, and provide a detailed proposal with transparent pricing.",
+    "headline": "Ready for the Outdoor Space<br>You've Always Wanted?",
+    "subtitle": "Get a free, no-pressure design consultation. We will visit your home, listen to your vision, and provide an honest estimate — no obligations, no sales pitch.",
     "benefits": [
       "Free on-site design consultation",
-      "Detailed proposal within one week",
-      "25+ years of Atlanta craftsmanship"
+      "Detailed estimate within one week",
+      "3D renderings before construction begins"
     ]
   },
   "footer": {
-    "description": "Family-owned outdoor living design-build firm. Serving Metro Atlanta since 2001.",
-    "service_area": "Serving Metro Atlanta — Marietta, Roswell, Alpharetta, Sandy Springs & Beyond",
+    "description": "Family-owned design-build firm. Serving metro Atlanta for 22+ years.",
+    "service_area": "Serving Marietta, Atlanta, Alpharetta, Roswell & 30+ Metro Atlanta Communities",
     "services": [
       "Screened Porches",
       "Custom Decks",
+      "Patios & Pavers",
       "Outdoor Kitchens",
-      "Sunrooms & Enclosures",
-      "Backyard Renovations"
+      "Sunrooms"
     ],
-    "copyright": "&copy; 2026 Atlanta Porch & Patio. All rights reserved. Georgia Licensed Contractor"
+    "copyright": "&copy; 2026 Atlanta Porch & Patio. All rights reserved. Licensed & Insured."
   }
 }

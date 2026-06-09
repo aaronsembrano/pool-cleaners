@@ -8,177 +8,177 @@
   "review_count": "7",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#0B3D2E",
-    "primary_dark": "#072A1F",
-    "primary_deeper": "#041A13",
-    "secondary": "#4DB8A4",
-    "cta": "#E8922A",
-    "cta_dark": "#C97A1E"
+    "primary": "#0A4D8C",
+    "primary_dark": "#073662",
+    "primary_deeper": "#052847",
+    "secondary": "#4CAF50",
+    "cta": "#00BCD4",
+    "cta_dark": "#0097A7"
   },
   "trust_badges": {
-    "badge_1": "NSF/ANSI Tested",
-    "badge_2": "5.0/5 Google Rated",
-    "badge_3": "EPA Registered"
+    "badge_1": "NSF Certified Technology",
+    "badge_2": "5.0/5 Google Rating",
+    "badge_3": "23+ Years of Innovation"
   },
   "hero": {
     "badge_1": "5.0/5 from Google Reviews",
-    "badge_2": "23+ Years of Innovation",
-    "headline": "Nature-Powered Water <span class=\"text-secondary italic\">Without<br>the Chemicals</span>",
-    "subheadline": "Our patented Sphagnum moss technology cuts chemical usage by up to 50% while keeping your water pristine. Trusted by Six Flags, YMCAs, and thousands of homeowners since 2003 — just add moss and enjoy cleaner, safer water.",
-    "cta_text": "Get Your Free Assessment",
+    "badge_2": "NSF International Certified",
+    "headline": "Cleaner Water, <span class=\"text-secondary italic\">Fewer<br>Chemicals</span>",
+    "subheadline": "Your pool deserves better than harsh chemicals. Creative Water Solutions' patented sphagnum moss technology naturally conditions your water -- reducing chemical use by up to 50% while keeping it crystal clear. Just nature, working the way it should.",
+    "cta_text": "Discover Natural Water Care",
     "checkmarks": [
-      "Free water quality assessment",
-      "Reduces chemicals up to 50%",
-      "Proven at 500+ facilities"
+      "Patented moss technology",
+      "Reduces chemical use 50%+",
+      "NSF International Certified"
     ]
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "Facilities Served",
-    "stat_2_value": "23",
-    "stat_2_label": "Years of Innovation",
-    "stat_3_value": "50",
-    "stat_3_label": "% Less Chemicals",
+    "stat_1_value": "23",
+    "stat_1_label": "Years Innovating",
+    "stat_2_value": "50",
+    "stat_2_label": "% Less Chemicals",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Treated Naturally",
     "stat_4_value": "100%",
-    "stat_4_label": "Natural Technology"
+    "stat_4_label": "Natural & Sustainable"
   },
   "services": {
     "label": "Our Solutions",
-    "headline": "Sustainable Water Treatment<br class=\"hidden md:block\"> Powered by Nature",
-    "subtitle": "Stop pouring excessive chemicals into your water. Our patented moss-based technology works with your existing systems to deliver cleaner, safer water with less maintenance and lower costs.",
+    "headline": "Nature-Powered Water Care<br class=\"hidden md:block\"> for Every Application",
+    "subtitle": "From backyard pools to industrial cooling towers, our patented sphagnum moss technology delivers cleaner water with fewer chemicals across every scale.",
     "cards": [
       {
-        "title": "Commercial Pool & Spa",
-        "description": "PoolMoss Pro and SpaMoss products for waterparks, aquatic centers, and commercial facilities. Reduce chemical costs and maintenance while exceeding water quality standards."
+        "title": "Residential Pool Treatment",
+        "description": "PoolMoss and PoolStart Kits use natural sphagnum moss to reduce chemical usage in your pool. Simple monthly moss changes keep water balanced with less work and fewer chemicals."
       },
       {
-        "title": "Residential Pool Care",
-        "description": "PoolStart and SpaStart kits that integrate into any existing system. Simple monthly moss changes deliver stable pH, fewer water changes, and dramatically less chemical dependency."
+        "title": "Spa & Hot Tub Treatment",
+        "description": "SpaMoss and SpaStart Kits naturally condition your hot tub water, reduce maintenance, and minimize chemical exposure for a healthier, more comfortable soaking experience."
       },
       {
-        "title": "Industrial Cooling Towers",
-        "description": "Proven to eliminate most chemical usage in cooling towers and process water systems. Deployed at Fortune 500 facilities including Corning and 3M corporate campuses."
+        "title": "Commercial Pool Systems",
+        "description": "PoolMoss Pro for commercial pools, waterparks, fountains, and ponds. Improve water and air quality, cut chemical costs, and deliver a better experience for swimmers."
       },
       {
-        "title": "Fountain & Pond Systems",
-        "description": "Keep decorative water features clean and clear naturally. Our moss-based solutions minimize chemical intervention while reducing ongoing maintenance requirements."
+        "title": "Industrial Water Treatment",
+        "description": "ProMoss systems for cooling towers, boilers, and wastewater. Naturally removes organic contamination while reducing corrosion, scaling, and extending equipment lifespan."
       },
       {
-        "title": "Waterpark Solutions",
-        "description": "Trusted by Six Flags theme parks nationwide. Large-scale water treatment that handles high bather loads while cutting chemical usage and improving swimmer comfort."
+        "title": "Water Feature Treatment",
+        "description": "Natural moss-based solutions for fountains, ponds, and decorative water features that maintain clarity and balance without heavy chemical use or constant maintenance."
       },
       {
-        "title": "Dealer & Partner Programs",
-        "description": "Full support for dealers including product specs, installation guides, dosing calculators, white papers, safety data sheets, and video testimonials to grow your business."
+        "title": "Contact Chamber Systems",
+        "description": "Engineered delivery systems including submersible cages and offline chambers that create optimal moss-water contact for maximum treatment efficiency in any application."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Naturally Clean Water",
+    "headline": "Three Steps to Naturally Better Water",
     "steps": [
       {
-        "title": "Assess Your Water System",
-        "description": "Tell us about your pool, spa, or water system. We'll evaluate your setup and recommend the right moss-based product — no obligation, no pressure."
+        "title": "Choose Your Solution",
+        "description": "Tell us about your pool, spa, or facility. We'll match you with the right moss-based product -- PoolMoss, SpaMoss, or ProMoss -- sized for your specific application."
       },
       {
-        "title": "Install the Moss Technology",
-        "description": "Our patented Sphagnum moss products integrate seamlessly into your existing filtration. Simple installation takes minutes — no plumbing changes, no equipment upgrades needed."
+        "title": "Simply Add Moss",
+        "description": "Place the moss product in your skimmer basket, filter, or contact chamber. Our patented sphagnum moss begins conditioning your water immediately -- no special tools needed."
       },
       {
-        "title": "Enjoy Cleaner, Safer Water",
-        "description": "Watch your chemical usage drop while water quality improves. Monthly moss changes keep everything running smoothly — less work, lower costs, and water that feels better on skin."
+        "title": "Enjoy Cleaner Water",
+        "description": "Experience noticeably softer, clearer water with fewer chemicals. Replace the moss monthly and enjoy the peace of mind that comes with nature-powered water treatment."
       }
     ]
   },
   "about": {
-    "label": "Why Facilities Trust Us",
-    "headline": "23 Years Proving Nature Works Better",
-    "description": "Founded in 2003 in Plymouth, Minnesota, Creative Water Solutions pioneered natural water treatment using proprietary Sphagnum moss technology. What started as research has become a proven platform deployed at Six Flags theme parks, YMCA facilities, universities, and Fortune 500 corporate campuses across the country. Every product we make is backed by over two decades of testing, NSF/ANSI standards compliance, and a simple mission: help water treatment work better while using fewer chemicals.",
-    "badge": "NSF/ANSI Tested",
+    "label": "Why Choose Natural Water Care",
+    "headline": "23 Years of Pioneering Sustainable Water Treatment",
+    "description": "Founded in 2003 in Plymouth, Minnesota, Creative Water Solutions developed the world's first patented sphagnum moss water treatment technology. Our products replicate the natural filtration found in pristine bog ecosystems, delivering cleaner water with dramatically fewer chemicals. From residential pools to industrial facilities like 3M and Corning, our science-backed approach proves that nature knows best.",
+    "badge": "NSF Certified",
     "features": [
       {
         "title": "Patented Moss Technology",
-        "description": "Our proprietary Sphagnum moss formulations are protected by patents and backed by 23 years of research and real-world deployment data."
+        "description": "Our proprietary sphagnum moss treatment is backed by patents and NSF International certification -- proven science, not guesswork."
       },
       {
-        "title": "Proven at Scale",
-        "description": "From backyard pools to Six Flags waterparks, our technology performs at every scale. Over 500 commercial facilities trust CWS products daily."
+        "title": "Reduces Chemicals Up to 50%",
+        "description": "Less chlorine, fewer algaecides, and dramatically lower chemical costs. Better for your skin, your equipment, and the environment."
       },
       {
-        "title": "Environmentally Responsible",
-        "description": "Reduce chemical usage by up to 50%, lower water consumption, and minimize environmental impact — all while maintaining or exceeding water quality standards."
+        "title": "Trusted by Industry Leaders",
+        "description": "Major corporations including 3M and Corning rely on our ProMoss technology for their industrial water treatment needs."
       }
     ]
   },
   "pricing": {
-    "headline": "Simple Solutions. Transparent Pricing.",
-    "subtitle": "Choose the product that fits your water system. Residential kits start simple, commercial solutions scale to any facility size."
+    "headline": "Simple Products. Honest Pricing.",
+    "subtitle": "Choose the natural water treatment solution that fits your needs. Easy to use, easy to maintain, easy on your wallet."
   },
   "guarantee": {
-    "headline": "Our \"Cleaner Water\" Guarantee",
-    "description": "If our moss technology doesn't reduce your chemical usage and improve your water quality within 30 days, we'll work with you until it does — or refund your purchase. Over 23 years and hundreds of facilities prove our system works, and we stand behind every product we ship."
+    "headline": "Our \"Naturally Better\" Guarantee",
+    "description": "If you don't notice a visible difference in your water quality within 30 days of using our moss products, contact us and we'll work with you to make it right. We've spent 23 years perfecting this technology because we believe everyone deserves cleaner, healthier water -- naturally."
   },
   "faqs": [
     {
-      "question": "How does Sphagnum moss treat water?",
-      "answer": "Our patented moss technology naturally conditions water by improving how treatment chemicals work. The moss helps stabilize pH, reduce biofilm buildup, and make sanitizers more effective — meaning you need far fewer chemicals to achieve the same or better water quality."
-    },
-    {
-      "question": "Will it work with my existing pool system?",
-      "answer": "Yes. PoolMoss and SpaMoss products integrate into virtually any existing filtration system — chlorine, salt, bromine, or ozone. No plumbing changes or equipment upgrades needed. Installation typically takes under 15 minutes."
+      "question": "How does sphagnum moss treat pool water?",
+      "answer": "Sphagnum moss naturally inhibits the growth of bacteria and algae through its unique biochemistry. Our patented technology replicates the pristine filtration found in bog ecosystems, conditioning your water while reducing the need for harsh chemicals by up to 50%."
     },
     {
       "question": "How often do I need to replace the moss?",
-      "answer": "For residential pools and spas, we recommend monthly moss changes. Commercial facilities may have different schedules depending on volume and bather load. Each replacement is quick and simple — just swap the moss bag."
+      "answer": "For residential pools and spas, we recommend monthly moss changes. Simply remove the used moss from your skimmer or filter basket and drop in a fresh one. It takes less than 60 seconds and keeps your water naturally balanced."
     },
     {
-      "question": "Is this proven for large commercial facilities?",
-      "answer": "Absolutely. Our products are deployed at Six Flags theme parks, YMCA aquatic centers, university pools, and Fortune 500 corporate campus cooling systems. We have extensive case studies documenting results at scale."
+      "question": "Is this safe for swimmers and children?",
+      "answer": "Absolutely. Our products are NSF International Certified (Standard 050) for pool equipment. The moss is 100% natural and actually reduces your exposure to harsh chemicals, making swimming healthier and more comfortable for everyone."
     },
     {
-      "question": "Do you ship nationwide?",
-      "answer": "Yes. While we're based in Plymouth, Minnesota, we distribute products nationwide through our dealer network and direct sales. Commercial clients receive dedicated support regardless of location."
+      "question": "Can I use PoolMoss with my existing pool equipment?",
+      "answer": "Yes! PoolMoss works with all standard pool filtration systems -- sand, cartridge, or DE filters. Simply place the moss product in your skimmer basket or install our contact chamber. No modifications to your existing equipment needed."
+    },
+    {
+      "question": "Do you offer solutions for commercial or industrial use?",
+      "answer": "We do. Our PoolMoss Pro handles commercial pools, waterparks, and fountains, while ProMoss serves cooling towers, boilers, and industrial systems. Major clients like 3M and Corning trust our technology. Contact us for a custom consultation."
     }
   ],
   "testimonials": [
     {
       "name": "Lauri O.",
-      "text": "Used for years as water treatment for home and hot tub. Love it! The difference in water feel and clarity compared to heavy chemical treatment is remarkable. I'll never go back to the old way.",
+      "text": "Used for years as water treatment for home and hot tub. Love it! The water feels softer and we use so much less chlorine now. Would never go back to the old way.",
       "context": "Residential customer",
       "initials": "LO"
     },
     {
       "name": "Donna S.",
-      "text": "I have been swimming in a pool that uses this system for many years now. They told me it uses moss to filter the water. After that I never went swimming at other pools. I love this system!",
-      "context": "Long-time pool user",
+      "text": "I have been swimming in a pool that uses this system for many years now. They told me it uses moss to filter the water. I love this system! It makes swimming an exercise that is better for you.",
+      "context": "Residential pool user",
       "initials": "DS"
     },
     {
-      "name": "Six Flags Maintenance Dir.",
-      "text": "Creative Water Solutions PoolMoss Pro products have been successfully deployed across our water park and pool facilities, reducing chemical usage while maintaining excellent water quality standards.",
-      "context": "Six Flags America & Hurricane Harbor",
-      "initials": "SF"
+      "name": "Gary G.",
+      "text": "Promoting Moss has expanded our client base, brought in new pool service customers, and has positively affected our bottom line. It's a genuine differentiator in our market.",
+      "context": "Main Line Commercial Pools",
+      "initials": "GG"
     }
   ],
   "contact": {
     "headline": "Ready for Naturally<br>Cleaner Water?",
-    "subtitle": "Get a free water assessment and see how much you can save on chemicals. No contracts, no obligations — just proven science that works.",
+    "subtitle": "Discover how our patented moss technology can transform your water quality while cutting chemical costs. Reach out today for expert guidance on the right solution for you.",
     "benefits": [
-      "Free water system assessment",
+      "Free product consultation",
       "Response within 24 hours",
-      "23+ years of proven results"
+      "NSF Certified technology"
     ]
   },
   "footer": {
     "description": "Pioneering natural water treatment since 2003. Plymouth, Minnesota.",
     "service_area": "Nationwide Distribution from Plymouth, MN",
     "services": [
-      "Commercial Pool Treatment",
-      "Residential Pool & Spa",
-      "Industrial Water Systems",
-      "Fountain & Pond Care",
-      "Dealer Programs"
+      "Residential PoolMoss",
+      "SpaMoss Systems",
+      "Commercial PoolMoss Pro",
+      "Industrial ProMoss",
+      "Contact Chambers"
     ],
-    "copyright": "&copy; 2024 Creative Water Solutions, LLC. All rights reserved. Plymouth, MN"
+    "copyright": "&copy; 2024 Creative Water Solutions, LLC. All rights reserved. Plymouth, Minnesota"
   }
 }

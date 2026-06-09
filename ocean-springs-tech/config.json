@@ -1,184 +1,170 @@
 {
   "folder_name": "ocean-springs-tech",
   "company_name": "Ocean Springs Tech, Inc.",
-  "tagline": "Your Experts in Pools and Water Features",
+  "tagline": "Custom Design and Construction of Pools, Spas, and Fountains",
   "phone": "+1 760-329-8933",
   "email": "rodrigueza@oceanspringstech.com",
-  "logo_path": "logo.png",
   "review_count": "27",
   "review_rating": "4.0",
   "colors": {
     "primary": "#0077B6",
-    "primary_dark": "#005A8C",
-    "primary_deeper": "#003D5E",
+    "primary_dark": "#005F8C",
+    "primary_deeper": "#004A6E",
     "secondary": "#00B4D8",
-    "cta": "#F4A261",
-    "cta_dark": "#D68A4E"
-  },
-  "trust_badges": {
-    "badge_1": "Licensed & Insured",
-    "badge_2": "BBB A+ Rated",
-    "badge_3": "Top 8% CA Contractor"
+    "cta": "#E8740C",
+    "cta_dark": "#C46009"
   },
   "hero": {
-    "badge_1": "4.0/5 from 27+ Google Reviews",
-    "badge_2": "BBB A+ Accredited Since 2019",
-    "headline": "30 Years Perfecting <span class=\"text-secondary italic\">Coachella Valley<br>Pools</span>",
-    "subheadline": "From custom pool construction to weekly maintenance, Ocean Springs Tech has been the Coachella Valley's trusted pool experts since 1996. Founded by Armando Rodriguez with resort-level expertise, we handle everything so you just dive in.",
-    "cta_text": "Get My Free Estimate",
+    "headline": "30 Years Building <span class=\"text-secondary italic\">Dream Pools</span>",
+    "sub_headline": "From custom pools and spas to stunning water features, Ocean Springs Tech has been the Coachella Valley's trusted builder since 1996. Ranked in the top 8% of all California contractors.",
+    "badges": [
+      "BBB A+ Rated",
+      "Top 8% CA Contractor"
+    ],
     "checkmarks": [
-      "Free on-site consultation",
-      "Serving residential & commercial",
-      "A+ BBB rated since 2019"
-    ]
+      "Custom pools, spas & water features",
+      "Residential & commercial projects",
+      "Fully licensed, bonded & insured"
+    ],
+    "cta_button": "Start Your Pool Project"
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "Projects Completed",
-    "stat_2_value": "30",
-    "stat_2_label": "Years of Experience",
-    "stat_3_value": "1000",
-    "stat_3_label": "Pools Maintained",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_1_value": "30+",
+    "stat_1_label": "Years of Experience",
+    "stat_2_value": "15",
+    "stat_2_label": "Community Pools Managed",
+    "stat_3_value": "2500",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Response Rate"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Pool & Water Feature<br class=\"hidden md:block\"> Solutions Under One Roof",
-    "subtitle": "From dream-pool construction to weekly chemical balancing, Ocean Springs Tech is your one-stop solution for every backyard water feature need in the Coachella Valley.",
+    "headline": "Complete Pool & Outdoor Solutions",
+    "subtitle": "From new construction to renovation, maintenance to hardscaping -- one team handles it all.",
     "cards": [
       {
-        "title": "Pool Construction",
-        "description": "Custom-designed swimming pools built for your lifestyle and property. Residential and commercial projects with resort-quality craftsmanship from concept to completion."
+        "title": "Pool & Spa Construction",
+        "description": "Custom-designed swimming pools and spas built from concept to completion. We craft stunning aquatic features for homes, hotels, and resorts across the Coachella Valley."
       },
       {
         "title": "Pool Remodeling",
-        "description": "Breathe new life into an aging pool with replastering, retiling, and full modernization. We transform tired pools into stunning backyard centerpieces."
+        "description": "Breathe new life into aging pools with replastering, retiling, deck resurfacing, and full modernization. We transform outdated pools into backyard showpieces."
       },
       {
-        "title": "Weekly Maintenance",
-        "description": "Chemical balancing, skimming, vacuuming, and filter cleaning to keep your pool swim-ready year-round. Reliable service you can count on every week."
-      },
-      {
-        "title": "Repairs & Equipment",
-        "description": "Pumps, filters, heaters, plumbing, and automation systems diagnosed and repaired by our experienced technicians. Fast turnaround on most repairs."
+        "title": "Maintenance Programs",
+        "description": "Keep your pool crystal-clear year-round with our comprehensive maintenance plans. Regular cleaning, chemical balancing, and equipment inspections you can count on."
       },
       {
         "title": "Water Features & Fountains",
-        "description": "Custom waterfalls, fountains, spillways, and decorative water features designed and built to transform any outdoor space into an oasis."
+        "description": "Custom waterfalls, fountains, and decorative water features that add beauty and tranquility to any residential or commercial outdoor space."
       },
       {
-        "title": "Decks, Pavers & Tile",
-        "description": "Concrete deck installation, cool deck coatings, paver upgrades, and professional pool tile work to complete your backyard transformation."
+        "title": "Equipment & Repairs",
+        "description": "Expert repair and installation of pumps, filters, heaters, and automation systems. We keep your pool equipment running at peak efficiency."
+      },
+      {
+        "title": "Concrete & Decking",
+        "description": "Professional pool decks, pavers, driveways, and hardscape solutions that complement your pool area and complete your outdoor living vision."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Your Pool Project in Three Simple Steps",
+    "headline": "How Your Project Comes Together",
     "steps": [
       {
-        "title": "Schedule a Free Consultation",
-        "description": "Tell us about your pool needs. Whether it's a new build, remodel, or maintenance, we'll visit your property and provide an honest, detailed estimate within 24 hours."
+        "title": "Free Consultation",
+        "description": "Tell us your vision. We visit your property, discuss your goals, and provide a detailed estimate -- all at no cost."
       },
       {
-        "title": "We Design & Execute",
-        "description": "Our licensed, insured team handles everything from permits to final inspection. With 30 years of experience and resort-level standards, every detail is covered."
+        "title": "Custom Design & Build",
+        "description": "Our team designs your project to spec and builds it with precision, keeping you informed at every stage from permit to final finish."
       },
       {
-        "title": "Enjoy Your Backyard Oasis",
-        "description": "Your pool, spa, or water feature is delivered exactly as promised. We stay on for ongoing maintenance so it stays pristine season after season."
+        "title": "Enjoy & Maintain",
+        "description": "Dive into your new oasis! We offer ongoing maintenance plans so your investment stays beautiful for decades to come."
       }
     ]
   },
   "about": {
-    "label": "Why Coachella Valley Trusts Us",
-    "headline": "Resort-Level Pool Expertise — Right in Your Backyard",
-    "description": "Founded in 1996 by Armando Rodriguez, Ocean Springs Tech was born from hands-on experience at a premier Coachella Valley resort. Over three decades, we've grown into the valley's go-to team for pool construction, remodeling, maintenance, and water features. With an A+ BBB rating and a BuildZoom score placing us in the top 8% of California contractors, we bring commercial-grade expertise to every residential and commercial project we touch.",
-    "badge": "BBB A+ Accredited",
+    "label": "About Ocean Springs Tech",
+    "headline": "Coachella Valley's Pool Builder Since 1996",
+    "description": "Founded by Armando Rodriguez after years of hands-on training at a premier Coachella Valley resort, Ocean Springs Tech has grown into the region's go-to pool builder. We handle everything from custom pool construction and renovation to fountains, water features, and complete backyard transformations. Our client list includes homeowners, hotels, resorts, and HOA communities -- and our BuildZoom score of 105 puts us in the top 8% of over 336,000 licensed California contractors. When you choose us, you get 30 years of expertise, an A+ BBB rating, and a team that treats every project like their own backyard.",
+    "badge": "30+ Years in Business",
     "features": [
-      {
-        "title": "Licensed & Fully Insured",
-        "description": "Dual California contractor licenses covering pool construction, concrete services, and maintenance. Bonded and workers' comp insured for your protection."
-      },
-      {
-        "title": "Top 8% in California",
-        "description": "Our BuildZoom score of 105 ranks us among the elite contractors in the state. That's earned through decades of quality work, not marketing."
-      },
-      {
-        "title": "One-Stop Pool Solutions",
-        "description": "Design, build, maintain, and repair — all under one roof. No juggling multiple contractors. We handle your entire backyard water feature journey."
-      }
+      { "title": "One-Stop Pool Solution", "description": "From construction to maintenance, equipment to hardscaping -- we handle every aspect of your pool and backyard." },
+      { "title": "Residential & Commercial", "description": "We serve homeowners, hotels, resorts, HOAs, and communities across the entire Coachella Valley." },
+      { "title": "Resort-Trained Expertise", "description": "Owner Armando Rodriguez trained at a premier Coachella Valley resort before founding Ocean Springs Tech in 1996." }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every project gets an honest, detailed estimate upfront. We tailor solutions to your budget and never hit you with hidden fees."
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every project is unique, so we provide detailed, upfront estimates after a free on-site consultation. No hidden fees, no change-order games."
   },
   "guarantee": {
-    "headline": "Our Coachella Valley Quality Guarantee",
-    "description": "If you're not completely satisfied with our work, we'll come back and make it right at no additional cost. With 30 years of reputation on the line, we stand behind every pool we build, every remodel we complete, and every maintenance visit we make. Your satisfaction is our business."
+    "headline": "Our Promise to You",
+    "description": "We stand behind every project with our quality guarantee. If something is not right, we make it right -- period. With an A+ BBB rating, two active California licenses, and full bonding and insurance, your investment is protected from start to finish."
   },
   "faqs": [
     {
-      "question": "How long does a custom pool build take?",
-      "answer": "Most custom pool builds take 8-12 weeks depending on the design complexity and permits. We keep you informed at every stage and handle all permitting so you don't have to worry about a thing."
+      "question": "How long does a custom pool build typically take?",
+      "answer": "Most residential pool projects take 8 to 12 weeks from permit to completion, depending on design complexity and site conditions. We keep you updated at every stage so there are no surprises."
     },
     {
-      "question": "Do you service both residential and commercial pools?",
-      "answer": "Absolutely. We serve homeowners, HOAs, hotels, resorts, spas, and fitness centers across the Greater Coachella Valley. Commercial clients get dedicated scheduling and priority response."
+      "question": "Do you work on commercial properties too?",
+      "answer": "Absolutely. We serve hotels, resorts, spas, and HOA communities throughout the Coachella Valley. Our team at Silversands alone maintains 15 community pools."
+    },
+    {
+      "question": "Are you licensed, bonded, and insured?",
+      "answer": "Yes. We hold two active California contractor licenses (#1053509 and #920435), carry a $15,000 bond through Old Republic Surety, and maintain workers' compensation insurance through Insurance Company of The West."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve the entire Greater Coachella Valley including Desert Hot Springs, Palm Springs, Palm Desert, Cathedral City, Indian Wells, Indio, La Quinta, Rancho Mirage, Bermuda Dunes, Thousand Palms, and City of Banning."
+      "answer": "We serve the entire Greater Coachella Valley including Desert Hot Springs, Palm Springs, Palm Desert, Cathedral City, Rancho Mirage, Indian Wells, La Quinta, Indio, and surrounding communities."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. We hold dual California contractor licenses (#1053509 and #920435) covering pool construction, concrete services, and maintenance. We're bonded through Old Republic Surety and carry full workers' compensation insurance."
-    },
-    {
-      "question": "How quickly can you respond to pool issues?",
-      "answer": "We maintain a 100% response rate with an average 4-hour response time. For emergencies, we prioritize same-day or next-day service. Call us and we'll get someone out to you fast."
+      "question": "Can you remodel my existing pool instead of building new?",
+      "answer": "Definitely. We specialize in pool renovations including replastering, retiling, deck resurfacing, equipment upgrades, and adding new water features to transform your current pool."
     }
   ],
   "testimonials": [
     {
       "name": "Jeffrey W.",
-      "context": "Pool & spa renovation",
-      "initials": "JW",
-      "text": "Ocean Springs Tech did a fantastic job renovating my pool and spa waterfall, and decking. The team was professional from start to finish and the results exceeded our expectations."
+      "text": "Ocean Springs Tech did a fantastic job renovating my pool and spa waterfall, and decking. The results exceeded my expectations.",
+      "context": "Pool & Spa Renovation",
+      "initials": "JW"
     },
     {
       "name": "Lisa M.",
-      "context": "Pool, spa & deck rehab",
-      "initials": "LM",
-      "text": "Armando and his entire crew did a fabulous rehab of our pool, spa and pool deck after 25 years of deterioration. They brought everything back to life beautifully."
+      "text": "A fabulous rehab of our pool, spa and pool deck that had severely deteriorated. The team was professional and thorough throughout the entire process.",
+      "context": "Pool & Deck Rehabilitation",
+      "initials": "LM"
     },
     {
-      "name": "Gionni V.",
-      "context": "Pool replastering",
-      "initials": "GV",
-      "text": "Quality work from office staff to field workers. Outstanding pool replastering results. Ocean Springs Tech is the real deal — professional, reliable, and top-notch craftsmanship."
+      "name": "Silversands Community",
+      "text": "Ocean Springs maintains 15 pools in our community and is exceptionally responsible in ensuring all pools are well maintained. Highly recommend.",
+      "context": "Commercial Pool Maintenance",
+      "initials": "SC"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free, no-obligation consultation from the Coachella Valley's most trusted pool experts. 30 years of experience, A+ BBB rated, and a 4-hour average response time.",
+    "headline": "Let's Build Your Dream Pool",
+    "subtitle": "Call us, email us, or fill out the form below. We respond within 4 hours on average.",
     "benefits": [
       "Free on-site consultation & estimate",
-      "Average 4-hour response time",
-      "30+ years of trusted expertise"
+      "100% response rate -- we always get back to you",
+      "Serving the Coachella Valley for 30+ years"
     ]
   },
   "footer": {
-    "description": "Coachella Valley's trusted pool experts since 1996. Serving residential and commercial clients for 30+ years.",
-    "service_area": "Serving the Greater Coachella Valley — Desert Hot Springs to Banning",
+    "description": "Ocean Springs Tech has been designing and building custom pools, spas, and water features across the Coachella Valley since 1996. Licensed, bonded, insured, and BBB A+ rated.",
+    "service_area": "Serving Desert Hot Springs, Palm Springs, Palm Desert, Cathedral City, Rancho Mirage, Indian Wells, La Quinta, Indio, Bermuda Dunes, Thousand Palms & Banning",
     "services": [
-      "Pool Construction",
+      "Pool & Spa Construction",
       "Pool Remodeling",
-      "Weekly Maintenance",
-      "Water Features",
-      "Decks & Tile"
+      "Maintenance Programs",
+      "Water Features & Fountains",
+      "Concrete & Decking"
     ],
-    "copyright": "&copy; 2024 Ocean Springs Tech, Inc. All rights reserved. CA Lic #1053509 &amp; #920435"
+    "copyright": "Ocean Springs Tech, Inc."
   }
 }

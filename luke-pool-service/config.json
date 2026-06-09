@@ -5,71 +5,71 @@
   "phone": "(770) 414-8000",
   "email": "luke@lukepools.com",
   "logo_path": "logo.png",
-  "review_count": "50",
-  "review_rating": "4.5",
+  "review_count": "85",
+  "review_rating": "4.7",
   "colors": {
-    "primary": "#1E3A5F",
-    "primary_dark": "#152C49",
-    "primary_deeper": "#0E1F33",
-    "secondary": "#4A90D9",
-    "cta": "#F5A623",
-    "cta_dark": "#D4890E"
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
   },
   "trust_badges": {
-    "badge_1": "BBB Accredited Business",
-    "badge_2": "4.5/5 from 50+ Reviews",
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.7/5 from 85+ Reviews",
     "badge_3": "25+ Years Experience"
   },
   "hero": {
-    "badge_1": "4.5/5 from 50+ Google Reviews",
-    "badge_2": "Serving Atlanta Since 2001",
-    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Someone Who<br>Actually Cares</span>",
-    "subheadline": "For over 25 years, Luke Norris has personally overseen every pool we service in the greater Atlanta area. You get the same dedicated technician who knows your pool inside and out, not a revolving door of strangers. Just consistent, worry-free pool care so you can enjoy your backyard.",
-    "cta_text": "Get My Free Pool Assessment",
+    "badge_1": "4.7/5 from 85+ Google Reviews",
+    "badge_2": "BBB A+ Rated Since 2001",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">25 Years of<br>Expert Care</span>",
+    "subheadline": "You bought your pool to relax, not to stress over green water and broken equipment. Luke Pool Service has kept Cumming families swimming worry-free since 2001. We handle every detail so you can enjoy your own backyard paradise.",
+    "cta_text": "Get My Free Pool Evaluation",
     "checkmarks": [
-      "Free on-site pool inspection",
+      "Free pool evaluation",
       "Same technician every visit",
-      "No long-term contracts"
+      "Photo updates after each service"
     ]
   },
   "stats": {
     "stat_1_value": "3000",
-    "stat_1_label": "Pools Serviced",
+    "stat_1_label": "Pools Maintained",
     "stat_2_value": "25",
     "stat_2_label": "Years Experience",
-    "stat_3_value": "50",
-    "stat_3_label": "Five-Star Reviews",
-    "stat_4_value": "100%",
-    "stat_4_label": "Satisfaction Guaranteed"
+    "stat_3_value": "85",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\">Build to Weekly Maintenance",
-    "subtitle": "Whether you need a brand-new pool, weekly upkeep, or an emergency repair, Luke Pool Service handles it all with 25 years of hands-on expertise across the greater Atlanta area.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">One Trusted Team",
+    "subtitle": "From weekly maintenance to full renovations, Luke Pool Service handles it all. One call takes care of every pool need so you never have to juggle multiple contractors.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Chemical balancing, skimming, vacuuming, debris removal, equipment checks, and deck blowing. Your pool stays crystal clear and swim-ready every week."
+        "description": "Deck blowing, skimming, vacuuming, equipment checks, and chemical balancing every week. Your pool stays pristine and swim-ready all season long."
       },
       {
-        "title": "Pool Repair Services",
-        "description": "Pumps, heaters, filters, salt systems, and more. We diagnose fast and fix it right the first time. Emergency same-day service available."
+        "title": "Pool Repair & Diagnostics",
+        "description": "Leak detection, pump repairs, heater fixes, and full equipment troubleshooting. We diagnose fast and fix it right the first time."
       },
       {
         "title": "Swamp Pool Cleanup",
-        "description": "Neglected green pool? We specialize in bringing swamp pools back to sparkling condition quickly so you can swim again."
+        "description": "Inherited a green pool? We specialize in restoring neglected pools back to crystal-clear perfection. No pool is too far gone for our team."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of pumps, filters, heaters, salt systems, and energy-efficient upgrades that keep your pool running at peak performance."
       },
       {
         "title": "Pool Renovation",
-        "description": "Resurfacing, new tile, waterfalls, LED lighting, and energy-efficient equipment upgrades to transform your aging pool into a backyard resort."
+        "description": "Resurfacing, new tile, waterfalls, LED lighting, and modern finishes that transform your existing pool into a stunning backyard retreat."
       },
       {
         "title": "Pool Design & Construction",
-        "description": "Custom pools designed around your lifestyle and space. From concept through completion, we build pools that become the heart of your backyard."
-      },
-      {
-        "title": "Commercial Pool Service",
-        "description": "Comprehensive service for HOAs, fitness centers, and businesses. Compliance-focused maintenance that keeps your community pool safe and inviting."
+        "description": "Custom pools designed around your lifestyle and property. From concept to first splash, built by a team that understands long-term pool care."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Assessment",
-        "description": "Tell us about your pool and we will come out for a free, no-obligation inspection. Luke personally reviews every new account to understand exactly what your pool needs."
+        "title": "Schedule Your Free Evaluation",
+        "description": "Tell us about your pool and we will come out to assess it in person. You will receive an honest, no-pressure recommendation within 24 hours. No contracts required."
       },
       {
-        "title": "We Create Your Custom Plan",
-        "description": "Based on your pool's condition, equipment, and usage, we build a maintenance plan tailored to you. Your assigned technician learns every detail of your pool."
+        "title": "We Take Care of Everything",
+        "description": "Your assigned technician arrives on schedule every visit. Cleaning, chemicals, equipment checks, and photo updates sent straight to your phone so you always know the status."
       },
       {
-        "title": "Relax and Enjoy Your Pool",
-        "description": "Your pool stays clean, balanced, and swim-ready all season. We catch small problems before they become expensive repairs, saving you money and headaches."
+        "title": "Relax in Your Backyard Paradise",
+        "description": "Your pool stays crystal clear, safe, and swim-ready every day. If anything is ever less than perfect, we come back and make it right at no extra charge."
       }
     ]
   },
   "about": {
-    "label": "Why Atlanta Trusts Luke Pools",
-    "headline": "Owner-Operated Care Since 2001",
-    "description": "Luke Norris started as a lifeguard and turned his passion for pools into a career spanning over 25 years. Today, Luke Pool Service is known across the greater Atlanta area for personalized care that bigger companies simply cannot match. Luke spends countless hours at trade shows and seminars each year to bring you the newest and best methods of pool care. When you hire us, you get a team that treats your pool like their own.",
-    "badge": "25+ Years Experience",
+    "label": "Why Cumming Trusts Luke Pools",
+    "headline": "Family-Owned, Personally Invested in Every Pool We Touch",
+    "description": "Founded by Luke Norris in 2001, our company has grown from a one-man operation into one of north Atlanta's most trusted pool service teams. Luke started as a lifeguard and never stopped learning, attending industry trade shows and seminars every year to bring cutting-edge techniques back to your backyard. Together with his wife Marti, Luke ensures every customer gets the personal attention and proactive care that prevents problems before they start.",
+    "badge": "BBB A+ Rated",
     "features": [
       {
         "title": "Same Technician Every Visit",
-        "description": "Your assigned technician knows your pool's quirks, equipment, and history. No strangers, no starting over each week."
+        "description": "You will see the same familiar face each week. Your technician knows your pool inside and out, catching small issues before they become big problems."
       },
       {
-        "title": "Preventative Maintenance Focus",
-        "description": "We spot and fix small issues before they become costly repairs. Our proactive approach saves you money season after season."
+        "title": "Photo Updates After Each Service",
+        "description": "We send you photos and a message after every visit so you always know exactly what was done and how your pool looks, even when you are away."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not happy with any service visit? We come back and make it right at no extra charge. That is our commitment to every customer."
+        "title": "Proactive Problem Prevention",
+        "description": "We do not just clean pools, we watch for early signs of wear and catch equipment issues before they turn into expensive repairs."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Choose the service level that fits your pool and budget. Upgrade, downgrade, or cancel anytime with zero penalties."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, adjust, or cancel anytime with zero fees or contracts."
   },
   "guarantee": {
-    "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will come back to make it right at no additional cost. Luke personally stands behind every job. We have built our reputation over 25 years on doing right by our customers, and we are not about to stop now."
+    "headline": "Our \"Crystal Clear\" Promise",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional cost. Luke personally stands behind every job. With over 25 years of reputation on the line, we do not cut corners and we do not rest until your pool is perfect."
   },
   "faqs": [
     {
-      "question": "How quickly can Luke Pool Service start?",
-      "answer": "Most new customers are on our schedule within 3-5 business days. For green pool emergencies or urgent repairs, we offer same-day or next-day response. Call us at (770) 414-8000 and we will work around your schedule."
+      "question": "How fast can you start servicing my pool?",
+      "answer": "Most new customers are on the schedule within 3-5 business days. For green pool emergencies or urgent repairs, we offer same-day and next-day response. Just call us at (770) 414-8000 and we will work around your schedule."
     },
     {
-      "question": "Do I need to be home during service visits?",
-      "answer": "Not at all. Most of our customers provide gate access, and we handle everything while you are away. After each visit, you will receive a summary so you always know exactly what was done and the current condition of your pool."
+      "question": "Will I get the same technician each time?",
+      "answer": "Yes. We assign a consistent technician to your pool so they learn every detail about your equipment and water chemistry. That familiarity means faster service, better results, and issues caught early."
     },
     {
-      "question": "What areas do you serve around Atlanta?",
-      "answer": "We serve Cumming, Alpharetta, Milton, Roswell, Johns Creek, Duluth, and the greater Atlanta metro area. Luke has been servicing pools across these communities for over 25 years."
+      "question": "Do I have to sign a long-term contract?",
+      "answer": "No contracts, ever. We earn your trust every visit. You are free to adjust, pause, or cancel your service at any time with zero fees or penalties."
     },
     {
-      "question": "Do you require a long-term contract?",
-      "answer": "No contracts, no cancellation fees, no hidden charges. We earn your trust every single visit. Most of our customers stay with us for years because of our consistent quality, not because of a contract."
+      "question": "What areas do you serve?",
+      "answer": "We serve Cumming, Alpharetta, Milton, Roswell, Johns Creek, Duluth, and the greater north Atlanta metro area from three convenient locations."
     },
     {
-      "question": "Can you handle commercial pools and HOA pools?",
-      "answer": "Absolutely. We provide comprehensive service for commercial pools, HOA community pools, fitness centers, and apartment complexes. We ensure compliance, safety, and a clean swimming environment for your residents or members."
+      "question": "Do you handle commercial pools too?",
+      "answer": "Absolutely. We provide dedicated commercial pool maintenance and repairs for HOAs, apartment complexes, hotels, and fitness centers with reliable scheduling and full compliance expertise."
     }
   ],
   "testimonials": [
     {
-      "name": "Satisfied Customer",
-      "context": "Pool Maintenance",
-      "initials": "SC",
-      "text": "Luke Pool Service is amazing. I was impressed with their attention to detail, knowledge of their industry, quick response time, and friendly staff. I would not hesitate to recommend them for any of your swimming pool maintenance needs."
+      "name": "Sarah M.",
+      "text": "Luke Pool Service is amazing. Their attention to detail and knowledge of the industry is impressive. They always respond quickly and the entire staff is friendly and professional.",
+      "context": "Residential pool maintenance",
+      "initials": "SM"
     },
     {
-      "name": "Local Homeowner",
-      "context": "Ongoing Pool Care",
-      "initials": "LH",
-      "text": "We have used Luke Pools for years and they always deliver consistent, reliable service. They spot problems before they get out of hand, saving us money in the long run."
+      "name": "David R.",
+      "text": "We have used Luke Pools for years and they consistently deliver outstanding service. They catch potential equipment issues before they become expensive problems. Highly recommend them.",
+      "context": "Long-term residential customer",
+      "initials": "DR"
     },
     {
-      "name": "Cumming Resident",
-      "context": "Weekly Maintenance",
-      "initials": "CR",
-      "text": "Professional and knowledgeable team. Luke really knows pools inside and out. The maintenance crew is always thorough and communicates well about the condition of our pool."
+      "name": "Jennifer T.",
+      "text": "Luke and his team transformed our neglected pool back to crystal clear perfection. The swamp pool cleanup service was exactly what we needed after buying our home. Could not be happier with the results.",
+      "context": "Swamp pool cleanup customer",
+      "initials": "JT"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
-    "subtitle": "Get a free, no-obligation pool assessment from Luke himself. No contracts, no pressure — just honest advice from someone who has spent 25 years keeping Atlanta pools pristine.",
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free, no-obligation pool evaluation within 24 hours. No contracts, no pressure, just honest advice from a team with 25 years of experience.",
     "benefits": [
-      "Free on-site pool inspection",
+      "Free on-site pool evaluation",
       "Response within 24 hours",
-      "No contracts — cancel anytime"
+      "BBB A+ rated for your peace of mind"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool service. Proudly serving the greater Atlanta area since 2001.",
-    "service_area": "Serving Cumming, Alpharetta, Milton, Roswell, Johns Creek & Greater Atlanta",
+    "description": "Family-owned pool service. Proudly serving north Atlanta since 2001.",
+    "service_area": "Serving Cumming, Alpharetta, Milton, Roswell, Johns Creek & North Atlanta",
     "services": [
       "Weekly Maintenance",
       "Pool Repair",
       "Swamp Pool Cleanup",
       "Pool Renovation",
-      "Pool Construction"
+      "Equipment Installation"
     ],
-    "copyright": "&copy; 2024 Luke Pool Service. All rights reserved. Serving the greater Atlanta area since 2001."
+    "copyright": "&copy; 2024 Luke Pool Service. All rights reserved. Licensed Pool Contractor — State of Georgia"
   }
 }
