@@ -6,29 +6,30 @@
   "email": "craig@outdoorinnovations.com",
   "review_count": "50",
   "review_rating": "4.3",
+  "logo_path": "",
   "colors": {
-    "primary": "#2D5A27",
-    "primary_dark": "#1E3D1A",
-    "primary_deeper": "#132710",
-    "secondary": "#D4A843",
-    "cta": "#D4A843",
-    "cta_dark": "#B8922E"
+    "primary": "#2D5A3D",
+    "primary_dark": "#1E3D2A",
+    "primary_deeper": "#142A1D",
+    "secondary": "#C8965A",
+    "cta": "#C8965A",
+    "cta_dark": "#A87A45"
   },
   "trust_badges": {
     "badge_1": "ICPI Certified Installers",
     "badge_2": "4.3/5 from 50+ Reviews",
-    "badge_3": "Serving MN Since 2007"
+    "badge_3": "Belgard Award Winner"
   },
   "hero": {
     "badge_1": "4.3/5 from 50+ Google Reviews",
-    "badge_2": "19 Years of Excellence",
-    "headline": "Your Dream Backyard, <span class=\"text-secondary italic\">Built to Last</span>",
-    "subheadline": "From custom pools to complete outdoor living spaces, Outdoor Innovations transforms Minnesota backyards into private retreats. Two decades of craftsmanship, one team dedicated to getting every detail right.",
-    "cta_text": "Start My Backyard Transformation",
+    "badge_2": "Serving the Twin Cities Since 2007",
+    "headline": "Your Dream Backyard, <span class=\"text-secondary italic\">Built by<br>the Owners</span>",
+    "subheadline": "Your backyard should be where memories happen -- not a project that drags on for months. Outdoor Innovations delivers custom pools, patios, kitchens, and complete outdoor living spaces with hands-on owner involvement from design day to your first evening under the lights.",
+    "cta_text": "Start Your Backyard Transformation",
     "checkmarks": [
       "Free design consultation",
-      "ICPI-certified craftsmen",
-      "Full-service customization"
+      "Owner-managed every project",
+      "19 years of craftsmanship"
     ]
   },
   "stats": {
@@ -37,147 +38,147 @@
     "stat_2_value": "19",
     "stat_2_label": "Years in Business",
     "stat_3_value": "2",
-    "stat_3_label": "Twin Cities Locations",
+    "stat_3_label": "Hands-On Owners",
     "stat_4_value": "100%",
-    "stat_4_label": "Custom Designed"
+    "stat_4_label": "Owner-Managed Projects"
   },
   "services": {
     "label": "Our Specialties",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> From Vision to Reality",
-    "subtitle": "Stop imagining what your backyard could be. Our team of designers and craftsmen handle every detail, from the first sketch to the final stone, so you can start living outdoors sooner.",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Built From the Ground Up",
+    "subtitle": "From custom pools and fire features to outdoor kitchens and full landscape design, we handle every element of your backyard transformation under one roof.",
     "cards": [
       {
         "title": "Custom In-Ground Pools",
-        "description": "Tailored pool designs for Minnesota backyards. We handle everything from excavation to finishing so you get the private oasis you have been dreaming about."
+        "description": "Tailored pool designs that complement your yard, lifestyle, and home architecture. Complete with pool houses and surrounding hardscape to create the ultimate backyard retreat."
       },
       {
         "title": "Outdoor Kitchens & Bars",
-        "description": "Fully equipped cooking and entertaining spaces featuring grills, countertops, and bars. Host unforgettable gatherings right in your backyard."
-      },
-      {
-        "title": "Decks & Porches",
-        "description": "Custom-built structures that seamlessly connect your home to your landscape, creating the perfect transition from indoor comfort to outdoor beauty."
+        "description": "Fully equipped cooking and entertaining areas with custom countertops, built-in grills, and bar seating designed to make every gathering unforgettable."
       },
       {
         "title": "Patios & Hardscaping",
-        "description": "ICPI-certified paver installations, walkways, and hardscape elements that add lasting beauty and durability to your outdoor space."
+        "description": "Premium paver patios and natural stone surfaces installed by ICPI-certified craftsmen. Durable, stunning, and built to last decades in Wisconsin weather."
+      },
+      {
+        "title": "Pergolas & Shade Structures",
+        "description": "Handcrafted pergolas, gazebos, and covered structures that add shade, style, and architectural elegance to any outdoor living space."
       },
       {
         "title": "Fire & Water Features",
-        "description": "Custom fire pits, fireplaces, fountains, and water features that create ambiance and become the centerpiece of your outdoor living area."
+        "description": "Custom fire pits, fireplaces, waterfalls, and fountains that create a dramatic focal point and keep your family gathered outdoors year-round."
       },
       {
-        "title": "Pergolas & Pool Houses",
-        "description": "Architectural shade structures and functional pool houses that add character, shelter, and year-round usability to your backyard retreat."
+        "title": "Landscape Design & Build",
+        "description": "Full-service landscape architecture including plantings, retaining walls, lighting, and grading solutions that complete your outdoor transformation beautifully."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Backyard",
+    "headline": "Three Steps to Your Perfect Backyard",
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "Tell us how you want to live outdoors. Our designers visit your property, listen to your ideas, and create a custom plan that fits your space, style, and budget."
+        "description": "Tell us about your dream backyard. You will meet directly with owners Asher or Craig for a free on-site design consultation -- no salespeople, no pressure, just honest expertise."
       },
       {
-        "title": "Watch It Come to Life",
-        "description": "Our experienced crews — led by foremen with 10+ years of experience — build your project with premium materials and meticulous attention to every detail."
+        "title": "We Design & Build It",
+        "description": "Our ICPI-certified crew brings your vision to life with premium materials and meticulous craftsmanship. You will have direct owner communication every step of the way."
       },
       {
-        "title": "Make Memories",
-        "description": "Step into a backyard that feels like a resort. Host, relax, and enjoy the outdoor living space your family deserves. We stand behind every project we build."
+        "title": "Make Memories Outside",
+        "description": "Your new outdoor living space is ready for family dinners, pool days, and evenings by the fire. We stand behind every project with our quality guarantee."
       }
     ]
   },
   "about": {
-    "label": "Why Minnesota Trusts Us",
-    "headline": "Two Founders, One Shared Passion for Outdoor Living",
-    "description": "Co-founders Asher Judd and Craig Palmer each ran successful landscaping companies for six years before joining forces in 2007 to create Outdoor Innovations. With headquarters in Hugo and Excelsior, their team of experienced designers and craftsmen has been transforming Twin Cities backyards into luxurious outdoor retreats ever since. Every project is custom-designed, built with premium materials, and backed by nearly two decades of hands-on expertise.",
+    "label": "Why Homeowners Choose Us",
+    "headline": "Two Owners, One Promise: Your Backyard Done Right",
+    "description": "Founded in 2007 by Asher Judd and Craig Palmer -- each with landscaping roots going back to 2001 -- Outdoor Innovations has spent 19 years transforming backyards across the Twin Cities and western Wisconsin. We are not a big corporate outfit that sends a random crew to your house. You work directly with us, the owners, from first sketch to final walkthrough. That is how we have earned a Belgard World Class Award and multiple Best of Houzz honors.",
     "badge": "ICPI Certified",
     "features": [
       {
-        "title": "19 Years of Proven Expertise",
-        "description": "Founded in 2007 by two veteran landscapers, our foremen average 10+ years of experience building Minnesota outdoor living spaces."
+        "title": "Owner-Managed, Every Project",
+        "description": "Asher and Craig personally oversee every build. No project managers, no middlemen -- you deal with the people who built this company."
       },
       {
-        "title": "Full-Service Customization",
-        "description": "From pools and patios to kitchens and fire features, one team handles your entire project. No subcontractors, no finger-pointing."
+        "title": "Award-Winning Craftsmanship",
+        "description": "Belgard World Class Award winners and multiple Best of Houzz honorees. Our ICPI-certified installers deliver elite-level hardscape quality."
       },
       {
-        "title": "Certified Quality Guarantee",
-        "description": "ICPI-certified installers, MNLA members, and premium materials on every job. We build it right the first time, every time."
+        "title": "Full-Service Design-Build",
+        "description": "Pools, kitchens, patios, pergolas, fire features, landscaping -- one team handles everything so your project stays on time and on budget."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. Premium Craftsmanship.",
-    "subtitle": "Every project is custom-designed for your space. Request a free consultation and we will provide a detailed, no-surprise quote."
+    "headline": "Transparent Pricing. No Surprise Extras.",
+    "subtitle": "Every project gets a detailed written estimate before we break ground. We quote what we mean and build what we quote."
   },
   "guarantee": {
-    "headline": "Our \"Built to Last\" Promise",
-    "description": "We stand behind every project with the same pride we had laying the first stone in 2007. If any element of our craftsmanship does not meet the standard we promised, we come back and make it right at no additional cost. Your backyard is our reputation, and we protect both."
+    "headline": "Our \"Built to Last\" Guarantee",
+    "description": "If any element of our work does not meet the standard we promised, we come back and make it right at our expense. We have built our reputation on standing behind every patio, pool, and pergola we install -- and after 19 years, that is not about to change."
   },
   "faqs": [
     {
       "question": "How long does a typical backyard project take?",
-      "answer": "Timelines vary by scope. A patio or fire feature might take 1-2 weeks, while a full backyard transformation with pool, kitchen, and hardscaping can take 6-10 weeks. We provide a detailed timeline during your design consultation so there are no surprises."
+      "answer": "Project timelines vary by scope. A patio or fire feature can be completed in 1-2 weeks. Full backyard transformations with pools and outdoor kitchens typically run 6-12 weeks. We provide a detailed timeline during your design consultation so you know exactly what to expect."
     },
     {
-      "question": "Do you handle the entire project or just parts of it?",
-      "answer": "We are a full-service outdoor living company. Pools, patios, kitchens, fire features, decks, pergolas — our team handles everything in-house. One point of contact, one crew, one company standing behind the finished result."
+      "question": "Do you handle the entire project or just part of it?",
+      "answer": "We are a full-service design-build firm. That means we handle everything from the initial design and permits to construction, landscaping, and final walkthrough. One team, one point of contact, one seamless experience."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve the entire Twin Cities metro area including Minneapolis, Saint Paul, Woodbury, Minnetonka, Stillwater, Eagan, and Lake Elmo, plus Western Wisconsin communities like Hudson and New Richmond. Our two offices in Hugo and Excelsior keep us close to our clients."
+      "question": "Do you serve both Minnesota and Wisconsin?",
+      "answer": "Yes. We serve the Twin Cities metro, western Wisconsin including Hudson and New Richmond, and surrounding communities like Woodbury, Stillwater, Lake Elmo, and Minnetonka. If you are within our service area, we will come to you for a free consultation."
     },
     {
-      "question": "Can you work with my existing landscape?",
-      "answer": "Absolutely. Many of our projects involve enhancing or transforming existing outdoor spaces. Our designers assess your current landscape and create a plan that works with what you have while bringing your new vision to life."
+      "question": "What makes your hardscape work different?",
+      "answer": "Our installers are ICPI certified -- the gold standard in the paver industry. We won the Belgard World Class Award in 2012 and have earned multiple Best of Houzz honors. Every base layer, every cut, every joint is done to the highest specification."
     },
     {
-      "question": "What certifications does your team hold?",
-      "answer": "We are ICPI certified (Interlocking Concrete Pavement Institute), members of the Minnesota Nursery and Landscape Association (MNLA), and NFIB members. Our foremen average over 10 years of experience in outdoor construction."
+      "question": "Can I start with a small project and add more later?",
+      "answer": "Absolutely. Many clients start with a patio or fire pit and come back for a pool or outdoor kitchen later. We design with future phases in mind so everything connects and flows naturally when you are ready to expand."
     }
   ],
   "testimonials": [
     {
-      "name": "Catherine R.",
-      "context": "Pool Project, Hugo MN",
-      "initials": "CR",
-      "text": "We just finished a backyard pool project with Outdoor Innovations and it turned out absolutely beautiful! The team was professional from start to finish and the result exceeded our expectations."
-    },
-    {
       "name": "Catherine J.",
-      "context": "Hardscaping Project",
+      "context": "Pool & Hardscape Project",
       "initials": "CJ",
-      "text": "Asher's teams thoughtfully, artistically, and precisely placed each piece with great care. The attention to detail was remarkable and our patio looks like it belongs in a magazine."
+      "text": "Asher created an exceptional landscape design of the pool placement and hardscape that organically flowed with our home, deck, and yard. He thoughtfully, artistically, and precisely placed each piece with great care."
     },
     {
       "name": "Karen M.",
-      "context": "Landscape Design",
+      "context": "Backyard Oasis Project",
       "initials": "KM",
-      "text": "From the initial design to completion, the professionalism and expertise were evident every step of the way. They truly care about delivering a backyard you will love for years."
+      "text": "Craig and his team did an outstanding job creating a backyard oasis for us. From the initial design to completion, the professionalism and expertise were evident every step of the way."
+    },
+    {
+      "name": "Nathan M.",
+      "context": "Landscape Installation",
+      "initials": "NM",
+      "text": "I am delighted to share my exceptional experience working with Casey and Tiano from Outdoor Innovations. The installation went smooth with very good results. Highly recommend this team."
     }
   ],
   "contact": {
     "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free design consultation with our team. We will visit your property, listen to your vision, and create a custom plan — no pressure, no obligations.",
+    "subtitle": "Get a free design consultation with one of our owners. No salespeople, no pressure -- just honest advice from the people who will actually build your project.",
     "benefits": [
       "Free on-site design consultation",
-      "Detailed project timeline and quote",
-      "ICPI-certified craftsmanship guaranteed"
+      "Direct communication with owners",
+      "Detailed written estimate before any work begins"
     ]
   },
   "footer": {
-    "description": "Full-service outdoor living company. Transforming Twin Cities backyards since 2007.",
+    "description": "Design-build outdoor living specialists. Serving the Twin Cities and western Wisconsin since 2007.",
     "service_area": "Serving the Twin Cities Metro & Western Wisconsin",
     "services": [
       "Custom Pools",
       "Outdoor Kitchens",
       "Patios & Hardscaping",
-      "Fire & Water Features",
-      "Decks & Pergolas"
+      "Pergolas & Gazebos",
+      "Fire Features"
     ],
-    "copyright": "&copy; 2024 Outdoor Innovations Landscaping. All rights reserved. Hugo & Excelsior, MN"
+    "copyright": "&copy; 2024 Outdoor Innovations Landscaping. All rights reserved. New Richmond, WI"
   }
 }

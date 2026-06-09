@@ -1,41 +1,41 @@
 {
   "folder_name": "american-leak-detection-sacramento",
   "company_name": "American Leak Detection of Sacramento",
-  "tagline": "The Industry Leader in Accurate, Non-Destructive Water Leak Detection and Plumbing Repair",
+  "tagline": "Non-Destructive Leak Detection & Repair",
   "phone": "+1 916-245-2437",
   "email": "officestaff@americanleakdetect.com",
-  "review_count": "102",
+  "review_count": "146",
   "review_rating": "4.7",
   "colors": {
-    "primary": "#003A70",
-    "primary_dark": "#002952",
-    "primary_deeper": "#001A36",
-    "secondary": "#0077C8",
-    "cta": "#E31837",
-    "cta_dark": "#C21530"
+    "primary": "#003DA5",
+    "primary_dark": "#002B75",
+    "primary_deeper": "#001A4A",
+    "secondary": "#E31937",
+    "cta": "#E31937",
+    "cta_dark": "#B81430"
   },
   "trust_badges": {
     "badge_1": "Licensed, Bonded & Insured",
-    "badge_2": "4.7/5 from 102+ Reviews",
+    "badge_2": "4.7/5 from 146+ Reviews",
     "badge_3": "CA License #393393"
   },
   "hero": {
-    "badge_1": "4.7/5 from 102+ Google Reviews",
-    "badge_2": "43+ Years of Expertise",
+    "badge_1": "4.7/5 from 146+ Google Reviews",
+    "badge_2": "40+ Years Serving Sacramento",
     "headline": "Find Hidden Leaks <span class=\"text-secondary italic\">Without<br>the Destruction</span>",
-    "subheadline": "Leaks hide. We find them — fast, accurately, and without tearing up your property. For over 43 years, Sacramento families and businesses have trusted American Leak Detection to protect their homes with non-invasive technology that pinpoints problems other companies miss.",
-    "cta_text": "Get Your Free Leak Estimate",
+    "subheadline": "Your property is too valuable for guesswork. American Leak Detection of Sacramento uses advanced, non-invasive technology to pinpoint leaks under slabs, in pools, and behind walls -- so you get answers fast without tearing up your home.",
+    "cta_text": "Schedule My Leak Detection",
     "checkmarks": [
-      "Free estimates before dispatch",
-      "Non-destructive detection methods",
-      "Same-week appointments available"
+      "Non-destructive detection",
+      "Same-week appointments",
+      "Detection through repair"
     ]
   },
   "stats": {
     "stat_1_value": "10000",
-    "stat_1_label": "Leaks Found",
-    "stat_2_value": "43",
-    "stat_2_label": "Years in Business",
+    "stat_1_label": "Leaks Found & Fixed",
+    "stat_2_value": "40",
+    "stat_2_label": "Years Experience",
     "stat_3_value": "9",
     "stat_3_label": "Counties Served",
     "stat_4_value": "4.7★",
@@ -43,141 +43,141 @@
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Leak Detection That Protects<br class=\"hidden md:block\"> Your Property & Wallet",
-    "subtitle": "Hidden leaks cost Sacramento homeowners thousands in water bills and property damage every year. Our advanced, non-invasive technology finds the source fast — so you stop wasting water and start saving money.",
+    "headline": "Leak Detection & Repair That<br class=\"hidden md:block\"> Protects Your Property",
+    "subtitle": "From pools to sewer lines, slabs to sprinklers -- we find leaks other companies miss. Our non-destructive technology means no unnecessary digging, no guesswork, and no surprises.",
     "cards": [
       {
-        "title": "Home Leak Detection",
-        "description": "Advanced sound and thermal imaging technology pinpoints leaks behind walls, under floors, and in ceilings — no unnecessary demolition required."
-      },
-      {
         "title": "Pool & Spa Leak Detection",
-        "description": "Specialized equipment finds leaks in pools, spas, and water features without draining or digging. We locate it, then fix it right."
+        "description": "Expert detection and repair of leaks in swimming pools, spas, and water features using non-invasive technology that pinpoints the exact location without excavation."
       },
       {
         "title": "Slab & Foundation Leaks",
-        "description": "Leaks under concrete slabs cause serious structural damage. We detect them precisely and offer spot repairs or full PEX re-pipes."
+        "description": "Hidden leaks beneath concrete slabs cause costly structural damage. Our advanced acoustic and electronic equipment finds them fast -- before the damage spreads."
       },
       {
-        "title": "Sewer Line Detection",
-        "description": "Broken sewer lines create health hazards and costly damage. Our non-invasive methods locate the problem before excavation begins."
+        "title": "Sewer Line Detection & Repair",
+        "description": "Non-destructive identification and repair of damaged sewer lines. We minimize disruption to your property while resolving drainage and sewage issues completely."
       },
       {
         "title": "Irrigation System Leaks",
-        "description": "Hidden irrigation leaks waste thousands of gallons monthly. We find breaks and blockages fast to restore efficiency and cut your water bill."
+        "description": "Underground irrigation leaks cause high water bills and landscape damage. Our precision equipment locates the exact leak point so repairs are quick and targeted."
       },
       {
-        "title": "High Water Bill Investigation",
-        "description": "Unexplained spike in your water bill? We trace the source with precision equipment and provide a clear repair plan before any work begins."
+        "title": "Mystery Leak Investigation",
+        "description": "Unexplained water damage, moisture, or mold? We use state-of-the-art non-invasive detection technology to find the source when nobody else can."
+      },
+      {
+        "title": "High Water Bill Analysis",
+        "description": "Skyrocketing water bill with no explanation? We conduct a comprehensive plumbing investigation to find and fix the hidden leaks draining your wallet."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Finding Your Leak",
+    "headline": "Three Steps to Leak-Free Peace of Mind",
     "steps": [
       {
-        "title": "Call for a Free Estimate",
-        "description": "Describe the signs you're seeing — high water bill, wet spots, running meter. We'll provide an honest estimate before we even dispatch a technician."
+        "title": "Call for Your Assessment",
+        "description": "Describe your concern -- rising water bill, damp spot, pool losing water. We'll schedule a convenient appointment, often within the same week."
       },
       {
-        "title": "Non-Invasive Detection",
-        "description": "Our licensed technicians arrive with advanced sound, thermal imaging, and proprietary detection equipment to pinpoint your leak's exact location — without tearing anything apart."
+        "title": "We Detect & Diagnose",
+        "description": "Our licensed technicians arrive with advanced electronic and acoustic equipment. We pinpoint the exact leak location non-destructively -- no tearing up your property."
       },
       {
         "title": "Repair & Restore",
-        "description": "Once located, we recommend the most cost-effective fix — spot repair when possible, or modern PEX piping alternatives. Your property stays intact and your leak is gone."
+        "description": "Once located, we handle the repair on the spot whenever possible. You get a complete solution from detection through restoration, all from one trusted team."
       }
     ]
   },
   "about": {
     "label": "Why Sacramento Trusts Us",
-    "headline": "Family-Owned, Locally Operated — Since 1983",
-    "description": "As the fifth American Leak Detection franchise ever established in the nation, we've been protecting Sacramento-area homes and businesses for over 43 years. We're a family-owned, local company that combines national-brand technology with the personal attention only a local operator can deliver. Every technician is trained in our proprietary detection methods — finding leaks others miss, while keeping your property intact.",
-    "badge": "CA Lic #393393",
+    "headline": "Family-Owned, Locally Rooted, Nationally Backed",
+    "description": "As the fifth American Leak Detection franchise ever established in the USA, we have been protecting Sacramento-area properties since 1983. Family-owned and operated from our Roseville headquarters, we combine four decades of proprietary detection technology with the personal care of a local business. Our licensed technicians treat your home like their own -- because this is our community too.",
+    "badge": "CA License #393393",
     "features": [
       {
         "title": "Non-Destructive Technology",
-        "description": "Our advanced sound and thermal imaging equipment locates leaks without cutting, digging, or demolishing your property."
+        "description": "Our proprietary electronic and acoustic equipment finds leaks without tearing up floors, walls, or landscaping. Precise results, minimal disruption."
       },
       {
-        "title": "Free Estimates, No Surprises",
-        "description": "We provide honest estimates before dispatch. You know the cost before we arrive — no hidden fees, no pressure."
+        "title": "40+ Years of Expertise",
+        "description": "One of the first ALD franchises in the nation. Four decades of specialized leak detection experience means we find what others miss."
       },
       {
-        "title": "43+ Years of Proven Results",
-        "description": "One of the original ALD franchises in America. Four decades of experience means we've seen and solved every type of leak."
+        "title": "Detection Through Repair",
+        "description": "We do not just find the leak and leave. Our team handles the complete repair so you get one company, one call, one solution."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Guesswork.",
-    "subtitle": "Every job starts with a free estimate before dispatch. We explain the scope, the cost, and your options — so you're never caught off guard."
+    "headline": "Straightforward Pricing. No Surprise Fees.",
+    "subtitle": "Every job starts with an honest assessment. We explain what we find, what it costs, and you decide -- no pressure, no hidden charges."
   },
   "guarantee": {
-    "headline": "Our \"Find It or It's Free\" Promise",
-    "description": "We stand behind every detection with over 43 years of proven accuracy. If we can't locate your leak using our advanced equipment and proprietary methods, you don't pay for the detection. That's the confidence that comes from being one of the original American Leak Detection franchises in the country — we find leaks others simply can't."
+    "headline": "Our \"Find It or It's Free\" Guarantee",
+    "description": "If we cannot locate your leak using our non-destructive detection methods, you do not pay for the detection service. We stand behind our 40+ years of technology and expertise with a guarantee that puts your confidence first. That is how certain we are in our ability to find it."
   },
   "faqs": [
     {
       "question": "How does non-destructive leak detection work?",
-      "answer": "We use advanced sound amplification and thermal imaging equipment along with proprietary detection methods developed over 43 years. These tools let us hear and see leaks through walls, slabs, and underground pipes — without any digging or demolition until we know exactly where the problem is."
+      "answer": "We use advanced electronic and acoustic equipment developed over 40+ years to listen for and pinpoint leaks through walls, under slabs, and in pool structures -- all without digging or demolition. It is precise, fast, and preserves your property."
     },
     {
-      "question": "How quickly can you come out for an inspection?",
-      "answer": "Most appointments are scheduled within a few business days. For urgent situations like active flooding or rapidly rising water bills, we offer priority scheduling. Call us and our office team will work to get a technician to you as quickly as possible."
+      "question": "How quickly can you come out for a leak inspection?",
+      "answer": "Most appointments are scheduled within the same week. For urgent situations like active water damage or rapidly rising bills, we prioritize faster response. Call us and we will work with your schedule."
     },
     {
-      "question": "Do you repair leaks or just detect them?",
-      "answer": "We do both. Once we locate your leak, we can perform spot repairs on the spot or recommend full solutions like modern PEX re-piping. We always explain your repair options and costs before any work begins."
+      "question": "Do you repair the leak after finding it?",
+      "answer": "Yes. We handle both detection and repair so you get a complete solution from one company. Most repairs can be completed on the same visit, saving you time and the hassle of coordinating multiple contractors."
     },
     {
-      "question": "What areas do you serve in Northern California?",
-      "answer": "We serve nine counties across Northern California: Sacramento, Placer, El Dorado, Yolo, Sutter, Yuba, Butte, Nevada, and Sierra counties. Whether you're in Roseville, Folsom, Elk Grove, or Auburn — we've got you covered."
+      "question": "What areas do you serve?",
+      "answer": "We serve nine counties across the greater Sacramento region: Sacramento, Placer, El Dorado, Yolo, Sutter, Yuba, Butte, Nevada, and Sierra Counties. Our Roseville headquarters puts us within easy reach of the entire area."
     },
     {
-      "question": "Will you need to tear up my property to find the leak?",
-      "answer": "That's exactly what makes us different. Our non-invasive technology pinpoints leak locations precisely before any ground is broken. We minimize property intrusion and recommend the least destructive repair method possible — often a simple spot repair rather than a full excavation."
+      "question": "Can you detect leaks in swimming pools?",
+      "answer": "Absolutely. Pool and spa leak detection is one of our core specialties. We use non-invasive methods to find leaks in pool shells, plumbing lines, and equipment without draining the pool or tearing up your deck."
     }
   ],
   "testimonials": [
     {
       "name": "Dana M. R.",
-      "context": "Leak detection and repair",
+      "context": "Leak detection & repair",
       "initials": "DR",
-      "text": "Max, Jeremy and Maureen were WONDERFUL!! Maureen was able to schedule a quick appointment to survey and repair the issue. Max and Jeremy were courteous and informative about diagnosing where the leaks were occurring and what the repairs would entail. If you are having leak or plumbing issues, American Leak Detection is the company to call. 5-Stars."
+      "text": "Max, Jeremy and Maureen were WONDERFUL! Maureen scheduled a quick appointment and Max and Jeremy were courteous and informative about diagnosing where the leaks were occurring. If you are having leak or plumbing issues, American Leak Detection is the company to call. 5-Stars."
     },
     {
       "name": "Daniele R.",
-      "context": "Under-slab leak repair",
+      "context": "Under-slab leak detection",
       "initials": "DR",
-      "text": "Found and fixed what seemed impossible to locate. Technician Max located a leak under our living room slab that two previous companies couldn't find. He also completed the repair work, approximately 11 hours, and restored water service to our home. Outstanding work."
+      "text": "Found and fixed what seemed impossible to locate. Max was thorough with detection and performed professional repair work that resolved a persistent leak issue under our living room slab after other companies failed."
     },
     {
       "name": "David P.",
-      "context": "Residential leak repair",
+      "context": "Leak isolation & repair",
       "initials": "DP",
-      "text": "Superb technician. Jeremy isolated and fixed unknown leaks while working through extreme heat of 104 degrees to complete the job professionally. He explained the repair process clearly and went above and beyond to get everything done right."
+      "text": "Jeremy is a superb technician -- professional, knowledgeable, accurate, and straight-forward. He worked through 104-degree heat non-stop to isolate and fix unknown leaks while explaining the process clearly. Outstanding."
     }
   ],
   "contact": {
-    "headline": "Suspect a Hidden Leak?<br>Get Answers Today.",
-    "subtitle": "Call now for a free, no-pressure estimate. We'll explain what's involved, what it costs, and how fast we can get there — before we ever dispatch a technician.",
+    "headline": "Suspect a Hidden Leak?<br>Get Answers Fast.",
+    "subtitle": "Schedule your non-destructive leak detection today. We will pinpoint the problem, explain your options, and handle the repair -- all without tearing up your property.",
     "benefits": [
-      "Free estimate before dispatch",
-      "Non-invasive detection — no property damage",
-      "Over 40 years of proven Sacramento expertise"
+      "Free phone consultation",
+      "Same-week appointments available",
+      "Complete detection-to-repair service"
     ]
   },
   "footer": {
-    "description": "Family-owned leak detection serving Sacramento and Northern California since 1983.",
-    "service_area": "Serving Sacramento, Placer, El Dorado, Yolo & 5 More NorCal Counties",
+    "description": "Family-owned leak detection serving the greater Sacramento area since 1983.",
+    "service_area": "Serving Sacramento, Placer, El Dorado, Yolo & 5 More Counties",
     "services": [
-      "Leak Detection & Repair",
-      "Pool & Spa Leaks",
-      "Slab & Foundation Leaks",
-      "Sewer Line Detection",
+      "Pool Leak Detection",
+      "Slab Leak Detection",
+      "Sewer Line Repair",
+      "Irrigation Leaks",
       "High Water Bill Investigation"
     ],
-    "copyright": "&copy; 2026 American Leak Detection of Sacramento. All rights reserved. CA Contractor's License #393393"
+    "copyright": "&copy; 2024 American Leak Detection of Sacramento. All rights reserved. CA Contractor's License #393393"
   }
 }

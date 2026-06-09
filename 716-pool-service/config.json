@@ -3,174 +3,174 @@
   "company_name": "716 Pool Service LLC",
   "tagline": "Buffalo's Premier Swimming Pool Service & Maintenance Provider",
   "phone": "+1 716-464-2912",
-  "email": "716poolservice@gmail.com",
-  "review_count": "64",
+  "email": "mduve@716poolservice.com",
+  "review_count": "58",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#1E3A5F",
-    "primary_dark": "#142A45",
-    "primary_deeper": "#0D1D30",
-    "secondary": "#4A90D9",
-    "cta": "#F5A623",
-    "cta_dark": "#D4891A"
+    "primary": "#1a3a5c",
+    "primary_dark": "#122840",
+    "primary_deeper": "#0b1a2b",
+    "secondary": "#4a9bd9",
+    "cta": "#f0c040",
+    "cta_dark": "#d4a520"
   },
   "trust_badges": {
-    "badge_1": "Fully Licensed & Insured",
-    "badge_2": "5.0/5 from 64+ Reviews",
-    "badge_3": "Serving All of WNY"
+    "badge_1": "Licensed & Insured in NY",
+    "badge_2": "5.0/5 from 58+ Reviews",
+    "badge_3": "No Long-Term Contracts"
   },
   "hero": {
-    "badge_1": "5.0/5 from 64+ Google Reviews",
-    "badge_2": "Owner-Operated Since 2021",
-    "headline": "Your Pool, Perfectly Maintained <span class=\"text-secondary italic\">Every Single Week</span>",
-    "subheadline": "You bought a pool to relax, not to spend your weekends wrestling with chemicals and equipment. 716 Pool Service handles everything so your only job is to enjoy the water. Trusted by 64+ families across Western New York.",
-    "cta_text": "Get Your Free Pool Quote",
+    "badge_1": "5.0/5 from 58+ Google Reviews",
+    "badge_2": "Serving WNY Since 2021",
+    "headline": "Your Pool Deserves an <span class=\"text-secondary italic\">Accountant's<br>Precision</span>",
+    "subheadline": "716 Pool Service brings meticulous attention to detail to every pool in Western New York. From openings to closings and weekly care in between, we handle it all so you can stop worrying and start swimming.",
+    "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
-      "Free pool inspection included",
-      "Same-week service available",
+      "Free pool assessment",
+      "Same-week scheduling",
       "100% satisfaction guaranteed"
     ]
   },
   "stats": {
-    "stat_1_value": "64",
-    "stat_1_label": "5-Star Reviews",
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Serviced in WNY",
     "stat_2_value": "10",
     "stat_2_label": "Years Combined Experience",
-    "stat_3_value": "500",
-    "stat_3_label": "Pools Serviced in WNY",
-    "stat_4_value": "100%",
-    "stat_4_label": "Satisfaction Rate"
-  },
-  "about": {
-    "label": "Why WNY Trusts 716 Pool Service",
-    "headline": "Owner-Operated, Community-Driven Pool Care",
-    "description": "Founded by Matt Duve right here in Clarence, 716 Pool Service has grown through word-of-mouth and a simple promise: treat every pool like it is our own. With over ten years of combined experience and a perfect 5-star rating from 64 families, we are proud to be Western New York's go-to pool service team. No corporate call centers, no rotating strangers in your backyard — just a dedicated local crew that knows your pool by name.",
-    "badge": "Fully Licensed & Insured",
-    "features": [
-      {
-        "title": "Owner on Every Job",
-        "description": "Matt personally oversees every project. You are never handed off to subcontractors or random technicians — the owner is always involved."
-      },
-      {
-        "title": "No Contracts. Ever.",
-        "description": "We earn your business every single visit. No long-term commitments, no cancellation fees, no fine print. Period."
-      },
-      {
-        "title": "Perfect 5-Star Track Record",
-        "description": "64 reviews and every single one is five stars. That is not luck — that is what happens when a team genuinely cares about doing the job right."
-      }
-    ]
+    "stat_3_value": "58",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Opening to Closing Day",
-    "subtitle": "From the first warm day of spring to the last leaf of fall, we keep your pool in perfect shape so you never have to worry about a thing.",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Every WNY Season",
+    "subtitle": "From the first warm day in spring to the last leaf in fall, 716 Pool Service keeps your pool in perfect condition so you can enjoy every moment of the short Buffalo summer.",
     "cards": [
       {
         "title": "Pool Openings",
-        "description": "Complete spring opening including safety cover removal, dewinterizing equipment, deck blowing, vacuuming with a trash pump, full brushing, and shocking your pool to crystal-clear perfection."
+        "description": "Complete spring startup including safety cover removal, equipment dewinterization, deck cleaning, vacuuming, wall brushing, and water shocking to get you swim-ready fast."
       },
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive weekly service: water testing, chemical balancing, vacuuming, skimming, brushing, and full equipment checks so you enjoy a worry-free swimming season all summer."
+        "title": "Weekly Maintenance",
+        "description": "Thorough weekly service covering water chemistry testing, chemical balancing, floor vacuuming, surface skimming, and wall brushing to keep your pool crystal clear all season."
       },
       {
         "title": "Pool Closings",
-        "description": "Professional winterization including blowing out lines, winterizing all equipment, adding winter chemicals, and securely installing your safety cover to protect against harsh WNY winters."
+        "description": "Full winterization with line blowing, equipment protection for pumps, filters, and heaters, plus secure winter cover installation to survive the harsh WNY winter."
       },
       {
-        "title": "Equipment Installation & Repair",
-        "description": "Expert removal and installation of pumps, filters, and heaters. Whether it is a full upgrade or a quick fix, our technicians get your systems running at peak performance."
+        "title": "Equipment Repair",
+        "description": "Expert diagnostics and repair for pumps, filters, heaters, and all pool systems. Professional removal and installation to keep everything running efficiently."
       },
       {
         "title": "Pool Inspections",
-        "description": "Thorough inspections assessing your pool, equipment, and surrounding structures. Perfect for new homeowners, pre-season evaluations, or catching issues before they become costly repairs."
+        "description": "Buying a home with a pool? Our detailed inspection covers equipment condition, structural integrity, and overall pool health so you know exactly what you're getting."
       },
       {
-        "title": "Spring Deep Cleaning",
-        "description": "Intensive cleaning for pools that need extra attention after the off-season. Includes deep vacuuming, surface brushing, debris removal, and chemical balancing to restore pristine condition."
+        "title": "Chemical Balancing",
+        "description": "Precision water chemistry management that keeps your pool safe, clear, and comfortable. No red eyes, no skin irritation — just perfectly balanced water every time."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Swim-Ready Pool",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
         "title": "Tell Us About Your Pool",
-        "description": "Give us a call or fill out the form. We will provide an honest, no-pressure quote within 24 hours. No contracts, no commitments, just straightforward pricing."
+        "description": "Call or fill out our form with your pool details. We'll provide an honest, no-pressure quote within 24 hours. Matt personally reviews every request."
       },
       {
-        "title": "We Get to Work",
-        "description": "Matt and the crew arrive on schedule, fully equipped to handle everything from chemical balancing to equipment checks. Owner-operated means hands-on quality every visit."
+        "title": "We Show Up & Deliver",
+        "description": "Our experienced crew arrives on schedule with everything needed. Thorough service, clear communication, and an accountant's attention to every detail."
       },
       {
-        "title": "Dive In and Relax",
-        "description": "Your pool stays crystal clear, swim-ready, and worry-free all season long. If anything is not right, we come back and fix it at no extra charge."
+        "title": "Relax & Enjoy",
+        "description": "Your pool stays crystal clear and swim-ready all season long. If anything isn't perfect, we come back and make it right — that's the 716 promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why WNY Trusts 716 Pool Service",
+    "headline": "From Spreadsheets to Sparkling Pools — Built on Precision",
+    "description": "Founded by Matt Duve, a former accountant who traded balance sheets for balanced pool chemistry, 716 Pool Service brings a level of detail and reliability that's rare in the industry. Every chemical measurement is precise. Every appointment is on time. Every invoice is transparent. With over a decade of combined experience and a perfect 5-star rating across 58+ reviews, we've earned the trust of pool owners throughout Western New York.",
+    "badge": "Perfect 5.0 Rating",
+    "features": [
+      {
+        "title": "Accountant-Level Precision",
+        "description": "Matt's background in accounting means nothing gets overlooked. Every measurement, every chemical reading, every detail is tracked and verified."
+      },
+      {
+        "title": "No Contracts. Earn It Every Visit.",
+        "description": "We don't lock you in. Our 5-star reputation is built on earning your trust with every single service call."
+      },
+      {
+        "title": "Honest, Transparent Pricing",
+        "description": "No surprise charges, no hidden fees. You'll know exactly what you're paying for before we start — the accountant in Matt insists on it."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Get a custom quote based on your pool. No hidden fees, no contracts — just honest pricing from a local team that values your trust."
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Get a custom quote for your pool. No contracts, no commitments — just honest pricing from a team that values your trust."
   },
   "guarantee": {
     "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will come back to make it right — absolutely free. No questions asked, no hoops to jump through. Your pool should make you happy, and we will not stop until it does."
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We built our perfect 5-star rating by standing behind every job, and we're not about to stop now. Your satisfaction isn't just a goal — it's our standard."
   },
   "faqs": [
     {
-      "question": "How quickly can you start service?",
-      "answer": "Most new clients are on the schedule within a few days. For urgent pool issues or green pool emergencies, we do our best to offer same-week response. Give us a call and we will work with your timeline."
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within the same week. For pool openings in spring, we recommend booking early as our calendar fills fast. Call us and we'll find a time that works for you."
     },
     {
       "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most of our clients simply give us gate access and we take care of everything. You will know exactly what was done each visit, and we are always just a text or call away if you have questions."
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. After each visit, you'll know exactly what was done and the current state of your water chemistry."
     },
     {
-      "question": "What areas do you service in Western New York?",
-      "answer": "We serve Clarence, Buffalo, and the entire greater WNY area including Amherst, Williamsville, East Aurora, Orchard Park, Hamburg, Lancaster, and surrounding communities."
+      "question": "What areas in Western New York do you serve?",
+      "answer": "We serve Clarence, Buffalo, and the greater Western New York area. If you're in the WNY region and have a pool, there's a good chance we can help. Just give us a call to confirm."
     },
     {
-      "question": "Do you require long-term contracts?",
-      "answer": "Never. We believe in earning your business every visit. No contracts, no cancellation fees, no commitments. You can adjust or cancel your service anytime with zero hassle."
+      "question": "Can you inspect a pool before I buy a home?",
+      "answer": "Absolutely. Our homebuyer pool inspection is one of our most popular services. We assess equipment condition, structural integrity, and overall pool health so you can make an informed decision before closing."
     },
     {
-      "question": "Can you service any type of pool?",
-      "answer": "Absolutely. We work with all pool types — in-ground, above-ground, vinyl liner, fiberglass, concrete, and saltwater systems. Whatever you have, our experienced team has serviced it."
+      "question": "What makes 716 Pool Service different from other companies?",
+      "answer": "Our owner Matt Duve brings an accountant's precision to pool care — every chemical reading, every measurement, every detail is tracked meticulously. That's why we maintain a perfect 5.0-star Google rating with 58+ reviews."
     }
   ],
   "testimonials": [
     {
       "name": "Jennifer J.",
-      "context": "Pool Opening",
+      "context": "Pool Opening & Spring Cleaning",
       "initials": "JJ",
-      "text": "Communication was excellent, they were responsive, professional, and easy to work with throughout the entire process. After the opening, we had a minor issue with some equipment, and the owner personally stopped by to help us get everything up and running again."
+      "text": "We used this pool company for the first time this year for our pool opening and spring cleaning service, and we had a great experience from start to finish. Highly recommend 716 Pool Service."
     },
     {
-      "name": "John W.",
-      "context": "Spring Cleaning",
-      "initials": "JW",
-      "text": "Matt and the team at 716 Pool Service are excellent. We used their service for a spring cleaning and the pool is spotless. What usually would have taken more than a full weekend of repeated vacuuming was complete in no time."
+      "name": "Christopher B.",
+      "context": "Pool Opening Service",
+      "initials": "CB",
+      "text": "Just had my pool opened by 716 Pool Service. Excellent communication prior to appointment, very professional, knowledgeable about all aspects of pool service. Will absolutely use them again."
     },
     {
       "name": "Bernadette R.",
-      "context": "Weekly Maintenance",
+      "context": "Weekly Maintenance Client",
       "initials": "BR",
-      "text": "Very satisfied with 716 Pool Services. Matt and his crew are very thorough, dependable and professional. Pool is consistently well maintained. Highly recommend to anyone in Western New York."
+      "text": "Very satisfied with 716 Pool Services. Matt and his crew are very thorough, dependable and professional. Pool is consistently well maintained. Couldn't ask for better service."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
-    "subtitle": "Get a free, no-pressure quote within 24 hours. No contracts, no gimmicks — just honest pool care from a local team that takes pride in every job.",
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure quote within 24 hours. No contracts, no hidden fees — just honest pool care from a team that treats your pool like their own.",
     "benefits": [
-      "Free pool inspection with every quote",
+      "Free pool assessment with every quote",
       "Response within 24 hours guaranteed",
-      "100% satisfaction guaranteed"
+      "Perfect 5.0-star satisfaction record"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool service proudly serving Western New York since 2021.",
-    "service_area": "Serving Clarence, Buffalo & All of WNY",
+    "description": "Western New York's trusted pool service. Serving the WNY community since 2021.",
+    "service_area": "Serving Clarence, Buffalo & Greater WNY",
     "services": [
       "Pool Openings",
       "Weekly Maintenance",
@@ -178,6 +178,6 @@
       "Equipment Repair",
       "Pool Inspections"
     ],
-    "copyright": "&copy; 2026 716 Pool Service LLC. All rights reserved. Fully Licensed & Insured."
+    "copyright": "&copy; 2026 716 Pool Service LLC. All rights reserved. Licensed in New York State."
   }
 }

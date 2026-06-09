@@ -1,75 +1,72 @@
 {
   "folder_name": "on-time-pool-service",
   "company_name": "On-Time Pool Service, Inc.",
-  "tagline": "Your Pool, Our Passion",
+  "tagline": "Your Pool, Our Pride",
   "phone": "+1 941-224-0404",
   "email": "info@ontimepoolservice.com",
-  "logo_path": "",
-  "review_count": "532",
-  "review_rating": "4.9",
   "colors": {
-    "primary": "#0077B6",
-    "primary_dark": "#005A8C",
-    "primary_deeper": "#003D5F",
-    "secondary": "#00B4D8",
-    "cta": "#E8930A",
-    "cta_dark": "#C67D08"
+    "primary": "#0B3D91",
+    "primary_dark": "#082C6A",
+    "primary_deeper": "#051D47",
+    "secondary": "#1A8FC4",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
   },
   "trust_badges": {
     "badge_1": "Licensed Pool Contractor #CPC1459543",
     "badge_2": "4.9/5 from 532+ Reviews",
-    "badge_3": "FSPA Award Winner"
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
     "badge_1": "4.9/5 from 532+ Google Reviews",
-    "badge_2": "FSPA Service Professional of the Year",
-    "headline": "Sarasota's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Team Since 2004</span>",
-    "subheadline": "Over 500 five-star reviews and counting. From weekly maintenance to full renovations, the On-Time team shows up when we say we will and treats every pool like it belongs to a neighbor. Sit back, relax, and let Sarasota's award-winning pool pros handle it all.",
-    "cta_text": "Get My Free Pool Inspection",
+    "badge_2": "FSPA Service Pro of the Year",
+    "headline": "Sarasota's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Since 2004</span>",
+    "subheadline": "For 22 years, On-Time Pool Service has kept Southwest Florida pools sparkling with scientist-level precision. From weekly cleaning to full renovations, we handle everything so you can just enjoy the water.",
+    "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Free diagnostic inspection",
-      "On-time, every time guarantee",
-      "No long-term contracts"
+      "Free pool inspection included",
+      "Service starts within days",
+      "Award-winning technicians"
     ]
   },
   "stats": {
     "stat_1_value": "532",
-    "stat_1_label": "Five-Star Reviews",
+    "stat_1_label": "5-Star Reviews",
     "stat_2_value": "22",
     "stat_2_label": "Years Serving Sarasota",
     "stat_3_value": "5000",
-    "stat_3_label": "Pools Serviced",
+    "stat_3_label": "Pools Maintained",
     "stat_4_value": "4.9",
-    "stat_4_label": "Google Star Rating"
+    "stat_4_label": "Google Rating"
   },
   "services": {
-    "label": "How We Keep Sarasota Swimming",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\">Weekly Service to Full Renovations",
-    "subtitle": "Whether your pool needs a weekly tune-up or a complete transformation, our licensed and award-winning team has handled it all for over two decades across Sarasota, Lakewood Ranch, and the barrier islands.",
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Weekly Cleaning to Full Renovation",
+    "subtitle": "Whether your pool needs a weekly tune-up or a total transformation, our licensed team delivers precision care backed by 22 years of Southwest Florida expertise.",
     "cards": [
       {
-        "title": "Weekly Pool Service",
-        "description": "Chemical balancing, surface skimming, vacuuming, and equipment checks performed on a reliable weekly schedule. Your pool stays crystal clear and swim-ready without you lifting a finger."
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly cleaning and chemical balancing by trained technicians. Your pool stays crystal clear and swim-ready every single week, guaranteed."
       },
       {
-        "title": "Equipment Repair & Installation",
-        "description": "Variable-speed pumps, filters, heaters, salt systems, timers, and automation. We diagnose before we fix, and most repairs are completed the same visit."
+        "title": "Equipment Repair & Install",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and automation. Most repairs completed same-visit by our licensed team."
       },
       {
         "title": "Green to Clean Recovery",
-        "description": "Algae-filled or neglected pool? We run a full diagnostic first, then bring it back to sparkling condition. Emergency response available for the worst cases."
+        "description": "Neglected pool turned green? Our specialized algae treatment restores your pool to pristine, swim-ready condition in as little as 48-72 hours."
       },
       {
-        "title": "Pool Automation",
-        "description": "Control your pump, heater, and lights from your phone. We install and configure smart pool systems so you can manage everything from the couch or the office."
+        "title": "Pool Automation Systems",
+        "description": "Control your pool from your smartphone. We install and configure smart automation systems for pumps, lighting, heating, and chemical dosing."
       },
       {
-        "title": "Pool Renovations",
-        "description": "Resurfacing, custom tile, pavers, equipment upgrades, and structural repairs. We turn tired pools into backyard showpieces that add value to your home."
+        "title": "Renovations & Resurfacing",
+        "description": "Complete pool makeovers including resurfacing, custom tile, paver decking, and aesthetic upgrades that transform your backyard into a private resort."
       },
       {
-        "title": "Water Chemistry Management",
-        "description": "Precise chemical analysis and balancing that keeps water safe, clear, and gentle on skin. No guesswork, just science-backed results every visit."
+        "title": "Pool Lighting Upgrades",
+        "description": "Modern LED pool lighting installation that enhances beauty and safety. Enjoy stunning color shows and energy-efficient illumination every evening."
       }
     ]
   },
@@ -77,108 +74,110 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Inspection",
-        "description": "Tell us about your pool and we will send a technician for a complimentary diagnostic inspection. No sales pitch, no pressure — just an honest assessment and a fair quote."
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool. We'll send a licensed technician to inspect it and provide an honest, no-pressure quote within 24 hours. Zero obligation."
       },
       {
-        "title": "We Show Up On Time, Every Time",
-        "description": "Our trained, background-checked technicians arrive on the day and time promised. We handle cleaning, chemistry, equipment checks, and anything else your pool needs."
+        "title": "We Take It From Here",
+        "description": "Our award-winning team arrives on schedule every time (it's in our name). Cleaning, chemicals, equipment checks, and detailed service reports are all included."
       },
       {
-        "title": "Enjoy Crystal-Clear Water",
-        "description": "Your pool stays swim-ready year-round. If you are ever not satisfied, we come back and make it right at no charge. That is the On-Time promise."
+        "title": "Just Dive In",
+        "description": "Your pool stays pristine, safe, and swim-ready year-round. If anything ever falls short of perfect, we come back and fix it at no charge."
       }
     ]
   },
   "about": {
-    "label": "Why Sarasota Trusts On-Time",
-    "headline": "22 Years of Showing Up and Getting It Right",
-    "description": "Founded in 2004 and now led by Adam Courter, On-Time Pool Service was built on a simple idea: show up when you say you will, do the work right, and treat every pool like it belongs to a neighbor. That approach has earned us over 500 five-star Google reviews, Service Professional of the Year from the Florida Swimming Pool Association, and three consecutive Herald Tribune Readers' Choice Awards. Our core values of Respect, Integrity, Communication, Quality, and Adaptability are not just words on a wall — they guide every interaction.",
-    "badge": "FSPA Award Winner",
+    "label": "Why Sarasota Trusts Us",
+    "headline": "Founded by a Scientist, Built on Precision",
+    "description": "Kirk Bradley founded On-Time Pool Service in 2004 after a 20-year career as a food technology scientist. That analytical mindset drives everything we do — from precise chemical balancing to meticulous equipment diagnostics. Over 22 years, we've earned 532 five-star reviews, multiple industry awards, and the trust of thousands of Southwest Florida families who count on us to keep their pools perfect.",
+    "badge": "Licensed Pool Contractor",
     "features": [
       {
-        "title": "Licensed & Fully Credentialed",
-        "description": "Licensed Pool Contractor (CPC#1459543), LP Gas Installer, FSPA member, and BBB A+ rated. Every credential your pool deserves."
+        "title": "Award-Winning Service Team",
+        "description": "FSPA Service Professional of the Year and three consecutive Herald Tribune Readers' Choice 1st Place Awards prove our commitment to excellence."
       },
       {
-        "title": "Diagnose Before We Fix",
-        "description": "We never guess. Every repair and cleaning starts with a thorough diagnostic so you know exactly what your pool needs and what it will cost."
+        "title": "Full-Service Licensed Contractor",
+        "description": "From weekly cleaning to complete renovations, our licensed team handles every aspect of pool care under one roof. No subcontractors."
       },
       {
-        "title": "No Contracts, No Surprises",
-        "description": "We earn your business every single visit. No long-term commitments, no cancellation fees. Stay because you want to, not because you have to."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not satisfied with any visit? We'll come back and make it right at no charge. Our 4.9-star rating across 532 reviews speaks for itself."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Hidden Fees.",
-    "subtitle": "Every pool gets a personalized quote after a free inspection. No contracts, no commitments — just honest pricing for award-winning service."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is unique, so we quote after a free inspection. No contracts, no hidden fees — just honest pricing for top-tier pool care."
   },
   "guarantee": {
-    "headline": "Our \"On-Time, Done-Right\" Guarantee",
-    "description": "If you are not 100% satisfied with any service visit, we come back and redo it at no charge — no questions asked, no hoops to jump through. With 532+ five-star reviews and 22 years in business, our reputation is built on keeping this promise every single day."
+    "headline": "Our \"Always On-Time\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, we'll return and redo the work at no additional cost. We've built our name on reliability and precision — if your pool isn't perfect, neither are we. Our 4.9-star rating from over 532 reviews is proof that we stand behind every visit."
   },
   "faqs": [
     {
       "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients in the Sarasota area are on our schedule within 3-5 business days. For green pool emergencies, we offer priority response. Call us at 941-224-0404 and we will get you started."
-    },
-    {
-      "question": "Do I need to be home when your team services the pool?",
-      "answer": "Not at all. Most clients provide gate or yard access. After every visit, you will know exactly what was done and how your pool is looking. We treat your property with the same care as our own."
+      "answer": "Most new clients are on our schedule within 3-5 business days. For green pool emergencies, we offer priority same-day or next-day response. Just call us at 941-224-0404."
     },
     {
       "question": "Are your technicians licensed and insured?",
-      "answer": "Yes. On-Time Pool Service holds a Pool Contractor License (CPC#1459543), LP Gas Installer license, and carries full liability insurance. We are also a member of the Florida Swimming Pool Association and BBB A+ rated."
+      "answer": "Absolutely. On-Time Pool Service holds a Florida pool contractor license (CPC#1459543), full liability insurance, and our team includes FSPA-recognized professionals. Your pool is in expert hands."
     },
     {
-      "question": "What if I need to cancel my service?",
-      "answer": "Cancel anytime with zero penalties. We do not believe in locking people into contracts. We keep clients because of the quality of our work, not because of fine print."
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you're away. You'll receive a detailed service summary after each visit so you always know exactly what was done."
     },
     {
-      "question": "What areas do you serve around Sarasota?",
-      "answer": "We serve Sarasota, Lakewood Ranch, Siesta Key, Bird Key, Casey Key, Longboat Key, Lido Key, Palmer Ranch, The Meadows, Bradenton, Venice, Nokomis, University Park, and surrounding communities."
+      "question": "Do you offer pool renovations and resurfacing?",
+      "answer": "Yes. As a licensed pool contractor, we handle everything from resurfacing and tile work to complete pool makeovers including pavers, lighting, and automation systems."
+    },
+    {
+      "question": "What areas do you serve in Southwest Florida?",
+      "answer": "We serve Sarasota, Lakewood Ranch, Siesta Key, Bird Key, Casey Key, The Meadows, Palmer Ranch, Nokomis, Venice, Bradenton, Longboat Key, North Port, and surrounding communities."
     }
   ],
   "testimonials": [
     {
-      "name": "Cheryl S.",
-      "context": "Google Review, Sarasota",
-      "initials": "CS",
-      "text": "On-Time Pool is just what it says, always on time. And excellent work. Our pool looked absolutely amazing for our wedding party. Could not recommend them more highly."
+      "name": "Steve",
+      "context": "Google Review",
+      "initials": "ST",
+      "text": "Your team is very good. Knowledgeable, friendly and helpful. They keep our pool in perfect condition week after week. Highly recommend On-Time Pool Service to anyone in Sarasota."
     },
     {
-      "name": "Jeffs V.",
-      "context": "15-Year Client, Sarasota",
-      "initials": "JV",
-      "text": "We have used On-Time Pools for nearly 15 years and have always found them to be very reliable. Their consistency and attention to detail is why we have never switched to anyone else."
+      "name": "The Alexanders",
+      "context": "Google Review",
+      "initials": "TA",
+      "text": "Walt is a great representative of On Time Pool Service. He is good at his job and great communication. Always on time and thorough with every visit."
     },
     {
-      "name": "Esslinger B.",
-      "context": "GuildQuality Review, Sarasota",
-      "initials": "EB",
-      "text": "On-Time Pool Service is always there for me when I call with an issue. They are the complete package and worth every penny. Truly the best pool company in the area."
+      "name": "Peter & Gary R.",
+      "context": "GuildQuality Review",
+      "initials": "PG",
+      "text": "On-Time Pool Service has been excellent in their service. They are reliable and efficient. After trying several other companies, we finally found one that lives up to their name."
     }
   ],
   "contact": {
     "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
-    "subtitle": "Get a free diagnostic inspection and honest quote from Sarasota's most reviewed pool service company. No contracts, no pressure — just 22 years of expertise at your service.",
+    "subtitle": "Get a free, no-pressure pool assessment within 24 hours. No contracts, no commitments — just honest pricing from Sarasota's most awarded pool service.",
     "benefits": [
-      "Free diagnostic pool inspection",
-      "Quote within 24 hours",
-      "532+ five-star reviews and counting"
+      "Free on-site pool inspection included",
+      "Response within 24 hours guaranteed",
+      "22 years of trusted local expertise"
     ]
   },
   "footer": {
-    "description": "Award-winning pool service proudly serving Sarasota and the Suncoast since 2004.",
-    "service_area": "Serving Sarasota, Lakewood Ranch, Siesta Key & Surrounding Areas",
+    "description": "Sarasota's award-winning pool service. Trusted by Southwest Florida families since 2004.",
+    "service_area": "Serving Sarasota, Lakewood Ranch, Siesta Key, Venice & Southwest Florida",
     "services": [
-      "Weekly Pool Service",
-      "Equipment Repair",
-      "Green to Clean",
-      "Pool Automation",
-      "Pool Renovations"
+      "Weekly Pool Maintenance",
+      "Equipment Repair & Install",
+      "Green to Clean Recovery",
+      "Renovations & Resurfacing",
+      "Pool Automation Systems"
     ],
-    "copyright": "&copy; 2026 On-Time Pool Service, Inc. All rights reserved. Licensed Pool Contractor — CPC#1459543"
-  }
+    "copyright": "&copy; 2024 On-Time Pool Service, Inc. All rights reserved. Licensed Pool Contractor #CPC1459543"
+  },
+  "review_count": "532",
+  "review_rating": "4.9"
 }
