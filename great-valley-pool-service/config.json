@@ -1,183 +1,183 @@
 {
   "folder_name": "great-valley-pool-service",
   "company_name": "Great Valley Pool Service",
-  "tagline": "A Growing Legacy of Quality Pool, Awning, and Holiday Decor Services Since 1991",
+  "tagline": "Quality and Caring Pool Service Since 1991",
   "phone": "(610) 889-0711",
-  "email": "tracyb@greatvalleypool.com",
+  "email": "cecilb@greatvalleypool.com",
   "logo_path": "",
-  "review_count": "330",
-  "review_rating": "4.9",
+  "review_count": "511",
+  "review_rating": "4.8",
   "colors": {
-    "primary": "#1E3A5F",
-    "primary_dark": "#152B47",
-    "primary_deeper": "#0E1D30",
-    "secondary": "#4A90D9",
-    "cta": "#E8B930",
-    "cta_dark": "#D4A520"
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
   },
   "trust_badges": {
-    "badge_1": "BBB Accredited Business",
-    "badge_2": "4.9/5 from 330+ Reviews",
-    "badge_3": "Serving PA & DE Since 1991"
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 511+ Reviews",
+    "badge_3": "BBB Accredited"
   },
   "hero": {
-    "badge_1": "4.9/5 from 330+ Google Reviews",
-    "badge_2": "35 Years of Trusted Service",
-    "headline": "35 Years Keeping Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
-    "subheadline": "Since 1991, Chester County families have trusted Great Valley Pool Service for weekly maintenance, seasonal openings, equipment repair, and more. With 25 trucks on the road and over 400 recurring customers, we show up on time so you can just enjoy the water.",
-    "cta_text": "Schedule My Free Pool Estimate",
+    "badge_1": "4.8/5 from 511+ Google Reviews",
+    "badge_2": "Award-Winning Since 1991",
+    "headline": "35 Years of Pools Done <span class=\"text-secondary italic\">Right by Family</span>",
+    "subheadline": "Chester County families have trusted Great Valley Pool Service since 1991. Our 25-truck fleet and award-winning team handle your pool, awnings, and holiday lights so you can stop worrying and start enjoying your backyard.",
+    "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
       "Free pool inspection included",
-      "Same-week service available",
-      "Award-winning, 4.9-star rated"
+      "25+ trucks for fast response",
+      "Award-winning service team"
     ]
   },
   "stats": {
     "stat_1_value": "400",
-    "stat_1_label": "Recurring Customers",
+    "stat_1_label": "Weekly Service Customers",
     "stat_2_value": "35",
     "stat_2_label": "Years in Business",
     "stat_3_value": "1500",
     "stat_3_label": "Pools Opened & Closed Yearly",
-    "stat_4_value": "4.9",
-    "stat_4_label": "Google Star Rating"
+    "stat_4_value": "4.8★",
+    "stat_4_label": "Google Rating (511 Reviews)"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Pool Care, Shade Solutions &<br class=\"hidden md:block\"> Holiday Magic Under One Roof",
-    "subtitle": "From weekly pool maintenance to retractable awnings and holiday lighting, Great Valley Pool Service handles it all so you can enjoy your home year-round.",
+    "headline": "Pool Care, Awnings & Holiday Lights<br class=\"hidden md:block\"> All From One Trusted Team",
+    "subtitle": "From weekly chemical balancing to holiday light installation, we keep your home looking its best every season. One call covers it all.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Reliable weekly cleaning, chemical balancing, and equipment checks from our team of expert technicians. Over 400 families count on us every week to keep their pool swim-ready."
+        "description": "Chemical balancing, skimming, vacuuming, and equipment checks by trained technicians. Your pool stays crystal clear and swim-ready every single week."
       },
       {
-        "title": "Pool Openings & Closings",
-        "description": "We open and close 1,500+ pools every season with thorough equipment inspections, chemical balancing, and proper winterization to protect your investment."
+        "title": "Pool Opening & Closing",
+        "description": "Professional seasonal opening and winterization for 1,500+ pools annually. We prepare your pool for summer fun and protect it through harsh PA winters."
       },
       {
         "title": "Equipment Sales & Installation",
-        "description": "Pumps, filters, heaters, salt systems, and custom covers from all major brands. Professional installation and same-visit repairs when possible."
+        "description": "Pumps, filters, heaters, salt systems, and custom covers from all major brands. Expert installation and reliable repairs, most completed same-visit."
       },
       {
-        "title": "Retractable Awnings & Shade",
-        "description": "Custom retractable awnings, screens, and porch enclosures with hundreds of fabric options. Industry-leading warranties and professional installation."
+        "title": "Awning Sales & Installation",
+        "description": "Retractable, stationary, and window awnings to transform your outdoor living space with shade and style. Professional measuring and installation included."
       },
       {
         "title": "Holiday Lights & Decor",
-        "description": "Commercial-grade holiday lighting and greenery for homes and businesses. We handle design, installation, maintenance, takedown, and off-season storage."
+        "description": "Commercial-grade holiday lights and greenery professionally installed and removed. Hassle-free festive decorating that makes your home the envy of the block."
       },
       {
-        "title": "Pool Supplies & Retail Store",
-        "description": "Visit our fully stocked retail shop for chemicals, accessories, and expert advice. Open seven days a week with knowledgeable staff ready to help."
+        "title": "Retail Store & Online Shop",
+        "description": "Visit our Route 30 store in Frazer for pool and spa chemicals, supplies, accessories, and toys. Plus an online store with nationwide shipping."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Three Steps to Worry-Free Pool Care",
     "steps": [
       {
-        "title": "Call or Request a Free Estimate",
-        "description": "Tell us about your pool and what you need. We will provide an honest, no-pressure quote and schedule your first visit within days."
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your pool and what you need. We provide an honest, no-pressure assessment within 24 hours. No contracts, no obligations."
       },
       {
-        "title": "Our Crew Takes It from Here",
-        "description": "One of our 25 fully equipped trucks arrives on schedule. Cleaning, chemicals, equipment checks, repairs — our experienced technicians handle every detail."
+        "title": "Our Award-Winning Team Gets to Work",
+        "description": "One of our 25+ fully equipped service trucks arrives on schedule. Chemical balancing, cleaning, equipment checks — handled with 35 years of expertise."
       },
       {
-        "title": "Relax and Enjoy Your Pool",
-        "description": "Your pool stays crystal clear and swim-ready all season. With 35 years of experience behind every visit, your satisfaction is always guaranteed."
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays sparkling, your awning provides cool shade, and your holiday lights dazzle the neighbors. Sit back — Great Valley has you covered year-round."
       }
     ]
   },
   "about": {
     "label": "Why Chester County Trusts Us",
-    "headline": "Family-Owned Since 1991 — Three Generations of Pool Expertise",
-    "description": "Co-owned by Tracy and Cecil Bond since 2014, Great Valley Pool Service has grown from a small local operation into a multi-division company with 25 service trucks, over 400 recurring maintenance customers, and three service divisions. We have earned a 4.9-star Google rating, PSN Top 50, AQUA 100, and multiple Best of Chester County awards because we treat every pool like our own.",
-    "badge": "PSN Top 50 & AQUA 100 Winner",
+    "headline": "Family-Owned Since 1991 — Your Neighbors, Not a Franchise",
+    "description": "Started in a garage by Alfred and Karen Richards in 1991, Great Valley Pool Service has grown into Chester County's most trusted pool care team. Now led by Tracy and Cecil Bond, our 25-truck operation serves over 400 weekly customers and handles 1,500+ seasonal jobs each year. We have earned national recognition from PSN, Jandy, and AQUA Magazine — but what matters most is that we still treat every customer like family.",
+    "badge": "PSN & Jandy Top 50 Winner",
     "features": [
       {
-        "title": "25 Trucks, Always On Time",
-        "description": "Our fleet of 25 fully equipped service trucks means we are never late and always ready to handle any pool, awning, or lighting job."
+        "title": "National Award-Winning Service",
+        "description": "Ranked in the PSN & Jandy Top 50 nationally three years running, plus AQUA 100 and Best of Chester County honors."
       },
       {
-        "title": "Free Pool School Twice a Year",
-        "description": "We host free educational sessions so pool owners can learn water chemistry, maintenance tips, and equipment care from industry experts."
+        "title": "Free Pool Education Sessions",
+        "description": "We host free pool care workshops twice a year because informed pool owners are happy pool owners. Come learn, ask questions, and meet the team."
       },
       {
-        "title": "Loyalty-First, Award-Winning Service",
-        "description": "During supply shortages we prioritized existing customers first. That loyalty-first approach earned us multiple industry awards and lifelong customers."
+        "title": "Year-Round Service & Employment",
+        "description": "Pool care in summer, awnings in spring, holiday lights in winter. Our team works year-round, so you get experienced technicians every season."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Choose the service level that fits your needs. Upgrade, adjust, or cancel anytime — we earn your trust every visit."
+    "subtitle": "Choose the service level that fits your pool and budget. Upgrade, downgrade, or cancel anytime — we earn your trust every visit."
   },
   "guarantee": {
-    "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at no additional charge. We have upheld this promise for over 35 years and 330+ five-star reviews prove it works."
+    "headline": "Our \"Family Promise\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back and make it right at no extra charge. We have been building trust in Chester County for 35 years because we stand behind every job. Your satisfaction is not just a policy — it is our family reputation on the line."
   },
   "faqs": [
     {
-      "question": "How quickly can I get on the schedule?",
-      "answer": "Most new customers are scheduled within 3-5 business days. For urgent needs like green pool recovery, we offer priority same-week response. Call us at (610) 889-0711 and we will find a time that works."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new customers are scheduled within 3-5 business days. We serve Chester County, the Main Line, and surrounding areas with a fleet of 25+ trucks, so we can usually accommodate your preferred day quickly."
     },
     {
-      "question": "Do you service pools in Delaware too?",
-      "answer": "Yes! We serve Chester County and Delaware County in PA, plus New Castle County in DE, and surrounding communities within about 50 miles of Frazer, PA. Our 25 trucks cover a wide service area."
+      "question": "Do you require long-term contracts?",
+      "answer": "No contracts required. We believe in earning your business every single visit. You can adjust or cancel your service anytime with no fees and no hassle."
     },
     {
-      "question": "What makes Great Valley different from other pool companies?",
-      "answer": "Three things: 35 years of experience, a fleet of 25 trucks so we are always on time, and three divisions under one roof — pool service, awnings, and holiday lighting. Plus we have won PSN Top 50 and AQUA 100 awards for service excellence."
-    },
-    {
-      "question": "Do you offer awning and holiday lighting services?",
-      "answer": "Absolutely. Our awning division installs retractable awnings, screens, and shade solutions. Our holiday division handles design, installation, takedown, and storage of commercial-grade lights and decor for both residential and commercial properties."
+      "question": "What areas do you serve?",
+      "answer": "We serve Chester County and the Main Line including Frazer, Malvern, Paoli, Exton, West Chester, Devon, Berwyn, and surrounding Delaware Valley communities in Pennsylvania."
     },
     {
       "question": "Do I need to be home during service visits?",
-      "answer": "Not at all. Most customers provide gate or yard access and we handle everything while you are away. You will receive updates so you always know what was done during each visit."
+      "answer": "Not at all. Most customers provide gate access and we handle everything while you are away. You will receive a service summary after each visit so you always know what was done."
+    },
+    {
+      "question": "Do you only do pool service?",
+      "answer": "We offer three services under one roof: pool care, awning sales and installation, and professional holiday lights and decor. This means you get a trusted team for your home year-round."
     }
   ],
   "testimonials": [
     {
-      "name": "Runner G.",
-      "text": "Goes above and beyond. I previously lived in this area and used this company... best in the area. They are there when you need them. Could not ask for a better pool service team.",
-      "context": "Pool Service Customer",
-      "initials": "RG"
+      "name": "Long-time Customer",
+      "context": "Google Review",
+      "initials": "LC",
+      "text": "I have been using Great Valley Pools for 16 years and have always had impeccable service. They quickly adjust to customer preferences and provide repairs in a timely manner."
     },
     {
       "name": "Krissy T.",
-      "text": "A great company! I found this company to be wonderful. They provided courteous service and a knowledgeable staff. We have been so impressed with their attention to detail.",
-      "context": "New Customer",
-      "initials": "KT"
+      "context": "Citysearch Review",
+      "initials": "KT",
+      "text": "A great company! I found this company to be wonderful. They provided courteous service and a knowledgeable staff. I would absolutely recommend them."
     },
     {
-      "name": "Shane M.",
-      "text": "Great people, great service. I have used these guys for a couple of years now and find them to be a joy to work with. Reliable, professional, and genuinely care about their customers.",
-      "context": "Multi-Year Customer",
-      "initials": "SM"
+      "name": "Satisfied Homeowner",
+      "context": "Yelp Review",
+      "initials": "SH",
+      "text": "Very professional company with everything done on schedule and high quality. I would recommend them highly to anyone looking for pool service."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
-    "subtitle": "Get a free, no-pressure estimate within 24 hours. Join 400+ families who trust Great Valley Pool Service to keep their pool perfect all season long.",
+    "headline": "Ready for Pool Care You Can<br>Actually Count On?",
+    "subtitle": "Get a free, no-pressure quote from Chester County's most trusted pool service. 35 years of family-owned expertise, one phone call away.",
     "benefits": [
-      "Free pool inspection with every estimate",
+      "Free pool inspection with every quote",
       "Response within 24 hours guaranteed",
-      "35 years of trusted, award-winning service"
+      "511+ five-star reviews on Google"
     ]
   },
   "footer": {
-    "description": "Family-owned pool, awning, and holiday lighting company serving Chester County and the Main Line since 1991.",
-    "service_area": "Serving Chester County, Delaware County, Main Line & New Castle County, DE",
+    "description": "Family-owned pool service, awning installation, and holiday lighting. Serving Chester County since 1991.",
+    "service_area": "Serving Chester County, the Main Line & Delaware Valley, PA",
     "services": [
       "Weekly Maintenance",
-      "Openings & Closings",
+      "Opening & Closing",
       "Equipment Installation",
-      "Retractable Awnings",
-      "Holiday Lighting"
+      "Awning Installation",
+      "Holiday Lights"
     ],
     "copyright": "&copy; 2024 Great Valley Pool Service. All rights reserved. Frazer, PA"
   }

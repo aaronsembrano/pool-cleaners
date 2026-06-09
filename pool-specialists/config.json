@@ -6,179 +6,179 @@
   "email": "craig@pool-specialists.com",
   "logo_path": "",
   "review_count": "15",
-  "review_rating": "4.8",
+  "review_rating": "4.0",
   "colors": {
-    "primary": "#1B3A5C",
-    "primary_dark": "#122840",
-    "primary_deeper": "#0B1A2B",
-    "secondary": "#E8792B",
-    "cta": "#E8792B",
-    "cta_dark": "#C9611A"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
   },
   "trust_badges": {
-    "badge_1": "BBB A+ Accredited",
-    "badge_2": "4.8/5 from 15+ Reviews",
-    "badge_3": "CPO Certified Technicians"
+    "badge_1": "NSPF Certified Pool Operators",
+    "badge_2": "4.0/5 from 15+ Reviews",
+    "badge_3": "Family-Owned Since 2003"
   },
   "hero": {
-    "badge_1": "4.8/5 from 15+ Google Reviews",
-    "badge_2": "BBB A+ Rated Since 2007",
-    "headline": "Raleigh's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Experts</span>",
-    "subheadline": "For over 20 years, Triangle homeowners have counted on our CPO-certified technicians to keep their pools sparkling, safe, and swim-ready. You handle the cannonballs — we handle everything else.",
-    "cta_text": "Schedule Your Free Inspection",
+    "badge_1": "4.0/5 from 15+ Google Reviews",
+    "badge_2": "All Technicians CPO Certified",
+    "headline": "23 Years of Family-Owned <span class=\"text-secondary italic\">Pool Expertise</span>",
+    "subheadline": "Pool Specialists has kept Raleigh families swimming worry-free since 2003. From weekly cleaning to complex repairs, our NSPF-certified technicians treat every pool like it belongs to their own family. You relax poolside — we handle the rest.",
+    "cta_text": "Request Your Free Inspection",
     "checkmarks": [
-      "Free pool inspection",
-      "CPO-certified technicians",
-      "No-pressure honest quotes"
+      "Free pool inspection included",
+      "CPO-certified technicians on every visit",
+      "Serving the Triangle for 23 years"
     ]
   },
   "stats": {
-    "stat_1_value": "500",
+    "stat_1_value": "2000",
     "stat_1_label": "Pools Maintained",
     "stat_2_value": "23",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "13",
-    "stat_3_label": "Cities Served",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_2_label": "Years Serving Raleigh",
+    "stat_3_value": "17",
+    "stat_3_label": "Certified Technicians",
+    "stat_4_value": "100%",
+    "stat_4_label": "CPO Certified Staff"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Pool Care From the<br class=\"hidden md:block\"> Triangle's Own Specialists",
-    "subtitle": "From weekly cleaning to vinyl liner replacement, our CPO-certified team handles every aspect of pool ownership so you can focus on enjoying your backyard.",
+    "label": "Our Pool Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> the Experts You Trust",
+    "subtitle": "Whether it is a routine cleaning or a full vinyl liner replacement, our certified team handles it all so you never have to worry about your pool again.",
     "cards": [
       {
         "title": "Pool Cleaning & Maintenance",
-        "description": "Weekly chemical monitoring, skimming, vacuuming, and water balancing by CPO-certified technicians. Your pool stays crystal clear and swim-safe all season long."
+        "description": "Weekly and monthly maintenance plans that include water testing, chemical balancing, skimming, vacuuming, and equipment checks to keep your pool swim-ready year-round."
       },
       {
         "title": "Pool Repairs",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, and plumbing. Our certified techs handle jobs of all sizes — most completed same-visit."
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, plumbing, and structural issues. Our certified techs restore your pool to peak performance, often in a single visit."
       },
       {
         "title": "Vinyl Liner Replacement",
-        "description": "Professional measurement, fitting, and installation of vinyl pool liners. Choose from a wide range of patterns and colors for a fresh, watertight finish."
-      },
-      {
-        "title": "Pool Inspections",
-        "description": "Thorough inspections covering equipment, structure, safety features, and water quality. Ideal for home buyers, sellers, and routine safety checks."
+        "description": "Professional measurement, selection, and installation of vinyl pool liners to refresh your pool's look and stop leaks before they become costly problems."
       },
       {
         "title": "Safety Cover Installation",
-        "description": "Keep your family safe and your pool protected year-round with professionally installed safety covers — built to last through North Carolina winters."
+        "description": "High-quality safety covers to protect your pool during the off-season and give families with children and pets complete peace of mind."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Advanced leak detection services that pinpoint hidden leaks in your pool shell, plumbing, or equipment — saving you water, money, and headaches."
       },
       {
         "title": "Pool Opening & Closing",
-        "description": "Seasonal de-winterization and winterization services so your pool is ready for summer fun and properly protected through the off-season."
+        "description": "Seasonal opening and winterization services to properly prepare your pool for summer fun or winter protection. We handle the chemistry, covers, and equipment."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Book Your Free Inspection",
-        "description": "Tell us about your pool and we'll schedule a complimentary on-site inspection. No pressure, no obligations — just honest expert advice within 24 hours."
+        "title": "Schedule Your Free Inspection",
+        "description": "Call us or fill out the form. Craig or a senior technician will assess your pool's condition and provide an honest, no-pressure recommendation within 24 hours."
       },
       {
-        "title": "We Send Our Certified Team",
-        "description": "Our NSPF CPO-certified technicians arrive on schedule and handle everything — cleaning, chemistry, equipment checks, and repairs. All done right the first time."
+        "title": "We Customize Your Plan",
+        "description": "Every pool is different. Our CPO-certified team designs a maintenance or repair plan tailored to your pool's size, equipment, and your family's usage."
       },
       {
-        "title": "Relax and Enjoy",
-        "description": "Your pool stays sparkling, safe, and swim-ready every single week. If anything is ever less than perfect, we come back and make it right — no charge."
+        "title": "Enjoy Crystal-Clear Water",
+        "description": "Sit back while our trained technicians handle everything. Your pool stays clean, balanced, and ready for swimming — backed by over two decades of expertise."
       }
     ]
   },
   "about": {
-    "label": "Why Triangle Homeowners Choose Us",
-    "headline": "Not Just Pool Techs — We Train the Industry",
-    "description": "Founded by Craig in 2003, Pool Specialists has grown from a one-man operation into Raleigh's most trusted pool service company. With over 20 years in the Triangle, we don't just maintain pools — we're an authorized NSPF training center that certifies other professionals. Our BBB A+ rating and deep roots in the community mean you're getting the kind of care that only comes from a team that treats your pool like their own.",
-    "badge": "CPO Certified & CPO Instructor",
+    "label": "Why Raleigh Trusts Pool Specialists",
+    "headline": "Family-Owned, Certified, and Committed to Your Pool",
+    "description": "Since 2003, Craig and the Pool Specialists team have served Raleigh-area families with honest, dependable pool care. Every one of our 17 technicians is an NSPF Certified Pool Operator — we do not just clean pools, we understand the science behind healthy water. We even teach CPO certification classes for other industry professionals, because expertise is not just our standard, it is our passion.",
+    "badge": "NSPF CPO Certified",
     "features": [
       {
-        "title": "NSPF CPO-Certified Technicians",
-        "description": "Every technician on our team holds current NSPF Certified Pool Operator credentials — the gold standard in the pool industry."
+        "title": "All Technicians CPO Certified",
+        "description": "Every Pool Specialists technician holds an NSPF Certified Pool Operator credential, ensuring expert-level care on every single visit."
       },
       {
-        "title": "BBB A+ Rated Since 2007",
-        "description": "Nearly two decades of accredited excellence with the Better Business Bureau. We earn trust through consistent, honest service."
+        "title": "Family-Owned Since 2003",
+        "description": "Craig founded this company 23 years ago and still oversees every aspect of service. You deal with people who care, not a faceless franchise."
       },
       {
-        "title": "Owner-Operated Quality",
-        "description": "Craig personally oversees every aspect of service. When you call, you reach someone who knows your pool by name — not a call center."
+        "title": "BBB A+ Rated",
+        "description": "Our A+ rating with the Better Business Bureau reflects our commitment to integrity, fair pricing, and resolving every concern promptly."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Surprises.",
+    "headline": "Straightforward Pricing. No Surprises.",
     "subtitle": "Choose the service level that fits your pool. Every plan includes CPO-certified technicians and our satisfaction guarantee."
   },
   "guarantee": {
-    "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll send a technician back to make it right — completely free. We've built our reputation over 23 years on doing the job right, and we stand behind every visit until it does."
+    "headline": "Our \"Family Promise\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will send a technician back at no charge. Craig built this company on trust — and after 23 years, we still earn it one pool at a time. Your satisfaction is not negotiable."
   },
   "faqs": [
     {
       "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients in the Raleigh-Durham Triangle are scheduled within 3-5 business days. For urgent repairs or green pool emergencies, we offer priority scheduling. Just call us at 919-847-4117."
+      "answer": "Most new clients in the Raleigh-Durham area are scheduled within 3-5 business days. For urgent issues like equipment failures or green pools, we do our best to accommodate same-week service. Call us and we will work with your schedule."
     },
     {
-      "question": "What makes your technicians different?",
-      "answer": "All of our technicians hold NSPF CPO (Certified Pool Operator) certifications — the highest credential in the industry. In fact, we're also an authorized CPO training center, meaning we literally train other pool professionals."
+      "question": "What makes your technicians different from other pool companies?",
+      "answer": "Every single one of our 17 technicians is an NSPF Certified Pool Operator. We also offer CPO certification classes for other professionals in the industry — that is how seriously we take pool education and expertise."
     },
     {
       "question": "Do you service pools outside of Raleigh?",
-      "answer": "Absolutely. We serve 13+ cities across the Triangle including Durham, Cary, Apex, Chapel Hill, Carrboro, Pittsboro, Knightdale, Garner, Wake Forest, Youngsville, Oxford, and Lake Gaston."
+      "answer": "Absolutely. We serve the entire Triangle region including Durham, Cary, Apex, Chapel Hill, Wake Forest, Knightdale, Garner, and even Lake Gaston. If you are within driving distance, give us a call."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "No contracts required. We believe in earning your business every single visit. You can adjust or cancel your service anytime with no fees and no hassle."
+      "question": "How do I know if my vinyl liner needs replacement?",
+      "answer": "Common signs include fading, wrinkling, cracking, or unexplained water loss. Our team can perform a thorough inspection and let you know honestly whether a repair or full replacement is the right move."
     },
     {
-      "question": "Can you help with vinyl liner replacement?",
-      "answer": "Yes — vinyl liner replacement is one of our specialties. We handle professional measurement, help you choose from a wide selection of patterns and colors, and ensure a precise, watertight installation."
+      "question": "Are safety covers worth the investment?",
+      "answer": "For families with children or pets, safety covers are one of the best investments you can make. They prevent accidental falls, keep debris out during the off-season, and can even reduce your insurance premiums. We install top-quality covers custom-fitted to your pool."
     }
   ],
   "testimonials": [
     {
-      "name": "Satisfied Homeowner",
-      "context": "Angi Review",
-      "initials": "SH",
-      "text": "Wonderful and caring staff. Very knowledgeable and experienced — their approach really inspires confidence. Reasonable pricing makes them a great choice for ongoing pool maintenance."
-    },
-    {
-      "name": "Local Neighbor",
+      "name": "Verified Neighbor",
       "context": "Nextdoor Review",
-      "initials": "LN",
-      "text": "Great service, awesome people, and happy to help you out in any way possible. I have enjoyed their service and the special care they give us. Highly recommended!"
+      "initials": "VN",
+      "text": "Wonderful and caring staff. Very knowledgeable and experienced. I feel confident trusting them with my pool. They always go above and beyond."
     },
     {
-      "name": "Triangle Area Customer",
-      "context": "Customer Testimonial",
-      "initials": "TC",
-      "text": "Pool Specialists has been taking care of our pool for years. Craig and his team are true professionals who know pool systems inside and out. They always go above and beyond."
+      "name": "Local Homeowner",
+      "context": "Nextdoor Review",
+      "initials": "LH",
+      "text": "Great service, awesome people. Their pricing is very reasonable and the quality of work is excellent. I would not trust anyone else with our pool."
+    },
+    {
+      "name": "Raleigh Pool Owner",
+      "context": "Neighbor Recommendation",
+      "initials": "RP",
+      "text": "Highly recommended! They take special care of our pool and always go above and beyond with their service. True professionals who treat your pool like their own."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
-    "subtitle": "Get a free, no-pressure inspection and quote within 24 hours. Over 20 years of Triangle expertise — just honest pricing from Raleigh's most trusted pool team.",
+    "headline": "Ready for Pool Care<br>You Can Count On?",
+    "subtitle": "Request your free inspection today. Craig and the Pool Specialists team will assess your pool and provide an honest recommendation — no pressure, no obligation.",
     "benefits": [
-      "Free on-site pool inspection",
+      "Free pool inspection with every quote",
       "Response within 24 hours",
-      "CPO-certified service guaranteed"
+      "23 years of certified expertise"
     ]
   },
   "footer": {
-    "description": "Raleigh's premier pool service company. Proudly serving the Triangle for over 20 years.",
+    "description": "Family-owned pool service. Proudly serving Raleigh and the Triangle since 2003.",
     "service_area": "Serving Raleigh, Durham, Cary, Apex, Chapel Hill & the Triangle",
     "services": [
-      "Pool Cleaning & Maintenance",
-      "Repairs & Equipment",
+      "Pool Cleaning",
+      "Pool Repairs",
       "Vinyl Liner Replacement",
-      "Safety Cover Installation",
-      "Pool Opening & Closing"
+      "Safety Covers",
+      "Leak Detection"
     ],
-    "copyright": "&copy; 2024 Pool Specialists, Inc. All rights reserved. Raleigh, NC — CPO Certified"
+    "copyright": "&copy; 2024 Pool Specialists, Inc. All rights reserved."
   }
 }
