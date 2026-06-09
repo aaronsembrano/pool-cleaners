@@ -1,42 +1,42 @@
 {
   "folder_name": "pool-specialists-raleigh",
   "company_name": "Pool Specialists, Inc.",
-  "tagline": "Your Pool is Our Pride",
+  "tagline": "Your Pool is Our Pride.",
   "phone": "+1 919-847-4117",
   "email": "craig@pool-specialists.com",
-  "logo_path": "",
-  "review_count": "15",
+  "logo_path": "logo.png",
+  "review_count": "114",
   "review_rating": "4.8",
   "colors": {
-    "primary": "#004976",
-    "primary_dark": "#003358",
-    "primary_deeper": "#00223A",
-    "secondary": "#00A8E8",
-    "cta": "#E86A00",
-    "cta_dark": "#C45800"
+    "primary": "#0066CC",
+    "primary_dark": "#003366",
+    "primary_deeper": "#001F3F",
+    "secondary": "#66CCFF",
+    "cta": "#E8820C",
+    "cta_dark": "#C76B00"
   },
   "trust_badges": {
-    "badge_1": "CPO-Certified Technicians",
-    "badge_2": "4.8/5 from 15+ Reviews",
-    "badge_3": "BBB A+ Rated"
+    "badge_1": "BBB A+ Accredited",
+    "badge_2": "4.8/5 from 114+ Reviews",
+    "badge_3": "CPO-Certified Technicians"
   },
   "hero": {
-    "badge_1": "4.8/5 from 15+ Google Reviews",
-    "badge_2": "Pentair & Zodiac Authorized",
-    "headline": "Triangle's Most Trusted <span class=\"text-secondary italic\">Pool Experts</span>",
-    "subheadline": "For over 20 years, Raleigh-Durham families have counted on our CPO-certified technicians to keep their pools pristine. From weekly cleaning to complex repairs, we handle everything so you can just dive in.",
-    "cta_text": "Request Your Free Estimate",
+    "badge_1": "4.8/5 from 114+ Google Reviews",
+    "badge_2": "Pentair Primary Warranty Station",
+    "headline": "23 Years of Engineering <span class=\"text-secondary italic\">Perfect<br>Pools in Raleigh</span>",
+    "subheadline": "Your pool deserves more than a guy with a net. Pool Specialists brings 23 years of CPO-certified expertise and engineering precision to every backyard in the Triangle. We handle the chemistry, the equipment, and the headaches so you just enjoy the water.",
+    "cta_text": "Schedule Your Free Inspection",
     "checkmarks": [
-      "Free pool inspection included",
-      "3-year parts & labor warranty",
-      "All techs CPO-certified"
+      "Free pool inspection",
+      "All technicians CPO-certified",
+      "BBB A+ rated since 2003"
     ]
   },
   "stats": {
     "stat_1_value": "1000",
     "stat_1_label": "Satisfied Customers",
-    "stat_2_value": "20",
-    "stat_2_label": "Years Serving the Triangle",
+    "stat_2_value": "23",
+    "stat_2_label": "Years in Business",
     "stat_3_value": "5000",
     "stat_3_label": "Service Calls Completed",
     "stat_4_value": "A+",
@@ -44,32 +44,32 @@
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> the Triangle's Top Pros",
-    "subtitle": "From routine maintenance to major renovations, our certified team has the expertise and manufacturer-backed warranties to keep your pool in perfect condition year-round.",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> the Triangle's Top Technicians",
+    "subtitle": "From weekly cleanings to complex equipment repairs, our CPO-certified team has the expertise and manufacturer-authorized training to keep your pool in peak condition year-round.",
     "cards": [
       {
-        "title": "Weekly & Bi-Weekly Cleaning",
-        "description": "Skimming, vacuuming, brushing, tile cleaning, and precise chemical balancing. Bi-weekly clients get complimentary equipment checks on off weeks."
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Weekly and monthly maintenance including chemical monitoring, water balance management, skimming, and filter cleaning. Your pool stays sparkling, safe, and swim-ready all season."
       },
       {
-        "title": "Repairs & Equipment",
-        "description": "Variable speed pumps, filters, heaters, automation, salt systems, and LED lighting. Pentair & Zodiac authorized warranty station with 3-year coverage."
-      },
-      {
-        "title": "Pool Inspections",
-        "description": "Comprehensive residential and commercial inspections covering structure, safety, equipment, electrical, water chemistry, and electronic leak detection."
-      },
-      {
-        "title": "Safety Covers",
-        "description": "Custom-measured, factory-manufactured safety covers with professional installation. Retractable deck anchors protect your family and pets all winter long."
+        "title": "Equipment Repairs",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and automation systems. As Pentair's primary warranty station and Zodiac/Jandy authorized, we fix it right the first time."
       },
       {
         "title": "Vinyl Liner Replacement",
-        "description": "Expert inground liner replacement including drainage, wall prep, bottom re-troweling, new fittings, and VGB-compliant drains. One-year workmanship warranty."
+        "description": "Precision measurement, pattern selection, and professional installation of vinyl pool liners. Restore your pool's appearance and stop leaks before they become costly problems."
       },
       {
-        "title": "Seasonal Opening & Closing",
-        "description": "Full-service spring startup and winterization. We handle cover removal, equipment startup, chemical treatment, blowouts, and everything in between."
+        "title": "Pool Inspections",
+        "description": "Comprehensive inspections for buyers, sellers, and property owners. We assess equipment condition, structural integrity, and safety compliance so you know exactly what you're getting."
+      },
+      {
+        "title": "Safety Covers & Winterization",
+        "description": "Professional safety cover installation and seasonal opening/closing services. Protect your pool through North Carolina winters and your family year-round."
+      },
+      {
+        "title": "CPO Certification Classes",
+        "description": "NSPF-certified instructor-led Certified Pool Operator courses for industry professionals and property managers. Get the credentials that set you apart."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Schedule Your Free Inspection",
-        "description": "Call us or fill out the form. We will visit your pool, assess its condition, and give you an honest, no-pressure quote within 24 hours."
+        "title": "Book Your Free Inspection",
+        "description": "Call or fill out the form. We'll schedule a thorough inspection of your pool, equipment, and water chemistry at no cost. No sales pressure, just honest answers."
       },
       {
-        "title": "Our CPO Team Gets to Work",
-        "description": "Your assigned certified technician arrives on schedule with professional-grade equipment. Cleaning, chemistry, repairs, whatever your pool needs is handled."
+        "title": "Get Your Custom Plan",
+        "description": "Our CPO-certified technicians assess your pool's needs and recommend a service plan tailored to your pool type, usage, and budget. Transparent pricing, no hidden fees."
       },
       {
-        "title": "Relax and Enjoy Your Pool",
-        "description": "Your pool stays crystal clear and swim-ready all season. With our 3-year warranty and satisfaction guarantee, you have complete peace of mind."
+        "title": "Relax and Enjoy",
+        "description": "We handle everything from chemical balancing to equipment maintenance. You'll get service reports after every visit and a pool that's always ready for a swim."
       }
     ]
   },
   "about": {
-    "label": "Why Triangle Families Trust Us",
-    "headline": "20 Years of Certified Pool Excellence in Raleigh-Durham",
-    "description": "Since 2004, Pool Specialists has been the Triangle's go-to pool contractor. Our entire team holds CPO certification through the Pool and Hot Tub Alliance, and we are the region's most technologically advanced pool service. As an authorized warranty station for both Pentair and Zodiac, we provide manufacturer-backed repairs with 3-year warranties on most parts and labor. We have earned the trust of over 1,000 families by treating every customer fairly and honestly.",
-    "badge": "CPO Certified Team",
+    "label": "Why Raleigh Trusts Pool Specialists",
+    "headline": "Engineer-Founded. Family-Owned. Precision-Driven.",
+    "description": "Founded in 2003 by Craig Wooster, a former competitive swimmer and engineer with a Masters in Computer and Electrical Engineering, Pool Specialists was built on the belief that pool care should be precise, reliable, and personal. Over 23 years, we've grown from a one-man operation to the most technologically advanced pool contractor in the Raleigh-Durham-Chapel Hill area, serving 1,000+ families while staying true to our family-owned roots. Every technician on our team holds a CPO certification because we believe your pool deserves nothing less.",
+    "badge": "CPO-Certified Team",
     "features": [
       {
-        "title": "Manufacturer-Authorized Service",
-        "description": "Primary warranty station for Pentair and Fluidra/Zodiac/Jandy/Polaris. Your repairs are backed by the brands that built the equipment."
+        "title": "Manufacturer-Authorized Warranty Service",
+        "description": "We're the primary warranty station for Pentair and authorized for Zodiac, Jandy, and Polaris. Your equipment is in factory-trained hands."
       },
       {
-        "title": "3-Year Parts & Labor Warranty",
-        "description": "We stand behind our work with industry-leading warranties. Most parts and labor are covered for a full three years."
+        "title": "Engineering Precision, Every Visit",
+        "description": "Our founder's engineering background means we approach every pool systematically. No guesswork, just data-driven care that extends the life of your pool."
       },
       {
-        "title": "Continuous Technician Training",
-        "description": "Our team trains through manufacturer partnerships and in-house education programs. We even teach CPO certification classes to the public."
+        "title": "BBB A+ Rated Since 2003",
+        "description": "Two decades of consistent excellence. Our A+ BBB rating and 114+ Google reviews reflect a commitment to doing right by every customer."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every quote is honest and detailed. We explain what your pool needs and why, so you never pay for services you do not need."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is different. Tell us about yours and we'll provide an honest quote within 24 hours."
   },
   "guarantee": {
-    "headline": "Our \"Pride in Every Pool\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional charge. With our A+ BBB rating and 20 years of honest service, your satisfaction is not just a promise, it is our reputation."
+    "headline": "Our \"Perfect Pool\" Promise",
+    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll come back to make it right at no additional charge. With 23 years of reputation on the line, we stand behind every visit. Your satisfaction isn't just a policy; it's our pride."
   },
   "faqs": [
     {
-      "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients in the Raleigh-Durham area are on schedule within one week. We will start with a thorough inspection so our CPO-certified techs know exactly what your pool needs from day one."
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within one week. For urgent issues like equipment failures or green pools, we offer priority same-day or next-day response. Call us at 919-847-4117 and we'll get you on the schedule fast."
     },
     {
       "question": "Are your technicians certified?",
-      "answer": "Every single technician on our team is a Certified Pool Operator licensed through the Pool and Hot Tub Alliance. In fact, our staff teaches CPO certification classes to other professionals in the industry."
+      "answer": "Every single technician on our team holds a Certified Pool Operator (CPO) license from the NSPF. We're also a Pentair primary warranty station and authorized for Zodiac/Jandy/Polaris, meaning our team has factory-level training on major pool equipment brands."
     },
     {
-      "question": "What brands of equipment do you service?",
-      "answer": "We service all major brands, and we are an authorized primary warranty station for both Pentair and Fluidra/Zodiac/Jandy/Polaris. This means manufacturer-backed repairs with 3-year warranties on most parts and labor."
+      "question": "Do you service commercial pools and HOAs?",
+      "answer": "Absolutely. We maintain pools for swim clubs, community pools, HOAs, and commercial properties across the Triangle. Our team includes NSPF CPO Instructors who understand the higher regulatory requirements for commercial aquatic facilities."
     },
     {
-      "question": "Do you offer pool inspections for home buyers?",
-      "answer": "Yes, we perform comprehensive residential inspections covering the pool structure, equipment, electrical systems, safety devices, fencing, and water chemistry. We also offer electronic leak detection."
+      "question": "What areas do you serve?",
+      "answer": "We serve Raleigh, Durham, Cary, Apex, Chapel Hill, Carrboro, Pittsboro, Knightdale, Garner, Wake Forest, Youngsville, Oxford, Lake Gaston, and surrounding areas throughout the Triangle region."
     },
     {
-      "question": "What areas in the Triangle do you serve?",
-      "answer": "We serve Raleigh, Durham, Cary, Apex, Chapel Hill, Carrboro, Pittsboro, Knightdale, Garner, Wake Forest, Youngsville, Oxford, Lake Gaston, and surrounding communities throughout the Triangle."
+      "question": "Do you offer pool inspections for home purchases?",
+      "answer": "Yes. Our comprehensive pool inspections assess equipment condition, structural integrity, safety compliance, and remaining useful life of all components. We provide a detailed written report that gives buyers and sellers complete transparency."
     }
   ],
   "testimonials": [
     {
-      "name": "Community Pool Mgr.",
-      "context": "Community pool maintenance",
-      "initials": "CP",
-      "text": "They have been very responsive, very fair, and just done a great job maintaining our community pools. Highly professional service from start to finish."
+      "name": "Local Homeowner",
+      "context": "Residential Pool Service",
+      "initials": "LH",
+      "text": "We were very pleased when we found Pool Specialists. They have been very responsive, very fair, and just done a great job. I would highly recommend them to anyone looking for reliable pool care in Raleigh."
     },
     {
-      "name": "Nextdoor Neighbor",
-      "context": "Residential pool customer",
-      "initials": "NN",
-      "text": "Wonderful and caring staff who are very knowledgeable and experienced. Their pricing is reasonable and I highly recommend them to anyone in the Raleigh area."
+      "name": "Wood Valley Swim Club Member",
+      "context": "Commercial Pool Maintenance",
+      "initials": "WV",
+      "text": "Pool Specialists maintain the salt water pool at Wood Valley Swim and Racquet where I swim year round. The water is always very clean and pleasant to swim laps in. Highly recommended for anyone needing commercial pool care."
     },
     {
-      "name": "Long-Time Client",
-      "context": "Regular maintenance customer",
-      "initials": "LC",
-      "text": "Great service, awesome people, and happy to help you out in any way possible. I have enjoyed their service and the special care they give us every single visit."
+      "name": "Community Pool Board Member",
+      "context": "Community Pool Management",
+      "initials": "CB",
+      "text": "Pool Specialists does an amazing job maintaining our community pool. Craig and his team are professional and meticulous in keeping the pool and equipment in top shape. Their CPO expertise makes all the difference."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You Can<br>Be Proud Of?",
-    "subtitle": "Get a free inspection and honest quote from the Triangle's most trusted pool professionals. Over 1,000 families already count on us.",
+    "headline": "Ready for a Pool That<br>Runs Like Clockwork?",
+    "subtitle": "Get a free inspection and honest quote within 24 hours. No pressure, no gimmicks. Just 23 years of expertise ready to work for you.",
     "benefits": [
-      "Free pool inspection with your quote",
-      "Response within 24 hours guaranteed",
-      "3-year warranty on parts and labor"
+      "Free comprehensive pool inspection",
+      "Response within 24 hours",
+      "BBB A+ rated with 114+ five-star reviews"
     ]
   },
   "footer": {
-    "description": "Raleigh-Durham's premiere pool contractor. Proudly serving the Triangle since 2004.",
+    "description": "Family-owned pool care. Serving the Raleigh-Durham-Chapel Hill Triangle since 2003.",
     "service_area": "Serving Raleigh, Durham, Cary, Apex, Chapel Hill & the Triangle",
     "services": [
-      "Weekly Cleaning",
-      "Repairs & Equipment",
-      "Pool Inspections",
-      "Safety Covers",
-      "Liner Replacement"
+      "Pool Cleaning & Maintenance",
+      "Equipment Repairs",
+      "Vinyl Liner Replacement",
+      "Safety Covers & Winterization",
+      "CPO Certification Classes"
     ],
-    "copyright": "&copy; 2024 Pool Specialists, Inc. All rights reserved. CPO Certified — Pentair & Zodiac Authorized"
+    "copyright": "&copy; 2024 Pool Specialists, Inc. All rights reserved. Raleigh, NC"
   }
 }
