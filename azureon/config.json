@@ -1,0 +1,183 @@
+{
+  "folder_name": "azureon",
+  "company_name": "Azureon Pool Care",
+  "tagline": "We Put People First to Build a Brighter Future Together",
+  "phone": "(201) 255-2570",
+  "email": "john.tisera@azureon.com",
+  "review_count": "30",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#0D9488",
+    "primary_dark": "#0A7A70",
+    "primary_deeper": "#065F58",
+    "secondary": "#22D3EE",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "PHTA & NESPA Certified",
+    "badge_2": "4.5/5 from 30+ Reviews",
+    "badge_3": "9+ Companies United"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 30+ Google Reviews",
+    "badge_2": "PHTA Certified Professionals",
+    "headline": "One Team Behind <span class=\"text-secondary italic\">Every Pool<br>You Love</span>",
+    "subheadline": "Azureon unites nine established pool companies and decades of combined expertise under one roof. From weekly maintenance to custom builds, you get the reliability of a national platform with the personal care of a local team right here in Louisville.",
+    "cta_text": "Request Your Free Consultation",
+    "checkmarks": [
+      "Free pool inspection included",
+      "PHTA certified technicians",
+      "Full-spectrum pool services"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "9",
+    "stat_1_label": "Companies United",
+    "stat_2_value": "2",
+    "stat_2_label": "Years as Azureon",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Under Care",
+    "stat_4_value": "100%",
+    "stat_4_label": "Certified Professionals"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Every Pool Service You Need<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From routine maintenance to ground-up custom builds, Azureon's certified professionals handle every aspect of pool care so you never have to juggle multiple contractors again.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive cleaning, chemical balancing, skimming, vacuuming, and equipment checks every week. Your pool stays swim-ready through every Kentucky season."
+      },
+      {
+        "title": "Service & Repair",
+        "description": "Pumps, filters, heaters, salt systems, and automation diagnosed and repaired fast by PHTA-certified technicians. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "New tile, coping, resurfacing, LED lighting, and deck upgrades that restore aging pools to better-than-new condition with materials built to last."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise testing and chemical balancing that eliminates algae, cloudiness, and pH swings. Water that is safe, crystal clear, and gentle on skin and eyes."
+      },
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "From concept sketches to the finished splash, our design team creates pools tailored to your vision, lifestyle, and backyard. Quality construction with proven techniques."
+      },
+      {
+        "title": "New Pool Installation",
+        "description": "Professional in-ground pool, spa, and water feature installation using premium materials and expert building methods. Your dream backyard, built right the first time."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Schedule a Free Consultation",
+        "description": "Tell us about your pool or your vision for a new one. We will visit your property, assess everything, and deliver an honest quote within 24 hours. No pressure, no obligations."
+      },
+      {
+        "title": "Our Certified Team Takes Over",
+        "description": "PHTA-certified professionals arrive on schedule with the expertise of nine combined companies behind them. Cleaning, chemistry, repairs, renovations, or builds — handled with precision."
+      },
+      {
+        "title": "Enjoy Your Pool, Worry-Free",
+        "description": "Your pool stays sparkling and perfectly maintained while you focus on what matters. If anything falls short of perfect, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Louisville Trusts Azureon",
+    "headline": "Nine Expert Companies. One Unified Standard of Care.",
+    "description": "Azureon was founded in 2024 with a bold vision: unite the best pool service companies across the country under one platform that raises the bar for everyone. Led by CEO John Tisera, our team brings together decades of combined industry experience, PHTA and NESPA certifications, and a relentless pursuit of perfection. When you work with Azureon in Louisville, you get the resources of a national company and the accountability of a team that stakes its name on every job.",
+    "badge": "PHTA Certified",
+    "features": [
+      {
+        "title": "PHTA & NESPA Certified Team",
+        "description": "Every Azureon technician holds industry-recognized certifications from the Pool and Hot Tub Alliance and is trained to the highest professional standards."
+      },
+      {
+        "title": "Multi-Brand Expertise",
+        "description": "Nine established pool companies means decades of combined knowledge, proven methods, and specialized skills that a single operator simply cannot match."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We return and redo it at no charge. Our reputation is built on earning your trust with every single service call."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Choose the service level that fits your pool. Adjust or cancel anytime — no long-term contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. With nine companies and decades of experience behind every technician, we stake our combined reputation on your pool. That is the Azureon promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Azureon start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For equipment failures or green pool emergencies, we offer same-day or next-day response. Call us and we will work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. After each visit you receive a detailed service summary so you always know exactly what was done."
+    },
+    {
+      "question": "What certifications does Azureon hold?",
+      "answer": "Our team holds PHTA (Pool and Hot Tub Alliance) certifications and NESPA membership. Every technician is trained to industry-leading standards and participates in ongoing education to stay current with the latest equipment and techniques."
+    },
+    {
+      "question": "Can Azureon handle both maintenance and large renovation projects?",
+      "answer": "Absolutely. That is what sets us apart. From weekly chemical balancing to complete pool renovations and custom new builds, our full-spectrum platform covers every pool need under one roof. No need to juggle multiple contractors."
+    },
+    {
+      "question": "What areas do you serve in Kentucky?",
+      "answer": "We serve Louisville and the surrounding areas including Jefferson County, Oldham County, Bullitt County, and the greater Louisville metro region. Our service territory continues to expand, so call us even if you are just outside our listed area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David M.",
+      "context": "Pool maintenance, Louisville",
+      "initials": "DM",
+      "text": "Azureon's team was professional and thorough with our pool maintenance. They identified issues we did not even know we had and fixed everything promptly. Great communication throughout the entire process."
+    },
+    {
+      "name": "Rachel & Kevin T.",
+      "context": "Complete pool renovation",
+      "initials": "RT",
+      "text": "We hired Azureon for a complete pool renovation and the results exceeded our expectations. The design team listened to exactly what we wanted and delivered a stunning finished product on time and on budget."
+    },
+    {
+      "name": "Stephanie W.",
+      "context": "New pool build, Jefferson County",
+      "initials": "SW",
+      "text": "From the initial design consultation to the final walkthrough, every step was handled with care. The Azureon team made building our first pool feel easy. We could not be happier with how it turned out."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free consultation and honest quote within 24 hours. No contracts, no commitments — just certified professionals backed by nine companies of combined expertise.",
+    "benefits": [
+      "Free on-site pool inspection included",
+      "Response within 24 hours guaranteed",
+      "PHTA-certified team on every job"
+    ]
+  },
+  "footer": {
+    "description": "Premier pool care platform uniting expert companies. Proudly serving Louisville since 2024.",
+    "service_area": "Serving Louisville, Jefferson County, Oldham County, Bullitt County & Surrounding Areas",
+    "services": [
+      "Pool Maintenance",
+      "Service & Repair",
+      "Pool Renovations",
+      "Custom Design & Build",
+      "New Pool Installation"
+    ],
+    "copyright": "&copy; 2024 Azureon Pool Care. All rights reserved. PHTA Certified | NESPA Member"
+  }
+}

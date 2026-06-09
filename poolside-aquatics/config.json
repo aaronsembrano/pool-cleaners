@@ -1,0 +1,183 @@
+{
+  "folder_name": "poolside-aquatics",
+  "company_name": "Poolside Aquatics",
+  "tagline": "Nationwide Aquatic Management Experts",
+  "phone": "+1 512-290-3512",
+  "email": "clay@poolsideaquatics.com",
+  "review_count": "12",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0A2A5C",
+    "primary_dark": "#061B3D",
+    "primary_deeper": "#04122A",
+    "secondary": "#3BB8C3",
+    "cta": "#E8872A",
+    "cta_dark": "#CF7220"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified & Fully Insured",
+    "badge_2": "5.0/5 from 12+ Reviews",
+    "badge_3": "Serving Communities Nationwide"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 12+ Google Reviews",
+    "badge_2": "40+ Years Combined Experience",
+    "headline": "Aquatic Management Built on <span class=\"text-secondary italic\">40 Years of Trust</span>",
+    "subheadline": "Your facility deserves a team that has scaled aquatic operations across five states and 70+ locations. We bring that expertise to your community so you can focus on what matters most — safe, thriving aquatic programs.",
+    "cta_text": "Get a Free Facility Assessment",
+    "checkmarks": [
+      "Certified lifeguard staffing",
+      "Nationwide facility management",
+      "Custom training programs"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "70",
+    "stat_1_label": "Facilities Managed",
+    "stat_2_value": "40",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "600",
+    "stat_3_label": "Staff Members Trained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Safety Commitment"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Aquatic Solutions That Keep<br class=\"hidden md:block\"> Communities Safe & Thriving",
+    "subtitle": "From lifeguard staffing to full facility management, we handle every aspect of aquatic operations so your community can enjoy safe, well-run programs year-round.",
+    "cards": [
+      {
+        "title": "Aquatic Facility Management",
+        "description": "End-to-end management of your aquatic facility — daily operations, maintenance oversight, compliance, and staff coordination tailored to your unique needs."
+      },
+      {
+        "title": "Certified Lifeguard Staffing",
+        "description": "Professional, certified lifeguards deployed to your facility on your schedule. Reliable, trained personnel who keep swimmers safe every single day."
+      },
+      {
+        "title": "Lifeguard Training & Certification",
+        "description": "Industry-leading training programs that produce confident, capable lifeguards. Certification courses, water safety instruction, and ongoing professional development."
+      },
+      {
+        "title": "Water Safety Programs",
+        "description": "Swim lessons, water safety education, and community outreach programs designed to reduce drowning incidents and build water confidence for all ages."
+      },
+      {
+        "title": "Aquatic Consulting",
+        "description": "Expert consulting to optimize your operations, improve safety protocols, and enhance the overall aquatic experience for your community members."
+      },
+      {
+        "title": "Seasonal Pool Operations",
+        "description": "Full seasonal management including opening, staffing, daily operations, and closing. We handle it all so your HOA or municipality stays worry-free."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Aquatic Operations",
+    "steps": [
+      {
+        "title": "Schedule Your Assessment",
+        "description": "Tell us about your facility and goals. We will conduct a thorough assessment and deliver a customized management plan within 48 hours — no obligation, no pressure."
+      },
+      {
+        "title": "We Deploy Our Team",
+        "description": "Our certified, background-checked aquatic professionals arrive ready to manage your facility. Lifeguards, instructors, and managers — all trained to our exacting standards."
+      },
+      {
+        "title": "Your Community Thrives",
+        "description": "Your facility runs safely, your staff is well-trained, and your community enjoys aquatic programs that make a real difference. We handle the operations — you see the results."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Communities Trust Us",
+    "headline": "Not Just a Vendor — Your Aquatic Operations Partner",
+    "description": "Founded by a team with over 40 years of combined aquatics experience, Poolside Aquatics was built on a simple mission: create safe, inclusive environments where people of all abilities can learn and grow. Our leadership previously scaled an aquatic management company to five states, 70+ locations, and over 600 employees. We bring that depth of experience to every facility we serve — guided by our core values of Excellence, Servant Leadership, and Service First.",
+    "badge": "CPO & Lifeguard Instructor Certified",
+    "features": [
+      {
+        "title": "Certified & Vetted Professionals",
+        "description": "Every team member holds current certifications and passes thorough background checks before being placed at your facility."
+      },
+      {
+        "title": "Scalable Nationwide Service",
+        "description": "From a single community pool to a multi-state operation, we have the infrastructure and experience to scale with your needs."
+      },
+      {
+        "title": "Safety-First Guarantee",
+        "description": "If our service ever falls short of your expectations, we will make it right immediately. Your community's safety is non-negotiable."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Every facility is unique. Contact us for a custom management quote tailored to your specific needs — no contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Safety-First\" Guarantee",
+    "description": "If you are not 100% satisfied with any aspect of our aquatic management, we will deploy additional resources and correct the issue at no extra cost. Your community's safety and satisfaction are our top priorities — we stand behind every lifeguard, every training session, and every day of operations we deliver."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you staff our facility?",
+      "answer": "For most facilities, we can deploy certified lifeguards and management staff within 2-4 weeks. For urgent needs, we maintain a rapid-response roster and can often place qualified personnel within days. We will work with your timeline."
+    },
+    {
+      "question": "Do you only serve Texas facilities?",
+      "answer": "While our roots are in Texas — serving Dallas, Austin, San Antonio, and surrounding communities — our leadership has managed aquatic operations across five states. We are actively expanding nationwide and welcome conversations about facilities anywhere in the country."
+    },
+    {
+      "question": "What certifications do your lifeguards hold?",
+      "answer": "All lifeguards hold current certifications including CPR/AED, First Aid, and lifeguard credentials from nationally recognized programs. Many also hold Water Safety Instructor and Certified Pool Operator certifications. We invest heavily in ongoing training."
+    },
+    {
+      "question": "Can you manage our existing staff or only provide your own?",
+      "answer": "Both. We can provide full staffing solutions, manage and train your existing team, or create a hybrid approach. Our consulting services also offer standalone training programs to elevate your current staff."
+    },
+    {
+      "question": "What types of facilities do you manage?",
+      "answer": "We manage HOA community pools, municipal aquatic centers, private swim clubs, resort and hotel pools, fitness center pools, and waterparks. Each facility gets a customized management plan designed for its specific needs and community."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Copper Canyon Community",
+      "context": "Bulverde, TX",
+      "initials": "CC",
+      "text": "The Poolside Aquatics crew was exceptional in helping us navigate operations for our brand-new, high-traffic facility. Their professionalism and expertise made all the difference during our first season."
+    },
+    {
+      "name": "Riverstone at Westpointe",
+      "context": "San Antonio, TX",
+      "initials": "RW",
+      "text": "If you are looking for lifeguards, you can't go wrong with Poolside. Their team is reliable, well-trained, and genuinely cares about the safety of our residents. We could not be happier."
+    },
+    {
+      "name": "Josette K., CMCA",
+      "context": "San Antonio, TX",
+      "initials": "JK",
+      "text": "They do an excellent job hiring the right people, training, providing consistent supervision, and communicating throughout the season. A true partner for any community association."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Elevate Your<br>Aquatic Operations?",
+    "subtitle": "Get a free, no-obligation facility assessment. We will deliver a customized management plan tailored to your community's needs within 48 hours.",
+    "benefits": [
+      "Free facility assessment with every inquiry",
+      "Custom management plan within 48 hours",
+      "No long-term contracts required"
+    ]
+  },
+  "footer": {
+    "description": "Nationwide aquatic management built on 40+ years of combined experience.",
+    "service_area": "Serving Dallas, Austin, San Antonio & Nationwide",
+    "services": [
+      "Facility Management",
+      "Lifeguard Staffing",
+      "Training Programs",
+      "Aquatic Consulting",
+      "Seasonal Operations"
+    ],
+    "copyright": "&copy; 2024 Poolside Aquatics. All rights reserved."
+  }
+}

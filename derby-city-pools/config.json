@@ -1,0 +1,183 @@
+{
+  "folder_name": "derby-city-pools",
+  "company_name": "Derby City Pools & Outdoor Living",
+  "tagline": "Make Your Dream Pool a Reality!",
+  "phone": "+1 502-548-4800",
+  "email": "info@derbycitypools.com",
+  "review_count": "31",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#112840",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#4a9fd5",
+    "cta": "#d4a84b",
+    "cta_dark": "#b8903a"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed KY Contractor",
+    "badge_2": "4.6/5 from 31+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 31+ Google Reviews",
+    "badge_2": "BBB A+ Accredited",
+    "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Starts Right Here</span>",
+    "subheadline": "For over 12 years, Louisville families have trusted Derby City Pools to design and build custom pools and outdoor living spaces that turn ordinary backyards into everyday escapes. From fiberglass to gunite, from patio to pavilion -- we handle every detail so you can skip straight to relaxing.",
+    "cta_text": "Start My Backyard Transformation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "On time & on budget -- guaranteed",
+      "Full-service design and build"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Backyards Transformed",
+    "stat_2_value": "12",
+    "stat_2_label": "Years in Louisville",
+    "stat_3_value": "10",
+    "stat_3_label": "Services In-House",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "What We Build",
+    "headline": "Everything You Need for<br class=\"hidden md:block\"> Your Perfect Outdoor Space",
+    "subtitle": "From the pool itself to the patio, kitchen, and landscaping around it -- Derby City Pools handles it all under one roof so your project stays seamless from first sketch to final splash.",
+    "cards": [
+      {
+        "title": "Fiberglass Pools",
+        "description": "Premium fiberglass pool installation with dozens of models, colors, and tiling options. Quick install, low maintenance, and built to last a lifetime."
+      },
+      {
+        "title": "Gunite & Custom Pools",
+        "description": "Fully custom gunite and liner pools designed to your exact vision. Unique shapes, depths, and features -- your imagination is the only limit."
+      },
+      {
+        "title": "Outdoor Kitchens",
+        "description": "Custom-built outdoor kitchens with grills, countertops, and storage that bring the full cooking experience to your backyard oasis."
+      },
+      {
+        "title": "Hardscapes & Patios",
+        "description": "Expert paver patios, retaining walls, and walkways that frame your pool with style and create functional gathering spaces."
+      },
+      {
+        "title": "Pavilions & Pergolas",
+        "description": "Custom shade structures, pool houses, and louvered pergolas that add comfort, privacy, and year-round enjoyment to your outdoor area."
+      },
+      {
+        "title": "Fire & Water Features",
+        "description": "Stunning waterfalls, fire pits, fire bowls, and bubblers that add ambiance and turn your backyard into a resort-worthy retreat."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Backyard",
+    "steps": [
+      {
+        "title": "Free Design Consultation",
+        "description": "We visit your property, listen to your vision, and walk through options that fit your space and budget. No pressure, no obligation -- just honest expert advice."
+      },
+      {
+        "title": "Custom Design & Build",
+        "description": "Our in-house team handles every detail -- pool construction, hardscaping, structures, landscaping, and lighting. One crew, one timeline, zero headaches."
+      },
+      {
+        "title": "Dive Into Your New Life",
+        "description": "Your backyard transformation is complete. Fire up the grill, turn on the waterfalls, and enjoy the outdoor living space you have always wanted."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Louisville Trusts Us",
+    "headline": "Not Just Pool Builders -- Your Complete Outdoor Living Partner",
+    "description": "Founded in 2014 by Alex Fransen, Derby City Pools has spent over 12 years turning Louisville backyards into resort-style destinations. We are a licensed Kentucky contractor with an A+ BBB rating, and we handle everything in-house -- pools, patios, kitchens, structures, landscaping, and lighting. That means one team, one vision, and a finished product that exceeds your expectations.",
+    "badge": "Licensed KY Contractor",
+    "features": [
+      {
+        "title": "Everything Under One Roof",
+        "description": "Pool, patio, kitchen, pergola, landscaping, and lighting -- all designed and built by our crew. No subcontractor juggling."
+      },
+      {
+        "title": "On Time & On Budget",
+        "description": "Transparent pricing, clear timelines, and consistent communication from the first meeting to the final walkthrough."
+      },
+      {
+        "title": "12 Years of Louisville Expertise",
+        "description": "We know the local soil, codes, and climate. Our experience means fewer surprises and a smoother build for your family."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is custom, so we quote based on your specific vision, space, and budget. Request your free consultation to get a detailed, honest estimate."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "We stand behind every project we build. If any element of your pool or outdoor living space does not meet the standards we agreed on, we will come back and make it right at no additional cost. That is the Derby City promise -- your satisfaction is not negotiable."
+  },
+  "faqs": [
+    {
+      "question": "How long does a pool installation take?",
+      "answer": "Fiberglass pools can be installed in as little as 2 weeks. Gunite pools typically take 8-12 weeks depending on complexity. We give you a clear timeline upfront and keep you updated throughout the entire process."
+    },
+    {
+      "question": "Do you handle the entire backyard project?",
+      "answer": "Yes! That is our specialty. We design and build everything -- pool, patio, outdoor kitchen, pergola, landscaping, lighting, and fire features. One team manages it all so nothing falls through the cracks."
+    },
+    {
+      "question": "What types of pools do you offer?",
+      "answer": "We install fiberglass, gunite, liner, bio-design, natural, and plungie pre-cast pools. During your free consultation, we help you choose the best option for your backyard, lifestyle, and budget."
+    },
+    {
+      "question": "How much does a custom pool cost?",
+      "answer": "Every project is different, so pricing depends on pool type, size, features, and surrounding outdoor living elements. We provide a detailed, transparent quote after your free on-site consultation -- no hidden fees or surprise charges."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We are a licensed Kentucky contractor (ID: 16CONT1328-BUS), MSD certified, and carry full liability insurance. We also hold an A+ rating with the Better Business Bureau."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "John R.",
+      "context": "Pool and hot tub installation",
+      "initials": "JR",
+      "text": "Derby City Pools was great to work with from start to finish! They had our pool and hot tub done in 11 working days. Could not be happier with the result."
+    },
+    {
+      "name": "Donna C.",
+      "context": "Custom pool build",
+      "initials": "DC",
+      "text": "Alex, Rick and their crew were a pleasure to work with. The quality of the pool itself is terrific and makes our yard an inviting space we use every single day."
+    },
+    {
+      "name": "Tracey S.",
+      "context": "Complete backyard transformation",
+      "initials": "TS",
+      "text": "We truly appreciated all of the hard work and attention to details from Derby City Pools. Everyone on their team was friendly, knowledgeable, and had a real sense of urgency."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Backyard?",
+    "subtitle": "Get a free, no-obligation design consultation. We will visit your property, discuss your vision, and provide an honest quote -- all on your schedule.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed quote within one week",
+      "Licensed, insured & BBB A+ rated"
+    ]
+  },
+  "footer": {
+    "description": "Louisville's trusted pool builder and outdoor living experts since 2014.",
+    "service_area": "Serving Louisville, KY & Surrounding Communities",
+    "services": [
+      "Fiberglass Pools",
+      "Gunite & Custom Pools",
+      "Outdoor Kitchens",
+      "Hardscapes & Patios",
+      "Pavilions & Pergolas"
+    ],
+    "copyright": "&copy; 2024 Derby City Pools & Outdoor Living. All rights reserved. Licensed KY Contractor #16CONT1328-BUS"
+  }
+}

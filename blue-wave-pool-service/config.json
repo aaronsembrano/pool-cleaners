@@ -1,0 +1,184 @@
+{
+  "folder_name": "blue-wave-pool-service",
+  "company_name": "Blue Wave Pool Service",
+  "tagline": "Water at its best",
+  "phone": "(203) 248-0429",
+  "email": "bdiglio@bluewavepoolspa.com",
+  "logo_path": "",
+  "review_count": "31",
+  "review_rating": "4.3",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133c57",
+    "primary_deeper": "#0d2a3d",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "CT Licensed & Insured",
+    "badge_2": "4.3/5 from 31+ Reviews",
+    "badge_3": "Family-Owned Since 1984"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 31+ Google Reviews",
+    "badge_2": "NESPA Gold Award Winner",
+    "headline": "40 Years of Pools Done <span class=\"text-secondary italic\">Right in Connecticut</span>",
+    "subheadline": "Since 1984, Connecticut families have trusted Blue Wave to keep their pools crystal clear. Licensed, certified, and family-run — we handle the water chemistry so you can enjoy the swim.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free computerized water testing",
+      "Fully CT licensed & certified",
+      "NESPA Gold Award service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1984",
+    "stat_2_value": "40",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "CT State Licenses Held",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Certified"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> a Family That Knows Water",
+    "subtitle": "From weekly maintenance to advanced water treatment systems, Blue Wave has been Connecticut's trusted pool partner for over four decades. Every service backed by state licensing and real expertise.",
+    "cards": [
+      {
+        "title": "Pool Service & Repair",
+        "description": "Comprehensive maintenance, repair, and renovation for residential and commercial in-ground pools. Customizable service plans including openings, closings, and weekly check-ups to keep your pool in peak condition."
+      },
+      {
+        "title": "Free Water Testing",
+        "description": "Complimentary computerized water analysis at our Wallingford store. Our experts provide detailed recommendations for water balance, chemical treatments, and ongoing care based on precise results."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Certified Pool Inspector (CPI) evaluations for residential and commercial properties. Thorough assessments that meet Connecticut health department regulations and compliance standards."
+      },
+      {
+        "title": "Chemicals & Supplies",
+        "description": "Full retail store stocked with premium pool and spa products from Orenda, Bio-Dex, Pro Team, and Jack's Magic. Water treatments, stain removers, equipment, and everything in between."
+      },
+      {
+        "title": "Advanced Water Treatment",
+        "description": "Clear Comfort AOP sanitation systems that deliver drinking-water-level chlorine while reducing chemical use by up to 50% and destroying 99.99%+ of harmful contaminants."
+      },
+      {
+        "title": "CPO Certification Training",
+        "description": "Certified Pool Operator courses for aquatics professionals, available online and in-classroom. Expert instruction on pool operations, water chemistry, and health department compliance."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Water at Its Best",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call us or stop by our Wallingford store. We'll discuss your pool's needs, provide a free water test, and give you an honest, no-pressure quote within 24 hours."
+      },
+      {
+        "title": "We Put 40 Years to Work",
+        "description": "Our licensed, certified technicians arrive on schedule with the expertise of four decades behind them. Cleaning, chemistry, equipment, inspections — all handled with care."
+      },
+      {
+        "title": "Enjoy Your Perfect Pool",
+        "description": "Your pool stays crystal clear, properly balanced, and swim-ready all season. With Blue Wave, the only thing you need to worry about is which floatie to grab."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Connecticut Trusts Blue Wave",
+    "headline": "Family-Owned Since 1984 — Three Licenses, One Standard of Excellence",
+    "description": "Blue Wave Pool Service is a family-run business led by Brian and Tracy Diglio, serving Connecticut since 1984. Originally based in Hamden, we relocated to our Wallingford facility in 2021 to better serve our growing community. With three Connecticut state licenses, NESPA Gold Award recognition, and decades of hands-on expertise, we bring a level of care that only a family business can deliver. Every pool we touch reflects our reputation — and we take that personally.",
+    "badge": "NESPA Gold Award",
+    "features": [
+      {
+        "title": "Triple-Licensed in Connecticut",
+        "description": "We hold Service, HIC, and Builder's licenses from the State of Connecticut — the full set required to handle any pool project with complete compliance."
+      },
+      {
+        "title": "Certified Pool Inspectors",
+        "description": "Our CPI-certified team delivers thorough evaluations that meet Connecticut health department regulations. We also train other professionals through CPO courses."
+      },
+      {
+        "title": "NESPA Gold Service Award",
+        "description": "Recognized with the 2023 NESPA Gold Service Award for outstanding service quality. Our reputation is built on referrals, not advertising."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different. Tell us about yours and we'll provide an honest quote — no hidden fees, no upselling, just fair pricing from a family that values long-term relationships."
+  },
+  "guarantee": {
+    "headline": "Our \"Water at Its Best\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've been building trust in Connecticut since 1984, and your satisfaction is how we've stayed in business for over 40 years. If it's not right, we fix it — period."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Blue Wave start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent issues, call our Wallingford office at (203) 248-0429 and we'll do our best to accommodate same-week service."
+    },
+    {
+      "question": "What areas in Connecticut do you serve?",
+      "answer": "We serve Wallingford, Hamden, and surrounding communities across Connecticut. Our team is fully licensed to operate statewide with Service, HIC, and Builder's licenses."
+    },
+    {
+      "question": "Do you offer free water testing?",
+      "answer": "Yes! Stop by our Wallingford retail location anytime for a free computerized water analysis. Our experts will provide detailed recommendations for keeping your water perfectly balanced."
+    },
+    {
+      "question": "Are your technicians licensed and certified?",
+      "answer": "Absolutely. Blue Wave holds three Connecticut state licenses (Service PLM.0280279-SP1, HIC.0554471, and Builder's SPB.0000118). Our team includes Certified Pool Inspectors and we even offer CPO certification training."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Yes. We service commercial and residential in-ground pools across Connecticut. As an Easton Select Group member, we meet national-caliber service standards. Brian Diglio also provides expert witness services and professional consulting for commercial facilities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Henry S.",
+      "text": "Needed a specific part for my heater and Justin went above and beyond to get me what I needed. They're knowledgeable, helpful, friendly and I would highly recommend them.",
+      "context": "Pool heater repair",
+      "initials": "HS"
+    },
+    {
+      "name": "Long-time Client",
+      "text": "We have used Blue Wave for many years for pool opening, closing, and weekly pool check-ups along with hot tub testing. The staff are polite and super informative, and the phone support is friendly and helpful.",
+      "context": "Weekly maintenance customer",
+      "initials": "LC"
+    },
+    {
+      "name": "Satisfied Customer",
+      "text": "Aileen provides exceptional customer service that is far beyond 5 stars. She is incredibly knowledgeable and makes every experience seamless and enjoyable.",
+      "context": "Retail store experience",
+      "initials": "SC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Water<br>at Its Best?",
+    "subtitle": "Get a free quote and complimentary water test from Connecticut's trusted pool family. Over 40 years of experience, three state licenses, and a commitment to getting it right.",
+    "benefits": [
+      "Free computerized water testing included",
+      "Response within 24 hours",
+      "40+ years of family-owned expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Connecticut since 1984.",
+    "service_area": "Serving Wallingford, Hamden & All of Connecticut",
+    "services": [
+      "Pool Service & Repair",
+      "Free Water Testing",
+      "Pool Inspections",
+      "Chemicals & Supplies",
+      "CPO Training"
+    ],
+    "copyright": "&copy; 2024 Blue Wave Pool Service and Supplies, Inc. All rights reserved. CT Lic# PLM.0280279-SP1 | HIC.0554471 | SPB.0000118"
+  }
+}

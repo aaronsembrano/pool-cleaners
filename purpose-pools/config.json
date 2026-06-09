@@ -1,0 +1,183 @@
+{
+  "folder_name": "purpose-pools",
+  "company_name": "Purpose Pools",
+  "tagline": "Dive into Excellence — Revolutionizing Pool Service in Las Vegas",
+  "phone": "+1 702-703-2625",
+  "email": "scott@purposepools.com",
+  "review_count": "394",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133b56",
+    "primary_deeper": "#0d2a3e",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "Authorized Jandy Warranty Station",
+    "badge_2": "4.8/5 from 394+ Reviews",
+    "badge_3": "24/7 Emergency Service"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 394+ Google Reviews",
+    "badge_2": "Authorized Jandy Warranty Station",
+    "headline": "Your Pool Equipment <span class=\"text-secondary italic\">Fixed Right,<br>Guaranteed</span>",
+    "subheadline": "When your pool equipment breaks down, you need a team that picks up the phone the same day and gets it done right. Purpose Pools is Henderson's trusted warranty station and repair specialist — so you can stop worrying and start swimming.",
+    "cta_text": "Get My Same-Day Response",
+    "checkmarks": [
+      "Same-day contact on every claim",
+      "Authorized Jandy warranty repairs",
+      "Trusted by the nation's top builders"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "394",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "7",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "5000",
+    "stat_3_label": "Equipment Repairs Done",
+    "stat_4_value": "24/7",
+    "stat_4_label": "Emergency Availability"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Expert Pool Equipment Service<br class=\"hidden md:block\">You Can Actually Count On",
+    "subtitle": "From broken pumps to full equipment installs, Purpose Pools handles it all with factory-trained precision. We are an authorized Jandy warranty station trusted by the biggest builders in the country.",
+    "cards": [
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and all pool equipment. We contact you the same business day and keep you updated until it is resolved."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of new pumps, filters, heaters, salt systems, and automation controls. Done right the first time with manufacturer-backed warranties."
+      },
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Routine cleaning and ongoing maintenance to keep your pool healthy, sparkling, and running at peak performance all year long."
+      },
+      {
+        "title": "Spa Cleaning & Service",
+        "description": "Comprehensive spa and hot tub cleaning, maintenance, and equipment service. Enjoy your spa without lifting a finger."
+      },
+      {
+        "title": "Warranty Service",
+        "description": "As an authorized Jandy warranty station, we handle professional warranty repairs and claims processing so you get factory-backed fixes fast."
+      },
+      {
+        "title": "Builder Partnership Services",
+        "description": "Dedicated equipment service for major builders including Anthony & Sylvan and Premier Pools & Spas. Post-construction equipment handled with care."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Equipment That Just Works",
+    "steps": [
+      {
+        "title": "Call or Text Us Today",
+        "description": "Reach out about your pool equipment issue. We contact you the same business day — no waiting around, no phone tag, no runaround."
+      },
+      {
+        "title": "We Diagnose & Fix It Right",
+        "description": "Our factory-trained technicians arrive, diagnose the problem accurately, and repair or install your equipment with precision. Regular updates until it is solved."
+      },
+      {
+        "title": "Enjoy a Worry-Free Pool",
+        "description": "Your equipment runs like new, backed by manufacturer warranties and our commitment to getting it right. If something is off, we come back and make it right."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Henderson Trusts Purpose Pools",
+    "headline": "Founded on Doing the Right Thing — Every Single Time",
+    "description": "Scott Reynolds started Purpose Pools in 2019 with one mission: treat every pool like it is his own. Nominated as Pool Guy of the Year by Pool Nation, Scott and his team have earned the trust of the nation's largest builders — Anthony & Sylvan and Premier Pools & Spas — along with nearly 400 five-star reviews from homeowners across the Las Vegas valley. We also donate a portion of profits to charities nominated by our customers, because serving this community means more than just fixing pools.",
+    "badge": "Authorized Jandy Station",
+    "features": [
+      {
+        "title": "Same-Day Contact, Every Time",
+        "description": "We reach out the same business day you submit a claim. No waiting days for a callback — you hear from us before the day is over."
+      },
+      {
+        "title": "Trusted by the Biggest Builders",
+        "description": "Anthony & Sylvan and Premier Pools & Spas choose us for their post-construction equipment needs. That trust is earned, not given."
+      },
+      {
+        "title": "Community-First Business",
+        "description": "We donate a portion of our profits to charities nominated by our customers. Your pool service dollars help make Henderson a better place."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Honest quotes before work begins. No hidden fees, no upsells — just fair pricing for expert equipment service."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If your equipment repair or installation does not meet your expectations, we come back and make it right at no additional cost. As an authorized Jandy warranty station, our work is backed by factory standards. We do not consider the job done until you are completely satisfied — period."
+  },
+  "faqs": [
+    {
+      "question": "How fast can you respond to my equipment issue?",
+      "answer": "We contact you the same business day we receive your service claim. For emergencies, we offer 24/7 availability. Most repairs are scheduled within 1-3 business days depending on parts availability."
+    },
+    {
+      "question": "Are you an authorized warranty service center?",
+      "answer": "Yes. Purpose Pools is an authorized Jandy warranty station, which means we perform factory-backed warranty repairs. We handle the entire claims process so you do not have to deal with the paperwork."
+    },
+    {
+      "question": "Do you work with pool builders?",
+      "answer": "Absolutely. We are the trusted service partner for Anthony & Sylvan (the nation's largest pool installer) and Premier Pools & Spas (the world's biggest pool builder). We handle their post-construction equipment needs across the Las Vegas valley."
+    },
+    {
+      "question": "What brands of equipment do you service?",
+      "answer": "We service all major pool equipment brands including Jandy, Pentair, Hayward, Zodiac, and more. As an authorized Jandy warranty station, we have specialized expertise with Jandy products and parts in stock."
+    },
+    {
+      "question": "Do you offer ongoing pool maintenance?",
+      "answer": "Yes. Beyond equipment repair and installation, we provide routine pool and spa cleaning and maintenance. Many customers start with a repair and stay for the ongoing service because of the quality and reliability."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Yelp Reviewer",
+      "context": "Pool pump repair",
+      "initials": "VR",
+      "text": "My pump was leaking and after another company didn't show up, I called Purpose and they had it fixed the next day. Excellent service!"
+    },
+    {
+      "name": "Long-time Client",
+      "context": "Ongoing pool maintenance",
+      "initials": "LC",
+      "text": "Purpose Pools is great! They are there to answer and help whenever I've needed them! Pricing is great and I couldn't imagine doing business with anyone else!"
+    },
+    {
+      "name": "Equipment Repair Customer",
+      "context": "Equipment repair service",
+      "initials": "EC",
+      "text": "Scott is one of the best when it comes to dealing with customers. Always kind and a straight shooter. Great service and prices on repair."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Equipment That<br>Actually Works?",
+    "subtitle": "Call, text, or fill out the form and we will contact you the same business day. No pressure, no runaround — just honest answers from a team that cares.",
+    "benefits": [
+      "Same-day response on every inquiry",
+      "Authorized Jandy warranty repairs",
+      "394+ five-star reviews from real customers"
+    ]
+  },
+  "footer": {
+    "description": "Henderson's trusted pool equipment repair and service company. Authorized Jandy warranty station since 2019.",
+    "service_area": "Serving Henderson, Las Vegas, North Las Vegas, Boulder City & Paradise, NV",
+    "services": [
+      "Equipment Repair",
+      "Equipment Installation",
+      "Pool Maintenance",
+      "Warranty Service",
+      "Spa Service"
+    ],
+    "copyright": "&copy; 2024 Purpose Pools. All rights reserved."
+  }
+}

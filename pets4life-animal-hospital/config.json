@@ -1,0 +1,184 @@
+{
+  "folder_name": "pets4life-animal-hospital",
+  "company_name": "Pets4Life Animal Hospital",
+  "tagline": "Partnering With Vets to Serve Pets",
+  "phone": "+1 847-434-2745",
+  "email": "greg@pets4.com",
+  "logo_path": "",
+  "review_count": "37",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122841",
+    "primary_deeper": "#0B1A2D",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited",
+    "badge_2": "4.9/5 from 37+ Reviews",
+    "badge_3": "Walk-Ins Welcome"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 37+ Google Reviews",
+    "badge_2": "Bilingual Staff (EN/ES)",
+    "headline": "Your Pet Deserves a <span class=\"text-secondary italic\">Family That Cares</span>",
+    "subheadline": "From wellness exams to grooming, day camp, and surgery, Pets4Life brings everything your pet needs under one roof. Dr. DeSa and our Highland Park team treat every pet like our own.",
+    "cta_text": "Book Your Pet's Visit",
+    "checkmarks": [
+      "Comprehensive wellness exams",
+      "Walk-ins welcome, Saturdays too",
+      "English & Spanish speaking staff"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "37",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "10",
+    "stat_2_label": "Years Veterinary Experience",
+    "stat_3_value": "6",
+    "stat_3_label": "Services Under One Roof",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family-First Care"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pet Care<br class=\"hidden md:block\"> All Under One Roof",
+    "subtitle": "No more driving across town for different pet needs. From checkups to grooming to day camp, Pets4Life handles it all with the love and expertise your pet deserves.",
+    "cards": [
+      {
+        "title": "Wellness Exams & Vaccines",
+        "description": "Thorough nose-to-tail wellness exams, vaccinations, and preventive care protocols to keep your pet healthy at every life stage."
+      },
+      {
+        "title": "Surgical Services",
+        "description": "ACL repair, soft tissue surgery, spay/neuter, and advanced procedures performed by experienced surgeons with specialized anesthesia training."
+      },
+      {
+        "title": "Dental Care",
+        "description": "Professional dental cleanings, digital radiography, oral surgery, and extractions to protect your pet's oral health and overall well-being."
+      },
+      {
+        "title": "Diagnostics & Imaging",
+        "description": "On-site lab work, digital radiology, ultrasound, and dental X-rays for fast, accurate diagnoses without the wait."
+      },
+      {
+        "title": "Grooming & Spa",
+        "description": "Full-service grooming including baths, haircuts, nail trims, ear cleaning, and brush-outs in a calm, stress-free spa environment."
+      },
+      {
+        "title": "Doggy Day Camp",
+        "description": "Supervised socialization, exercise, and enrichment in our boutique day camp. Your dog comes home happy, tired, and well-loved."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Happier, Healthier Pets",
+    "steps": [
+      {
+        "title": "Book Your Appointment",
+        "description": "Call us, book online, or just walk in. We offer flexible scheduling including Saturdays. New patients always welcome — no referral needed."
+      },
+      {
+        "title": "Meet Dr. DeSa & Our Team",
+        "description": "Our bilingual veterinary team performs a comprehensive evaluation, explains every finding clearly, and creates a personalized care plan for your pet."
+      },
+      {
+        "title": "Enjoy Peace of Mind",
+        "description": "With wellness, surgery, grooming, day camp, and telehealth all under one roof, your pet's health is covered. We become your pet's second family."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pet Parents Trust Us",
+    "headline": "More Than a Vet — Your Pet's Complete Care Team",
+    "description": "Founded by Dr. Joseph DeSa, DVM, with over a decade of veterinary experience and specialized training in anesthesia and pain management from the University of Illinois. Pets4Life is Highland Park's only all-in-one pet care destination — combining a full veterinary hospital, grooming spa, doggy day camp, retail boutique, and training programs. Our bilingual team treats every pet like family because that is exactly what they are.",
+    "badge": "Doctor of Veterinary Medicine",
+    "features": [
+      {
+        "title": "Board-Certified Surgical Network",
+        "description": "Access to affiliate board-certified surgeons for advanced procedures, right here at our facility. No outside referrals needed."
+      },
+      {
+        "title": "Walk-Ins Welcome, Saturdays Too",
+        "description": "We know pet emergencies do not follow a schedule. Walk in any day including Saturday for veterinary or grooming services."
+      },
+      {
+        "title": "Compassionate End-of-Life Care",
+        "description": "In-home end-of-life services and eco-friendly water cremation, providing dignity and peace for families during the hardest moments."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pet deserves quality care without hidden fees. We provide upfront pricing for all services — from wellness visits to grooming packages."
+  },
+  "guarantee": {
+    "headline": "Our \"Family-First\" Care Promise",
+    "description": "If you are not completely satisfied with any visit, we will make it right at no additional charge. Dr. DeSa and our team stand behind every exam, every procedure, and every grooming session. Your pet's health and your peace of mind are our top priorities — no exceptions."
+  },
+  "faqs": [
+    {
+      "question": "Do I need an appointment or can I walk in?",
+      "answer": "Both! We welcome walk-ins for veterinary and grooming services, including Saturdays. For surgical or specialty services, we recommend scheduling in advance so we can prepare everything your pet needs."
+    },
+    {
+      "question": "What makes Pets4Life different from other vets?",
+      "answer": "We are the only facility in Highland Park that combines a full veterinary hospital, grooming spa, doggy day camp, retail boutique, and training under one roof. Dr. DeSa brings 10+ years of experience with specialized anesthesia training, and our bilingual team serves in English and Spanish."
+    },
+    {
+      "question": "Do you offer emergency services?",
+      "answer": "We handle urgent care during business hours and walk-ins are always welcome. For after-hours emergencies, we will connect you with our trusted emergency partner hospitals and can follow up with telehealth consultations the next day."
+    },
+    {
+      "question": "Can I stay with my pet during the exam?",
+      "answer": "Absolutely. We encourage pet parents to be present during exams. Our team explains every step clearly so you understand your pet's health and feel confident in the care plan we create together."
+    },
+    {
+      "question": "Do you offer telehealth or virtual visits?",
+      "answer": "Yes! Our telehealth consultations let you connect with our veterinary team from home for non-emergency concerns, follow-up care, and quick questions. It is a convenient option for busy families or pets who stress during travel."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Becca C.",
+      "context": "Veterinary Care",
+      "initials": "BC",
+      "text": "I truly cannot express how incredible Pets4Life is and how truly amazing Dr. DeSa is. I have never met a more compassionate vet in my life! He has provided the absolute best care for our dog!"
+    },
+    {
+      "name": "Alex V.",
+      "context": "Grooming Services",
+      "initials": "AV",
+      "text": "The whole team could not be more patient, kind, and accommodating. They made the entire experience stress-free for both us and our dog."
+    },
+    {
+      "name": "Becca C.",
+      "context": "Facility and Staff",
+      "initials": "BC",
+      "text": "The clinic is absolutely beautiful, and the care is above and beyond! We are so grateful to Dr. DeSa and Dr. Gabby for everything they have done for our family."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Give Your Pet<br>the Best Care Possible?",
+    "subtitle": "Book an appointment or walk in today. Our Highland Park team is ready to welcome you and your pet with open arms — in English or Spanish.",
+    "benefits": [
+      "Comprehensive wellness exam for new patients",
+      "Same-day walk-in availability",
+      "Bilingual staff ready to help"
+    ]
+  },
+  "footer": {
+    "description": "Highland Park's all-in-one pet care destination. Veterinary hospital, grooming, day camp, and more.",
+    "service_area": "Serving Highland Park, North Shore & Lake County, IL",
+    "services": [
+      "Wellness Exams",
+      "Surgical Services",
+      "Dental Care",
+      "Grooming & Spa",
+      "Doggy Day Camp"
+    ],
+    "copyright": "&copy; 2026 Pets4Life Animal Hospital. All rights reserved. Highland Park, Illinois."
+  }
+}

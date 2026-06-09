@@ -1,0 +1,184 @@
+{
+  "folder_name": "aquatica-pool-management",
+  "company_name": "Aquatica Pool Management",
+  "tagline": "Making Your Summer Season a Swimming Success",
+  "phone": "(210) 315-7665",
+  "email": "service@aquatica-pools.com",
+  "logo_path": "",
+  "review_count": "15",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0369a1",
+    "primary_dark": "#024e7a",
+    "primary_deeper": "#01344f",
+    "secondary": "#0ea5e9",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "trust_badges": {
+    "badge_1": "Red Cross Certified Staff",
+    "badge_2": "4.8/5 Google Rated",
+    "badge_3": "Serving San Antonio Since 2006"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 15+ Google Reviews",
+    "badge_2": "Serving North San Antonio Since 2006",
+    "headline": "Your Community Pool, <span class=\"text-secondary italic\">Professionally<br>Managed</span>",
+    "subheadline": "For nearly 20 years, San Antonio HOAs have trusted Aquatica to keep their pools safe, sparkling, and staffed with certified lifeguards. We handle every detail so your board and residents can just enjoy the water.",
+    "cta_text": "Request a Pool Management Quote",
+    "checkmarks": [
+      "Red Cross Certified Lifeguards",
+      "North San Antonio coverage",
+      "Full-service pool management"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "50",
+    "stat_1_label": "HOA Communities Served",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in San Antonio",
+    "stat_3_value": "1000",
+    "stat_3_label": "Seasons Managed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Safety Record"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete HOA Pool Management<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From certified lifeguards to water chemistry to emergency repairs, Aquatica handles every aspect of your community pool so your board never has to worry.",
+    "cards": [
+      {
+        "title": "Pool Maintenance Programs",
+        "description": "Customized maintenance plans including water chemistry management, equipment monitoring, and thorough cleaning to keep your community pool pristine all season."
+      },
+      {
+        "title": "Certified Lifeguard Staffing",
+        "description": "American Red Cross Certified Lifeguards and trained Pool Attendants who ensure a safe, professional swimming environment for every resident."
+      },
+      {
+        "title": "Facility Management",
+        "description": "Full-service operations management for your aquatic facility — scheduling, compliance, access control, and daily oversight handled seamlessly."
+      },
+      {
+        "title": "Water Chemistry & Testing",
+        "description": "Precise chemical balancing performed by CPO-certified technicians. Crystal clear, safe water that meets every health department standard."
+      },
+      {
+        "title": "Repair & Renovation",
+        "description": "From pump repairs and equipment replacement to full facility renovations, we keep your pool infrastructure in peak condition year after year."
+      },
+      {
+        "title": "Lifeguard Training & Certification",
+        "description": "Professional American Red Cross lifeguard training and certification classes to develop qualified aquatic safety personnel for your community."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool Season",
+    "steps": [
+      {
+        "title": "Schedule Your Facility Assessment",
+        "description": "We visit your community pool, assess the facility, and build a customized management plan. No pressure, no obligation — just an honest evaluation."
+      },
+      {
+        "title": "We Staff, Maintain & Manage",
+        "description": "Our Red Cross Certified lifeguards, CPO technicians, and trained attendants handle every detail — from opening day through the last swim of summer."
+      },
+      {
+        "title": "Your Residents Enjoy a Perfect Pool",
+        "description": "Clean water, safe operations, and professional staff mean your HOA board gets compliments instead of complaints. That is the Aquatica difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why HOAs Trust Aquatica",
+    "headline": "San Antonio's Dedicated Community Pool Experts Since 2006",
+    "description": "Aquatica Pool Management was founded with one clear mission: give San Antonio neighborhood associations the highest caliber of professional pool management. We intentionally limit our coverage to northern San Antonio so every client gets responsive, personalized service — not a distant corporate call center. Our team of CPO-certified technicians and Red Cross lifeguards treat your community pool like their own.",
+    "badge": "CPO & Red Cross Certified",
+    "features": [
+      {
+        "title": "Red Cross Certified Lifeguards",
+        "description": "Every lifeguard on our team holds current American Red Cross certification with ongoing training and skills assessments throughout the season."
+      },
+      {
+        "title": "Limited Service Area by Design",
+        "description": "We only serve northern San Antonio. This intentional focus means faster response times, more frequent check-ins, and truly personalized service."
+      },
+      {
+        "title": "20 Years of Community Trust",
+        "description": "Since 2006, HOA boards across Bexar County have relied on Aquatica for safe, clean, professionally managed community pools every summer."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing for HOA Pool Management.",
+    "subtitle": "Every community is different. We build custom management plans to match your facility, budget, and season length — no hidden fees, no surprises."
+  },
+  "guarantee": {
+    "headline": "Our \"Safe & Sparkling\" Guarantee",
+    "description": "If your community pool does not meet our standards of cleanliness, safety, and professionalism on any visit, we will return and correct it at no additional charge. Your residents deserve a pool they can trust, and we stand behind that commitment every single day of the season."
+  },
+  "faqs": [
+    {
+      "question": "What areas of San Antonio do you serve?",
+      "answer": "We exclusively serve northern San Antonio and Bexar County. This intentionally limited coverage area ensures we can respond quickly and provide the personalized attention your community pool deserves."
+    },
+    {
+      "question": "Are your lifeguards certified?",
+      "answer": "Yes. Every Aquatica lifeguard holds a current American Red Cross Lifeguard certification. We also provide ongoing training and skills assessments throughout the season to maintain the highest safety standards."
+    },
+    {
+      "question": "Can you manage our HOA pool for the entire season?",
+      "answer": "Absolutely. We provide full-season management including staffing, maintenance, water chemistry, equipment monitoring, and repairs. We handle opening, daily operations, and closing so your board can focus on other priorities."
+    },
+    {
+      "question": "How quickly can you respond to equipment issues?",
+      "answer": "Because we limit our service area to northern San Antonio, our technicians can typically respond within the same day for urgent equipment issues. Routine repairs are scheduled within 48 hours."
+    },
+    {
+      "question": "Do you offer lifeguard training for our staff?",
+      "answer": "Yes. We are an American Red Cross Lifeguard Training provider. We offer certification classes for individuals and groups, and can train lifeguards specifically for your facility and its unique requirements."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert M.",
+      "text": "Aquatica has managed our community pool for years and the level of professionalism and responsiveness is outstanding. Their lifeguards are well-trained and our pool has never looked better.",
+      "context": "HOA Board Member",
+      "initials": "RM"
+    },
+    {
+      "name": "Linda S.",
+      "text": "We switched to Aquatica and immediately noticed the difference. Their limited service area means they are always available when we need them, and their technicians keep our pool in perfect condition.",
+      "context": "Neighborhood Association President",
+      "initials": "LS"
+    },
+    {
+      "name": "David W.",
+      "text": "The team at Aquatica truly cares about safety and cleanliness. Their certified staff and attention to detail give our residents peace of mind every summer season.",
+      "context": "Community Manager",
+      "initials": "DW"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool Season<br>Your Residents Love?",
+    "subtitle": "Get a free facility assessment and custom management proposal. No pressure, no obligation — just a straightforward plan for a better pool season.",
+    "benefits": [
+      "Free facility assessment included",
+      "Custom proposal within 48 hours",
+      "Red Cross Certified staff guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Professional HOA pool management serving northern San Antonio since 2006.",
+    "service_area": "Serving Northern San Antonio & Bexar County",
+    "services": [
+      "Pool Maintenance",
+      "Lifeguard Staffing",
+      "Facility Management",
+      "Repair & Renovation",
+      "Lifeguard Training"
+    ],
+    "copyright": "&copy; 2024 Aquatica Pool Management, Inc. All rights reserved. San Antonio, TX"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "mystic-pool",
+  "company_name": "Mystic Pool Service & Supplies",
+  "tagline": "Honest, Trustworthy & The Highest Quality Pool Service",
+  "phone": "(732) 656-0200",
+  "email": "jay@mysticpool.com",
+  "logo_path": "",
+  "review_count": "41",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133b56",
+    "primary_deeper": "#0d2a3e",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "AST & CPO Certified",
+    "badge_2": "4.4/5 from 41+ Reviews",
+    "badge_3": "Award-Winning Company"
+  },
+  "hero": {
+    "badge_1": "4.4/5 from 41+ Google Reviews",
+    "badge_2": "Award-Winning Since 2007",
+    "headline": "Award-Winning Pool Care <span class=\"text-secondary italic\">You Can Trust</span>",
+    "subheadline": "For 19 years, Central New Jersey families have counted on Mystic Pool for honest service and crystal-clear results. Our certified technicians handle every detail so you can stop worrying and start swimming.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "AST & CPO certified techs",
+      "Two retail locations near you"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "19",
+    "stat_2_label": "Years of Service",
+    "stat_3_value": "2",
+    "stat_3_label": "Retail Locations",
+    "stat_4_value": "100%",
+    "stat_4_label": "Certified Staff"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Central New Jersey Homeowners",
+    "subtitle": "From weekly maintenance to major repairs, Mystic Pool has every service your pool needs under one roof. Two retail locations, certified technicians, and 19 years of experience behind every visit.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Complete weekly maintenance including chemical balancing, skimming, vacuuming, and equipment checks. Your pool stays clean, safe, and swim-ready all season long."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Expert sales, installation, and repair of pool filters, heaters, pumps, and automation systems from top brands. Most repairs completed same-visit."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Professional seasonal opening and closing services including equipment startup, winterization, cover installation, and full system inspection to protect your investment."
+      },
+      {
+        "title": "Water Testing & Chemistry",
+        "description": "Precise water testing and chemical balancing available in-store at both locations and on-site. Crystal-clear, healthy water that is gentle on skin and eyes."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Advanced leak detection services to locate and diagnose leaks in pool structures, plumbing lines, and equipment before they cause costly damage to your property."
+      },
+      {
+        "title": "Safety Cover Installation",
+        "description": "Authorized Merlin Industries dealer for new safety cover sales and installation, plus expert repair of existing covers to keep your family protected year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call us, visit either retail location, or fill out our form. We will provide an honest, no-pressure assessment and quote. No hidden fees, no surprises."
+      },
+      {
+        "title": "Our Certified Team Gets to Work",
+        "description": "AST and CPO certified technicians arrive on schedule with the right equipment and expertise. We handle cleaning, chemistry, repairs, and everything in between."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and swim-ready all season. If something is not right, we come back and make it right. That is the Mystic Pool promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central NJ Trusts Us",
+    "headline": "Privately Owned Since 2007 — Your Neighbors, Not a Franchise",
+    "description": "Mystic Pool was founded on a simple philosophy: be honest, be trustworthy, and deliver only the highest quality service. Nineteen years later, we are still privately owned and operated, still serving the same communities in Monmouth and Middlesex Counties. Our AST and CPO certified staff, industry affiliations with NSPF, APSP, and NESPA, and two retail locations in Old Bridge and Marlboro mean you are always working with people who know your pool and care about getting it right.",
+    "badge": "AST & CPO Certified",
+    "features": [
+      {
+        "title": "Award-Winning Service",
+        "description": "Recognized as one of the best pool companies in Monmouth and Middlesex Counties. Our industry certifications and affiliations guarantee top-tier care."
+      },
+      {
+        "title": "Two Retail Locations",
+        "description": "Visit us in Old Bridge or Marlboro for in-store water testing, chemical supplies, equipment, and expert advice from our knowledgeable staff."
+      },
+      {
+        "title": "Honest, No-Pressure Approach",
+        "description": "We tell you what your pool actually needs, not what pads our invoice. Straightforward pricing and straightforward service since day one."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different. Tell us about yours and we will provide an honest quote with no hidden fees and no upsell pressure."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back and make it right at no additional charge. We have built our reputation on trust and quality for 19 years, and we stand behind every single job."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are scheduled within one week. Call our Old Bridge or Marlboro location and we will find a time that works with your schedule right away."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Every Mystic Pool technician is AST and CPO certified. We also maintain memberships with NSPF, APSP, and NESPA to stay current on the latest industry standards and best practices."
+    },
+    {
+      "question": "Can I get my water tested at your store?",
+      "answer": "Absolutely. Bring a water sample to either our Old Bridge or Marlboro retail location and our staff will run a comprehensive test and walk you through exactly what your pool needs."
+    },
+    {
+      "question": "Do you handle pool openings and closings?",
+      "answer": "Yes, seasonal openings and closings are one of our most popular services. We handle equipment startup or winterization, cover installation or removal, and a full system inspection every time."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Monmouth and Middlesex Counties including Old Bridge, Marlboro, Manalapan, Freehold, Colts Neck, Monroe Township, and surrounding Central New Jersey communities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jon A.",
+      "context": "Google Review",
+      "initials": "JA",
+      "text": "These guys are great. First time pool owner and Jen went above and beyond to make sure I was ok. She was friendly, professional, courteous, and compassionate. Highly recommend Mystic Pool."
+    },
+    {
+      "name": "Gordon D.",
+      "context": "Google Review",
+      "initials": "GD",
+      "text": "Mystic Pool is incredibly responsive, show up at the scheduled time for service, and make staff available via text, phone or email. They come with my highest recommendation."
+    },
+    {
+      "name": "Julie F.",
+      "context": "Google Review",
+      "initials": "JF",
+      "text": "After a month long struggle trying to get my pool chemicals right at other places, I decided to try Mystic Pools in Marlboro. Dan was great and had my pool blue and balanced in a day!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care<br>You Can Count On?",
+    "subtitle": "Get a free, honest quote from a team that has served Central New Jersey for 19 years. No pressure, no hidden fees — just award-winning pool care.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours",
+      "AST & CPO certified technicians"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning pool service. Proudly serving Central New Jersey since 2007.",
+    "service_area": "Serving Monmouth & Middlesex Counties — Old Bridge, Marlboro & Beyond",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Pool Opening & Closing",
+      "Leak Detection",
+      "Safety Covers"
+    ],
+    "copyright": "&copy; 2026 Mystic Pool Service & Supplies. All rights reserved."
+  }
+}
