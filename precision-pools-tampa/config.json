@@ -4,180 +4,180 @@
   "tagline": "Tampa's #1 Weekly Pool Service",
   "phone": "+1 813-338-3998",
   "email": "griffin@precisionpoolstampa.com",
+  "review_count": "28",
+  "review_rating": "4.9",
   "colors": {
-    "primary": "#E30613",
-    "primary_dark": "#B8050F",
-    "primary_deeper": "#8A040B",
-    "secondary": "#1E3A5F",
-    "cta": "#E30613",
-    "cta_dark": "#B8050F"
+    "primary": "#C41E3A",
+    "primary_dark": "#9A1830",
+    "primary_deeper": "#6E1122",
+    "secondary": "#1B2A4A",
+    "cta": "#C41E3A",
+    "cta_dark": "#9A1830"
   },
   "trust_badges": {
-    "badge_1": "CPO Certified",
+    "badge_1": "CPO Certified & Background Checked",
     "badge_2": "4.9/5 from 28+ Reviews",
-    "badge_3": "Free Estimates"
+    "badge_3": "Free In-Home Consultation"
   },
   "hero": {
     "badge_1": "4.9/5 from 28+ Google Reviews",
-    "badge_2": "CPO Certified Technicians",
-    "headline": "Precision Care for Your <span class=\"text-secondary italic\">Perfect Pool</span>",
-    "subheadline": "Tampa pool owners trust Precision Pools for weekly service that never misses a detail. CPO-certified technicians handle every chemical check, every brush stroke, every filter — so you just enjoy the water.",
-    "cta_text": "Get My Free Estimate",
+    "badge_2": "Trusted by IHG & Marriott Hotels",
+    "headline": "Tampa's Fastest-Growing <span class=\"text-secondary italic\">Pool Service<br>Company</span>",
+    "subheadline": "Griffin and his CPO-certified team deliver the kind of pool care that IHG Hotels and Marriott trust for their guests. Now that same precision and reliability is available for your backyard. No contracts, just consistently perfect water.",
+    "cta_text": "Book Your Free Consultation",
     "checkmarks": [
-      "Free pool estimate",
-      "Same-week service start",
-      "CPO-certified technicians"
+      "Free in-home consultation",
+      "CPO-certified technicians",
+      "Trusted by major hotel brands"
     ]
   },
   "stats": {
     "stat_1_value": "200",
-    "stat_1_label": "Pools Maintained",
+    "stat_1_label": "Pools Maintained Weekly",
     "stat_2_value": "4",
     "stat_2_label": "Years Serving Tampa",
     "stat_3_value": "28",
     "stat_3_label": "Five-Star Reviews",
-    "stat_4_value": "96%",
-    "stat_4_label": "Five-Star Rating"
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Satisfaction"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care Built<br class=\"hidden md:block\"> Around Your Schedule",
-    "subtitle": "From weekly maintenance to emergency storm cleanup, Precision Pools delivers detail-driven service that keeps your water crystal clear and your equipment running right.",
+    "headline": "Hotel-Grade Pool Care<br class=\"hidden md:block\"> for Your Tampa Home",
+    "subtitle": "From weekly full-service cleaning to storm recovery, Precision Pools handles every detail so the only thing you worry about is which float to grab.",
     "cards": [
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive weekly cleaning including skimming, chemical balancing, and equipment monitoring. Your pool stays swim-ready every single week, guaranteed."
+        "title": "Full Cleaning Service",
+        "description": "Complete weekly maintenance: chemical balancing, wall and tile brushing, skimmer cleaning, pump basket emptying, surface netting, vacuuming, and monthly filter maintenance."
       },
       {
-        "title": "Full-Service Pool Care",
-        "description": "Complete care covering chemical balancing, brushing, vacuuming, and thorough equipment checks to ensure optimal water clarity and sanitation."
+        "title": "Chemicals Only",
+        "description": "Weekly chemical testing and balancing to keep your water safe and crystal clear. Perfect for pool owners who handle physical cleaning but want expert water chemistry."
       },
       {
-        "title": "Post-Storm Cleanup",
-        "description": "Rapid response after Tampa storms to remove debris, rebalance chemicals, and restore your pool to safe swimming condition — often within 24 hours."
+        "title": "No-Vacuum Service",
+        "description": "Everything in our full service minus vacuuming — ideal if you have a robotic cleaner. Includes chemical balancing, brushing, skimming, equipment checks, and filter maintenance."
       },
       {
-        "title": "Filter Cleaning",
-        "description": "Thorough cleaning and inspection of your filtration system to ensure maximum efficiency, proper flow rates, and consistently clean water."
+        "title": "Commercial Pool Care",
+        "description": "Hotel-grade maintenance trusted by IHG and Marriott properties. Dedicated account management, compliance reporting, and flexible scheduling for any commercial facility."
       },
       {
-        "title": "Pool Repair",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, and salt systems. Most repairs completed same-visit to minimize your downtime."
+        "title": "After-Storm Cleanup",
+        "description": "Tampa storms hit hard. We respond fast to remove debris, restore water clarity, and get your pool back to safe swimming conditions — often within 24 hours."
       },
       {
-        "title": "Commercial Pool Service",
-        "description": "Professional maintenance for hotels, resorts, HOAs, and community pools. Consistent scheduling and detailed reporting for property managers."
+        "title": "Equipment Monitoring & Repair",
+        "description": "Regular inspection of pumps, filters, heaters, and salt systems. We catch small problems before they become expensive repairs and keep your equipment running efficiently."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Precision-Clean Pool",
+    "headline": "Three Steps to a Resort-Quality Pool",
     "steps": [
       {
-        "title": "Request Your Free Estimate",
-        "description": "Tell us about your pool and we'll provide an honest, no-pressure estimate within 24 hours. No contracts, no commitments — just straightforward pricing."
+        "title": "Schedule Your Free Consultation",
+        "description": "We visit your home, assess your pool, and build a custom care plan — no pressure, no obligation. You'll get an honest quote within 24 hours."
       },
       {
-        "title": "We Handle Every Detail",
-        "description": "Our CPO-certified technicians arrive on schedule and cover everything — skimming, chemicals, brushing, vacuuming, and a full equipment check every visit."
+        "title": "We Show Up Like Clockwork",
+        "description": "Your CPO-certified technician arrives on schedule every week. Cleaning, chemicals, equipment checks — handled with the same precision we bring to five-star hotels."
       },
       {
-        "title": "Enjoy Your Pool",
-        "description": "Your pool stays crystal clear and swim-ready year-round. If anything ever falls short, we come back and make it right at no extra charge."
+        "title": "Enjoy Resort-Quality Water",
+        "description": "Your pool stays sparkling, balanced, and swim-ready all year round. If anything is ever off, one call and we're back out to make it right — free."
       }
     ]
   },
   "about": {
     "label": "Why Tampa Trusts Precision Pools",
-    "headline": "Built on Detail, Driven by Results",
-    "description": "Founded in 2022 by Lynn University graduate Griffin Shahmanesh, Precision Pools was built on a simple belief: Tampa pool owners deserve better. Every technician is CPO-certified and background-checked. Every visit follows a meticulous checklist. And every pool we touch gets the same precision care — whether it's a backyard oasis or a commercial property.",
+    "headline": "Owner-Operated, Hotel-Tested, Neighbor-Approved",
+    "description": "Griffin Shahmanesh founded Precision Pools in 2022 after graduating from Lynn University and recognizing that Tampa deserved better pool care. In just four years, that vision has made Precision Pools Tampa's fastest-growing pool service. The same meticulous standards that earn trust from IHG Hotels and Marriott properties go into every residential pool we touch. Griffin personally oversees operations, and every technician is CPO-certified and background-checked. This is not a franchise or a side hustle — it is a local company built on doing the job right, every single week.",
     "badge": "CPO Certified",
     "features": [
       {
-        "title": "CPO-Certified Technicians",
-        "description": "Every team member holds a Certified Pool Operator credential, ensuring expert-level chemical management and equipment knowledge."
+        "title": "Background-Checked, CPO-Certified Team",
+        "description": "Every technician passes a thorough background check and holds CPO certification. You always know exactly who is in your backyard and that they know what they are doing."
       },
       {
         "title": "No Contracts. Cancel Anytime.",
-        "description": "We earn your business every visit. No long-term commitments, no cancellation fees — just consistent results that keep you coming back."
+        "description": "We earn your business every visit. No long-term commitments, no cancellation fees, no surprises. Stay because your pool has never looked better."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not satisfied with a visit? We come back and redo it at no charge. That's the Precision Pools promise to every client."
+        "title": "Free In-Home Consultation First",
+        "description": "Before any service begins, we visit your home, assess your pool's unique needs, and give you an honest recommendation — completely free, zero obligation."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. Zero Surprises.",
-    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees."
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Choose the service that fits your pool and your budget. Upgrade, downgrade, or cancel anytime — no contracts, no penalties."
   },
   "guarantee": {
     "headline": "Our \"Precision Perfect\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll come back to make it right — completely free. No questions, no runaround. We don't consider the job done until your pool meets our standard and yours."
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and redo it at no charge — no questions asked. We hold ourselves to the same standard that five-star hotels demand, and we will not rest until your pool meets it."
   },
   "faqs": [
     {
       "question": "How quickly can you start service?",
-      "answer": "Most new clients in Tampa are scheduled within 3-5 business days. For post-storm emergencies, we offer same-day or next-day response. Call us and we'll work with your schedule."
+      "answer": "Most new clients are scheduled within 3-5 business days after their free in-home consultation. For storm cleanup emergencies, we offer same-day or next-day response. Just call and we will work with your schedule."
     },
     {
       "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and we handle everything while you're out. You'll receive a service summary after each visit so you always know exactly what was done."
+      "answer": "Not at all. Most of our Tampa clients provide gate access and we handle everything while you are away. You will always know what was done — Griffin and the team maintain clear communication after every visit."
     },
     {
-      "question": "Are your technicians certified?",
-      "answer": "Yes. Every Precision Pools technician is CPO-certified (Certified Pool Operator) and fully background-checked. Your safety and peace of mind are non-negotiable."
+      "question": "Are your technicians certified and background-checked?",
+      "answer": "Yes, every single one. All Precision Pools technicians are CPO-certified (Certified Pool Operator) and pass a comprehensive background check before they ever step foot on your property."
     },
     {
       "question": "What if I want to cancel?",
-      "answer": "Cancel anytime with zero fees. No contracts, no cancellation penalties. We believe in earning your trust every single visit — not locking you into agreements."
+      "answer": "Cancel anytime with zero fees. We do not do contracts or cancellation penalties — ever. We believe in earning your trust every week, and if we are not the right fit, parting ways should be simple."
     },
     {
-      "question": "Do you service commercial pools?",
-      "answer": "Absolutely. We maintain pools for hotels, resorts, HOAs, and community centers across Tampa. Commercial clients get dedicated scheduling and detailed monthly reporting."
+      "question": "Do you service commercial pools and hotels?",
+      "answer": "Absolutely. We are trusted by major hospitality brands including IHG Hotels and Marriott properties. Commercial clients receive dedicated account management, compliance reporting, and flexible scheduling tailored to their needs."
     }
   ],
   "testimonials": [
     {
+      "name": "Wendy S.",
+      "context": "Thumbtack Review",
+      "initials": "WS",
+      "text": "I am really impressed with Precision Pools. Griffin is reliable, polite and efficient. He is very accommodating and pays attention to detail. I would highly recommend him."
+    },
+    {
       "name": "Gilberto G.",
-      "context": "Thumbtack Review, June 2024",
+      "context": "Thumbtack Review",
       "initials": "GG",
-      "text": "Highly recommend Griffin and his team for any of your pool service needs. Extremely professional and top notch customer service."
+      "text": "Highly recommend Griffin and his team for any of your pool service needs. Extremely professional & Top notch customer service."
     },
     {
-      "name": "WJS",
-      "context": "Thumbtack Review, May 2024",
-      "initials": "WJ",
-      "text": "Griffin is reliable, polite and efficient. He is very accommodating and pays attention to detail."
-    },
-    {
-      "name": "Thomas W.",
-      "context": "Thumbtack Review, August 2023",
-      "initials": "TW",
-      "text": "Always excited to work with Griffin. His attention to detail and professionalism make every service visit worth the call."
+      "name": "Terry L.",
+      "context": "Residential Client",
+      "initials": "TL",
+      "text": "What a great company. Owner is always responsive and their work is second to none. Strongly recommend this company."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
-    "subtitle": "Get a free, no-pressure estimate within 24 hours. No contracts, no commitments — just precision pool care from a team Tampa trusts.",
+    "headline": "Ready for Hotel-Quality<br>Pool Care at Home?",
+    "subtitle": "Book your free in-home consultation today. No contracts, no pressure — just an honest assessment and a custom care plan for your pool.",
     "benefits": [
-      "Free pool estimate with every inquiry",
+      "Free in-home pool consultation",
       "Response within 24 hours",
-      "100% satisfaction guaranteed"
+      "No contracts — cancel anytime"
     ]
   },
   "footer": {
-    "description": "CPO-certified pool service. Proudly serving Tampa since 2022.",
-    "service_area": "Serving Tampa, South Tampa & Hillsborough County",
+    "description": "Owner-operated pool service proudly serving Tampa since 2022.",
+    "service_area": "Serving Tampa and Surrounding Areas, FL",
     "services": [
-      "Weekly Maintenance",
-      "Full-Service Care",
-      "Post-Storm Cleanup",
-      "Filter Cleaning",
-      "Commercial Pools"
+      "Full Cleaning Service",
+      "Chemicals Only",
+      "No-Vacuum Service",
+      "Commercial Pool Care",
+      "After-Storm Cleanup"
     ],
-    "copyright": "&copy; 2024 Precision Pools. All rights reserved."
-  },
-  "review_count": "28",
-  "review_rating": "4.9"
+    "copyright": "&copy; 2024 Precision Pools. All rights reserved. CPO Certified | Background-Checked Staff"
+  }
 }

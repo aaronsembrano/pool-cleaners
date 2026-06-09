@@ -1,0 +1,183 @@
+{
+  "folder_name": "plano-landscaping-company",
+  "company_name": "Plano Landscaping Company",
+  "tagline": "Dream - Design - Install - Maintain",
+  "phone": "+1 214-624-6011",
+  "email": "chanc.killion@planolandscaping.net",
+  "review_count": "100",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B12",
+    "secondary": "#66BB6A",
+    "cta": "#F9A825",
+    "cta_dark": "#F57F17"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A-Rated",
+    "badge_2": "5.0/5 from 100+ Reviews",
+    "badge_3": "Locally Owned & Operated"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 100+ Google Reviews",
+    "badge_2": "Best of Houzz 2024 & 2026",
+    "headline": "Your Dream Yard, Built <span class=\"text-secondary italic\">With Integrity</span>",
+    "subheadline": "Your outdoor space should be a source of pride, not stress. Plano Landscaping Company handles everything from design to installation to year-round maintenance so you can simply enjoy your property.",
+    "cta_text": "Get My Free Landscape Quote",
+    "checkmarks": [
+      "Free property consultation",
+      "30+ years combined experience",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Properties Transformed",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "1000",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Spectrum Landscaping<br class=\"hidden md:block\"> From Dream to Maintain",
+    "subtitle": "Stop juggling multiple contractors for your outdoor projects. We handle every phase of your landscape, from initial design through year-round maintenance, so your property always looks its absolute best.",
+    "cards": [
+      {
+        "title": "Landscape Design & Installation",
+        "description": "Complete outdoor transformations from concept to completion. Custom plant selection, grading, and installation tailored to your vision and the Texas climate."
+      },
+      {
+        "title": "Hardscaping & Stonework",
+        "description": "Custom patios, walkways, retaining walls, and outdoor living structures built with precision stonework and masonry that stands the test of time."
+      },
+      {
+        "title": "Lawn Care & Maintenance",
+        "description": "Weekly mowing, fertilization, weed treatment, and seasonal care that keeps your lawn lush, green, and healthy all year long."
+      },
+      {
+        "title": "Sprinkler & Irrigation",
+        "description": "Design, installation, and repair of underground irrigation systems that keep your landscape properly watered while conserving resources."
+      },
+      {
+        "title": "Tree & Hedge Services",
+        "description": "Expert tree planting, pruning, removal, and stump grinding plus professional hedge trimming and shaping for a polished property."
+      },
+      {
+        "title": "Sod & Turf Installation",
+        "description": "Professional sod installation for an instant lush lawn, or low-maintenance artificial turf for a perfectly green yard year-round without watering."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your outdoor goals. We'll visit your property for a free consultation and provide a detailed, no-pressure proposal within 48 hours."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our experienced crew brings your vision to life with quality materials and expert craftsmanship. Owner Chanc Killion personally oversees every project."
+      },
+      {
+        "title": "Enjoy Your Outdoor Space",
+        "description": "Relax in your transformed yard while we handle ongoing maintenance. If anything isn't perfect, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Plano Homeowners Trust Us",
+    "headline": "Not Just Landscapers — Your Outdoor Living Partners",
+    "description": "Founded by Chanc Killion on principles of integrity, faith, and service, Plano Landscaping Company has become the DFW metroplex's trusted name in outdoor transformations. With over 30 years of combined team experience and an unwavering commitment to quality, we treat every property like our own. From a simple lawn refresh to a complete outdoor living overhaul, your vision is our mission.",
+    "badge": "Best of Houzz Winner",
+    "features": [
+      {
+        "title": "Owner-Supervised Projects",
+        "description": "Chanc Killion personally oversees every project and communicates directly with you. No middlemen, no miscommunication."
+      },
+      {
+        "title": "Full-Spectrum Services",
+        "description": "From design to installation to year-round maintenance, one trusted team handles everything. No juggling multiple contractors."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with any aspect of our work? We'll come back and make it right at no charge. That's the Plano Landscaping promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written estimate upfront. No hidden fees, no change-order games — just honest pricing for quality landscaping."
+  },
+  "guarantee": {
+    "headline": "Our \"Dream Yard\" Guarantee",
+    "description": "If you're not 100% satisfied with any project or service visit, we'll return and make it right at absolutely no additional cost. We stand behind every planting, every stone, and every mow. Your outdoor space should bring you joy, and we won't rest until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start my project?",
+      "answer": "Most new landscape projects are scheduled within 1-2 weeks depending on scope. For lawn maintenance, we can typically start within 3-5 business days. Contact us and we'll work around your schedule."
+    },
+    {
+      "question": "Do you handle both design and installation?",
+      "answer": "Absolutely. Our motto is Dream, Design, Install, Maintain. We handle every phase in-house so your project stays consistent from concept to completion. No need to coordinate between multiple contractors."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Plano and the entire DFW metroplex including Frisco, McKinney, Allen, Richardson, Carrollton, The Colony, Prosper, Celina, Dallas, and more. Contact us to confirm service in your area."
+    },
+    {
+      "question": "Do you offer ongoing lawn maintenance?",
+      "answer": "Yes! We provide weekly and bi-weekly lawn maintenance year-round, including mowing, edging, fertilization, weed treatment, and seasonal cleanup. Many clients start with a project and stay for the maintenance."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We are fully licensed, insured, and BBB A-rated. We've also earned the Best of Houzz award in 2024 and 2026, and our 5-star Google rating speaks to our consistent quality."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Whitney I.",
+      "context": "Landscaping & lawn maintenance",
+      "initials": "WI",
+      "text": "Chanc and his team are wonderful to work with. They have completed landscaping projects for us and they are also our lawn maintenance service. I highly recommend them!"
+    },
+    {
+      "name": "Trina P.",
+      "context": "Landscape design project",
+      "initials": "TP",
+      "text": "Chanc was a superstar to work with, start to finish. He refined our original request and offered alternate suggestions, which elevated the design considerably."
+    },
+    {
+      "name": "Cookie F.",
+      "context": "Hardscaping & stonework",
+      "initials": "CF",
+      "text": "They added a stone walkway around our greenhouse so that my handicap husband could have access. The work was beautiful and done with care."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Yard You<br>Actually Love?",
+    "subtitle": "Get a free, no-pressure consultation and detailed quote. No contracts, no commitments — just honest pricing for expert landscaping from a team that cares.",
+    "benefits": [
+      "Free property consultation with every quote",
+      "Detailed proposal within 48 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned landscaping company serving Plano and the DFW metroplex since 2020.",
+    "service_area": "Serving Plano, Frisco, McKinney, Allen, Richardson & the DFW Metroplex",
+    "services": [
+      "Landscape Design",
+      "Hardscaping & Stonework",
+      "Lawn Maintenance",
+      "Irrigation Systems",
+      "Tree Services"
+    ],
+    "copyright": "&copy; 2026 Plano Landscaping Company. All rights reserved."
+  }
+}

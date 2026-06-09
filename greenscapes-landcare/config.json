@@ -1,34 +1,34 @@
 {
   "folder_name": "greenscapes-landcare",
   "company_name": "Greenscapes Landcare",
-  "tagline": "Our Staff IS Greenscapes!",
+  "tagline": "A one-stop shop for all areas of landscaping",
   "phone": "+1 602-595-9702",
   "email": "ag@greenscapeslc.com",
-  "review_count": "49",
+  "review_count": "57",
   "review_rating": "4.2",
   "colors": {
     "primary": "#2E7D32",
     "primary_dark": "#1B5E20",
     "primary_deeper": "#0D3B13",
     "secondary": "#4CAF50",
-    "cta": "#E65100",
-    "cta_dark": "#BF360C"
+    "cta": "#F9A825",
+    "cta_dark": "#F57F17"
   },
   "trust_badges": {
     "badge_1": "Licensed, Bonded & Insured",
     "badge_2": "BBB A+ Rated Since 2011",
-    "badge_3": "ALCA Certified"
+    "badge_3": "Weathermatic Premier Partner"
   },
   "hero": {
-    "badge_1": "4.2/5 from 49+ Google Reviews",
+    "badge_1": "4.2/5 from 57+ Google Reviews",
     "badge_2": "BBB A+ Rated",
-    "headline": "Your Complete Outdoor <span class=\"text-secondary italic\">One-Stop<br>Solution</span>",
-    "subheadline": "From pools to pavers to irrigation, Greenscapes Landcare has been the trusted name for Phoenix-area property managers and homeowners since 2003. One call handles everything -- so you can focus on what matters.",
-    "cta_text": "Get My Free Property Assessment",
+    "headline": "Your Entire Outdoor Vision, <span class=\"text-secondary italic\">One Trusted Team</span>",
+    "subheadline": "For over 23 years, Greenscapes Landcare has transformed properties across Maricopa County. Landscaping, pools, irrigation, trees — we handle it all so you get one team, one call, and one beautiful result.",
+    "cta_text": "Get My Free Landscape Quote",
     "checkmarks": [
-      "Free on-site consultation",
-      "23 years serving Maricopa County",
-      "One company for every outdoor need"
+      "Free property assessment",
+      "23+ years of local experience",
+      "Satisfaction guaranteed"
     ]
   },
   "stats": {
@@ -36,148 +36,148 @@
     "stat_1_label": "Properties Maintained",
     "stat_2_value": "23",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "38",
-    "stat_3_label": "% Avg Water Savings",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_value": "1000",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "38%",
+    "stat_4_label": "Avg Water Savings"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Landscape, Pool & Irrigation<br class=\"hidden md:block\">All Under One Roof",
-    "subtitle": "Stop juggling multiple contractors. Greenscapes handles your entire outdoor property -- from landscape design to pool construction to smart irrigation -- with one trusted team.",
+    "headline": "Complete Outdoor Solutions<br class=\"hidden md:block\">Under One Roof",
+    "subtitle": "Stop juggling multiple contractors for your property. Greenscapes handles landscaping, pools, trees, and irrigation — all with the accountability of a single family-owned team.",
     "cards": [
       {
         "title": "Landscape Design & Installation",
-        "description": "Complete landscape construction including grading, colorscaping, artificial turf, lighting, and desert-adapted plantings. Designed for Arizona's climate, built to last."
-      },
-      {
-        "title": "Commercial Property Maintenance",
-        "description": "Full-service turf, shrub, and tree care for apartment complexes and multi-housing communities. Fertilization, weed control, and pest management included."
-      },
-      {
-        "title": "Pool Design & Construction",
-        "description": "Custom swimming pool design, installation, repair, and refinishing through our sister company Pool Hub, LLC. From concept to first splash."
-      },
-      {
-        "title": "Smart Irrigation Systems",
-        "description": "Weathermatic Premier Partner delivering 38% average water savings. Smart controllers, system design, installation, and repair for commercial and residential properties."
+        "description": "Full-service landscape construction including grading, colorscaping, artificial turf, outdoor lighting, and custom designs that transform your property from the ground up."
       },
       {
         "title": "Hardscape Construction",
-        "description": "Custom pavers, BBQ islands, block walls, stucco, fire features, and mailbox construction. Crafted hardscapes that transform your outdoor living space."
+        "description": "Custom pavers, outdoor BBQ areas, block walls, stucco, fire pits, and mailboxes. We build the outdoor structures that bring your living space to life."
       },
       {
-        "title": "Tree Service",
-        "description": "Professional tree removal, trimming, and fertilization through sister company Turning Leaf, LLC. Safe, efficient, and thorough work on every job."
+        "title": "Commercial Property Maintenance",
+        "description": "Ongoing turf, shrub, and tree care for apartment complexes and multi-housing communities. Includes fertilization, weed control, pest control, and soil analysis."
+      },
+      {
+        "title": "Smart Irrigation Systems",
+        "description": "Weathermatic Premier Partner delivering 38% average water savings. We design, install, and repair smart irrigation systems recognized by the U.S. EPA WaterSense program."
+      },
+      {
+        "title": "Professional Tree Service",
+        "description": "Expert tree removals, trimming, and fertilization through our sister company Turning Leaf LLC. Keeping your trees healthy and your property safe."
+      },
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom swimming pool design, construction, and repair through our sister company Pool Hub LLC. From concept to first splash, we build your dream pool."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Beautiful Property",
+    "headline": "Three Steps to Your Dream Outdoor Space",
     "steps": [
       {
         "title": "Schedule Your Free Assessment",
-        "description": "Tell us about your property. We'll visit in person, evaluate your landscape, irrigation, and pool needs, and provide a detailed, no-pressure proposal within 48 hours."
+        "description": "Tell us about your property and vision. We'll visit your site, assess the scope, and deliver an honest, detailed quote within 48 hours. No pressure, no obligation."
       },
       {
-        "title": "We Bring the Full Team",
-        "description": "Our licensed, bonded crews handle everything -- landscaping, irrigation upgrades, hardscape, pool work, and tree service. One point of contact, zero coordination headaches."
+        "title": "We Design & Build It Right",
+        "description": "Our licensed, bonded crew handles every detail — from landscape design and irrigation to hardscapes and pool construction. One team, zero headaches."
       },
       {
-        "title": "Enjoy Your Outdoor Space",
-        "description": "Your property looks stunning, your water bills drop, and your tenants or family love the results. We stay on as your long-term maintenance partner whenever you need us."
+        "title": "Enjoy Your Transformed Property",
+        "description": "Your outdoor space looks incredible and stays that way. We offer ongoing maintenance plans so your investment is protected year-round across the Arizona seasons."
       }
     ]
   },
   "about": {
-    "label": "Why Property Managers Trust Us",
-    "headline": "Family-Owned, Full-Service, and Focused on Your Success",
-    "description": "Since 2003, the Greenscapes family has served the Phoenix metro with a simple promise: do everything right under one roof. From apartment complexes to residential backyards, our ALCA-certified team delivers landscape, irrigation, pool, hardscape, and tree services with the accountability only a family-run company can offer. We treat every property like our own.",
-    "badge": "ALCA Certified",
+    "label": "Why Property Owners Trust Us",
+    "headline": "Family-Owned Since 2003 — Built on Handshakes, Not Shortcuts",
+    "description": "For over two decades, the Greenscapes family has been transforming properties across the Phoenix metro area. What started as a small commercial maintenance crew has grown into a full-service operation covering landscaping, pools, trees, and irrigation — but we never lost the personal touch. Every project gets the same attention to detail, whether it's a 200-unit apartment complex or your backyard patio.",
+    "badge": "BBB A+ Rated",
     "features": [
       {
         "title": "Licensed, Bonded & Insured",
-        "description": "Full licensing and insurance on every project. BBB A+ rated since 2011, so you can trust the team on your property."
+        "description": "Full licensing with BBB accreditation and A+ rating since 2011. Your property and investment are always protected."
       },
       {
-        "title": "One Company, Every Service",
-        "description": "Landscape, irrigation, pools, hardscape, and trees -- all handled in-house or through our sister companies. No more juggling vendors."
+        "title": "One Team, Complete Solutions",
+        "description": "Landscaping, pools, trees, irrigation — all under one roof with sister companies Turning Leaf and Pool Hub. No more juggling contractors."
       },
       {
-        "title": "38% Average Water Savings",
-        "description": "As a Weathermatic Premier Partner, our smart irrigation systems cut water waste dramatically -- saving you money and conserving Arizona's most precious resource."
+        "title": "23 Years of Proven Results",
+        "description": "Serving Maricopa County since 2003 with long-term client relationships that speak louder than any ad. We earn your trust every visit."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project gets a detailed written proposal. No hidden fees, no change-order games -- just honest pricing from a family-owned company."
+    "headline": "Transparent Pricing. No Surprise Invoices.",
+    "subtitle": "Get a detailed quote for your project upfront. We believe in honest pricing that respects your budget and your property."
   },
   "guarantee": {
     "headline": "Our \"Done Right\" Guarantee",
-    "description": "If you're not completely satisfied with any service we provide, we come back and make it right at no additional cost. We've built our reputation over 23 years by standing behind every job -- from a weekly mow to a full pool build. Your satisfaction isn't negotiable."
+    "description": "If any work doesn't meet the standard we promised, we come back and make it right at no additional cost. We've built our reputation over 23 years on standing behind every project — from a simple trim to a full landscape overhaul. Your satisfaction isn't negotiable."
   },
   "faqs": [
     {
-      "question": "Do you handle both commercial and residential properties?",
-      "answer": "Absolutely. We specialize in apartment complexes and multi-housing communities, but we also serve residential homeowners across Maricopa County. Same quality, same accountability, regardless of property size."
+      "question": "What areas do you serve in Arizona?",
+      "answer": "We serve all of Maricopa County including Glendale, Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Peoria, Surprise, and surrounding communities. If you're in the Phoenix metro area, we can help."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve the entire Phoenix metropolitan area including Glendale, Scottsdale, Tempe, Mesa, Chandler, and surrounding communities throughout Maricopa County."
+      "question": "Do you handle both residential and commercial projects?",
+      "answer": "Absolutely. We specialize in apartment complexes and multi-housing communities, and we also provide full residential landscaping, hardscapes, pools, and tree services. Same quality, any scale."
     },
     {
-      "question": "Can you really handle landscaping, pools, and irrigation?",
-      "answer": "Yes -- that's our biggest advantage. Greenscapes Landcare handles landscape design and maintenance in-house, while our sister companies Pool Hub, LLC and Turning Leaf, LLC cover pool services and tree work. One call, one point of contact, every outdoor need covered."
+      "question": "Can you handle my entire outdoor project — landscaping, pool, and irrigation?",
+      "answer": "That's exactly what we do. Through Greenscapes and our sister companies Turning Leaf LLC and Pool Hub LLC, we offer a true one-stop-shop for landscaping, pools, trees, and irrigation. One point of contact, one cohesive design."
     },
     {
-      "question": "How much can smart irrigation save me?",
-      "answer": "As a Weathermatic Premier Partner, our clients see an average 38% reduction in water usage. For commercial properties with large turf areas, that translates to thousands of dollars saved annually on water bills."
+      "question": "How do your smart irrigation systems save water?",
+      "answer": "As a Weathermatic Premier Partner, we install water-efficient smart systems that deliver an average of 38% water savings. Our systems are recognized by the U.S. EPA WaterSense program and adapt to Arizona's climate automatically."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Yes. Greenscapes Landcare is fully licensed, bonded, and insured. We're BBB Accredited with an A+ rating since 2011 and hold ALCA certification. Your property and your peace of mind are fully protected."
+      "answer": "Yes. Greenscapes Landcare is fully licensed, bonded, and insured. We've been BBB accredited with an A+ rating since 2011 and hold certifications from the Arizona Landscape Contractors Association (ALCA) and Arizona Multihousing Association (AMA)."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-Term PM",
-      "context": "Commercial maintenance, 12+ years",
-      "initials": "LP",
-      "text": "We have been using Greenscapes at our communities for over 12 years and are happy with their landscaping services. I highly recommend them for any property manager looking for reliable, consistent landscape care."
+      "name": "Rachelle R.",
+      "context": "Commercial client",
+      "initials": "RR",
+      "text": "What I appreciate most about Greenscapes is how open they are to receiving feedback and supporting their customers with any questions or concerns. Excellent service."
     },
     {
-      "name": "Residential Client",
-      "context": "Landscape installation",
-      "initials": "RC",
-      "text": "They were always on time and kept in regular contact throughout the whole process, and everyone was very professional. Our new landscape looks incredible and was finished ahead of schedule."
+      "name": "Mike M.",
+      "context": "Full landscape redesign",
+      "initials": "MM",
+      "text": "We had a complete front and back landscaping redesign done by Greenscapes Landcare. We would recommend this company and its workers to anyone for any project."
     },
     {
-      "name": "Property Owner",
-      "context": "Landscape design & construction",
-      "initials": "PO",
-      "text": "From start to finish, they were incredibly skilled, professional, and truly masters of their craft. The workmanship is outstanding and the attention to detail really shows in the final result."
+      "name": "Haley H.",
+      "context": "2+ year commercial client",
+      "initials": "HH",
+      "text": "Awesome company we've been working with them for about 2 years now and have nothing but good things to say! Reliable, professional, and always responsive."
     }
   ],
   "contact": {
     "headline": "Ready to Transform Your<br>Outdoor Space?",
-    "subtitle": "Get a free, no-pressure property assessment within 48 hours. One call covers landscaping, pools, irrigation, hardscape, and tree service -- everything your property needs.",
+    "subtitle": "Get a free, no-pressure property assessment. One call covers landscaping, pools, irrigation, and trees — because your outdoor space deserves one expert team.",
     "benefits": [
       "Free on-site property assessment",
-      "Detailed proposal within 48 hours",
-      "23 years of trusted service"
+      "Detailed quote within 48 hours",
+      "23 years of Maricopa County experience"
     ]
   },
   "footer": {
-    "description": "Family-owned landscape, pool & irrigation company. Serving Maricopa County since 2003.",
-    "service_area": "Serving Maricopa County -- Phoenix, Glendale, Scottsdale, Tempe, Mesa & Beyond",
+    "description": "Family-owned landscape company serving Maricopa County since 2003.",
+    "service_area": "Serving Glendale, Phoenix, Scottsdale & All of Maricopa County",
     "services": [
       "Landscape Installation",
+      "Hardscape Construction",
       "Commercial Maintenance",
-      "Pool Design & Construction",
-      "Smart Irrigation Systems",
-      "Hardscape & Tree Service"
+      "Smart Irrigation",
+      "Pool Construction"
     ],
-    "copyright": "&copy; 2024 Greenscapes Landcare, Inc. All rights reserved. Licensed, Bonded & Insured. ROC #247032"
+    "copyright": "&copy; 2026 Greenscapes Landcare, Inc. All rights reserved. Licensed, Bonded & Insured"
   }
 }

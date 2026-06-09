@@ -1,7 +1,7 @@
 {
   "folder_name": "holly-days-nursery",
   "company_name": "Holly Days Nursery, Garden Center, & Landscaping",
-  "tagline": "Your Award-Winning Nursery, Garden Center, and Landscaping Experts",
+  "tagline": "Award-Winning Landscaping, Garden Center, and Pond Services Since 1994",
   "phone": "+1 215-283-3228",
   "email": "torrey@hollydaysnursery.com",
   "review_count": "194",
@@ -10,173 +10,173 @@
     "primary": "#2E7D32",
     "primary_dark": "#1B5E20",
     "primary_deeper": "#0D3B13",
-    "secondary": "#8B4513",
+    "secondary": "#4CAF50",
     "cta": "#F9A825",
-    "cta_dark": "#E68A00"
+    "cta_dark": "#F57F17"
   },
   "trust_badges": {
-    "badge_1": "BBB A+ Rated Since 2008",
-    "badge_2": "4.5/5 from 194 Reviews",
-    "badge_3": "Family-Owned Since 1994"
+    "badge_1": "BBB Accredited Since 2008",
+    "badge_2": "4.5/5 from 194+ Reviews",
+    "badge_3": "Serving Ambler Since 1994"
   },
   "hero": {
+    "headline": "Your Dream Landscape <span class=\"text-secondary italic\">Starts<br>Right Here</span>",
+    "subheadline": "For over 30 years, Holly Days has transformed ordinary yards into extraordinary outdoor living spaces across the Philadelphia area. From award-winning landscape design to the region's largest pond and aquatics department, we bring your vision to life.",
     "badge_1": "4.5/5 from 194+ Google Reviews",
-    "badge_2": "Top 5 Landscaper - CBS Philly",
-    "headline": "Your Backyard Paradise <span class=\"text-secondary italic\">Starts Right Here</span>",
-    "subheadline": "For over 31 years, families across the Tri-State Area have trusted Holly Days to transform ordinary yards into extraordinary outdoor living spaces. From our 7-acre garden center to award-winning landscape design, we handle every detail so you can simply enjoy.",
-    "cta_text": "Start My Backyard Transformation",
+    "badge_2": "Top 5 Landscaper — CBS Philly",
+    "cta_text": "Get My Free Consultation",
     "checkmarks": [
-      "Free on-site design consultation",
-      "Award-winning landscape team",
-      "31+ years serving Ambler & beyond"
+      "Free on-site consultation",
+      "Award-winning design team",
+      "30+ years of expertise"
     ]
   },
   "stats": {
     "stat_1_value": "5000",
     "stat_1_label": "Projects Completed",
-    "stat_2_value": "31",
+    "stat_2_value": "32",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "40",
-    "stat_3_label": "Communities Served",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_value": "7",
+    "stat_3_label": "Acre Garden Center",
+    "stat_4_value": "Top 5",
+    "stat_4_label": "Philly Landscaper"
   },
   "services": {
-    "label": "Our Expertise",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From the first seedling to the finished stone patio, Holly Days handles every phase of your outdoor project with the care and craftsmanship that earned us 8 Houzz Awards and a spot among Philadelphia's top landscapers.",
+    "label": "Our Services",
+    "headline": "Everything Your Outdoor Space<br class=\"hidden md:block\"> Needs Under One Roof",
+    "subtitle": "From a single shrub to a complete backyard transformation, Holly Days is your one-stop destination for landscaping, hardscaping, garden supplies, pond services, and premium bulk materials.",
     "cards": [
       {
         "title": "Landscape Design & Installation",
-        "description": "Work with our award-winning designers to create a custom landscape plan tailored to your property and budget. Planting, grading, drainage, lighting, and ongoing care all handled by one trusted team."
+        "description": "Award-winning custom landscape design and professional installation including garden beds, plantings, grading, drainage, and complete property transformations tailored to your vision."
       },
       {
-        "title": "Hardscape Design & Construction",
-        "description": "Patios, retaining walls, walkways, outdoor kitchens, fireplaces, fire pits, and pergolas. Our hardscape division employs the finest designers in the Philadelphia region to bring your vision to life."
+        "title": "Hardscaping & Masonry",
+        "description": "Expert patios, retaining walls, steps, walkways, outdoor kitchens, pergolas, fire pits, and natural stone installations using flagstone, Belgium stone, and premium pavers."
       },
       {
-        "title": "Pond & Water Features",
-        "description": "The area's largest Water Garden, Pond, and Aquatics Center. Custom koi ponds, fountains, waterfalls, yearly maintenance, and a fully stocked fish house right on our property."
+        "title": "Garden Center & Nursery",
+        "description": "Seven acres of shade trees, flowering shrubs, evergreens, ornamentals, rare annuals, perennials, and a complete line of gardening products and accessories."
       },
       {
-        "title": "Nursery & Garden Center",
-        "description": "Explore our 7-acre garden center featuring hundreds of tree, shrub, perennial, and annual varieties. Plus bulk materials, natural stone, topsoil delivery, and expert gardening advice."
+        "title": "Pond & Aquatics Services",
+        "description": "The region's largest aquatics department with custom koi ponds, waterfalls, fountain installation, pond maintenance, supplies, and a huge selection of pond fish."
       },
       {
-        "title": "Pool Surrounds & Outdoor Living",
-        "description": "Transform your pool area with custom landscaping, putting greens, artificial turf, deck building, and complete outdoor living spaces designed for year-round enjoyment."
+        "title": "Bulk Materials & Delivery",
+        "description": "Premium mulch, topsoil, stone, sand, and a complete selection of natural stone for patios and walls. Bulk pricing and delivery available throughout the area."
       },
       {
-        "title": "Seasonal Services & Maintenance",
-        "description": "Spring cleanups, fall leaf removal, mulching, pruning, and year-round property maintenance. Keep your landscape looking its best in every season with our experienced crew."
+        "title": "Landscape Lighting",
+        "description": "Professional lighting design and installation to highlight your landscape, enhance architectural features, and create a safe, stunning outdoor environment after dark."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Landscape",
+    "headline": "Three Steps to Your Perfect Landscape",
     "steps": [
       {
         "title": "Schedule Your Free Consultation",
-        "description": "Tell us about your outdoor vision. We'll visit your property, listen to your ideas, and provide an honest, detailed estimate within 48 hours. No pressure, no obligations."
+        "description": "Tell us about your vision for your outdoor space. We'll visit your property, discuss your goals, and provide an honest, detailed proposal — no pressure, no obligation."
       },
       {
         "title": "We Design & Build",
-        "description": "Our award-winning designers create a custom plan, then our experienced crews handle every detail from excavation to final planting. You stay informed at every stage."
+        "description": "Our award-winning team handles every detail — from custom design through expert installation. We keep you informed at every stage so the result matches your dream."
       },
       {
         "title": "Enjoy Your Outdoor Paradise",
-        "description": "Step into a backyard that feels like a retreat. And with our ongoing maintenance programs, your landscape stays beautiful season after season without you lifting a finger."
+        "description": "Relax in a beautifully transformed yard that adds value to your home and joy to your life. We stand behind every project with our quality craftsmanship guarantee."
       }
     ]
   },
   "about": {
-    "label": "Why Homeowners Choose Holly Days",
-    "headline": "31 Years of Turning Yards Into Destinations",
-    "description": "Founded in 1994 by Torrey Rose, Holly Days is a family-owned nursery, garden center, and award-winning landscape company on 7 acres in Ambler, PA. Voted Top 5 Landscapers in Philadelphia by CBS Philly and Best in Montgomery County, we bring the same care to a small garden refresh as we do to a full estate transformation. Every team member treats your property like their own.",
-    "badge": "8x Houzz Award Winner",
+    "label": "Why Homeowners Trust Us",
+    "headline": "Not Just a Nursery — Your Complete Outdoor Living Partner",
+    "description": "Founded in 1994 by Torrey T. Rose while a student at Delaware Valley College, Holly Days has grown into a premier seven-acre nursery, garden center, and full-service landscaping company. Voted one of the Top 5 Landscapers in Philadelphia by CBS Philly, BBB Accredited since 2008, and backed by a team of 19 dedicated professionals, we treat every project like it's our own backyard.",
+    "badge": "CBS Philly Top 5",
     "features": [
       {
+        "title": "Seven-Acre Selection",
+        "description": "The largest nursery and aquatics department in the region — rare plants, premium trees, pond fish, and everything in between, all in one place."
+      },
+      {
         "title": "Award-Winning Design Team",
-        "description": "Recognized by Houzz, CBS Philly, and Montgomery County for consistently outstanding landscape and hardscape design."
+        "description": "Our landscape designers have earned top honors across Philadelphia. Every project gets the same creative attention and expert craftsmanship."
       },
       {
-        "title": "One-Stop Outdoor Experts",
-        "description": "Nursery, garden center, landscape, hardscape, and pond services all under one roof. No juggling multiple contractors."
-      },
-      {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not thrilled with the result? We make it right. Our 4.5-star reputation across 194 reviews is built on standing behind every project."
+        "title": "Quality Craftsmanship Guarantee",
+        "description": "Not satisfied? We make it right. Over 30 years of standing behind our work has earned us the trust of thousands of homeowners."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprise Invoices.",
-    "subtitle": "Every project gets a detailed written estimate upfront. We work with your budget and never add hidden charges."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is unique, so we provide detailed proposals after your free consultation. No hidden fees, no change-order surprises — just honest pricing for quality work."
   },
   "guarantee": {
-    "headline": "Our \"Beautiful Landscape\" Guarantee",
-    "description": "If you are not completely satisfied with any aspect of our work, we will return and make it right at no additional cost. We have built our reputation over 31 years by standing behind every plant, every stone, and every design. Your happiness is not negotiable."
+    "headline": "Our Quality Craftsmanship Guarantee",
+    "description": "If you're not completely satisfied with any project or purchase, let us know. We'll come back and make it right at no additional cost. With over three decades of standing behind our work, your confidence is our priority. That's the Holly Days promise."
   },
   "faqs": [
     {
       "question": "How soon can you start my landscaping project?",
-      "answer": "Most consultations are scheduled within one week, and project timelines depend on scope. Smaller installations can begin within 2-3 weeks, while larger landscape or hardscape projects are typically scheduled 4-6 weeks out. We will give you a clear timeline at your consultation."
+      "answer": "Most projects are scheduled within 1-2 weeks depending on the season and scope. For urgent needs like drainage issues, we prioritize faster. Contact us and we'll give you a realistic timeline right away."
     },
     {
       "question": "Do I need to visit the garden center in person?",
-      "answer": "We highly recommend it! Our 7-acre nursery is an experience in itself, and our knowledgeable staff can help you select the perfect plants for your specific conditions. However, for landscape design clients, our designers handle all plant selection as part of the project."
+      "answer": "We highly recommend it — our seven-acre nursery is an experience in itself, and our knowledgeable staff can help you pick the perfect plants. But you can also call ahead and we'll set aside what you need for easy pickup."
+    },
+    {
+      "question": "Do you offer pond maintenance services?",
+      "answer": "Absolutely. Our aquatics department provides full pond cleaning, seasonal maintenance, water quality testing, fish care, and equipment repair. Many customers have trusted us with their ponds for over a decade."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve Ambler, PA and a 20-mile radius including Philadelphia, Horsham, Fort Washington, Lansdale, Blue Bell, Conshohocken, Jenkintown, Glenside, Flourtown, and 40+ municipalities across the Tri-State Area."
+      "answer": "We serve Ambler, Montgomery County, and the greater Philadelphia area including surrounding communities in southeastern Pennsylvania. Delivery is available for bulk materials within our service area."
     },
     {
-      "question": "Do you offer maintenance after the project is complete?",
-      "answer": "Absolutely. We offer seasonal maintenance packages including spring cleanups, mulching, pruning, pond maintenance, and fall preparation. Many clients choose ongoing care to protect their landscape investment year-round."
-    },
-    {
-      "question": "Can you work with my existing landscape?",
-      "answer": "Of course. Whether you need a complete redesign or just want to enhance what you already have, our designers will evaluate your current landscape and create a plan that builds on its strengths while addressing any problem areas."
+      "question": "Can you handle both small garden updates and large landscape projects?",
+      "answer": "Yes. Whether you need a few plants for a garden refresh or a complete backyard transformation with hardscaping, lighting, and a koi pond, our team has the expertise and equipment to handle it all."
     }
   ],
   "testimonials": [
     {
-      "name": "Sarah M.",
-      "text": "My landscape took the giant leap yesterday from 'meh' to 'amazing!' Holly Days completely transformed our yard beyond what I imagined. The design team listened to every detail and the crew was professional from start to finish.",
-      "context": "Landscape Installation",
-      "initials": "SM"
+      "name": "Paul's Client",
+      "context": "Landscaping Project",
+      "initials": "PC",
+      "text": "Paul was professional and caring from the first interaction. He took the time to hear what we had in mind and gave his expert opinion. The Holly Days team carried out every aspect of our plan carefully and efficiently. Every detail was taken care of — we were completely satisfied."
     },
     {
-      "name": "Brad K.",
-      "text": "They do amazing hardscaping work. The staff were professional and caring, took time to understand our vision, and ensured every aspect of the plans were carried out carefully and efficiently. Our patio is now the envy of the neighborhood.",
-      "context": "Hardscape Project",
-      "initials": "BK"
+      "name": "Pond Customer",
+      "context": "Pond Maintenance, 10+ Years",
+      "initials": "PO",
+      "text": "We've used Holly Days to clean and maintain our backyard pond for over a decade. The professionalism, knowledge, and service from the Aquatics department has been consistently impressive. They truly are the best in the region."
     },
     {
-      "name": "Jennifer L.",
-      "text": "I usually don't write reviews but this I had to, because it was truly one of the best customer service experiences I have ever had in any industry. The garden center selection is incredible and the staff genuinely cares.",
-      "context": "Garden Center Customer",
-      "initials": "JL"
+      "name": "Garden Shopper",
+      "context": "Plant Selection & Service",
+      "initials": "GS",
+      "text": "I'm extremely happy with everything I purchased. The staff helped me pick out the perfect selections for my yard. I usually don't write reviews, but this was truly one of the best customer service experiences I've ever had in any industry."
     }
   ],
   "contact": {
-    "headline": "Ready to Love Your<br>Outdoor Space?",
-    "subtitle": "Get a free, no-pressure consultation within one week. No hidden fees, no obligations -- just honest guidance from a team with 31 years of experience.",
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free, no-obligation consultation. We'll visit your property, discuss your vision, and provide an honest proposal — no pressure, just expert advice from a team with 30+ years of experience.",
     "benefits": [
-      "Free on-site design consultation",
-      "Detailed written estimate within 48 hours",
-      "BBB A+ rated with 194+ reviews"
+      "Free on-site property consultation",
+      "Detailed proposal within one week",
+      "Quality craftsmanship guaranteed"
     ]
   },
   "footer": {
-    "description": "Family-owned nursery, garden center, and landscaping company serving Ambler, PA since 1994.",
-    "service_area": "Serving Ambler, Philadelphia & the Tri-State Area",
+    "description": "Award-winning nursery, garden center, and landscaping. Serving the Philadelphia area since 1994.",
+    "service_area": "Serving Ambler, Montgomery County & Greater Philadelphia",
     "services": [
       "Landscape Design",
-      "Hardscape Construction",
-      "Pond & Water Features",
+      "Hardscaping & Masonry",
       "Garden Center",
-      "Outdoor Living"
+      "Pond & Aquatics",
+      "Bulk Materials"
     ],
     "copyright": "&copy; 2026 Holly Days Nursery, Garden Center, & Landscaping. All rights reserved."
   }
