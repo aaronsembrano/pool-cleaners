@@ -4,180 +4,181 @@
   "tagline": "Enjoy stress-free pool ownership with a service and maintenance team you can count on",
   "phone": "+1 608-444-8850",
   "email": "info@new-wave-pools.com",
-  "review_count": "136",
-  "review_rating": "4.8",
+  "logo_path": "",
+  "review_count": "33",
+  "review_rating": "3.9",
   "colors": {
-    "primary": "#C8102E",
-    "primary_dark": "#9A0C23",
-    "primary_deeper": "#6E0819",
-    "secondary": "#1B2A4A",
-    "cta": "#C8102E",
-    "cta_dark": "#9A0C23"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F97316",
+    "cta_dark": "#EA580C"
   },
   "trust_badges": {
-    "badge_1": "Fully Insured & Warranted",
-    "badge_2": "4.8/5 from 136+ Reviews",
-    "badge_3": "PHTA Certified Technicians"
+    "badge_1": "PHTA Certified & Fully Insured",
+    "badge_2": "3.9/5 from 33+ Reviews",
+    "badge_3": "Year-Long Workmanship Warranty"
   },
   "hero": {
-    "badge_1": "4.8/5 from 136+ Google Reviews",
-    "badge_2": "Award-Winning Since 2013",
+    "badge_1": "3.9/5 from 33+ Google Reviews",
+    "badge_2": "Award-Winning Service Since 2013",
     "headline": "Madison's Most Trusted <span class=\"text-secondary italic\">Pool Care Team</span>",
-    "subheadline": "With technicians averaging 10-30 years of hands-on experience, New Wave Pools has kept southern Wisconsin swimming since 2013. Stop worrying about water chemistry and equipment failures — we handle everything so you just dive in.",
-    "cta_text": "Schedule My Free Quote",
+    "subheadline": "With lead technicians carrying 10-30 years of Wisconsin pool experience, New Wave Pools keeps your water crystal clear so you can enjoy every warm day. Award-winning service, a year-long warranty, and fully stocked trucks that fix it on the first visit.",
+    "cta_text": "Get My Free Estimate",
     "checkmarks": [
-      "One-year workmanship warranty",
+      "Free on-site pool inspection",
       "Same-week service available",
-      "100% satisfaction guarantee"
+      "Year-long workmanship warranty"
     ]
   },
   "stats": {
-    "stat_1_value": "136",
-    "stat_1_label": "Google Reviews",
-    "stat_2_value": "13",
-    "stat_2_label": "Years Serving Madison",
-    "stat_3_value": "1500",
-    "stat_3_label": "Pools Maintained",
-    "stat_4_value": "100%",
-    "stat_4_label": "Recommendation Rate"
+    "stat_1_value": "13",
+    "stat_1_label": "Years Serving Madison",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Lead Tech Experience",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "5x",
+    "stat_4_label": "Industry Awards Won"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\">for Southern Wisconsin",
-    "subtitle": "From seasonal openings to emergency repairs, our award-winning team handles every aspect of pool and hot tub ownership so you can focus on enjoying your backyard.",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Southern Wisconsin",
+    "subtitle": "From seasonal openings to emergency repairs, our PHTA-certified technicians handle every aspect of pool and hot tub ownership so you can simply enjoy the water.",
     "cards": [
       {
         "title": "Pool Opening & Closing",
-        "description": "Professional seasonal startup and winterization to protect your investment through Wisconsin's harsh winters. Equipment inspection, chemical balancing, and freeze protection included."
+        "description": "Seasonal preparation done right. We get your pool summer-ready and winterized with care, protecting your investment through every Wisconsin season."
       },
       {
-        "title": "Weekly & Bi-Weekly Maintenance",
-        "description": "Flexible maintenance programs with water chemistry testing, chemical balancing, skimming, and vacuuming. Digital reporting through our customer portal keeps you informed."
-      },
-      {
-        "title": "Equipment Repair & Upgrades",
-        "description": "Expert diagnosis and repair of heaters, pumps, filters, salt systems, and automation controls. Fully stocked service vehicles mean most repairs are completed same-visit."
+        "title": "Pool & Hot Tub Maintenance",
+        "description": "Flexible daily, weekly, or bi-weekly programs with digital water chemistry tracking through your personal customer portal. Always know your pool's status."
       },
       {
         "title": "Vinyl Liner Replacement",
-        "description": "Custom-fitted vinyl liners from Merlin Industries, Latham, and TARA. Refresh your pool's appearance and ensure watertight performance with precision installation."
+        "description": "Expert measurement, precision fitting, and professional installation backed by our year-long workmanship warranty. Free estimates on every liner job."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Heaters, pumps, filters, salt systems, and automation — diagnosed and fixed fast. Our fully stocked trucks complete most repairs in a single visit."
       },
       {
         "title": "Auto Cover Services",
-        "description": "Installation, repair, and maintenance of automatic pool covers for enhanced safety, reduced evaporation, and cleaner water year-round."
+        "description": "Installation, maintenance, and repair of automatic pool covers for enhanced safety, reduced energy costs, and a cleaner pool year-round."
       },
       {
-        "title": "Commercial Pool Management",
-        "description": "Full-service programs for hotels, community pools, and athletic facilities. Compliance support, chemical management, and dedicated account coordination included."
+        "title": "Commercial Pool Services",
+        "description": "Comprehensive programs for public pools, swim facilities, and water parks. Opening/closing, ongoing maintenance, water quality compliance, and equipment servicing."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Worry-Free Pool Ownership",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
         "title": "Tell Us About Your Pool",
-        "description": "Call or fill out our form with details about your pool. We'll schedule an on-site assessment and provide an honest, no-pressure quote — usually within 24 hours."
+        "description": "Call or fill out our form. We'll schedule a free on-site inspection and provide an honest, no-pressure estimate within 24 hours. No contracts required."
       },
       {
-        "title": "We Handle the Hard Part",
-        "description": "Our experienced, PHTA-certified technicians arrive on schedule with fully stocked vehicles. Cleaning, chemistry, equipment checks, repairs — all covered and documented in your customer portal."
+        "title": "We Show Up & Handle It All",
+        "description": "Our award-winning technicians arrive on schedule with fully stocked vehicles. Cleaning, chemistry, equipment checks, repairs — handled in one visit whenever possible."
       },
       {
-        "title": "Dive In and Relax",
-        "description": "Your pool stays crystal clear and swim-ready all season long. Backed by our one-year workmanship warranty and satisfaction guarantee — if something's not right, we fix it free."
+        "title": "Relax and Enjoy the Water",
+        "description": "Track your service history and water chemistry through our digital portal. Your pool stays pristine and swim-ready — backed by our year-long workmanship warranty."
       }
     ]
   },
   "about": {
     "label": "Why Madison Trusts New Wave",
     "headline": "13 Years of Award-Winning Pool Care in Southern Wisconsin",
-    "description": "New Wave Pools has been the go-to pool service for southern Wisconsin families since 2013. Our lead technicians bring a minimum of 10 years of experience — with senior staff carrying up to 30 years in the industry. We're locally owned, fully insured, and proud recipients of multiple Superior Service Awards and GuildMaster Honor awards. Every technician arrives in a fully stocked vehicle, ready to solve problems on the spot.",
+    "description": "New Wave Pools has been locally owned and operated in the greater Madison area since 2013. Our lead technicians bring 10 to 30 years of hands-on experience, and every team member meets continuing education requirements. We're proud PHTA members, multiple-time Guildmaster Honor recipients, and Superior Service Award winners. When we pull up to your property, our trucks are fully stocked — because we believe in fixing it right the first time.",
     "badge": "PHTA Certified",
     "features": [
       {
-        "title": "Veteran Technicians, 10-30 Yrs Exp.",
-        "description": "Every technician on our team brings deep, hands-on experience. No rookies learning on your pool — just seasoned pros who've seen it all."
+        "title": "Award-Winning Technicians",
+        "description": "Our team has earned the Guildmaster Honor for Service Excellence and Superior Service Awards five years running. Experience you can trust."
       },
       {
-        "title": "One-Year Workmanship Warranty",
-        "description": "We stand behind every job with a full one-year warranty. If something we did isn't right, we come back and make it right at no charge."
+        "title": "Year-Long Workmanship Warranty",
+        "description": "Every service we perform is backed by a full year warranty. If something isn't right, we come back and make it right — no questions asked."
       },
       {
-        "title": "100% Satisfaction Guarantee",
-        "description": "117 out of 117 surveyed customers recommend us on GuildQuality. We're committed to earning that trust with every single visit."
+        "title": "Digital Customer Portal",
+        "description": "Track your service history, water chemistry results, and upcoming appointments online. Full transparency, no surprises, complete peace of mind."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Choose the service level that fits your pool and budget. Flexible scheduling, no hidden fees, and no long-term contracts required."
+    "subtitle": "Choose the service level that fits your pool. Flexible scheduling, honest estimates, and no hidden fees — ever."
   },
   "guarantee": {
-    "headline": "Our One-Year Workmanship Guarantee",
-    "description": "Every job we complete is backed by a full one-year workmanship warranty. If you're not completely satisfied, call us and we'll return to make it right — no questions asked, no extra charges. We've earned a 100% recommendation rate because we never leave a customer unsatisfied."
+    "headline": "Our Year-Long Workmanship Guarantee",
+    "description": "Every service we perform is backed by a full year workmanship warranty. If you're not completely satisfied with our work, we'll return and make it right at no additional cost. That's been our promise since 2013, and it's why Madison pool owners keep coming back."
   },
   "faqs": [
     {
-      "question": "How soon can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within one week. For urgent equipment failures or emergency situations, we offer priority same-week response. Call us at 608-444-8850 and we'll get you on the calendar."
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within one week. For urgent equipment failures or water quality issues, we offer priority response. Call us at 608-444-8850 and we'll work with your schedule."
     },
     {
-      "question": "Do you service hot tubs as well?",
-      "answer": "Absolutely. We offer dedicated hot tub maintenance programs to keep your spa clean, chemically balanced, and running efficiently year-round. Same experienced technicians, same attention to detail."
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "No contracts required. We offer flexible service agreements because we believe in earning your business with every single visit. You can adjust or cancel your service plan anytime."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve all of southern Wisconsin including Madison, Sun Prairie, Verona, Middleton, Cottage Grove, Stoughton, Lake Mills, and Chenequa. If you're nearby, give us a call — we likely cover your area."
+      "question": "What certifications do your technicians hold?",
+      "answer": "Our team holds PHTA (Pool & Hot Tub Alliance) and NSPF (National Swimming Pool Foundation) certifications. All technicians meet ongoing continuing education requirements and carry full insurance."
     },
     {
-      "question": "Are your technicians certified?",
-      "answer": "Yes. Our team holds PHTA and NSPF certifications, and our lead technicians bring 10-30 years of hands-on experience. We're also fully insured and back all work with a one-year workmanship warranty."
+      "question": "Can you service commercial pools and water parks?",
+      "answer": "Absolutely. We provide comprehensive commercial programs including opening/closing, ongoing maintenance, water quality compliance support, and full equipment servicing for public pools, swim facilities, and water parks."
     },
     {
-      "question": "Do you handle commercial pools?",
-      "answer": "We do. We manage pools for hotels, community centers, athletic facilities, and HOA properties. Commercial clients receive compliance support, chemical management programs, and dedicated account coordination."
+      "question": "What areas in Wisconsin do you serve?",
+      "answer": "We serve the greater Madison area including Sun Prairie, Middleton, Verona, Cottage Grove, Stoughton, Lake Mills, Chenequa, and communities throughout Southern Wisconsin."
     }
   ],
   "testimonials": [
     {
+      "name": "Amanda K.",
+      "context": "Lake Mills, WI",
+      "initials": "AK",
+      "text": "Prompt, efficient, reasonable, and professional. We have used a lot of pool companies and they are the best! Highly recommend New Wave to anyone in the Madison area."
+    },
+    {
       "name": "Larry T.",
       "context": "Madison, WI",
       "initials": "LT",
-      "text": "We called every pool place in greater Madison. None even called us back. Except New Wave -- we were very relieved. They've been outstanding ever since."
+      "text": "We called every pool place in greater Madison. None even called us back. Except New Wave — we were very relieved. They've been taking great care of our pool ever since."
     },
     {
       "name": "Jack H.",
       "context": "Stoughton, WI",
       "initials": "JH",
-      "text": "I have NEVER had a problem with them. After using other companies in the past, with many problems, we will never use any other company but New Wave."
-    },
-    {
-      "name": "Amanda K.",
-      "context": "Lake Mills, WI",
-      "initials": "AK",
-      "text": "New Wave Pools is prompt, efficient, reasonable, and professional. We have used a lot of pool companies and they're the best!"
+      "text": "Come exactly when scheduled, never overcharge. Employees are top notch and extremely professional. New Wave is the only pool company we'll ever use."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Swim-Ready?",
-    "subtitle": "Get a free, no-pressure quote from Madison's most trusted pool team. No contracts, no commitments — just honest service backed by a one-year warranty.",
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure estimate from Madison's award-winning pool team. No contracts, no commitments — just honest service backed by a year-long warranty.",
     "benefits": [
-      "Free on-site pool assessment",
-      "Quote within 24 hours",
-      "One-year workmanship warranty"
+      "Free on-site pool inspection with every estimate",
+      "Response within 24 hours",
+      "Year-long workmanship warranty guaranteed"
     ]
   },
   "footer": {
-    "description": "Locally owned pool service. Proudly serving southern Wisconsin since 2013.",
-    "service_area": "Serving Madison, Sun Prairie, Verona, Middleton & Surrounding Areas",
+    "description": "Locally owned pool service. Proudly serving Southern Wisconsin since 2013.",
+    "service_area": "Serving Madison, Sun Prairie, Middleton, Verona & Southern Wisconsin",
     "services": [
-      "Weekly Maintenance",
-      "Equipment Repair",
+      "Pool Opening & Closing",
+      "Maintenance Programs",
       "Vinyl Liner Replacement",
-      "Auto Cover Services",
-      "Commercial Pools"
+      "Equipment Repair",
+      "Commercial Services"
     ],
-    "copyright": "&copy; 2026 New Wave Pools, LLC. All rights reserved. Fully Insured &amp; PHTA Certified."
+    "copyright": "&copy; 2026 New Wave Pools, LLC. All rights reserved. Certified PHTA Member."
   }
 }

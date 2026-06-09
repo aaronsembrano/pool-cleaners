@@ -1,74 +1,74 @@
 {
   "folder_name": "red-cedar-landscapes",
-  "company_name": "Red Cedar Landscapes, Inc.",
+  "company_name": "Red Cedar Landscapes",
   "tagline": "Excellence in Landscape Since 1985",
   "phone": "+1 845-288-4207",
   "email": "steve@rclandscapes.com",
   "review_count": "15",
-  "review_rating": "4.7",
+  "review_rating": "5.0",
   "colors": {
-    "primary": "#2E7D32",
-    "primary_dark": "#1B5E20",
-    "primary_deeper": "#0D3B13",
-    "secondary": "#8B4513",
-    "cta": "#D4850A",
-    "cta_dark": "#B06E08"
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3D1A",
+    "primary_deeper": "#142B12",
+    "secondary": "#C8A96E",
+    "cta": "#8B4513",
+    "cta_dark": "#6B3410"
   },
   "trust_badges": {
     "badge_1": "Licensed, Insured & BBB A+ Rated",
-    "badge_2": "4.7/5 from Google Reviews",
-    "badge_3": "Serving Hudson Valley Since 1985"
+    "badge_2": "5.0/5 from Google Reviews",
+    "badge_3": "ISA Certified Arborists"
   },
   "hero": {
-    "badge_1": "4.7/5 on Google - ISA Certified Arborists",
-    "badge_2": "A+ BBB Rating - 41 Years Strong",
-    "headline": "41 Years Transforming <span class=\"text-secondary italic\">Hudson Valley<br>Landscapes</span>",
-    "subheadline": "Your property deserves more than a mow-and-go crew. Red Cedar Landscapes brings four decades of certified expertise to every project — from custom hardscapes and tree care to full landscape design. Just tell us your vision, and we will build it.",
+    "badge_1": "5.0/5 from Google Reviews",
+    "badge_2": "BBB A+ Rated Since 1985",
+    "headline": "40 Years Transforming <span class=\"text-secondary italic\">Hudson Valley<br>Landscapes</span>",
+    "subheadline": "Your property deserves more than maintenance — it deserves a team with four decades of craftsmanship. From landscape design-build to certified tree care, Red Cedar delivers results that last generations. Just enjoy the view.",
     "cta_text": "Request a Free Consultation",
     "checkmarks": [
-      "Free on-site consultation",
+      "Free property assessment",
       "ISA Certified Arborists on staff",
-      "Zero BBB complaints in 41 years"
+      "No-pressure honest estimates"
     ]
   },
   "stats": {
     "stat_1_value": "5000",
     "stat_1_label": "Projects Completed",
-    "stat_2_value": "41",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "9",
-    "stat_3_label": "Services Offered",
+    "stat_2_value": "40",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "45",
+    "stat_3_label": "Communities Served",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Comprehensive Landscape &<br class=\"hidden md:block\"> Tree Care Professionals",
-    "subtitle": "From design to maintenance, Red Cedar handles every aspect of your outdoor space. Our ISA Certified Arborists and skilled crews deliver results that last for decades.",
+    "headline": "Complete Landscape & Tree Care<br class=\"hidden md:block\">for Every Property",
+    "subtitle": "From your first consultation to the final walkthrough, our ISA Certified Arborists and trained professionals handle every detail. One call covers everything your property needs.",
     "cards": [
       {
         "title": "Landscape Design & Build",
-        "description": "Custom outdoor living spaces designed around your lifestyle — patios, pergolas, outdoor kitchens, fire pits, and water features. From concept sketches to finished installation."
+        "description": "Custom outdoor living spaces from concept to completion — walks, walls, patios, fire pits, pergolas, and outdoor kitchens designed for your lifestyle."
       },
       {
-        "title": "Hardscaping & Masonry",
-        "description": "Expert construction of patios, retaining walls, walkways, and stone features. We use premium materials from our own supply yard for lasting beauty and structural integrity."
+        "title": "Certified Tree Care",
+        "description": "Pruning, removals, cabling, bracing, and plant healthcare from ISA Certified Arborists. 100-foot crane service for complex jobs."
       },
       {
-        "title": "Tree Care & Arboriculture",
-        "description": "ISA Certified Arborists handling tree removal, pruning, disease control, and plant healthcare. Crane and lift equipment for safe, efficient large-scale operations."
+        "title": "Hardscaping & Stonework",
+        "description": "Walkways, retaining walls, patios, fire pits, and decorative stone features built to last. Expert craftsmanship that elevates your entire property."
       },
       {
         "title": "Land Clearing & Excavation",
-        "description": "Professional clearing, grading, drainage solutions, and site preparation for construction or landscaping. Heavy equipment operated by experienced, safety-certified crews."
+        "description": "Professional clearing, excavating, and hauling for residential and commercial sites. Preparing your land for its next chapter."
       },
       {
-        "title": "Landscape Maintenance",
-        "description": "Year-round lawn care including mowing, fertilization, weed control, seasonal cleanups, and snow management. Your property stays pristine in every season."
+        "title": "Commercial Property Care",
+        "description": "Year-round grounds management for businesses and HOAs — landscape maintenance, seasonal plantings, and reliable snow management."
       },
       {
-        "title": "Commercial Property Services",
-        "description": "Full-service landscape management for businesses, HOAs, and municipalities. Tailored maintenance programs, snow removal, and grounds management throughout the Hudson Valley."
+        "title": "Supply Yard & Nursery",
+        "description": "Our on-site yard stocks plants, trees, mulch, stone, and soil. Open to homeowners and contractors — get exactly what your project needs."
       }
     ]
   },
@@ -76,108 +76,108 @@
     "headline": "Three Steps to Your Dream Landscape",
     "steps": [
       {
-        "title": "Schedule a Free Consultation",
-        "description": "Walk us through your property and share your vision. We will assess the site, discuss options, and provide an honest, detailed estimate — no pressure, no obligation."
+        "title": "Schedule Your Consultation",
+        "description": "Tell us about your property and vision. We'll visit, assess the site, and provide an honest, detailed estimate — no pressure, no obligation."
       },
       {
-        "title": "We Design & Execute",
-        "description": "Our certified team handles every detail — design, permitting, material sourcing from our own nursery, and expert installation. You stay informed at every milestone."
+        "title": "We Design & Build",
+        "description": "Our certified team handles every phase — design, materials, construction, and cleanup. You stay informed at every milestone without lifting a finger."
       },
       {
-        "title": "Enjoy Your Outdoor Space",
-        "description": "Your transformed property is ready to enjoy year-round. We offer ongoing maintenance programs so your investment stays beautiful for decades to come."
+        "title": "Enjoy Your Property",
+        "description": "Your landscape is transformed and built to last. We stand behind our work and offer ongoing maintenance to keep it looking its best for years to come."
       }
     ]
   },
   "about": {
     "label": "Why Hudson Valley Trusts Us",
-    "headline": "Four Decades of Landscape Excellence — Not Shortcuts",
-    "description": "Since 1985, Red Cedar Landscapes has been the Hudson Valley's trusted partner for landscape design, tree care, and property management. Led by President Steven Relyea and a team of ISA Certified Arborists, we bring the expertise, equipment, and craftsmanship that other companies simply cannot match. Our on-site nursery and supply yard means we control quality from material selection to final installation.",
+    "headline": "Four Decades of Craftsmanship — Not Shortcuts",
+    "description": "Founded in 1985 by Steve Relyea, Red Cedar Landscapes has spent over 40 years earning the trust of homeowners and businesses across the Hudson Valley. Our team of ISA Certified Arborists and trained professionals treats every property like our own — because our reputation in this community is everything. From Dutchess County to Fairfield County, we deliver results that stand the test of time.",
     "badge": "ISA Certified Arborists",
     "features": [
       {
-        "title": "Certified & Safety-Trained Crews",
-        "description": "Every crew member is trained through our STARS safety program. Our arborists hold ISA and CTSP certifications — the gold standard in tree care."
+        "title": "ISA Certified & CTSP Trained",
+        "description": "Our arborists hold ISA certification and Tree Care Industry Association safety credentials. Your trees and property are in expert hands."
       },
       {
-        "title": "Own Supply Yard & Nursery",
-        "description": "We source premium plants, stone, mulch, and soil from our own Wappingers Falls yard. Better materials, better prices, faster project timelines."
+        "title": "40+ Years, Same Standards",
+        "description": "Since 1985, we have maintained an A+ BBB rating by doing the job right the first time. No shortcuts, no excuses."
       },
       {
-        "title": "A+ BBB with Zero Complaints",
-        "description": "Over 41 years of business and not a single BBB complaint. We stand behind every project with a commitment to doing things right the first time."
+        "title": "100% Satisfaction Guaranteed",
+        "description": "Not happy with our work? We come back and make it right — no charge, no hassle. That is the Red Cedar promise."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project gets a detailed written estimate upfront. No hidden fees, no surprise charges — just honest pricing from a company that has earned your trust since 1985."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written estimate upfront. No hidden fees, no change-order games — just honest pricing for quality work."
   },
   "guarantee": {
     "headline": "Our \"Built to Last\" Guarantee",
-    "description": "If you are not completely satisfied with our workmanship, we will return and make it right at no additional cost. We have maintained an A+ BBB rating for over four decades because we never cut corners and we always stand behind our work. Your satisfaction is not just a promise — it is our 41-year track record."
+    "description": "If you are not completely satisfied with any aspect of our work, we will return and make it right at no additional cost. We have built our reputation over 40 years on this promise — and we are not about to stop now. Your satisfaction is not negotiable."
   },
   "faqs": [
     {
-      "question": "How far in advance should I schedule a landscape project?",
-      "answer": "For major design-build projects, we recommend reaching out 4-6 weeks in advance so we can plan properly. For tree services, maintenance, and smaller projects, we can usually schedule within 1-2 weeks. Emergency tree removal is available with same-day or next-day response."
+      "question": "How soon can you start my project?",
+      "answer": "Most consultations are scheduled within one week. Project timelines depend on scope, but we pride ourselves on clear scheduling and keeping our commitments. Emergency tree work gets same-day or next-day response."
     },
     {
-      "question": "Do you handle the entire project from design to installation?",
-      "answer": "Yes. Red Cedar is a true full-service operation. We handle design, material sourcing from our own nursery, permitting when required, installation, and ongoing maintenance. One company, one point of contact, start to finish."
+      "question": "Do you serve my area in the Hudson Valley?",
+      "answer": "We serve over 45 communities across Dutchess, Westchester, Putnam, and Columbia counties in New York, plus Fairfield County in Connecticut. If you are in the Hudson Valley region, chances are we have worked in your neighborhood."
     },
     {
-      "question": "Are your arborists certified?",
-      "answer": "Absolutely. Our arborists hold ISA (International Society of Arboriculture) certification and CTSP (Certified Treecare Safety Professional) credentials. These are the highest professional standards in the tree care industry."
+      "question": "Are your arborists actually certified?",
+      "answer": "Yes. Our team includes ISA Certified Arborists and Certified Treecare Safety Professionals (CTSP) through the Tree Care Industry Association. We also hold a Connecticut Arborist license and carry full liability insurance."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve the entire Hudson Valley region including Wappingers Falls, Poughkeepsie, Beacon, Hyde Park, and throughout Dutchess, Putnam, Westchester, and Columbia counties in New York. We also serve parts of Fairfield County, Connecticut."
+      "question": "Can you handle large tree removals?",
+      "answer": "Absolutely. We operate a 100-foot crane for complex tree work, along with professional rigging and removal equipment. No tree is too big or too difficult for our experienced crew."
     },
     {
-      "question": "Do you offer commercial landscape services?",
-      "answer": "Yes. We provide full commercial landscape management, grounds maintenance, and snow management for businesses, HOAs, municipal properties, and multi-site commercial clients throughout the Hudson Valley."
+      "question": "Do you offer ongoing maintenance after a project?",
+      "answer": "Yes. We provide complete lawn care, landscape maintenance, and commercial property management services. Many clients start with a design-build project and stay with us for year-round care."
     }
   ],
   "testimonials": [
     {
-      "name": "Sarah M.",
-      "text": "Red Cedar is very professional, very reliable and easy to work with. They re-graded our backyard, built stone walls and were able to solve grading and slope challenges that other landscape architects could not.",
-      "context": "Grading & Stone Wall Project",
-      "initials": "SM"
+      "name": "Hudson Valley Homeowner",
+      "context": "Landscape Construction",
+      "initials": "HV",
+      "text": "Red Cedar is very professional, very reliable and easy to work with. They re-graded our backyard, built stone walls and were able to solve some grading and slope challenges other landscape architects could not."
     },
     {
-      "name": "David P.",
-      "text": "We were extremely happy and impressed with the service, the workers, and the process. They were courteous, professional, creative, and met our needs at all times. Our new patio and outdoor kitchen are stunning.",
-      "context": "Landscape Design Client",
-      "initials": "DP"
+      "name": "Satisfied Customer",
+      "context": "Full Landscape Project",
+      "initials": "SC",
+      "text": "I was extremely happy and impressed with the service, the workers, and the process. They were courteous, professional, creative, and met our needs at all times."
     },
     {
-      "name": "Karen L.",
-      "text": "They were on time and did great work. Very professional. Outstanding customer service. I highly recommend Red Cedar for any tree or landscaping needs. They have been our go-to for over a decade.",
-      "context": "Tree Removal & Maintenance",
-      "initials": "KL"
+      "name": "Tree Service Client",
+      "context": "Tree Removal & Cleanup",
+      "initials": "TC",
+      "text": "Red Cedar took down our trees very professionally, didn't scratch anything, were courteous and did a good clean up. The area was landscaped and seeded within a week. Highly recommend them as dependable, reliable, and efficient."
     }
   ],
   "contact": {
     "headline": "Ready to Transform<br>Your Property?",
-    "subtitle": "Get a free, no-obligation consultation from the Hudson Valley's most trusted landscape company. 41 years of expertise, one phone call away.",
+    "subtitle": "Get a free consultation and honest estimate. No pressure, no obligation — just 40 years of expertise applied to your vision.",
     "benefits": [
-      "Free on-site property consultation",
-      "Detailed written estimate within 48 hours",
-      "A+ BBB rated with zero complaints"
+      "Free on-site property assessment",
+      "Detailed written estimate within days",
+      "100% satisfaction guaranteed"
     ]
   },
   "footer": {
-    "description": "Hudson Valley's trusted landscape company since 1985. ISA Certified Arborists, A+ BBB rated.",
-    "service_area": "Serving the Hudson Valley: Wappingers Falls, Poughkeepsie, Beacon, Hyde Park & Beyond",
+    "description": "Hudson Valley's trusted landscape and tree care experts since 1985.",
+    "service_area": "Serving the Hudson Valley, Westchester & Fairfield County",
     "services": [
       "Landscape Design & Build",
-      "Hardscaping & Masonry",
-      "Tree Care & Arboriculture",
-      "Commercial Services",
-      "Landscape Maintenance"
+      "Certified Tree Care",
+      "Hardscaping & Stonework",
+      "Commercial Property Care",
+      "Supply Yard & Nursery"
     ],
-    "copyright": "&copy; 2024 Red Cedar Landscapes, Inc. All rights reserved. Wappingers Falls, NY"
+    "copyright": "&copy; 2026 Red Cedar Landscapes, Inc. All rights reserved. Wappingers Falls, NY — Licensed & Insured"
   }
 }

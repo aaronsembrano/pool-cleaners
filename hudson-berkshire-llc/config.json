@@ -1,0 +1,183 @@
+{
+  "folder_name": "hudson-berkshire-llc",
+  "company_name": "Hudson Berkshire LLC",
+  "tagline": "Award-Winning Landscape Architecture from Country Estates to Urban Gardens",
+  "phone": "+1 917-692-4082",
+  "email": "dan@hudsonberkshirellc.com",
+  "review_count": "5",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#2C4A2E",
+    "primary_dark": "#1E3520",
+    "primary_deeper": "#132214",
+    "secondary": "#F5F1EB",
+    "cta": "#8B7355",
+    "cta_dark": "#6F5B42"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed in NY & CT",
+    "badge_2": "4.8/5 Google Rating",
+    "badge_3": "Award-Winning Design"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 5+ Google Reviews",
+    "badge_2": "RHS Award Winners",
+    "headline": "Transform Your Property Into <span class=\"text-secondary italic\">Living Art</span>",
+    "subheadline": "Your landscape should inspire you every time you step outside. Hudson Berkshire brings award-winning, internationally trained landscape architects to your doorstep — so you get a property that looks effortless, feels timeless, and works beautifully for decades.",
+    "cta_text": "Schedule a Design Consultation",
+    "checkmarks": [
+      "Free initial consultation",
+      "Licensed in NY & CT",
+      "Award-winning designers"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Properties Designed",
+    "stat_2_value": "19",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "50",
+    "stat_3_label": "Estates & Vineyards",
+    "stat_4_value": "100%",
+    "stat_4_label": "Design Excellence"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Landscape Architecture That<br class=\"hidden md:block\"> Elevates Every Property",
+    "subtitle": "From sprawling country estates to intimate urban courtyards, our internationally trained team creates landscapes that are as functional as they are beautiful.",
+    "cards": [
+      {
+        "title": "Landscape Design",
+        "description": "Comprehensive landscape design for residential and commercial properties, creating cohesive outdoor environments that blend beauty with functionality at every scale."
+      },
+      {
+        "title": "Swimming Pool Design",
+        "description": "Custom pool design and surrounding landscape integration that creates resort-quality outdoor living spaces — seamlessly woven into your property's character."
+      },
+      {
+        "title": "Garden Design",
+        "description": "Expert garden design drawing on British and American horticultural traditions, from country estate borders to urban courtyard plantings that delight year-round."
+      },
+      {
+        "title": "Estate & Vineyard Design",
+        "description": "Specialized design for large-scale properties including country estates, farms, and vineyards — balancing productive land use with stunning aesthetic beauty."
+      },
+      {
+        "title": "Site Planning & Drafting",
+        "description": "Strategic site analysis and detailed construction documents that optimize topography, drainage, views, and existing features for flawless project execution."
+      },
+      {
+        "title": "Project Management",
+        "description": "Full oversight from concept through installation, coordinating contractors, suppliers, and timelines so every detail is executed to the highest standard."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Vision, Our Process",
+    "steps": [
+      {
+        "title": "Discovery Consultation",
+        "description": "We walk your property together, discuss your vision, lifestyle, and aspirations. You receive an honest assessment and a clear proposal — no pressure, no obligations."
+      },
+      {
+        "title": "Design & Documentation",
+        "description": "Our award-winning team creates detailed landscape plans that bring your vision to life. We present concepts, refine every detail, and produce precise construction documents."
+      },
+      {
+        "title": "Installation & Enjoyment",
+        "description": "We manage every phase of construction, coordinating contractors and materials. The result is a landscape that looks like it has always belonged — ready for you to enjoy for decades."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Choose Us",
+    "headline": "Internationally Trained Architects, Locally Rooted Design",
+    "description": "Founded in 2007 by Dan Milner, a British-trained Chartered Landscape Architect, Hudson Berkshire brings over two decades of international design experience to the Hudson Valley and beyond. Our team combines the best of European and American landscape traditions, delivering award-winning designs for properties of every scale. From RHS Silver Gilt awards to Landscape Institute recognition, our credentials reflect a deep commitment to design excellence.",
+    "badge": "Chartered Landscape Architects",
+    "features": [
+      {
+        "title": "Award-Winning Credentials",
+        "description": "Recognized by the Royal Horticultural Society and the Landscape Institute for design excellence spanning two continents."
+      },
+      {
+        "title": "Licensed in NY & Connecticut",
+        "description": "Fully licensed landscape architects in both New York and Connecticut, ensuring professional accountability on every project."
+      },
+      {
+        "title": "European & American Expertise",
+        "description": "Our team trained at Edinburgh, Cornell, and practiced across London, Manchester, and New York — a rare blend of perspectives."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Design Fees. No Surprises.",
+    "subtitle": "Every project begins with a clear proposal. We tailor scope and fees to your property — from courtyard refreshes to full estate master plans."
+  },
+  "guarantee": {
+    "headline": "Our \"Design Excellence\" Promise",
+    "description": "If you are not completely satisfied with your landscape design, we will revise it until it exceeds your expectations. Our reputation is built on decades of award-winning work, and we stand behind every plan we produce. Your vision is our commitment."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We primarily serve the Hudson Valley, the Hamptons, Connecticut, and New York City. We also take on select projects in Long Island, Great Britain, and Europe. Contact us to discuss your property location."
+    },
+    {
+      "question": "How long does a typical landscape project take?",
+      "answer": "Design timelines vary by scope. A courtyard garden may take 4-6 weeks of design, while a full estate master plan can span several months. We provide a detailed timeline in your initial proposal so there are no surprises."
+    },
+    {
+      "question": "Do you handle pool design and landscaping?",
+      "answer": "Absolutely. Swimming pool design and pool landscaping are core services. We integrate pools seamlessly into the broader landscape so everything feels cohesive — not like an afterthought."
+    },
+    {
+      "question": "What makes Hudson Berkshire different from other landscape firms?",
+      "answer": "Our team combines British and American design traditions with award-winning credentials from the Royal Horticultural Society and Landscape Institute. We bring an international perspective that most regional firms simply cannot offer."
+    },
+    {
+      "question": "Do you manage the construction phase as well?",
+      "answer": "Yes. We offer full project management from concept through installation, coordinating contractors, suppliers, and timelines. Many clients appreciate having a single point of accountability from start to finish."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "text": "Dan and his team completely transformed our Hudson Valley property. The landscape design brought together our garden, pool area, and vineyard views into one cohesive masterpiece. Their European-influenced approach gave our estate a timeless elegance we could never have imagined.",
+      "context": "Estate Landscape Design",
+      "initials": "SM"
+    },
+    {
+      "name": "James R.",
+      "text": "Exceptional service from start to finish. The pool landscaping and garden design exceeded all of our expectations. Hudson Berkshire truly understands how to work with the natural terrain and create something extraordinary.",
+      "context": "Pool Landscaping & Garden Design",
+      "initials": "JR"
+    },
+    {
+      "name": "Catherine L.",
+      "text": "Working with Hudson Berkshire on our Connecticut property was a wonderful experience. Michele and Dan brought incredible expertise and a thoughtful design process. The final result is a landscape that feels like it has always been there.",
+      "context": "Residential Landscape Design",
+      "initials": "CL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Reimagine<br>Your Landscape?",
+    "subtitle": "Schedule a complimentary consultation. We will walk your property, listen to your vision, and provide an honest proposal — no pressure, no obligations.",
+    "benefits": [
+      "Complimentary on-site consultation",
+      "Detailed proposal within two weeks",
+      "Award-winning design guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning landscape architecture. Serving the Hudson Valley and beyond since 2007.",
+    "service_area": "Serving Hudson Valley, The Hamptons, CT & NYC",
+    "services": [
+      "Landscape Design",
+      "Pool Design & Landscaping",
+      "Garden Design",
+      "Estate & Vineyard Design",
+      "Site Planning"
+    ],
+    "copyright": "&copy; 2024 Hudson Berkshire LLC. All rights reserved. Licensed Landscape Architects — NY & CT"
+  }
+}
