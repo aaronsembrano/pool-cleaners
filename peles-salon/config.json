@@ -1,72 +1,75 @@
 {
   "folder_name": "peles-salon",
   "company_name": "Peles Salon & Spa",
-  "tagline": "The Very Best in Hair - Skin - Nails - Lashes - Peels",
+  "tagline": "Beautiful Hair, Healthy You",
   "phone": "+1 724-834-4400",
   "email": "jesse@pelessalon.com",
+  "logo_path": "logo.png",
+  "review_count": "88",
+  "review_rating": "4.8",
   "colors": {
-    "primary": "#2C2C2C",
-    "primary_dark": "#1A1A1A",
+    "primary": "#2c2c2c",
+    "primary_dark": "#1a1a1a",
     "primary_deeper": "#111111",
-    "secondary": "#D4A574",
-    "cta": "#8B6F4E",
-    "cta_dark": "#6E573D"
+    "secondary": "#c8a96e",
+    "cta": "#c8a96e",
+    "cta_dark": "#b0903a"
   },
   "trust_badges": {
-    "badge_1": "Exclusive AVEDA Salon",
-    "badge_2": "4.6/5 from 140+ Reviews",
+    "badge_1": "Intercoiffure Member",
+    "badge_2": "4.8/5 from 88+ Reviews",
     "badge_3": "40+ Years of Excellence"
   },
   "hero": {
-    "badge_1": "4.6/5 from 140+ Google Reviews",
-    "badge_2": "Exclusive AVEDA Partner",
+    "badge_1": "4.8/5 from 88+ Google Reviews",
+    "badge_2": "Top 1% of Salons Nationally",
     "headline": "Two Generations of <span class=\"text-secondary italic\">Salon<br>Excellence</span>",
-    "subheadline": "For over 40 years, Peles Salon & Spa has been Western Pennsylvania's premiere AVEDA destination. From expert color to rejuvenating spa treatments, our team creates a personalized luxury experience that keeps you looking and feeling your absolute best.",
-    "cta_text": "Book Your Consultation",
+    "subheadline": "Your hair deserves more than ordinary. At Peles Salon & Spa, our Aveda-trained stylists and PCA Certified estheticians deliver personalized hair, skin, and spa services that leave you looking and feeling extraordinary. Over 40 years of artistry, now yours to experience.",
+    "cta_text": "Book Your Appointment",
     "checkmarks": [
       "Complimentary consultation",
-      "99% naturally-derived products",
-      "Two convenient locations"
+      "Aveda botanical products",
+      "PCA Certified estheticians"
     ]
   },
   "stats": {
-    "stat_1_value": "140",
+    "stat_1_value": "88",
     "stat_1_label": "5-Star Reviews",
     "stat_2_value": "40",
     "stat_2_label": "Years of Excellence",
-    "stat_3_value": "2",
-    "stat_3_label": "PA Locations",
-    "stat_4_value": "99%",
-    "stat_4_label": "Naturally Derived"
+    "stat_3_value": "1000",
+    "stat_3_label": "Happy Clients Yearly",
+    "stat_4_value": "Top 1%",
+    "stat_4_label": "Nationally Ranked"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Beauty Care Under<br class=\"hidden md:block\"> One Roof",
-    "subtitle": "From precision cuts and organic color to relaxing spa treatments and lash extensions, Peles offers every service you need to look and feel extraordinary.",
+    "headline": "Hair, Skin & Spa Services<br class=\"hidden md:block\"> Tailored to You",
+    "subtitle": "From precision cuts and vibrant color to rejuvenating facials and flawless nails, every service is customized to enhance your natural beauty. Experience the difference that 40 years of expertise makes.",
     "cards": [
       {
-        "title": "Hair Services",
-        "description": "Women's and men's cuts, blowouts, updos, and iron services. Every visit begins with a complimentary consultation to create your custom signature style."
+        "title": "Hair Cuts & Styling",
+        "description": "Precision cuts, blowouts, and styling by Aveda-trained professionals. Every look is tailored to your hair type, face shape, and personal style."
       },
       {
-        "title": "AVEDA Organic Color",
-        "description": "99% naturally-derived color formulas with nourishing oils for brilliant shine. Highlighting, balayage, ombre, glossing, toning, and corrective color."
+        "title": "Color & Highlights",
+        "description": "From subtle balayage to bold transformations using Aveda organic hair color. Vibrant, long-lasting results that keep your hair healthy and radiant."
       },
       {
-        "title": "Spa & Facial Treatments",
-        "description": "Professional skincare using PCA Skin products. Customized facials, chemical peels, and rejuvenating treatments tailored to your skin's unique needs."
+        "title": "Spa Facials & Skin Care",
+        "description": "Luxurious facials including our signature Chilled Rose Facial, performed by PCA Certified estheticians using professional-grade PCA Skin products."
+      },
+      {
+        "title": "Extensions & Treatments",
+        "description": "Premium hair extensions, keratin smoothing treatments, and Aveda Botanical Repair therapy to restore, strengthen, and transform your hair."
       },
       {
         "title": "Nail Services",
-        "description": "Full manicure and pedicure services in a relaxing environment. The perfect finishing touch to complete your salon experience at either location."
+        "description": "Full-service manicures and pedicures with premium products and meticulous attention to detail in a relaxing, spa-like environment."
       },
       {
         "title": "Lashes, Waxing & Makeup",
-        "description": "Lash extensions and treatments, professional waxing, and makeup application for everyday beauty or your most special occasions."
-      },
-      {
-        "title": "Extensions & Texture",
-        "description": "Keratin strand-by-strand bonded and tape-in extensions using premium human hair. Plus waves, relaxers, and the Supersilk Smoothing System."
+        "description": "Professional lash extensions, precision waxing, and expert makeup application for everyday confidence or your most special occasions."
       }
     ]
   },
@@ -74,110 +77,108 @@
     "headline": "Your Peles Experience in Three Steps",
     "steps": [
       {
-        "title": "Book Your Consultation",
-        "description": "Call or book online at either our Greensburg or Johnstown location. We'll match you with the perfect stylist or specialist for your needs."
+        "title": "Book Your Visit",
+        "description": "Call us or book online. We'll match you with the right stylist or esthetician for your needs and schedule a time that works for you."
       },
       {
-        "title": "Personalized Service Plan",
-        "description": "Your stylist begins with a complimentary consultation, considering your lifestyle, hair type, skin tone, and personal style to create a custom plan just for you."
+        "title": "Personalized Consultation",
+        "description": "Every appointment begins with a one-on-one consultation. We listen to your goals, assess your hair or skin, and create a customized plan just for you."
       },
       {
-        "title": "Leave Looking Incredible",
-        "description": "Walk out feeling confident and beautiful with results that last. Our team uses only the finest AVEDA and PCA Skin products to ensure your look stays stunning."
+        "title": "Leave Looking Extraordinary",
+        "description": "Sit back, relax, and let our team work their magic. You'll walk out feeling confident, refreshed, and ready to turn heads. Guaranteed."
       }
     ]
   },
   "about": {
-    "label": "Why Clients Choose Peles",
-    "headline": "Two Generations of Passion, One Standard of Excellence",
-    "description": "Family-owned for over 40 years and spanning two generations, Peles Salon & Spa has earned its reputation as Western PA's premiere AVEDA destination. As a proud member of Intercoiffure America Canada, we hold ourselves to the highest international standards. Every stylist on our team is hand-selected and continuously trained to deliver results that exceed expectations.",
-    "badge": "AVEDA Exclusive",
+    "label": "Why Clients Trust Peles",
+    "headline": "Not Just a Salon — A 40-Year Legacy of Beauty",
+    "description": "Family-owned and spanning two generations, Peles Salon & Spa has been the trusted name in Greensburg since 1984. Recognized by Intercoiffure as one of the top 1% of salons nationally and ranked a Top Global Salon by HairShow Magazine, our team of Aveda-trained stylists and PCA Certified estheticians bring world-class artistry to every appointment.",
+    "badge": "Intercoiffure Member",
     "features": [
       {
-        "title": "Intercoiffure Member Salon",
-        "description": "We belong to an elite international network of top salons, ensuring our techniques and standards meet the highest benchmarks in the industry."
+        "title": "Top 1% Nationally Ranked",
+        "description": "Proud member of Intercoiffure and recognized as a Top Global Salon by HairShow Magazine — quality you can trust."
       },
       {
-        "title": "99% Naturally-Derived Products",
-        "description": "As an exclusive AVEDA salon, every product we use is formulated with plant-based ingredients that are gentle on your hair, skin, and the environment."
+        "title": "Aveda & PCA Certified Team",
+        "description": "Our stylists are Aveda-trained and our estheticians are PCA Certified, ensuring the highest standard of care for your hair and skin."
       },
       {
-        "title": "Complimentary Consultations",
-        "description": "Every service begins with a personalized consultation. We listen to your goals and create a custom plan tailored to your lifestyle and personal style."
+        "title": "Satisfaction Guaranteed",
+        "description": "Every team member completes our exclusive training program. If you're not thrilled with your results, we'll make it right."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. Exceptional Value.",
-    "subtitle": "From a fresh cut to a full transformation, every service is delivered with AVEDA quality and personalized attention."
+    "subtitle": "Every service includes a personalized consultation. No hidden fees, no surprises — just beautiful results."
   },
   "guarantee": {
-    "headline": "Our \"Beautiful Results\" Promise",
-    "description": "If you're not completely thrilled with your service, let us know within 7 days and we'll make it right at no additional charge. With 40+ years of excellence behind us, your satisfaction is the foundation of everything we do."
+    "headline": "Our \"Beautiful Results\" Guarantee",
+    "description": "If you're not completely thrilled with your service, let us know within 7 days and we'll restyle, recolor, or redo your treatment at no additional charge. With 40 years of reputation on the line, we stand behind every single appointment."
   },
   "faqs": [
     {
+      "question": "How do I book an appointment?",
+      "answer": "You can call us at 724-834-4400 or reach out via email. We'll match you with the perfect stylist or esthetician based on your needs and schedule a convenient time."
+    },
+    {
+      "question": "What products do you use?",
+      "answer": "We exclusively use Aveda botanical products and organic hair color for hair services, and professional-grade PCA Skin products for our facial and skin care treatments. These premium products deliver superior results while being gentle on your hair and skin."
+    },
+    {
+      "question": "Do I need a consultation before my first visit?",
+      "answer": "Every appointment includes a complimentary consultation. Your stylist or esthetician will discuss your goals, assess your hair or skin, and recommend the best approach — all before any service begins."
+    },
+    {
       "question": "What makes Peles different from other salons?",
-      "answer": "Peles is Western PA's premiere AVEDA salon and a member of the elite Intercoiffure America Canada network. With 40+ years of experience across two generations, we combine internationally-recognized expertise with 99% naturally-derived products for results that look stunning and feel amazing."
+      "answer": "We're one of only a handful of Intercoiffure member salons in the country, placing us in the top 1% nationally. Our team completes an exclusive training program, and we've been recognized as a Top Global Salon by HairShow Magazine. That level of expertise is rare."
     },
     {
-      "question": "Do I need an appointment?",
-      "answer": "Yes, we recommend booking an appointment to ensure you're matched with the right stylist and receive dedicated time for your service. Call us at 724-834-4400 or book online. We'll find a time that works with your schedule."
-    },
-    {
-      "question": "Which location should I visit?",
-      "answer": "We have two convenient locations in Greensburg and Johnstown. Both offer the same high-quality AVEDA experience and full range of services. Choose whichever is most convenient for you."
-    },
-    {
-      "question": "What AVEDA products do you use?",
-      "answer": "We exclusively use AVEDA products, including their Organic Color line with 99% naturally-derived formulas enriched with nourishing plant oils. For skincare, we use professional-grade PCA Skin products. All are available for purchase in our salon."
-    },
-    {
-      "question": "Do you offer bridal and special event services?",
-      "answer": "Absolutely. From updos and blowouts to makeup application and lash extensions, we offer comprehensive bridal and special event packages. Book a consultation early so we can plan every detail of your look."
+      "question": "Do you offer services for special events?",
+      "answer": "Absolutely. From bridal parties to proms, our team provides expert hair styling, makeup application, and lash services for your most important occasions. We recommend booking special event appointments well in advance."
     }
   ],
   "testimonials": [
     {
-      "name": "Laura P.",
-      "context": "Multi-year client",
-      "initials": "LP",
-      "text": "This is the best salon in the area. Jesse is amazing. I've been going to Peles for years. The quality of stylists and products are second to none."
+      "name": "Shelby",
+      "context": "5-star Google review",
+      "initials": "SH",
+      "text": "I love Peles! Everyone is so friendly and I feel so welcome there. Stacie does an amazing job every time. The atmosphere is wonderful and my hair always looks incredible."
     },
     {
-      "name": "Bonnie D.",
-      "context": "Regular client",
-      "initials": "BD",
-      "text": "I love going to Peles Salon. They are so easy to schedule with. The salon is gorgeous, clean and well lit. Katie S is such a confident, knowledgeable, and consistent stylist."
+      "name": "Jessica",
+      "context": "Loyal client family",
+      "initials": "JE",
+      "text": "Jenny is amazing! My grandparents have been going to her for years. The quality of service and attention to detail is unmatched. Peles truly is a family tradition for us."
     },
     {
       "name": "Renny",
-      "context": "Salon experience review",
+      "context": "Google review",
       "initials": "RE",
-      "text": "Expert stylists, botanical products, great vibe. Peles sets a high standard of expertise, quality of service and the best and safest hair products."
+      "text": "Expert stylists, botanical products, great vibe. Always accommodating guests. This is the only salon I trust with my hair — the experience is consistently outstanding."
     }
   ],
   "contact": {
-    "headline": "Ready for Your Best<br>Look Ever?",
-    "subtitle": "Book a complimentary consultation today. Our expert team will create a personalized plan to help you look and feel your absolute best.",
+    "headline": "Ready to Experience<br>Peles Salon & Spa?",
+    "subtitle": "Book your appointment today. Walk in feeling hopeful, walk out feeling extraordinary — that's the Peles promise.",
     "benefits": [
-      "Complimentary consultation with every visit",
-      "Two locations: Greensburg & Johnstown",
+      "Complimentary consultation included",
+      "Aveda and PCA Skin products",
       "40+ years of trusted expertise"
     ]
   },
   "footer": {
-    "description": "Western PA's premiere AVEDA salon & spa. Two generations of excellence since 1986.",
-    "service_area": "Serving Greensburg, Johnstown & Western Pennsylvania",
+    "description": "Family-owned salon & spa. Serving Greensburg and Western PA since 1984.",
+    "service_area": "Serving Greensburg, Johnstown & Western PA",
     "services": [
-      "Hair Services",
-      "AVEDA Color",
-      "Spa & Facials",
-      "Extensions",
-      "Lashes & Makeup"
+      "Hair Cuts & Color",
+      "Spa Facials",
+      "Nail Services",
+      "Lashes & Waxing",
+      "Bridal & Events"
     ],
     "copyright": "&copy; 2024 Peles Salon & Spa. All rights reserved."
-  },
-  "review_count": "140",
-  "review_rating": "4.6"
+  }
 }
