@@ -1,0 +1,183 @@
+{
+  "folder_name": "kennel-club-lax",
+  "company_name": "Kennel Club LAX",
+  "tagline": "First-Class Pet Boarding for Los Angeles Travelers",
+  "phone": "+1 310-338-9166",
+  "email": "kimberly@kennelclublax.com",
+  "review_count": "262",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#1B4D7A",
+    "primary_dark": "#0F3354",
+    "primary_deeper": "#091E33",
+    "secondary": "#E8B930",
+    "cta": "#E8B930",
+    "cta_dark": "#C99A1A"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Listed Business",
+    "badge_2": "4.4/5 from 262+ Reviews",
+    "badge_3": "Serving LA Since 1983"
+  },
+  "hero": {
+    "badge_1": "4.4/5 from 262+ Google Reviews",
+    "badge_2": "43 Years Trusted by LA Pet Owners",
+    "headline": "Your Pet's Home Away <span class=\"text-secondary italic\">From Home</span>",
+    "subheadline": "Traveling should never mean worrying about your furry family. Since 1983, Kennel Club LAX has given thousands of Los Angeles pet owners peace of mind with 24/7 supervised boarding, grooming, and transportation — all minutes from the airport.",
+    "cta_text": "Reserve Your Pet's Stay",
+    "checkmarks": [
+      "24/7 on-site staff supervision",
+      "Minutes from LAX airport",
+      "Swimming pool & activities program"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "43",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "12",
+    "stat_2_label": "Thousand Sq. Ft. Facility",
+    "stat_3_value": "262",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "24/7",
+    "stat_4_label": "On-Site Staff"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Everything Your Pet Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From overnight stays to spa days, Kennel Club LAX offers a complete range of pet care services so you can travel worry-free.",
+    "cards": [
+      {
+        "title": "Dog & Cat Boarding",
+        "description": "Spacious 12,000 sq. ft. facility with cottage and condo room upgrades, communal and private rooms, and 24-hour on-site staff keeping your pet safe and comfortable."
+      },
+      {
+        "title": "Pet Daycare",
+        "description": "Supervised socialization, structured play sessions, and a swimming pool to keep your pet entertained and exercised while you handle your day."
+      },
+      {
+        "title": "Full-Service Grooming",
+        "description": "Expert bathing, haircuts, manicures, and our therapeutic bathing system. One of the most trusted grooming operations in Los Angeles."
+      },
+      {
+        "title": "Pet Spa & Massage",
+        "description": "Pamper your pet with relaxing massages and premium spa treatments. The perfect add-on to any boarding or daycare stay."
+      },
+      {
+        "title": "Airport Transportation",
+        "description": "Convenient pickup and drop-off coordination for travelers. Located minutes from LAX so your pet's transition is seamless and stress-free."
+      },
+      {
+        "title": "Pet Relocation Services",
+        "description": "Domestic and international pet relocation handled with care. We coordinate every detail so your pet arrives safely wherever life takes you."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Travel",
+    "steps": [
+      {
+        "title": "Book Your Pet's Stay",
+        "description": "Call us or fill out the form below with your travel dates. We'll confirm availability and match your pet with the perfect room — no long-term contracts required."
+      },
+      {
+        "title": "Drop Off Near the Airport",
+        "description": "Bring your pet to our facility at 5325 W 102nd St, just minutes from LAX. Our caring team handles check-in, gets to know your pet, and starts the fun right away."
+      },
+      {
+        "title": "Travel With Peace of Mind",
+        "description": "Relax knowing your pet is supervised 24/7, enjoying pool time, activities, and plenty of attention. Pick up when you land — happy pet, happy reunion."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why LA Pet Owners Trust Us",
+    "headline": "Family-Run Since 1983 — Your Pet Is Our Priority",
+    "description": "For over 43 years, Kennel Club LAX has been the trusted name in pet boarding for Los Angeles families and travelers. Our 12,000 sq. ft. facility features a swimming pool, structured activities, and round-the-clock supervision. We are not a corporate chain — we are a family business that treats every pet like our own.",
+    "badge": "BBB Listed",
+    "features": [
+      {
+        "title": "24/7 On-Site Staff",
+        "description": "Your pet is never left alone. Our dedicated team lives on-site around the clock to ensure safety, comfort, and immediate attention."
+      },
+      {
+        "title": "Flexible Scheduling & Upgrades",
+        "description": "Cottage and condo room options, early drop-off, late pickup, and custom activity packages. We work around your travel plans, not the other way around."
+      },
+      {
+        "title": "Complete Care Under One Roof",
+        "description": "Boarding, daycare, grooming, spa, and airport transportation — everything your pet needs in one convenient location near LAX."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the stay that fits your pet and your schedule. Upgrades available for every room type — ask us about cottages and condos."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Pet\" Promise",
+    "description": "If your pet's stay does not meet your expectations, we will make it right. With 43 years of experience and thousands of happy families, we stake our reputation on every visit. Your pet's comfort and your peace of mind are non-negotiable."
+  },
+  "faqs": [
+    {
+      "question": "How close are you to LAX airport?",
+      "answer": "We are located at 5325 W 102nd St, just minutes from LAX. Most travelers reach us within a 5-10 minute drive from the terminals, making drop-off and pickup seamless before or after your flight."
+    },
+    {
+      "question": "Is someone with my pet overnight?",
+      "answer": "Yes, always. We have 24/7 on-site staff living at the facility. Your pet is never left unsupervised — day or night. That is one of the biggest reasons families have trusted us since 1983."
+    },
+    {
+      "question": "Do you board both dogs and cats?",
+      "answer": "Absolutely. We have separate, comfortable accommodations for both dogs and cats. Each pet gets the space and attention they need, whether they are social butterflies or prefer a quieter stay."
+    },
+    {
+      "question": "What activities are included during boarding?",
+      "answer": "Our full activities program includes supervised playtime, swimming pool access, socialization sessions, and individual attention. We also offer premium add-ons like pet massages and spa treatments."
+    },
+    {
+      "question": "Do you offer airport pickup and drop-off for pets?",
+      "answer": "Yes. We coordinate convenient pet transportation to and from the airport, plus domestic and international relocation services. Let us know your travel details and we will handle the logistics."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jessica R.",
+      "context": "Multiple pets - boarding",
+      "initials": "JR",
+      "text": "My cat Mowgli and two dogs Marley and Charlie love this place, and the staff! Every time we travel, we know they are in the best hands at Kennel Club LAX."
+    },
+    {
+      "name": "Arthur W.",
+      "context": "Long-term boarding customer",
+      "initials": "AW",
+      "text": "Over many years of boarding our dog Pepper, we have always found the facility clean, the staff responsive, the pricing reasonable, and the care exceptional."
+    },
+    {
+      "name": "Ingrid B.",
+      "context": "Dog daycare & boarding",
+      "initials": "IB",
+      "text": "The Kennel Club has been a God send and a life saver. She feels safe and right at home with the Kennel Club as though they are family."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Book Your<br>Pet's Stay?",
+    "subtitle": "Call us or fill out the form for a quick quote. We will confirm availability and get your pet set up for a comfortable, supervised stay near LAX.",
+    "benefits": [
+      "Free consultation for first-time guests",
+      "Response within 24 hours",
+      "Flexible scheduling around your travel"
+    ]
+  },
+  "footer": {
+    "description": "Family-run pet boarding near LAX. Serving Los Angeles since 1983.",
+    "service_area": "Serving Los Angeles, Westchester, Inglewood, El Segundo & LAX Area",
+    "services": [
+      "Dog & Cat Boarding",
+      "Pet Daycare",
+      "Grooming & Spa",
+      "Airport Transportation",
+      "Pet Relocation"
+    ],
+    "copyright": "&copy; 2024 Kennel Club LAX. All rights reserved."
+  }
+}

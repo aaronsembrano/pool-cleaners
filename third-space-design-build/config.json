@@ -1,0 +1,184 @@
+{
+  "folder_name": "third-space-design-build",
+  "company_name": "Third Space Design Build",
+  "tagline": "We build spaces to perfection. So you can enjoy life to the fullest.",
+  "phone": "+1 913-717-9281",
+  "email": "caleb@thirdspacekc.com",
+  "logo_path": "",
+  "review_count": "75",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3D1A",
+    "primary_deeper": "#142B12",
+    "secondary": "#4A7C43",
+    "cta": "#C8822A",
+    "cta_dark": "#A66A1E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.9/5 from 75+ Reviews",
+    "badge_3": "7 Industry Certifications"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 75+ Google Reviews",
+    "badge_2": "Certified Soake & Aviva Partner",
+    "headline": "Your Backyard Deserves <span class=\"text-secondary italic\">a Third Space</span>",
+    "subheadline": "From custom pools and patios to complete outdoor living spaces -- Third Space Design Build transforms Kansas City backyards into destinations where family and friends gather to make memories. Owner-led craftsmanship since 2011.",
+    "cta_text": "Start Your Design Consultation",
+    "checkmarks": [
+      "Free design consultation",
+      "Full design-build under one roof",
+      "7 industry certifications"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "15",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "75",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Design & Build",
+    "subtitle": "From the first sketch to the final stone, Third Space handles every detail of your outdoor transformation. One team, one vision, one stunning result.",
+    "cards": [
+      {
+        "title": "Landscape Design",
+        "description": "Full-service 2D and 3D design renderings led by a landscape architect with a Masters from Kansas State. See your dream space before a single shovel hits the ground."
+      },
+      {
+        "title": "Pool Design & Installation",
+        "description": "Custom pools as a certified Soake Pools and Aviva Pools partner. Designed for your property, your lifestyle, and built to last generations."
+      },
+      {
+        "title": "Patios & Hardscapes",
+        "description": "ICPI and TECHO-PRO certified patio and hardscape construction using premium pavers and natural stone. Built level, built to drain, built to endure."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Complete outdoor kitchens, fire features, and gathering spaces that turn your backyard into the place everyone wants to be."
+      },
+      {
+        "title": "Decks & Structures",
+        "description": "Custom decks, pergolas, and shade structures engineered for Kansas City weather and designed to complement your home's architecture."
+      },
+      {
+        "title": "Lighting & Enhancements",
+        "description": "Professional outdoor lighting, audio-visual systems, irrigation, water features, putting greens, and artificial turf to complete your outdoor oasis."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Backyard Reality",
+    "steps": [
+      {
+        "title": "Design Consultation",
+        "description": "Meet with Caleb and our design team to walk your property, discuss your vision, and explore possibilities. We create detailed 2D and 3D renderings so you see exactly what your space will become."
+      },
+      {
+        "title": "Expert Construction",
+        "description": "Our certified crew brings the design to life with precision craftsmanship and premium materials. Caleb stays hands-on throughout, keeping you informed at every phase."
+      },
+      {
+        "title": "Enjoy Your Third Space",
+        "description": "Your new outdoor living space is ready for family dinners, weekend gatherings, and quiet evenings. A place beyond home and work where your best memories happen."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Kansas City Trusts Us",
+    "headline": "Owner-Led Craftsmanship Since 2011",
+    "description": "Founded by Caleb Kangas, who left corporate America to pursue his lifelong passion for building, Third Space Design Build has spent 15 years creating outdoor environments that extend how Kansas City families live and entertain. With a Masters-level landscape architect on staff, seven industry certifications, and a team that shares in the company's success through profit-sharing, every project gets the attention and expertise it deserves.",
+    "badge": "7x Certified",
+    "features": [
+      {
+        "title": "Owner on Every Project",
+        "description": "Caleb Kangas is personally involved from design through completion. You work directly with the owner, not a sales rep."
+      },
+      {
+        "title": "Seven Industry Certifications",
+        "description": "ICPI, Unilock, TECHO-PRO, SRW, Soake Pools, Aviva Pools, and BBB Accredited. Our credentials back up our craftsmanship."
+      },
+      {
+        "title": "Design-Build Under One Roof",
+        "description": "In-house landscape architect plus expert construction crew. One team owns your project from first sketch to final walkthrough."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed proposal with clear pricing. We walk you through every line item so you know exactly what you're investing in."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any element of your project doesn't meet the standards we agreed upon, we come back and make it right at no additional cost. We stand behind our materials, our craftsmanship, and our word. Your satisfaction isn't a goal -- it's our guarantee."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical outdoor living project take?",
+      "answer": "Project timelines vary by scope. A simple patio may take 1-2 weeks, while a full outdoor living space with pool can take 8-12 weeks. During your design consultation, we provide a detailed timeline so you know exactly what to expect at every phase."
+    },
+    {
+      "question": "Do I need to be home during construction?",
+      "answer": "Not at all. Most clients provide access and go about their day. Caleb sends regular photo updates and progress reports, so you always know exactly where things stand -- even when you're at work."
+    },
+    {
+      "question": "What certifications does your team hold?",
+      "answer": "We hold seven industry certifications: ICPI Certified Installer, Unilock Authorized Contractor, TECHO-PRO Certified, SRW Installer, Soake Pools Partner, Aviva Pools Partner, and BBB Accredited. These aren't just plaques on a wall -- they ensure your project is installed to manufacturer specifications."
+    },
+    {
+      "question": "Can you help me design my space if I don't know what I want?",
+      "answer": "Absolutely -- that's where we shine. Our landscape architect with a Masters from K-State will walk your property, learn how you live and entertain, and present 2D and 3D renderings that bring ideas to life. Most clients are amazed at possibilities they never considered."
+    },
+    {
+      "question": "Do you serve areas outside of Johnson County?",
+      "answer": "Our core service area covers the Kansas City metro including Lenexa, Overland Park, Shawnee, Olathe, Mission Hills, Leawood, Prairie Village, and surrounding communities. For larger projects, we're happy to discuss locations slightly outside this area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Hoffman D.",
+      "context": "Google Review - 5 Stars",
+      "initials": "HD",
+      "text": "The whole team is courteous, efficient, and timely. The owner, Caleb Kangas, is creative with designs that are aesthetically pleasing while solving problems."
+    },
+    {
+      "name": "Rachel S.",
+      "context": "Backyard Transformation",
+      "initials": "RS",
+      "text": "We absolutely loved working with Caleb and his team. Not only do we love the transformation to our backyard space, it was an easy process from start to finish."
+    },
+    {
+      "name": "Peter Q.",
+      "context": "Complete Outdoor Living",
+      "initials": "PQ",
+      "text": "From start to finish, their professionalism, attention to detail, and craftsmanship was outstanding. Caleb was incredibly communicative throughout the entire project."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Outdoor Space?",
+    "subtitle": "Schedule a free design consultation. We'll walk your property, listen to your vision, and show you what's possible -- no pressure, no obligation.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed 3D renderings included",
+      "Owner-led from start to finish"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated design-build firm. Transforming Kansas City backyards since 2011.",
+    "service_area": "Serving Lenexa, Overland Park, Olathe, Shawnee & Greater KC",
+    "services": [
+      "Landscape Design",
+      "Pool Installation",
+      "Patios & Hardscapes",
+      "Outdoor Kitchens",
+      "Lighting & Enhancements"
+    ],
+    "copyright": "&copy; 2024 Third Space Design Build. All rights reserved. Lenexa, KS"
+  }
+}

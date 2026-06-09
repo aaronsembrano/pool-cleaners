@@ -1,0 +1,184 @@
+{
+  "folder_name": "louisiana-landscape-specialty",
+  "company_name": "Louisiana Landscape Specialty",
+  "tagline": "Superior Commercial Landscape Services Since 1983",
+  "phone": "+1 985-626-3152",
+  "email": "rml@lalandscape.com",
+  "logo_path": "",
+  "review_count": "15",
+  "review_rating": "3.5",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B12",
+    "secondary": "#66BB6A",
+    "cta": "#F9A825",
+    "cta_dark": "#E08E00"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured Since 1983",
+    "badge_2": "100+ Landscape Professionals",
+    "badge_3": "BBB Accredited Business"
+  },
+  "hero": {
+    "badge_1": "3.5/5 on Google | 43 Years in Business",
+    "badge_2": "Backed by Landscape Workshop",
+    "headline": "Four Decades of Grounds <span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Since 1983, Louisiana Landscape Specialty has kept Southeast Louisiana's commercial properties pristine. With 100+ professionals across three locations, we handle everything from irrigation to pest control so you can focus on running your business.",
+    "cta_text": "Request a Property Assessment",
+    "checkmarks": [
+      "Free property consultation",
+      "Licensed irrigation & pest control",
+      "No-obligation proposals"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Commercial Clients",
+    "stat_2_value": "43",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "100",
+    "stat_3_label": "Team Members Strong",
+    "stat_4_value": "3",
+    "stat_4_label": "Regional Locations"
+  },
+  "services": {
+    "label": "Our Capabilities",
+    "headline": "Commercial Landscape Solutions<br class=\"hidden md:block\"> That Protect Your Investment",
+    "subtitle": "From weekly grounds maintenance to full-scale landscape installations, our licensed professionals deliver consistent, high-quality results that keep your property looking its best year-round.",
+    "cards": [
+      {
+        "title": "Landscape Maintenance",
+        "description": "Comprehensive commercial lawn care including mowing, edging, weed control, tree pruning, and year-round groundskeeping that keeps your property looking pristine every season."
+      },
+      {
+        "title": "Irrigation Services",
+        "description": "Licensed and certified irrigation installation, maintenance, repair, and diagnostics to ensure your landscape stays healthy and water-efficient through Louisiana's demanding climate."
+      },
+      {
+        "title": "Landscape Enhancements",
+        "description": "Seasonal color plans, flower bed designs, mulch and pine straw installation, and decorative trimming to elevate your property's curb appeal and create inviting outdoor spaces."
+      },
+      {
+        "title": "Landscape Installation",
+        "description": "Professional design and build of complete commercial landscapes including plantings, hardscapes, and outdoor features tailored to your property's unique needs."
+      },
+      {
+        "title": "Outdoor Lighting",
+        "description": "Expert outdoor lighting design and installation to enhance safety, security, and visual appeal of your commercial property during evening and nighttime hours."
+      },
+      {
+        "title": "Pest Control & Facility Services",
+        "description": "Licensed pest control to protect your landscape investment plus comprehensive facility maintenance for corporate offices, retail centers, and healthcare campuses."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Flawless Property",
+    "steps": [
+      {
+        "title": "Schedule a Property Walk-Through",
+        "description": "Tell us about your property and goals. Our team will conduct a complimentary site assessment and deliver a detailed, transparent proposal within 48 hours."
+      },
+      {
+        "title": "We Deploy Your Dedicated Crew",
+        "description": "A licensed, experienced team is assigned to your property. From mowing to irrigation to pest control, every detail is managed so nothing falls through the cracks."
+      },
+      {
+        "title": "Enjoy a Property That Impresses",
+        "description": "Your grounds stay immaculate year-round. With 43 years of expertise and 100+ professionals behind every visit, your property makes the right impression every day."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Property Managers Trust Us",
+    "headline": "43 Years of Southeast Louisiana Expertise You Can Count On",
+    "description": "Founded in 1983 by Randy M. Loup, Louisiana Landscape Specialty grew from a small operation into one of the largest landscape contracting companies in the Gulf region. Now backed by Landscape Workshop, we combine four decades of local knowledge with the resources of a national leader. Our crew's combined tenure of 28+ years means the same skilled professionals show up to your property every time.",
+    "badge": "Licensed Contractor",
+    "features": [
+      {
+        "title": "100+ Licensed Professionals",
+        "description": "Every team member is trained and certified. From irrigation specialists to pest control operators, you get licensed expertise on every visit."
+      },
+      {
+        "title": "Three Regional Locations",
+        "description": "With offices across Southeast Louisiana, we respond quickly to service calls and maintain consistent coverage for all our commercial clients."
+      },
+      {
+        "title": "Backed by Landscape Workshop",
+        "description": "Acquired in 2023 by one of the nation's largest commercial landscapers, we combine local roots with national resources and best practices."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Professional Results.",
+    "subtitle": "Every property is unique. Contact us for a custom proposal tailored to your grounds, your budget, and your expectations."
+  },
+  "guarantee": {
+    "headline": "Our \"Superior Service\" Guarantee",
+    "description": "If any aspect of our work doesn't meet your standards, contact us within 24 hours and our crew will return to make it right at no additional cost. With 43 years of reputation on the line, we stand behind every visit, every crew, and every detail."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing our property?",
+      "answer": "Most new commercial clients are onboarded within one to two weeks. We begin with a thorough property assessment, then assign a dedicated crew and create a custom maintenance schedule tailored to your property's needs."
+    },
+    {
+      "question": "Do you handle both small and large commercial properties?",
+      "answer": "Absolutely. We serve everything from single-building corporate offices to sprawling retail centers, healthcare campuses, educational institutions, and hospitality properties across Southeast Louisiana."
+    },
+    {
+      "question": "Are your team members licensed and insured?",
+      "answer": "Yes. We hold Louisiana landscape contractor, general contractor, irrigation, and pest control licenses. Every team member is fully insured, and our certifications are current and verifiable."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Gretna, New Orleans, Metairie, Kenner, Harvey, Marrero, Covington, Mandeville, Slidell, and the greater Southeast Louisiana region from our three office locations."
+    },
+    {
+      "question": "What changed after the Landscape Workshop acquisition?",
+      "answer": "Our founder Randy Loup remains as Partner, and our experienced crews stayed intact. The acquisition added national resources and best practices while preserving the local relationships and service quality our clients expect."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Randy M. Loup",
+      "text": "Our organization has built a solid reputation over the years, establishing trust with our clients through a highly skilled team that consistently delivers exceptional commercial landscape services.",
+      "context": "Founder & Partner",
+      "initials": "RL"
+    },
+    {
+      "name": "J.T. Price",
+      "text": "We are thrilled to welcome the LLS team members to our family. Their expertise in the Gulf region strengthens our ability to deliver outstanding landscape services across the Southeast.",
+      "context": "CEO, Landscape Workshop",
+      "initials": "JP"
+    },
+    {
+      "name": "Commercial Property Mgr.",
+      "text": "You can trust that Louisiana Landscape will provide superior service, every time. Their crew's combined tenure of over 28 years shows in the quality and consistency of their work.",
+      "context": "Long-term Client",
+      "initials": "CP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Grounds That<br>Make an Impression?",
+    "subtitle": "Request a complimentary property assessment. Our team will walk your site, identify opportunities, and deliver a detailed proposal with transparent pricing.",
+    "benefits": [
+      "Free property assessment with every proposal",
+      "Response within 48 business hours",
+      "43 years of commercial landscape expertise"
+    ]
+  },
+  "footer": {
+    "description": "Southeast Louisiana's trusted commercial landscape partner since 1983. Three locations, 100+ professionals.",
+    "service_area": "Serving Gretna, New Orleans, Metairie, Covington & Southeast Louisiana",
+    "services": [
+      "Landscape Maintenance",
+      "Irrigation Services",
+      "Landscape Installation",
+      "Outdoor Lighting",
+      "Pest Control"
+    ],
+    "copyright": "&copy; 2026 Louisiana Landscape Specialty, Inc. All rights reserved. Licensed Landscape Contractor — State of Louisiana"
+  }
+}

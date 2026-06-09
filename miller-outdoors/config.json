@@ -1,0 +1,183 @@
+{
+  "folder_name": "miller-outdoors",
+  "company_name": "Miller Outdoors",
+  "tagline": "Your Backyard Is Full Of Possibilities",
+  "phone": "+1 504-452-3131",
+  "email": "vincent@milleroutdoorsnola.com",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#4A90D9",
+    "cta": "#D97706",
+    "cta_dark": "#B45309"
+  },
+  "review_count": "53",
+  "review_rating": "5.0",
+  "trust_badges": {
+    "badge_1": "Home Builders Association Member",
+    "badge_2": "5.0/5 from 53+ Reviews",
+    "badge_3": "One-Team, One-Vision Approach"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 53+ Google Reviews",
+    "badge_2": "G.R.I.P. Values Guaranteed",
+    "headline": "One Team Builds Your <span class=\"text-secondary italic\">Dream<br>Backyard</span>",
+    "subheadline": "No juggling contractors. No finger-pointing. Miller Outdoors handles your entire outdoor transformation -- pool, patio, landscape, lighting -- with one dedicated crew from first sketch to final walkthrough.",
+    "cta_text": "Start My Backyard Transformation",
+    "checkmarks": [
+      "Free design consultation",
+      "Single point of contact",
+      "Turn-key outdoor living"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Backyards Transformed",
+    "stat_2_value": "6",
+    "stat_2_label": "Years Serving NOLA",
+    "stat_3_value": "53",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Satisfaction"
+  },
+  "services": {
+    "label": "What We Build",
+    "headline": "Your Entire Backyard, Built by<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "Stop coordinating between a pool builder, landscaper, electrician, and contractor. Miller Outdoors designs and builds everything under one roof -- so your outdoor space actually comes together.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "From elegant lap pools to resort-style oases, we design and construct inground pools tailored to your lot, lifestyle, and budget. One crew, start to finish."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Outdated pool dragging down your backyard? We handle complete transformations -- new finishes, modern tile, updated equipment -- and make it feel brand new."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Fire pits, outdoor kitchens, pergolas, and entertainment areas built for hosting. Designed so your family and friends never want to go back inside."
+      },
+      {
+        "title": "Landscape Design & Install",
+        "description": "Full-service landscape construction that ties your entire yard together. From softscapes to hardscapes, we build cohesive outdoor environments."
+      },
+      {
+        "title": "Drainage & Irrigation",
+        "description": "Proper water management protects your investment. We install drainage and irrigation systems that keep your landscape thriving and your property dry."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Extend your outdoor enjoyment into the evening. Strategically placed lighting highlights features, improves safety, and sets the mood after sunset."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Backyard in Three Steps",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us what you imagine for your outdoor space. We visit your property, listen to your goals, and create a custom design plan -- all at no cost and no pressure."
+      },
+      {
+        "title": "We Build It All",
+        "description": "Our dedicated crew handles every phase -- pool construction, landscaping, hardscapes, lighting. One team means consistent quality, clear timelines, and zero runaround."
+      },
+      {
+        "title": "Live Outdoors",
+        "description": "Step into the backyard you have always wanted. Entertain friends, relax with family, or just enjoy the space. We stay available long after the last stone is set."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why NOLA Homeowners Choose Us",
+    "headline": "We Don't Just Build Pools -- We Build Your Favorite Place to Be",
+    "description": "Founded by Vincent Miller in 2020, Miller Outdoors was born from a simple belief: being outside should be the best part of your day. Our G.R.I.P. values -- Generosity, Responsibility, Integrity, and Passion -- guide every project. We are a design-and-build company, which means you get one team from concept to completion. No subcontractor shuffle. No miscommunication. Just a crew that treats your backyard like it is their own.",
+    "badge": "HBA of Greater New Orleans",
+    "features": [
+      {
+        "title": "One-Team, Start to Finish",
+        "description": "No juggling subcontractors. Your project manager, designer, and build crew work together as one unit from the first sketch to the final walkthrough."
+      },
+      {
+        "title": "G.R.I.P. Values in Every Project",
+        "description": "Generosity, Responsibility, Integrity, Passion. These are not wall decor -- they are how we make decisions, treat clients, and hold ourselves accountable."
+      },
+      {
+        "title": "Turn-Key Outdoor Transformations",
+        "description": "Pool, patio, landscape, lighting, irrigation -- we handle the entire scope. Your backyard comes together as one cohesive space, not a patchwork of separate jobs."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed proposal upfront. No hidden fees, no change-order games -- just honest pricing for exceptional outdoor work."
+  },
+  "guarantee": {
+    "headline": "Our \"Dream Backyard\" Guarantee",
+    "description": "If any element of your project does not meet the standard we agreed upon, we come back and make it right at no additional cost. We do not consider a job finished until you are completely thrilled with the result. That is the Miller Outdoors promise -- built on integrity, backed by passion."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical pool or outdoor project take?",
+      "answer": "Timelines vary by scope, but most pool builds run 8-12 weeks and full outdoor living projects 10-16 weeks. We provide a detailed timeline during the design phase and keep you updated throughout. No guessing, no surprises."
+    },
+    {
+      "question": "Do I need to hire separate contractors for landscaping, lighting, etc.?",
+      "answer": "Not at all -- that is the whole point of Miller Outdoors. We handle everything: pool, patio, landscaping, lighting, drainage, and irrigation. One team, one contract, one point of contact. It is genuinely simpler."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve New Orleans, Metairie, and the surrounding Greater New Orleans region. If you are unsure whether your property falls in our service area, just give us a call and we will let you know."
+    },
+    {
+      "question": "How much does a custom pool cost?",
+      "answer": "Every project is unique, so pricing depends on design complexity, size, features, and site conditions. We provide a free consultation and detailed proposal so you know exactly what to expect before any work begins. No pressure, no obligation."
+    },
+    {
+      "question": "What makes Miller Outdoors different from other builders?",
+      "answer": "Our one-team approach means you are never juggling multiple contractors or playing middleman. From design to construction to final detail, you work with the same dedicated crew. That means fewer miscommunications, consistent quality, and a backyard that actually comes together as one cohesive space."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Manuel P.",
+      "context": "Complete Landscaping Transformation",
+      "initials": "MP",
+      "text": "Vinnie and co-workers were absolutely fantastic! My yard is amazing and completely transformed. I could not be happier with the results."
+    },
+    {
+      "name": "Tim B.",
+      "context": "Front Yard Landscape Redesign",
+      "initials": "TB",
+      "text": "Superb service. Highly recommend. We had all of our front landscaping removed and replaced and the results are more than we anticipated. The crew was professional and thorough."
+    },
+    {
+      "name": "Greg D.",
+      "context": "Backyard Living Space Build",
+      "initials": "GD",
+      "text": "Vincent and his crew left us with a wonderful backyard space and a great experience. From the initial meeting to the final walkthrough, communication was top-notch."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Unlock Your<br>Backyard's Potential?",
+    "subtitle": "Get a free design consultation and project estimate. No pressure, no obligation -- just an honest conversation about what your outdoor space could become.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "One team from design to completion"
+    ]
+  },
+  "footer": {
+    "description": "Design-and-build outdoor living. Serving Greater New Orleans since 2020.",
+    "service_area": "Serving New Orleans, Metairie & Greater NOLA",
+    "services": [
+      "Custom Pool Builds",
+      "Pool Renovations",
+      "Outdoor Living Spaces",
+      "Landscape Design",
+      "Lighting & Drainage"
+    ],
+    "copyright": "&copy; 2026 Miller Outdoors. All rights reserved. Metairie, Louisiana."
+  }
+}

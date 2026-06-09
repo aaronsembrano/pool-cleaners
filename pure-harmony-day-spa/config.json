@@ -1,0 +1,183 @@
+{
+  "folder_name": "pure-harmony-day-spa",
+  "company_name": "Pure Harmony Day Spa",
+  "tagline": "Discover the New You",
+  "phone": "+1 314-822-9907",
+  "email": "info@pureharmonyspa.com",
+  "review_count": "36",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#6B4C8A",
+    "primary_dark": "#4A3360",
+    "primary_deeper": "#2E1F3D",
+    "secondary": "#D4A574",
+    "cta": "#D4A574",
+    "cta_dark": "#B8895A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Medical Director on Staff",
+    "badge_2": "4.5/5 from 36+ Reviews",
+    "badge_3": "BBB Accredited Business"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 36+ Google Reviews",
+    "badge_2": "Serving St. Louis Since 2007",
+    "headline": "Renew Your Body, Mind & <span class=\"text-secondary italic\">Spirit Today</span>",
+    "subheadline": "Life moves fast. You deserve a place to slow down, breathe, and feel like yourself again. At Pure Harmony Day Spa, our skilled therapists and medical estheticians have been helping Des Peres and St. Louis area clients restore balance for nearly two decades.",
+    "cta_text": "Book Your Spa Experience",
+    "checkmarks": [
+      "Complimentary consultation",
+      "Same-week availability",
+      "Medical-grade treatments"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "19",
+    "stat_1_label": "Years of Excellence",
+    "stat_2_value": "36",
+    "stat_2_label": "Google Reviews",
+    "stat_3_value": "8",
+    "stat_3_label": "Spa Services Offered",
+    "stat_4_value": "4.5",
+    "stat_4_label": "Star Google Rating"
+  },
+  "services": {
+    "label": "Our Treatments",
+    "headline": "Spa Treatments That Restore<br class=\"hidden md:block\"> Your Inner Balance",
+    "subtitle": "From therapeutic massage to medical-grade skin care, every treatment at Pure Harmony is designed to renew your senses and leave you feeling completely refreshed.",
+    "cards": [
+      {
+        "title": "Massage Therapy",
+        "description": "Deep tissue, Swedish, hot stone, and specialty techniques delivered by skilled therapists to relieve tension, melt away stress, and promote total body healing."
+      },
+      {
+        "title": "Facials & Skin Care",
+        "description": "Customized facial treatments using professional-grade products to address anti-aging, hydration, deep cleansing, and brightening — leaving your skin radiant."
+      },
+      {
+        "title": "Medical Spa Services",
+        "description": "Advanced non-invasive aesthetic treatments including microneedling and chemical peels, provided under the care of our licensed medical director."
+      },
+      {
+        "title": "Lashes & Brows",
+        "description": "Mink eyelash extensions, lash lifts, brow shaping, tinting, and microblading for perfectly defined, beautifully enhanced eyes that frame your face."
+      },
+      {
+        "title": "Body Treatments",
+        "description": "Luxurious wraps, scrubs, scalp therapies, and lymphatic drainage designed to detoxify, nourish, and revitalize you from head to toe."
+      },
+      {
+        "title": "Nail Care & Spa Packages",
+        "description": "Premium manicures, pedicures, and curated spa packages combining multiple treatments for a complete head-to-toe pampering experience."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Total Renewal",
+    "steps": [
+      {
+        "title": "Choose Your Treatment",
+        "description": "Browse our full menu of spa services or call us for a complimentary consultation. We'll help you find the perfect treatment for your needs and schedule you within the week."
+      },
+      {
+        "title": "Relax & Rejuvenate",
+        "description": "Arrive at our tranquil Des Peres spa and let our licensed therapists and estheticians take care of everything. Every session is tailored to your unique concerns."
+      },
+      {
+        "title": "Leave Feeling Renewed",
+        "description": "Walk out feeling lighter, refreshed, and completely restored. Our clients say it best — once you experience Pure Harmony, you'll never go anywhere else."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Choose Us",
+    "headline": "Nearly Two Decades of Restoring Balance in St. Louis",
+    "description": "Since 2007, Pure Harmony Day Spa has been the St. Louis area's trusted retreat for relaxation, rejuvenation, and renewal. Inspired by the lotus flower — a symbol of new beginnings — we combine luxurious spa treatments with medical-grade aesthetics under the care of a licensed medical director. Our team of compassionate, highly skilled therapists and estheticians treat every client like family.",
+    "badge": "Medical Director on Staff",
+    "features": [
+      {
+        "title": "Licensed & Certified Professionals",
+        "description": "Every therapist and esthetician is fully licensed and trained in the latest techniques to deliver exceptional, safe results."
+      },
+      {
+        "title": "Medical-Grade Aesthetic Treatments",
+        "description": "Our medical spa services are overseen by a licensed medical director, giving you access to advanced skin care treatments you won't find at ordinary spas."
+      },
+      {
+        "title": "Your Satisfaction, Guaranteed",
+        "description": "We are committed to renewing your senses through compassion, skilled touch, and total commitment to your well-being. Your happiness is our mission."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every treatment is clearly priced. Ask about our spa packages for the best value — perfect for special occasions or regular self-care."
+  },
+  "guarantee": {
+    "headline": "Our \"Total Renewal\" Promise",
+    "description": "If you're not completely delighted with your spa experience, let us know before you leave and we will make it right — whether that means adjusting your treatment or scheduling a complimentary follow-up. Your renewal and satisfaction are everything to us."
+  },
+  "faqs": [
+    {
+      "question": "How soon can I get an appointment?",
+      "answer": "Most clients are booked within the same week. We recommend calling ahead for popular services like massage and lash extensions, but we do our best to accommodate last-minute requests as well."
+    },
+    {
+      "question": "Do you offer medical spa treatments?",
+      "answer": "Yes! Our medical spa services — including microneedling, chemical peels, and advanced skin rejuvenation — are performed by trained professionals under the supervision of our licensed medical director."
+    },
+    {
+      "question": "What should I expect on my first visit?",
+      "answer": "You'll be warmly welcomed by our front desk team, given a brief consultation to discuss your goals, and guided through your treatment in our relaxing spa environment. We want you to feel at home from the moment you walk in."
+    },
+    {
+      "question": "Do you offer spa packages for groups or special occasions?",
+      "answer": "Absolutely! We have curated packages for couples, bridal parties, teen spa days, and more. Contact us to customize a group experience that fits your celebration perfectly."
+    },
+    {
+      "question": "Are your products safe for sensitive skin?",
+      "answer": "Yes. We use professional-grade products and customize every facial and body treatment to your skin type and concerns. During your consultation, we'll discuss any sensitivities to ensure a comfortable, effective experience."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Client",
+      "context": "Facials and Pedicures",
+      "initials": "LC",
+      "text": "Pure Harmony Day Spa is the best spa in St. Louis. The facials are out of this world. Tammy gives the absolute best facials and pedicures. I really love this spa and I am always treated nice."
+    },
+    {
+      "name": "Family Visitor",
+      "context": "Massage and Teen Spa Package",
+      "initials": "FV",
+      "text": "We had a fantastic experience at the spa. All the staff are excellent. My daughters and I all went away very happy. Steevie gave an amazing massage."
+    },
+    {
+      "name": "5-Year Loyal Customer",
+      "context": "Deep Tissue, Facials, and Lashes",
+      "initials": "YL",
+      "text": "I have been going to this spa for the past 5 years. The front desk ladies are always so welcoming. I refer all my friends and family here for deep tissue massages, facials, and lash extensions."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Rediscover<br>Your Best Self?",
+    "subtitle": "Book your spa treatment today. Call us or fill out the form below and we'll get back to you within 24 hours with availability and personalized recommendations.",
+    "benefits": [
+      "Complimentary consultation with every booking",
+      "Same-week availability for most treatments",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Des Peres' trusted day spa since 2007. Renewing mind, body, and spirit across St. Louis.",
+    "service_area": "Serving Des Peres, St. Louis, Kirkwood, Creve Coeur, Chesterfield & Beyond",
+    "services": [
+      "Massage Therapy",
+      "Facials & Skin Care",
+      "Medical Spa Services",
+      "Lashes & Brows",
+      "Spa Packages"
+    ],
+    "copyright": "&copy; 2024 Pure Harmony Day Spa. All rights reserved. Licensed Medical Director on Staff."
+  }
+}

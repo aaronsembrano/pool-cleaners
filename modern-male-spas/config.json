@@ -1,0 +1,183 @@
+{
+  "folder_name": "modern-male-spas",
+  "company_name": "Modern Male Spas",
+  "tagline": "Men's Hair Salon and Spa in Dublin, Ohio",
+  "phone": "+1 614-588-0550",
+  "email": "info@modernmalespas.com",
+  "review_count": "146",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a1a1a",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#c9a84c",
+    "cta": "#c9a84c",
+    "cta_dark": "#b08f3a"
+  },
+  "trust_badges": {
+    "badge_1": "Voted #1 Salon & Spa 2024",
+    "badge_2": "4.6/5 from 146+ Reviews",
+    "badge_3": "Serving Dublin Since 2003"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 146+ Google Reviews",
+    "badge_2": "Voted Best Salon & Spa 2024",
+    "headline": "The Grooming Experience <span class=\"text-secondary italic\">You Deserve</span>",
+    "subheadline": "Modern Male Spas is not your average barbershop. For over 20 years, Dublin's top stylists and technicians have delivered world-class cuts, massage, skincare, and cocktails under one roof. Walk in stressed. Walk out sharp.",
+    "cta_text": "Book Your Experience",
+    "checkmarks": [
+      "Complimentary beverages with every visit",
+      "Award-winning stylists and technicians",
+      "Full spa services for men"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "146",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "23",
+    "stat_2_label": "Years in Dublin",
+    "stat_3_value": "1000",
+    "stat_3_label": "Clients Served Annually",
+    "stat_4_value": "#1",
+    "stat_4_label": "Voted Best Salon & Spa"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Everything a Man Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From a precision cut to a deep-tissue massage, Modern Male Spas offers a full menu of grooming and wellness services designed exclusively for men.",
+    "cards": [
+      {
+        "title": "Hair Design & Cuts",
+        "description": "The Ultimate Cut includes scalp massage, shampoo, hot neck shave, and style demo. Plus beard shaping, creative color, and scalp treatments."
+      },
+      {
+        "title": "Massage Therapy",
+        "description": "Deep Relax, Therapeutic Muscular, CBD, Hot Stone, and Lymphatic Drainage massages. Available in 60, 90, and 120 minute sessions."
+      },
+      {
+        "title": "Skincare & Facials",
+        "description": "HydroJelly, Corrective, and Bio Targeted face treatments. LED therapy, peels, and rejuvenating eye treatments for lasting results."
+      },
+      {
+        "title": "Manicures & Pedicures",
+        "description": "Executive nail care in a private room. Hot Stone Pedicure available. Enjoy a bourbon or cocktail while you unwind."
+      },
+      {
+        "title": "Waxing Services",
+        "description": "Complete body waxing for men including ears, nose, eyebrows, back, chest, arms, and legs. Clean results, minimal discomfort."
+      },
+      {
+        "title": "Lounge & Cocktails",
+        "description": "Beer, wine, and craft cocktails in our DORA-certified lounge. Relax before or after your service in Historic Dublin style."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Looking Your Best",
+    "steps": [
+      {
+        "title": "Book Your Appointment",
+        "description": "Choose your service online or call us. We will match you with the right stylist or technician and confirm your preferred time."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Arrive at our Historic Dublin location, grab a drink from the lounge, and let our award-winning team take care of the rest."
+      },
+      {
+        "title": "Leave Looking Sharp",
+        "description": "Walk out refreshed, confident, and looking your absolute best. Join our VIP Membership to save on every visit going forward."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Men Choose Us",
+    "headline": "Not a Barbershop. A Men's Spa Experience.",
+    "description": "Locally owned since 2003, Modern Male Spas was built on a simple idea: men deserve a grooming experience that goes beyond the basics. Our team of skilled stylists and technicians deliver world-class hair, skincare, massage, and nail services in an atmosphere designed for relaxation. Add cocktails, a DORA-certified lounge, and over two decades of Dublin roots, and you have a place where every man leaves looking and feeling his best.",
+    "badge": "Best Salon & Spa 2024",
+    "features": [
+      {
+        "title": "Award-Winning Team",
+        "description": "Our stylists and technicians are hand-selected for their craft. Voted #1 Best Salon and Spa in the 2024 Voters Choice Awards."
+      },
+      {
+        "title": "VIP Membership Program",
+        "description": "Join for $75 per quarter and enjoy discounts on every service. No long-term commitment required. Just better value, every visit."
+      },
+      {
+        "title": "Full Beverage Service",
+        "description": "Beer, wine, and cocktails available during your service or in the lounge. We are one of Dublin's DORA-certified establishments."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Premium Results.",
+    "subtitle": "Choose from individual services or join our VIP Membership for ongoing savings. No hidden fees, no upselling."
+  },
+  "guarantee": {
+    "headline": "Our \"Look Your Best\" Guarantee",
+    "description": "If you are not completely satisfied with any service, let us know within 48 hours and we will make it right at no additional charge. Over 20 years in business means we stand behind every cut, every massage, and every treatment we deliver."
+  },
+  "faqs": [
+    {
+      "question": "Do I need an appointment or can I walk in?",
+      "answer": "While we accept walk-ins when available, we recommend booking an appointment to guarantee your preferred time and stylist. You can book online or call us at 614-588-0550."
+    },
+    {
+      "question": "What is included in The Ultimate Cut?",
+      "answer": "The Ultimate Cut includes a consultation, scalp massage, shampoo and condition, precision cut, hot neck shave with a straight razor, and a style demonstration so you can recreate the look at home."
+    },
+    {
+      "question": "Do you really serve cocktails?",
+      "answer": "Yes! We are a DORA-certified establishment in Historic Dublin. We offer a full selection of beer, wine, and craft cocktails. Enjoy a drink in the lounge or during your service."
+    },
+    {
+      "question": "What is the VIP Membership?",
+      "answer": "For $75 per quarter, VIP Members receive discounts on all services. There are no long-term contracts. You can cancel anytime. It pays for itself in just a couple of visits."
+    },
+    {
+      "question": "What massage options do you offer?",
+      "answer": "We offer Deep Relax, Therapeutic Muscular, CBD Massage with complimentary gummy and drink, Manual Lymphatic Drainage, and Hot Stone Massage. Sessions are available in 60, 90, and 120 minute durations."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Pavel P.",
+      "context": "Hair Design Client",
+      "initials": "PP",
+      "text": "Very attentive service with an eye for detail, fun stylists who work as a team, and they were able to accommodate my request. This is what a men's salon should be."
+    },
+    {
+      "name": "Nick B.",
+      "context": "Massage Therapy Client",
+      "initials": "NB",
+      "text": "That's what a massage is supposed to be! The therapist was skilled and the atmosphere was incredibly relaxing. Already booked my next session."
+    },
+    {
+      "name": "Brian D.",
+      "context": "Manicure & Lounge",
+      "initials": "BD",
+      "text": "Manicure and bourbon. Genius! The private room is a great touch and the service was top-notch. This place gets it."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Experience<br>Modern Male Spas?",
+    "subtitle": "Book your appointment today. Walk in stressed, walk out sharp. Dublin's best men's grooming experience awaits.",
+    "benefits": [
+      "Complimentary beverage with every visit",
+      "Same-week appointment availability",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Dublin's premier men's salon and spa. Locally owned since 2003.",
+    "service_area": "Serving Dublin, OH & Greater Columbus",
+    "services": [
+      "Hair Design & Cuts",
+      "Massage Therapy",
+      "Skincare & Facials",
+      "Manicures & Pedicures",
+      "Waxing Services"
+    ],
+    "copyright": "&copy; 2024 Modern Male Spas. All rights reserved. Dublin, Ohio."
+  }
+}

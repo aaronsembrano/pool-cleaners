@@ -1,0 +1,183 @@
+{
+  "folder_name": "farrells-lawn-garden",
+  "company_name": "Farrell's Lawn & Garden Center",
+  "tagline": "Changing our clients' lives by changing the way they live outdoors",
+  "phone": "+1 419-636-5429",
+  "email": "info@farrellslandscaping.com",
+  "review_count": "212",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B12",
+    "secondary": "#66BB6A",
+    "cta": "#F9A825",
+    "cta_dark": "#F57F17"
+  },
+  "trust_badges": {
+    "badge_1": "ICPI Certified & Insured",
+    "badge_2": "4.6/5 from 212+ Reviews",
+    "badge_3": "5-Year Workmanship Warranty"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 212+ Google Reviews",
+    "badge_2": "5-Year Workmanship Warranty",
+    "headline": "Your Backyard Deserves <span class=\"text-secondary italic\">the Farrell<br>Family Touch</span>",
+    "subheadline": "For 48 years, three generations of Ohio families have trusted us to design, build, and maintain their dream outdoor spaces. From patios and pools to full landscape transformations, we handle every detail so you can simply enjoy your backyard.",
+    "cta_text": "Get My Free Design Consultation",
+    "checkmarks": [
+      "Free on-site consultation",
+      "3,000+ projects completed",
+      "Family-owned since 1976"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "3000",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "48",
+    "stat_2_label": "Years Family-Owned",
+    "stat_3_value": "212",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Workmanship Guaranteed"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living Solutions<br class=\"hidden md:block\">From Design to Maintenance",
+    "subtitle": "Whether you need a stunning patio, a custom pool, or year-round lawn care, our certified team delivers results that last. One call handles everything for your outdoor space.",
+    "cards": [
+      {
+        "title": "Landscape Design & Installation",
+        "description": "Custom landscape plans brought to life with premium plants, trees, and decorative elements. We transform ordinary yards into extraordinary outdoor living spaces."
+      },
+      {
+        "title": "Paver Patios & Hardscaping",
+        "description": "ICPI-certified paver installation for patios, walkways, retaining walls, and steps. Built with Unilock premium materials to last decades."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Fully designed outdoor kitchens, fire pits, and entertaining areas that extend your living space into the backyard year-round."
+      },
+      {
+        "title": "Pool Installation",
+        "description": "Complete pool design and installation seamlessly integrated with your landscape. From concept to first splash, we build your backyard oasis."
+      },
+      {
+        "title": "Lawn Care & Fertilization",
+        "description": "Full-service lawn maintenance including mowing, fertilization, weed control, aeration, and overseeding to keep your property looking pristine."
+      },
+      {
+        "title": "Snow Removal & Seasonal",
+        "description": "Reliable snow plowing and removal for homes and businesses. Plus sprinkler systems, fencing, and landscape lighting to complete your property."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Outdoor Space",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us your vision for your outdoor space. We'll visit your property, listen to your ideas, and provide an honest, detailed proposal within days. No pressure, no obligations."
+      },
+      {
+        "title": "We Design & Build It Right",
+        "description": "Our ICPI-certified crews bring your vision to life using premium materials and 48 years of expertise. We keep you updated at every stage and stay on schedule."
+      },
+      {
+        "title": "Enjoy Your Outdoor Oasis",
+        "description": "Step into the backyard you've always wanted, backed by our 5-year workmanship warranty. We also offer ongoing maintenance so it stays beautiful for years to come."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Ohio Families Trust Us",
+    "headline": "We're the Farrell Family — and This Is Our Life's Work",
+    "description": "Founded in 1976 by Tony and Wendy Farrell, our company is now proudly run by the second generation — Clayton and Katelynn Farrell. With over 3,000 projects completed across Ohio and Indiana, we've built our reputation one backyard at a time. Every project gets the same care and attention we'd give our own home, backed by a 5-year workmanship warranty and decades of hands-on expertise.",
+    "badge": "ICPI Certified",
+    "features": [
+      {
+        "title": "48+ Years of Family Expertise",
+        "description": "Second-generation family ownership means deep roots in the community and a reputation we protect with every project."
+      },
+      {
+        "title": "5-Year Workmanship Warranty",
+        "description": "We stand behind every project with a comprehensive warranty. If something isn't right, we come back and fix it — no questions asked."
+      },
+      {
+        "title": "Unilock Authorized Contractor",
+        "description": "As a certified Unilock contractor and ICPI-certified installer, we use premium materials and proven techniques that last decades."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written proposal. We explain every cost upfront so you can make confident decisions for your home."
+  },
+  "guarantee": {
+    "headline": "Our 5-Year Workmanship Guarantee",
+    "description": "Every project we complete is backed by our comprehensive 5-year workmanship warranty. If anything we built or installed doesn't meet our standards, we come back and make it right at no cost to you. After 48 years and 3,000+ projects, we've learned that standing behind our work isn't just good business — it's the Farrell family way."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start my project?",
+      "answer": "Most landscape and hardscape projects are scheduled within 2-4 weeks depending on scope and season. For lawn care and maintenance services, we can typically start within one week. Contact us for current availability."
+    },
+    {
+      "question": "Do you serve areas outside Bryan and Toledo?",
+      "answer": "Yes! We serve communities throughout northwest Ohio and northeast Indiana, including Archbold, Defiance, Napoleon, Swanton, Maumee, Holland, and surrounding areas. If you're unsure whether we service your area, give us a call."
+    },
+    {
+      "question": "Are your installers certified?",
+      "answer": "Absolutely. Our paver installation crews are ICPI Concrete Paver Installer Certified, and we're an authorized Unilock contractor. We also maintain a BBB A+ rating and are members of the Ohio Landscape Association."
+    },
+    {
+      "question": "What does the 5-year warranty cover?",
+      "answer": "Our 5-year workmanship warranty covers all labor and installation on landscape, hardscape, and outdoor living projects. If anything we built doesn't hold up to our standards, we return and fix it at no charge."
+    },
+    {
+      "question": "Can I visit your garden center?",
+      "answer": "Of course! Our retail garden center is open to the public with a wide selection of plants, flowers, soil, gravel, seasonal decorations, and outdoor living products. Our knowledgeable staff is always happy to help with advice and recommendations."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Cynthia C.",
+      "context": "Landscape design & installation",
+      "initials": "CC",
+      "text": "Clayton and Kevin were great. They went above and beyond. We are very pleased with the unique design and ultimate appearance. They checked in with us often and remained attentive to our needs."
+    },
+    {
+      "name": "Bob M.",
+      "context": "Patio installation",
+      "initials": "BM",
+      "text": "The work was professional, high quality. My friends and neighbors have remarked on how wonderful my new patio is! Farrell's team delivered exactly what they promised."
+    },
+    {
+      "name": "Shari S.",
+      "context": "8+ year maintenance client",
+      "initials": "SS",
+      "text": "Farrells have serviced my lawn and snow removal for over 8 years. Professional, prompt and affordable. I wouldn't trust anyone else with my property."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free, no-obligation design consultation. We'll visit your property, listen to your vision, and provide an honest proposal — just like we've done for 3,000+ families.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed written proposal within days",
+      "5-year workmanship warranty included"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned since 1976. Transforming outdoor spaces across Ohio and Indiana for 48+ years.",
+    "service_area": "Serving Bryan, Toledo, Archbold, Defiance, Napoleon & Surrounding Areas",
+    "services": [
+      "Landscape Design",
+      "Paver Patios",
+      "Outdoor Kitchens",
+      "Pool Installation",
+      "Lawn Care"
+    ],
+    "copyright": "&copy; 2026 Farrell's Lawn & Garden Center. All rights reserved. ICPI Certified | Unilock Authorized | License #1734453"
+  }
+}
