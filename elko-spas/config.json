@@ -4,180 +4,181 @@
   "tagline": "Isn't it time to relax?",
   "phone": "+1 843-294-3556",
   "email": "info@elkospasandbilliards.com",
-  "review_count": "719",
-  "review_rating": "4.9",
+  "logo_path": "logo.png",
   "colors": {
-    "primary": "#1a3a5c",
-    "primary_dark": "#122a42",
-    "primary_deeper": "#0b1c2e",
-    "secondary": "#4a90d9",
-    "cta": "#d4a843",
-    "cta_dark": "#b8902e"
+    "primary": "#1B2A4A",
+    "primary_dark": "#121D35",
+    "primary_deeper": "#0A1222",
+    "secondary": "#C8962D",
+    "cta": "#C8962D",
+    "cta_dark": "#A87A1F"
   },
   "trust_badges": {
-    "badge_1": "Award-Winning Dealer Since 1987",
+    "badge_1": "AQUA 100 Top 10 Dealership",
     "badge_2": "4.9/5 from 719+ Reviews",
-    "badge_3": "Authorized HotSpring Center"
+    "badge_3": "BBB Accredited — 20+ Years"
   },
   "hero": {
-    "badge_1": "4.9/5 from 719+ Google Reviews",
-    "badge_2": "Award-Winning Since 1987",
-    "headline": "39 Years of Turning Backyards <span class=\"text-secondary italic\">Into Retreats</span>",
-    "subheadline": "From hot tubs and swim spas to custom pools and game rooms, Myrtle Beach families have trusted Elko for nearly four decades. Visit our showroom, experience the difference, and let us help you create the backyard you deserve.",
+    "badge_1": "4.9/5 on Google — 719+ Five-Star Reviews",
+    "badge_2": "AQUA 100 Top 10 Dealership in North America",
+    "headline": "North America's Top <span class=\"text-secondary italic\">Spa & Pool<br>Dealership</span>",
+    "subheadline": "For over 20 years, Elko Spas has been the Grand Strand's award-winning destination for hot tubs, pools, and game rooms. Visit our fully-loaded Myrtle Beach showroom, try before you buy, and let our expert team handle delivery, installation, and service.",
     "cta_text": "Visit Our Showroom Today",
     "checkmarks": [
-      "Free in-store consultation",
-      "Professional delivery & installation",
-      "Full warranty service on-site"
+      "Try products in our showroom before buying",
+      "Professional local delivery & installation",
+      "In-house service team for everything we sell"
     ]
   },
   "stats": {
     "stat_1_value": "719",
-    "stat_1_label": "5-Star Reviews",
-    "stat_2_value": "39",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "5000",
-    "stat_3_label": "Families Served",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "20",
+    "stat_2_label": "Years Serving the Grand Strand",
+    "stat_3_value": "Top 10",
+    "stat_3_label": "Dealership in North America",
     "stat_4_value": "100%",
-    "stat_4_label": "Warranty Backed"
+    "stat_4_label": "In-House Service & Delivery"
   },
   "services": {
     "label": "What We Offer",
-    "headline": "Hot Tubs, Pools, Game Rooms &<br class=\"hidden md:block\"> Everything In Between",
-    "subtitle": "One showroom, one team, one trusted name for every way you unwind at home. From your first splash to your thousandth soak, Elko has you covered.",
+    "headline": "Spas, Pools, Billiards &<br class=\"hidden md:block\"> Complete Game Rooms",
+    "subtitle": "From premium hot tubs to custom game room setups, Elko is your one-stop shop for relaxation and recreation on the Grand Strand.",
     "cards": [
       {
         "title": "Hot Tubs & Spas",
-        "description": "As the area's only authorized Hot Spring dealer and service center, we offer premium hot tubs with expert guidance, local delivery, installation, and full warranty support."
+        "description": "Premium Hot Spring and PDC spas on display in our showroom. Salt spas and traditional models with expert guidance to find the perfect fit for your lifestyle and wellness needs."
       },
       {
-        "title": "Swim Spas",
-        "description": "PDC Swim Spas for exercise, therapy, and relaxation. Our team helps you find the perfect fit for your space, lifestyle, and fitness goals."
-      },
-      {
-        "title": "Inground Pools",
-        "description": "Custom fiberglass pool design and installation featuring Alaglas and Imagine Pools brands, tailored to your backyard vision and budget."
-      },
-      {
-        "title": "Above-Ground Pools",
-        "description": "Quality above-ground pools from Doughboy and Embassy Pools with professional installation, ongoing service, and all the supplies you need."
+        "title": "Swimming Pools",
+        "description": "Above-ground and in-ground pool sales, installation, and maintenance. Professional design consultation and expert setup for residential pools of all sizes."
       },
       {
         "title": "Billiards & Game Rooms",
-        "description": "Premium Olhausen billiard tables and game room furniture with white-glove delivery, professional assembly, moves, and felt replacement."
+        "description": "Olhausen pool tables, game room equipment, and custom design services. See our tables on display, then let our crew handle professional delivery and setup."
       },
       {
-        "title": "Water Care & Service",
-        "description": "Professional water testing, E-Z CLOR products, and a dedicated service division for pools, spas, and swim spas to keep everything running perfectly."
+        "title": "Water Care & Chemicals",
+        "description": "Complete water care supplies, E-Z CLOR pool chemicals, and free water testing. Our experts help you keep your spa or pool crystal clear year-round."
+      },
+      {
+        "title": "Service & Repair",
+        "description": "Our in-house service division provides expert diagnostics, maintenance, and repair for spas, hot tubs, and pool equipment. Fast, responsive, and skilled."
+      },
+      {
+        "title": "Delivery & Installation",
+        "description": "Professional local delivery and installation by our trained team. Precise placement, full setup walkthrough, and starter kits included with every purchase."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Your New Backyard in Three Easy Steps",
+    "headline": "Your Relaxation Starts Here",
     "steps": [
       {
         "title": "Visit Our Showroom",
-        "description": "Browse our fully-loaded showroom featuring Hot Spring Spas, swim spas, pools, billiard tables, and saunas. Our no-pressure team answers every question and helps you explore options."
+        "description": "Walk through our fully-loaded Myrtle Beach showroom. Sit in a hot tub, shoot a round of pool, and experience the products firsthand. Our knowledgeable staff will help you find exactly what fits your space and budget."
       },
       {
-        "title": "We Design & Deliver",
-        "description": "Our experts help you choose the perfect products for your space and budget. We handle professional delivery, installation, and setup so you don't lift a finger."
+        "title": "We Handle Everything",
+        "description": "From financing to delivery scheduling, we make it effortless. Our professional team coordinates every detail so your new spa, pool, or game table arrives on time and stress-free."
       },
       {
         "title": "Relax & Enjoy",
-        "description": "Your backyard retreat is ready. And with our dedicated service division and full warranty support, we're here for you long after the sale."
+        "description": "Our trained crew delivers, installs, and walks you through everything — starter kit included. And with our in-house service team, we're always here whenever you need us."
       }
     ]
   },
   "about": {
-    "label": "Why Families Choose Elko",
-    "headline": "The Grand Strand's Most Trusted Name in Outdoor Living",
-    "description": "Since 1987, Elko Spas, Billiards and Pools has been a family-run business serving the Myrtle Beach community. We carry the highest quality products priced fairly, provide a comfortable no-pressure shopping environment, and educate customers on every product we sell. Multiple National Hot Spring Dealer of the Year awards and our 4.9-star rating from 719+ reviews reflect the care we put into every customer relationship.",
-    "badge": "AQUA 100 Winner",
+    "label": "Why the Grand Strand Trusts Elko",
+    "headline": "Award-Winning. Family-Focused. Here for You Since 2004.",
+    "description": "Elko Spas, Billiards & Pools has been a cornerstone of the Myrtle Beach community for over two decades. Recognized with the prestigious AQUA 100 award as a top 10 spa and pool dealership in all of North America, we've earned that distinction by treating every customer like family. Our fully-loaded showroom lets you try before you buy, our in-house service team stands behind everything we sell, and our 719+ five-star reviews speak for themselves. Whether you're soaking in a salt spa or racking up a game of 8-ball, Elko makes relaxation easy.",
+    "badge": "AQUA 100 Award Winner — Top 10 in North America",
     "features": [
       {
-        "title": "Only Authorized HotSpring Center",
-        "description": "We are the area's sole authorized Hot Spring warranty and service center, meaning factory-trained technicians and genuine parts for your spa."
+        "title": "Try Before You Buy Showroom",
+        "description": "Our Myrtle Beach showroom has hot tubs, pools, and billiards tables on full display. Sit in, touch, and experience every product before making a decision."
       },
       {
-        "title": "Award-Winning Dealership",
-        "description": "Multiple National Hot Spring Dealer of the Year awards, Hot Spring Gold Dealer status, and 2024 AQUA 100 recognition prove our commitment to excellence."
+        "title": "In-House Service Division",
+        "description": "We don't outsource. Our skilled technicians service everything we sell — from spa repairs to pool equipment diagnostics — quickly and professionally."
       },
       {
-        "title": "Full-Service From Day One",
-        "description": "We sell it, deliver it, install it, and service it. One team handles everything so you never have to chase down a third party."
+        "title": "Professional Local Delivery",
+        "description": "Our trained delivery crew handles placement, installation, and a complete walkthrough. Starter kits included so you're ready to enjoy from day one."
       }
     ]
   },
   "pricing": {
-    "headline": "Fair Pricing. No Surprises.",
-    "subtitle": "The highest quality products at honest prices. Visit our showroom for a personalized quote on any hot tub, pool, swim spa, or game room setup."
+    "headline": "Honest Pricing. No Surprises.",
+    "subtitle": "Visit our showroom to see real products at real prices. We offer financing options, competitive pricing on every brand we carry, and starter kits included with your purchase."
   },
   "guarantee": {
-    "headline": "Our \"Relax With Confidence\" Guarantee",
-    "description": "Every product we sell is backed by manufacturer warranties and our own dedicated service team. If anything isn't right, our factory-trained technicians make it right — fast. We've built our reputation on exceeding expectations for 39 years, and we stand behind every product that leaves our showroom."
+    "headline": "Our \"Grand Strand Peace of Mind\" Guarantee",
+    "description": "Every product we sell is backed by our in-house service team and our 20+ year reputation. If something isn't right, we make it right — period. With 719+ five-star reviews and the AQUA 100 award on our wall, we've built this business on trust, and we plan to keep it that way. Your satisfaction is not just a promise; it's the standard we've maintained for over two decades."
   },
   "faqs": [
     {
+      "question": "Can I try the hot tubs before I buy?",
+      "answer": "Absolutely! Our Myrtle Beach showroom has a full selection of hot tubs and spas on display. Come sit in them, feel the jets, and ask our staff any questions. We believe in try-before-you-buy so you can make the best decision for your home."
+    },
+    {
+      "question": "Do you offer delivery and installation?",
+      "answer": "Yes — our professional local delivery and installation team handles everything. We coordinate delivery day, place your product precisely where you want it, do a full walkthrough, and provide a starter kit so you're ready to enjoy immediately."
+    },
+    {
       "question": "What brands do you carry?",
-      "answer": "We carry Hot Spring Spas, PDC Swim Spas, Alaglas and Imagine Pools fiberglass pools, Doughboy and Embassy above-ground pools, Olhausen Billiards, and Tylo Saunas. Every brand is hand-selected for quality and backed by our service team."
+      "answer": "We're authorized dealers for Hot Spring Spas, PDC Spas, Olhausen Billiards, and more. We also carry E-Z CLOR pool chemicals and a full range of water care supplies. Visit our showroom to see everything in person."
     },
     {
-      "question": "Do you handle delivery and installation?",
-      "answer": "Absolutely. Our own local crew handles professional delivery, installation, and setup for every product we sell. We don't outsource — our team ensures everything is done right from start to finish."
-    },
-    {
-      "question": "Can you service hot tubs you didn't sell?",
-      "answer": "As the area's only authorized HotSpring warranty and service center, we primarily service Hot Spring products. Contact us to discuss your specific situation and we'll let you know how we can help."
-    },
-    {
-      "question": "How do I maintain my hot tub or pool water?",
-      "answer": "Visit our store for free water testing anytime. We carry a full line of E-Z CLOR water care products and our staff will walk you through exactly what your water needs to stay clean, balanced, and safe."
+      "question": "Do you service products you didn't sell?",
+      "answer": "Yes, our in-house service division works on most major spa and pool equipment brands. Whether you need a repair, diagnostics, or routine maintenance, give us a call and we'll get our technicians scheduled."
     },
     {
       "question": "Do you offer financing?",
-      "answer": "Yes, we offer financing options to help make your dream backyard a reality. Visit our showroom or call us to discuss available plans and find the option that fits your budget."
+      "answer": "Yes! We offer financing options to make your dream spa, pool, or game room more affordable. Ask our showroom staff about current financing programs and we'll find a plan that works for your budget."
     }
   ],
   "testimonials": [
     {
       "name": "Anne K.",
-      "text": "The salt spa I bought from Elko is the best I ever owned. The service they give is outstanding! They truly care about their customers and it shows in every interaction.",
-      "context": "Hot tub purchase",
-      "initials": "AK"
+      "context": "Salt Spa Purchase",
+      "initials": "AK",
+      "text": "I have owned spa's before but the salt spa I bought from Elko is the best I ever owned. So easy to maintain and feels so good on your skin. And the service they give you is outstanding!"
     },
     {
       "name": "Gordon T.",
-      "text": "Quality products, competitive pricing, and great people. The entire transaction was flawless. From the showroom visit to delivery and setup, everything exceeded our expectations.",
-      "context": "Overall experience",
-      "initials": "GT"
+      "context": "Pool Table Purchase",
+      "initials": "GT",
+      "text": "As soon as you walk through the door, you will be greeted by an Elko staff member who, through their actions and energy, let you know customer service is a top priority. Quality products, competitive pricing, and great people."
     },
     {
       "name": "Elaine B.",
-      "text": "The delivery team was exceptional. Professional, careful, and they made sure everything was perfect before they left. I now sleep like a baby after soaking in my HotSpring tub every night!",
-      "context": "Hot tub delivery & installation",
-      "initials": "EB"
+      "context": "Delivery & Service Experience",
+      "initials": "EB",
+      "text": "Elko spas service department and delivery crew are exceptional human beings. The delivery team is patient and workmanship is second to none. I now sleep like a baby in my HotSpring tub from Elko Spas!"
     }
   ],
   "contact": {
-    "headline": "Ready to Create Your<br>Backyard Retreat?",
-    "subtitle": "Visit our showroom, call us, or send a message. No pressure, no obligations — just friendly guidance from a team that's been helping Myrtle Beach families relax since 1987.",
+    "headline": "Ready to Start<br>Relaxing?",
+    "subtitle": "Visit our Myrtle Beach showroom, give us a call, or fill out the form below. Our friendly team will help you find the perfect spa, pool, or game room setup — no pressure, just honest advice from a team that's been doing this for 20+ years.",
     "benefits": [
-      "Free in-store consultation & water testing",
-      "Professional delivery & installation included",
-      "Full warranty service by factory-trained techs"
+      "Try products in our showroom first",
+      "Financing options available",
+      "In-house service & support for life"
     ]
   },
   "footer": {
-    "description": "Award-winning dealership serving the Grand Strand since 1987.",
-    "service_area": "Serving Myrtle Beach & the Grand Strand",
+    "description": "Award-winning spa, pool, and billiards dealership serving the Grand Strand since 2004.",
+    "service_area": "Serving Myrtle Beach & the Grand Strand, SC",
     "services": [
       "Hot Tubs & Spas",
-      "Swim Spas",
-      "Inground Pools",
+      "Swimming Pools",
       "Billiards & Game Rooms",
-      "Water Care & Service"
+      "Water Care & Chemicals",
+      "Service & Repair"
     ],
-    "copyright": "&copy; 2024 Elko Spas, Billiards & Pools. All rights reserved."
-  }
+    "copyright": "&copy; 2026 Elko Spas, Billiards & Pools. All rights reserved. Myrtle Beach, SC — BBB Accredited"
+  },
+  "review_count": "719",
+  "review_rating": "4.9"
 }

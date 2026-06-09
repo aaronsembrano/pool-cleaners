@@ -3,16 +3,17 @@
   "company_name": "American Leak Detection of Sacramento",
   "tagline": "Non-Destructive Leak Detection & Repair",
   "phone": "+1 916-245-2437",
-  "email": "officestaff@americanleakdetect.com",
+  "email": "monte@americanleakdetect.com",
+  "logo_path": "logo.png",
   "review_count": "146",
   "review_rating": "4.7",
   "colors": {
-    "primary": "#003DA5",
-    "primary_dark": "#002B75",
-    "primary_deeper": "#001A4A",
-    "secondary": "#E31937",
-    "cta": "#E31937",
-    "cta_dark": "#B81430"
+    "primary": "#1B3A5C",
+    "primary_dark": "#122841",
+    "primary_deeper": "#0C1D30",
+    "secondary": "#E87722",
+    "cta": "#E87722",
+    "cta_dark": "#C8601A"
   },
   "trust_badges": {
     "badge_1": "Licensed, Bonded & Insured",
