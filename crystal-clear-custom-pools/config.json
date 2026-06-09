@@ -2,72 +2,74 @@
   "folder_name": "crystal-clear-custom-pools",
   "company_name": "Crystal Clear Custom Pools",
   "tagline": "Pool Service & Repair for Midlothian, Waxahachie, DeSoto & Surrounding Areas",
-  "phone": "(972) 723-8078",
+  "phone": "+1 972-723-8078",
   "email": "valerie@cccpools.com",
   "logo_path": "",
+  "review_count": "179",
+  "review_rating": "4.6",
   "colors": {
     "primary": "#1a5276",
     "primary_dark": "#123a54",
-    "primary_deeper": "#0d2a3e",
-    "secondary": "#2980b9",
+    "primary_deeper": "#0c2a3d",
+    "secondary": "#2e86c1",
     "cta": "#f39c12",
     "cta_dark": "#d68910"
   },
   "trust_badges": {
-    "badge_1": "Fully Licensed & Insured",
-    "badge_2": "4.5/5 from 20+ Reviews",
-    "badge_3": "BBB A-Rated"
+    "badge_1": "TICL #276 Licensed",
+    "badge_2": "4.6/5 from 179+ Reviews",
+    "badge_3": "Serving North Texas Since 2008"
   },
   "hero": {
-    "badge_1": "4.5/5 from 20+ Google Reviews",
-    "badge_2": "Certified PHTA Instructors",
-    "headline": "350+ Pools Trust Us <span class=\"text-secondary italic\">Every Single Week</span>",
-    "subheadline": "For nearly 20 years, Crystal Clear Custom Pools has been the name Ellis and Southern Dallas County families count on. Fully insured, PHTA-certified, and committed to getting it right -- so you can stop worrying about your pool and start enjoying it.",
-    "cta_text": "Schedule My Pool Inspection",
+    "badge_1": "4.6/5 from 179+ Google Reviews",
+    "badge_2": "CBP Certified Instructor on Staff",
+    "headline": "Your Pool Deserves a <span class=\"text-secondary italic\">True Expert</span>",
+    "subheadline": "Owner Tom Sheehy is one of only two CBP certification instructors in all of Texas. When you trust Crystal Clear Custom Pools, you get 18 years of hands-on expertise keeping pools pristine across Midlothian, Waxahachie, and DeSoto.",
+    "cta_text": "Request Your Free Pool Assessment",
     "checkmarks": [
-      "Free pool inspection",
-      "Authorized Jandy & Pentair warranty station",
-      "100% satisfaction guaranteed"
+      "Free pool inspection included",
+      "Service within the week",
+      "Quality never compromised"
     ]
   },
   "stats": {
-    "stat_1_value": "350",
-    "stat_1_label": "Pools Serviced Weekly",
-    "stat_2_value": "20",
-    "stat_2_label": "Years of Experience",
-    "stat_3_value": "19",
-    "stat_3_label": "Cities Covered",
-    "stat_4_value": "100%",
-    "stat_4_label": "Customer Satisfaction Goal"
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "18",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "179",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "4.6",
+    "stat_4_label": "Star Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Experts Who Know Every System",
-    "subtitle": "From weekly cleaning to advanced automation upgrades, we handle it all. Our certified technicians prioritize repair before replacement -- saving you money and keeping your pool running right.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Maintenance to Renovation",
+    "subtitle": "Whether you need weekly cleaning, emergency repairs, or a full pool transformation, Crystal Clear Custom Pools delivers the expertise and reliability that North Texas homeowners have counted on since 2008.",
     "cards": [
       {
-        "title": "Weekly Pool Cleaning",
-        "description": "Surface netting, wall brushing, vacuuming, skimmer emptying, full water chemistry testing, filter backwash, and timer checks. Detailed service notes after every visit."
+        "title": "Weekly Pool Service",
+        "description": "Skimming, brushing, vacuuming, and chemical balancing performed on a consistent schedule. Your pool stays swim-ready so you can enjoy it without lifting a finger."
       },
       {
         "title": "Equipment Repair & Replacement",
-        "description": "Authorized Jandy and Pentair warranty station. We diagnose pumps, filters, heaters, and salt systems -- and always try to repair before we replace."
+        "description": "Pumps, filters, heaters, salt systems, and automation controls diagnosed and repaired by certified technicians. When replacement makes more sense, we install quality equipment that lasts."
       },
       {
-        "title": "Automation Upgrades",
-        "description": "Control your pool from your phone. We install smart automation systems that let you pre-heat, schedule cleaning, and cut energy costs from anywhere."
+        "title": "Pool Renovation & Remodeling",
+        "description": "From fun and functional upgrades to complete backyard transformations. We work closely with you to design the outdoor living space that fits your family's lifestyle."
       },
       {
-        "title": "Leak Detection & Repair",
-        "description": "Losing more than 2 inches of water per week? Our specialized leak detection finds the source fast -- whether it is equipment, plumbing, or structural."
+        "title": "Spa & Hot Tub Service",
+        "description": "Professional spa cleaning, chemical balancing, and equipment maintenance to keep your hot tub relaxing and ready for use any night of the week."
       },
       {
-        "title": "Pool Inspections",
-        "description": "Thorough one-hour visual and operational evaluations of your pool and equipment. You get a full report with prioritized repair recommendations."
+        "title": "Water Chemistry Management",
+        "description": "Precise water testing and chemical adjustments that keep your pool safe, clear, and gentle on skin. No guesswork, no red eyes, no irritation."
       },
       {
-        "title": "Tile Cleaning & Spa Service",
-        "description": "Seasonal tile cleaning to keep your pool looking sharp, plus complete spa and hot tub maintenance, cleaning, and repair services year-round."
+        "title": "Seasonal Opening & Closing",
+        "description": "Proper winterization and spring start-up services that protect your pool investment and ensure a smooth transition between seasons in North Texas."
       }
     ]
   },
@@ -75,110 +77,108 @@
     "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Book Your Free Inspection",
-        "description": "Call us or fill out the form. We will schedule a one-hour pool inspection at your convenience -- no cost, no obligation, no pressure."
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We provide an honest assessment and straightforward pricing within 24 hours. No pressure, no gimmicks."
       },
       {
-        "title": "Get Your Custom Service Plan",
-        "description": "Our certified technicians evaluate your pool and equipment, then recommend exactly what you need -- nothing more, nothing less. Honest pricing, always."
+        "title": "We Get to Work",
+        "description": "Our licensed, CBP-trained technicians arrive on schedule and handle everything. Cleaning, chemistry, equipment checks, and detailed service notes after every visit."
       },
       {
-        "title": "Relax and Enjoy Your Pool",
-        "description": "We show up on schedule, handle everything, and send you a detailed report after every visit. Your pool stays swim-ready while you enjoy your weekends."
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and worry-free. If anything is ever less than perfect, we come back and make it right. That is the Crystal Clear promise."
       }
     ]
   },
   "about": {
-    "label": "Why Ellis County Trusts Us",
-    "headline": "One of Only Two CBP Instructors in All of Texas",
-    "description": "Crystal Clear Custom Pools was founded by Tom Sheehy nearly 20 years ago to fill a gap: dependable, fully insured pool service in Ellis and Southern Dallas Counties. Today, Tom serves as an instructor for every Pool and Hot Tub Alliance certification and is one of only two Certified Building Professional instructors in the entire state. Less than 10% of pool companies carry any certifications or insurance -- we carry both, because your family deserves that standard.",
-    "badge": "PHTA Certified Instructor",
+    "label": "Why North Texas Trusts Us",
+    "headline": "18 Years of Keeping Pools Crystal Clear",
+    "description": "Crystal Clear Custom Pools was founded in 2008 by Tom Sheehy, who is one of only two instructors in the state of Texas for the CBP certification through the Pool and Hot Tub Alliance. That level of expertise flows into every service call we make. Licensed under TICL 276, our team treats every pool like our own. We have built long-term relationships with families across Midlothian, Waxahachie, DeSoto, and beyond who have trusted us for over a decade because we never compromise on quality.",
+    "badge": "CBP Certified Instructor",
     "features": [
       {
-        "title": "Fully Insured & Certified",
-        "description": "Unlike 90% of Texas pool companies, we maintain full insurance, TICL licensing, and multiple PHTA certifications. Your backyard is protected."
+        "title": "Licensed & Certified Professionals",
+        "description": "TICL #276 licensed with CBP certification. Our team is trained by one of only two state-certified instructors in Texas."
       },
       {
-        "title": "Repair Before Replace Philosophy",
-        "description": "We diagnose thoroughly and fix what can be fixed. You will never get pushed into buying equipment you do not need."
+        "title": "Long-Term Relationships, Not Contracts",
+        "description": "Customers have trusted us for over 10 years. We earn your business through quality work and reliable service, not paperwork."
       },
       {
-        "title": "Detailed Service Reports",
-        "description": "After every visit, you receive a complete service summary with water chemistry readings, work performed, and any recommendations."
+        "title": "Quality Never Compromised",
+        "description": "We use professional-grade equipment and proven methods. Every visit meets the high standard Tom Sheehy built this company on."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every pool is different. Tell us about yours and we will give you an honest quote -- typically within 24 hours."
+    "subtitle": "Choose the service level that fits your pool. Flexible plans with no long-term contracts required."
   },
   "guarantee": {
     "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will come back and make it right at no extra charge. We have built our reputation on exceeding expectations for nearly 20 years, and we are not about to stop now."
+    "description": "If your pool is not crystal clear after any service visit, call us and we will come back to make it right at no extra charge. We have built our reputation over 18 years by standing behind every job. Your satisfaction is not negotiable."
   },
   "faqs": [
     {
-      "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients are on the schedule within one week. We service 19+ cities across Ellis and Southern Dallas Counties, so chances are we are already in your neighborhood."
+      "question": "How soon can Crystal Clear start servicing my pool?",
+      "answer": "Most new customers are on our schedule within one week. For urgent equipment issues or green pool emergencies, we do our best to respond within 24-48 hours. Call us and we will work with your timeline."
     },
     {
-      "question": "Are you really fully insured and certified?",
-      "answer": "Yes -- and that matters more than most homeowners realize. Less than 10% of Texas pool companies carry proper certifications or insurance. We hold a TICL license, multiple PHTA certifications, and full liability coverage. Our owner is a PHTA certification instructor."
+      "question": "What areas does Crystal Clear Custom Pools serve?",
+      "answer": "We serve Midlothian, Waxahachie, DeSoto, Gun Barrel City, and surrounding communities across Ellis County and southern Dallas County. If you are unsure whether we cover your area, give us a call."
     },
     {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and we take care of everything. After each visit, you receive a detailed service report so you know exactly what was done and the current state of your water chemistry."
+      "question": "What makes Crystal Clear different from other pool services?",
+      "answer": "Owner Tom Sheehy is one of only two CBP certification instructors in all of Texas through the Pool and Hot Tub Alliance. That expertise, combined with 18 years of hands-on experience and TICL #276 licensing, means your pool is in the most qualified hands in North Texas."
     },
     {
-      "question": "Do you work on all equipment brands?",
-      "answer": "We service all major pool equipment manufacturers. We are also an authorized warranty station for both Jandy and Pentair, which means faster, factory-backed repairs for those brands."
+      "question": "Do you handle pool equipment repairs?",
+      "answer": "Absolutely. We diagnose and repair pumps, filters, heaters, salt systems, and automation controls. When repair is not cost-effective, we provide honest recommendations and professional replacement with quality equipment."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We cover Midlothian, Waxahachie, DeSoto, Mansfield, Glenn Heights, Ovilla, Red Oak, Cedar Hill, Ennis, Grand Prairie, Duncanville, Lancaster, and surrounding communities across Ellis and Southern Dallas Counties."
+      "question": "Can you renovate or remodel my existing pool?",
+      "answer": "Yes. From functional upgrades to complete backyard transformations, we work closely with you to design and build the outdoor living area your family has been dreaming about. Contact us for a free renovation consultation."
     }
   ],
   "testimonials": [
     {
       "name": "George & MaryAnn S.",
-      "context": "Customer for 10+ years",
-      "initials": "GS",
-      "text": "We have used CCC Pools for over 10 years and have been extremely pleased with all services provided. They are dependable, thorough, and genuinely care about doing things right."
+      "text": "We have used CCC Pools for over 10 years and have been extremely pleased with all services provided. Great professionalism and courtesy by all staff and prompt service in maintenance and repairs.",
+      "context": "Customer for 10+ Years",
+      "initials": "GS"
     },
     {
       "name": "Cyndee D.",
+      "text": "CCCPools has been taking care of my pool for nearly 5 years. They were a breath of fresh air after the previous pool service turned out to be unreliable. During a very difficult time in my family, they provided so much support and were beyond generous in every way.",
       "context": "Midlothian, TX",
-      "initials": "CD",
-      "text": "CCCPools has been taking care of my pool for nearly 5 years. They were a breath of fresh air after the previous pool service turned out to be unreliable. Could not recommend them more."
+      "initials": "CD"
     },
     {
       "name": "Jess L.",
+      "text": "Great customer service from the office to the tech's that come out. I really appreciate the knowledge they provide on keeping our pool and spa looking great and functioning correctly.",
       "context": "Waxahachie, TX",
-      "initials": "JL",
-      "text": "Great customer service from the office to the techs that come out. I really appreciate the knowledge they provide. You can tell they actually know what they are doing."
+      "initials": "JL"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
-    "subtitle": "Request your free pool inspection today. No contracts, no pressure -- just honest recommendations from certified professionals who have been doing this for 20 years.",
+    "headline": "Ready for a Pool That's<br>Always Crystal Clear?",
+    "subtitle": "Get a free, no-pressure pool assessment. Call us or fill out the form below and we will get back to you within 24 hours with honest, straightforward pricing.",
     "benefits": [
-      "Free one-hour pool inspection",
-      "Response within 24 hours",
-      "Fully insured and PHTA certified"
+      "Free pool inspection with your quote",
+      "Response within 24 hours guaranteed",
+      "18 years of trusted North Texas service"
     ]
   },
   "footer": {
-    "description": "Certified pool service serving Ellis and Southern Dallas Counties for nearly 20 years.",
-    "service_area": "Serving Midlothian, Waxahachie, DeSoto, Mansfield & 15+ Surrounding Cities",
+    "description": "Family-owned pool service. Proudly serving North Texas since 2008.",
+    "service_area": "Serving Midlothian, Waxahachie, DeSoto & Ellis County",
     "services": [
-      "Weekly Cleaning",
+      "Weekly Pool Service",
       "Equipment Repair",
-      "Automation Upgrades",
-      "Leak Detection",
-      "Pool Inspections"
+      "Pool Renovation",
+      "Spa & Hot Tub Service",
+      "Water Chemistry"
     ],
-    "copyright": "&copy; 2024 Crystal Clear Custom Pools Inc. All rights reserved. TICL #276"
-  },
-  "review_count": "20",
-  "review_rating": "4.5"
+    "copyright": "&copy; 2026 Crystal Clear Custom Pools Inc. All rights reserved. TICL #276"
+  }
 }

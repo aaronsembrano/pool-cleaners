@@ -7,68 +7,68 @@
   "review_count": "168",
   "review_rating": "4.9",
   "colors": {
-    "primary": "#1a73e8",
-    "primary_dark": "#0d47a1",
-    "primary_deeper": "#0a2f6b",
-    "secondary": "#42a5f5",
-    "cta": "#f59e0b",
-    "cta_dark": "#d97706"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5F",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
   },
   "trust_badges": {
-    "badge_1": "BBB Accredited & CPO Certified",
+    "badge_1": "CPO-Certified Team",
     "badge_2": "4.9/5 from 168+ Reviews",
     "badge_3": "100% Happiness Guarantee"
   },
   "hero": {
     "badge_1": "4.9/5 from 168+ Google Reviews",
-    "badge_2": "Every Tech CPO Certified",
-    "headline": "Crystal Clear Pools From <span class=\"text-secondary italic\">South Florida's<br>CPO Experts</span>",
-    "subheadline": "Every AJ Pools technician is CPO-certified, not just management. With 13 years serving Broward and Palm Beach County, we handle your weekly cleaning, repairs, and equipment so you never worry about your pool again.",
-    "cta_text": "Get My Free Pool Inspection",
+    "badge_2": "100% Happiness Guarantee",
+    "headline": "Your Pool Deserves a <span class=\"text-secondary italic\">CPO-Certified<br>Expert</span>",
+    "subheadline": "Andrew started cleaning pools at 13 and built AJ Pools into South Florida's most trusted pool company. Every technician on our team is CPO-certified, so your pool gets professional-grade care every single visit.",
+    "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Free on-site inspection",
-      "Service starts within days",
+      "Free pool inspection included",
+      "All technicians CPO-certified",
       "100% Happiness Guarantee"
     ]
   },
   "stats": {
-    "stat_1_value": "2000",
-    "stat_1_label": "Pools Maintained",
-    "stat_2_value": "13",
+    "stat_1_value": "168",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "14",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "168",
-    "stat_3_label": "Five-Star Reviews",
+    "stat_3_value": "3000",
+    "stat_3_label": "Pools Serviced",
     "stat_4_value": "100%",
-    "stat_4_label": "CPO-Certified Team"
+    "stat_4_label": "CPO-Certified Staff"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Certified Professionals",
-    "subtitle": "From weekly maintenance to major repairs, every AJ Pools technician carries a CPO certification and treats your pool like their own.",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\">a Team That Knows Pools Inside Out",
+    "subtitle": "From weekly cleanings to full remodels, AJ Pools handles every aspect of pool ownership so you can spend your time swimming instead of scrubbing.",
     "cards": [
       {
-        "title": "Weekly Pool Cleaning",
-        "description": "Vacuuming, skimming, brushing walls and tiles, emptying baskets, equipment checks, and precise chemical balancing. Your pool stays swim-ready every week."
+        "title": "Weekly Pool Cleaning & Maintenance",
+        "description": "Vacuuming, skimming, brushing, filter cleaning, water chemistry testing, and chemical treatment — your pool stays crystal clear and swim-ready every week."
       },
       {
         "title": "Pool Repairs & Equipment",
-        "description": "Pumps, motors, heaters, salt systems, and automation. We partner with Pentair, Hayward, Jandy, and Zodiac for fast, reliable repairs."
+        "description": "Pumps, motors, heaters, salt systems, automation, and re-plumbing. Our CPO-certified techs diagnose fast and fix it right the first time."
       },
       {
-        "title": "Green-to-Clean Recovery",
-        "description": "Neglected pool turned swamp? We specialize in rescuing pools from algae and neglect. Crystal clear results in 48-72 hours."
+        "title": "Pool Remodeling & Replastering",
+        "description": "Restore your pool to like-new condition with replastering, acid washing, and modern upgrades that boost your property value."
       },
       {
-        "title": "Water Chemistry Management",
-        "description": "Precise chemical balancing that keeps water safe, sparkling, and gentle on skin. pH, alkalinity, chlorine, and stabilizer always dialed in."
+        "title": "Commercial Pool Services",
+        "description": "Professional maintenance, repairs, and equipment services for condos, HOAs, and community pools throughout South Florida."
       },
       {
-        "title": "Remodeling & Replastering",
-        "description": "Complete pool surface restoration, new tile, updated equipment, and modern upgrades that extend the life of your investment."
+        "title": "Emergency Pool Repairs",
+        "description": "Equipment failures and leaks cannot wait. Our rapid-response team handles urgent issues before they cause further damage to your pool."
       },
       {
-        "title": "Commercial Pool Service",
-        "description": "Health-code-compliant maintenance for condos, HOAs, hotels, and fitness centers. Dedicated service schedules and detailed reporting."
+        "title": "Salt Systems & Automation",
+        "description": "Upgrade to salt chlorine generators and smart automation from Pentair, Hayward, Jandy, and iAqualink for effortless pool management."
       }
     ]
   },
@@ -76,108 +76,108 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Inspection",
-        "description": "Tell us about your pool and we'll send a CPO-certified tech for a free on-site inspection. Honest quote within 24 hours, no pressure."
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and we'll send a CPO-certified technician to inspect it. You'll get an honest, no-pressure quote within 24 hours."
       },
       {
-        "title": "We Take Over From Here",
-        "description": "Your assigned technician handles everything on a consistent schedule: cleaning, chemicals, equipment checks, and water testing. All CPO-certified."
+        "title": "We Take It From Here",
+        "description": "Our CPO-certified team arrives on schedule to handle cleaning, chemicals, equipment checks, and anything else your pool needs. Owner Andrew personally checks in to make sure you're happy."
       },
       {
-        "title": "Dive In and Relax",
-        "description": "Your pool stays crystal clear year-round while you enjoy your weekends. Not satisfied? We come back and fix it free under our Happiness Guarantee."
+        "title": "Just Dive In",
+        "description": "Your pool stays crystal clear and swim-ready year-round. If you're ever not 100% satisfied, we come back and make it right — that's our Happiness Guarantee."
       }
     ]
   },
   "about": {
     "label": "Why South Florida Trusts AJ Pools",
-    "headline": "20+ Years of Hands-On Pool Expertise",
-    "description": "Andrew started cleaning pools at age 13 and earned his CPO certification at 18. He founded AJ Pools in 2012 with one simple rule: every employee must be CPO-certified. Today, that commitment to expertise has earned us a 4.9-star Google rating, BBB accreditation, and HomeAdvisor Elite Service recognition across Broward and Palm Beach County.",
-    "badge": "CPO Certified Team",
+    "headline": "Started at 13. CPO-Certified by 18. Trusted for Over a Decade.",
+    "description": "AJ Pools isn't a faceless corporation — it's a local business built by Andrew, who fell in love with the pool industry as a teenager and earned his CPO certification before he could vote. Today, every single employee on our team holds a CPO certification. Andrew still personally checks in with customers because he believes great pool care is built on relationships, not contracts.",
+    "badge": "All Staff CPO Certified",
     "features": [
       {
         "title": "Every Tech is CPO-Certified",
-        "description": "Not just the owner. Every single AJ Pools employee holds a Certified Pool Operator certification. That is our non-negotiable standard."
+        "description": "Not just management — every technician who touches your pool holds a Certified Pool Operator credential."
+      },
+      {
+        "title": "Owner Checks In Personally",
+        "description": "Andrew calls customers directly to ensure satisfaction. You're never just a number at AJ Pools."
       },
       {
         "title": "100% Happiness Guarantee",
-        "description": "Not satisfied with any service visit? We come back and make it right at no charge. No questions, no hassle, no exceptions."
-      },
-      {
-        "title": "BBB Accredited & Elite Service",
-        "description": "Recognized by the BBB and HomeAdvisor as a top-rated, screened-and-approved Elite Service provider. Your trust is earned, not assumed."
+        "description": "Not satisfied with any service? We come back and make it right at no charge. That's our promise to every customer."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Choose the plan that fits your pool. No contracts, no hidden fees. Upgrade, downgrade, or cancel anytime."
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — we earn your trust every visit."
   },
   "guarantee": {
     "headline": "Our 100% Happiness Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will come back and redo it at no additional charge. Andrew personally follows up on every concern because your satisfaction is not just a policy, it is the foundation AJ Pools was built on."
+    "description": "If you're not completely happy with any service visit, call us and we'll come back to make it right — no questions asked, no extra charge. Andrew built AJ Pools on the belief that you should never have to worry about your pool, and that includes worrying about whether you got your money's worth."
   },
   "faqs": [
     {
-      "question": "How quickly can AJ Pools start servicing my pool?",
-      "answer": "Most new clients are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response across Broward and Palm Beach County. Call us at (954) 803-0952 to get on the schedule."
+      "question": "How fast can AJ Pools start servicing my pool?",
+      "answer": "Most new customers are on our schedule within 3-5 business days. For emergency situations like equipment failures or green pools, we offer rapid-response service. Call us at (954) 803-0952 and we'll get you taken care of."
     },
     {
-      "question": "Are all your technicians really CPO-certified?",
-      "answer": "Yes, every single one. AJ Pools requires every employee to hold a current Certified Pool Operator certification. This is not an industry standard, it is our standard. It means the person at your pool understands water chemistry, equipment, and safety at a professional level."
+      "question": "What does CPO-certified mean and why does it matter?",
+      "answer": "CPO stands for Certified Pool Operator — it's the gold standard credential in the pool industry. It means our technicians have passed rigorous testing on water chemistry, pool systems, and safety protocols. Every single AJ Pools employee holds this certification, not just management."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "Never. We do not lock you into contracts. You stay because the service is excellent, not because of fine print. Cancel anytime with zero fees and zero hassle."
+      "question": "Do I need to be home when your team comes?",
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. After each visit, you'll know exactly what was done and how your pool's chemistry looks."
     },
     {
-      "question": "What areas do you service?",
-      "answer": "We serve Coconut Creek, Boca Raton, Parkland, Coral Springs, Pompano Beach, Delray Beach, Deerfield Beach, Lighthouse Point, and surrounding Broward and Palm Beach County communities."
+      "question": "Do you handle commercial pools like condos and HOAs?",
+      "answer": "Absolutely. AJ Pools serves residential and commercial properties across South Florida, including condos, HOAs, and community pools. Our CPO-certified team understands the unique requirements of commercial pool compliance."
     },
     {
-      "question": "Do you handle commercial pools and condos?",
-      "answer": "Absolutely. We service condo associations, HOAs, hotels, fitness centers, and apartment communities. Our commercial clients receive dedicated scheduling, health-code-compliant maintenance, and detailed service reports."
+      "question": "What if I'm not happy with a service visit?",
+      "answer": "Our 100% Happiness Guarantee means we come back and make it right at no extra charge. Andrew personally follows up with customers to ensure satisfaction — it's a hands-on approach that has earned us 168+ five-star reviews."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-Term Client",
-      "context": "Weekly Pool Cleaning",
-      "initials": "LC",
-      "text": "We have had AJ Pools service our inground pool since the first day it was filled. They are knowledgeable, courteous and punctual. Chemical water levels are kept within all required ranges and our water is always crystal clear."
+      "name": "Long-Term Customer",
+      "text": "We've been using AJ Pools for 6 years now. The owner Andrew always calls to check in for customer satisfaction. Alicia, the office manager, is on top of things and is extremely responsive.",
+      "context": "Pool Maintenance, 6 Years",
+      "initials": "LC"
     },
     {
-      "name": "Condo Manager",
-      "context": "Commercial Pool Rescue",
-      "initials": "CM",
-      "text": "Andrew from AJ Pools helped rescue our condo pool after the previous company was fired for neglect and algae issues. The pool is now looking great and we couldn't be happier with the service."
+      "name": "Condo Board Client",
+      "text": "Andrew came to our rescue after we fired our old pool company for neglecting our pool. He is a very nice, polite and personable guy who really cares about his work.",
+      "context": "Commercial Pool Service",
+      "initials": "CB"
     },
     {
-      "name": "6-Year Customer",
-      "context": "Ongoing Maintenance",
-      "initials": "6Y",
-      "text": "We have been using AJ Pools for 6 years. Andrew calls to check in on customer satisfaction and the office manager Alicia is extremely responsive. The service is consistently excellent."
+      "name": "Residential Client",
+      "text": "AJ Pools provide excellent professional pool services and they are extremely dependable. They come once a week and take care of everything. Totally recommend.",
+      "context": "Weekly Pool Service",
+      "initials": "RC"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
-    "subtitle": "Get a free on-site inspection and honest quote within 24 hours. No contracts, no commitments — just CPO-certified pool care from a team with 168+ five-star reviews.",
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure pool assessment from a CPO-certified expert. No contracts, no commitments — just honest service from a team that's been doing this for 14 years.",
     "benefits": [
-      "Free on-site pool inspection",
-      "Quote within 24 hours",
-      "100% Happiness Guarantee"
+      "Free pool inspection with every quote",
+      "CPO-certified technician on every visit",
+      "100% Happiness Guarantee on all services"
     ]
   },
   "footer": {
-    "description": "CPO-certified pool service. Proudly serving South Florida since 2012.",
-    "service_area": "Serving Coconut Creek, Boca Raton, Parkland, Coral Springs & South Florida",
+    "description": "CPO-certified pool care serving South Florida since 2012.",
+    "service_area": "Serving Boca Raton, Parkland, Coral Springs, Coconut Creek, Delray Beach & Surrounding Areas",
     "services": [
-      "Weekly Cleaning",
+      "Weekly Pool Cleaning",
       "Repairs & Equipment",
-      "Green Pool Recovery",
       "Remodeling & Replastering",
-      "Commercial Service"
+      "Commercial Pool Services",
+      "Salt Systems & Automation"
     ],
-    "copyright": "&copy; 2026 AJ Pools. All rights reserved. BBB Accredited Business."
+    "copyright": "&copy; 2024 AJ Pools. All rights reserved. Serving South Florida since 2012."
   }
 }

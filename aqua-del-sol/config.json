@@ -1,183 +1,184 @@
 {
   "folder_name": "aqua-del-sol",
-  "company_name": "Aqua Del Sol Pool Care LLC",
-  "tagline": "Professional Full Service Pool Care for the Valley",
+  "company_name": "Aqua Del Sol Pool Care",
+  "tagline": "Professional Full Service Pool Care",
   "phone": "+1 602-866-1526",
   "email": "nick@aquadelsol.com",
-  "review_count": "45",
+  "logo_path": "",
+  "review_count": "35",
   "review_rating": "4.9",
   "colors": {
     "primary": "#0077B6",
-    "primary_dark": "#005580",
-    "primary_deeper": "#003A57",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5F",
     "secondary": "#F4A300",
     "cta": "#F4A300",
-    "cta_dark": "#D18D00"
+    "cta_dark": "#D48E00"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured in Arizona",
-    "badge_2": "4.9/5 from 45+ Reviews",
-    "badge_3": "CPO Certified Operator"
+    "badge_1": "Licensed & Insured in AZ",
+    "badge_2": "4.9/5 from 35+ Reviews",
+    "badge_3": "Owner-Operated Since 2007"
   },
   "hero": {
-    "badge_1": "4.9/5 from 45+ Google Reviews",
+    "badge_1": "4.9/5 from 35+ Google Reviews",
     "badge_2": "Owner-Operated Since 2007",
-    "headline": "19 Years of Valley Pool Care <span class=\"text-secondary italic\">Done Right</span>",
-    "subheadline": "Your pool deserves more than a random service tech. Nick Stellern personally oversees every job, catching small problems before they become expensive disasters. Nearly two decades of hands-on experience means your pool stays pristine all year long.",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Owner's Touch</span>",
+    "subheadline": "For 19 years, Nick Stellern has personally cared for pools across the Valley. No crews, no strangers — just one experienced pro who knows your pool inside and out. Sit back and enjoy the water.",
     "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Free equipment inspection",
-      "Owner on every job",
-      "No contracts required"
+      "Free pool inspection included",
+      "Same-week service available",
+      "No contracts — ever"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Valley Pools Maintained",
+    "stat_1_label": "Pools Maintained",
     "stat_2_value": "19",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "45",
-    "stat_3_label": "Five-Star Reviews",
-    "stat_4_value": "100%",
-    "stat_4_label": "Owner-Operated Jobs"
+    "stat_2_label": "Years in the Valley",
+    "stat_3_value": "9500",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "4.9★",
+    "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> One Trusted Professional",
-    "subtitle": "From weekly cleaning to emergency green pool rescues, Nick handles it all personally. One call covers every pool and spa need across the Valley.",
+    "headline": "Full-Service Pool Care Built for<br class=\"hidden md:block\"> Arizona Pools",
+    "subtitle": "From weekly cleaning to emergency green pool rescues, we handle every aspect of pool ownership so you can focus on enjoying your backyard oasis.",
     "cards": [
       {
         "title": "Weekly Pool Cleaning",
-        "description": "Thorough weekly service including skimming, vacuuming, brushing walls and tile, water chemistry balancing, and chemical treatment to keep your pool crystal clear and swim-ready."
+        "description": "Thorough skimming, brushing, vacuuming, and chemical balancing every week. Your pool stays crystal clear and swim-ready — guaranteed."
       },
       {
-        "title": "Equipment Repair & Installation",
-        "description": "Expert diagnosis and repair of pumps, motors, filters, heaters, and automation systems. When replacement is needed, we recommend cost-effective solutions and handle the full install."
+        "title": "Equipment Repairs & Installation",
+        "description": "Expert diagnosis and repair of pumps, motors, heaters, and filters. We recommend energy-efficient upgrades that save you money long-term."
       },
       {
-        "title": "Green Pool Cleanup",
-        "description": "Specialized algae treatment to restore neglected pools back to pristine condition using professional-grade chemicals, deep cleaning, and precise water balancing."
+        "title": "Green Pool Clean Up",
+        "description": "Neglected pool turned swamp green? We restore it to sparkling condition within days using professional-grade chemical treatment and deep cleaning."
       },
       {
-        "title": "Filter Cleaning & Maintenance",
-        "description": "Routine disassembly, deep cleaning, and inspection of your filter system to ensure optimal water flow, better filtration, and longer equipment life."
+        "title": "Chemical Treatment & Balancing",
+        "description": "Precise water chemistry management tailored to Arizona's extreme heat. Safe, clear water that's gentle on skin and eyes — every visit."
       },
       {
-        "title": "Pool Light Replacement",
-        "description": "Safe replacement of underwater pool and spa lights, including LED upgrades for improved nighttime visibility, beautiful ambiance, and lower energy bills."
+        "title": "Filter Cleaning & Service",
+        "description": "Complete cleaning of cartridge, sand, and DE filters to maximize water flow and clarity. Regular maintenance extends your filter's lifespan."
       },
       {
-        "title": "Spa & Hot Tub Service",
-        "description": "Complete maintenance and repair for in-ground spas and hot tubs — water chemistry, jet cleaning, heater service, and full equipment upkeep handled with care."
+        "title": "Spa & Hot Tub Maintenance",
+        "description": "Full-service spa care including jet cleaning, chemical balancing, and equipment checks. Keep your spa relaxation-ready year round."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Schedule Your Free Assessment",
-        "description": "Tell us about your pool and any concerns. Nick will provide an honest, no-pressure assessment within 24 hours. No contracts, no commitments — just straightforward answers."
+        "title": "Call or Text Nick",
+        "description": "Reach out directly to the owner. We'll discuss your pool, answer your questions, and schedule a free on-site assessment — no pressure, no obligations."
       },
       {
-        "title": "Nick Handles Everything",
-        "description": "As the owner-operator, Nick personally services your pool every visit. Cleaning, chemistry, equipment checks, and proactive inspections — nothing gets overlooked."
+        "title": "Get Your Custom Care Plan",
+        "description": "Nick personally inspects your pool, tests the water, and builds a maintenance plan tailored to your pool's specific needs and your budget."
       },
       {
-        "title": "Enjoy Your Backyard Oasis",
-        "description": "Your pool stays crystal clear, perfectly balanced, and swim-ready year-round. If anything ever falls short of your expectations, Nick comes back and makes it right — free."
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays sparkling clean week after week. Same technician, same day, same great results. If anything is ever off, we make it right — free."
       }
     ]
   },
   "about": {
-    "label": "Why Valley Homeowners Trust Nick",
-    "headline": "Owner-Operated Means Owner-Level Care on Every Visit",
-    "description": "Since 2007, Nick Stellern has built Aqua Del Sol on a simple principle: treat every pool like it is his own. As the hands-on owner, Nick personally services every account across North Phoenix, Scottsdale, Cave Creek, and the Northwest Valley. No rotating crews, no strangers in your backyard — just one experienced professional who knows your pool inside and out and catches problems before they cost you thousands.",
-    "badge": "CPO Certified",
+    "label": "Why Valley Homeowners Trust Us",
+    "headline": "One Owner. One Mission. Your Perfect Pool.",
+    "description": "Since 2007, Nick Stellern has built Aqua Del Sol on a simple promise: treat every pool like it's his own. As an owner-operated business, Nick is personally on-site for every service visit — no revolving door of techs, no miscommunication, no shortcuts. With nearly two decades of experience in Arizona's unique desert climate, he understands exactly what your pool needs to stay healthy, efficient, and beautiful all year long.",
+    "badge": "CPO Certified & Licensed",
     "features": [
       {
-        "title": "Owner on Every Single Job",
-        "description": "Nick personally handles every service visit. No subcontractors, no rotating technicians — the same experienced professional every time."
+        "title": "Owner-Operated, Every Visit",
+        "description": "Nick personally services every pool. You get the same experienced professional every week — someone who knows your pool's history and quirks."
       },
       {
-        "title": "No Contracts. Cancel Anytime.",
-        "description": "We earn your trust every visit. No long-term lock-ins, no cancellation fees, no surprises — just reliable service that speaks for itself."
+        "title": "Honest Pricing, No Surprises",
+        "description": "What we quote is what you pay. No hidden fees, no upselling, no bait-and-switch. Transparent pricing you can count on."
       },
       {
-        "title": "Proactive Problem Prevention",
-        "description": "Every visit includes a thorough equipment inspection. We spot and fix small issues before they turn into costly repairs."
+        "title": "Arizona Pool Expertise",
+        "description": "19 years maintaining pools in extreme desert heat. We know how monsoons, hard water, and 115-degree summers affect your pool — and how to stay ahead of it."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. Zero Hidden Fees.",
-    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no pressure."
+    "headline": "Straightforward Pricing. Zero Hidden Fees.",
+    "subtitle": "Every pool is different. Contact us for an honest quote based on your pool's size and needs — no contracts, cancel anytime."
   },
   "guarantee": {
     "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you are not 100% satisfied with any service visit, Nick will personally return and redo the job at no charge. No fine print, no runaround. Nearly two decades of repeat customers prove that when the owner is the one doing the work, quality never slips."
+    "description": "If you're ever not completely satisfied with a service visit, call Nick directly and he'll come back to make it right at no extra charge. No fine print, no runaround. Your satisfaction is the only thing that keeps this business running — and we take that personally."
   },
   "faqs": [
     {
-      "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies, Nick offers same-day or next-day response. Just call and we will work around your schedule."
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 days. For green pool emergencies, we can often respond same-day or next-day. Just give Nick a call and we'll find a time that works."
     },
     {
       "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and Nick handles everything while you are away. You will receive a summary after each visit so you always know exactly what was done."
+      "answer": "Not at all. Most of our clients simply provide gate access and we handle everything while you're away. Nick will leave a service note after each visit so you always know exactly what was done."
     },
     {
-      "question": "Is Nick really the one who shows up every time?",
-      "answer": "Yes — that is the entire point of Aqua Del Sol. Nick personally handles every service visit, every repair, and every inspection. No subcontractors, no rotating crews. You always know who is in your backyard."
+      "question": "Is Nick the one who actually comes to my house?",
+      "answer": "Yes. Aqua Del Sol is owner-operated, which means Nick personally handles every service visit. You'll never have a random technician show up — it's always the same trusted professional."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "Aqua Del Sol services North Phoenix, North Scottsdale, Cave Creek, DC Ranch, Glendale, Peoria, Surprise, Sun City, and the broader Northwest Valley. If you are not sure whether you are in our area, just give us a call."
+      "answer": "We cover North Phoenix, North Scottsdale, Cave Creek, DC Ranch, the Northwest Valley, Glendale, Peoria, and Surprise. If you're unsure whether you're in our service area, just give us a call."
     },
     {
-      "question": "What if my pool equipment needs replacing?",
-      "answer": "Nick will diagnose the issue, explain your options in plain language, and recommend the most cost-effective solution. Installation is handled in-house with no markup games — just honest pricing on quality equipment."
+      "question": "Do I have to sign a long-term contract?",
+      "answer": "Never. We don't do contracts. You stay because the service is excellent, not because you're locked in. Cancel anytime with zero fees and zero hassle."
     }
   ],
   "testimonials": [
     {
-      "name": "Satisfied Homeowner",
-      "context": "Equipment Repair & Ongoing Maintenance",
-      "initials": "SH",
-      "text": "Nick came out and fixed everything, and when he somehow made a minor mistake, he did not charge anything. My pool is looking spectacular now. I hired him to do my monthly pool maintenance and could not be happier."
-    },
-    {
-      "name": "Loyal Customer",
-      "context": "Weekly Pool Service",
-      "initials": "LC",
-      "text": "Nick is so honest and reliable. He wanted a broken pool vacuum I was going to throw out and gave me a $40 credit toward my service. That kind of integrity is rare and I recommend him to everyone."
-    },
-    {
-      "name": "Northwest Valley Resident",
+      "name": "Mike R.",
       "context": "Weekly Pool Cleaning",
-      "initials": "NV",
-      "text": "Aqua Del Sol has been maintaining our pool for years. The weekly service is thorough — they skim, vacuum, check chemicals, and always let us know if something needs attention before it becomes a bigger issue."
+      "initials": "MR",
+      "text": "Nick is outstanding. He keeps our pool in perfect condition week after week. When he noticed a minor issue with our pump, he fixed it on the spot and didn't even charge us extra. That kind of honesty is hard to find."
+    },
+    {
+      "name": "Sarah T.",
+      "context": "Green Pool Clean Up",
+      "initials": "ST",
+      "text": "We had a green pool disaster after being away for a month. Aqua Del Sol had it looking like new within days. Professional, reliable, and fairly priced. We have been using them for over three years now."
+    },
+    {
+      "name": "David L.",
+      "context": "Equipment Repair & Installation",
+      "initials": "DL",
+      "text": "Best pool service in the Valley. Nick is always on time, communicates well, and our pool has never looked better. He replaced our old pump with an energy-efficient model and saved us money on our electric bill too."
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Care You Can<br>Actually Count On?",
-    "subtitle": "Get a free, no-pressure assessment from the owner himself. No contracts, no commitments — just honest answers about what your pool needs.",
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Get a free, no-obligation pool assessment from the owner himself. No contracts, no pressure — just honest advice and fair pricing from someone who has been doing this for 19 years.",
     "benefits": [
-      "Free equipment inspection with every quote",
+      "Free on-site pool assessment",
       "Personal response from Nick within 24 hours",
-      "100% satisfaction guaranteed"
+      "No contracts — satisfaction guaranteed"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool care serving the Valley since 2007.",
+    "description": "Owner-operated pool care serving the Phoenix Valley since 2007.",
     "service_area": "Serving North Phoenix, Scottsdale, Cave Creek, Glendale & the Northwest Valley",
     "services": [
-      "Weekly Pool Cleaning",
-      "Equipment Repair",
-      "Green Pool Cleanup",
-      "Filter Maintenance",
-      "Spa & Hot Tub Service"
+      "Weekly Cleaning",
+      "Equipment Repairs",
+      "Green Pool Recovery",
+      "Filter Cleaning",
+      "Spa Maintenance"
     ],
-    "copyright": "&copy; 2024 Aqua Del Sol Pool Care LLC. All rights reserved. Licensed & Insured in Arizona. CPO Certified."
+    "copyright": "&copy; 2024 Aqua Del Sol Pool Care. All rights reserved. Licensed Pool Contractor — Arizona"
   }
 }

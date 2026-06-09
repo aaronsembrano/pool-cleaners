@@ -8,28 +8,28 @@
   "review_count": "23",
   "review_rating": "4.8",
   "colors": {
-    "primary": "#2E5A3C",
-    "primary_dark": "#1E3D28",
-    "primary_deeper": "#142A1B",
-    "secondary": "#D4A84B",
-    "cta": "#D4A84B",
-    "cta_dark": "#B8903A"
+    "primary": "#2B5C3F",
+    "primary_dark": "#1E4230",
+    "primary_deeper": "#142E21",
+    "secondary": "#C8A96E",
+    "cta": "#C8A96E",
+    "cta_dark": "#B08F52"
   },
   "trust_badges": {
-    "badge_1": "CA License #500296",
+    "badge_1": "CA Licensed Contractor #500296",
     "badge_2": "4.8/5 from 23+ Reviews",
     "badge_3": "Diamond Certified"
   },
   "hero": {
     "badge_1": "4.8/5 from 23+ Google Reviews",
     "badge_2": "Diamond Certified 6 Years Running",
-    "headline": "48 Years Transforming <span class=\"text-secondary italic\">Bay Area<br>Outdoor Living</span>",
-    "subheadline": "Your backyard should be your favorite room. Koch & Associates has spent nearly five decades turning Bay Area landscapes into stunning outdoor retreats — designing, building, and perfecting every detail so you can simply enjoy.",
-    "cta_text": "Request a Design Consultation",
+    "headline": "Bay Area Landscapes Built <span class=\"text-secondary italic\">to Last<br>Generations</span>",
+    "subheadline": "Since 1978, Koch & Associates has transformed thousands of Bay Area backyards into breathtaking outdoor living spaces. From concept to completion under one roof, our master-builder approach means your project is designed and built by the same team — no miscommunication, no delays, just results you will love for decades.",
+    "cta_text": "Request My Free Consultation",
     "checkmarks": [
-      "Free design consultation",
-      "One point of contact, start to finish",
-      "Diamond Certified 6 years running"
+      "Free on-site design consultation",
+      "48 years of Bay Area experience",
+      "Integrated design & construction"
     ]
   },
   "stats": {
@@ -39,146 +39,146 @@
     "stat_2_label": "Years in Business",
     "stat_3_value": "3",
     "stat_3_label": "Bay Area Offices",
-    "stat_4_value": "Top 11%",
-    "stat_4_label": "CA Licensed Contractors"
+    "stat_4_value": "6 Yrs",
+    "stat_4_label": "Diamond Certified"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Complete Landscape Solutions<br class=\"hidden md:block\">Under One Roof",
-    "subtitle": "From initial concept to final walkthrough, our master-builder approach keeps your project on vision, on budget, and on schedule — all through a single point of contact.",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Design & Construction",
+    "subtitle": "From elegant patios to resort-style pools, we handle every detail of your landscape transformation. One team, one vision, one exceptional result.",
     "cards": [
       {
-        "title": "Landscape Design",
-        "description": "Custom landscape plans that translate your vision into every detail — thoughtfully designed around your lifestyle, your property, and how you actually live outdoors."
-      },
-      {
-        "title": "Landscape Construction",
-        "description": "Full-service build teams who bring your design to life with precision craftsmanship. One point of contact from groundbreaking to the final walkthrough."
+        "title": "Landscape Design & Build",
+        "description": "Custom landscape plans brought to life by the same team that designs them. Our master-builder approach eliminates miscommunication and delivers cohesive outdoor spaces."
       },
       {
         "title": "Pools & Spas",
-        "description": "Swimming pools and spas integrated seamlessly into your landscape design — creating a cohesive outdoor experience, not just a pool dropped in a yard."
+        "description": "Pool and spa construction integrated seamlessly with your surrounding landscape. From infinity edges to natural stone decking, we create backyard resort experiences."
       },
       {
-        "title": "Outdoor Kitchens",
-        "description": "Year-round entertaining spaces built with premium materials and professional-grade appliances. Cook, gather, and enjoy under the California sky."
+        "title": "Outdoor Kitchens & Living",
+        "description": "Fully equipped outdoor kitchens with built-in grills, countertops, and dining areas designed for year-round Bay Area entertaining."
       },
       {
-        "title": "Masonry & Hardscaping",
-        "description": "Retaining walls, patios, walkways, pavers, and decorative concrete — expert masonry that adds structure, beauty, and lasting value to your property."
+        "title": "Patios & Hardscaping",
+        "description": "Pavers, natural stone, flagstone, and decorative concrete crafted into durable patios, walkways, and retaining walls that anchor your landscape."
       },
       {
-        "title": "Fire & Water Features",
-        "description": "Custom fire pits, fire bowls, fountains, and water walls that bring warmth, sound, and movement to your outdoor living space."
+        "title": "Fire Features & Water Elements",
+        "description": "Custom fire pits, fireplaces, fountains, and water features that add warmth, movement, and ambiance to your outdoor gathering spaces."
+      },
+      {
+        "title": "Pergolas & Shade Structures",
+        "description": "Modern louvered pergolas, arbors, and custom shade structures that provide adjustable comfort and architectural elegance to any outdoor area."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Landscape",
+    "headline": "Your Landscape Transformation in Three Steps",
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "Schedule a free design consultation at your home. We listen to what you want to accomplish, assess your space, and discuss possibilities — no pressure, just honest conversation."
+        "description": "Schedule a free on-site consultation at your home. We walk the space together, discuss your goals, budget, and style preferences, then create a detailed design concept."
       },
       {
         "title": "We Design & Build It",
-        "description": "Our master-builder team creates detailed plans, then constructs everything in-house. One point of contact ensures your design vision stays intact from blueprint to backyard."
+        "description": "Our master-builder team handles everything — design, permits, grading, construction, planting, irrigation, and lighting. One crew, one point of contact, zero headaches."
       },
       {
         "title": "Love Your Outdoor Space",
-        "description": "Step into a landscape that looks exactly like you imagined — and functions even better. With 48 years of craftsmanship behind it, your outdoor space is built to last."
+        "description": "Step into a backyard that looks exactly like the plan — or better. We do a final walkthrough together and make sure every detail meets our Diamond Certified standard."
       }
     ]
   },
   "about": {
-    "label": "Why Bay Area Homeowners Trust Us",
-    "headline": "The Master-Builder Difference Since 1978",
-    "description": "Founded in 1978, Koch & Associates is one of the Bay Area's longest-running landscape construction firms. Our master-builder approach means your designer and builder work as one team — ensuring that what gets drawn is exactly what gets built. Diamond Certified for six consecutive years, we bring nearly five decades of craftsmanship to every project across the San Francisco Bay Area.",
+    "label": "Why Bay Area Homeowners Choose Us",
+    "headline": "Nearly 50 Years of Transforming Bay Area Backyards",
+    "description": "Founded in 1978, Koch & Associates is one of the Bay Area's longest-running landscape design and construction firms. Our master-builder philosophy means you get one dedicated team from first sketch to final walkthrough — no subcontractor roulette, no finger-pointing, no surprises. Diamond Certified for six consecutive years and rated Highest in Quality, we treat every project with the care and craftsmanship that has earned us the trust of homeowners across Fremont, San Jose, San Mateo, and beyond.",
     "badge": "Diamond Certified",
     "features": [
       {
-        "title": "Diamond Certified 6 Years",
-        "description": "Rated highest in quality and helpful expertise by Diamond Certified — an honor earned through verified customer satisfaction, not purchased."
+        "title": "Licensed & Insured Contractor",
+        "description": "California licensed landscape contractor #500296 with full liability coverage. Your investment and property are always protected."
       },
       {
-        "title": "One Team, Start to Finish",
-        "description": "Our master-builder approach means design and construction happen under one roof. No miscommunication, no finger-pointing, no surprises."
+        "title": "Master-Builder Approach",
+        "description": "Design and construction handled by one integrated team. No miscommunication between designers and builders — just seamless execution."
       },
       {
-        "title": "Top 11% in California",
-        "description": "BuildZoom ranks us in the top 11% of all California licensed contractors. Our track record speaks for itself — 48 years and counting."
+        "title": "Diamond Certified Quality",
+        "description": "Rated Highest in Quality and Helpful Expertise for six straight years. We stand behind every project we build."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project is custom, so we quote based on your specific vision. Schedule a free consultation and get an honest, detailed estimate — no hidden fees, no change-order games."
+    "subtitle": "Every project is unique — we provide detailed proposals with clear line items so you know exactly what you are investing in."
   },
   "guarantee": {
-    "headline": "Our \"Built Right\" Guarantee",
-    "description": "If any element of your project does not meet the quality standards we agreed upon, we will come back and make it right at no additional cost. We have stood behind our work for 48 years because we believe craftsmanship means never cutting corners — and never leaving until you are completely satisfied."
+    "headline": "Our \"Diamond Standard\" Guarantee",
+    "description": "If any element of your project does not meet the quality standards we promised, we will make it right at no additional cost. Period. We have built our reputation over nearly five decades by standing behind every stone, every plant, and every detail. Your satisfaction is not negotiable — it is our foundation."
   },
   "faqs": [
     {
       "question": "How long does a typical landscape project take?",
-      "answer": "Project timelines vary based on scope. A backyard remodel typically takes 4-8 weeks, while larger projects with pools, outdoor kitchens, and extensive hardscaping can take 3-6 months. We provide a detailed timeline during the design phase and keep you updated throughout construction."
+      "answer": "Most residential projects take 4-12 weeks depending on scope. During your consultation, we provide a detailed timeline with milestones. Our integrated design-build approach actually shortens timelines because there is no handoff between separate design and construction teams."
     },
     {
-      "question": "Do I need to be home during construction?",
-      "answer": "Not at all. Most clients provide access and we manage the entire process. Your dedicated project manager sends regular updates with photos so you always know exactly what is happening, even when you are at work."
+      "question": "Do you handle permits and HOA approvals?",
+      "answer": "Yes, we manage the entire permitting process. As a licensed California contractor with 48 years of experience, we know Bay Area building codes inside and out and handle all submissions, inspections, and HOA coordination."
     },
     {
       "question": "What areas of the Bay Area do you serve?",
-      "answer": "We serve communities across the San Francisco Bay Area from our three offices in Fremont, San Jose, and San Mateo. Our service area includes Campbell, Danville, Los Altos, Los Gatos, Menlo Park, Mountain View, Oakland, Palo Alto, Pleasanton, Saratoga, Sunnyvale, and surrounding areas."
+      "answer": "We serve communities across the greater Bay Area from our three offices in Fremont, San Jose, and San Mateo. This includes Campbell, Danville, Los Altos, Los Gatos, Menlo Park, Mountain View, Oakland, Palo Alto, Pleasanton, Saratoga, Sunnyvale, and surrounding areas."
     },
     {
-      "question": "What does Diamond Certified mean?",
-      "answer": "Diamond Certified is an independent rating organization that surveys real customers to verify quality and satisfaction. We have earned this certification for six consecutive years, meaning our customers consistently rate us highest in quality and helpful expertise. It is not something companies can buy — it must be earned."
+      "question": "Can I see examples of your past work?",
+      "answer": "Absolutely. We have an extensive portfolio of completed projects spanning nearly five decades. During your consultation we will share relevant examples that match your style and scope, and we are happy to provide references from past clients in your area."
     },
     {
-      "question": "Can you handle the entire project from design through construction?",
-      "answer": "Absolutely. Our master-builder approach means we handle everything in-house — landscape design, construction, hardscaping, pools, outdoor kitchens, and more. One team, one point of contact, and one vision carried through from your first consultation to your final walkthrough."
+      "question": "What makes your master-builder approach different?",
+      "answer": "Most companies separate design and construction into different teams or subcontractors. At Koch & Associates, the same team that designs your project builds it. This eliminates miscommunication, reduces costs, and ensures the finished result matches the vision exactly."
     }
   ],
   "testimonials": [
     {
-      "name": "Peter S.",
-      "text": "They listen to what you're trying to accomplish, design, listen again, discuss, get agreement and then execute. They say what they are going to do and do what they say.",
-      "context": "Livermore Homeowner",
-      "initials": "PS"
+      "name": "Brian H.",
+      "text": "We are super pleased with the work, communications, design and professionalism of everyone at Koch & Associates. We did a complete redesign and remodel of our front and back yard. All of the stone work is fabulous.",
+      "context": "Complete yard remodel, Fremont",
+      "initials": "BH"
+    },
+    {
+      "name": "Greg S.",
+      "text": "They started on the day they said they would start. Scott took my ideas and vision and turned them into an amazing design that captured everything I was looking for.",
+      "context": "Landscape design & build, Fremont",
+      "initials": "GS"
     },
     {
       "name": "Cricket L.",
-      "text": "We couldn't be happier with the result. I wholeheartedly recommend them to anyone looking for quality.",
-      "context": "San Jose Homeowner",
+      "text": "We couldn't be happier with the result. I wholeheartedly recommend them.",
+      "context": "Backyard transformation, San Jose",
       "initials": "CL"
-    },
-    {
-      "name": "Brian H.",
-      "text": "We are super pleased with the work, communications, design and professionalism of everyone. They started on the day they said they would start, and finished on the day they said they would finish.",
-      "context": "Fremont Homeowner",
-      "initials": "BH"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform Your<br>Outdoor Space?",
-    "subtitle": "Schedule a free design consultation and discover what 48 years of Bay Area landscape expertise can do for your home. No pressure, no obligations — just honest ideas from a Diamond Certified team.",
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Schedule a free on-site consultation and get a detailed proposal. No pressure, no obligation — just honest expertise from a team that has been doing this for 48 years.",
     "benefits": [
       "Free on-site design consultation",
       "Detailed proposal within one week",
-      "Diamond Certified quality guaranteed"
+      "Diamond Certified quality guarantee"
     ]
   },
   "footer": {
-    "description": "Diamond Certified landscape design and construction. Serving the Bay Area since 1978.",
-    "service_area": "Serving Fremont, San Jose, San Mateo & the Bay Area",
+    "description": "Bay Area landscape design & construction since 1978. Diamond Certified for 6 consecutive years.",
+    "service_area": "Serving the Greater Bay Area — Fremont, San Jose, San Mateo & Beyond",
     "services": [
-      "Landscape Design",
-      "Landscape Construction",
+      "Landscape Design & Build",
       "Pools & Spas",
       "Outdoor Kitchens",
-      "Masonry & Hardscaping"
+      "Hardscaping & Masonry",
+      "Pergolas & Shade"
     ],
-    "copyright": "&copy; 2024 Koch & Associates. All rights reserved. CA License #500296"
+    "copyright": "&copy; 2026 Koch & Associates Landscape Design & Construction. All rights reserved. CA License #500296"
   }
 }

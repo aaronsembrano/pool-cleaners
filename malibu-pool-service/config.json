@@ -1,72 +1,73 @@
 {
   "folder_name": "malibu-pool-service",
   "company_name": "Malibu Pool Service and Repair",
-  "tagline": "Full Service Pool Maintenance and Repair - Satisfaction Guaranteed",
+  "tagline": "Full Service Pool Maintenance by a Veteran You Can Trust",
   "phone": "+1 602-748-0544",
-  "email": "ralph.machio@malibupoolserviceaz.com",
+  "email": "kevin.swafford@malibupoolserviceaz.com",
+  "logo_path": "",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133d59",
-    "primary_deeper": "#0d2b3e",
-    "secondary": "#2e86c1",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#1E3A5F",
+    "primary_dark": "#142A45",
+    "primary_deeper": "#0E1E33",
+    "secondary": "#4FC3F7",
+    "cta": "#FF6F00",
+    "cta_dark": "#E65100"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured",
+    "badge_1": "Veteran-Owned & Fully Insured",
     "badge_2": "4.5/5 from 19+ Reviews",
-    "badge_3": "Veteran-Owned Business"
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
     "badge_1": "4.5/5 from 19+ Google Reviews",
-    "badge_2": "Veteran-Owned Since 2011",
-    "headline": "Veteran-Owned Pool Care <span class=\"text-secondary italic\">You Can<br>Count On</span>",
-    "subheadline": "For over 14 years, East Valley families have trusted our veteran-owned team to keep their pools crystal clear. We handle the maintenance and repairs so you can skip the hassle and just dive in.",
+    "badge_2": "Veteran-Owned Business",
+    "headline": "Veteran-Owned Pool Care <span class=\"text-secondary italic\">Mesa Trusts</span>",
+    "subheadline": "For over 14 years, Army veteran Kevin Swafford has kept East Valley pools crystal clear. From weekly maintenance to complex repairs, we handle every detail so you can just enjoy the water.",
     "cta_text": "Request My Free Quote",
     "checkmarks": [
       "Free pool inspection",
       "Military & first responder discounts",
-      "Satisfaction guaranteed"
+      "Same-week service available"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Pools Serviced",
+    "stat_1_label": "Pools Maintained",
     "stat_2_value": "14",
-    "stat_2_label": "Years Experience",
-    "stat_3_value": "9",
-    "stat_3_label": "East Valley Cities Served",
+    "stat_2_label": "Years Serving Mesa",
+    "stat_3_value": "1000",
+    "stat_3_label": "Repairs Completed",
     "stat_4_value": "100%",
-    "stat_4_label": "Satisfaction Guaranteed"
+    "stat_4_label": "Insured & Bonded"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> a Team You Can Trust",
-    "subtitle": "From weekly maintenance to emergency repairs, our veteran-led crew handles every aspect of pool care so you can enjoy a worry-free backyard all year long.",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Arizona's Toughest Conditions",
+    "subtitle": "From scorching summers to monsoon season, Arizona pools need expert attention. We provide full-service maintenance and repairs so your pool stays safe and swim-ready year-round.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Skimming, brushing, vacuuming, and precise chemical balancing every week. Your pool stays swim-ready without you lifting a finger."
+        "description": "Comprehensive weekly cleaning, chemical balancing, and equipment checks to keep your pool sparkling and swim-ready every single week."
       },
       {
         "title": "Pool Equipment Repair",
-        "description": "Pumps, filters, motors, and vacuums — all makes and models. Fast diagnosis and reliable fixes, most completed same-visit."
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, motors, and salt systems. Most repairs completed in a single visit."
       },
       {
         "title": "Green Pool Cleanup",
-        "description": "Neglected pool turned swamp-green? We'll muck it out and restore crystal-clear water in 48-72 hours. Emergency response available."
-      },
-      {
-        "title": "Pool Plumbing Repair",
-        "description": "Blocked pipes, leaky drains, cracked plumbing lines — we find it and fix it. Full leak detection and repair service included."
+        "description": "Complete green pool muck-outs and pressure washing to transform neglected pools back to crystal-clear condition in days, not weeks."
       },
       {
         "title": "Acid Wash & Chlorine Rinse",
-        "description": "Remove stubborn stains, algae buildup, and mineral deposits from pool surfaces. We restore your pool to like-new condition."
+        "description": "Professional surface treatments to remove stubborn stains, algae buildup, and calcium deposits, restoring your pool's original beauty."
       },
       {
-        "title": "Salt System & DE Filter Service",
-        "description": "Expert cleaning, servicing, and replacement of salt cells and DE filter grids to keep your filtration running at peak efficiency."
+        "title": "Salt System & Cell Service",
+        "description": "Cleaning, repair, and replacement of salt systems and salt cells to ensure proper chlorine generation and balanced water quality."
+      },
+      {
+        "title": "Pool Draining & Refills",
+        "description": "Safe pool draining for maintenance, repairs, or chemistry resets, followed by proper refilling and full chemical balancing."
       }
     ]
   },
@@ -75,109 +76,109 @@
     "steps": [
       {
         "title": "Schedule Your Free Inspection",
-        "description": "Tell us about your pool and we'll come out for a no-obligation inspection. You'll get an honest quote within 24 hours — no pressure, no contracts."
+        "description": "Call or fill out our form. Kevin will assess your pool, answer your questions, and provide an honest quote — no pressure, no obligations."
       },
       {
-        "title": "We Take Care of Everything",
-        "description": "Our licensed, insured technicians arrive on schedule and handle cleaning, chemicals, equipment checks, and repairs — so you never have to think about it."
+        "title": "We Get to Work",
+        "description": "Our experienced team arrives on schedule with the right tools and parts. Cleaning, balancing, repairs — we handle it all so you don't have to."
       },
       {
-        "title": "Enjoy Your Pool Year-Round",
-        "description": "Your pool stays crystal clear and swim-ready every day. And if something isn't right, we come back and fix it at no extra charge."
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and safe all year. If anything isn't right, we come back and fix it — that's our veteran's promise to you."
       }
     ]
   },
   "about": {
-    "label": "Why East Valley Pool Owners Trust Us",
-    "headline": "Veteran-Owned, Community-Driven Pool Care Since 2011",
-    "description": "Founded by U.S. Army veteran Kevin Swafford, Malibu Pool Service has spent 14 years earning the trust of families across Apache Junction, Mesa, Gilbert, and the East Valley. We're not a franchise — we're your neighbors. Every technician is fully licensed and insured, and we proudly offer discounts to military members, police officers, and firefighters.",
-    "badge": "A+ BBB Rated",
+    "label": "Why East Valley Trusts Us",
+    "headline": "A Veteran's Commitment to Your Pool",
+    "description": "Founded in 2011 by U.S. Army veteran Kevin Swafford, Malibu Pool Service and Repair brings military discipline and integrity to every job. For over 14 years, we've been the trusted pool care partner for families across Mesa, Gilbert, Chandler, Tempe, and Ahwatukee. As a locally owned company, we understand Arizona's unique pool challenges and treat every customer like a neighbor.",
+    "badge": "BBB A+ Rated",
     "features": [
       {
-        "title": "Licensed & Fully Insured",
-        "description": "Licensed by the Arizona Registrar of Contractors with full liability coverage. Your property is always protected."
+        "title": "Veteran-Owned & Operated",
+        "description": "Kevin brings the same discipline, reliability, and attention to detail from his Army service to every pool we maintain."
       },
       {
         "title": "Military & First Responder Discounts",
-        "description": "We honor those who serve. Active military, veterans, police officers, and firefighters receive special pricing on all services."
+        "description": "We proudly offer special pricing for military families, police officers, and firefighters — our way of honoring those who serve."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not happy with a service visit? We'll come back and make it right at no charge. That's our promise to every customer."
+        "title": "14+ Years of Local Experience",
+        "description": "Over a decade of hands-on Arizona pool care means we know every issue the desert climate throws at your pool."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Surprises.",
-    "subtitle": "Get a plan that fits your pool and budget. No contracts, no hidden fees — just honest service from a veteran-owned team."
+    "headline": "Straight-Talk Pricing. No Surprises.",
+    "subtitle": "Get a plan that fits your pool and your budget. Flexible options with no long-term contracts required."
   },
   "guarantee": {
-    "headline": "Our \"Perfect Pool\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back and redo it — completely free. We've built our reputation on doing the job right, and we stand behind every visit. Your pool should make you smile, and we won't stop until it does."
+    "headline": "Our Veteran's Honor Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us within 24 hours and we'll come back to make it right at no extra charge. Kevin built this company on the same values he learned in the Army — integrity, accountability, and doing the job right the first time. Your satisfaction is our mission."
   },
   "faqs": [
     {
-      "question": "How quickly can you start service?",
-      "answer": "Most new clients are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Just call us at 602-748-0544 and we'll work with your schedule."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For green pool emergencies, we can often respond same-day or next-day. Call Kevin directly and we'll work around your timeline."
     },
     {
-      "question": "Do you offer military or first responder discounts?",
-      "answer": "Absolutely. As a veteran-owned business, we proudly offer discounts to active military, veterans, police officers, and firefighters. Just let us know when you request your quote."
+      "question": "Do I need to be home during pool service?",
+      "answer": "Not at all. Most of our Mesa and Gilbert clients provide gate access and we handle everything while you're away. You'll always know what was done at each visit."
+    },
+    {
+      "question": "Do you offer discounts for military or first responders?",
+      "answer": "Absolutely. As a veteran-owned business, we proudly offer special pricing for military families, police officers, and firefighters. Just let us know when you request your quote."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve the entire East Valley including Apache Junction, Mesa, Gilbert, Chandler, Tempe, Ahwatukee, San Tan Valley, Queen Creek, and surrounding areas."
-    },
-    {
-      "question": "Do I need to be home during service?",
-      "answer": "Nope! Most clients give us gate access and we take care of everything while you're away. You'll know exactly what was done after each visit."
+      "answer": "We serve the entire East Valley including Mesa, Gilbert, Chandler, Tempe, Ahwatukee, Queen Creek, and San Tan Valley. If you're nearby and unsure, give us a call — we'll let you know."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Yes. Malibu Pool Service is fully licensed by the Arizona Registrar of Contractors and carries full liability insurance. We also hold an A+ rating with the BBB."
+      "answer": "Yes. Malibu Pool Service is fully insured, BBB A+ rated, and operated by licensed pool professional Kevin Swafford. Your property and peace of mind are always protected."
     }
   ],
   "testimonials": [
     {
-      "name": "Jules C.",
-      "context": "Pool and spa heater maintenance",
-      "initials": "JC",
-      "text": "Malibu Pool has always been able to diagnose any problem quickly. They are reliable and knowledgeable when it comes to maintaining our older pool and spa heater."
-    },
-    {
       "name": "Eric M.",
-      "context": "Overall pool maintenance",
+      "context": "Heater Installation",
       "initials": "EM",
-      "text": "Kevin at Malibu has been fantastic to work with! He provided great advice for overall maintenance and always goes above and beyond to make sure everything is running smoothly."
+      "text": "Kevin at Malibu has been fantastic to work with! He installed a new heater and has helped me adjust things for my pool. He gives great advice for overall maintenance."
     },
     {
-      "name": "Alfred H.",
-      "context": "Pool pump repair",
-      "initials": "AH",
-      "text": "Kevin came out a day earlier than scheduled and fixed our pump in no time. Excellent service and very professional. Highly recommend Malibu Pool Service!"
+      "name": "Jules C.",
+      "context": "Equipment Repair",
+      "initials": "JC",
+      "text": "Malibu Pool has always been able to diagnose any problem quickly, and have the parts with them to fix the issue right away. Very knowledgeable and dependable service."
+    },
+    {
+      "name": "Satisfied Customer",
+      "context": "Pump Repair",
+      "initials": "SC",
+      "text": "Kevin came out a day earlier than scheduled and fixed our pump. Really appreciated the quick turnaround and professional service. Highly recommend for any pool repairs."
     }
   ],
-  "review_count": "19",
-  "review_rating": "4.5",
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
-    "subtitle": "Get a free, no-obligation quote from a veteran-owned team that's served the East Valley for over 14 years. No contracts, no pressure — just honest pool care.",
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Get a free, no-obligation quote from a veteran you can trust. We respond within 24 hours — no contracts, no pressure, just honest pool care.",
     "benefits": [
       "Free pool inspection with every quote",
-      "Response within 24 hours",
-      "Military & first responder discounts"
+      "Response within 24 hours guaranteed",
+      "Military & first responder discounts available"
     ]
   },
   "footer": {
-    "description": "Veteran-owned pool service. Proudly serving the East Valley since 2011.",
-    "service_area": "Serving Apache Junction, Mesa, Gilbert, Chandler & the East Valley",
+    "description": "Veteran-owned pool service. Proudly serving Mesa and the East Valley since 2011.",
+    "service_area": "Serving Mesa, Gilbert, Chandler, Tempe & Ahwatukee",
     "services": [
       "Weekly Maintenance",
       "Equipment Repair",
       "Green Pool Cleanup",
-      "Acid Wash & Rinse",
-      "Plumbing Repair"
+      "Salt System Service",
+      "Pool Draining & Refills"
     ],
-    "copyright": "&copy; 2024 Malibu Pool Service and Repair. All rights reserved. Licensed by Arizona Registrar of Contractors."
-  }
+    "copyright": "&copy; 2024 Malibu Pool Service and Repair. All rights reserved. Licensed & Insured Pool Contractor, Mesa, AZ"
+  },
+  "review_count": "19",
+  "review_rating": "4.5"
 }
