@@ -1,0 +1,183 @@
+{
+  "folder_name": "easton-select-group",
+  "company_name": "Easton Select Group",
+  "tagline": "Pool Ownership Made Easy",
+  "phone": "+1 508-238-9698",
+  "email": "info@eastonselect.com",
+  "review_count": "20",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — MA",
+    "badge_2": "4.0/5 from 20+ Reviews",
+    "badge_3": "50+ Year Family Legacy"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 20+ Google Reviews",
+    "badge_2": "50+ Year Family Legacy",
+    "headline": "Three Generations of <span class=\"text-secondary italic\">Pool Perfection</span>",
+    "subheadline": "Easton Select Group brings a 50-year family legacy to every pool we touch. From custom builds to weekly maintenance, our TEC-Driven approach means you get Trust, Execution, and Convenience — so you can stop worrying about your pool and start enjoying it.",
+    "cta_text": "Get Your Free Pool Consultation",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Certified Building Professionals on staff",
+      "Backed by 15+ national brands"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "50",
+    "stat_1_label": "Years of Family Legacy",
+    "stat_2_value": "15",
+    "stat_2_label": "Portfolio Brands",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Built & Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "TEC-Driven Commitment"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Premium Pool Care From<br class=\"hidden md:block\"> Build to Backyard Bliss",
+    "subtitle": "Whether you need a brand-new pool, routine maintenance, or a complete transformation, our certified team delivers craftsmanship backed by a half-century of family expertise.",
+    "cards": [
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom inground pools designed around your vision, property, and lifestyle. From concept sketches to your first splash, our Certified Building Professionals handle every detail."
+      },
+      {
+        "title": "Pool Maintenance & Service",
+        "description": "Comprehensive seasonal care, water chemistry management, equipment inspections, and routine cleaning that keeps your pool pristine and swim-ready all year long."
+      },
+      {
+        "title": "Pool Renovation & Remodeling",
+        "description": "Transform your aging pool into a modern outdoor retreat with updated finishes, energy-efficient equipment, and contemporary design elements that boost your home value."
+      },
+      {
+        "title": "Plunge Pool Solutions",
+        "description": "Our Plunge Pool Concepts brand delivers compact luxury pools perfect for smaller spaces — full relaxation, smaller footprint, and premium quality in every unit."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Expert diagnostics and repair for pumps, filters, heaters, automation systems, and all major brands. Most issues resolved in a single visit by our certified techs."
+      },
+      {
+        "title": "Commercial Pool Services",
+        "description": "Specialized pool care for hotels, community centers, and commercial properties. Health code compliance, reliable scheduling, and dedicated account management included."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Pool, Our Promise — In Three Steps",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out our form with your pool details. Our team provides an honest, no-pressure consultation within 24 hours — whether you need a new build, service, or renovation."
+      },
+      {
+        "title": "We Bring 50 Years of Expertise",
+        "description": "Our licensed contractors and Certified Building Professionals arrive on schedule. Every service is backed by our TEC-Driven model — Trust, Execution, and Convenience at every step."
+      },
+      {
+        "title": "Enjoy Pool Ownership Made Easy",
+        "description": "Your pool stays crystal clear, beautifully maintained, and worry-free. With a second-generation family team behind you, pool ownership finally feels as good as it should."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why New England Trusts Us",
+    "headline": "A 50-Year Family Legacy — Now With National Reach",
+    "description": "Easton Select Group was born from a second-generation family business that has spent over 50 years perfecting pool craftsmanship. Founded by Henry Hobaica, our team combines deep local roots in Massachusetts with the national scale of 15+ portfolio brands. Our TEC-Driven model — Trust, Execution, and Convenience — means every pool we build, service, or renovate reflects the pride and quality that earned us industry recognition, including Pool Pro Magazine honors and BuildZoom's top 11% contractor ranking.",
+    "badge": "Certified Building Professional",
+    "features": [
+      {
+        "title": "Licensed & Certified Contractors",
+        "description": "Every project is handled by licensed pool contractors and Certified Building Professionals ranked in the top 11% of Massachusetts contractors."
+      },
+      {
+        "title": "TEC-Driven Service Model",
+        "description": "Trust, Execution, and Convenience at every touchpoint. We earn your confidence through reliable communication, on-time delivery, and stress-free experiences."
+      },
+      {
+        "title": "Second-Generation Family Values",
+        "description": "We care deeply about the quality of our product and the service we deliver. That is not a slogan — it is a 50-year family promise passed down through generations."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Family-Business Honesty.",
+    "subtitle": "Every quote is straightforward and detailed. No hidden fees, no surprise charges — just honest pricing from a family that has been doing this for half a century."
+  },
+  "guarantee": {
+    "headline": "Our \"TEC-Driven\" Guarantee",
+    "description": "If any service visit does not meet the standard of Trust, Execution, and Convenience you deserve, we come back and make it right at no additional cost. With 50 years of family reputation on the line, we do not cut corners — ever. Your satisfaction is not just guaranteed, it is the foundation our legacy is built on."
+  },
+  "faqs": [
+    {
+      "question": "What areas does Easton Select Group serve?",
+      "answer": "We are headquartered in West Bridgewater, MA and serve all of Massachusetts and New England — including Cape Cod, Martha's Vineyard, Greater Boston, Connecticut, Rhode Island, and Maine. Through our 15+ portfolio brands, we also provide services nationwide."
+    },
+    {
+      "question": "What makes your plunge pools different?",
+      "answer": "Our Plunge Pool Concepts brand manufactures compact luxury pools designed for smaller spaces without sacrificing quality. They deliver a full premium pool experience in a fraction of the footprint, and every unit is built to our family's exacting standards."
+    },
+    {
+      "question": "Are your contractors licensed and certified?",
+      "answer": "Yes. Our team includes licensed pool contractors and Certified Building Professionals. We are ranked in the top 11% of Massachusetts contractors by BuildZoom, and our team members have been recognized by Pool Pro Magazine's '30 Under 40' awards."
+    },
+    {
+      "question": "How quickly can you start a new project?",
+      "answer": "For maintenance and repairs, most clients are scheduled within a few business days. New construction and renovation timelines vary by scope — we provide a detailed project schedule during your free consultation so you know exactly what to expect."
+    },
+    {
+      "question": "Do you handle commercial pool projects?",
+      "answer": "Absolutely. We provide specialized commercial pool services for hotels, community centers, fitness facilities, and HOAs. Our commercial clients receive dedicated account management, health code compliance support, and flexible scheduling."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Carmelita B.",
+      "context": "General Manager, New England Aquatics",
+      "initials": "CB",
+      "text": "Partnering with Easton Select Group has given us incredible growth opportunities in commercial sectors. The employee support and resources they provide have been transformative for our business."
+    },
+    {
+      "name": "Kevin D.",
+      "context": "Former President, Christman Pool Service",
+      "initials": "KD",
+      "text": "Joining Easton Select Group allows us to maintain our high standards while expanding our reach. Being backed by national brand resources gives us a competitive edge we never had as an independent operator."
+    },
+    {
+      "name": "Jim K.",
+      "context": "Verified Customer, Yelp Review",
+      "initials": "JK",
+      "text": "Jim at Easton pools is an expert for water conditions and maintenance. They offer fast friendly service. Their water analysis is always spot on, and the recommendations to maintain correct chemical balance is a big plus."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Make Pool<br>Ownership Easy?",
+    "subtitle": "Get a free, no-pressure consultation from a family team with 50+ years of expertise. Whether you need a new build, maintenance, or renovation — we are here to help.",
+    "benefits": [
+      "Free on-site pool inspection and consultation",
+      "Response within 24 hours — guaranteed",
+      "Backed by a 50-year family legacy"
+    ]
+  },
+  "footer": {
+    "description": "Second-generation family pool business. Serving New England for 50+ years.",
+    "service_area": "Serving Massachusetts, New England & Nationwide",
+    "services": [
+      "Pool Construction",
+      "Maintenance & Service",
+      "Plunge Pools",
+      "Renovation & Remodeling",
+      "Commercial Services"
+    ],
+    "copyright": "&copy; 2024 Easton Select Group. All rights reserved. Licensed Pool Contractor — West Bridgewater, MA"
+  }
+}

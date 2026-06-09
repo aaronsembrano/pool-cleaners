@@ -1,0 +1,183 @@
+{
+  "folder_name": "3d-ventures",
+  "company_name": "3D Ventures",
+  "tagline": "Premium Pool and Outdoor Services for the Greater New Orleans Area",
+  "phone": "+351 965 267 639",
+  "email": "hugh.evans@3dventures.com",
+  "review_count": "35",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2D",
+    "secondary": "#4AADCB",
+    "cta": "#E8A838",
+    "cta_dark": "#D4922A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Louisiana Contractor",
+    "badge_2": "4.7/5 from 35+ Reviews",
+    "badge_3": "CPO Certified Team"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 35+ Google Reviews",
+    "badge_2": "Owner-Operated Since 2016",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Personal<br>Attention</span>",
+    "subheadline": "Big companies send strangers. We send the same experienced hands every single visit. 3D Ventures is the owner-operated pool and outdoor service New Orleans trusts for reliable, detail-driven care you can actually count on.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site inspection",
+      "Same-day emergency response",
+      "No contracts required"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in NOLA",
+    "stat_3_value": "35",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Owner-Supervised Jobs"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Outdoor Care<br class=\"hidden md:block\"> Tailored to Your Home",
+    "subtitle": "From weekly maintenance to full outdoor renovations, we handle every detail so you can enjoy your backyard retreat without lifting a finger.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Thorough skimming, vacuuming, brushing, chemical balancing, and filter checks every week. Your pool stays crystal clear and swim-ready through every New Orleans season."
+      },
+      {
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, filters, heaters, salt chlorine generators, and automation systems diagnosed and repaired fast. We also handle full equipment upgrades for peak efficiency."
+      },
+      {
+        "title": "Pool Renovation",
+        "description": "Replastering, retiling, coping replacement, and deck resurfacing that restores aging pools to like-new condition with materials built to withstand Louisiana weather."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Advanced testing and precise chemical balancing to eliminate algae, calcium buildup, and pH problems. Safe, healthy water that is gentle on skin and eyes."
+      },
+      {
+        "title": "Outdoor Living Design",
+        "description": "Custom patios, pergolas, outdoor kitchens, and landscape integration that transform your pool area into a complete backyard living space you will never want to leave."
+      },
+      {
+        "title": "Seasonal Open & Close",
+        "description": "Professional winterization and spring opening services that protect your investment during the off-season and guarantee a smooth start when swimming weather returns."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and outdoor space. We will visit, inspect everything, and provide an honest quote within 24 hours. No pressure, no obligations."
+      },
+      {
+        "title": "We Get to Work",
+        "description": "Hugh and the 3D Ventures team arrive on schedule, every time. Cleaning, chemistry, equipment checks, and repairs are handled with the precision of an owner who stakes his name on every job."
+      },
+      {
+        "title": "Enjoy Your Backyard Retreat",
+        "description": "Your pool stays sparkling, your outdoor space stays pristine, and you get your weekends back. If anything is ever less than perfect, we make it right at no extra cost."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why NOLA Trusts 3D Ventures",
+    "headline": "Owner-Operated Means Every Detail Is Personal",
+    "description": "Founded in 2016, 3D Ventures is built on a simple idea: your pool deserves the same care the owner would give his own. As a small, dedicated team of two, we deliver hands-on craftsmanship and personalized attention that large companies cannot replicate. Every pool we service gets the full focus of experienced professionals who understand the unique challenges of Louisiana's heat and humidity.",
+    "badge": "Pentair Certified",
+    "features": [
+      {
+        "title": "CPO-Certified Professionals",
+        "description": "Every technician holds a Certified Pool Operator credential and is trained to handle complex equipment and water chemistry with precision."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your loyalty with results, not paperwork. No long-term commitments, no cancellation fees, no fine print."
+      },
+      {
+        "title": "Same-Day Emergency Response",
+        "description": "Equipment failure before a party? Green water overnight? Call us and we will be there the same day to resolve the problem."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime with no penalties."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. We stake our reputation on every single visit because your trust is worth more than any contract. That is the 3D Ventures promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For urgent situations like equipment failures or green pools, we offer same-day emergency response. Call us and we will work around your timeline."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. After each visit, you will receive a detailed service summary so you always know exactly what was done."
+    },
+    {
+      "question": "What certifications does your team hold?",
+      "answer": "Our team holds Certified Pool Operator (CPO) credentials, is a Licensed Louisiana Contractor, and is a Pentair Certified Service Professional. We invest in ongoing training to stay current with the latest equipment and techniques."
+    },
+    {
+      "question": "What if I want to cancel my service?",
+      "answer": "Cancel anytime with zero fees or penalties. We do not use contracts because we believe in earning your business on every single visit. No guilt trips, no fine print."
+    },
+    {
+      "question": "Do you handle outdoor projects beyond pool care?",
+      "answer": "Absolutely. We design and build custom outdoor living spaces including patios, pergolas, outdoor kitchens, and landscape features that integrate seamlessly with your pool area. We are your one-stop shop for the complete backyard."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Marcus D.",
+      "context": "Weekly maintenance, 3+ years",
+      "initials": "MD",
+      "text": "3D Ventures has been handling our pool for over three years now. Hugh and his team are incredibly reliable and always go the extra mile. Our pool has never looked better, even during the brutal New Orleans summers."
+    },
+    {
+      "name": "Jennifer R.",
+      "context": "Emergency equipment repair",
+      "initials": "JR",
+      "text": "We had a major pump failure right before a family reunion. 3D Ventures came out the same day and had everything fixed by the next morning. That kind of responsiveness is rare and we are truly grateful."
+    },
+    {
+      "name": "Tom & Lisa P.",
+      "context": "Pool renovation & outdoor kitchen",
+      "initials": "TP",
+      "text": "From the first consultation to the finished outdoor kitchen and pool renovation, the attention to detail was outstanding. They treated our backyard like it was their own. Highly recommend to anyone in the NOLA area."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs Itself?",
+    "subtitle": "Get a free, no-pressure assessment within 24 hours. No contracts, no commitments — just honest service from an owner-operated team that puts your pool first.",
+    "benefits": [
+      "Free on-site pool inspection included",
+      "Response within 24 hours guaranteed",
+      "100% satisfaction on every visit"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated pool and outdoor service. Proudly serving New Orleans since 2016.",
+    "service_area": "Serving New Orleans, Metairie, Kenner, Harvey, Gretna & Surrounding Areas",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Equipment Repair",
+      "Pool Renovation",
+      "Outdoor Living Design",
+      "Water Chemistry"
+    ],
+    "copyright": "&copy; 2024 3D Ventures. All rights reserved. Licensed Louisiana Contractor | CPO Certified"
+  }
+}

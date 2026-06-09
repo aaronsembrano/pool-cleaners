@@ -1,0 +1,183 @@
+{
+  "folder_name": "reserved-polished",
+  "company_name": "Reserved + Polished",
+  "tagline": "Mobile Wellness and Beauty Experiences for Events, Workplaces, and At-Home Self-Care",
+  "phone": "+1 646-450-0411",
+  "email": "hello@reservedpolished.com",
+  "review_count": "8",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#2C2C2C",
+    "primary_dark": "#1A1A1A",
+    "primary_deeper": "#111111",
+    "secondary": "#D4A574",
+    "cta": "#D4A574",
+    "cta_dark": "#B8895E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Vetted Professionals",
+    "badge_2": "4.4/5 from 8+ Reviews",
+    "badge_3": "Nontoxic Products Only"
+  },
+  "hero": {
+    "badge_1": "4.4/5 from 8+ Google Reviews",
+    "badge_2": "Serving NYC Since 2017",
+    "headline": "Wellness That Comes <span class=\"text-secondary italic\">Directly<br>to You</span>",
+    "subheadline": "Reserved + Polished brings elevated spa experiences to your home, office, or event space across NYC and New Jersey. Licensed professionals, nontoxic products, and single-use tools -- so you can relax without leaving your door.",
+    "cta_text": "Book Your Experience",
+    "checkmarks": [
+      "Licensed & vetted professionals",
+      "Nontoxic polishes & essential oils",
+      "Same-week availability"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "9",
+    "stat_1_label": "Years Serving NYC",
+    "stat_2_value": "500",
+    "stat_2_label": "Experiences Delivered",
+    "stat_3_value": "50",
+    "stat_3_label": "Corporate Clients",
+    "stat_4_value": "100%",
+    "stat_4_label": "Nontoxic Products"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Spa-Quality Treatments<br class=\"hidden md:block\"> Wherever You Are",
+    "subtitle": "From nail care to custom facials, every service is delivered by licensed professionals using clean, nontoxic products. No salon commute, no waiting rooms -- just elevated wellness on your schedule.",
+    "cards": [
+      {
+        "title": "Mobile Nail Care",
+        "description": "Elevated manicures and pedicures delivered to your home, hotel, or office. We use nontoxic polishes, single-use tools, and essential oils for a truly clean wellness experience."
+      },
+      {
+        "title": "In-Home Massage",
+        "description": "Professional massage therapy designed to restore balance and calm. Licensed therapists bring everything needed, including aromatherapy options, for a rejuvenating session."
+      },
+      {
+        "title": "Custom Facials",
+        "description": "Personalized facials tailored to your skin's unique needs. Each treatment refreshes, corrects, and restores for radiant, visible results -- all in your own space."
+      },
+      {
+        "title": "Wellness Injections",
+        "description": "Convenient on-site wellness injections administered by licensed professionals. Health and beauty treatments delivered in the comfort of your home or office."
+      },
+      {
+        "title": "Mobile Spa Events",
+        "description": "Full-service spa activations for corporate wellness, PR events, bridal showers, and private celebrations. We transform any venue into a curated wellness experience."
+      },
+      {
+        "title": "Wellness Memberships",
+        "description": "Monthly plans for ongoing self-care with preferred pricing on nail care, massage, and facials. Make wellness automatic and integrated into your routine."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Effortless Self-Care",
+    "steps": [
+      {
+        "title": "Book Your Experience Online",
+        "description": "Choose your service and preferred time. Our simple online booking takes under two minutes. No phone tag, no waiting -- just pick what feels right."
+      },
+      {
+        "title": "We Come to You",
+        "description": "A licensed, vetted professional arrives at your home, hotel, or office with everything needed. Single-use tools, nontoxic products, and a calming setup included."
+      },
+      {
+        "title": "Relax and Recharge",
+        "description": "Enjoy a spa-quality experience without leaving your space. No commute, no parking, no waiting rooms. Just pure, personalized wellness on your terms."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Trust Us",
+    "headline": "Founded on the Belief That Wellness Should Be Effortless",
+    "description": "Rachel Jeanty launched Reserved + Polished in 2017 with a simple mission: make elevated wellness accessible to everyone in New York City and New Jersey. Every therapist and technician is licensed, vetted, and trained to deliver spa-quality results using only nontoxic products and single-use tools. We believe life can be both successful and serene.",
+    "badge": "Licensed Professionals",
+    "features": [
+      {
+        "title": "Vetted & Licensed Technicians",
+        "description": "Every professional on our team is thoroughly vetted, licensed, and trained to deliver consistent, high-quality treatments."
+      },
+      {
+        "title": "Clean, Nontoxic Standards",
+        "description": "Single-use tools, nontoxic polishes, and essential oils are standard on every visit. No exceptions, no compromises."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with your experience? We will make it right. Your comfort and satisfaction are at the center of everything we do."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Choose a single session or save with a membership. Upgrade, pause, or cancel anytime -- no contracts."
+  },
+  "guarantee": {
+    "headline": "Our \"Serenity\" Guarantee",
+    "description": "If you are not completely satisfied with any service, we will send another professional to redo it at no charge. Every experience should leave you feeling restored and cared for -- and we stand behind that promise until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can I book an appointment?",
+      "answer": "Most clients can book within 3-5 days, and we often have same-week availability. For events, we recommend booking at least two weeks in advance to ensure your preferred date and services."
+    },
+    {
+      "question": "Do I need to provide anything for the service?",
+      "answer": "Not a thing. Our professionals arrive with everything needed -- tools, products, linens, and setup. All we need is a comfortable space and access to your location."
+    },
+    {
+      "question": "Are your professionals licensed and insured?",
+      "answer": "Yes, every single one. All therapists and technicians are licensed, vetted, and carry full insurance. We use only nontoxic products and single-use tools for your safety."
+    },
+    {
+      "question": "Can I book services for a corporate event or party?",
+      "answer": "Absolutely. We specialize in corporate wellness activations, PR events, bridal showers, bachelor parties, and private celebrations. Contact us for custom event packages."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve all five boroughs of New York City and New Jersey. For events outside our standard service area, reach out and we will do our best to accommodate you."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Christina",
+      "context": "Custom Facial Client",
+      "initials": "C",
+      "text": "The facial is so relaxing and my face looks radiant afterwards! Reserved + Polished makes self-care feel effortless and luxurious without ever leaving home."
+    },
+    {
+      "name": "Emily B.",
+      "context": "Workplace Wellness Event",
+      "initials": "EB",
+      "text": "I was not expecting to feel so relaxed and rejuvenated after only 15 minutes. The aromatherapy was a wonderful touch. Our whole team loved the experience."
+    },
+    {
+      "name": "Noel",
+      "context": "Private Party Event",
+      "initials": "N",
+      "text": "The mini facials and massages were fantastic, the therapists were very skilled and very attentive. Found them on Instagram and booking online was a breeze."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Wellness That<br>Comes to You?",
+    "subtitle": "Book your first mobile spa experience today. No commitments, no contracts -- just elevated self-care delivered to your door.",
+    "benefits": [
+      "Free consultation for event bookings",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Mobile wellness and beauty experiences. Serving NYC and NJ since 2017.",
+    "service_area": "Serving New York City & New Jersey",
+    "services": [
+      "Mobile Nail Care",
+      "In-Home Massage",
+      "Custom Facials",
+      "Spa Events",
+      "Wellness Memberships"
+    ],
+    "copyright": "&copy; 2024 Reserved + Polished. All rights reserved."
+  }
+}

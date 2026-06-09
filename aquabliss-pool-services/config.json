@@ -1,0 +1,183 @@
+{
+  "folder_name": "aquabliss-pool-services",
+  "company_name": "AquaBliss Pool Services",
+  "tagline": "Bliss: A State of Profound Satisfaction",
+  "phone": "+1 954-650-7390",
+  "email": "info@aquablisspools.com",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122841",
+    "primary_deeper": "#0B1A2B",
+    "secondary": "#4DB8D1",
+    "cta": "#F5A623",
+    "cta_dark": "#D4900E"
+  },
+  "trust_badges": {
+    "badge_1": "NSPF & NPC Certified",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Family-Owned Since 2009"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Top 50 Pool Company Nationwide",
+    "headline": "Family-Owned Pool Care <span class=\"text-secondary italic\">South Florida<br>Trusts</span>",
+    "subheadline": "For 17 years, the Scott family has kept Broward and Palm Beach pools crystal clear. Certified technicians, honest pricing, and service that treats your pool like our own — so you just enjoy the water.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free pool inspection included",
+      "No contracts — cancel anytime",
+      "Same-week service available"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "17",
+    "stat_2_label": "Years in South Florida",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "Top 50",
+    "stat_4_label": "Nationwide Ranking"
+  },
+  "services": {
+    "label": "Our Pool Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Homes & Businesses",
+    "subtitle": "From weekly maintenance to complex repairs, the Scott family handles every aspect of pool care across Broward and Palm Beach Counties.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Routine weekly maintenance to keep your pool crystal clear and chemically balanced — skimming, brushing, vacuuming, and water chemistry testing included."
+      },
+      {
+        "title": "Deep Cleanings",
+        "description": "Comprehensive deep cleaning for pools that need extra attention. We remove buildup, eliminate stains, and restore water clarity to like-new condition."
+      },
+      {
+        "title": "Pool Repairs",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and plumbing. Jandy and Pentair factory-trained technicians on every call."
+      },
+      {
+        "title": "Troubleshooting",
+        "description": "Professional diagnostics for complex pool issues — water chemistry imbalances, equipment malfunctions, and persistent problems other companies can't solve."
+      },
+      {
+        "title": "Commercial Pool Services",
+        "description": "Full-service pool management for hotels, HOAs, and apartment complexes. Compliance-focused service with detailed reporting and flexible scheduling."
+      },
+      {
+        "title": "Fountains & Water Features",
+        "description": "Installation, maintenance, and repair of decorative fountains, lagoons, spas, and water features to keep your outdoor spaces stunning year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Pool Bliss",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Tell us about your pool and we'll schedule a free on-site inspection. You'll get an honest, no-pressure quote within 24 hours — no contracts required."
+      },
+      {
+        "title": "The Scott Family Gets to Work",
+        "description": "Our NSPF-certified, factory-trained technicians arrive on schedule. Cleaning, chemistry, equipment checks — every detail is handled with care."
+      },
+      {
+        "title": "Dive Into Your Bliss",
+        "description": "Your pool stays crystal clear, perfectly balanced, and swim-ready every day. If something isn't right, we come back and fix it — no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Florida Trusts AquaBliss",
+    "headline": "A Family Business Built on Honest Pool Care",
+    "description": "Founded in 2009 by Ken Scott, AquaBliss Pool Services is a true family operation — Ken works alongside his sons to deliver pool care that's personal, not corporate. With NSPF and National Plasterers Council certifications, annual Jandy and Pentair factory training, and a spot among the top 50 pool companies in the nation, we bring expertise that most local companies simply can't match.",
+    "badge": "Top 50 Nationwide",
+    "features": [
+      {
+        "title": "Certified & Factory-Trained",
+        "description": "NSPF certified, National Plasterers Council certified, with annual Jandy and Pentair factory training — our knowledge stays current every year."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your trust with every visit. No long-term commitments, no cancellation fees — just honest work that keeps you coming back."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a service visit? We come back and make it right at no charge. That's the AquaBliss promise to every client."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Pool Bliss\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra cost. We've built our reputation on doing right by our neighbors in Broward and Palm Beach Counties — and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For urgent situations like green pools or equipment failures, we offer priority same-week response. Call us and we'll work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we take care of everything while you're away. After each visit, you'll know exactly what was done and the current state of your water chemistry."
+    },
+    {
+      "question": "What certifications does your team hold?",
+      "answer": "Our team holds NSPF (National Spa and Pool Association) and National Plasterers Council certifications. We also complete annual factory training with both Jandy and Pentair, so we're always current on the latest equipment and techniques."
+    },
+    {
+      "question": "What if I want to cancel my service?",
+      "answer": "Cancel anytime with zero fees or penalties. We don't do contracts because we believe in earning your business every single visit. If you ever want to pause or stop, just let us know."
+    },
+    {
+      "question": "Do you handle commercial pools and water features?",
+      "answer": "Absolutely. We service hotels, HOAs, apartment complexes, and commercial properties across Broward and Palm Beach Counties. We also install and maintain fountains, lagoons, spas, and decorative water features."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ken S. Client",
+      "context": "Angi Review",
+      "initials": "KC",
+      "text": "Ken is incredibly professional, punctual and well priced. He came at exactly the time I requested and communicated very effectively throughout the entire process."
+    },
+    {
+      "name": "Satisfied Owner",
+      "context": "Angi Review",
+      "initials": "SO",
+      "text": "My pool looks great. Ken is very knowledgeable about pool maintenance and his service pricing is very reasonable. Highly recommend AquaBliss to anyone in South Florida."
+    },
+    {
+      "name": "Long-time Client",
+      "context": "Houzz Review",
+      "initials": "LC",
+      "text": "Ken Scott is an honest guy and very knowledgeable. He has helped me become a better pool owner and I trust him completely with our pool care. True family business values."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Bliss in<br>South Florida?",
+    "subtitle": "Get a free, no-pressure pool inspection and quote within 24 hours. No contracts, no commitments — just honest pricing from a family that cares.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Quote within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving South Florida since 2009.",
+    "service_area": "Serving Broward & Palm Beach Counties",
+    "services": [
+      "Weekly Pool Service",
+      "Deep Cleanings",
+      "Pool Repairs",
+      "Commercial Pools",
+      "Fountains & Features"
+    ],
+    "copyright": "&copy; 2024 AquaBliss Pool Services. All rights reserved. Deerfield Beach, FL"
+  }
+}

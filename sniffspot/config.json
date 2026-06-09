@@ -1,0 +1,184 @@
+{
+  "folder_name": "sniffspot",
+  "company_name": "Sniffspot",
+  "tagline": "Rent safe and private dog parks hosted by locals",
+  "phone": "+1 407-580-5587",
+  "email": "david@sniffspot.com",
+  "logo_path": "",
+  "review_count": "19000",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#4A90D9",
+    "primary_dark": "#2D6BB4",
+    "primary_deeper": "#1A4A80",
+    "secondary": "#F5A623",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "trust_badges": {
+    "badge_1": "$1M Insurance on Every Visit",
+    "badge_2": "4.9/5 from 19,000+ Reviews",
+    "badge_3": "32,000+ Private Spots"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 19,000+ App Ratings",
+    "badge_2": "32,000+ Private Spots Nationwide",
+    "headline": "Give Your Dog the <span class=\"text-secondary italic\">Freedom They<br>Deserve</span>",
+    "subheadline": "Your dog deserves space to run, play, and just be a dog -- without the stress of crowded public parks. Sniffspot connects you with private, fenced outdoor spaces hosted by locals. Every booking is exclusively yours, backed by $1M insurance, with buffer time between guests.",
+    "cta_text": "Find a Private Spot Near You",
+    "checkmarks": [
+      "Every visit is 100% private",
+      "Fenced & secure spaces available",
+      "$1M insurance on every booking"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "32000",
+    "stat_1_label": "Private Spots",
+    "stat_2_value": "10",
+    "stat_2_label": "Years Serving Dogs",
+    "stat_3_value": "19000",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "93%",
+    "stat_4_label": "5-Star Visit Rate"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Safe Spaces for Every<br class=\"hidden md:block\"> Dog and Owner",
+    "subtitle": "Whether your dog needs room to run, water to swim, or a quiet trail to explore, Sniffspot has the perfect private space waiting for you.",
+    "cards": [
+      {
+        "title": "Private Dog Park Rentals",
+        "description": "Rent safe, private outdoor spaces by the hour for your dog to play off-leash. Every booking is exclusive -- no other guests during your time slot, plus buffer time between visits."
+      },
+      {
+        "title": "Fenced Dog Parks",
+        "description": "Over 56,000 fully fenced private dog parks for secure off-leash play. Perfect for dogs who need a contained space to run, explore, and burn energy safely."
+      },
+      {
+        "title": "Dog Water Parks & Swimming",
+        "description": "Access over 8,000 private water parks, beaches, and swimming pools designed for dogs. Let your pup cool off and enjoy the water in a safe, private setting."
+      },
+      {
+        "title": "Hiking Trails & Fields",
+        "description": "Private hiking trails, open fields, and nature spaces where dogs can explore and sniff to their heart's content without encountering unknown dogs."
+      },
+      {
+        "title": "Agility & Indoor Parks",
+        "description": "Specialized spaces including agility courses and indoor parks for training, exercise, and enrichment -- rain or shine, your dog stays active."
+      },
+      {
+        "title": "Dog Training Resources",
+        "description": "Comprehensive library of training guides, breed information, and a directory of certified professional trainers to help you build a better bond with your dog."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Off-Leash Freedom",
+    "steps": [
+      {
+        "title": "Browse Private Spots Near You",
+        "description": "Search by location, size, fencing, and amenities. Every listing includes real photos, reviews, and detailed descriptions so you know exactly what to expect."
+      },
+      {
+        "title": "Book Your Private Session",
+        "description": "Pick your time slot and book instantly. Your visit is 100% private with buffer time between guests. No surprise encounters with other dogs -- just your crew."
+      },
+      {
+        "title": "Let Your Dog Be a Dog",
+        "description": "Arrive, unleash, and watch your pup thrive. Run, swim, sniff, and play in a safe space that's all theirs. Every visit is backed by $1M Host Protection Insurance."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Dog Owners Trust Us",
+    "headline": "Built by Dog Parents, for Dog Parents",
+    "description": "Sniffspot was founded by David and Rebecca Adams after experiencing the challenges of owning a reactive dog and finding nowhere safe to let their guards down. We believe every dog has an inherent right to live a fulfilling, joyful life. That's why we built a platform connecting dog owners with private outdoor spaces -- so your dog can be free, and you can breathe easy.",
+    "badge": "Founded 2016",
+    "features": [
+      {
+        "title": "$1M Insurance Every Visit",
+        "description": "Every single booking is backed by $1M Host Protection Insurance. You and your dog are covered from the moment you arrive."
+      },
+      {
+        "title": "Private & Secure. Always.",
+        "description": "No overlapping bookings, ever. Buffer time between guests means your dog never encounters a surprise visitor. Perfect for reactive or anxious dogs."
+      },
+      {
+        "title": "93% Five-Star Visits",
+        "description": "With 19,000+ app ratings and 93% of all visit reviews at 5 stars, our hosts consistently deliver safe, clean, and welcoming spaces."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Book by the Hour.",
+    "subtitle": "Prices set by individual hosts. No hidden fees, no subscriptions required -- just book the space you love."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Dog\" Guarantee",
+    "description": "If your Sniffspot visit doesn't meet expectations, we'll make it right. Every booking is backed by $1M Host Protection Insurance and our dedicated support team. We founded Sniffspot because we believe dogs deserve better -- and we stand behind that belief with every single visit."
+  },
+  "faqs": [
+    {
+      "question": "Is every Sniffspot visit truly private?",
+      "answer": "Yes, 100%. When you book a Sniffspot, the space is exclusively yours for your entire time slot. We also require buffer time between guests so you'll never run into another dog on arrival or departure."
+    },
+    {
+      "question": "Is Sniffspot safe for reactive or anxious dogs?",
+      "answer": "Absolutely -- that's exactly why we built Sniffspot. Our founders created the platform specifically for their own reactive dog. Private, fenced spaces with no other dogs around means your pup can decompress and enjoy the outdoors stress-free."
+    },
+    {
+      "question": "What insurance coverage is included?",
+      "answer": "Every Sniffspot visit is backed by $1M Host Protection Insurance at no extra cost. This coverage is automatically included with every booking to protect both guests and hosts."
+    },
+    {
+      "question": "How do I know what a spot looks like before booking?",
+      "answer": "Every listing includes real photos, detailed descriptions of the space, fencing type, size, amenities, and reviews from other dog owners. You'll know exactly what to expect before you arrive."
+    },
+    {
+      "question": "Can I bring multiple dogs?",
+      "answer": "Yes! Most hosts welcome multiple dogs from the same household. Each listing specifies the maximum number of dogs allowed, and some hosts may charge a small additional fee for extra pups. Check the listing details before booking."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Reviewer",
+      "context": "App Store Review",
+      "initials": "VR",
+      "text": "I am so grateful for this app and the wonderful hosts! The peace of mind I get from having access to safe, private and clean yards for my slightly reactive shelter dog is priceless!"
+    },
+    {
+      "name": "Happy Dog Parent",
+      "context": "Sniffspot Customer",
+      "initials": "HD",
+      "text": "It allows my dogs to roam and get energy out without having to deal with other dogs. I have visited 4 or 5 different spots and all but one have been amazing."
+    },
+    {
+      "name": "Urban Dog Owner",
+      "context": "Verified User Review",
+      "initials": "UO",
+      "text": "An incredible platform that fills a real need for dog owners, especially those of us who live in apartments or urban areas without access to private yards. You can safely rent private backyards so dogs can roam freely off-leash without the stress of crowded public dog parks."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Give Your Dog<br>the Space They Need?",
+    "subtitle": "Find a private, secure spot near you in seconds. No commitments, no subscriptions -- just safe spaces for happy dogs.",
+    "benefits": [
+      "32,000+ private spots across the USA & Canada",
+      "Instant booking with same-day availability",
+      "$1M insurance included on every visit"
+    ]
+  },
+  "footer": {
+    "description": "Founded in 2016. Connecting dogs with safe, private outdoor spaces nationwide.",
+    "service_area": "Serving the USA & Canada with 32,000+ Private Spots",
+    "services": [
+      "Private Dog Parks",
+      "Fenced Spaces",
+      "Water Parks & Swimming",
+      "Hiking Trails & Fields",
+      "Agility & Indoor Parks"
+    ],
+    "copyright": "&copy; 2024 Sniffspot. All rights reserved."
+  }
+}

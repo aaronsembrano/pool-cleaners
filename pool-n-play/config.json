@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-n-play",
+  "company_name": "Pool 'n Play",
+  "tagline": "Your One-Stop Shop for All Swimming Pool Needs Since 1991",
+  "phone": "+1 774-501-3150",
+  "email": "renee@poolnplay.com",
+  "review_count": "18",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1A5276",
+    "primary_dark": "#123A54",
+    "primary_deeper": "#0C2840",
+    "secondary": "#2ECC71",
+    "cta": "#F39C12",
+    "cta_dark": "#D4850A"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated Business",
+    "badge_2": "4.2/5 from 18+ Reviews",
+    "badge_3": "Family-Owned Since 1991"
+  },
+  "hero": {
+    "badge_1": "BBB A+ Rating — Trusted Since 1991",
+    "badge_2": "35 Years Serving Southeastern MA",
+    "headline": "Your Pool, Our Family's <span class=\"text-secondary italic\">35-Year<br>Promise</span>",
+    "subheadline": "From installation to weekly care, Pool 'n Play has been Southeastern Massachusetts' one-stop pool shop since 1991. One family, one phone call, every pool need handled — so you can stop worrying and start swimming.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free on-site pool assessment",
+      "BBB A+ rated since day one",
+      "One-stop shop for every pool need"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Installed & Serviced",
+    "stat_2_value": "35",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "10",
+    "stat_3_label": "Communities Served",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Every Pool Need, One <br class=\"hidden md:block\">Trusted Family Team",
+    "subtitle": "Whether you need a brand-new pool, a liner replacement, or just the right chemicals — Pool 'n Play handles it all under one roof so you never have to call around.",
+    "cards": [
+      {
+        "title": "Inground Pool Installation",
+        "description": "Custom-designed inground pools built for your backyard and your life. From permits to the final fill, our crew handles every detail with 35 years of know-how."
+      },
+      {
+        "title": "Above Ground Pools",
+        "description": "Quality above-ground pool installations at an affordable price. Professional setup, proper leveling, and expert advice to get your family swimming fast."
+      },
+      {
+        "title": "Pool & Spa Repair",
+        "description": "Pumps, filters, heaters, liners, structural issues — we diagnose it right and fix it fast. Most repairs handled in a single visit by our experienced technicians."
+      },
+      {
+        "title": "Seasonal Opening & Closing",
+        "description": "Protect your investment through harsh New England winters and get swim-ready each spring. Thorough, by-the-book service every season for over three decades."
+      },
+      {
+        "title": "Pool Liner Replacement",
+        "description": "Worn, faded, or leaking liner? We remove and replace it with precision, restoring your pool's look and watertight integrity in just a few days."
+      },
+      {
+        "title": "Equipment & Supply Shop",
+        "description": "Full retail store stocked with chemicals, parts, pumps, filters, toys, and accessories from trusted brands. Stop in or call — we always have what you need."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Call or Visit Our Shop",
+        "description": "Tell us about your pool — or your dream of one. Stop by 32 South Main Street in Berkley or give us a call. We'll listen, assess, and give you an honest quote with zero pressure."
+      },
+      {
+        "title": "We Handle the Details",
+        "description": "From permits and scheduling to parts and labor, our experienced team takes care of everything. You get one point of contact and clear communication every step of the way."
+      },
+      {
+        "title": "Enjoy Your Backyard",
+        "description": "Your pool is installed, repaired, or opened — and it's ready to enjoy. Plus, our shop and service team are always here when you need supplies, advice, or a helping hand."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pool Owners Choose Us",
+    "headline": "Not a Franchise. Not a Side Hustle. We're Your Neighborhood Pool Family.",
+    "description": "Pool 'n Play has been a family-owned fixture in Southeastern Massachusetts since 1991. Led by President Christopher Lindberg, our team brings personal, hands-on expertise to every job — from new pool installations to quick equipment repairs. With a BBB A+ rating, a fully stocked retail store, and 35 years of local trust, we treat your pool like it's in our own backyard. That's not a slogan — it's how we've done business for three decades.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "One-Stop Pool Shop",
+        "description": "Installation, service, repairs, chemicals, parts, toys, spas — everything you need in one place. No more calling five different companies for five different problems."
+      },
+      {
+        "title": "35 Years of Local Trust",
+        "description": "We've been right here in Berkley since 1991. Your neighbors trust us, your town knows us, and we stand behind every job with our name and reputation."
+      },
+      {
+        "title": "Owner-Involved, Every Job",
+        "description": "Chris Lindberg isn't just the owner — he's on the phone, at the job site, and available when you need answers. Personal service is our standard, not an upgrade."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. No Surprises.",
+    "subtitle": "From a bag of chlorine to a full pool installation, you'll always get honest pricing upfront. Stop by the shop or call for a quote — we keep it simple."
+  },
+  "guarantee": {
+    "headline": "Our \"Neighborhood Promise\" Guarantee",
+    "description": "If any service, repair, or installation doesn't meet your expectations, call us and we'll make it right — no runaround, no fine print. We've built our reputation one backyard at a time over 35 years, and we're not about to risk it. Your satisfaction isn't just guaranteed — it's personal."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start on my pool project?",
+      "answer": "It depends on the season and scope, but most service calls are scheduled within a few days. New installations and liner replacements are typically booked within 1-2 weeks. Call us and we'll give you a realistic timeline right away."
+    },
+    {
+      "question": "Do you service pools you didn't install?",
+      "answer": "Absolutely. Whether we built it or not, we service all inground and above-ground pools. Repairs, openings, closings, liner replacements — if it's a pool, we can help."
+    },
+    {
+      "question": "What brands do you carry in your retail store?",
+      "answer": "We carry trusted names in pool chemicals, pumps, filters, heaters, and accessories. Stop by 32 South Main Street in Berkley to browse our full inventory or call ahead and we'll set aside what you need."
+    },
+    {
+      "question": "Do you handle pool winterization for New England weather?",
+      "answer": "Yes — seasonal opening and closing is one of our core services. We've been winterizing pools through 35 Massachusetts winters, so your pool is protected against freezing, ice damage, and debris all off-season."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Berkley, Raynham, Taunton, Brockton, Bridgewater, Marshfield, Randolph, Halifax, East Taunton, and surrounding Southeastern Massachusetts communities. If you're nearby, give us a call — we likely cover your area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Owner",
+      "context": "Yelp Review",
+      "initials": "LO",
+      "text": "After 20 years as pool owners, Pool n Play has been the most pleasant experience. We recommend them to everyone we know."
+    },
+    {
+      "name": "Emergency Client",
+      "context": "Yelp Review",
+      "initials": "EC",
+      "text": "Chris responded right away and was extremely sensitive to our situation. Pool n Play saved our pool and even helped us with our insurance claim."
+    },
+    {
+      "name": "Local Homeowner",
+      "context": "Yelp Review",
+      "initials": "LH",
+      "text": "The staff was knowledgeable about our requests, had items in stock, offered fair pricing, and provided prompt responses. Great local pool company."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Just Works?",
+    "subtitle": "Call us, stop by the shop, or fill out the form below. With 35 years of experience and a full-service retail store, everything your pool needs is right here in Berkley.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Honest quote within 48 hours",
+      "BBB A+ rated for your peace of mind"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool contractor serving Southeastern Massachusetts since 1991. Your one-stop shop for pools, spas, and supplies.",
+    "service_area": "Serving Berkley, Raynham, Taunton, Brockton & Southeastern MA",
+    "services": [
+      "Pool Installation",
+      "Pool & Spa Repair",
+      "Seasonal Opening & Closing",
+      "Liner Replacement",
+      "Equipment & Supplies"
+    ],
+    "copyright": "&copy; 2024 Pool 'n Play. All rights reserved. Licensed Swimming Pool Contractor — Massachusetts."
+  }
+}

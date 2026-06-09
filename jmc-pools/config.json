@@ -1,0 +1,183 @@
+{
+  "folder_name": "jmc-pools",
+  "company_name": "JMC Pools",
+  "tagline": "Design. Build. Escape.",
+  "phone": "+1 561-866-5913",
+  "email": "marcelo@jmcpools.com",
+  "colors": {
+    "primary": "#1B2A4A",
+    "primary_dark": "#111D35",
+    "primary_deeper": "#0A1224",
+    "secondary": "#C9A96E",
+    "cta": "#C9A96E",
+    "cta_dark": "#B08C4A"
+  },
+  "trust_badges": {
+    "badge_1": "FL Licensed CPC 1460765",
+    "badge_2": "4.9/5 from 25+ Reviews",
+    "badge_3": "Jandy Factory Warranty Station"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 25+ Google Reviews",
+    "badge_2": "Trusted by Olympians",
+    "headline": "20 Years Crafting <span class=\"text-secondary italic\">South Florida's<br>Finest Pools</span>",
+    "subheadline": "From custom luxury builds to weekly maintenance, owner Marcelo Coelho and his team deliver white-glove pool care across Palm Beach and Broward County. One call handles design, construction, and service for life.",
+    "cta_text": "Start Your Pool Project",
+    "checkmarks": [
+      "Free design consultation",
+      "Factory-direct Jandy warranty service",
+      "Owner-guided from start to finish"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in South Florida",
+    "stat_3_value": "1000",
+    "stat_3_label": "Service Visits Yearly",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Luxury Pool Solutions From<br class=\"hidden md:block\"> Design to Maintenance",
+    "subtitle": "Whether you are dreaming of a custom backyard oasis or need expert care for your existing pool, JMC Pools handles every detail with 20 years of South Florida expertise.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "Tailored luxury pool designs aligned with your home's architecture and lifestyle. Premium materials, expert engineering, and a structured 3-step consultation with owner Marcelo."
+      },
+      {
+        "title": "Repairs & Warranty Service",
+        "description": "Fast, reliable fixes backed by factory-level support. As a Jandy Factory Direct Warranty Station, we often replace faulty equipment before manufacturer parts even arrive."
+      },
+      {
+        "title": "Pool Cleaning & Water Care",
+        "description": "Scheduled cleaning, skimming, brushing, vacuuming, and professional water balancing to keep your pool crystal-clear and swim-ready every week of the year."
+      },
+      {
+        "title": "Diagnostics & Equipment",
+        "description": "Expert technicians service pumps, filters, heaters, automation systems, and lighting with visual documentation via our mobile app for full transparency."
+      },
+      {
+        "title": "Pool Renovation & Remodeling",
+        "description": "Complete pool transformations including resurfacing, tile work, deck upgrades, and equipment modernization to bring aging pools back to their original glory."
+      },
+      {
+        "title": "Automation & LED Lighting",
+        "description": "Installation and service of iAquaLink pool control technology for remote pool management through your phone, plus modern LED lighting upgrades for stunning nightscapes."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Pool Project in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Schedule Your Consultation",
+        "description": "Call or message us with your vision. Owner Marcelo Coelho personally reviews every project and provides a detailed, no-pressure proposal within 48 hours."
+      },
+      {
+        "title": "We Design & Execute",
+        "description": "From CAD renderings to construction or service setup, our licensed team (CPC 1460765) handles every permit, material, and detail so you never have to."
+      },
+      {
+        "title": "Dive Into Your Oasis",
+        "description": "Your pool is delivered on time, on budget, and backed by our satisfaction guarantee. Plus, our service arm keeps it pristine for years to come."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Florida Trusts Us",
+    "headline": "Owner-Operated, Olympic-Approved Pool Experts",
+    "description": "Founded by Marcelo Coelho over 20 years ago, JMC Pools has grown from a dedicated maintenance operation into Liquid Luxe — a full-service luxury pool design and construction firm. Our team holds a Florida State Pool and Spa Contractor license, serves as a Factory Direct Warranty Station for Jandy, and counts Olympic legend Dara Torres among our longtime clients. Marcelo personally guides every project from concept to completion.",
+    "badge": "FL Licensed CPC 1460765",
+    "features": [
+      {
+        "title": "Trusted by Olympic Champions",
+        "description": "Dara Torres has relied on JMC Pools for over 10 years across multiple properties. That level of trust is earned through consistent excellence."
+      },
+      {
+        "title": "Factory Direct Warranty Station",
+        "description": "As an authorized Jandy warranty center, we stock parts and replace equipment faster than going through the manufacturer. Less downtime for your pool."
+      },
+      {
+        "title": "One Company, Complete Service",
+        "description": "Design, build, and maintain — all under one roof. No juggling contractors. Marcelo and his team handle everything from first sketch to weekly cleaning."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Luxury Results.",
+    "subtitle": "Every project is custom-quoted based on scope and specifications. No hidden fees, no surprises — just honest pricing from a licensed contractor."
+  },
+  "guarantee": {
+    "headline": "Our \"White Glove\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, we come back and make it right at no additional charge. For construction projects, Marcelo personally inspects every milestone. We have built our reputation over 20 years on doing the job right — and we stand behind every pool we touch."
+  },
+  "faqs": [
+    {
+      "question": "How does the custom pool design process work?",
+      "answer": "It starts with a personal consultation with owner Marcelo Coelho. He visits your property, discusses your vision and budget, then presents CAD renderings for approval. Once you greenlight the design, our licensed team handles every permit, material, and construction detail."
+    },
+    {
+      "question": "Do you handle both pool construction and ongoing maintenance?",
+      "answer": "Yes. JMC Pools is a full-service company — we design and build custom pools under our Liquid Luxe brand, and our service division handles weekly cleaning, repairs, and equipment maintenance for the life of your pool."
+    },
+    {
+      "question": "What makes your warranty service different?",
+      "answer": "We are a Factory Direct Warranty Station for Jandy equipment. That means we stock parts locally and can often replace faulty equipment the same day — much faster than waiting for the manufacturer to ship replacements."
+    },
+    {
+      "question": "What areas do you serve in South Florida?",
+      "answer": "We serve Palm Beach County and Broward County including Lantana, Lake Worth, Boynton Beach, Delray Beach, Boca Raton, West Palm Beach, Fort Lauderdale, and surrounding communities."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We hold a Florida State Pool and Spa Contractor license (CPC 1460765), are a BBB-listed business, and carry full liability insurance. We have been a trusted name in South Florida pools for over 20 years."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Nick V.",
+      "context": "Custom pool build client",
+      "initials": "NV",
+      "text": "Better than anything I could have imagined. Marcelo and his team went truly above and beyond on our pool project. Every detail was perfect and the process was seamless from start to finish."
+    },
+    {
+      "name": "Dara T.",
+      "context": "Olympic swimming champion, 10+ year client",
+      "initials": "DT",
+      "text": "I have trusted JMC Pools for over 10 years across multiple properties. Their consistency, professionalism, and attention to detail are why I never considered switching to anyone else."
+    },
+    {
+      "name": "Mike S.",
+      "context": "Pool repair and maintenance client",
+      "initials": "MS",
+      "text": "I have had a lot of success with Marcello at JMC. He has bent over backwards to help me with my pool issues. Responsive, honest, and always gets the job done right the first time."
+    }
+  ],
+  "review_count": "25",
+  "review_rating": "4.9",
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Pool?",
+    "subtitle": "Get a free consultation with owner Marcelo Coelho. Whether you need a custom build, renovation, or reliable weekly service — one call covers it all.",
+    "benefits": [
+      "Free on-site consultation with the owner",
+      "Custom proposal within 48 hours",
+      "Licensed, insured, and warranty-backed"
+    ]
+  },
+  "footer": {
+    "description": "South Florida's trusted pool experts for over 20 years. Design. Build. Escape.",
+    "service_area": "Serving Palm Beach & Broward County",
+    "services": [
+      "Custom Pool Design",
+      "Repairs & Warranty",
+      "Pool Cleaning",
+      "Renovation & Remodeling",
+      "Automation & Lighting"
+    ],
+    "copyright": "&copy; 2024 JMC Pools. All rights reserved. FL Licensed Pool & Spa Contractor #CPC1460765"
+  }
+}

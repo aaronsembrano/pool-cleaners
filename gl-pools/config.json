@@ -1,0 +1,183 @@
+{
+  "folder_name": "gl-pools",
+  "company_name": "GL Pools",
+  "tagline": "You've worked hard for your backyard. So will we.",
+  "phone": "+1 877-707-7665",
+  "email": "clientcare@glpools.com",
+  "review_count": "150",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1A5276",
+    "primary_dark": "#133D59",
+    "primary_deeper": "#0D2B3E",
+    "secondary": "#2E86C1",
+    "cta": "#F39C12",
+    "cta_dark": "#D68910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & NPA Certified",
+    "badge_2": "4.8/5 from 150+ Reviews",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "headline": "19 Years of Pools Done <span class=\"text-secondary italic\">Right</span>",
+    "subheadline": "Your backyard should be your escape, not your weekend chore. GL Pools handles every detail so all you do is enjoy crystal-clear water, week after week. Family-owned, no contracts, and a 99% retention rate that speaks for itself.",
+    "badge_1": "4.8/5 from 150+ Google Reviews",
+    "badge_2": "99% Client Retention — No Contracts",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Service starts within days",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1000",
+    "stat_1_label": "Pools Maintained Weekly",
+    "stat_2_value": "19",
+    "stat_2_label": "Years Serving San Diego",
+    "stat_3_value": "50",
+    "stat_3_label": "Trained Technicians",
+    "stat_4_value": "99%",
+    "stat_4_label": "Client Retention Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Treats It Like Their Own",
+    "subtitle": "From weekly maintenance to major repairs, GL Pools covers every aspect of pool ownership so you never have to worry about a thing.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Chemical balancing, brushing, vacuuming, and filter cleaning every single week. Your pool stays swim-ready so you just show up and dive in."
+      },
+      {
+        "title": "Pool & Equipment Repair",
+        "description": "Pumps, heaters, automation systems — we diagnose and fix it right. Authorized service for Pentair, Raypak, and Jandy with fast turnaround."
+      },
+      {
+        "title": "Algae Cleanup & Recovery",
+        "description": "Green pool? We bring it back to crystal clear in days, not weeks. Targeted treatment that eliminates algae at the source."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of pumps, heaters, automation, and energy-efficient upgrades from the top manufacturers in the industry."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Dedicated service teams for hotels, HOAs, apartment complexes, and fitness facilities. Compliance-ready programs tailored to your property."
+      },
+      {
+        "title": "NPA Certified Pool Startups",
+        "description": "National Plaster Association certified startup services for new pool fills. Proper chemical balance and surface protection from day one."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out our form. We'll provide an honest, no-pressure quote — usually within 24 hours. No contracts, no commitments, no surprises."
+      },
+      {
+        "title": "We Show Up & Handle It All",
+        "description": "One of our 50+ background-checked technicians arrives on schedule. Cleaning, chemicals, equipment checks — everything covered, every visit."
+      },
+      {
+        "title": "You Just Enjoy the Water",
+        "description": "Your pool stays crystal clear and swim-ready, week after week. If anything is ever off, we come back and fix it — no questions asked."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why San Diego Trusts GL Pools",
+    "headline": "Family-Owned Since 2006, Built on Doing Things Right",
+    "description": "Founded by Austin Gardiner in 2006, GL Pools has grown from a one-man operation to a team of 50+ trained technicians serving thousands of pools across all of San Diego County. With three local offices and a 99% client retention rate — on a no-contract basis — we earn your trust every single visit. Every technician is background-checked, and we are proudly certified by the National Plaster Association.",
+    "badge": "NPA Certified",
+    "features": [
+      {
+        "title": "Background-Checked Technicians",
+        "description": "Every technician passes a thorough background check before ever stepping foot in your backyard. Your family's safety comes first."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your business every single visit. No long-term commitments, no cancellation fees. Our 99% retention rate proves the model works."
+      },
+      {
+        "title": "3 Local Offices Across San Diego",
+        "description": "Central, Eastern, and Northern offices mean faster response times and technicians who know your neighborhood."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Hidden Fees.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no penalties."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and make it right at no extra charge. No fine print, no runaround. We have maintained a 99% client retention rate for nearly two decades because we stand behind every visit until your pool looks perfect."
+  },
+  "faqs": [
+    {
+      "question": "How fast can GL Pools start service?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies or urgent repairs, we offer priority response from whichever of our three San Diego offices is closest to you."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. You will receive a service summary after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "Are your technicians background-checked?",
+      "answer": "Yes, every single one. All 50+ of our technicians pass a comprehensive background check before they ever visit a client's home. Your family's safety and peace of mind are non-negotiable."
+    },
+    {
+      "question": "What if I want to cancel?",
+      "answer": "Cancel anytime with zero fees. We never require contracts — that is how confident we are in our service. Our 99% client retention rate proves most people never want to leave."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Absolutely. We serve hotels, resorts, HOAs, fitness centers, and apartment communities across San Diego County with dedicated service teams, flexible scheduling, and compliance-ready maintenance programs."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Emily F.",
+      "context": "Residential Pool Service",
+      "initials": "EF",
+      "text": "GL Pools is a great pool servicing company. They always leave with our pool looking great. Consistent, reliable, and we never have to worry about a thing."
+    },
+    {
+      "name": "Faron E.",
+      "context": "Weekly Pool Maintenance",
+      "initials": "FE",
+      "text": "Really enjoy the service and the quality of service. Would recommend to anyone looking for a pool company that actually cares about doing the job right."
+    },
+    {
+      "name": "JD O.",
+      "context": "Residential Pool Service",
+      "initials": "JO",
+      "text": "We love having GL Pools take care of our pool. Brian is excellent and always happy to work with us on scheduling. Truly a great team to work with."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get a free, no-pressure quote in 24 hours. No contracts, no commitments — just honest pricing from a family-owned team with 19 years of experience.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours guaranteed",
+      "99% client retention — no contracts needed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Serving all of San Diego County since 2006.",
+    "service_area": "Serving All of San Diego County — Santee, El Cajon, Poway, Scripps Ranch & More",
+    "services": [
+      "Weekly Maintenance",
+      "Pool & Equipment Repair",
+      "Algae Cleanup",
+      "Equipment Installation",
+      "Commercial Service"
+    ],
+    "copyright": "&copy; 2024 GL Pools. All rights reserved. Licensed & Insured — NPA Certified"
+  }
+}
