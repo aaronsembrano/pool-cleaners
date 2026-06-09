@@ -3,182 +3,182 @@
   "company_name": "Arizona Mirage Pool Service",
   "tagline": "Trusted Pool Care in West Phoenix",
   "phone": "+1 623-537-9811",
-  "email": "info@arizonamirage.com",
-  "logo_path": "",
+  "email": "susan@arizonamirage.com",
+  "logo_path": "logo.png",
   "review_count": "43",
   "review_rating": "4.5",
   "colors": {
-    "primary": "#4DBBEC",
-    "primary_dark": "#1A7FA8",
-    "primary_deeper": "#0E4F6B",
-    "secondary": "#F46A07",
-    "cta": "#F46A07",
-    "cta_dark": "#C95505"
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0b2438",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
   },
   "trust_badges": {
-    "badge_1": "Licensed, Bonded & Insured (ROC #323327)",
+    "badge_1": "Licensed, Insured & Bonded",
     "badge_2": "4.5/5 from 43+ Reviews",
-    "badge_3": "BBB Member Since 2007"
+    "badge_3": "ROC #323327 Licensed"
   },
   "hero": {
     "badge_1": "4.5/5 from 43+ Google Reviews",
     "badge_2": "Family-Owned Since 2004",
-    "headline": "22 Years Keeping West Valley <span class=\"text-secondary italic\">Pools Perfect</span>",
-    "subheadline": "Brian and Susan Wright started Arizona Mirage in 2004 so families like yours could enjoy sparkling pools without the stress. We handle the hard water, the desert heat, and the equipment headaches -- you just dive in.",
-    "cta_text": "Get My Free Pool Evaluation",
+    "headline": "22 Years of Honest <span class=\"text-secondary italic\">Pool Care<br>You Can Trust</span>",
+    "subheadline": "Your pool should be your escape, not your weekend project. Arizona Mirage Pool Service is the family-owned team West Valley homeowners have trusted for over two decades to keep their pools crystal clear, their equipment running, and their water perfectly balanced — so you just dive in and enjoy.",
+    "cta_text": "Get My Free Pool Inspection",
     "checkmarks": [
-      "Free pool inspection included",
-      "Same-week service available",
-      "No contracts -- ever"
+      "Photo report after every visit",
+      "No upselling — ever",
+      "Licensed & bonded (ROC #323327)"
     ]
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "West Valley Families Served",
+    "stat_1_value": "1000",
+    "stat_1_label": "Pools Serviced",
     "stat_2_value": "22",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "14",
-    "stat_3_label": "Communities Covered",
+    "stat_3_value": "43",
+    "stat_3_label": "Five-Star Reviews",
     "stat_4_value": "100%",
-    "stat_4_label": "Licensed & Insured"
+    "stat_4_label": "Transparency Guarantee"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Arizona's Toughest Water",
-    "subtitle": "From weekly maintenance to full remodels, we handle every aspect of pool ownership so you can enjoy your backyard oasis without lifting a finger.",
+    "headline": "Full-Service Pool Care<br class=\"hidden md:block\"> for Arizona's Toughest Climate",
+    "subtitle": "From weekly maintenance to complete remodels, we handle every aspect of pool care so you can enjoy your backyard oasis without the hassle — even in 115-degree heat.",
     "cards": [
       {
-        "title": "Weekly Pool Service",
-        "description": "Routine weekly cleaning, chemical balancing, and filter maintenance to keep your pool crystal clear and swim-ready -- even through Arizona's brutal summers."
+        "title": "Weekly Pool Maintenance",
+        "description": "Skimming, vacuuming, chemical balancing, filter cleaning, and equipment checks every week. Your pool stays swim-ready through every scorching Arizona summer."
       },
       {
         "title": "Equipment Repairs",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, timers, and automation systems. Most repairs completed in a single visit to minimize downtime."
+        "description": "Pumps, filters, heaters, timers, plumbing, and automation systems diagnosed and fixed fast by a team with commercial diving and welding inspection backgrounds."
       },
       {
         "title": "Pool Remodels",
-        "description": "Complete pool transformations -- new tile, resurfacing, modern features, and updated equipment that bring new life to your backyard oasis."
+        "description": "Transform your outdated pool into a modern backyard retreat. From tile and plaster to complete redesigns, we bring your vision to life."
       },
       {
         "title": "Tile & Calcium Cleaning",
-        "description": "Professional removal of stubborn calcium and mineral buildup caused by Arizona's notoriously hard water. Your tile restored to like-new condition."
-      },
-      {
-        "title": "Heater Installation & Repair",
-        "description": "Extend your swimming season with expert heater installation and repair. We keep your pool at the perfect temperature from October through April."
+        "description": "Professional removal of calcium and mineral buildup caused by Arizona's notoriously hard water. Your tile restored to like-new condition, guaranteed."
       },
       {
         "title": "Pool Automation",
-        "description": "Phone-controlled pool systems that let you manage pumps, lights, heating, and chemicals from anywhere. Modern convenience for your backyard."
+        "description": "Phone-controlled pool management systems that let you adjust temperature, lighting, and chemicals from anywhere. Modern convenience for your desert oasis."
+      },
+      {
+        "title": "Acid Wash & Green Pool Recovery",
+        "description": "Pool turned green or neglected? Our acid wash and chlorine bath services bring even the worst pools back to crystal clear in days, not weeks."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Request Your Free Evaluation",
-        "description": "Call us or fill out the form. We'll schedule a no-obligation pool inspection and give you an honest quote -- typically within 24 hours. No pressure, no gimmicks."
+        "title": "Schedule Your Free Inspection",
+        "description": "Call or fill out the form and tell us about your pool. Brian will personally assess your situation and provide an honest, no-pressure quote within 24 hours."
       },
       {
-        "title": "We Take It From Here",
-        "description": "Our trained technicians arrive on schedule and handle everything: cleaning, chemicals, equipment checks, and hard water treatment. Brian personally oversees every account."
+        "title": "We Handle the Hard Work",
+        "description": "Our experienced team arrives on schedule, every time. After each visit, you receive a detailed photo report showing exactly what was done — full transparency, zero guesswork."
       },
       {
-        "title": "Enjoy Your Pool Year-Round",
-        "description": "Your pool stays sparkling, balanced, and swim-ready every single week. If anything is ever off, we come back and fix it -- no charge, no questions asked."
+        "title": "Enjoy Your Desert Oasis",
+        "description": "Your pool stays crystal clear and swim-ready year-round, even through Arizona's extreme summers. If anything is ever less than perfect, we come back and make it right — free."
       }
     ]
   },
   "about": {
-    "label": "Why West Valley Families Trust Us",
-    "headline": "Family-Owned, Arizona-Tough, and Built on Doing It Right",
-    "description": "Brian and Susan Wright founded Arizona Mirage in 2004 after relocating from Illinois to the West Valley. With Brian's background in commercial diving and welding inspection, and over two decades of desert pool expertise, we understand Arizona water challenges better than anyone. Every technician is trained in safe chemical handling and equipment repair. We're fully licensed (ROC #323327), bonded, insured, and a BBB member since 2007 -- because earning your trust matters more than earning a quick buck.",
+    "label": "Why West Valley Trusts Us",
+    "headline": "Family-Owned, Straight-Talking Pool Care Since 2004",
+    "description": "Arizona Mirage Pool Service was founded by Brian and Susan Wright — a husband-and-wife team who moved from Illinois and built their business on one promise: do the job right the first time. With Brian's background in commercial diving, welding inspection, and outdoor systems, and Susan keeping the books and customer relationships running smoothly, every pool gets personal attention from owners who stake their reputation on every visit. We serve the entire West Valley and treat your pool like it is our own.",
     "badge": "ROC #323327 Licensed",
     "features": [
       {
-        "title": "Trained & Certified Technicians",
-        "description": "Every team member is trained in safe chemical handling, equipment diagnostics, and Arizona-specific hard water treatment before they touch your pool."
+        "title": "Photo Reports After Every Visit",
+        "description": "You will receive a detailed photo report after each service showing exactly what was done. Complete transparency so you always know your pool's condition."
       },
       {
-        "title": "No Contracts. Cancel Anytime.",
-        "description": "We earn your business every visit. No long-term commitments, no cancellation fees -- just honest work at a fair price, every single week."
+        "title": "No Upselling. Honest Recommendations.",
+        "description": "We tell you what your pool actually needs, not what pads our bottom line. Straight talk and fair pricing on every single visit."
       },
       {
-        "title": "Right the First Time Guarantee",
-        "description": "Not satisfied with any visit? We come back and make it right at no charge. That's been our promise since day one -- and we've kept it for 22 years."
+        "title": "22 Years of Desert Pool Expertise",
+        "description": "Arizona's extreme heat and hard water demand specialized knowledge. We have been solving desert pool challenges since 2004 and know exactly what your pool needs."
       }
     ]
   },
   "pricing": {
-    "headline": "Fair Pricing. No Surprises.",
-    "subtitle": "Straightforward plans that fit your pool and your budget. No contracts, no hidden fees -- upgrade, downgrade, or cancel anytime."
+    "headline": "Honest Pricing. No Surprises. No Upsells.",
+    "subtitle": "Choose the service level that fits your pool. Every plan includes photo reports after each visit so you always know exactly what you are paying for."
   },
   "guarantee": {
-    "headline": "Our \"Right the First Time\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right -- completely free. Brian and Susan built this business on doing quality work at a fair price, and that promise holds true on every single visit. No fine print, no runaround -- just honest pool care from a family that stands behind their work."
+    "headline": "Our \"Do It Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at no charge. Brian and Susan built this business on doing the job right the first time, and after 22 years and over a thousand pools, that promise has never changed. Your trust matters more than any contract."
   },
   "faqs": [
     {
       "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients in the West Valley are on our schedule within 3-5 business days. For green pool emergencies or equipment failures, we offer priority same-day or next-day response. Just call Brian directly."
+      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies or equipment failures, we offer priority response. Call us at 623-537-9811 and we will work around your timeline."
     },
     {
-      "question": "Do I need to be home for service visits?",
-      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're at work or running errands. You'll always know what was done and how your water looks after each visit."
+      "question": "Do I get updates after each service visit?",
+      "answer": "Absolutely. We send a detailed photo report after every single visit showing what was done, water chemistry readings, and any issues we noticed. You always know exactly what is happening with your pool."
     },
     {
-      "question": "Why is my pool tile always getting calcium buildup?",
-      "answer": "Arizona has some of the hardest water in the country. Mineral deposits build up fast, especially in the summer heat. Our professional tile cleaning removes that buildup completely, and regular service helps slow it down significantly."
+      "question": "Are you licensed and insured in Arizona?",
+      "answer": "Yes. Arizona Mirage Pool Service holds ROC License #323327, is fully insured, bonded, and listed with the BBB. We have maintained our credentials continuously since 2004."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We cover 14+ communities across the West Valley including Surprise, Glendale, Peoria, Goodyear, Buckeye, Avondale, Litchfield Park, Sun City, Waddell, El Mirage, Wickenburg, Wittman, Youngtown, and surrounding areas."
+      "question": "What areas do you serve in the West Valley?",
+      "answer": "We serve the entire West Valley including Surprise, Glendale, Peoria, Goodyear, Buckeye, Avondale, Litchfield Park, Sun City, Waddell, Wickenburg, Wittman, Youngtown, and El Mirage."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Absolutely. Arizona Mirage holds ROC License #323327, is fully bonded and insured, and has been a Better Business Bureau member since 2007. Brian also holds commercial diving and welding inspection credentials. Your property is always protected."
+      "question": "Will you try to upsell me on services I do not need?",
+      "answer": "Never. We built our reputation on honest, straightforward recommendations. We tell you what your pool actually needs and nothing more. That no-upsell approach is why our clients stay with us for years."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-Term Client",
-      "context": "Angi Review",
-      "initials": "LC",
-      "text": "We have an old-fashioned diving pool that can have difficult maintenance, but Arizona Mirage keeps the pool absolutely sparkling, picks up immediately if there are problems with equipment, is very knowledgeable, and charges at a reasonable price."
+      "name": "Deborah W.",
+      "context": "Weekly maintenance client",
+      "initials": "DW",
+      "text": "They are excellent and communicative about concerns or needs. I never have to wonder what is happening with my pool because they send reports after every single visit. Best pool service in the West Valley."
     },
     {
-      "name": "Happy Homeowner",
-      "context": "Angi Review",
-      "initials": "HH",
-      "text": "Brian went the extra mile and had a warranty issue resolved on a very timely basis with Hayward Corp, and a service change of new pool filter done by Bryce was done quickly and responsibly."
+      "name": "Ryan M.",
+      "context": "Long-term client",
+      "initials": "RM",
+      "text": "At no point have I ever felt upsold. They tell you what your pool needs and nothing more. Honest, reliable, and fair pricing. I would highly recommend Arizona Mirage to anyone in the Surprise area."
     },
     {
-      "name": "Neighborhood Fan",
-      "context": "Nextdoor Favorite",
-      "initials": "NF",
-      "text": "Arizona Mirage is our Neighborhood Favorite -- they consistently deliver reliable pool service that keeps our community pools in great shape. Highly recommend for anyone in the West Valley."
+      "name": "Maija R.",
+      "context": "Equipment repair client",
+      "initials": "MR",
+      "text": "I love how they take a photo and send a report after each visit. When my pump needed repair, they were prompt and handled it professionally. Hard to find a company this honest and transparent."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
-    "subtitle": "Get a free, no-pressure pool evaluation within 24 hours. No contracts, no commitments -- just honest pricing from a family that's been doing this for 22 years.",
+    "headline": "Ready for a Pool You<br>Never Worry About?",
+    "subtitle": "Get a free, no-pressure inspection from the Wright family team. No contracts, no upselling — just honest pool care from a family that has been doing this for 22 years.",
     "benefits": [
       "Free pool inspection with every quote",
-      "Response within 24 hours",
+      "Photo report after every visit",
       "22 years of Arizona pool expertise"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving the West Valley since 2004.",
-    "service_area": "Serving Surprise, Glendale, Peoria, Goodyear, Buckeye & the West Valley",
+    "description": "Family-owned pool service. Trusted across the West Valley since 2004.",
+    "service_area": "Serving Surprise, Glendale, Peoria, Goodyear, Buckeye, Sun City & the West Valley",
     "services": [
-      "Weekly Pool Service",
+      "Weekly Pool Maintenance",
       "Equipment Repairs",
       "Pool Remodels",
       "Tile & Calcium Cleaning",
-      "Heater Installation"
+      "Pool Automation"
     ],
-    "copyright": "&copy; 2024 Arizona Mirage Pool Service. All rights reserved. ROC #323327"
+    "copyright": "&copy; 2024 Arizona Mirage Pool Service. All rights reserved. ROC #323327 | Licensed, Insured & Bonded"
   }
 }

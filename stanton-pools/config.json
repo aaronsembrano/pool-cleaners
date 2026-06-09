@@ -1,183 +1,186 @@
 {
   "folder_name": "stanton-pools",
   "company_name": "Stanton Pools",
-  "tagline": "Your pool should be an oasis where great memories are made year-round.",
-  "phone": "+1 888-365-4621",
+  "tagline": "Your pool should be an oasis where great memories with family and friends are made year-round.",
+  "phone": "+1 888-214-0425",
   "email": "eric@stantonpools.com",
-  "review_count": "225",
+  "logo_path": "logo.png",
+  "review_count": "250+",
   "review_rating": "5.0",
   "colors": {
     "primary": "#1a5276",
-    "primary_dark": "#133b56",
-    "primary_deeper": "#0d2a3e",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0e2d42",
     "secondary": "#2980b9",
     "cta": "#f39c12",
-    "cta_dark": "#d68910"
-  },
-  "trust_badges": {
-    "badge_1": "C-53 & D-35 Licensed",
-    "badge_2": "5.0/5 from 225+ Reviews",
-    "badge_3": "Health Dept. Certified"
+    "cta_dark": "#d4860a"
   },
   "hero": {
-    "badge_1": "5.0/5 from 225+ Google Reviews",
-    "badge_2": "C-53 & D-35 Licensed Contractor",
-    "headline": "Your Backyard Oasis, <span class=\"text-secondary italic\">Perfected by<br>225+ Happy Families</span>",
-    "subheadline": "For 18 years, Thousand Oaks families have trusted Stanton Pools for stunning remodels, reliable weekly care, and honest pricing. Owner Eric Stanton personally oversees every project so you get the backyard you deserve.",
-    "cta_text": "Get My Free Pool Assessment",
+    "headline": "Your Pool Deserves a <span class=\"text-secondary italic\">Five-Star Touch</span>",
+    "subheadline": "For 17 years, Stanton Pools has been the most trusted name in pool care across Thousand Oaks, Westlake Village, and the Conejo Valley. From weekly maintenance to stunning remodels, we back every job with a 100% Satisfaction Guarantee and $0 upfront.",
+    "badges": [
+      "5.0 Stars — 250+ Reviews",
+      "Licensed, Bonded & Insured"
+    ],
     "checkmarks": [
-      "Free on-site consultation",
-      "Owner-supervised projects",
-      "Fair upfront pricing"
-    ]
+      "100% Satisfaction Guarantee on every service",
+      "Health Department certified technician-trained team",
+      "$0 upfront — pay only when you're thrilled"
+    ],
+    "cta_text": "Get Your Free Pool Evaluation"
   },
   "stats": {
-    "stat_1_value": "225",
-    "stat_1_label": "Five-Star Reviews",
-    "stat_2_value": "18",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "500",
-    "stat_3_label": "Pools Remodeled",
+    "stat_1_value": "17",
+    "stat_1_label": "Years Serving So. Cal",
+    "stat_2_value": "250",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Serviced",
     "stat_4_value": "100%",
-    "stat_4_label": "Satisfaction Rate"
+    "stat_4_label": "Satisfaction Guarantee"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Pool Remodeling &<br class=\"hidden md:block\">Care for Southern California",
-    "subtitle": "From full-scale renovations to weekly maintenance, our licensed specialist teams handle every detail so your pool stays beautiful year-round.",
+    "headline": "Everything Your Pool Needs, Under One Roof",
+    "subtitle": "From weekly upkeep to complete transformations, our specialized team members handle each trade so you never have to juggle multiple contractors.",
     "cards": [
       {
+        "icon": "🔨",
         "title": "Pool Remodeling & Resurfacing",
-        "description": "Complete pool renovations including plaster and pebble resurfacing, new tile and coping, copper-to-PVC plumbing conversions, and full equipment upgrades."
+        "description": "Complete renovations including plaster resurfacing, tile and coping upgrades, copper-to-PVC plumbing conversions, and equipment relocation."
       },
       {
+        "icon": "🧹",
         "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive weekly care including chemical balancing, skimmer and pump basket emptying, equipment checks, netting, vacuuming, and wall brushing."
+        "description": "Thorough weekly cleaning with chemical balancing, skimmer and pump basket service, equipment checks, vacuuming, and wall brushing."
       },
       {
+        "icon": "♨️",
         "title": "Spa Additions",
-        "description": "Custom spa additions to your existing pool with full plumbing, electrical, and finishing work. Create the ultimate backyard relaxation experience."
+        "description": "Custom-designed spa features that complement your existing pool, transforming your backyard into a complete heated oasis."
       },
       {
+        "icon": "🔧",
         "title": "Structural Crack Repair",
-        "description": "Expert structural crack repair to restore your pool's integrity and prevent further damage using professional techniques and quality materials."
+        "description": "Expert diagnosis and lasting repair of structural cracks in pool shells, restoring integrity and stopping water loss."
       },
       {
+        "icon": "⚙️",
         "title": "Equipment Repair & Upgrades",
-        "description": "Pump repair, energy-efficient variable speed installations, heater replacement, salt water conversions, and Wi-Fi remote system setup."
+        "description": "Pump, heater, and saltwater system repair plus energy-efficient variable-speed pump installation and Wi-Fi remote setup."
       },
       {
-        "title": "Custom Pool Features",
-        "description": "Baja shelves, deck jets, LED lighting, custom tile accents, and umbrella holders to transform your pool into a personal resort."
+        "icon": "🌊",
+        "title": "Specialized Pool Care",
+        "description": "Advanced services including saltwater conversions, heater servicing, smart automation systems, and energy-efficiency upgrades."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Pool",
+    "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Schedule Your Free Consultation",
-        "description": "Tell us about your pool and your vision. Eric will visit your home, assess your pool, and provide an honest, detailed quote within 24 hours. No pressure, no obligation."
+        "title": "Book Your Free Evaluation",
+        "description": "Call us or fill out the form. We'll schedule a convenient time to inspect your pool and discuss your goals — no pressure, no cost."
       },
       {
-        "title": "We Handle Every Detail",
-        "description": "Our licensed specialist teams manage your project from start to finish. Eric personally oversees every phase, keeping you updated with clear communication throughout."
+        "title": "Get Your Custom Plan",
+        "description": "Eric and the team will walk you through a tailored proposal with transparent pricing. Remember: $0 due upfront on any project."
       },
       {
-        "title": "Enjoy Your Backyard Oasis",
-        "description": "Your pool is transformed into the backyard retreat you've always wanted. We stand behind our work and stay available for ongoing maintenance and support."
+        "title": "Enjoy Your Oasis",
+        "description": "We handle every detail while you relax. Your satisfaction is guaranteed — if you're not happy, we make it right."
       }
     ]
   },
   "about": {
-    "label": "Why Thousand Oaks Trusts Us",
-    "headline": "Owner-Operated Since 2008, Backed by 225+ Five-Star Reviews",
-    "description": "Eric Stanton founded Stanton Pools in 2008 after graduating from USC with a business degree and one clear mission: treat every pool like his own. Eighteen years later, that commitment has earned 250+ five-star reviews across Google, Yelp, HomeAdvisor, Facebook, and Nextdoor. With dual C-53 and D-35 contractor licenses and Health Department water chemistry certification, our dedicated specialist teams deliver the craftsmanship and communication that Thousand Oaks families count on.",
-    "badge": "CA License #1009474",
+    "label": "About Stanton Pools",
+    "headline": "17 Years of Trust, One Pool at a Time",
+    "description": "Founded by Eric Stanton in 2008, Stanton Pools has grown into one of the most respected pool service companies in Ventura and Los Angeles Counties. Our team is trained by a certified Health Department technician, and we have specialized crew members for each trade — making us a true one-stop shop. With Contractor License #1009474, full bonding and insurance, and over 250 five-star reviews, we've earned the trust of families across the Conejo, Simi, and San Fernando Valleys.",
+    "badge": "Serving Southern California Since 2008",
     "features": [
       {
-        "title": "Owner On Every Project",
-        "description": "Eric Stanton personally oversees every remodel and responds to every client within 24 hours. You're never handed off to a stranger."
+        "title": "Owner-Operated Excellence",
+        "description": "Eric Stanton is personally involved in every project, ensuring the same high standards from consultation through completion."
       },
       {
-        "title": "Dual Licensed & Certified",
-        "description": "We hold both C-53 and D-35 contractor licenses plus Health Department water chemistry certification — the highest standard in pool work."
+        "title": "Dedicated Trade Specialists",
+        "description": "Each crew member specializes in a specific trade — plumbing, electrical, surfacing — so you get expert quality without juggling contractors."
       },
       {
-        "title": "Fair, Upfront Pricing Always",
-        "description": "No hidden costs, no surprise charges. You get a detailed written quote before work begins, and that's the price you pay. Period."
+        "title": "Risk-Free Trial",
+        "description": "Try our weekly maintenance service with zero obligation. No contracts, no cancellation fees — we earn your business every visit."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project starts with a detailed written quote. No hidden fees, no change-order games. Just honest pricing from a company that values your trust."
+    "headline": "Transparent Pricing, Zero Surprises",
+    "subtitle": "Every quote comes with clear, upfront pricing — no hidden fees. And with our $0 upfront structure, you don't pay until the work is done and you're completely satisfied."
   },
   "guarantee": {
-    "headline": "Our \"Backyard Oasis\" Guarantee",
-    "description": "If you're not completely satisfied with any service or project phase, call Eric directly. We'll come back and make it right at no additional cost. With 225+ five-star reviews and 18 years in business, our reputation is built on keeping that promise every single time."
+    "headline": "Our 100% Satisfaction Guarantee",
+    "description": "We stand behind every job we do. If you're not completely thrilled with our work, we'll make it right — period. With $0 due upfront on any project, the risk is entirely on us. That's the Stanton Pools promise, and it's why over 250 families have trusted us with five-star reviews."
   },
   "faqs": [
     {
+      "question": "What areas do you serve in Southern California?",
+      "answer": "We serve Thousand Oaks, Westlake Village, Woodland Hills, West Hills, North Hollywood, Newbury Park, Tarzana, Simi Valley, Encino, Calabasas, Chatsworth, Agoura Hills, Oak Park, Sherman Oaks, Studio City, Granada Hills, and Canoga Park — covering Ventura and Los Angeles Counties including the Conejo, Simi, and San Fernando Valleys."
+    },
+    {
+      "question": "Do I really pay $0 upfront?",
+      "answer": "Yes. We don't collect payment until the work is complete and you're fully satisfied. This applies to both maintenance services and remodeling projects. It's our way of putting your trust first."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Absolutely. Our entire team is trained by a certified Health Department technician, and we hold Contractor License #1009474. We're fully licensed, bonded, and insured for your peace of mind."
+    },
+    {
       "question": "How long does a typical pool remodel take?",
-      "answer": "Most pool remodels take 2-4 weeks depending on scope. Eric will give you a detailed timeline during your free consultation and keep you updated throughout the project. We work efficiently without cutting corners."
+      "answer": "Most remodels take between 2 to 4 weeks depending on the scope. During your free evaluation, Eric will walk you through a realistic timeline and keep you updated at every stage."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve Thousand Oaks, Westlake Village, Woodland Hills, Newbury Park, Simi Valley, Agoura Hills, Calabasas, Encino, Sherman Oaks, and the greater Los Angeles and Ventura County areas."
-    },
-    {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. We hold both C-53 and D-35 California contractor licenses (#1009474), are Health Department certified for water chemistry, and carry full liability insurance. Your project is in fully credentialed hands."
-    },
-    {
-      "question": "Can I see examples of your past work?",
-      "answer": "Absolutely. We have hundreds of completed remodel photos with before-and-after galleries. Ask Eric during your consultation or check our website and social media pages for recent projects."
-    },
-    {
-      "question": "Do you offer weekly pool maintenance?",
-      "answer": "Yes. Our weekly maintenance service includes complete chemical balancing, equipment checks, skimming, vacuuming, brushing, and surface integrity inspections. Many remodel clients become long-term maintenance customers."
+      "question": "Can I try your maintenance service before committing?",
+      "answer": "Yes! We offer a risk-free trial for new weekly maintenance customers. Experience our service firsthand with zero obligation — we're confident you'll want to stay."
     }
   ],
   "testimonials": [
     {
-      "name": "Karen J.",
-      "context": "Thousand Oaks, CA",
-      "initials": "KJ",
-      "text": "Stanton Pools was communicative, professional, and overall very attentive. I love my pool. Eric made the entire process easy and the results exceeded what I imagined."
-    },
-    {
       "name": "David W.",
-      "context": "Woodland Hills, CA - Pool Remodel",
-      "initials": "DW",
-      "text": "Best contractor experience in my lifetime. Demo crew, tile workers, pebble installation, start-up, follow-up. Every phase was perfect. I recommend Stanton Pools to everyone."
+      "text": "If Yelp had the ability to give 10 stars, that is what I would give Stanton Pools. The entire remodel was flawless from start to finish.",
+      "context": "Woodland Hills, CA — Complete Pool Remodel",
+      "initials": "DW"
     },
     {
-      "name": "Joshua M.",
-      "context": "Encino, CA - Pool Renovation",
-      "initials": "JM",
-      "text": "Eric and his team did an absolutely exceptional job on our pool renovation and I can't recommend Stanton Pools enough. The attention to detail was remarkable from start to finish."
+      "name": "Andrea B.",
+      "text": "I HIGHLY recommend Eric and his team. All the plumbing, electrical, and surface needed to be redone — and they handled every bit of it beautifully.",
+      "context": "Sherman Oaks, CA — Full 1960s Pool Renovation",
+      "initials": "AB"
+    },
+    {
+      "name": "Jaimee W.",
+      "text": "Hiring Eric Stanton was one of the best decisions I have ever made for my home. His honesty and craftsmanship are unmatched.",
+      "context": "Westlake, CA — Pool & Backyard Upgrades",
+      "initials": "JW"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free, no-obligation consultation with owner Eric Stanton. He'll visit your home, assess your pool, and provide an honest quote within 24 hours.",
+    "headline": "Ready to Transform Your Pool?",
+    "subtitle": "Get your free, no-obligation pool evaluation today. Call us or fill out the form and we'll be in touch within 24 hours.",
     "benefits": [
-      "Free on-site consultation and assessment",
-      "Personal response from Eric within 24 hours",
-      "Detailed written quote with no hidden fees"
+      "Free on-site pool evaluation",
+      "$0 upfront on all services",
+      "Response within 24 hours"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool remodeling and service. Serving Thousand Oaks and Southern California since 2008.",
-    "service_area": "Serving Thousand Oaks, Westlake Village & Greater LA",
-    "services": [
-      "Pool Remodeling",
-      "Weekly Maintenance",
+    "description": "Stanton Pools has served Thousand Oaks and the greater Southern California area since 2008. Licensed (Contractor #1009474), bonded, and insured — we're your trusted partner for every pool need.",
+    "service_area": "Serving Thousand Oaks, Westlake Village, Woodland Hills, Simi Valley, Encino, Calabasas, Agoura Hills, Sherman Oaks, and surrounding communities in Ventura & Los Angeles Counties.",
+    "service_links": [
+      "Pool Remodeling & Resurfacing",
+      "Weekly Pool Maintenance",
       "Spa Additions",
-      "Equipment Upgrades",
-      "Crack Repair"
+      "Equipment Repair & Upgrades",
+      "Structural Crack Repair"
     ],
-    "copyright": "&copy; 2024 Stanton Pools. All rights reserved. CA Contractor License #1009474"
+    "copyright": "Stanton Pools. Contractor License #1009474."
   }
 }

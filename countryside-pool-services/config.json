@@ -4,181 +4,181 @@
   "tagline": "Clear Waters, Clear Mind",
   "phone": "(703) 779-5680",
   "email": "gina@countrysidepoolservices.com",
-  "logo_path": "",
+  "logo_path": "logo.png",
   "review_count": "42",
   "review_rating": "4.5",
   "colors": {
     "primary": "#1B3A5C",
     "primary_dark": "#122843",
-    "primary_deeper": "#0C1C30",
-    "secondary": "#2AA5A5",
-    "cta": "#E8892F",
-    "cta_dark": "#D07520"
+    "primary_deeper": "#0C1C2E",
+    "secondary": "#4A90D9",
+    "cta": "#D97706",
+    "cta_dark": "#B45309"
   },
   "trust_badges": {
-    "badge_1": "PHTA Certified Member",
+    "badge_1": "Serving Loudoun County Since 2003",
     "badge_2": "4.5/5 from 42+ Reviews",
-    "badge_3": "Serving Loudoun County Since 2003"
+    "badge_3": "Best of Leesburg Finalist"
   },
   "hero": {
     "badge_1": "4.5/5 from 42+ Google Reviews",
-    "badge_2": "Best of Leesburg Finalist 2024 & 2025",
-    "headline": "Your Family's Pool, <span class=\"text-secondary italic\">Our Family's<br>Promise</span>",
-    "subheadline": "For over 23 years, Albert and Gina have kept Leesburg pools crystal clear so families can focus on making memories. From custom builds to weekly care, Countryside handles it all with the honesty and attention only a family-owned company can deliver.",
-    "cta_text": "Get My Free Pool Consultation",
+    "badge_2": "Best of Leesburg 2024 & 2025",
+    "headline": "23 Years Keeping Loudoun <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "From custom pool builds to weekly maintenance, Albert and Gina have been Loudoun County's trusted pool experts since 2003. Let the family team that earned back-to-back Best of Leesburg honors take care of your backyard -- so you just dive in.",
+    "cta_text": "Request Your Free Estimate",
     "checkmarks": [
-      "Free on-site pool evaluation",
-      "23+ years trusted in Loudoun County",
-      "No hidden fees or surprise charges"
+      "Free on-site pool assessment",
+      "Same-day emergency repairs",
+      "Custom builds in 8 weeks"
     ]
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "Families Served",
+    "stat_1_value": "1500",
+    "stat_1_label": "Pools Cared For",
     "stat_2_value": "23",
-    "stat_2_label": "Years in Leesburg",
-    "stat_3_value": "1200",
-    "stat_3_label": "Pools Built & Maintained",
-    "stat_4_value": "100%",
-    "stat_4_label": "Family Commitment"
+    "stat_2_label": "Years in Loudoun County",
+    "stat_3_value": "8",
+    "stat_3_label": "Week Custom Builds",
+    "stat_4_value": "2x",
+    "stat_4_label": "Best of Leesburg Finalist"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "From Dream Pool to Sparkling<br class=\"hidden md:block\"> Maintenance — We Do It All",
-    "subtitle": "Whether you want a brand-new backyard oasis or need your current pool running flawlessly, our certified team has the expertise and partnerships to deliver results that last.",
+    "label": "Our Expertise",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Design to Weekly Maintenance",
+    "subtitle": "Whether you are dreaming of a brand-new pool or need reliable weekly service, Countryside handles every detail so you can enjoy crystal-clear water without lifting a finger.",
     "cards": [
       {
         "title": "Custom Pool Design & Build",
-        "description": "Turn your backyard vision into reality with our end-to-end design-build service. Pebble Tec certified and Techo-Bloc partnered for premium finishes."
+        "description": "From concept sketches to your first splash, we design and build stunning residential pools and spas. Most projects completed in just 8 weeks, backed by partnerships with Pebble Tec and Jandy."
       },
       {
-        "title": "Full-Service Maintenance",
-        "description": "Weekly cleaning, chemical balancing, filter care, and equipment checks. Your pool stays swim-ready every visit — guaranteed by our experienced team."
+        "title": "Weekly Maintenance Programs",
+        "description": "Thorough weekly care including skimming, vacuuming, chemical balancing, and filter cleaning. Our knowledgeable servicemen keep your pool swim-ready every single week."
       },
       {
-        "title": "Pool Renovation",
-        "description": "Breathe new life into your aging pool with expert resurfacing, retiling, coping replacement, and modern upgrades. We transform outdated pools into stunning retreats."
+        "title": "Equipment Repairs",
+        "description": "Pumps, filters, heaters, chlorinators, automation systems -- we diagnose and fix it fast. Same-day emergency response available for urgent breakdowns."
       },
       {
-        "title": "Equipment Repair & Replacement",
-        "description": "Pumps, heaters, filters, salt systems, and chlorinators — our Jandy and Zodiac certified techs diagnose and fix issues fast to keep you swimming."
+        "title": "Pool Renovations",
+        "description": "Breathe new life into your aging pool with premium resurfacing, updated tile, modern coping, and fresh decking. Pebble Tec authorized partner for lasting beauty."
       },
       {
-        "title": "Spa & Hot Tub Services",
-        "description": "Complete spa care from installation to ongoing maintenance. Enjoy your hot tub year-round with professional water chemistry and equipment service."
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing that keeps water safe, crystal clear, and gentle on skin. No red eyes, no irritation -- just perfectly balanced water every visit."
       },
       {
-        "title": "Pool Opening & Closing",
-        "description": "Seasonal opening and winterization done right. We handle covers, chemicals, equipment prep, and everything in between so your pool is ready when you are."
+        "title": "Seasonal Opening & Closing",
+        "description": "Proper winterization and spring opening services to protect your investment through Virginia's changing seasons. Equipment inspection included with every seasonal service."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Your Pool, Our Priority -- In Three Steps",
     "steps": [
       {
-        "title": "Schedule Your Free Evaluation",
-        "description": "Call us or fill out the form below. We will visit your property, assess your pool needs, and provide an honest, no-pressure quote — typically within 48 hours."
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out the form below. Albert or Gina will personally discuss your pool needs and schedule a convenient on-site visit within days."
       },
       {
-        "title": "We Get to Work",
-        "description": "Our experienced, certified technicians handle everything on schedule. Whether it is a build, repair, or weekly maintenance, Albert and Gina oversee every project personally."
+        "title": "Get Your Custom Plan",
+        "description": "We assess your pool, recommend the right service package, and provide honest, transparent pricing. No high-pressure sales -- just straightforward options that fit your budget."
       },
       {
         "title": "Relax and Enjoy",
-        "description": "Your pool stays crystal clear and worry-free all season long. And if anything ever needs attention, our responsive team is just one call away."
+        "description": "Our trained technicians handle everything on a reliable schedule. Your pool stays crystal clear, and if anything ever falls short, we come back and make it right."
       }
     ]
   },
   "about": {
     "label": "Why Loudoun County Trusts Us",
-    "headline": "Family-Owned Since 2003 — Albert & Gina Still Answer Your Calls",
-    "description": "Countryside Pool Services is not a franchise or a faceless corporation. Albert and Gina founded this company over two decades ago, and they are still hands-on every day. As a PHTA member and back-to-back Best of Leesburg Finalist, we have earned the trust of hundreds of families across Loudoun County through honest pricing, reliable service, and genuine care for your pool and your family.",
-    "badge": "PHTA Certified Member",
+    "headline": "Family-Owned, Locally Rooted, and Personally Invested",
+    "description": "Albert and Gina founded Countryside Pool Services in 2003 with a simple belief: pool care should be personal. Over 23 years later, that belief still drives every service call, every custom build, and every repair. As owners who are personally involved in every project, they have built lasting relationships with homeowners across Leesburg and Loudoun County. Our partnerships with Jandy, Zodiac, Polaris, and Pebble Tec mean you get premium equipment installed and maintained by people who know it inside and out.",
+    "badge": "PHTA Affiliated",
     "features": [
       {
-        "title": "Certified Industry Partnerships",
-        "description": "Jandy, Zodiac, Polaris, Pebble Tec, Techo-Bloc, and Loop-Loc authorized. We use only professional-grade equipment and materials."
+        "title": "Owner-Operated Since 2003",
+        "description": "Albert and Gina are personally involved in every project. You are never handed off to a faceless call center or random subcontractor."
       },
       {
-        "title": "Owners On Every Project",
-        "description": "Albert and Gina personally oversee operations. You are never handed off to a random subcontractor — the owners know your pool by name."
+        "title": "Premium Brand Partnerships",
+        "description": "Authorized partners with Jandy, Zodiac, Polaris, and Pebble Tec. We use and stand behind the best equipment in the industry."
       },
       {
-        "title": "Back-to-Back Award Finalist",
-        "description": "Named Best of Leesburg Finalist in both 2024 and 2025. Our reputation is built on 23 years of consistent, quality work — not marketing."
+        "title": "Back-to-Back Award Recognition",
+        "description": "Named Best of Leesburg Finalist in both 2024 and 2025. Our neighbors trust us -- and we work every day to earn that trust."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprise Fees.",
-    "subtitle": "Every pool is different, so we quote based on your specific needs. Request your free evaluation and get an honest price — no contracts required."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different, so we tailor plans to your exact needs. Request a free assessment and get a transparent quote -- no hidden fees, no gimmicks."
   },
   "guarantee": {
-    "headline": "Our \"Family Promise\" Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no extra charge. Albert and Gina stake their family name on every job — your pool is in the same hands that have served Leesburg for over 23 years."
+    "headline": "Our \"Crystal Clear\" Promise",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no extra charge. We have built our reputation over 23 years on doing right by our neighbors, and we are not about to stop now. Your satisfaction is not just a policy -- it is personal to Albert and Gina."
   },
   "faqs": [
     {
-      "question": "How quickly can you start service in Loudoun County?",
-      "answer": "Most new maintenance clients are scheduled within one week. For equipment repairs and emergencies, we offer priority response. Design-build consultations are typically booked within a few days. Call us and we will work around your schedule."
+      "question": "How quickly can you start weekly maintenance?",
+      "answer": "Most new clients are scheduled within the same week. For emergency equipment failures, we offer same-day response. Call us at (703) 779-5680 and we will get you on the calendar fast."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "No. We do not lock you into contracts. We believe in earning your trust every visit. You are free to adjust or cancel service at any time with no penalties or hidden fees."
+      "question": "Do you build custom pools and spas?",
+      "answer": "Absolutely. We handle design-build projects from concept to completion. Many of our custom pools are finished in as little as 8 weeks. We will walk you through design options, materials like Pebble Tec, and equipment from Jandy and Zodiac."
     },
     {
-      "question": "What brands of equipment do you service and install?",
-      "answer": "We are authorized partners with Jandy, Zodiac, Polaris, and Loop-Loc, and we are Pebble Tec certified. We service and install virtually all major pool equipment brands and always recommend the best fit for your pool and budget."
+      "question": "What brands of equipment do you work with?",
+      "answer": "We are authorized partners with Jandy, Zodiac, Polaris, and Pebble Tec. Whether it is a new installation, repair, or replacement, we use and recommend the most reliable equipment in the industry."
     },
     {
-      "question": "Can you build a custom pool from scratch?",
-      "answer": "Absolutely. Our design-build team handles everything from initial concept and 3D design through permitting, construction, and final finish. We are Pebble Tec certified and Techo-Bloc partnered for premium hardscaping and surfaces."
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Countryside Pool Services is fully licensed and insured, affiliated with the Pool and Hot Tub Association (PHTA), and has been recognized as a Best of Leesburg Finalist in both 2024 and 2025."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We proudly serve Leesburg, Ashburn, Purcellville, Hamilton, Waterford, and the greater Loudoun County and Northern Virginia area. If you are nearby but unsure, give us a call — we are happy to check."
+      "answer": "We proudly serve Leesburg and the greater Loudoun County area in Virginia. If you are nearby and unsure whether we cover your neighborhood, just give us a call -- we are happy to check."
     }
   ],
   "testimonials": [
     {
       "name": "Tracey S.",
-      "context": "Google Review",
+      "context": "Google Review - 5 stars",
       "initials": "TS",
-      "text": "Hands down the best Pool Company out there. Honest, reliable, and exceptionally priced. We would not trust anyone else with our pool."
+      "text": "Hands down the best Pool Company out there. Honest, reliable, and exceptionally priced. We could not be happier with Countryside."
+    },
+    {
+      "name": "Hasan I.",
+      "context": "Google Review - 5 stars",
+      "initials": "HI",
+      "text": "Says what they will do and does what they say. We went from grass to a functioning pool in 8 weeks. Absolutely incredible team."
     },
     {
       "name": "Darcy W.",
-      "context": "Pool Construction Client",
+      "context": "Google Review - 5 stars",
       "initials": "DW",
-      "text": "Our pool is officially complete and the process was seamless. I can 100% say I trust Countryside Pool Services. They delivered exactly what they promised."
-    },
-    {
-      "name": "Charles M.",
-      "context": "3-Year Maintenance Client",
-      "initials": "CM",
-      "text": "This is our third year with Countryside Pools and it has been the best experience we have had vs. two other companies. Gina and Krystle are accessible when you need them. Our pool has been in excellent condition all season."
+      "text": "I can 100% say I trust Countryside Pool Services. Both Albert and Gina are responsive and ensure things are done right. Thank you!"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You Can<br>Count On?",
-    "subtitle": "Get a free, no-obligation evaluation from a family-owned team with 23 years of experience. No contracts, no pressure — just honest pool care from people who care.",
+    "headline": "Ready for a Pool You<br>Can Count On?",
+    "subtitle": "Get a free, no-obligation assessment from Albert and Gina's team. Over 23 years serving Loudoun County -- honest pricing, personal service, and results you can see.",
     "benefits": [
-      "Free on-site pool evaluation",
-      "Response within 48 hours",
-      "Family-owned, local, and fully certified"
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "Back-to-back Best of Leesburg Finalist"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving Loudoun County since 2003.",
-    "service_area": "Serving Leesburg, Loudoun County & Northern Virginia",
+    "description": "Family-owned pool service. Proudly serving Leesburg and Loudoun County since 2003.",
+    "service_area": "Serving Leesburg & Loudoun County, Virginia",
     "services": [
-      "Custom Pool Design & Build",
-      "Full-Service Maintenance",
-      "Pool Renovation",
-      "Equipment Repair",
-      "Seasonal Opening & Closing"
+      "Weekly Maintenance",
+      "Equipment Repairs",
+      "Pool Renovations",
+      "Custom Pool Builds",
+      "Seasonal Services"
     ],
-    "copyright": "&copy; 2026 Countryside Pool Services, LLC. All rights reserved. Leesburg, Virginia."
+    "copyright": "&copy; 2025 Countryside Pool Services, LLC. All rights reserved."
   }
 }
