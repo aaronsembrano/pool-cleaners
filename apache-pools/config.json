@@ -1,0 +1,183 @@
+{
+  "folder_name": "apache-pools",
+  "company_name": "Apache Pools",
+  "tagline": "Are You Ready To Take The Plunge?",
+  "phone": "+1 415-492-3351",
+  "email": "roger@apachepools.com",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "CA License #883450",
+    "badge_2": "4.5/5 from 15+ Reviews",
+    "badge_3": "Family-Owned Since 1993"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 15+ Google Reviews",
+    "badge_2": "Family-Owned Since 1993",
+    "headline": "Your Dream Pool, Built by <span class=\"text-secondary italic\">a Family<br>That Cares</span>",
+    "subheadline": "For over 30 years, North Bay families have trusted Apache Pools to design, build, and restore stunning in-ground pools and spas. From first sketch to first splash, we handle every detail so you can focus on making memories.",
+    "cta_text": "Start My Pool Project",
+    "checkmarks": [
+      "Free on-site consultation",
+      "30+ years of expert craftsmanship",
+      "Serving Marin, Napa & Sonoma"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built & Remodeled",
+    "stat_2_value": "30",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "Counties Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Project Completion Rate"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "From New Builds to Complete<br class=\"hidden md:block\"> Pool Transformations",
+    "subtitle": "Whether you are dreaming of a brand-new pool or breathing life back into an aging one, Apache Pools brings three decades of hands-on expertise to every project in the North Bay.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "We design and construct in-ground pools tailored to your property, lifestyle, and vision. Every detail is planned from concept through the moment you dive in."
+      },
+      {
+        "title": "Spa & Hot Tub Construction",
+        "description": "Standalone or integrated with your pool, our custom spas and hot tubs create the perfect retreat right in your backyard."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Tired pool? We transform it with new surfaces, upgraded equipment, modern coping, and landscape design that turns your backyard into a showpiece."
+      },
+      {
+        "title": "Re-Plastering & Re-Tiling",
+        "description": "Restore your pool's beauty with professional re-plastering and re-tiling using only the best materials available on the market."
+      },
+      {
+        "title": "Pool Repair Services",
+        "description": "From structural cracks to mechanical failures, our repair specialists diagnose and fix issues fast. We started as repair experts and it is still in our DNA."
+      },
+      {
+        "title": "Maintenance & Energy Savings",
+        "description": "Keep your pool in peak condition with ongoing care. Our energy-saving equipment recommendations have cut electric bills in half for our clients."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Pool Project in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your vision. We visit your property, discuss your goals, and provide an honest, detailed estimate with no pressure and no hidden costs."
+      },
+      {
+        "title": "We Design & Build It Right",
+        "description": "Our experienced crew handles every phase of your project on schedule and to specification. You get regular updates and a dedicated point of contact throughout."
+      },
+      {
+        "title": "Dive Into Your New Pool",
+        "description": "Your finished pool is everything you imagined and more. We walk you through maintenance, answer every question, and remain available long after the project is complete."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why North Bay Families Trust Us",
+    "headline": "A Family Business That Treats Your Pool Like Their Own",
+    "description": "Apache Pools is a family-owned company that started as swimming pool repair specialists in 1993. Over three decades, we have grown into full-service pool builders, remodelers, and care experts serving Marin, Napa, and Sonoma Counties. Operating as a division of Peterson Construction and Development Inc., we bring the resources of a professional construction firm with the personal touch of a family that genuinely loves what they do.",
+    "badge": "CA License C53",
+    "features": [
+      {
+        "title": "30+ Years of Hands-On Experience",
+        "description": "Since 1993, we have designed, built, repaired, and remodeled hundreds of pools across the North Bay. Our repair roots give us technical depth that other builders simply lack."
+      },
+      {
+        "title": "On-Time Project Delivery",
+        "description": "We are known for keeping our timeframes. When we give you a completion date, we mean it. Clear communication and meticulous scheduling keep every project on track."
+      },
+      {
+        "title": "Energy-Saving Expertise",
+        "description": "We recommend equipment upgrades that genuinely save money. Our clients regularly report electric bills cut in half after following our recommendations."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written estimate upfront. We quote what it costs, we build what we quote, and we stand behind our work."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "Every Apache Pools project is backed by our commitment to quality craftsmanship and your complete satisfaction. If anything is not up to standard, we come back and make it right at no additional cost. We have staked our family name on this promise for over 30 years."
+  },
+  "faqs": [
+    {
+      "question": "How long does a new pool build take?",
+      "answer": "Most new pool constructions take 8 to 12 weeks depending on design complexity, permits, and weather. We provide a detailed timeline upfront and keep you updated at every milestone. We are known for hitting our deadlines."
+    },
+    {
+      "question": "Do you handle permits and inspections?",
+      "answer": "Yes, we manage all permit applications and coordinate every required inspection. As a licensed California C53 contractor, we know the local requirements for Marin, Napa, and Sonoma Counties inside and out."
+    },
+    {
+      "question": "Can you remodel my existing pool?",
+      "answer": "Absolutely. Pool remodeling is one of our specialties. Whether you need resurfacing, new tile, updated equipment, or a complete design transformation, we can turn a tired pool into a showpiece."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the entire North Bay including Marin County, Napa County, and Sonoma County. From Novato to Santa Rosa to Sebastopol and beyond, we are your local pool experts."
+    },
+    {
+      "question": "How do I get started on my pool project?",
+      "answer": "Just give us a call or fill out the contact form. We will schedule a free on-site consultation, discuss your vision, and provide a detailed written estimate. No pressure, no obligations."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rob Schacter",
+      "context": "Kent Woodlands, CA",
+      "initials": "RS",
+      "text": "Roger turned my yard into an entertainment center. I highly recommend Apache Pools for their attention to details, their creative abilities, and because they are such good people."
+    },
+    {
+      "name": "Tom & Nancy K.",
+      "context": "Santa Rosa, CA",
+      "initials": "TK",
+      "text": "Apache Pools took our tired black bottom pool and made it a showpiece in a timely manner. The transformation was incredible and the process was smooth from start to finish."
+    },
+    {
+      "name": "Tom Boylan",
+      "context": "Windsor, CA",
+      "initials": "TB",
+      "text": "Roger's recommendation literally cut my electric bill in half. I highly recommend Apache Pools for anyone looking for honest, knowledgeable pool professionals."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Pool?",
+    "subtitle": "Get a free, no-pressure consultation and detailed estimate. We have been turning North Bay backyards into personal retreats since 1993.",
+    "benefits": [
+      "Free on-site consultation and estimate",
+      "Response within 24 hours",
+      "30+ years of North Bay experience"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool builders serving the North Bay since 1993.",
+    "service_area": "Serving Marin, Napa & Sonoma Counties",
+    "services": [
+      "Pool Design & Build",
+      "Spa Construction",
+      "Pool Remodeling",
+      "Re-Plastering & Tiling",
+      "Pool Repair"
+    ],
+    "copyright": "&copy; 2024 Apache Pools. All rights reserved. A division of Peterson Construction and Development Inc. CA Lic #883450"
+  },
+  "review_count": "15",
+  "review_rating": "4.5"
+}

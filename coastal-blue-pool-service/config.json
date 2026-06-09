@@ -1,0 +1,183 @@
+{
+  "folder_name": "coastal-blue-pool-service",
+  "company_name": "Coastal Blue Pool Service",
+  "tagline": "You Swim, We Do The Rest!",
+  "phone": "+1 912-346-4714",
+  "email": "Info@coastalbluepools.com",
+  "colors": {
+    "primary": "#1A5F9E",
+    "primary_dark": "#134A7C",
+    "primary_deeper": "#0D365C",
+    "secondary": "#2E8BC0",
+    "cta": "#F5A623",
+    "cta_dark": "#D4901A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "SPPA Member"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "Family-Owned Since 2017",
+    "headline": "Your Savannah Pool, <span class=\"text-secondary italic\">Always Swim-Ready</span>",
+    "subheadline": "You bought a pool to enjoy it, not to spend weekends testing chemicals and scrubbing tiles. Coastal Blue handles everything so the only thing you do is dive in. Every visit includes a photo report so you always know your pool is in expert hands.",
+    "cta_text": "Get My Free Pool Evaluation",
+    "checkmarks": [
+      "Free pool evaluation",
+      "Chemicals included in service",
+      "Photo reports after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "9",
+    "stat_2_label": "Years Serving Savannah",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "5-Star Rated"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a<br class=\"hidden md:block\"> Team That Treats It Like Their Own",
+    "subtitle": "From weekly maintenance to emergency repairs, our industry-trained technicians handle every detail so you can stop worrying and start swimming.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Full-service weekly care including chemical balancing, vacuuming, brushing, skimming, and equipment checks. Every visit ends with an emailed photo report and chemistry log."
+      },
+      {
+        "title": "Bi-Weekly Pool Service",
+        "description": "The same thorough maintenance on a bi-weekly schedule. Ideal for covered pools or seasonal swimmers who want professional care without weekly visits."
+      },
+      {
+        "title": "Equipment Repairs",
+        "description": "Pumps acting up? Heater not firing? Our technicians diagnose and repair pool equipment fast, using top-rated parts from Pentair, Hayward, and Zodiac."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise testing and balancing that keeps your water crystal clear, safe, and gentle on skin. Basic maintenance chemicals are always included in your plan."
+      },
+      {
+        "title": "Equipment & Product Sales",
+        "description": "We supply and install premium equipment from Pentair, Zodiac, Polaris, Raypak, and Hayward. Get expert recommendations matched to your pool's specific needs."
+      },
+      {
+        "title": "Filter & System Maintenance",
+        "description": "Routine filter cleaning, pump basket clearing, and full system inspections to prevent costly breakdowns and keep your pool running at peak efficiency."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Evaluation",
+        "description": "Tell us about your pool and we'll come out, inspect everything, and give you an honest recommendation with straightforward pricing. No pressure, no obligations."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our licensed, industry-trained technicians arrive on your scheduled day. Cleaning, chemicals, equipment checks, and a detailed photo report emailed to you after every visit."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays sparkling and swim-ready all year long. You get peace of mind knowing a family-owned team with 9 years of local experience has your back."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Savannah Trusts Us",
+    "headline": "Family-Owned, Community-Rooted Pool Care Since 2017",
+    "description": "Coastal Blue Pool Service was built on a simple promise: treat every pool like it's our own. As a locally owned and family-operated business serving Savannah for 9 years, we've earned the trust of homeowners across The Landings, Wilmington Island, and Pooler through honest communication, dependable scheduling, and results you can see after every single visit.",
+    "badge": "SPPA Certified",
+    "features": [
+      {
+        "title": "Licensed & Insured Technicians",
+        "description": "Every technician on our team is fully licensed, insured, and trained to national industry standards before they ever touch your pool."
+      },
+      {
+        "title": "Photo Reports After Every Visit",
+        "description": "You'll receive an emailed summary with photos and chemistry records after each service so you always know exactly what was done."
+      },
+      {
+        "title": "Chemicals Included, No Surprises",
+        "description": "Basic maintenance chemicals are included in your service plan. No hidden fees, no surprise charges on your bill."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Chemicals Included.",
+    "subtitle": "Choose the plan that fits your pool. Every plan includes chemicals, photo reports, and equipment checks. No hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If your pool isn't crystal clear and swim-ready after any service visit, call us and we'll come back to make it right at no extra charge. We've built our reputation on dependable results, and we stand behind every single visit with a guarantee that puts your satisfaction first."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in Savannah, The Landings, Wilmington Island, and Pooler are scheduled within 3-5 business days. Contact us and we'll find a day that works with your schedule."
+    },
+    {
+      "question": "Are chemicals included in the service?",
+      "answer": "Yes! Basic maintenance chemicals are included in every weekly and bi-weekly service plan. You won't see surprise chemical charges on your bill. For specialty treatments beyond routine balancing, we'll always discuss costs upfront."
+    },
+    {
+      "question": "Do I get updates after each visit?",
+      "answer": "Absolutely. After every service visit, we email you a detailed summary with photos and chemistry records. You'll always know exactly what was done and how your pool's water quality is trending."
+    },
+    {
+      "question": "What brands of equipment do you use?",
+      "answer": "We exclusively use top-rated brands including Pentair, Zodiac, Polaris, Raypak, and Hayward. These are the most reliable names in the industry, and we can supply, install, and repair all of them."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. Your emailed photo report after each visit gives you complete visibility into what was done."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Savannah Homeowner",
+      "context": "Nextdoor Recommendation",
+      "initials": "SH",
+      "text": "Coastal Blue Pool Service has been a standout choice for our pool maintenance. After spotty experiences with other pool companies, they deliver consistent, reliable results every single time. Highly recommend them to anyone in the Savannah area."
+    },
+    {
+      "name": "Wilmington Island Resident",
+      "context": "Local Review",
+      "initials": "WI",
+      "text": "They keep our pool in perfect condition year-round. The emailed reports with photos after every visit give us total peace of mind. Professional, honest, and always on schedule."
+    },
+    {
+      "name": "Pooler Family",
+      "context": "Community Recommendation",
+      "initials": "PF",
+      "text": "We switched to Coastal Blue two years ago and haven't looked back. Their technicians are knowledgeable, friendly, and treat our pool like it's their own. The best pool service in the area hands down."
+    }
+  ],
+  "review_count": "15",
+  "review_rating": "5.0",
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-obligation pool evaluation from Savannah's most trusted family-owned pool service. We'll inspect your pool and give you honest, straightforward pricing.",
+    "benefits": [
+      "Free pool evaluation with every quote",
+      "Response within 24 hours",
+      "Chemicals included in every plan"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving the Savannah area since 2017.",
+    "service_area": "Serving Savannah, The Landings, Wilmington Island, Whitemarsh Island & Pooler",
+    "services": [
+      "Weekly Maintenance",
+      "Bi-Weekly Service",
+      "Equipment Repairs",
+      "Equipment Sales",
+      "Filter Maintenance"
+    ],
+    "copyright": "&copy; 2026 Coastal Blue Pool Service. All rights reserved. Licensed & Insured."
+  }
+}

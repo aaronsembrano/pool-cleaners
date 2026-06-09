@@ -1,0 +1,183 @@
+{
+  "folder_name": "clearwater-pool-service",
+  "company_name": "Clearwater Pool Service",
+  "tagline": "Swimming Pool Renovation, Repair & Maintenance in Charlotte NC and Fort Mill SC",
+  "phone": "+1 704-201-7434",
+  "email": "tom.cornelius@clearwaterpoolservicesftmill.com",
+  "review_count": "179",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5C",
+    "secondary": "#00B4D8",
+    "cta": "#F4A261",
+    "cta_dark": "#D88B4A"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.6/5 from 179+ Reviews",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 179+ Google Reviews",
+    "badge_2": "No Contracts — Ever",
+    "headline": "30 Years Keeping Pools <span class=\"text-secondary italic\">Crystal<br>Clear</span>",
+    "subheadline": "Charlotte's largest pool service provider has been earning families' trust since 1996. From weekly maintenance to full renovations — we handle it all so you just dive in.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Service starts within days",
+      "No contracts, cancel anytime"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since '96",
+    "stat_2_value": "30",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "179",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From routine maintenance to major renovations, our team of dedicated professionals handles every aspect of pool care so you can focus on enjoying your backyard.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Chemical balancing, skimming, vacuuming, and filter cleaning on a flexible schedule. No binding contracts — just consistently swim-ready water."
+      },
+      {
+        "title": "Pool Renovation",
+        "description": "Re-plastering, acid washing, deck staining, coping repairs, tile replacement, and hot tub upgrades to restore your pool to like-new condition."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert diagnosis and repair of filters, pumps, heaters, heat pumps, and automatic cleaners. We keep your pool systems running at peak efficiency."
+      },
+      {
+        "title": "Vinyl Liner Replacement",
+        "description": "Professional liner installation to fix tears, fading, or aging vinyl. Give your pool a fresh, clean look that lasts for years."
+      },
+      {
+        "title": "Deck Resurfacing",
+        "description": "Restore worn or damaged pool decks with expert resurfacing and staining. Improve safety and curb appeal around your entire pool area."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Thorough assessments of equipment, structure, and water chemistry — ideal for new homeowners, seasonal openings, or before buying a home with a pool."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We'll provide an honest, no-pressure quote — usually within 24 hours. No contracts, no commitments."
+      },
+      {
+        "title": "We Take Care of It All",
+        "description": "Our experienced team arrives on schedule and handles everything — cleaning, chemicals, equipment checks, repairs. Three decades of expertise in every visit."
+      },
+      {
+        "title": "Enjoy Your Pool Worry-Free",
+        "description": "Your pool stays crystal clear and swim-ready all season. And if you ever need anything adjusted, one call is all it takes — we stand behind our work."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Charlotte Trusts Us",
+    "headline": "Family-Owned Since 1996 — Charlotte's Largest Pool Service",
+    "description": "When Tom Cornelius started Clearwater Pool Service nearly 30 years ago, the goal was simple: treat every pool like it was his own. That family-first philosophy turned a one-man operation into the Charlotte region's largest pool service provider. Today, our team of 7 dedicated professionals still operates with those same values — honest pricing, reliable service, and the kind of thorough care that only comes from people who truly love what they do.",
+    "badge": "BBB A+ Accredited",
+    "features": [
+      {
+        "title": "No Contracts. No Surprises.",
+        "description": "We earn your business every single visit. Flexible weekly or one-time service with no binding agreements and no cancellation fees."
+      },
+      {
+        "title": "Nearly 30 Years of Expertise",
+        "description": "Since 1996, we've handled everything from routine cleanings to complete renovations. There's no pool problem we haven't solved."
+      },
+      {
+        "title": "On-Site Pool Supply Store",
+        "description": "Need chemicals or equipment between visits? Our retail store stocks top brands like Aquabrite and Natural Chemistry for all your pool needs."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Hidden Fees.",
+    "subtitle": "Choose weekly maintenance, one-time service, or anything in between. No contracts lock you in — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right — at no extra charge. We've been building trust in the Charlotte area for 30 years, and we're not about to stop now. Your satisfaction is our reputation."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. If you have an urgent situation like a green pool, call us directly and we'll do our best to get out there fast."
+    },
+    {
+      "question": "Do I need to sign a contract?",
+      "answer": "Absolutely not. Clearwater has never required contracts in nearly 30 years. We offer flexible service from weekly maintenance to one-time cleanings — you choose what works for you, and you can cancel anytime."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Fort Mill SC, Charlotte NC, Waxhaw NC, Matthews NC, Weddington NC, and Indian Land SC. If you're in the greater Charlotte metro area, chances are we can help."
+    },
+    {
+      "question": "Do you sell pool supplies and equipment?",
+      "answer": "Yes! We have an on-site retail store stocked with top-quality pool chemicals, water testing equipment, ladders, safety supplies, and more from trusted brands like Aquabrite and Natural Chemistry."
+    },
+    {
+      "question": "Can you renovate or repair my existing pool?",
+      "answer": "Absolutely. We handle everything from minor pump repairs to full renovations including re-plastering, tile replacement, deck resurfacing, and vinyl liner installations. Call us for a free assessment."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Happy Homeowner",
+      "context": "Pool restoration",
+      "initials": "HH",
+      "text": "My pool was a mess — greener than the yard! Thanks to Clearwater Pool Service they got it up and running in just 8 hours. The owner and staff were incredibly friendly and professional."
+    },
+    {
+      "name": "Loyal Customer",
+      "context": "Weekly maintenance",
+      "initials": "LC",
+      "text": "I've told my friends and family about Clearwater and now they all get their pools serviced weekly too. Really awesome service — consistent, reliable, and fairly priced."
+    },
+    {
+      "name": "New Pool Owner",
+      "context": "First-time customer",
+      "initials": "NP",
+      "text": "The team was fantastic from start to finish. Staff members were prompt and helpful, offering pool care training and explaining services thoroughly so we felt confident as new pool owners."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Practically Cares for Itself?",
+    "subtitle": "Get a free, no-pressure quote from Charlotte's most trusted pool service. Nearly 30 years of experience, no contracts, and a team that treats your pool like their own.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours",
+      "No contracts — flexible service always"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Charlotte and Fort Mill since 1996.",
+    "service_area": "Serving Fort Mill SC, Charlotte NC, Waxhaw, Matthews, Weddington & Indian Land",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Renovation",
+      "Equipment Repair",
+      "Vinyl Liner Replacement",
+      "Deck Resurfacing"
+    ],
+    "copyright": "&copy; 2026 Clearwater Pool Service. All rights reserved."
+  }
+}
