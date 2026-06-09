@@ -1,75 +1,75 @@
 {
   "folder_name": "corpus-christi-swimming-pools",
-  "company_name": "Corpus Christi Swimming Pools & Spas",
+  "company_name": "Corpus Christi Swimming Pools And Spas",
   "tagline": "#1 Pool Cleaning & Repair in Corpus Christi",
-  "phone": "+1 361-600-8942",
-  "email": "letsswim@corpuschristiswimmingpools.com",
+  "phone": "(361) 600-8942",
+  "email": "Letsswim@corpuschristiswimmingpools.com",
   "logo_path": "logo.png",
   "review_count": "106",
   "review_rating": "4.8",
   "colors": {
-    "primary": "#0ea5e9",
-    "primary_dark": "#0c7bb8",
-    "primary_deeper": "#0a5a85",
-    "secondary": "#1e3a5f",
+    "primary": "#1e3a5f",
+    "primary_dark": "#152a45",
+    "primary_deeper": "#0d1b2e",
+    "secondary": "#0ea5e9",
     "cta": "#f59e0b",
     "cta_dark": "#d97706"
   },
   "trust_badges": {
-    "badge_1": "Hayward & Pentair Authorized",
+    "badge_1": "Hayward & Pentair Certified",
     "badge_2": "4.8/5 from 106+ Reviews",
-    "badge_3": "Free Estimates"
+    "badge_3": "1-Hour Response Time"
   },
   "hero": {
     "badge_1": "4.8/5 from 106+ Google Reviews",
-    "badge_2": "Free Estimates - 1 Hour Response",
-    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Corpus Christi<br>Best</span>",
-    "subheadline": "Stop stressing over green water, broken pumps, and unreliable pool guys. Corpus Christi Swimming Pools & Spas delivers same-day service, free estimates with a 1-hour response, and a 100% satisfaction guarantee. You just enjoy the swim.",
-    "cta_text": "Get My Free Estimate Now",
+    "badge_2": "Serving Corpus Christi Since 2018",
+    "headline": "Crystal Clear Pools <span class=\"text-secondary italic\">Within<br>One Hour</span>",
+    "subheadline": "Your pool should be the best part of your home, not another chore on your list. Corpus Christi Swimming Pools & Spas handles every detail from weekly cleaning to complex repairs so you can skip the hassle and just enjoy the water.",
+    "cta_text": "Get My Free Estimate Today",
     "checkmarks": [
-      "Free estimate within 1 hour",
-      "Same-day emergency service",
-      "100% satisfaction guaranteed"
+      "Free estimate with 10% online discount",
+      "1-hour response time guaranteed",
+      "All chemicals included"
     ]
   },
   "stats": {
     "stat_1_value": "106",
-    "stat_1_label": "5-Star Reviews",
+    "stat_1_label": "Five-Star Reviews",
     "stat_2_value": "8",
-    "stat_2_label": "Years in Corpus Christi",
-    "stat_3_value": "3000",
-    "stat_3_label": "Service Calls Completed",
+    "stat_2_label": "Years Serving CC",
+    "stat_3_value": "1500",
+    "stat_3_label": "Pools Serviced",
     "stat_4_value": "100%",
-    "stat_4_label": "Satisfaction Guarantee"
+    "stat_4_label": "Satisfaction Guaranteed"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> for Coastal Texas",
-    "subtitle": "From weekly maintenance to full renovations, we handle every aspect of pool and spa ownership so you can focus on making memories in your backyard.",
+    "headline": "Full-Service Pool & Spa Care<br class=\"hidden md:block\"> for Coastal Texas",
+    "subtitle": "From weekly maintenance with chemicals included to emergency repairs with a 1-hour response, we keep your pool and spa running perfectly so you never miss a swim day.",
     "cards": [
       {
         "title": "Weekly Pool Service",
-        "description": "Comprehensive weekly maintenance including skimming, brushing, vacuuming, equipment checks, and chemical balancing to keep your pool crystal clear year-round."
+        "description": "Complete weekly care including skimming, brushing, vacuuming, chemical balancing, and equipment checks. All chemicals are included so you never have to buy a thing."
       },
       {
-        "title": "Pool & Hot Tub Repair",
-        "description": "Expert repair for pumps, filters, heaters, leaks, and hot tub systems. Fast diagnostics, same-day response, and most repairs completed in one visit."
+        "title": "Pool & Equipment Repairs",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and plumbing. Most issues resolved same-visit with our 1-hour response time guarantee."
       },
       {
         "title": "Green to Clean Recovery",
-        "description": "Neglected pool turned swamp green? We restore it to sparkling blue in days. Emergency same-day response available for urgent situations."
+        "description": "Neglected pool turned swamp green? We restore it to crystal-clear, swim-ready condition fast. Emergency same-day response available for urgent cases."
       },
       {
-        "title": "Leak Detection",
-        "description": "Advanced leak detection for pool plumbing, shells, and equipment. We find the problem fast before it causes expensive structural damage."
+        "title": "Hot Tub & Spa Repairs",
+        "description": "Specialized repair services for hot tubs and spas covering heating, circulation, jets, and electrical issues. We get your relaxation spot back online quickly."
       },
       {
-        "title": "Pool Renovation",
-        "description": "Complete pool transformations with new finishes, tile, coping, and modern features. Turn your tired pool into a coastal backyard oasis."
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak detection technology to pinpoint leaks in plumbing, shells, and equipment before they cause expensive damage to your property."
       },
       {
-        "title": "Equipment Installation",
-        "description": "Professional installation and upgrades of Hayward and Pentair pumps, heaters, filters, and automation systems for peak pool performance."
+        "title": "Pool Renovation & Upgrades",
+        "description": "Transform your aging pool with new finishes, smart automation from Hayward and Pentair, LED lighting, and modern equipment upgrades."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Call or Text for a Free Estimate",
-        "description": "Reach out and tell us about your pool. We respond within 1 hour with a free, no-pressure estimate. No contracts, no commitments required."
+        "title": "Request Your Free Estimate",
+        "description": "Fill out our online form for a free estimate and an automatic 10% discount. We respond within one hour and schedule a convenient time to inspect your pool."
       },
       {
-        "title": "We Show Up On Time, Every Time",
-        "description": "Owner Denali and his trained team arrive on schedule with Hayward and Pentair parts on hand. We handle everything from cleaning to complex repairs."
+        "title": "We Handle Every Detail",
+        "description": "Our Hayward and Pentair certified technicians arrive on time, every time. Cleaning, chemicals, equipment checks, and repairs are all covered with zero surprises."
       },
       {
-        "title": "Dive Into Your Perfect Pool",
-        "description": "Your pool stays crystal clear and swim-ready all year. If anything is not right, we come back and fix it at no charge. That is our 100% satisfaction guarantee."
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready year-round. If anything is ever less than perfect, we come back and make it right at no charge. That is our guarantee."
       }
     ]
   },
   "about": {
     "label": "Why Corpus Christi Trusts Us",
-    "headline": "Owner-Operated, Community-Driven Pool Care Since 2018",
-    "description": "Founded by Denali in 2018, Corpus Christi Swimming Pools & Spas was built on a simple promise: show up on time, do the job right, and treat every customer like family. As an authorized Hayward and Pentair service provider, we bring dealer-level expertise to every backyard in the Coastal Bend. From Padre Island to Port Aransas, our team covers a 2-hour radius for repairs and delivers personalized attention that big companies simply cannot match.",
-    "badge": "Hayward & Pentair Authorized",
+    "headline": "8 Years of Keeping Coastal Texas Pools Perfect",
+    "description": "Founded in 2018, Corpus Christi Swimming Pools & Spas was built to deliver pool care that actually lives up to its promises. Our team handles everything from weekly maintenance to full renovations across a 2-hour radius for repairs and a 15-mile radius for weekly cleaning. We serve Corpus Christi, Padre Island, Port Aransas, and surrounding communities with the same dedication and attention to detail that earned us a 4.8-star rating from over 106 homeowners.",
+    "badge": "Hayward & Pentair Certified",
     "features": [
       {
-        "title": "Always On Time, Guaranteed",
-        "description": "We built our reputation on punctuality. When we say we will be there, we show up. Every visit, every time, no excuses."
+        "title": "1-Hour Response Time Guarantee",
+        "description": "When your pool has a problem, waiting days is not an option. We guarantee a response within 60 minutes so issues get resolved before they get expensive."
       },
       {
-        "title": "Free Estimates, 1-Hour Response",
-        "description": "Get a free, honest estimate within an hour of your call. No pressure, no hidden fees, and no surprises on your invoice."
+        "title": "All Chemicals Included",
+        "description": "No hidden costs and no trips to the pool store. Every weekly service includes all the chemicals your pool needs to stay balanced and swim-ready."
       },
       {
         "title": "100% Satisfaction Promise",
-        "description": "Not happy with any service visit? We come back and make it right at no charge. Your satisfaction is not negotiable for us."
+        "description": "Not happy with any visit? We come back and redo it at no charge. We also offer weekend availability for urgent service when you need us most."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Surprises.",
-    "subtitle": "Pick a plan that fits your pool. Upgrade, downgrade, or cancel anytime. No contracts, no cancellation fees."
+    "headline": "Transparent Pricing. Chemicals Included.",
+    "subtitle": "Choose the service plan that fits your pool. Get 10% off when you request your estimate online. No contracts, cancel anytime."
   },
   "guarantee": {
-    "headline": "Our 100% Satisfaction Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at absolutely no charge. Denali personally stands behind every job. We do not consider the work done until you are thrilled with the result."
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will return to make it right at absolutely no charge. We back every job with a 1-hour response time and weekend availability because your pool does not take days off and neither do we. That is the Corpus Christi Swimming Pools & Spas promise."
   },
   "faqs": [
     {
-      "question": "How fast can you come out for a repair?",
-      "answer": "We offer same-day emergency service and respond to all repair requests within 1 hour. For weekly cleaning, most new clients are scheduled within 3-5 business days. Just call or text and we will work around your schedule."
+      "question": "How quickly can you start weekly pool service?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies or urgent repairs, we guarantee a 1-hour response time. Call us or fill out the online form and we will get back to you fast."
     },
     {
-      "question": "Do you service hot tubs and spas too?",
-      "answer": "Absolutely. We specialize in hot tub repairs including heating, circulation, and power issues. As authorized Hayward and Pentair dealers, we carry the parts needed for most spa repairs and can often fix them in a single visit."
+      "question": "Are chemicals included with weekly service?",
+      "answer": "Yes, all chemicals are included with every weekly service plan. You never need to buy, store, or handle pool chemicals yourself. We bring everything needed to keep your water perfectly balanced."
     },
     {
-      "question": "How far out do you service?",
-      "answer": "We cover a 2-hour radius from Corpus Christi for repairs, including Padre Island, Port Aransas, Aransas Pass, Rockport, Calallen, and Odem. For weekly pool cleaning, we service within a 15-mile radius of Corpus Christi."
+      "question": "What areas do you serve around Corpus Christi?",
+      "answer": "We cover a 15-mile radius for weekly cleaning services including Corpus Christi, Padre Island, and Calallen. For repairs, we service a 2-hour radius including Port Aransas, Aransas Pass, Rockport, and Odem."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "Never. We do not believe in locking you into contracts. You can cancel anytime with zero fees or penalties. We earn your business every single visit with great service and fair pricing."
+      "question": "Do you work on hot tubs and spas too?",
+      "answer": "Absolutely. We specialize in hot tub and spa repairs including heating issues, circulation problems, jet replacements, and electrical diagnostics. We service all major brands."
     },
     {
-      "question": "What brands of equipment do you install and repair?",
-      "answer": "We are authorized dealers for both Hayward and Pentair, the two most trusted names in pool equipment. We install and service pumps, heaters, filters, salt systems, and automation from both brands."
+      "question": "What if I just need a one-time cleaning?",
+      "answer": "We offer single-visit deep cleaning services for pools that need a thorough cleanup without a weekly commitment. This includes skimming, vacuuming, brushing, and full chemical balancing. Request your free estimate online for a 10% discount."
     }
   ],
   "testimonials": [
     {
       "name": "Visanne G.",
-      "text": "Great service! Luis did an amazing job! He's the definition of great customer service and cleanliness while working!",
-      "context": "Google Review",
-      "initials": "VG"
+      "context": "Pool Service",
+      "initials": "VG",
+      "text": "Great service! Luis did an amazing job. He is the definition of great customer service and cleanliness while working. Our pool has never looked better and we could not be happier with the results."
     },
     {
       "name": "Orlando A.",
-      "text": "Salo was wonderful, he was a kind gentleman that greeted me with a smile that showed passion and professionalism. I definitely recommend this pool service.",
-      "context": "Google Review",
-      "initials": "OA"
+      "context": "Pool Service",
+      "initials": "OA",
+      "text": "Salo was wonderful. He greeted me with a smile that showed real passion and professionalism. The entire team at Corpus Christi Swimming Pools makes you feel like a valued customer every single visit."
     },
     {
-      "name": "Verified Customer",
-      "text": "CC Pools & Spas saved my pool pump and plumbing during the recent freeze. Denali came out the same day and fixed everything. He walked me through how to set up my pump and heater as a new homeowner.",
-      "context": "Emergency Repair Client",
-      "initials": "VC"
+      "name": "Joe O.",
+      "context": "Pool Repair",
+      "initials": "JO",
+      "text": "Denali was great. Super friendly and knowledgeable. They diagnosed our pump issue fast and had it fixed the same day. Highly recommend for anyone needing reliable pool repairs in the Corpus Christi area."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Never Worry About?",
-    "subtitle": "Get a free estimate within 1 hour. No contracts, no pressure, just honest pricing from a local team that has served the Coastal Bend since 2018.",
+    "headline": "Ready for a Pool That<br>Stays Perfect?",
+    "subtitle": "Get a free estimate and 10% off when you submit online. We respond within 1 hour, no contracts, no commitments — just honest pool care from a team Corpus Christi trusts.",
     "benefits": [
-      "Free estimate with 1-hour response time",
-      "Same-day emergency service available",
-      "100% satisfaction guaranteed on every visit"
+      "Free estimate with 10% online discount",
+      "1-hour response time guaranteed",
+      "100% satisfaction on every service"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool & spa service. Proudly serving the Coastal Bend since 2018.",
-    "service_area": "Serving Corpus Christi, Padre Island, Port Aransas & the Coastal Bend",
+    "description": "Expert pool and spa services. Proudly serving Corpus Christi since 2018.",
+    "service_area": "Serving Corpus Christi, Padre Island, Port Aransas, Calallen & Surrounding Areas",
     "services": [
       "Weekly Pool Service",
-      "Pool & Spa Repair",
+      "Pool & Spa Repairs",
       "Green to Clean",
       "Leak Detection",
-      "Equipment Installation"
+      "Pool Renovation"
     ],
-    "copyright": "&copy; 2024 Corpus Christi Swimming Pools & Spas. All rights reserved."
+    "copyright": "&copy; 2024 Corpus Christi Swimming Pools And Spas. All rights reserved. Hayward & Pentair Certified"
   }
 }

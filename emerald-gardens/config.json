@@ -5,31 +5,31 @@
   "phone": "+1 225-413-4295",
   "email": "rroth@emeraldgardens.com",
   "logo_path": "logo.png",
-  "review_count": "25",
-  "review_rating": "4.8",
+  "review_count": "20",
+  "review_rating": "4.9",
   "colors": {
     "primary": "#2E7D32",
     "primary_dark": "#1B5E20",
     "primary_deeper": "#0D3B12",
     "secondary": "#66BB6A",
-    "cta": "#F9A825",
-    "cta_dark": "#F57F17"
+    "cta": "#E65100",
+    "cta_dark": "#BF360C"
   },
   "trust_badges": {
     "badge_1": "Licensed & Insured Since 1995",
-    "badge_2": "4.8/5 from 25+ Reviews",
+    "badge_2": "4.9/5 from 20+ Reviews",
     "badge_3": "Free Design Consultations"
   },
   "hero": {
-    "badge_1": "4.8/5 from 25+ Google Reviews",
-    "badge_2": "Serving Louisiana Since 1995",
-    "headline": "Your Dream Landscape <span class=\"text-secondary italic\">Designed &<br>Built to Last</span>",
-    "subheadline": "Your outdoor space should be the best part of coming home. With over 30 years of expertise and 3D design technology, Emerald Gardens transforms ordinary yards into extraordinary landscapes -- so you can enjoy every moment outside.",
+    "badge_1": "4.9/5 from 20+ Google Reviews",
+    "badge_2": "30+ Years of Excellence",
+    "headline": "Your Dream Landscape, <span class=\"text-secondary italic\">Designed &<br>Built to Last</span>",
+    "subheadline": "Your outdoor space should inspire you every time you step outside. For over 30 years, Emerald Gardens has been transforming yards across Southeast Louisiana into stunning, personalized landscapes. We handle design, installation, and maintenance so you simply enjoy the view.",
     "cta_text": "Get My Free Consultation",
     "checkmarks": [
       "Free onsite consultation",
       "3D design previews included",
-      "Licensed & certified team"
+      "Licensed & insured professionals"
     ]
   },
   "stats": {
@@ -43,33 +43,33 @@
     "stat_4_label": "Client Satisfaction"
   },
   "services": {
-    "label": "What We Do",
-    "headline": "Full-Service Landscaping That<br class=\"hidden md:block\"> Transforms Your Property",
-    "subtitle": "From design to installation to ongoing care, Emerald Gardens handles every detail so you get the outdoor space you have always wanted without the stress.",
+    "label": "Our Services",
+    "headline": "Complete Landscape Solutions<br class=\"hidden md:block\"> From Design to Maintenance",
+    "subtitle": "Stop imagining the perfect outdoor space and start living in it. From concept sketches to weekly upkeep, our four-licensed team handles every detail so you can enjoy your property year-round.",
     "cards": [
       {
         "title": "Landscape Design",
-        "description": "Free onsite consultations with state-of-the-art 2D and 3D design technology. We create color renderings and detailed proposals tailored to your vision and budget."
+        "description": "Free onsite consultations with state-of-the-art 3D design technology, color renderings, and detailed itemized proposals that bring your vision to life before a single plant goes in the ground."
       },
       {
         "title": "Landscape Installation",
-        "description": "Complete outdoor transformations including plantings, hardscapes, grading, and drainage solutions for residential and commercial properties across Southeast Louisiana."
+        "description": "Professional installation of plants, trees, shrubs, sod, flower beds, and hardscape elements. Every project is tailored to your property, lifestyle, and budget."
       },
       {
         "title": "Night Lighting",
-        "description": "Professional outdoor lighting design and installation that enhances curb appeal, safety, and ambiance throughout your landscape year-round."
-      },
-      {
-        "title": "Irrigation Systems",
-        "description": "Custom irrigation system design, installation, and maintenance to keep your landscape healthy and thriving through every Louisiana season."
+        "description": "Custom outdoor lighting design that enhances curb appeal, adds safety, and showcases your landscape beautifully after dark. LED and low-voltage options available."
       },
       {
         "title": "Outdoor Kitchens & Living",
-        "description": "Custom-designed outdoor kitchens, pergolas, decks, and arbors that extend your living space and create the perfect setting for entertaining."
+        "description": "Custom outdoor kitchens, pergolas, decks, and arbors designed to extend your living space into the backyard. Perfect for entertaining family and friends."
+      },
+      {
+        "title": "Irrigation Systems",
+        "description": "Efficient irrigation design and installation that keeps your landscape healthy and thriving year-round while conserving water and reducing your utility bills."
       },
       {
         "title": "Lawn Maintenance",
-        "description": "Comprehensive maintenance programs including mowing, edging, mulching, pruning, seasonal flowers, fertilization, and weed control to keep your landscape pristine."
+        "description": "Comprehensive weekly care including mowing, edging, blowing, mulching, pruning, seasonal flowers, fertilization, and complete insect and weed control programs."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Three Steps to Your Dream Landscape",
     "steps": [
       {
-        "title": "Free Onsite Consultation",
-        "description": "We visit your property, listen to your vision, and assess the space. Using our 3D design technology, we show you exactly what your new landscape will look like before any work begins."
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your property and vision. We visit your site, listen to your ideas, and provide an honest, no-pressure conversation about what is possible within your budget."
       },
       {
-        "title": "Expert Design & Installation",
-        "description": "Our licensed horticulturists and landscape contractors bring your vision to life with expert plant selection, precision grading, and quality craftsmanship on every detail."
+        "title": "Review Your 3D Design",
+        "description": "Our LSU-trained designer creates detailed 3D renderings so you can see your new landscape before we break ground. We refine the design until it is exactly what you want."
       },
       {
-        "title": "Enjoy Your Outdoor Oasis",
-        "description": "Your landscape is complete and stunning. Choose ongoing maintenance to keep it looking its best, or simply relax and enjoy every season in your transformed outdoor space."
+        "title": "Watch It Come to Life",
+        "description": "Our licensed crews install everything with superior craftsmanship. From first plant to final walkthrough, we stay in constant communication and stand behind every detail."
       }
     ]
   },
   "about": {
-    "label": "Why Homeowners Choose Us",
-    "headline": "30+ Years of Turning Yards Into Living Spaces",
-    "description": "Founded in 1995, Emerald Gardens is a family-run landscape firm serving Baton Rouge, New Orleans, and all of Southeast Louisiana. Owner Ricky Roth personally oversees every project, building one-on-one relationships with each client rather than chasing volume. Our licensed horticulturists bring superior plant knowledge, and our 3D design technology lets you see your finished landscape before a single shovel hits the ground.",
-    "badge": "Licensed Horticulturist",
+    "label": "Why Louisiana Trusts Us",
+    "headline": "Not Just Landscapers — Your Landscape Architecture Partners",
+    "description": "Founded in 1995 by Ricky Roth, an LSU-trained Landscape Architect, Emerald Gardens has spent over 30 years transforming properties from Baton Rouge to New Orleans. We hold four professional licenses and use cutting-edge 3D design technology. But what truly sets us apart is our commitment to one-on-one relationships. Every client works directly with our team, and every project reflects your unique vision and budget.",
+    "badge": "4x Licensed Professional",
     "features": [
       {
-        "title": "Licensed & Certified Professionals",
-        "description": "Louisiana Licensed Landscape Contractor, Horticulturist, Chemical Applicator, and General Contractor. Every credential your project demands."
+        "title": "LSU-Trained Design Expertise",
+        "description": "Our founder brings a Landscape Architecture background from LSU, combining artistic vision with horticultural science for designs that thrive in Louisiana's climate."
       },
       {
-        "title": "3D Design Technology",
-        "description": "See your finished landscape before installation begins. Our state-of-the-art design tools eliminate guesswork and ensure you love the result."
+        "title": "Four Professional Licenses",
+        "description": "Licensed Landscape Contractor, Horticulturist, Chemical Applicator, and General Contractor. That depth of expertise means your project is handled right from every angle."
       },
       {
-        "title": "Personalized Client Relationships",
-        "description": "We focus on quality over quantity. Every client gets one-on-one attention from consultation through completion and beyond."
+        "title": "Satisfaction Guaranteed",
+        "description": "We maintain one-on-one client relationships because your happiness matters. If something is not right, we make it right. That has been our promise for 30+ years."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every proposal is detailed and itemized. You know exactly what you are getting and what it costs -- before any work begins."
+    "subtitle": "Every proposal is itemized and detailed. You know exactly what you are getting and what it costs before we begin."
   },
   "guarantee": {
-    "headline": "Our \"Landscape for Life\" Guarantee",
-    "description": "If any plant we install does not thrive within the warranty period, we replace it at no charge. We stand behind our work because we choose every plant, material, and technique with long-term success in mind. Your satisfaction is not negotiable -- it is the foundation of our 30-year reputation."
+    "headline": "Our \"Superior Workmanship\" Guarantee",
+    "description": "If you are not completely satisfied with any aspect of our work, we will return and make it right at no additional charge. With over 30 years of reputation on the line, we do not cut corners. Every plant, every stone, every detail is backed by our commitment to excellence. Your landscape investment is protected."
   },
   "faqs": [
     {
       "question": "How does the design process work?",
-      "answer": "It starts with a free onsite consultation where we listen to your ideas, assess your property, and discuss your budget. We then create detailed 2D and 3D renderings so you can visualize the finished landscape before we begin. The entire process is collaborative and tailored to you."
+      "answer": "It starts with a free onsite consultation where we discuss your vision, budget, and property. From there, we create detailed 2D and 3D renderings so you can see your landscape before installation begins. We refine the design with your feedback until it is perfect."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve Baton Rouge, New Orleans, Gonzales, and the greater Southeast Louisiana region. We have been serving this area for over 30 years, so we know the local soil, climate, and plant varieties that thrive here."
+      "answer": "We serve Gonzales, Baton Rouge, New Orleans, and communities throughout Southeast Louisiana. We have been covering this region for over 30 years, so we know the local soil, climate, and plant species inside and out."
     },
     {
-      "question": "Are your contractors licensed?",
-      "answer": "Yes. Emerald Gardens holds a Louisiana Licensed Landscape Contractor license, Licensed Horticulturist certification, Licensed Chemical Applicator certification, and a Louisiana General Contractor license. We carry full insurance on every project."
+      "question": "Do you handle both installation and maintenance?",
+      "answer": "Absolutely. We are a full-service firm. We design, install, and maintain landscapes. Many of our clients start with a design project and then continue with our weekly maintenance program to keep everything looking its best year-round."
     },
     {
-      "question": "Do you offer ongoing maintenance?",
-      "answer": "Absolutely. We offer comprehensive maintenance programs including mowing, edging, mulching, pruning, seasonal flower rotations, fertilization, and insect and weed control. Many of our installation clients choose ongoing care to protect their investment."
+      "question": "What makes Emerald Gardens different from other landscapers?",
+      "answer": "Our founder holds a degree in Landscape Architecture from LSU, and we carry four professional licenses. We use 3D design technology so you see your landscape before it is built. Plus, we maintain one-on-one relationships with every client rather than passing you off to a call center."
     },
     {
-      "question": "How long does a typical project take?",
-      "answer": "It depends on scope. A simple landscape refresh might take a few days, while a full property transformation with hardscapes and outdoor kitchens can take several weeks. We provide a clear timeline during the design phase so you always know what to expect."
+      "question": "How long does a typical landscape project take?",
+      "answer": "It depends on the scope. A simple planting project may take a few days, while a full outdoor living space with kitchen, lighting, and irrigation can take several weeks. We provide a clear timeline in every proposal and keep you updated throughout the process."
     }
   ],
   "testimonials": [
     {
       "name": "Michael M.",
-      "text": "We've worked with Emerald Gardens for nearly a year. From the initial landscaping of our new home, as well as weekly maintenance, these are good people. The yard is wonderful, and the management keeps its promises and backs its work.",
+      "text": "We've worked with Emerald Gardens for nearly a year. From the initial landscaping of our new home to weekly maintenance, these are good people. The yard is wonderful, and the management keeps its promises and backs its work. Great company.",
       "context": "Google Review",
       "initials": "MM"
     },
     {
       "name": "Kevin C.",
-      "text": "I have dealt with many landscaping companies in my lifetime. I can say with 100% assurance that Ricky has been by far the best. He's professional, listens, very friendly and most of all a great communicator. Outstanding service!",
+      "text": "I have dealt with many landscaping companies in my lifetime. I can say with 100% assurance that Ricky has been by far the best. He's professional, listens, very friendly and most of all a great communicator. We hired him for 3 projects due to his outstanding service!",
       "context": "Google Review",
       "initials": "KC"
     },
     {
       "name": "Chris F.",
-      "text": "He is very talented, very dependable, a great problem solver with good designs. His knowledge of horticulture is superior to most Landscape Architects. Highly recommended!",
+      "text": "I have been collaborating with Ricky for several years. Not only is he very talented, he is very dependable, a great problem solver with good designs. His knowledge of horticulture is superior to most Landscape Architects I have dealt with. Highly recommended!",
       "context": "Google Review",
       "initials": "CF"
     }
   ],
   "contact": {
     "headline": "Ready for a Landscape You<br>Actually Love?",
-    "subtitle": "Get a free, no-pressure consultation and see your new landscape in 3D before any work begins. No contracts, no commitments -- just honest expertise from a team that has been doing this for 30+ years.",
+    "subtitle": "Get a free, no-pressure consultation. We will visit your property, listen to your vision, and show you what is possible with a detailed 3D design preview.",
     "benefits": [
-      "Free onsite consultation & 3D preview",
-      "Detailed proposal within one week",
-      "100% satisfaction guaranteed"
+      "Free onsite consultation with every quote",
+      "3D design preview before work begins",
+      "30+ years of proven results"
     ]
   },
   "footer": {
-    "description": "Full-service landscape design, installation & maintenance. Serving Southeast Louisiana since 1995.",
-    "service_area": "Serving Baton Rouge, New Orleans, Gonzales & Southeast Louisiana",
+    "description": "Full-service landscape firm. Designing, building, and maintaining beautiful outdoor spaces since 1995.",
+    "service_area": "Serving Gonzales, Baton Rouge, New Orleans & Southeast Louisiana",
     "services": [
       "Landscape Design",
-      "Installation & Hardscapes",
+      "Installation & Hardscaping",
       "Night Lighting",
-      "Irrigation Systems",
+      "Outdoor Kitchens",
       "Lawn Maintenance"
     ],
-    "copyright": "&copy; 2024 Emerald Gardens, Inc. All rights reserved. Louisiana Licensed Landscape Contractor"
+    "copyright": "&copy; 2024 Emerald Gardens, Inc. All rights reserved. Licensed Landscape Contractor, Horticulturist, Chemical Applicator & General Contractor."
   }
 }

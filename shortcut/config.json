@@ -1,0 +1,184 @@
+{
+  "folder_name": "shortcut",
+  "company_name": "Shortcut",
+  "tagline": "Revitalize your workplace with Shortcut.",
+  "phone": "(212) 555-0199",
+  "email": "will@getshortcut.co",
+  "logo_path": "logo.png",
+  "review_count": "100",
+  "review_rating": "4.96",
+  "colors": {
+    "primary": "#F5C518",
+    "primary_dark": "#C99E0E",
+    "primary_deeper": "#8A6D0A",
+    "secondary": "#1A1A2E",
+    "cta": "#F5C518",
+    "cta_dark": "#C99E0E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Background-Checked Pros",
+    "badge_2": "4.96/5 from 100+ Reviews",
+    "badge_3": "100,000+ Services Delivered"
+  },
+  "hero": {
+    "badge_1": "4.96/5 from 100+ Google Reviews",
+    "badge_2": "100,000+ Services Delivered",
+    "headline": "Workplace Wellness <span class=\"text-secondary italic\">Made<br>Effortless</span>",
+    "subheadline": "Your team deserves more than stale snacks and a ping-pong table. Shortcut brings premium massage, hair, nails, and mindfulness directly to your office — fully managed, zero hassle. Just book and watch morale soar.",
+    "cta_text": "Book a Free Consultation",
+    "checkmarks": [
+      "Free workplace assessment",
+      "Setup in under one week",
+      "Loved by DraftKings, BCG & more"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "100",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "100000",
+    "stat_3_label": "Services Delivered",
+    "stat_4_value": "7+",
+    "stat_4_label": "Major Cities Served"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Premium Perks Delivered<br class=\"hidden md:block\"> Straight to Your Office",
+    "subtitle": "Stop settling for outdated employee perks. Shortcut brings hand-selected, licensed professionals directly to your workplace so your team can recharge without leaving the building.",
+    "cards": [
+      {
+        "title": "Corporate Massage",
+        "description": "On-site chair and table massage including sports massage and compression treatments. Your team walks away relaxed, recharged, and ready to perform."
+      },
+      {
+        "title": "Hair & Styling",
+        "description": "Professional haircuts, blowouts, and styling by licensed stylists — right in your office. Employees look and feel their best without losing a minute of their day."
+      },
+      {
+        "title": "Nails & Manicures",
+        "description": "Premium manicure and nail care services brought to your workplace. A convenient, morale-boosting perk your team will actually talk about."
+      },
+      {
+        "title": "Mindfulness & Meditation",
+        "description": "Virtual and in-person mindfulness sessions designed to reduce stress and sharpen focus. A healthier, calmer team is a more productive team."
+      },
+      {
+        "title": "Professional Headshots",
+        "description": "On-site headshot photography so your entire team gets polished, consistent imagery — no studio visits, no scheduling headaches."
+      },
+      {
+        "title": "Nutrition Consulting",
+        "description": "Expert nutrition consultations and wellness workshops that empower employees to make smarter choices and feel their best every day."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Happier Workplace",
+    "steps": [
+      {
+        "title": "Tell Us What Your Team Needs",
+        "description": "Share your office details and what services interest you. We'll design a custom wellness program and send a no-pressure proposal within 24 hours."
+      },
+      {
+        "title": "We Handle All the Logistics",
+        "description": "Our team manages setup, scheduling, and staffing. Hand-selected, licensed professionals arrive on time with everything they need. Your only job is to enjoy it."
+      },
+      {
+        "title": "Watch Your Team Thrive",
+        "description": "Employees sign up through our seamless platform. Managers track engagement effortlessly. Morale goes up, turnover goes down, and everyone wins."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Companies Choose Shortcut",
+    "headline": "We Are Not Just a Vendor — We Are Your Wellness Partner",
+    "description": "Founded in 2016 and trusted by leading organizations like DraftKings, BCG, Wix, and Datadog, Shortcut has delivered over 100,000 on-site wellness services across 7+ major cities. Every professional is hand-selected, fully licensed, and background-checked. Our technology platform makes employee sign-ups effortless and gives managers full visibility — so you get all the impact with none of the overhead.",
+    "badge": "100K+ Services Delivered",
+    "features": [
+      {
+        "title": "Licensed & Background-Checked Pros",
+        "description": "Every Shortcut professional passes rigorous screening before stepping into your office. Your team's safety is non-negotiable."
+      },
+      {
+        "title": "Seamless Tech Platform",
+        "description": "Employees book in seconds. Managers track everything in one dashboard. No spreadsheets, no back-and-forth, no friction."
+      },
+      {
+        "title": "Full-Service Setup & Logistics",
+        "description": "We bring everything — tables, chairs, supplies, staff. You provide the space; we handle the rest from start to finish."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Choose the package that fits your team. Scale up, scale down, or pause anytime — no long-term contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Team\" Guarantee",
+    "description": "If your team is not thrilled with any Shortcut service, we will send a new professional or credit your account — no questions asked. We have delivered over 100,000 services with a 4.96-star average because we do not stop until your people are smiling."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start services at our office?",
+      "answer": "Most companies are fully set up within one week. Once we understand your needs, we handle scheduling, logistics, and staffing so services can begin as soon as your space is ready."
+    },
+    {
+      "question": "What cities do you serve?",
+      "answer": "Shortcut currently operates in New York City, Los Angeles, San Francisco, Miami, Philadelphia, Boston, and Las Vegas. We are expanding into new markets regularly — reach out to check availability in your area."
+    },
+    {
+      "question": "Are your professionals background-checked?",
+      "answer": "Absolutely. Every Shortcut professional is fully licensed, insured, and passes a comprehensive background check before they ever step into your workplace. Safety and professionalism are foundational to everything we do."
+    },
+    {
+      "question": "Do we need to sign a long-term contract?",
+      "answer": "No contracts, ever. You can scale up, scale down, or pause services at any time. We earn your business with every single visit, not with fine print."
+    },
+    {
+      "question": "How do employees sign up for services?",
+      "answer": "Employees use our simple online platform to browse available times and book their preferred services in seconds. Managers get a dashboard to track participation and engagement — no manual coordination needed."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Allison B.",
+      "text": "The Shortcut team is an absolute pleasure to work with — friendly, responsive, and genuinely dedicated to delivering an exceptional experience every time.",
+      "context": "Teads",
+      "initials": "AB"
+    },
+    {
+      "name": "Christian W.",
+      "text": "Shortcut perks definitely boost morale and motivation to come into the office. Their team has become an extension of the DraftKings family.",
+      "context": "DraftKings",
+      "initials": "CW"
+    },
+    {
+      "name": "Dannie V.",
+      "text": "Shortcut has made employee amenities easy for us. The team handles everything seamlessly and our employees absolutely love having these services on-site.",
+      "context": "VaynerMedia",
+      "initials": "DV"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Elevate<br>Your Workplace?",
+    "subtitle": "Get a free, no-pressure consultation within 24 hours. No contracts, no commitments — just a smarter way to take care of your team.",
+    "benefits": [
+      "Free workplace wellness assessment",
+      "Custom program proposal within 24 hours",
+      "Loved by 100+ companies nationwide"
+    ]
+  },
+  "footer": {
+    "description": "Premium on-site wellness services for modern workplaces. Trusted by leading companies since 2016.",
+    "service_area": "Serving NYC, LA, SF, Miami, Philly, Boston & Las Vegas",
+    "services": [
+      "Corporate Massage",
+      "Hair & Styling",
+      "Nails & Manicures",
+      "Mindfulness Sessions",
+      "Professional Headshots"
+    ],
+    "copyright": "&copy; 2024 Shortcut. All rights reserved."
+  }
+}

@@ -3,73 +3,73 @@
   "company_name": "Islandia Pools Ltd.",
   "tagline": "Backyards were made for back floats",
   "phone": "+1 631-727-6312",
-  "email": "boanne@islandiapools.com",
+  "email": "john.wysoczanski@islandiapools.com",
   "logo_path": "logo.png",
-  "review_count": "60",
+  "review_count": "57",
   "review_rating": "4.5",
   "colors": {
-    "primary": "#E8707A",
-    "primary_dark": "#C4545E",
-    "primary_deeper": "#9A3640",
-    "secondary": "#2C3E50",
-    "cta": "#4A90D9",
-    "cta_dark": "#3672B5"
+    "primary": "#1a3a5c",
+    "primary_dark": "#112843",
+    "primary_deeper": "#0a1b2e",
+    "secondary": "#4a90b8",
+    "cta": "#d4a84b",
+    "cta_dark": "#b8903a"
   },
   "trust_badges": {
-    "badge_1": "BioGuard Platinum Dealer",
-    "badge_2": "4.5/5 from 60+ Reviews",
-    "badge_3": "Serving Long Island Since 1987"
+    "badge_1": "Dan's Best of the Best Award",
+    "badge_2": "4.5/5 from 57+ Reviews",
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
-    "badge_1": "4.5/5 from 60+ Google Reviews",
-    "badge_2": "Dan's Best of the Best Winner",
-    "headline": "Your Long Island Backyard <span class=\"text-secondary italic\">Deserves Better</span>",
-    "subheadline": "For nearly 40 years, Islandia Pools has designed, built, and maintained stunning pools across the North Fork and the Hamptons. From custom installations to weekly care, we handle it all so you can enjoy the backyard you have always wanted.",
-    "cta_text": "Get Your Free Consultation",
+    "badge_1": "4.5/5 from 57+ Google Reviews",
+    "badge_2": "Family-Owned Since 1987",
+    "headline": "Long Island's Trusted Pool <span class=\"text-secondary italic\">Builders<br>Since 1987</span>",
+    "subheadline": "Your backyard should be a retreat, not a project. For 38 years, Islandia Pools has designed, built, and maintained pools for families across the North Fork and Hamptons. From the first sketch to the final dive, we handle every detail so you can simply enjoy the water.",
+    "cta_text": "Get My Free Backyard Consultation",
     "checkmarks": [
-      "Free on-site consultation",
-      "Nearly 40 years of expertise",
-      "5,000+ happy customers"
+      "Free on-site design consultation",
+      "Award-winning craftsmanship",
+      "Full-service from build to maintain"
     ]
   },
   "stats": {
-    "stat_1_value": "5000",
-    "stat_1_label": "Customers Served",
-    "stat_2_value": "39",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "60",
-    "stat_3_label": "Google Reviews",
-    "stat_4_value": "4.5★",
-    "stat_4_label": "Google Rating"
+    "stat_1_value": "1000",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "38",
+    "stat_2_label": "Years on Long Island",
+    "stat_3_value": "57",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family-Owned Commitment"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool & Spa Solutions<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From dream pool designs to weekly maintenance and everything in between, Islandia Pools is the only call you need to make for your backyard.",
+    "headline": "Everything Your Pool Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From custom design and construction to weekly maintenance and supplies, Islandia Pools is your single source for every aspect of pool and spa ownership on Long Island's East End.",
     "cards": [
       {
         "title": "Custom Pool Design & Build",
-        "description": "Award-winning pool installations tailored to your property, style, and budget. Serving the North Fork and Hamptons with designs that turn heads."
+        "description": "Award-winning inground vinyl and gunite pool design tailored to your property, lifestyle, and budget. From concept drawings to the finished product, our team builds pools that become the centerpiece of your backyard."
       },
       {
-        "title": "Bullfrog Spas & Swim Spas",
-        "description": "Authorized Bullfrog Spas dealer featuring the exclusive JetPak Therapy System. Design your perfect spa online with interchangeable jetted seats."
+        "title": "Spa Sales & Installation",
+        "description": "Premium Bullfrog and Dream Maker spas selected, delivered, and installed by our team. Turn your backyard into a year-round retreat with a spa that complements your pool perfectly."
       },
       {
         "title": "Pool Maintenance & Repairs",
-        "description": "Keep your pool pristine season after season. Weekly cleaning, chemical balancing, equipment repairs, and opening/closing services."
+        "description": "Seasonal openings, closings, weekly cleaning, and expert equipment repairs. We keep your pool in peak condition so you never have to worry about water quality or equipment failures."
       },
       {
-        "title": "Outdoor Kitchens & Grills",
-        "description": "Custom and pre-built outdoor kitchen designs with certified propane gas grill installation. Create the ultimate outdoor entertaining space."
+        "title": "Backyard Renovation",
+        "description": "Complete outdoor transformations including pool resurfacing, new decking, lighting upgrades, and landscape integration that breathe new life into aging backyards."
       },
       {
-        "title": "Backyard Renovations",
-        "description": "Complete outdoor transformations combining pools, spas, kitchens, and landscaping into a cohesive backyard retreat your family will love."
+        "title": "Eco-Friendly Pool Systems",
+        "description": "Specialists in EcoSmarte chemical-free purification, Mineral Springs salt systems, and energy-efficient equipment that reduce costs and are gentler on your family and the environment."
       },
       {
-        "title": "Retail Pool & Spa Supplies",
-        "description": "Visit our Riverhead store for BioGuard chemicals, pool accessories, equipment, and expert advice from people who actually know pools."
+        "title": "Retail Store & Supplies",
+        "description": "Visit our fully stocked Riverhead showroom for pool chemicals, equipment, accessories, and expert advice. Everything you need to maintain your pool between service visits."
       }
     ]
   },
@@ -77,67 +77,67 @@
     "headline": "Three Steps to Your Dream Backyard",
     "steps": [
       {
-        "title": "Schedule Your Free Consultation",
-        "description": "Tell us about your vision. We will visit your property, discuss your goals, and provide an honest, detailed proposal with no hidden costs or pressure."
+        "title": "Schedule a Free Consultation",
+        "description": "Tell us about your vision. We will visit your property, assess the space, and provide an honest, transparent quote. No pressure, no hidden fees, just straightforward advice from a family team that has been doing this for 38 years."
       },
       {
-        "title": "We Design & Build It Right",
-        "description": "Our experienced team brings your vision to life with award-winning craftsmanship. You will have a dedicated project manager keeping you informed every step of the way."
+        "title": "We Design & Build",
+        "description": "Our experienced crew handles every phase of the project from permits and excavation to plumbing, electrical, and finishing. Dave Freeborn personally oversees every build to ensure quality meets the Islandia standard."
       },
       {
-        "title": "Enjoy Your Backyard Paradise",
-        "description": "Dive into your new pool, relax in your spa, or fire up the outdoor kitchen. And when you need maintenance, we are just a phone call away."
+        "title": "Dive In & Enjoy",
+        "description": "Your new pool is ready. And when you need maintenance, repairs, or supplies, we are right here in Riverhead. We stay with you for the life of your pool because that is what a real pool company does."
       }
     ]
   },
   "about": {
-    "label": "Why Long Islanders Trust Us",
-    "headline": "Family-Founded, Community-Rooted, Quality-Obsessed",
-    "description": "Founded in 1987 by John and Boanne Wysoczanski, Islandia Pools was born from a simple frustration: the family could not find a pool company they could trust. Now led by Dave Freeborn, who grew up in the business, we have served over 5,000 homeowners and architects across the East End. Every project gets the same hands-on attention that built our reputation nearly four decades ago.",
-    "badge": "BioGuard Platinum Dealer",
+    "label": "Why East End Families Choose Us",
+    "headline": "A Family Business Built on Trust and Craftsmanship",
+    "description": "Islandia Pools was founded in 1987 when the Freeborn family could not find a pool company they trusted for their own backyard. Dave Freeborn turned that frustration into a mission: build a company that treats every customer's pool like it is their own. Today, Dave works alongside his wife and a dedicated team, serving hundreds of homeowners and architects across the North Fork and Hamptons with the same quality, integrity, and care that started it all 38 years ago.",
+    "badge": "Dan's Best of the Best",
     "features": [
       {
-        "title": "Nearly 40 Years of Expertise",
-        "description": "Since 1987, we have built our reputation one backyard at a time across the North Fork, the Hamptons, and all of Suffolk County."
+        "title": "38 Years of East End Expertise",
+        "description": "We know Long Island soil, weather, and building codes inside and out. That local knowledge translates to pools that last decades, not just seasons."
       },
       {
-        "title": "Award-Winning Craftsmanship",
-        "description": "Recognized as Dan's Best of the Best and trusted by hundreds of architects. Our work speaks for itself in backyards across Long Island."
+        "title": "Design, Build, Maintain, Supply",
+        "description": "No need to juggle multiple contractors. We handle every stage of pool ownership from the first sketch to ongoing care and a fully stocked retail store."
       },
       {
-        "title": "Full-Service, One Company",
-        "description": "Design, build, maintain, and supply — all under one roof. No juggling contractors. One team that knows your pool inside and out."
+        "title": "Eco-Friendly Innovation",
+        "description": "We lead the region in chemical-free and low-chemical pool systems including EcoSmarte and Mineral Springs, so your family swims in cleaner, healthier water."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project is unique, and so is our pricing. Request a free consultation and we will provide a detailed, honest quote tailored to your needs."
+    "subtitle": "Every project gets a detailed, written quote before we start. Choose the service level that fits your needs and budget."
   },
   "guarantee": {
-    "headline": "Our \"Backyard Happiness\" Guarantee",
-    "description": "If you are not completely satisfied with our work, we will come back and make it right at no additional charge. We have built our business on trust and integrity for nearly 40 years, and we stand behind every project, every service visit, and every product we sell. Your satisfaction is not just a promise — it is how we have earned 5,000+ loyal customers."
+    "headline": "Our \"Backyard Promise\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit or project milestone, call us and we will return to make it right at no additional charge. We have built our reputation over 38 years by standing behind every pool we design, build, and maintain. Your trust is the foundation of our family business, and we will never take it for granted."
   },
   "faqs": [
     {
-      "question": "What areas of Long Island do you serve?",
-      "answer": "We serve the entire East End of Long Island including the North Fork, the Hamptons, Riverhead, Calverton, and all of Suffolk County. If you are on the East End, we can take care of you."
+      "question": "How long does it take to build a custom pool?",
+      "answer": "Most custom pool projects take 6 to 10 weeks from excavation to completion, depending on the design complexity and permitting timeline. We provide a detailed schedule before we break ground so you know exactly what to expect at every stage."
     },
     {
-      "question": "How long does a custom pool installation take?",
-      "answer": "Most residential pool installations take 6 to 10 weeks depending on the design complexity, permits, and weather. We keep you informed every step of the way with a dedicated project manager."
+      "question": "Do you service pools you did not build?",
+      "answer": "Absolutely. We maintain and repair all types of pools regardless of who built them. Our technicians are experienced with vinyl, gunite, fiberglass, and above-ground pools from any manufacturer."
     },
     {
-      "question": "Do you offer pool maintenance plans?",
-      "answer": "Absolutely. We offer weekly and bi-weekly maintenance plans that include cleaning, chemical balancing, equipment checks, and more. We also handle seasonal openings and closings."
+      "question": "What makes your eco-friendly pool systems different?",
+      "answer": "Our EcoSmarte and Mineral Springs systems dramatically reduce or eliminate the need for traditional chlorine. You get cleaner, softer water that is gentler on skin, eyes, and swimsuits while also reducing ongoing chemical costs."
     },
     {
-      "question": "Can I visit your retail store?",
-      "answer": "Yes! Our full-service retail location is at 108 Fishel Ave in Riverhead, NY. Stop by for BioGuard chemicals, pool and spa supplies, accessories, and expert advice from our team."
+      "question": "Can I visit your retail store for supplies?",
+      "answer": "Yes. Our Riverhead showroom at 108 Fishel Ave is fully stocked with chemicals, equipment, accessories, and test kits. Our staff can also test your water on the spot and recommend exactly what you need."
     },
     {
-      "question": "Are you an authorized Bullfrog Spas dealer?",
-      "answer": "Yes, we are an authorized Bullfrog Spas dealer. You can even design your spa online using their exclusive JetPak Therapy System configurator, then come see us to bring it to life."
+      "question": "Do you handle pool openings and closings?",
+      "answer": "We do. Our seasonal opening and closing services protect your investment through Long Island winters and ensure a smooth, worry-free start every spring. Most clients schedule both services in advance for peace of mind."
     }
   ],
   "testimonials": [
@@ -145,40 +145,40 @@
       "name": "Paul C.",
       "context": "Pool Installation",
       "initials": "PC",
-      "text": "From start to finish, things went smooth and right on schedule. They do the right thing by putting their customers first. Any complaint or concern I had, they always took care of it, and fast."
+      "text": "From start to finish, things went smooth and right on schedule. The team was professional and delivered exactly what we envisioned. Our backyard is now the gathering place for the whole neighborhood."
     },
     {
       "name": "Dr. Michelle I.",
-      "context": "Pool Design",
+      "context": "Pool Design & Build",
       "initials": "MI",
-      "text": "Professional, knowledgeable, and attentive. They helped design a backyard oasis, were clear about pricing, and were not bothered by changes we wanted to make."
+      "text": "Professional, knowledgeable, and attentive service throughout the entire design process. They helped us create the perfect backyard oasis with clear and transparent pricing at every step."
     },
     {
-      "name": "Tracy B.",
-      "context": "Overall Service",
-      "initials": "TB",
-      "text": "Dave, Cheryl and the entire crew at Islandia Pools are professionals. Responsive and knowledgeable as well as dependable. I highly recommend this pool company."
+      "name": "Jay B.",
+      "context": "Pool Installation",
+      "initials": "JB",
+      "text": "Five stars. They exceeded my highest hopes. The final result was beyond what I imagined for our backyard. Islandia Pools is the real deal and I recommend them to everyone on the East End."
     }
   ],
   "contact": {
-    "headline": "Ready to Transform Your<br>Long Island Backyard?",
-    "subtitle": "Get a free, no-pressure consultation from a team with nearly 40 years of experience. Visit our Riverhead showroom or give us a call today.",
+    "headline": "Ready for the Backyard<br>You Have Always Wanted?",
+    "subtitle": "Get a free, no-pressure consultation from a family team with 38 years of East End experience. We will visit your property, listen to your vision, and provide an honest quote.",
     "benefits": [
-      "Free on-site design consultation",
-      "Detailed proposal within one week",
-      "Nearly 40 years of trusted expertise"
+      "Free on-site design consultation included",
+      "Detailed written quote within 48 hours",
+      "Award-winning craftsmanship guaranteed"
     ]
   },
   "footer": {
-    "description": "Family-founded pool & spa experts. Serving Long Island's East End since 1987.",
-    "service_area": "Serving the North Fork, Hamptons & East End of Long Island",
+    "description": "Family-owned pool builders serving Long Island's East End since 1987.",
+    "service_area": "Serving Riverhead, North Fork, The Hamptons, East End of Long Island & Suffolk County",
     "services": [
       "Custom Pool Design",
-      "Bullfrog Spas",
+      "Spa Sales & Installation",
       "Pool Maintenance",
-      "Outdoor Kitchens",
-      "Backyard Renovations"
+      "Backyard Renovation",
+      "Retail Store & Supplies"
     ],
-    "copyright": "&copy; 2024 Islandia Pools Ltd. All rights reserved. 108 Fishel Ave, Riverhead, NY"
+    "copyright": "&copy; 2024 Islandia Pools Ltd. All rights reserved. Dan's Best of the Best | BBB A+ Rated"
   }
 }
