@@ -1,0 +1,183 @@
+{
+  "folder_name": "plano-landscaping",
+  "company_name": "Plano Landscaping Company",
+  "tagline": "Dream - Design - Install - Maintain",
+  "phone": "+1 214-624-6011",
+  "email": "info@planolandscaping.net",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B13",
+    "secondary": "#66BB6A",
+    "cta": "#F9A825",
+    "cta_dark": "#F57F17"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited Business",
+    "badge_2": "4.7/5 from 106+ Reviews",
+    "badge_3": "Free Estimates"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 106+ Google Reviews",
+    "badge_2": "Locally Owned & Operated",
+    "headline": "Your Dream Yard, Built <span class=\"text-secondary italic\">by Local<br>Craftsmen</span>",
+    "subheadline": "Your outdoor space should inspire you, not stress you. Plano Landscaping Company handles every detail from design through maintenance so you can enjoy a yard that turns heads and makes neighbors jealous.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free on-site estimate",
+      "Dedicated local crew",
+      "Transparent pricing always"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Yards Transformed",
+    "stat_2_value": "6",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "106",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Solutions for North Texas",
+    "subtitle": "From the first sketch to the final stone, we handle every phase of your outdoor transformation. No subcontractors, no runaround, just one trusted team from start to finish.",
+    "cards": [
+      {
+        "title": "Landscape Design & Install",
+        "description": "Custom outdoor blueprints brought to life by our expert crew. We design around your vision, property, and lifestyle to create a landscape you will love for years."
+      },
+      {
+        "title": "Patios & Hardscaping",
+        "description": "Paver patios, stone walkways, retaining walls, and masonry built to last. We create stunning outdoor living spaces that extend your home into the yard."
+      },
+      {
+        "title": "Pergolas & Structures",
+        "description": "Custom pergolas, arbors, and deck installations that add shade, style, and value. Designed to complement your home and built with premium materials."
+      },
+      {
+        "title": "Irrigation & Drainage",
+        "description": "Smart sprinkler systems and French drains that protect your investment. We solve water problems and keep your landscape thriving through Texas heat."
+      },
+      {
+        "title": "Lawn Care & Maintenance",
+        "description": "Year-round mowing, fertilization, and seasonal care that keeps your yard looking pristine. Reliable scheduling so your property always makes a great impression."
+      },
+      {
+        "title": "Sod & Turf Installation",
+        "description": "Instant green lawns with professional sod installation, or go maintenance-free with synthetic turf. Either way, your yard looks lush and inviting."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Yard",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your outdoor goals. We will visit your property, listen to your ideas, and provide a detailed free estimate with clear pricing. No pressure, no obligation."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our dedicated local crew handles every detail from design through installation. You get one point of contact, on-time scheduling, and daily progress updates."
+      },
+      {
+        "title": "Enjoy Your Outdoor Oasis",
+        "description": "Relax in a yard that looks like it belongs in a magazine. We also offer ongoing maintenance so your landscape stays beautiful season after season."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Plano Homeowners Trust Us",
+    "headline": "Your Neighbors' Favorite Landscaping Crew",
+    "description": "Locally owned and rooted in the Plano community since 2020, we have built our reputation one yard at a time. Every project is handled by our own dedicated crew, never subcontractors, so you get consistent craftsmanship and people who genuinely care about the outcome. From Plano to Frisco to McKinney, our neighbors trust us because we show up on time, communicate clearly, and stand behind every project we complete.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Dedicated Local Crew",
+        "description": "Every project is completed by our own trained team, never outsourced to subcontractors. You get consistent quality and familiar faces."
+      },
+      {
+        "title": "Transparent Pricing Always",
+        "description": "You see the full cost before we start. No hidden fees, no surprise upcharges, no awkward conversations at the end of a project."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not thrilled with the result? We will come back and make it right at no extra charge. Your happiness is how we measure success."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project starts with a free on-site estimate. You see the full scope and cost upfront before any work begins."
+  },
+  "guarantee": {
+    "headline": "Our \"Dream Yard\" Guarantee",
+    "description": "If you are not completely satisfied with any aspect of our work, we will come back and make it right at no additional cost. We do not consider a project finished until you are thrilled with the result. That is the standard we hold ourselves to on every single job."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start my project?",
+      "answer": "Most projects are scheduled within 1-2 weeks depending on scope and season. For smaller jobs like sod installation or drainage, we can often start within a few days. Contact us for current availability."
+    },
+    {
+      "question": "Do you handle the full project or just parts?",
+      "answer": "We handle everything from initial design through final installation and ongoing maintenance. Our motto is Dream, Design, Install, Maintain. One team, one point of contact, no subcontractors."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Plano, McKinney, Prosper, Frisco, Dallas, Carrollton, Allen, Celina, and The Colony. If you are in the North Texas area, give us a call and we will let you know if we can help."
+    },
+    {
+      "question": "Do you offer free estimates?",
+      "answer": "Yes, every project starts with a free on-site estimate. We visit your property, discuss your vision, and provide a detailed quote with transparent pricing before any work begins. No pressure, no obligation."
+    },
+    {
+      "question": "Can you fix work done by another company?",
+      "answer": "Absolutely. We regularly repair and replace inferior work from other contractors. We will assess the situation, give you honest options, and make your outdoor space look the way it should have from the start."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Customer",
+      "context": "Sod Installation & French Drain",
+      "initials": "VC",
+      "text": "Plano Landscaping did a fantastic job repairing and replacing inferior work done by another party, then installing sod and a French drain. The results exceeded our expectations."
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "context": "Landscaping Services",
+      "initials": "SH",
+      "text": "They were professional, showed up on time, and did quality work. The crew was efficient and cleaned up everything when they finished. Highly recommend their services."
+    },
+    {
+      "name": "Happy Client",
+      "context": "Yard Transformation",
+      "initials": "HC",
+      "text": "The crew showed up promptly, completed the work, and made sure everything was done to our satisfaction. Every question was answered promptly and thoroughly. Plano Landscaping was great to work with and quick to transform our yard."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for the Yard You<br>Have Always Wanted?",
+    "subtitle": "Get a free, no-pressure estimate within 48 hours. No contracts, no commitments, just honest pricing from a local crew that cares about your property.",
+    "benefits": [
+      "Free on-site property assessment",
+      "Detailed estimate within 48 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned landscaping company serving Plano and North Texas since 2020.",
+    "service_area": "Serving Plano, McKinney, Frisco & North Texas",
+    "services": [
+      "Landscape Design",
+      "Patios & Hardscaping",
+      "Irrigation & Drainage",
+      "Lawn Maintenance",
+      "Sod Installation"
+    ],
+    "copyright": "&copy; 2024 Plano Landscaping Company. All rights reserved. Locally owned and operated in Plano, TX."
+  },
+  "review_count": "106",
+  "review_rating": "4.7"
+}

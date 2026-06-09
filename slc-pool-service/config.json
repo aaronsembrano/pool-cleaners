@@ -1,0 +1,183 @@
+{
+  "folder_name": "slc-pool-service",
+  "company_name": "SLC Pool Service",
+  "tagline": "Reliable Pool Service in Salt Lake City",
+  "phone": "+1 801-808-1581",
+  "email": "info@slcpoolservice.com",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & Certified",
+    "badge_2": "5.0/5 from 23+ Reviews",
+    "badge_3": "Pentair Authorized Provider"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 23+ Google Reviews",
+    "badge_2": "Pentair Authorized Service Provider",
+    "headline": "Your Family Pool, <span class=\"text-secondary italic\">Our Family<br>Promise</span>",
+    "subheadline": "You bought a pool to make memories, not to spend weekends testing chemicals. SLC Pool Service keeps your water crystal clear so you can focus on what matters most — just dive in.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Same-week service available",
+      "Transparent pricing, no hidden fees"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "5",
+    "stat_2_label": "Years Serving SLC",
+    "stat_3_value": "23",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Startup to Season's End",
+    "subtitle": "From brand-new plaster to emergency repairs, our certified technicians handle every aspect of pool ownership so you never have to worry.",
+    "cards": [
+      {
+        "title": "Pool Startup Service",
+        "description": "The first 28 days matter most. We ensure perfect plaster curing, balanced water chemistry, and a flawless beginning for your new pool."
+      },
+      {
+        "title": "Weekly Cleaning & Maintenance",
+        "description": "Skimming, vacuuming, brushing, equipment checks, and chemistry balancing. Your pool stays swim-ready every single week, guaranteed."
+      },
+      {
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, heaters, filters, salt systems, and automation. Pentair-authorized repairs and installations completed fast and done right."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Orenda-certified chemical balancing for water that's safe, clear, and gentle on skin. No red eyes, no guesswork, just science."
+      },
+      {
+        "title": "Diagnostics & Troubleshooting",
+        "description": "Something not right? Our technicians use professional diagnostic tools to pinpoint and resolve pool system issues quickly and accurately."
+      },
+      {
+        "title": "Emergency Repairs",
+        "description": "Equipment failure on a holiday weekend? We offer quick-response emergency service to get your pool back up and running fast."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out the form below. We'll provide an honest, no-pressure quote within 24 hours. No contracts, no commitments — just straightforward pricing."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our licensed, certified technicians arrive on schedule. Cleaning, chemistry, equipment checks, and backyard tidying — all covered, every visit."
+      },
+      {
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Your pool stays sparkling, safe, and swim-ready all season long. If something isn't right, we come back and fix it — no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why SLC Trusts Us",
+    "headline": "Family-Owned, Brand-Certified, and Obsessed With Quality",
+    "description": "Since 2021, SLC Pool Service has been the Wasatch Front's go-to team for pool care done right. We're the service provider California Pools trusts with their clients' pools, and we're certified partners with Pentair, Fluidra, Jandy, and Orenda. Every pool we touch gets the same care we'd give our own backyard.",
+    "badge": "Pentair Certified",
+    "features": [
+      {
+        "title": "Licensed & Insured Technicians",
+        "description": "Every technician is fully licensed, insured, and factory-trained by the brands we install and service."
+      },
+      {
+        "title": "Transparent Pricing, Always",
+        "description": "You'll know exactly what you're paying before we start. No surprise fees, no hidden costs, no pressure to upsell."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We'll come back and make it right at no additional charge. That's our family promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no long-term contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll come back to make it right — completely free. No questions, no hassle. We stake our family reputation on every pool we service, and we won't rest until your water is perfect."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Salt Lake City area are scheduled within 3-5 business days. For equipment emergencies, we offer same-day or next-day response. Just call +1 801-808-1581 and we'll get you on the schedule."
+    },
+    {
+      "question": "Do you handle new pool startups?",
+      "answer": "Absolutely. Our 28-day pool startup service ensures proper plaster curing and balanced chemistry from day one. We're the team California Pools trusts with their new builds across the Wasatch Front."
+    },
+    {
+      "question": "What brands do you service and install?",
+      "answer": "We're authorized partners with Pentair, Fluidra, Jandy, and Orenda. That means factory-trained technicians, genuine parts, and full manufacturer warranty support on repairs and installations."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Every technician on our team is fully licensed, insured, and certified. We carry comprehensive liability coverage for your peace of mind and ours."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "We do. We service residential and commercial pools across the Greater Wasatch Front, including HOA communities, fitness centers, and resort properties. Contact us for a custom commercial quote."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Michael B.",
+      "context": "Owner, California Pools SLC",
+      "initials": "MB",
+      "text": "SLC Pool Service is our go-to service provider. They maintain our pools year-round, ensuring they remain pristine and ready for our clients. Their commitment to excellence and expertise is unmatched."
+    },
+    {
+      "name": "Long-term Client",
+      "context": "Ongoing maintenance since 2021",
+      "initials": "LC",
+      "text": "Trey and Ryan have been caring for our pool since 2021. The water is crystal clear, the system works perfectly, and their team always shows up with a great attitude. Couldn't ask for more."
+    },
+    {
+      "name": "Sarah M.",
+      "context": "New pool owner, startup service",
+      "initials": "SM",
+      "text": "They helped us through every step with our new pool startup on new plaster. They handle the Pentair warranty which has come in handy on multiple occasions. Very knowledgeable and always responsive."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Get a free, no-pressure quote within 24 hours. No contracts, no commitments — just honest pricing from a family-owned team that treats your pool like their own.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours guaranteed",
+      "100% satisfaction — or we come back free"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving the Wasatch Front since 2021.",
+    "service_area": "Serving Salt Lake City, Park City, Draper, Sandy, Holladay & the Greater Wasatch Front",
+    "services": [
+      "Weekly Cleaning",
+      "Equipment Repair",
+      "Pool Startups",
+      "Water Chemistry",
+      "Emergency Service"
+    ],
+    "copyright": "&copy; 2026 SLC Pool Service. All rights reserved. Licensed & Insured in Utah."
+  },
+  "review_count": "23",
+  "review_rating": "5.0"
+}

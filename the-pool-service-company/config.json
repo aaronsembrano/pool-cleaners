@@ -1,0 +1,184 @@
+{
+  "folder_name": "the-pool-service-company",
+  "company_name": "The Pool Service Company",
+  "tagline": "Done Fast, Done Right - Pool Experts You Can Trust",
+  "phone": "+1 561-718-7316",
+  "email": "skyler@thepoolserviceco.com",
+  "logo_path": "",
+  "review_count": "51",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.4/5 from 51+ Reviews",
+    "badge_3": "BBB Accredited"
+  },
+  "hero": {
+    "badge_1": "4.4/5 from 51+ Google Reviews",
+    "badge_2": "Serving Spokane 21+ Years",
+    "headline": "21 Years Keeping Spokane <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "Your pool should be your escape, not your weekend chore. The Pool Service Company has been the name Spokane trusts for over two decades. From openings to repairs, we handle it all so you just dive in.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-day or next-day response",
+      "Honest, no-surprise pricing"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Loyal Clients",
+    "stat_2_value": "21",
+    "stat_2_label": "Years in Spokane",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Opening to Closing",
+    "subtitle": "From spring startup to winter shutdown and everything in between, we keep your pool safe, clean, and running right all season long.",
+    "cards": [
+      {
+        "title": "Pool Openings & Closings",
+        "description": "Seasonal pool maintenance done right. We handle spring openings, fall winterizations, and regular upkeep so your pool is always swim-ready."
+      },
+      {
+        "title": "Repairs & Restoration",
+        "description": "Aging liner? Cracked plaster? Broken pump? We diagnose and fix it fast. Most repairs completed same-visit with honest, upfront pricing."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Professional liner installation from 20 to 28 mil thickness. Wide pattern selection with extended warranties to protect your investment."
+      },
+      {
+        "title": "Pumps, Filters & Heaters",
+        "description": "Sales, installation, and repair of pumps, sand and cartridge filters, and energy-efficient heating systems to extend your swim season."
+      },
+      {
+        "title": "Decks, Coping & Plumbing",
+        "description": "Complete deck replacement, coping repair, and underground plumbing work to restore the beauty and function of your pool area."
+      },
+      {
+        "title": "Safety Covers & Inspections",
+        "description": "Automatic cover installation, real estate pool inspections, lighting upgrades, and chemical delivery systems for total peace of mind."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We respond within one business day with an honest, no-pressure assessment. No contracts required."
+      },
+      {
+        "title": "We Show Up and Deliver",
+        "description": "Our experienced technicians arrive on schedule, fully equipped. From routine maintenance to major repairs, we get it done fast and done right."
+      },
+      {
+        "title": "Enjoy a Perfect Pool",
+        "description": "Your pool stays crystal clear, safe, and ready for your family. If something is not right, we come back and fix it at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Spokane Trusts Us",
+    "headline": "Your Neighbors Have Trusted Us for Over Two Decades",
+    "description": "Locally owned and serving Spokane since 2005, The Pool Service Company was built on a simple promise: do it fast, do it right, and treat every pool like our own. Our clients stay with us an average of 10 to 18 years because we deliver honest work at fair prices, every single time. We service both residential and commercial pools across Eastern Washington.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Licensed & Fully Insured",
+        "description": "Every job is backed by full liability coverage. Your property and your family are always protected."
+      },
+      {
+        "title": "No Surprise Costs. Ever.",
+        "description": "We quote honestly and stick to it. Transparent pricing means you know exactly what you are paying before we start."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with our work? We come back and make it right at no charge. That is the standard we have held for 21 years."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Every quote is honest and all-inclusive. No hidden fees, no upselling, no fine print. Just fair pricing for expert pool care."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional cost. We have built our reputation on standing behind every job for over 21 years, and we are not about to stop now."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you get to my pool?",
+      "answer": "We respond same-day or next business day for most service requests. For urgent issues like equipment failures or safety concerns, we prioritize getting to you as fast as possible. Just call and we will work with your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we take care of everything while you are away. You will receive a summary after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We are a fully licensed and insured pool service provider and a BBB Accredited Business. We have maintained these credentials throughout our 21 years of service in the Spokane area."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Absolutely. We service commercial pools for hotels, fitness centers, HOAs, and apartment communities across Eastern Washington. Commercial clients receive dedicated scheduling and priority response times."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Spokane, Spokane Valley, Liberty Lake, Cheney, Airway Heights, Mead, and surrounding communities throughout Eastern Washington. If you are within our service area, we would love to earn your business."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jeff",
+      "context": "Liner replacement & safety cover",
+      "initials": "JF",
+      "text": "Pool looks brand new after the liner replacement, safety cover installation, and stair resurfacing. Couldn't be happier with the results. These guys know what they are doing."
+    },
+    {
+      "name": "Dannetta",
+      "context": "Long-time pool service client",
+      "initials": "DN",
+      "text": "The most advanced, knowledgeable, and trusted pool service. Results shine like new money. I would not trust anyone else with my pool. They are simply the best in Spokane."
+    },
+    {
+      "name": "Ryan S.",
+      "context": "Pool leveling & plumbing",
+      "initials": "RS",
+      "text": "The crew is top notch. They fixed our pool leveling issues and plumbing upgrades with excellent attention to detail and professionalism. Highly recommend to anyone in the area."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Just Works?",
+    "subtitle": "Get a free, no-pressure assessment from Spokane's most trusted pool team. We respond within one business day with honest pricing and a clear plan.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 1 business day",
+      "21+ years of trusted Spokane service"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. Proudly serving Spokane for 21+ years.",
+    "service_area": "Serving Spokane, Spokane Valley, Liberty Lake & Eastern Washington",
+    "services": [
+      "Pool Openings & Closings",
+      "Repairs & Restoration",
+      "Liner Replacement",
+      "Pumps & Heaters",
+      "Safety Covers & Inspections"
+    ],
+    "copyright": "&copy; 2024 The Pool Service Company. All rights reserved. Licensed & Insured Pool Service Provider."
+  }
+}
