@@ -1,0 +1,183 @@
+{
+  "folder_name": "aqua-system-pool-spa",
+  "company_name": "Aqua System Pool & Spa",
+  "tagline": "Pool Service, Done Right",
+  "phone": "+1 949-933-7695",
+  "email": "bob@aquasystempools.com",
+  "review_count": "46",
+  "review_rating": "4.1",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D66A00"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.1/5 from 46+ Reviews",
+    "badge_3": "Free Estimates"
+  },
+  "hero": {
+    "badge_1": "4.1/5 from 46+ Google Reviews",
+    "badge_2": "BBB A+ Rated Since 1984",
+    "headline": "42 Years of Pools <span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Since 1984, Newport Beach families have trusted Aqua System for worry-free pool and spa care. We handle the chemicals, the cleaning, and the repairs so you can just enjoy the water.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free pool inspection",
+      "No contracts required",
+      "Same-week service start"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "42",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "Counties Served",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> for Southern California",
+    "subtitle": "From weekly maintenance to major repairs, our small dedicated team handles it all so you never have to worry about your pool or spa again.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Consistent, reliable weekly maintenance that keeps your pool clean, chemically balanced, and swim-ready all year round. Show up on time, every time."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and other equipment. We fix it right the first time so you avoid repeat service calls."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Professional leak detection using advanced techniques to find and resolve leaks before they cause costly structural or water damage."
+      },
+      {
+        "title": "Spa & Hot Tub Service",
+        "description": "Complete hot tub and spa maintenance, cleaning, and repair to keep your spa running efficiently, safely, and always ready to relax in."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "New pumps, filters, heaters, automation systems, and more. We install top-quality equipment and stand behind every job we do."
+      },
+      {
+        "title": "Pool Supplies",
+        "description": "Quality chemicals, parts, and supplies to keep your water balanced and equipment running properly. Expert advice included at no extra charge."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call for Your Free Estimate",
+        "description": "Tell us about your pool or spa. We'll come out, take a look, and give you an honest, no-pressure estimate. No obligations, no pushy sales tactics."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our experienced team arrives on schedule and handles cleaning, chemicals, equipment checks, and any repairs. 42 years of know-how working for you."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and swim-ready week after week. If something is ever off, one call and we make it right. That is the Aqua System difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Trust Us",
+    "headline": "Owner-Operated Since 1984 — We Treat Every Pool Like Our Own",
+    "description": "Aqua System Pool & Spa was founded by Robert Fritsche over four decades ago right here in Newport Beach. We are a small, dedicated team that believes pool service should be personal. With a BBB A+ rating, a BuildZoom score in the top 20% of California contractors, and thousands of pools maintained across three counties, we have earned our reputation one backyard at a time. We listen, we show up, and we get it right.",
+    "badge": "Top 20% CA Contractor",
+    "features": [
+      {
+        "title": "Owner-Operated Business",
+        "description": "Robert Fritsche personally oversees every aspect of your service. You are not a number here — you are a neighbor."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your trust every single visit. No long-term commitments, no cancellation fees, no hassle if you ever need to pause."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We come back and redo it at no charge. 42 years in business means we stand behind our word."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will come back to make it right at absolutely no extra cost. We have stood behind this promise since 1984 because we believe great pool service means never leaving a customer unhappy."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent repairs or green pool situations, we can often get there sooner. Just call us at 949-933-7695 and we will work with your schedule."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Orange County, Riverside County, and Northern San Diego County. Whether you are in Newport Beach, Irvine, Temecula, or Oceanside, our team can reach you."
+    },
+    {
+      "question": "Do I need to sign a contract?",
+      "answer": "Never. We do not require contracts of any kind. You can cancel anytime with zero fees or penalties. We believe in earning your business every single visit."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We hold a California Contractors State License, carry full liability insurance, maintain a BBB A+ rating, and rank in the top 20% of California licensed contractors with a BuildZoom score of 96."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients give us gate access and we handle everything while you are away. You can always check in with us — we are just a phone call or email away."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Azita N.",
+      "context": "Google Review",
+      "initials": "AN",
+      "text": "The service we are getting from Aqua System is the difference between night and day from our previous pool service company. They actually care about doing it right."
+    },
+    {
+      "name": "Luis C.",
+      "context": "Online Review, 3-Year Client",
+      "initials": "LC",
+      "text": "They're the best at what they do, perfect. They've been helping me for almost three years now, and they've been very attentive to details. Their price is very affordable."
+    },
+    {
+      "name": "Sam H.",
+      "context": "Google Review",
+      "initials": "SH",
+      "text": "Couldn't have asked for a better pool company and they had a great price. I will be using them for any future pool projects. Highly recommend."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Service<br>Done Right?",
+    "subtitle": "Get a free, no-obligation estimate within 24 hours. No contracts, no commitments — just honest pricing from a team with 42 years of experience.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Response within 24 hours",
+      "No contracts — cancel anytime"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated pool & spa service. Serving Southern California since 1984.",
+    "service_area": "Serving Orange County, Riverside & Northern San Diego",
+    "services": [
+      "Weekly Pool Service",
+      "Pool Repair",
+      "Leak Detection",
+      "Spa & Hot Tub Service",
+      "Equipment Installation"
+    ],
+    "copyright": "&copy; 2024 Aqua System Pool & Spa. All rights reserved. CA Licensed Contractor"
+  }
+}

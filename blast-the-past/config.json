@@ -1,0 +1,183 @@
+{
+  "folder_name": "blast-the-past",
+  "company_name": "Blast The Past",
+  "tagline": "Don't Replace, Blast It to the Past!",
+  "phone": "480-256-2244",
+  "email": "mark@azblastthepast.com",
+  "review_count": "50",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2840",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#c96b1b"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured — ROC #355430",
+    "badge_2": "4.9/5 from 50+ Reviews",
+    "badge_3": "25+ Years of Experience"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 50+ Google Reviews",
+    "badge_2": "Free Estimates Always",
+    "headline": "Restore Your Pool Tile to <span class=\"text-secondary italic\">Like-New<br>Beauty</span>",
+    "subheadline": "That calcium buildup is hiding a gorgeous pool underneath. With 25+ years of specialized tile blasting experience, Blast The Past safely removes the toughest hard water deposits — so your pool looks brand new without replacing a single tile.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free estimates on every job",
+      "Safe for glass and mosaic tile",
+      "Licensed, bonded & insured"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Restored",
+    "stat_2_value": "25",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "50",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Commitment"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Specialized Pool Tile &<br class=\"hidden md:block\"> Surface Restoration",
+    "subtitle": "We don't do a little of everything — we do one thing exceptionally well. Our salt blasting process safely removes calcium and hard water buildup without damaging your tile, stone, or pool surface.",
+    "cards": [
+      {
+        "title": "Pool Tile Blasting",
+        "description": "Our signature salt blasting process removes stubborn calcium and hard water deposits from glass, mosaic, and delicate tiles — safely and without damage. Your tile looks brand new."
+      },
+      {
+        "title": "Calcium Removal",
+        "description": "Thick white calcium lines ruining your waterline? We blast it away completely, restoring the original color and beauty of your tile, stone, and coping."
+      },
+      {
+        "title": "Pool Acid Wash",
+        "description": "Professional acid application removes stubborn surface stains and buildup with absolute precision. Reveals the crystal-clear pool surface hiding underneath years of deposits."
+      },
+      {
+        "title": "Pool Drain & Refill",
+        "description": "A complete pool refresh — we drain your pool, remove accumulated solids and debris, and refill with properly balanced water for a total fresh start."
+      },
+      {
+        "title": "Stone & Coping Restoration",
+        "description": "Hard water deposits don't just attack tile — they build up on natural stone and coping too. Our blasting process restores these surfaces without the harsh chemicals."
+      },
+      {
+        "title": "Hard Water Stain Removal",
+        "description": "Those white, crusty deposits along your waterline aren't permanent. Our gentle salt blasting method strips away years of mineral buildup and brings your pool back to life."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Sparkling Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Send us a photo of your pool tile or give us a call. We'll assess the buildup and provide a straightforward, no-pressure estimate — usually within 24 hours."
+      },
+      {
+        "title": "We Blast It Clean",
+        "description": "Our experienced technicians arrive on schedule with professional salt blasting equipment. The process is gentle on tile but tough on calcium — most jobs completed in a single visit."
+      },
+      {
+        "title": "Admire the Transformation",
+        "description": "Watch years of calcium vanish and your pool tile gleam like the day it was installed. We clean up completely and leave your pool area spotless. Restore, Renew, Revere."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Arizona Trusts Blast The Past",
+    "headline": "25+ Years of Making Pools Look New Again",
+    "description": "Founded by Jeff and Chris — longtime friends turned business partners — Blast The Past has been Arizona's go-to pool tile cleaning company for over 25 years. We're not a general pool company. We specialize exclusively in tile blasting and calcium removal, which means we've perfected our process to deliver results that general contractors simply can't match. Licensed (ROC #355430), bonded, insured, and driven by our Restore, Renew, Revere philosophy, we treat every pool like it's our own.",
+    "badge": "ROC #355430 — Licensed & Insured",
+    "features": [
+      {
+        "title": "Safe for Delicate Tiles",
+        "description": "Our salt blasting process is powerful enough to strip calcium but gentle enough for glass, mosaic, and decorative tiles. No chipping, no scratching, no damage."
+      },
+      {
+        "title": "Free Estimates, No Pressure",
+        "description": "We'll assess your pool, explain exactly what's needed, and give you an honest price. No sales pitch, no upselling — just straightforward service."
+      },
+      {
+        "title": "Community-First Business",
+        "description": "Our mission goes beyond cleaning. Jeff and Chris built this company on helping their Arizona community shine — one pool at a time."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing. No Surprises.",
+    "subtitle": "Every estimate is free and straightforward. We explain the work, provide a clear price, and never add hidden fees. What we quote is what you pay."
+  },
+  "guarantee": {
+    "headline": "Our \"Restore, Renew, Revere\" Promise",
+    "description": "If you're not thrilled with how your pool tile looks after our blasting service, we'll come back and make it right at no additional cost. With 25+ years of experience and a 4.9-star rating, we stake our reputation on every single job. Your satisfaction isn't just a goal — it's the standard we've built our business on."
+  },
+  "faqs": [
+    {
+      "question": "Will salt blasting damage my pool tile?",
+      "answer": "Not at all. Our salt blasting process is specifically designed to be gentle on glass, mosaic, and delicate tiles while being tough on calcium. After 25+ years and thousands of pools, we've perfected a method that removes buildup without chipping, scratching, or damaging your tile."
+    },
+    {
+      "question": "How long does pool tile blasting take?",
+      "answer": "Most residential pools are completed in a single visit, typically within a few hours depending on the severity of the buildup. We'll give you a time estimate when we provide your free quote so you know exactly what to expect."
+    },
+    {
+      "question": "How often should I have my pool tile blasted?",
+      "answer": "In Arizona's hard water environment, most pool owners benefit from tile blasting every 2-3 years to prevent heavy calcium accumulation. Regular maintenance keeps buildup manageable and your pool looking its best year-round."
+    },
+    {
+      "question": "Do you offer free estimates?",
+      "answer": "Absolutely. Every estimate is free with no obligation. Send us a photo of your tile or call us, and we'll provide an honest assessment and clear pricing — usually within 24 hours. No pressure, no sales tactics."
+    },
+    {
+      "question": "What areas in Arizona do you serve?",
+      "answer": "We serve Gilbert, Chandler, Mesa, Scottsdale, Tempe, Phoenix, and surrounding communities across the Valley. If you're not sure whether we cover your area, just give us a call at 480-256-2244 and we'll let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Josh H.",
+      "context": "Pool Tile Blasting",
+      "initials": "JH",
+      "text": "Professional, communicative, high quality work, and prices were very reasonable. Our pool tile looks brand new after their blasting service. Highly recommend Blast The Past to anyone dealing with calcium buildup."
+    },
+    {
+      "name": "Grace P.",
+      "context": "Pool Tile Cleaning",
+      "initials": "GP",
+      "text": "AMAZING work, great communication, and overall always provide amazing service! They transformed our pool tile from white and crusty to absolutely beautiful. You can tell they really care about what they do."
+    },
+    {
+      "name": "Dean O.",
+      "context": "Delicate Tile Restoration",
+      "initials": "DO",
+      "text": "True professionals who clean without damaging old tile. We were worried about our vintage mosaic tile, but they handled it with incredible care. The calcium is gone and our tile looks gorgeous. Can't recommend them enough."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to See Your Pool<br>Tile Shine Again?",
+    "subtitle": "Get a free, no-obligation estimate within 24 hours. Just send us a photo or give us a call — we'll tell you exactly what it takes to restore your pool.",
+    "benefits": [
+      "Free estimate — no obligation",
+      "Most jobs completed in a single visit",
+      "25+ years of specialized experience"
+    ]
+  },
+  "footer": {
+    "description": "Arizona's pool tile blasting specialists. Restoring pools for 25+ years.",
+    "service_area": "Serving Gilbert, Chandler, Mesa, Scottsdale & the Valley",
+    "services": [
+      "Pool Tile Blasting",
+      "Calcium Removal",
+      "Pool Acid Wash",
+      "Pool Drain & Refill",
+      "Stone Restoration"
+    ],
+    "copyright": "&copy; 2024 Blast The Past. All rights reserved. Licensed, Bonded & Insured — ROC #355430"
+  }
+}

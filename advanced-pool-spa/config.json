@@ -1,0 +1,184 @@
+{
+  "folder_name": "advanced-pool-spa",
+  "company_name": "Advanced Pool & Spa",
+  "tagline": "Expert Pool & Spa Services in St. Louis",
+  "phone": "+1 636-938-3080",
+  "email": "scott@advancedpoolspa.com",
+  "logo_path": "",
+  "review_count": "78",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3d",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "A+ BBB Rated",
+    "badge_2": "4.0/5 from 78+ Reviews",
+    "badge_3": "Serving St. Louis Since 1990"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 78+ Google Reviews",
+    "badge_2": "A+ BBB Rated Since 1990",
+    "headline": "36 Years Keeping St. Louis <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "For over three decades, owner Scott Hill and his team have been the name St. Louis families trust for pool and spa care. From weekly cleaning to complex repairs, we handle it all so you can just enjoy the water.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site inspection",
+      "Same-week service available",
+      "A+ BBB rated satisfaction"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "3000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "36",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "78",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> From One Trusted Team",
+    "subtitle": "From routine maintenance to full construction, Advanced Pool & Spa handles every aspect of pool ownership so you never have to juggle multiple contractors.",
+    "cards": [
+      {
+        "title": "Pool Repair & Equipment",
+        "description": "Expert diagnosis and repair of plumbing leaks, structural issues, pumps, filters, heaters, and automation systems. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Weekly Cleaning & Chemistry",
+        "description": "Professional weekly cleaning with precise chemical balancing to keep your water crystal clear and safe. Skimming, vacuuming, filter care, and detailed service reports."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening services including cover removal, equipment startup, and chemistry balancing. Thorough winterization to protect your investment through Missouri winters."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Precise measurements and expert vinyl liner installations for pools of all shapes and sizes. We help you choose the perfect pattern and handle the entire process."
+      },
+      {
+        "title": "Swim Spa Sales & Service",
+        "description": "Complete swim spa support from sales consultation and delivery to ongoing maintenance and repairs. Find the perfect unit and keep it running at peak performance."
+      },
+      {
+        "title": "Custom Pool Construction",
+        "description": "From initial design concept through final build, we create the backyard oasis you have always envisioned. Full project management from start to first splash."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool or spa. Scott or a team member will provide an honest, no-pressure assessment within 24 hours. No contracts, no commitments required."
+      },
+      {
+        "title": "We Diagnose & Deliver",
+        "description": "Our certified technicians arrive on schedule, fully equipped. Owner Scott Hill personally oversees complex jobs to make sure every detail is handled right the first time."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays crystal clear and worry-free all season. With 36 years of expertise behind every visit, you can trust that your pool is in the best hands in St. Louis."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why St. Louis Trusts Us",
+    "headline": "Owner-Operated Since 1990 — That Makes All the Difference",
+    "description": "When Scott Hill founded Advanced Pool & Spa in 1990, he made a promise: every customer gets the same care he would want for his own pool. Thirty-six years later, that promise still drives everything we do. Our small team of 6 certified professionals means you get personalized attention, not a revolving door of strangers. Scott still personally diagnoses complex issues and stands behind every job with an A+ BBB rating.",
+    "badge": "A+ BBB Rated",
+    "features": [
+      {
+        "title": "Owner On Every Complex Job",
+        "description": "Scott Hill personally handles tough diagnostics and oversees major repairs. You deal with the owner, not a call center."
+      },
+      {
+        "title": "Small Team, Big Accountability",
+        "description": "With just 6 dedicated professionals, we know your pool by heart. No rotating crews, no missed details, no excuses."
+      },
+      {
+        "title": "36 Years of Proven Results",
+        "description": "Since 1990, thousands of St. Louis families have trusted us with their pools. Our longevity is our strongest reference."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Get an honest quote for exactly what your pool needs. No upselling, no hidden fees — just fair pricing from a company that has been doing this for 36 years."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service we perform, call Scott directly and we will come back to make it right at no additional charge. We have built our reputation over 36 years on standing behind our work, and we are not about to stop now. Your satisfaction is not just a policy — it is how we have stayed in business since 1990."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For urgent repair needs, we do our best to offer same-day or next-day response. Call us at 636-938-3080 and we will work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our clients provide gate access and we take care of everything while you are away. After each visit, you will know exactly what was done and the current state of your water chemistry."
+    },
+    {
+      "question": "What sets you apart from other pool companies?",
+      "answer": "Owner Scott Hill has been in the pool business for over 36 years. When you call, you get Scott — not a call center. Our small team of 6 certified pros means consistent, personalized service and real accountability on every job."
+    },
+    {
+      "question": "Do you work on spas and swim spas too?",
+      "answer": "Absolutely. We offer complete swim spa sales, installation coordination, maintenance, and repair services. Whether you have an existing spa or are looking to purchase one, we can help from start to finish."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve High Ridge, Arnold, Jefferson County, and the greater St. Louis metropolitan area. If you are within driving distance of our High Ridge location, chances are we can take care of you. Give us a call to confirm."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Adam M.",
+      "context": "Google Review",
+      "initials": "AM",
+      "text": "Scott completely transformed our pool experience in one summer by identifying issues other companies missed, including a hard-to-find leak. Finally someone who knows what they are doing."
+    },
+    {
+      "name": "Beverly V.",
+      "context": "Google Review",
+      "initials": "BV",
+      "text": "Scott and his crew are very professional and knowledgeable. They always do great work and I trust them completely with our pool. Would not go anywhere else."
+    },
+    {
+      "name": "William W.",
+      "context": "Google Review",
+      "initials": "WW",
+      "text": "Scott is one of the most knowledgeable and fair pool professionals I have ever worked with. Honest service every single time. Highly recommend to anyone in the St. Louis area."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Just Works?",
+    "subtitle": "Get a free, no-pressure assessment from a team with 36 years of experience. Call Scott directly or fill out the form — we respond within 24 hours.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Response within 24 hours",
+      "A+ BBB rated service guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated pool & spa service. Proudly serving St. Louis since 1990.",
+    "service_area": "Serving High Ridge, Arnold, Jefferson County & Greater St. Louis",
+    "services": [
+      "Pool Repair & Equipment",
+      "Weekly Cleaning",
+      "Pool Opening & Closing",
+      "Liner Replacement",
+      "Custom Construction"
+    ],
+    "copyright": "&copy; 2024 Advanced Pool & Spa. All rights reserved. High Ridge, MO"
+  }
+}

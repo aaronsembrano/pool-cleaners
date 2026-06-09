@@ -8,8 +8,10 @@ redirects = []
 
 [build]
 publish = "/Users/aaronsembrano/Desktop/Pool Cleaners/aqua-pool-care"
-publishOrigin = "default"
+publishOrigin = "config"
+commandOrigin = "config"
 base = "/Users/aaronsembrano/Desktop/Pool Cleaners/aqua-pool-care"
+command = "echo 'no build needed'"
 
 [build.environment]
 

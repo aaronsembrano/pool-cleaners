@@ -1,0 +1,183 @@
+{
+  "folder_name": "knutsen-outdoor",
+  "company_name": "Knutsen Outdoor",
+  "tagline": "Form and Function Have a New Home. Yours.",
+  "phone": "+1 717-560-1593",
+  "email": "andy@knutsenlandscaping.com",
+  "review_count": "56",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3D1A",
+    "primary_deeper": "#142A12",
+    "secondary": "#8B7355",
+    "cta": "#C4742A",
+    "cta_dark": "#A35E1F"
+  },
+  "trust_badges": {
+    "badge_1": "PA Licensed #PA026976",
+    "badge_2": "4.9/5 from 56+ Reviews",
+    "badge_3": "ICPI & Techo-Pro Certified"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 56+ Google Reviews",
+    "badge_2": "Award-Winning Design-Build",
+    "headline": "Your Backyard Deserves <span class=\"text-secondary italic\">a Masterpiece</span>",
+    "subheadline": "For 26 years, Lancaster County homeowners have trusted Knutsen Outdoor to design and build outdoor spaces that feel like a natural extension of home. From 3D renderings to the final stone, we handle everything so you can simply enjoy the result.",
+    "cta_text": "Start Your Outdoor Project",
+    "checkmarks": [
+      "Free design consultation",
+      "3D project renderings included",
+      "Certified master installers"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "26",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "56",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From the first sketch to the last landscape light, Knutsen Outdoor handles every detail of your outdoor transformation with certified craftsmanship and decades of local experience.",
+    "cards": [
+      {
+        "title": "Landscape Design",
+        "description": "Custom landscape plans tailored to your property, lifestyle, and vision. We walk you from concept through professional 3D renderings so you see your project before a single shovel breaks ground."
+      },
+      {
+        "title": "Walls & Hardscaping",
+        "description": "Retaining walls, sitting walls, and hardscape features built by ICPI and SRW certified installers. Premium materials, precise engineering, and structures that look stunning for decades."
+      },
+      {
+        "title": "Pools & Patios",
+        "description": "Pool decking, patio design, and walkway construction that create seamless outdoor gathering spaces. We build surfaces that are as beautiful as they are durable."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Pergolas, kitchens, fire pits, and seating areas designed as complete entertaining environments. Your backyard becomes the place everyone wants to be."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Professional lighting design that highlights your property's best features and extends outdoor enjoyment into the evening. Safe paths, dramatic accents, and warm ambiance."
+      },
+      {
+        "title": "Louvered Pergolas & Screens",
+        "description": "Motorized louvered pergolas and Fenetex retractable screens that let you control shade, weather, and privacy with the touch of a button."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Reality in Three Steps",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Schedule a free design consultation at your home. We listen to your goals, assess your property, and discuss possibilities. No pressure, no obligation — just honest conversation about what your space can become."
+      },
+      {
+        "title": "See It Before We Build It",
+        "description": "Our designers create detailed 3D renderings of your project. You see exactly how your new outdoor space will look and feel, with the ability to refine every detail before construction begins."
+      },
+      {
+        "title": "Watch It Come to Life",
+        "description": "Our certified crews handle every phase of construction with precision and care. You stay informed throughout the process, and we do not stop until the finished result exceeds your expectations."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Lancaster County Trusts Us",
+    "headline": "Award-Winning Craftsmanship, Rooted in Lancaster County",
+    "description": "Since 2000, Knutsen Outdoor has been transforming Central Pennsylvania properties into award-winning outdoor spaces. Led by owner Andy Geider and backed by ICPI, Techo-Pro, and SRW certifications, our team brings a rare combination of design talent and construction expertise to every project. We are not a franchise or a franchise crew — we are your neighbors, and we take personal pride in every wall, patio, and landscape we build.",
+    "badge": "ICPI & Techo-Pro Certified",
+    "features": [
+      {
+        "title": "Certified & Licensed Installers",
+        "description": "PA Contractor License #PA026976, ICPI certified, Techo-Pro certified, and SRW certified. Every project meets the highest industry standards."
+      },
+      {
+        "title": "Full Design-Build Service",
+        "description": "One team from start to finish. We design, engineer, and install your project — no subcontractors, no miscommunication, no finger-pointing."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Our 4.9-star Google rating speaks for itself. We stand behind every project and do not consider it done until you are completely thrilled."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is custom-scoped to your property and goals. We provide detailed written proposals so you know exactly what you are getting — and what you are paying."
+  },
+  "guarantee": {
+    "headline": "Our \"Craftsmanship\" Guarantee",
+    "description": "Every Knutsen Outdoor project is backed by our commitment to excellence. If any element of our work does not meet the standard we promised, we come back and make it right at no additional cost. With 26 years of reputation on the line, we never cut corners — your outdoor space will be built to last and look exceptional for years to come."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical outdoor project take?",
+      "answer": "Timelines vary based on project scope. A patio or walkway might take 1-2 weeks, while a full outdoor living space with hardscaping and landscaping can take 4-8 weeks. We provide a detailed timeline during the proposal phase and keep you updated throughout construction."
+    },
+    {
+      "question": "Do I need to be home during construction?",
+      "answer": "Not at all. Most clients go about their normal routine while our crew works. We communicate progress regularly through photos and updates, and we always clean up at the end of each workday. Your property is treated with the same care as our own."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Lancaster County and the broader Central Pennsylvania region. Based in Conestoga, we are well-positioned to serve homeowners throughout the area. If you are unsure whether you fall within our service area, just give us a call."
+    },
+    {
+      "question": "What makes Knutsen Outdoor different from other contractors?",
+      "answer": "We are a true design-build firm with ICPI, Techo-Pro, and SRW certifications under one roof. That means your project is designed, engineered, and installed by the same team — no subcontractors. Our 4.9-star rating across 56+ reviews reflects 26 years of consistently exceptional work."
+    },
+    {
+      "question": "Can I see examples of your previous work?",
+      "answer": "Absolutely. We have an extensive portfolio of completed projects including patios, retaining walls, outdoor living spaces, and full landscape transformations. During your consultation, we are happy to share examples similar to what you are envisioning and even arrange visits to completed projects nearby."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Doug & Debbie",
+      "text": "Knutsen Outdoor deserves 10 STARS! The product and installation is superb! From the first contact with Andy and Alanna, the commitment to customer service, skilled workmanship, and friendly interactions made our outdoor space a mini vacation resort.",
+      "context": "Outdoor living project",
+      "initials": "DD"
+    },
+    {
+      "name": "Dave & Amy W.",
+      "text": "Our experience with Knutsen was excellent. From design to install all contact and interaction was professional. We have received many compliments on our new landscape.",
+      "context": "Full landscape installation",
+      "initials": "DW"
+    },
+    {
+      "name": "Michael W.",
+      "text": "The crew from Knutsen did a great job. Joel and his crew showed creativity and hard work on our two-stage creek bed and landscaping project. Outstanding craftsmanship throughout.",
+      "context": "Creek bed & landscaping",
+      "initials": "MW"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free design consultation with no pressure and no obligation. We will visit your property, listen to your vision, and show you what is possible.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "3D renderings before construction"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning landscape design-build contractor. Serving Lancaster County since 2000.",
+    "service_area": "Serving Lancaster County & Central Pennsylvania",
+    "services": [
+      "Landscape Design",
+      "Walls & Hardscaping",
+      "Pools & Patios",
+      "Outdoor Living",
+      "Landscape Lighting"
+    ],
+    "copyright": "&copy; 2026 Knutsen Outdoor. All rights reserved. PA Contractor License #PA026976"
+  }
+}

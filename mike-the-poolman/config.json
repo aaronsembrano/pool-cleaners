@@ -1,0 +1,184 @@
+{
+  "folder_name": "mike-the-poolman",
+  "company_name": "Mike the Poolman",
+  "tagline": "Doing what's BEST for our CUSTOMERS since 1995",
+  "phone": "+1 916-985-7665",
+  "email": "mike@mikestinson.com",
+  "logo_path": "",
+  "review_count": "92",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0369a1",
+    "primary_dark": "#1e3a5f",
+    "primary_deeper": "#0f2440",
+    "secondary": "#38bdf8",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 92+ Reviews",
+    "badge_3": "BBB Accredited"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 92+ Google Reviews",
+    "badge_2": "Voted Best in Folsom",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Owner's Touch</span>",
+    "subheadline": "For 31 years, Mike Stinson has personally cared for Folsom pools with the same small, dedicated team. No revolving door of strangers in your backyard — just honest, expert service from people who know your pool by name.",
+    "cta_text": "Get My Honest Quote",
+    "checkmarks": [
+      "Free pool evaluation",
+      "Same technician every week",
+      "No upselling — ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Folsom Pools Maintained",
+    "stat_2_value": "31",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "92",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Background-Checked Team"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Actually Knows Your Pool",
+    "subtitle": "From weekly chemical checks to full equipment overhauls, Mike and his crew handle it all — with the kind of personal attention only a small, family-run company can deliver.",
+    "cards": [
+      {
+        "title": "Weekly Chemical Service",
+        "description": "Precise water testing, chlorine and pH balancing, and automated chemistry reports so you always know your pool is safe and swim-ready. Starting at $110/month."
+      },
+      {
+        "title": "Full-Service Maintenance",
+        "description": "Complete hands-on care — skimming, vacuuming, brushing, filter cleaning, and chemical balancing. We treat your pool like it's our own. Starting at $275/month."
+      },
+      {
+        "title": "Heater Repair & Replacement",
+        "description": "Expert diagnosis, repair, and full replacement of pool and spa heaters. Professional replumbing and pipe repainting included for a clean, finished look."
+      },
+      {
+        "title": "Filter & Pump Service",
+        "description": "Complete filtration system repair, replacement, and variable speed pump installation for improved efficiency and lower energy bills."
+      },
+      {
+        "title": "Equipment & Automation",
+        "description": "Professional installation of variable speed pumps, electronic controls, and automation systems that save you time, energy, and money."
+      },
+      {
+        "title": "Safety & Repair Work",
+        "description": "Hand rail installation, drain cover replacement, plumbing repairs, and neglected pool restoration — keeping your pool safe and code-compliant."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Text Mike Directly",
+        "description": "Reach out for a free pool evaluation. Mike personally visits your property, gives you an honest assessment — no pressure, no sales pitch, no obligation."
+      },
+      {
+        "title": "Meet Your Dedicated Technician",
+        "description": "You'll be matched with a background-checked, experienced team member who services your pool every single week. No revolving door of strangers."
+      },
+      {
+        "title": "Enjoy Crystal-Clear Water",
+        "description": "Relax knowing your pool is maintained by a team with 31 years of Folsom expertise. If anything needs attention, we catch it early and communicate fast."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Folsom Trusts Mike",
+    "headline": "One Small Team. One Big Commitment to Your Pool.",
+    "description": "Mike Stinson founded Mike the Poolman in 1995 with a simple idea: keep the company small so every customer gets personal, expert care. Thirty-one years later, that philosophy hasn't changed. Mike intentionally limits his client list so his tight-knit, background-checked crew can give your pool the attention it deserves — not rush through a route of 40 stops. The same experienced technician shows up at your door every week, knows your equipment inside and out, and treats your backyard like their own.",
+    "badge": "Voted Best in Folsom",
+    "features": [
+      {
+        "title": "Background-Checked & Experienced",
+        "description": "Every team member passes a thorough background check and is trained by Mike personally. Low turnover means the same trusted face every week."
+      },
+      {
+        "title": "Honest Assessments, No Upselling",
+        "description": "Mike tells you what your pool actually needs — nothing more. No pressure to buy equipment you don't need or pay for services you won't use."
+      },
+      {
+        "title": "31-Year Satisfaction Record",
+        "description": "Voted the best pool service in Folsom with 92+ five-star reviews. If something isn't right, Mike makes it right — period."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool and budget. Every plan includes honest communication and no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Same Technician\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, Mike will personally come to your pool and make it right at no extra charge. With 31 years of reputation on the line, we don't cut corners — and we never will. Your satisfaction is the only way we've stayed in business this long."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on the schedule within one week. Mike personally evaluates every new pool first to recommend the right service level. Just call or text and we'll set up your free evaluation."
+    },
+    {
+      "question": "Will the same person service my pool every week?",
+      "answer": "Yes — that's one of our biggest commitments. We intentionally keep our team small with low turnover so you see the same experienced, background-checked technician every visit. No strangers in your backyard."
+    },
+    {
+      "question": "Do you try to upsell equipment I don't need?",
+      "answer": "Never. Mike built this company on honest assessments. If your equipment is working fine, we'll tell you. If something needs attention, we'll explain why and give you options — no pressure, no sales tactics."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Folsom, El Dorado Hills, Fair Oaks, and surrounding Sacramento-area communities. Mike keeps the service area manageable so the team can respond quickly and maintain quality."
+    },
+    {
+      "question": "Are your employees background-checked?",
+      "answer": "Every single one. All team members pass comprehensive background checks before they ever step foot in your backyard. Your family's safety and peace of mind are non-negotiable for us."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Chuck F.",
+      "context": "Pool heater replacement",
+      "initials": "CF",
+      "text": "I can always rely on Mike. He replaced my pool heater, handled all the replumbing excellently, and repainted the pipes to look brand new. He even removed automatic valve actuators at no charge. Friendly, competent, and trustworthy."
+    },
+    {
+      "name": "Alexander F.",
+      "context": "Filter and pump installation",
+      "initials": "AF",
+      "text": "Mike visited personally, provided honest recommendations without overselling, and installed a new filter and variable speed pump at fair pricing. He never tried to upsell me — just gave an honest assessment. Outstanding service."
+    },
+    {
+      "name": "Dave S.",
+      "context": "Long-term pool service",
+      "initials": "DS",
+      "text": "Having had pool service in Davis, Encinitas, and Folsom, Mike has been the best provider I've experienced. He handles complete repairs that most pool servicers won't touch, including maintenance, equipment work, and full pool restoration."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care You<br>Can Actually Count On?",
+    "subtitle": "Call Mike directly for a free, no-pressure pool evaluation. No contracts, no gimmicks — just 31 years of honest pool care for Folsom families.",
+    "benefits": [
+      "Free on-site pool evaluation",
+      "Personal response from Mike within 24 hours",
+      "No contracts — cancel anytime"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Folsom since 1995.",
+    "service_area": "Serving Folsom, El Dorado Hills, Fair Oaks & Sacramento Area",
+    "services": [
+      "Weekly Pool Service",
+      "Heater Repair & Replacement",
+      "Filter & Pump Service",
+      "Equipment Installation",
+      "Pool Repairs"
+    ],
+    "copyright": "&copy; 2026 Mike the Poolman. All rights reserved. Licensed & Insured Pool Contractor."
+  }
+}
