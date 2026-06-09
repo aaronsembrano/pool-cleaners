@@ -2,183 +2,183 @@
   "folder_name": "leisure-time-pool",
   "company_name": "Leisure Time Pool Service & Repair",
   "tagline": "We work for your leisure",
-  "phone": "(916) 638-4100",
+  "phone": "+1 916-638-4100",
   "email": "scott@leisuretimepool.com",
-  "logo_path": "",
+  "logo_path": "logo.png",
   "review_count": "31",
   "review_rating": "4.0",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133b56",
-    "primary_deeper": "#0d2a3e",
-    "secondary": "#2980b9",
-    "cta": "#e67e22",
-    "cta_dark": "#d35400"
+    "primary": "#073949",
+    "primary_dark": "#052d3a",
+    "primary_deeper": "#031e28",
+    "secondary": "#2b5663",
+    "cta": "#f93531",
+    "cta_dark": "#d42b28"
   },
   "trust_badges": {
     "badge_1": "CSLB Licensed #880260",
     "badge_2": "4.0/5 from 31+ Reviews",
-    "badge_3": "Family-Owned Since 1995"
+    "badge_3": "Family Owned Since 1995"
   },
   "hero": {
     "badge_1": "4.0/5 from 31+ Google Reviews",
     "badge_2": "Serving Sacramento Since 1995",
-    "headline": "Your Family Pool Team <span class=\"text-secondary italic\">For Over<br>30 Years</span>",
-    "subheadline": "Since 1995, Sacramento families have trusted Leisure Time for every pool need — from weekly cleaning to full remodels. Our certified technicians treat your backyard like their own, so all you do is enjoy the water.",
-    "cta_text": "Schedule My Free Estimate",
+    "headline": "Family-Owned Pool Care <span class=\"text-secondary italic\">You Can<br>Count On</span>",
+    "subheadline": "For over 30 years, the Houseman family has kept Sacramento pools sparkling clean. From weekly maintenance to complete remodels, our certified technicians handle it all so you can focus on what matters most — enjoying your backyard.",
+    "cta_text": "Get My Free Pool Estimate",
     "checkmarks": [
       "Free pool inspection",
-      "Certified & factory-trained techs",
-      "No-pressure honest quotes"
+      "Same-day or next-day callbacks",
+      "Certified & factory trained techs"
     ]
   },
   "stats": {
-    "stat_1_value": "3000",
+    "stat_1_value": "1000",
     "stat_1_label": "Pools Maintained",
     "stat_2_value": "31",
-    "stat_2_label": "Years of Service",
-    "stat_3_value": "10",
-    "stat_3_label": "Sacramento Communities",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "8",
+    "stat_3_label": "Service Areas",
     "stat_4_value": "100%",
     "stat_4_label": "Family Commitment"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\">One Trusted Family Team",
-    "subtitle": "From routine weekly maintenance to complex remodels, our chemically certified and factory-trained technicians handle it all — so you never have to juggle multiple contractors.",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> From One Trusted Team",
+    "subtitle": "From weekly cleaning to new pool construction, the Houseman family has you covered. One call handles everything your pool or spa needs.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive weekly cleaning, chemical balancing, and filter care by certified technicians. Your pool stays crystal clear and swim-ready every single week."
+        "description": "Customizable maintenance plans including chemical balancing, skimming, vacuuming, and equipment checks. Your pool stays swim-ready every single week."
       },
       {
         "title": "Pool & Spa Repair",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and plumbing. Most repairs completed same-visit by factory-trained technicians."
+        "description": "Pumps, filters, heaters, and more — our factory trained technicians diagnose and fix it right. Residential and commercial repairs done with care."
       },
       {
-        "title": "Pool Resurfacing",
-        "description": "Complete re-plastering and resurfacing to eliminate stains, rough spots, and deterioration. Restore your pool's beauty with a finish built to last."
+        "title": "Leak Detection",
+        "description": "Professional leak detection for pool plumbing, shells, and equipment. We find and fix leaks before they cause costly damage to your property."
       },
       {
-        "title": "Leak Detection & Repair",
-        "description": "Advanced leak detection technology pinpoints hidden leaks fast. Our team stops water loss and prevents costly structural damage before it spreads."
+        "title": "Pool Remodel & Resurfacing",
+        "description": "Transform your existing pool with new plaster, tile, coping, and decorative upgrades. We bring tired pools back to life beautifully."
       },
       {
-        "title": "Pool Remodeling",
-        "description": "Full-scale renovations including tile, plaster, LED lighting, waterfalls, and modern equipment upgrades. Transform your pool into a backyard retreat."
+        "title": "Pool Equipment Upgrades",
+        "description": "Energy-efficient variable speed pumps, solar heating, LED lighting, and safety covers. Modern equipment that saves you money every month."
       },
       {
-        "title": "Solar Heating & Equipment",
-        "description": "Energy-efficient solar heating, variable speed pumps, and LED lighting installations that extend your swim season while cutting energy costs."
+        "title": "New Pool Construction",
+        "description": "Custom-designed pools with waterfalls, LED lighting, and features tailored to your backyard vision. From concept to first splash, we build it all."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Three Steps to Your Perfect Pool",
     "steps": [
       {
-        "title": "Call or Request a Quote",
-        "description": "Tell us about your pool and what you need. We'll schedule a free on-site inspection and provide an honest, no-pressure estimate — usually within 24 hours."
+        "title": "Call the Houseman Family",
+        "description": "Tell us about your pool or spa. We'll schedule a free inspection and provide an honest, no-pressure estimate. We return calls same-day or next-day."
       },
       {
-        "title": "Meet Your Dedicated Tech",
-        "description": "We assign a certified, factory-trained technician to your pool. They learn your system inside and out, so you get consistent, personalized care every visit."
+        "title": "We Send Certified Technicians",
+        "description": "Our chemically certified and factory trained techs arrive on schedule. Cleaning, chemical balancing, repairs, or remodels — we handle it all professionally."
       },
       {
-        "title": "Relax — We Handle the Rest",
-        "description": "Your pool stays sparkling, your equipment runs smoothly, and your weekends stay free. That's the Leisure Time difference — we work so you can play."
+        "title": "Enjoy Your Leisure Time",
+        "description": "Your pool stays crystal clear and worry-free. That's our promise — we work for your leisure so you can relax and enjoy your backyard oasis."
       }
     ]
   },
   "about": {
     "label": "Why Sacramento Trusts Us",
-    "headline": "A Family Business Built on Integrity Since 1995",
-    "description": "Founded by Jerry and Scott in Rancho Cordova, Leisure Time Pool Service has been a family affair for over three decades. We hire ethical professionals, invest in comprehensive training, and treat every customer's pool like it's in our own backyard. That's why clients who started with us in the '90s are still with us today.",
-    "badge": "CSLB Licensed C53",
+    "headline": "A Father-Son Team Dedicated to Your Pool",
+    "description": "Founded in 1995 by Jerry and Scott Houseman, Leisure Time Pool Service is a true family business built on trust and expertise. For over 30 years, we've served Sacramento and surrounding areas with the kind of care that only comes from treating every customer's pool like our own. Our technicians are chemically certified and factory trained — because your family deserves nothing less.",
+    "badge": "CSLB Licensed #880260",
     "features": [
       {
-        "title": "Certified & Factory-Trained",
-        "description": "Every technician is chemically certified and factory-trained on the latest pool equipment, ensuring expert care for your investment."
+        "title": "Certified & Factory Trained",
+        "description": "Every technician is chemically certified and factory trained on all major pool equipment brands."
       },
       {
-        "title": "Decades of Client Loyalty",
-        "description": "Our longest clients have been with us since 1997. We earn your trust visit after visit — no contracts needed to keep you coming back."
+        "title": "Customizable Service Plans",
+        "description": "No cookie-cutter packages. We tailor weekly maintenance plans to fit your pool's unique needs and your budget."
       },
       {
-        "title": "Residential & Commercial",
-        "description": "From backyard pools to apartment complexes and HOAs, we bring the same family-business care and professionalism to every job."
+        "title": "Full-Service Company",
+        "description": "From weekly cleaning to new construction and everything in between — one trusted team handles it all."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every pool is different, so we quote after a free inspection. No hidden fees, no upsells — just honest pricing from a family business that values long-term relationships."
+    "subtitle": "Choose the service level that fits your pool. Customizable plans with no long-term contracts required."
   },
   "guarantee": {
-    "headline": "Our \"Leisure Time\" Promise",
-    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've built our reputation on doing things the right way for over 30 years, and we're not about to stop now."
+    "headline": "Our \"Houseman Family\" Guarantee",
+    "description": "If you're ever not satisfied with our work, call us and we'll come back to make it right — no questions asked. We've built our reputation over 31 years by standing behind every job, big or small. Your pool is our priority, and we don't rest until it meets our family's standards."
   },
   "faqs": [
     {
-      "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients are scheduled within one week. We'll start with a free on-site inspection to assess your pool's condition, then build a maintenance plan tailored to your needs. Call us at (916) 638-4100 to get started."
+      "question": "How quickly can you start pool service?",
+      "answer": "Most new clients are scheduled within a few days. We pride ourselves on same-day or next-day callbacks, so you'll hear from us fast. Just give us a call at 916-638-4100 and we'll get you on the schedule."
     },
     {
-      "question": "Do I need to be home during service visits?",
-      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. Your technician will leave a service summary so you always know exactly what was done."
+      "question": "What areas in Sacramento do you serve?",
+      "answer": "We serve Sacramento and surrounding communities including Rancho Cordova, Citrus Heights, Carmichael, Gold River, Elk Grove, Folsom, Elkhorn, and the Pocket-Greenhaven area. If you're nearby, give us a call — we likely cover your neighborhood."
     },
     {
       "question": "Are your technicians certified?",
-      "answer": "Yes. Every Leisure Time technician is chemically certified and factory-trained on all major pool equipment brands. We also hold CSLB License #880260 C53, so you can trust your pool is in professional hands."
+      "answer": "Absolutely. All of our pool technicians are chemically certified and factory trained on major equipment brands. We also hold CSLB License #880260 C53, so you can trust that your pool is in qualified hands."
     },
     {
-      "question": "Do you handle both residential and commercial pools?",
-      "answer": "Absolutely. We service residential pools of all sizes as well as apartment complexes, HOAs, and commercial facilities throughout the greater Sacramento area. Commercial clients receive tailored maintenance plans and priority scheduling."
+      "question": "Do you work on spas and hot tubs too?",
+      "answer": "Yes! We specialize in both portable and in-ground spa repair, covering heating systems, jets, pumps, and electrical components. Whether it's a quick fix or a major repair, we've got the expertise."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve Sacramento, Rancho Cordova, Citrus Heights, Carmichael, Gold River, Elk Grove, Folsom, Elkhorn, Pocket-Greenhaven, and surrounding communities. If you're in the greater Sacramento area, chances are we're already in your neighborhood."
+      "question": "Can you help with pool remodels and new construction?",
+      "answer": "We sure can. From plaster resurfacing and tile replacement to complete new pool construction with waterfalls and LED lighting, we handle the full scope. We've been building and remodeling pools in Sacramento for over 30 years."
     }
   ],
   "testimonials": [
     {
-      "name": "John 'JB' Brown",
-      "text": "Thank you so much for the hard work, the quick turn around and the willingness to be flexible. Your team did an outstanding job on the pool repair and pump work.",
-      "context": "Realtor — Pool repair & pump work",
+      "name": "John \"JB\" Brown",
+      "text": "The pool looks fantastic and the repair work to the pump looks brand new — excellent work. Leisure Time consistently delivers quality results.",
+      "context": "Realtor, Coldwell Banker",
       "initials": "JB"
     },
     {
-      "name": "Thom, Fran & Christy",
-      "text": "We have been customers since 1997 and they have handled our pool cleaning, equipment replacement, and re-plastering with excellence over 13 plus years of dedicated service.",
-      "context": "Citrus Heights — Customers since 1997",
-      "initials": "TF"
+      "name": "Carol C.",
+      "text": "Just had a leak repaired in pool equipment. They responded to my call so quickly and Austin was great! Thank you Leisure Time Pool Service for the fast, professional work.",
+      "context": "Leak repair customer",
+      "initials": "CC"
     },
     {
-      "name": "Bob R.",
-      "text": "Our regular service tech Josh gives our pool a sparkling appearance. After several years of pool service and repairs, we could not be more satisfied with Leisure Time.",
-      "context": "Pocket Area, Sacramento",
-      "initials": "BR"
+      "name": "Dr. Parnell L.",
+      "text": "I have been very happy with the service for years. My technician Jarred is professional, courteous, thorough and communicates well about pool observations. Highly recommended.",
+      "context": "Long-time customer",
+      "initials": "PL"
     }
   ],
   "contact": {
     "headline": "Ready for a Pool You<br>Never Worry About?",
-    "subtitle": "Get a free on-site inspection and honest quote from a family team that's served Sacramento for over 30 years. No pressure, no contracts — just great pool care.",
+    "subtitle": "Get a free, no-pressure estimate from the Houseman family. Over 30 years of Sacramento pool expertise — just one call away.",
     "benefits": [
-      "Free on-site pool inspection",
-      "Honest quote within 24 hours",
-      "Certified technicians — guaranteed"
+      "Free pool inspection with every estimate",
+      "Same-day or next-day response",
+      "31 years of family-owned expertise"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service proudly serving the greater Sacramento area since 1995.",
-    "service_area": "Serving Sacramento, Rancho Cordova, Citrus Heights & Surrounding Areas",
+    "description": "Family-owned pool service. Proudly serving Sacramento since 1995.",
+    "service_area": "Serving Sacramento, Rancho Cordova, Citrus Heights, Carmichael, Folsom & More",
     "services": [
       "Weekly Maintenance",
       "Pool & Spa Repair",
-      "Pool Resurfacing",
       "Leak Detection",
-      "Pool Remodeling"
+      "Pool Remodeling",
+      "New Construction"
     ],
-    "copyright": "&copy; 2026 Leisure Time Pool Service & Repair. All rights reserved. CSLB License #880260 C53"
+    "copyright": "&copy; 2024 Leisure Time Pool Service & Repair. All rights reserved. CSLB License #880260 C53"
   }
 }

@@ -1,72 +1,75 @@
 {
   "folder_name": "islandia-pools",
   "company_name": "Islandia Pools Ltd.",
-  "tagline": "Backyards were made for back floats",
+  "tagline": "Backyards were made for back floats.",
   "phone": "+1 631-727-6312",
-  "email": "john.wysoczanski@islandiapools.com",
-  "colors": {
-    "primary": "#0097A7",
-    "primary_dark": "#00707D",
-    "primary_deeper": "#004D56",
-    "secondary": "#00BCD4",
-    "cta": "#E65100",
-    "cta_dark": "#BF360C"
-  },
+  "email": "boanne@islandiapools.com",
+  "logo_path": "logo.png",
+  "review_count": "60",
+  "review_rating": "4.5",
   "trust_badges": {
-    "badge_1": "BBB A+ Rated",
+    "badge_1": "Dan's Best of the Best Award",
     "badge_2": "4.5/5 from 60+ Reviews",
-    "badge_3": "Serving Long Island Since 1987"
+    "badge_3": "BioGuard Platinum Dealer"
+  },
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#112842",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#4a90d9",
+    "cta": "#d4af37",
+    "cta_dark": "#b8962e"
   },
   "hero": {
     "badge_1": "4.5/5 from 60+ Google Reviews",
-    "badge_2": "BBB A+ Rated Business",
-    "headline": "Long Island's Pool Experts <span class=\"text-secondary italic\">Since 1987</span>",
-    "subheadline": "For nearly 40 years, over 5,000 families have trusted Islandia Pools to design, build, and maintain their backyard retreats. From custom pools to weekly service, we handle everything so you can just enjoy the water.",
-    "cta_text": "Get Your Free Pool Consultation",
+    "badge_2": "Serving Long Island Since 1987",
+    "headline": "Award-Winning Pools for <span class=\"text-secondary italic\">the Hamptons<br>& North Fork</span>",
+    "subheadline": "For nearly 40 years, Islandia Pools has designed and built resort-quality pools, spas, and backyards for over 5,000 families. From custom design to weekly maintenance, we handle everything so you can simply enjoy the water.",
+    "cta_text": "Start Your Dream Pool",
     "checkmarks": [
-      "Free backyard consultation",
-      "Award-winning pool designs",
-      "Full-service under one roof"
+      "Free design consultation",
+      "Financing available through LightStream",
+      "Full-service: design, build, maintain"
     ]
   },
   "stats": {
     "stat_1_value": "5000",
-    "stat_1_label": "Families Served",
+    "stat_1_label": "Customers Served",
     "stat_2_value": "39",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "5",
-    "stat_3_label": "Services Under One Roof",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_value": "60",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "4.5★",
+    "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Design, Build, Maintain & Repair —<br class=\"hidden md:block\"> All Under One Roof",
-    "subtitle": "From your first sketch to your thousandth swim, Islandia Pools handles every phase of pool ownership so you never have to juggle multiple contractors.",
+    "headline": "Everything Your Pool Needs,<br class=\"hidden md:block\"> All Under One Roof",
+    "subtitle": "From the first sketch to the last chemical check, Islandia Pools handles every aspect of pool and spa ownership. Design, construction, maintenance, and supplies — one team, one call.",
     "cards": [
       {
-        "title": "Custom Pool Design & Build",
-        "description": "Award-winning designers create your dream pool from concept to first splash. Every detail tailored to your yard, your style, and your budget."
+        "title": "Custom Pool Design",
+        "description": "Work with our award-winning design team to create the backyard retreat you've always imagined. We collaborate with homeowners and architects to deliver stunning, resort-quality pools."
       },
       {
-        "title": "Spa & Hot Tub Installation",
-        "description": "Complete spa and hot tub sales, delivery, and professional installation. Extend your backyard season and unwind year-round in total luxury."
+        "title": "Pool Construction",
+        "description": "Expert installation from excavation to first splash. Our experienced crews build pools that last decades, using premium materials and proven construction methods."
       },
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive cleaning, chemical balancing, and equipment checks that keep your pool sparkling and swim-ready every single week of the season."
+        "title": "Spa Design & Installation",
+        "description": "Hot tubs and spas designed to complement your backyard oasis. We create relaxing spa spaces tailored to your vision, from intimate soaking tubs to full spa retreats."
       },
       {
-        "title": "Pool Repairs & Diagnostics",
-        "description": "Expert troubleshooting for pumps, filters, heaters, plumbing, and surfaces. Fast turnaround so your pool is back in action without the wait."
+        "title": "Maintenance & Repairs",
+        "description": "Keep your pool pristine season after season with our comprehensive maintenance and repair services. Weekly cleaning, equipment checks, and fast repairs when you need them."
       },
       {
-        "title": "Retail Pool Supply Store",
-        "description": "Visit our fully stocked Riverhead store for chemicals, accessories, equipment, and expert advice from people who actually know pools."
+        "title": "Retail Pool & Spa Store",
+        "description": "Visit our Riverhead store at 108 Fishel Ave for professional-grade BioGuard chemicals, equipment, accessories, and expert advice. Open Mon-Fri 9-6, Sat 9-4."
       },
       {
-        "title": "Seasonal Opening & Closing",
-        "description": "Professional spring openings and winter closings that protect your investment and ensure your pool is ready the moment warm weather arrives."
+        "title": "Renovations & Upgrades",
+        "description": "Breathe new life into your existing pool with resurfacing, new tile, LED lighting, energy-efficient equipment, and modern automation systems."
       }
     ]
   },
@@ -74,110 +77,108 @@
     "headline": "Your Dream Pool in Three Simple Steps",
     "steps": [
       {
-        "title": "Schedule Your Free Consultation",
-        "description": "Tell us about your backyard vision. We'll visit your property, discuss options, and provide an honest, detailed quote — no pressure, no obligation."
+        "title": "Schedule a Free Consultation",
+        "description": "Tell us about your vision. We'll visit your property, discuss your ideas, and provide a clear, honest estimate — no pressure, no surprises."
       },
       {
-        "title": "We Bring Your Vision to Life",
-        "description": "Our award-winning team handles design, permitting, construction, and installation with decades of East End expertise. You stay informed at every stage."
+        "title": "We Design & Build",
+        "description": "Our experienced team handles every detail from award-winning design to expert construction. We keep you informed at every stage and stay on schedule."
       },
       {
-        "title": "Dive In & Relax",
-        "description": "Your new pool is ready. And with our ongoing maintenance programs, it stays crystal clear all season long while you focus on making memories."
+        "title": "Dive In & Enjoy",
+        "description": "Your backyard paradise is ready. And when you need maintenance, chemicals, or anything else, we're right here in Riverhead — just one call away."
       }
     ]
   },
   "about": {
     "label": "Why Long Island Trusts Us",
-    "headline": "Family-Owned Since 1987 — Three Decades of Backyard Transformations",
-    "description": "Founded by John and Boanne Wysoczanski in 1987, Islandia Pools has grown from a small family operation into one of Long Island's most trusted pool companies. Now proudly led by Dave, we've served over 5,000 families across the East End — designing, building, and caring for pools with the same personal attention we'd give our own. When you work with us, you're not a number. You're a neighbor.",
-    "badge": "BBB A+ Rated",
+    "headline": "A Family Business Built on Doing Things Right",
+    "description": "In 1987, our founding family couldn't find a pool company they could trust — so they started their own. With over a decade of prior experience, they built Islandia Pools on quality, integrity, and genuine care. Now led by owner Dave Freeborn, we work with hundreds of homeowners and architects across the North Fork and the Hamptons every year, delivering award-winning pools, spas, and resort-quality backyards. Nearly four decades and over 5,000 customers later, we're still treating every project like it's our own.",
+    "badge": "BioGuard Platinum Dealer",
     "features": [
       {
-        "title": "39 Years of Local Expertise",
-        "description": "Nearly four decades serving the East End means we know Long Island soil, weather, and building codes better than anyone."
+        "title": "39 Years of Trusted Experience",
+        "description": "Since 1987, we've built a reputation for quality craftsmanship and honest service that families across Long Island rely on."
       },
       {
-        "title": "Everything Under One Roof",
-        "description": "Design, build, maintain, repair, and supply — no subcontractors, no runaround. One team handles it all from start to finish."
+        "title": "Award-Winning Designs",
+        "description": "Recognized by Dan's Best of the Best, our designs transform ordinary backyards into extraordinary retreats on the North Fork and Hamptons."
       },
       {
-        "title": "5,000+ Happy Families",
-        "description": "Our customer base speaks for itself. Thousands of Long Island families trust us with their pools season after season."
+        "title": "Full-Service, One Call",
+        "description": "Design, construction, maintenance, and retail — everything you need for your pool and spa, all from one experienced team."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every project and service plan is quoted upfront with clear, honest pricing. No hidden fees, no bait-and-switch — just fair rates from a company that's been earning trust since 1987."
+    "subtitle": "Every project is unique. Contact us for a free consultation and honest estimate tailored to your property and vision."
   },
   "guarantee": {
-    "headline": "Our \"Backyard Paradise\" Guarantee",
-    "description": "If you're not completely satisfied with any service we provide, we'll come back and make it right at no extra charge. We've built our reputation over 39 years on doing right by our customers — and we're not about to stop now. Your satisfaction isn't just a promise; it's the foundation of everything we do."
+    "headline": "Our Quality Promise to You",
+    "description": "We stand behind every pool we build, every spa we install, and every service visit. If something isn't right, we'll make it right — that's the commitment we've upheld for nearly 40 years and over 5,000 customers. Your satisfaction isn't just a goal, it's our reputation."
   },
   "faqs": [
     {
-      "question": "How quickly can you start a new pool project?",
-      "answer": "We typically schedule consultations within a week and can begin construction based on project scope and permitting. For maintenance or repairs, we often have availability within days. Call us and we'll find the fastest path forward."
+      "question": "How long does it take to build a new pool?",
+      "answer": "Most custom pool projects take 8-12 weeks from design approval to completion, depending on complexity and permitting. We'll give you a clear timeline during your free consultation and keep you updated throughout the process."
     },
     {
-      "question": "Do you only serve the East End of Long Island?",
-      "answer": "Our primary service area covers Riverhead, the Hamptons, North Fork, South Fork, and communities throughout Suffolk County's East End. If you're nearby and unsure, give us a call — we're happy to check if we can serve your area."
+      "question": "Do you offer financing for pool projects?",
+      "answer": "Yes! We offer financing through LightStream, making it easier to bring your dream pool to life. Competitive rates and flexible terms are available. Ask us during your consultation for details."
     },
     {
-      "question": "Can I buy pool supplies without being a service customer?",
-      "answer": "Absolutely. Our Riverhead retail store is open to everyone. Stop by for chemicals, accessories, equipment, and free expert advice from our knowledgeable staff — whether you're a DIY pool owner or just need a quick supply run."
+      "question": "What areas on Long Island do you serve?",
+      "answer": "We serve the North Fork, the Hamptons, Riverhead, Calverton, and surrounding East End communities in Suffolk County. We've been the trusted pool professionals for this region since 1987."
     },
     {
-      "question": "What makes Islandia Pools different from other pool companies?",
-      "answer": "We're a true full-service operation: design, build, maintain, repair, and retail all under one roof. Most companies only do one or two of those. Plus, we've been family-owned since 1987 with over 5,000 satisfied customers and a BBB A+ rating."
+      "question": "Can I buy pool chemicals and supplies from you?",
+      "answer": "Absolutely. Visit our retail store at 108 Fishel Ave in Riverhead. We carry professional-grade BioGuard products, equipment, accessories, and more. Our staff can test your water and recommend exactly what you need. Open Mon-Fri 9am-6pm, Sat 9am-4pm."
     },
     {
-      "question": "Do you offer hot tub and spa services too?",
-      "answer": "Yes! We carry a full line of spas and hot tubs with professional delivery and installation. We also service and maintain existing spas. Visit our showroom in Riverhead or call us to explore your options."
+      "question": "Do you handle maintenance and repairs too?",
+      "answer": "Yes — we're a full-service operation. From weekly cleaning and chemical balancing to equipment repairs and seasonal openings and closings, we keep your pool in pristine condition year after year."
     }
   ],
   "testimonials": [
     {
       "name": "Paul Cesario",
+      "text": "I made the right decision! From start to finish, things went smooth and right on schedule. As a business owner myself, I was really impressed with their whole operation. They put their customers first and handle concerns always fast.",
       "context": "Pool Installation",
-      "initials": "PC",
-      "text": "From start to finish, things went smooth and on schedule. They do the right thing by putting customers first and any complaint or concern is always taken care of fast."
+      "initials": "PC"
     },
     {
-      "name": "Dr. Michelle Iona",
+      "name": "Dr. Michelle I.",
+      "text": "They were professional, knowledgeable, and attentive. They helped us design our backyard oasis with clear pricing throughout the process.",
       "context": "Pool Design",
-      "initials": "MI",
-      "text": "Professional, knowledgeable, and attentive. They helped us design a backyard oasis with clear pricing. We couldn't be happier with the result."
+      "initials": "MI"
     },
     {
-      "name": "Tracy Burgess Levy",
-      "context": "Ongoing Service",
-      "initials": "TL",
-      "text": "Dave, Cheryl and the entire crew at Islandia Pools are professionals who employ great field people, are responsive and knowledgeable as well as dependable. A business that cares about its customers."
+      "name": "Tracy B. Levy",
+      "text": "Dave, Cheryl and the entire crew at Islandia Pools are professionals. They employ great field people and are responsive, knowledgeable and dependable. This is a business that cares about its customers.",
+      "context": "Overall Service",
+      "initials": "TL"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform Your<br>Backyard?",
-    "subtitle": "Get a free, no-obligation consultation from Long Island's most trusted pool company. Nearly 40 years of expertise, one phone call away.",
+    "headline": "Ready for the Backyard<br>You've Always Wanted?",
+    "subtitle": "Get a free consultation and honest estimate. No pressure, no obligation — just 39 years of experience ready to help you create something beautiful.",
     "benefits": [
-      "Free on-site backyard consultation",
-      "Detailed quote within 48 hours",
-      "BBB A+ rated with 5,000+ customers served"
+      "Free on-site design consultation",
+      "Honest estimate within 48 hours",
+      "Financing options available"
     ]
   },
   "footer": {
-    "description": "Family-owned pool company serving Long Island's East End since 1987.",
-    "service_area": "Serving Riverhead, Hamptons, North Fork, South Fork & Suffolk County",
+    "description": "Family-owned pool and spa professionals. Serving Long Island's East End since 1987.",
+    "service_area": "Serving the North Fork, Hamptons & East End of Long Island",
     "services": [
       "Custom Pool Design",
-      "Spa & Hot Tub Sales",
-      "Pool Maintenance",
-      "Pool Repairs",
-      "Pool Supply Store"
+      "Pool Construction",
+      "Spa Installation",
+      "Maintenance & Repairs",
+      "Retail Store"
     ],
-    "copyright": "&copy; 2026 Islandia Pools Ltd. All rights reserved."
-  },
-  "review_count": "60",
-  "review_rating": "4.5"
+    "copyright": "&copy; 2024 Islandia Pools Ltd. All rights reserved. Riverhead, NY"
+  }
 }

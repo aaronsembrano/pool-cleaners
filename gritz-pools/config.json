@@ -2,182 +2,185 @@
   "folder_name": "gritz-pools",
   "company_name": "Gritz Pools & Spas",
   "tagline": "We Don't Just Build Pools. We Build Memories.",
-  "phone": "(610) 384-4422",
+  "phone": "+1 610-384-4422",
   "email": "mgritz@gritzpools.com",
+  "logo_path": "logo.png",
   "review_count": "85",
   "review_rating": "4.5",
   "colors": {
-    "primary": "#1E73BE",
-    "primary_dark": "#15527F",
-    "primary_deeper": "#0E3A5C",
-    "secondary": "#F5A623",
-    "cta": "#E8590C",
-    "cta_dark": "#C2410C"
-  },
-  "trust_badges": {
-    "badge_1": "Family-Owned Since 1963",
-    "badge_2": "4.5/5 from 85+ Reviews",
-    "badge_3": "BBB A+ Rated"
+    "primary": "#1B3A5C",
+    "primary_dark": "#132942",
+    "primary_deeper": "#0D1E30",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D9901A"
   },
   "hero": {
-    "badge_1": "4.5/5 from 85+ Google Reviews",
-    "badge_2": "Serving Chester County Since 1963",
-    "headline": "63 Years of Pools <span class=\"text-secondary italic\">Built to Last</span>",
-    "subheadline": "Three generations of Chester County families have trusted Gritz Pools to design, build, and maintain their backyard retreats. From custom pool construction to hot tubs and supplies, we handle everything so you just enjoy the water.",
-    "cta_text": "Get Your Free Pool Estimate",
+    "headline": "Chester County's Pool Experts <span class=\"text-secondary italic\">Since 1963</span>",
+    "subheadline": "Three generations of families have trusted Gritz Pools & Spas to build, maintain, and care for their backyard oasis. From custom pool construction to our fully stocked retail store, we're the only pool partner you'll ever need.",
+    "badges": [
+      "BBB A+ Rated Since 1963",
+      "85+ Five-Star Reviews"
+    ],
     "checkmarks": [
-      "Free on-site consultation",
-      "Full-service pool company",
-      "Over 60 years of expertise"
-    ]
+      "60+ years of family-owned pool expertise",
+      "Full-service: construction, maintenance, retail & hot tubs",
+      "Financing options available for new pool builds"
+    ],
+    "cta_text": "Get Your Free Pool Consultation"
   },
   "stats": {
-    "stat_1_value": "3000",
-    "stat_1_label": "Pools Built & Serviced",
-    "stat_2_value": "63",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "85",
-    "stat_3_label": "Google Reviews",
-    "stat_4_value": "3",
-    "stat_4_label": "Generations of Trust"
+    "stat_1_value": "63",
+    "stat_1_label": "Years Serving Chester County",
+    "stat_2_value": "85",
+    "stat_2_label": "5-Star Google Reviews",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Built & Maintained",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Everything Your Pool Needs,<br class=\"hidden md:block\"> All Under One Roof",
-    "subtitle": "From building your dream pool to keeping it crystal clear for decades, Gritz Pools & Spas is the only call you need to make.",
+    "headline": "Everything Your Pool Needs, Under One Roof",
+    "subtitle": "From the first shovel of dirt to decades of crystal-clear water, Gritz Pools handles it all so you can just enjoy the swim.",
     "cards": [
       {
-        "title": "Inground Pool Construction",
-        "description": "Custom-designed vinyl liner and fiberglass pools built to fit your backyard, your lifestyle, and your budget. From first sketch to first splash."
+        "icon": "fas fa-swimming-pool",
+        "title": "Custom Pool Construction",
+        "description": "Vinyl liner and fiberglass inground pools designed around your backyard, your budget, and your family's lifestyle. Financing available."
       },
       {
-        "title": "Pool Service & Repair",
-        "description": "Seasonal openings, closings, equipment diagnostics, and repairs. We keep your pool running smoothly so every weekend is swim-ready."
+        "icon": "fas fa-calendar-check",
+        "title": "Pool Openings & Closings",
+        "description": "Seasonal prep and winterization done right so your pool is protected year-round and ready to splash into every spring."
       },
       {
-        "title": "Vinyl Liner Replacement",
-        "description": "Expert measurement, pattern selection, and flawless installation to refresh the look and extend the life of your existing inground pool."
+        "icon": "fas fa-tools",
+        "title": "Liner Replacement & Repair",
+        "description": "Fading, wrinkles, or leaks? Our crew restores your pool's look and integrity with expert liner replacement services."
       },
       {
-        "title": "Hot Tub & Spa Sales",
-        "description": "Authorized Nordic and Aspen spa dealer. Visit our showroom to find the perfect hot tub with hands-on guidance from our team."
+        "icon": "fas fa-cogs",
+        "title": "Equipment Repair & Service",
+        "description": "Pumps, filters, heaters, salt systems — our Hayward-authorized technicians diagnose and fix it fast so your pool stays running."
       },
       {
-        "title": "Pool Supply Store",
-        "description": "Chemicals, accessories, covers, toys, floats, and outdoor furniture. Everything you need for pool and spa season, all in one place."
+        "icon": "fas fa-hot-tub",
+        "title": "Hot Tub Sales & Service",
+        "description": "Authorized Nordic and Aspen Spas dealer. Browse our showroom, choose your perfect hot tub, and let us handle delivery and setup."
       },
       {
-        "title": "Pool Water Delivery",
-        "description": "Convenient bulk water delivery to fill or top off your pool. Save time and start swimming faster with clean, quality water delivered to your door."
+        "icon": "fas fa-store",
+        "title": "Pool Supply Retail Store",
+        "description": "Chemicals, covers, accessories, outdoor furniture, and free professional water testing. Stop by — we've got everything you need."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Pool",
+    "headline": "Your Pool Project in 3 Simple Steps",
     "steps": [
       {
-        "title": "Tell Us Your Vision",
-        "description": "Whether you want a new pool, a liner refresh, or a hot tub for the patio, give us a call or stop by the store. We'll listen, answer every question, and give you an honest, no-pressure estimate."
+        "title": "Tell Us What You Need",
+        "description": "Call or visit our showroom. Whether it's a new pool, a repair, or just chemicals, we'll listen and give you honest guidance."
       },
       {
-        "title": "We Bring It to Life",
-        "description": "Our experienced crew handles the entire project from permits to final inspection. The owner personally visits every job site to make sure everything meets the Gritz standard."
+        "title": "We Handle the Details",
+        "description": "Our experienced crew takes care of everything — permits, scheduling, installation, and quality checks — so you don't have to."
       },
       {
-        "title": "Enjoy for Decades",
-        "description": "Your pool is built to last, and so is our relationship. We're here for openings, closings, repairs, and supplies for as long as you own your home. Many of our customers have been with us for 40+ years."
+        "title": "Enjoy Your Backyard",
+        "description": "Dive in and make memories. And when you need us for maintenance, supplies, or upgrades, we're always just a phone call away."
       }
     ]
   },
   "about": {
-    "label": "Why Chester County Trusts Us",
-    "headline": "Three Generations. One Family. Your Pool Team.",
-    "description": "Since 1963, Gritz Pools & Spas has been Chester County's go-to pool company. We started as a small family operation and grew into the region's number one pool builder, service provider, and retail store — all without losing the personal touch that built our name. The owner still visits every job site. Our staff still walks you through maintenance over the phone. And families who built their first pool with us in the 1970s are still our customers today.",
-    "badge": "PHTA Certified",
+    "label": "About Gritz Pools & Spas",
+    "headline": "A Family Business Built on Trust — For Over 60 Years",
+    "description": "Since 1963, the Gritz family has been Chester County's go-to pool and spa experts. What started as a small local operation has grown into a full-service destination — pool construction, maintenance, hot tub sales, and a retail store stocked with everything pool owners need. We've built pools for grandparents, their children, and now their grandchildren. That kind of loyalty isn't bought — it's earned through decades of honest work, fair pricing, and standing behind every job we do.",
+    "badge": "Proudly Family-Owned Since 1963",
     "features": [
       {
-        "title": "Family-Owned Since 1963",
-        "description": "Not a franchise, not a chain. A real local family business with deep roots in the Chester County community for over 60 years."
+        "title": "Multi-Generational Trust",
+        "description": "Many of our customers have been with us for 30, 40, even 50 years. We build relationships, not just pools."
       },
       {
-        "title": "Full-Service, One Company",
-        "description": "Construction, service, repair, retail, water delivery, and hot tubs. No need to juggle multiple contractors. We do it all."
+        "title": "Full-Service, One Stop",
+        "description": "Construction, maintenance, repairs, hot tubs, and a retail store — no need to call anyone else."
       },
       {
-        "title": "Relationships That Last Decades",
-        "description": "Many of our customers have trusted us for 30, 40, even 50 years. We earn that loyalty with honest work and genuine care."
+        "title": "Deep Local Roots",
+        "description": "We live and work in Chester County. This community isn't just our market — it's our home."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every project gets an upfront, honest estimate. No hidden fees, no change orders, no pressure. Just fair pricing from a family you can trust."
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every pool, spa, and service job is different. We'll give you an honest quote upfront — no hidden fees, no pressure. Financing options available for new construction."
   },
   "guarantee": {
-    "headline": "Our \"Built to Last\" Guarantee",
-    "description": "If something isn't right, we make it right. It's that simple. We stand behind every pool we build, every liner we install, and every repair we complete. Your satisfaction isn't a policy — it's a 63-year-old family promise."
+    "headline": "The Gritz Family Promise",
+    "description": "For over 60 years, our name has been on every pool we build and every repair we make. If something isn't right, we come back and fix it — that's not a policy, it's how the Gritz family has always done business. Your satisfaction is our reputation."
   },
   "faqs": [
     {
       "question": "How long does it take to build a new inground pool?",
-      "answer": "Most inground pool projects take 4-8 weeks from groundbreaking to completion, depending on the design complexity and weather. We'll give you a clear timeline upfront and keep you updated at every stage."
+      "answer": "Most inground pool installations take 4 to 8 weeks depending on the design, permits, and weather. We'll walk you through the timeline during your free consultation so there are no surprises."
     },
     {
-      "question": "Do you handle pool openings and closings?",
-      "answer": "Absolutely. We offer full seasonal opening and closing services to protect your pool through Pennsylvania winters and get you swim-ready every spring. Book early — our spring schedule fills up fast."
-    },
-    {
-      "question": "What brands of hot tubs do you carry?",
-      "answer": "We're an authorized dealer for Nordic Spas and Aspen Spas. Visit our showroom in Coatesville to see models in person and get expert guidance on which tub fits your space and budget."
-    },
-    {
-      "question": "Can you replace my vinyl pool liner?",
-      "answer": "Yes, liner replacement is one of our specialties. We'll take precise measurements, help you pick from hundreds of patterns, and install it with a perfect fit. Most liner replacements are completed in just a few days."
+      "question": "Do you offer financing for pool construction?",
+      "answer": "Yes! We offer financing options to help make your dream pool a reality. Ask us about current rates and terms when you schedule your consultation."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve Chester County, Berks County, West Chester, Oxford, Reading, Lancaster, Coatesville, and surrounding Pennsylvania communities. If you're not sure if we cover your area, just give us a call."
+      "answer": "We serve Chester County, Berks County, West Chester, Oxford, Reading, Lancaster, and surrounding communities across southeastern Pennsylvania."
+    },
+    {
+      "question": "Do I need to schedule pool opening and closing, or can I walk in?",
+      "answer": "We recommend scheduling your seasonal opening and closing early, especially in spring when demand is highest. Call us or stop by the store to get on the schedule."
+    },
+    {
+      "question": "Can you service pools you didn't build?",
+      "answer": "Absolutely. We service, repair, and maintain all inground pools regardless of who built them. We also offer free water testing at our retail store for any pool owner."
     }
   ],
   "testimonials": [
     {
-      "name": "Kristine D.",
-      "context": "Customer since 2005 — 3 major projects",
-      "initials": "KD",
-      "text": "Each time we worked with Mark, Robert, and the rest of the crew was a positive experience. They did a quality job each time and we got an excellent end product."
+      "name": "Kay R.",
+      "text": "We put a Gritz pool in, in 1976. It was the best investment we ever made! They have handled our maintenance, chemicals, filter replacements, and liner replacements over the years.",
+      "context": "Pool customer since 1976",
+      "initials": "KR"
+    },
+    {
+      "name": "Joe S.",
+      "text": "An amazing company — trusting, honest, and friendly. The customer service is spot on. I would highly recommend Gritz Pools to anyone looking for quality pool services.",
+      "context": "General pool services",
+      "initials": "JS"
     },
     {
       "name": "Stephen M.",
-      "context": "Pool installation",
-      "initials": "SM",
-      "text": "As a contractor myself, I really appreciated their no-nonsense approach. They knew exactly what needed to be done and how long it would take, and did exactly what they said."
-    },
-    {
-      "name": "Kay R.",
-      "context": "Customer since 1976",
-      "initials": "KR",
-      "text": "Our experience with Gritz has always been positive. We have been customers since our pool was installed in 1976. That's nearly 50 years of trust."
+      "text": "As a contractor myself, I really appreciated their no-nonsense approach to pool construction. Professional, efficient, and the finished product speaks for itself.",
+      "context": "Pool construction",
+      "initials": "SM"
     }
   ],
   "contact": {
-    "headline": "Ready to Build Your<br>Backyard Paradise?",
-    "subtitle": "Get a free, no-pressure estimate from Chester County's most trusted pool company. Call us, stop by the store, or fill out the form — we'll get back to you fast.",
+    "headline": "Ready to Start Your Pool Project?",
+    "subtitle": "Whether you're building your first pool, need a repair, or just want to browse our retail store — the Gritz family is here to help.",
     "benefits": [
-      "Free on-site consultation and estimate",
-      "Response within 24 hours",
-      "63 years of family-owned expertise"
+      "Free consultations and honest quotes — no pressure",
+      "Showroom and retail store open for walk-ins",
+      "Same family, same dedication, since 1963"
     ]
   },
   "footer": {
-    "description": "Family-owned pool builder and service company. Serving Chester County since 1963.",
-    "service_area": "Serving Chester County, West Chester, Oxford, Reading & Surrounding PA Communities",
+    "description": "Gritz Pools & Spas has been Chester County's trusted pool and spa experts since 1963. From custom pool construction to maintenance, hot tubs, and a fully stocked retail store, we're your one-stop pool destination.",
+    "service_area": "Serving Chester County, Berks County, West Chester, Oxford, Reading, Lancaster & surrounding communities in SE Pennsylvania",
     "services": [
       "Pool Construction",
-      "Service & Repair",
-      "Vinyl Liner Replacement",
+      "Pool Openings & Closings",
+      "Liner Replacement",
       "Hot Tub Sales",
-      "Pool Supplies"
+      "Pool Supply Store"
     ],
-    "copyright": "&copy; 2024 Gritz Pools & Spas. All rights reserved. Coatesville, PA"
+    "copyright": "Gritz Pools & Spas. All rights reserved."
   }
 }
