@@ -4,180 +4,181 @@
   "tagline": "Generations of Fun",
   "phone": "(815) 476-2975",
   "email": "michele@backyardpoolsinc.com",
-  "review_count": "114",
+  "logo_path": "logo.png",
+  "review_count": "113",
   "review_rating": "4.7",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133b56",
-    "primary_deeper": "#0d2a3e",
-    "secondary": "#2e86c1",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#1B2A4A",
+    "primary_dark": "#131e36",
+    "primary_deeper": "#0b1324",
+    "secondary": "#4A8C3F",
+    "cta": "#D4872C",
+    "cta_dark": "#B57024"
   },
   "trust_badges": {
-    "badge_1": "Family-Owned Since 1982",
-    "badge_2": "4.7/5 from 114+ Reviews",
-    "badge_3": "National Award-Winning Builder"
+    "badge_1": "APSP Certified Member",
+    "badge_2": "4.7/5 from 113+ Reviews",
+    "badge_3": "44 Years in Business"
   },
   "hero": {
-    "badge_1": "4.7/5 from 114+ Google Reviews",
-    "badge_2": "3 Locations Across Northern IL",
-    "headline": "Four Decades of Backyard <span class=\"text-secondary italic\">Dreams Built Right</span>",
-    "subheadline": "Since 1982, the DesRochers family has been turning backyards across Northern Illinois into private retreats. From award-winning pool construction to weekly maintenance and hot tub sales, we handle everything so you can enjoy the fun.",
-    "cta_text": "Start Your Backyard Dream",
+    "badge_1": "4.7/5 from 113+ Google Reviews",
+    "badge_2": "National Award-Winning Builder",
+    "headline": "Your Family's Pool, <span class=\"text-secondary italic\">Built by Ours</span>",
+    "subheadline": "For over 44 years, the DesRochers family has designed and built award-winning inground pools across Northern Illinois. From fiberglass and vinyl construction to hot tubs and full-service maintenance, we treat every backyard like our own.",
+    "cta_text": "Start Your Backyard Transformation",
     "checkmarks": [
-      "Free on-site consultation",
-      "Award-winning construction",
-      "Family-owned for 44 years"
+      "Free in-home design consultation",
+      "Award-winning construction quality",
+      "Three convenient locations"
     ]
   },
   "stats": {
-    "stat_1_value": "3000",
-    "stat_1_label": "Pools Built & Serviced",
-    "stat_2_value": "44",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "3",
-    "stat_3_label": "Northern IL Locations",
-    "stat_4_value": "4.7★",
+    "stat_1_value": "44",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "3",
+    "stat_2_label": "Local Showrooms",
+    "stat_3_value": "113",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "4.7",
     "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Everything Your Pool Needs,<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From building your dream pool to keeping it crystal clear year-round, DesRochers is your single source for everything backyard. Three locations, one family, total peace of mind.",
+    "headline": "Everything Your Backyard Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From custom pool construction to hot tubs, maintenance, and supplies, DesRochers is your one-stop shop for the complete backyard experience. Three locations serving all of Northern Illinois.",
     "cards": [
       {
-        "title": "Custom Pool Construction",
-        "description": "Award-winning fiberglass and vinyl liner inground pools custom-designed for your backyard. Nationally recognized craftsmanship with over four decades of building excellence."
+        "title": "Fiberglass Pool Construction",
+        "description": "Nationally award-winning fiberglass inground pool installation with custom designs tailored to your family's lifestyle. Over 40 years of construction expertise in every build."
+      },
+      {
+        "title": "Vinyl Liner Pool Construction",
+        "description": "Expert vinyl liner inground pool building with personalized design consultations, precision installation, and lasting craftsmanship your family will enjoy for decades."
       },
       {
         "title": "Hot Tub & Spa Sales",
-        "description": "Authorized Caldera and Fantasy Spas dealer with hot tubs in stock at our Wilmington and Shorewood showrooms. Expert guidance to find your perfect backyard escape."
+        "description": "Authorized Caldera and Fantasy dealer with a full showroom experience. Our team helps you find the perfect hot tub for relaxation, therapy, or family fun."
       },
       {
         "title": "Pool Service & Maintenance",
-        "description": "Weekly cleaning, water chemistry balancing, equipment checks, and seasonal care. Our experienced technicians keep your pool swim-ready all season long."
+        "description": "Comprehensive weekly service including water chemistry management, equipment inspection, cleaning, and repairs from technicians who know your pool inside and out."
       },
       {
-        "title": "Openings & Closings",
-        "description": "Professional seasonal pool opening and winterization services. Our crew ensures your pool is ready for summer fun or properly protected through the Illinois winter."
+        "title": "Pool Openings & Closings",
+        "description": "Seasonal opening and closing services performed by experienced professionals who protect your investment through every Illinois winter and get you swimming every spring."
       },
       {
-        "title": "Fiberglass Pool Repair",
-        "description": "Expert fiberglass restoration that fixes major damage and makes your pool look brand new. Backed by decades of specialized repair experience."
-      },
-      {
-        "title": "Pool Supplies & Water Testing",
-        "description": "Full-service retail stores stocked with chemicals, equipment, and accessories. Free water testing and personalized chemical recommendations from our knowledgeable staff."
+        "title": "Vinyl Liner Replacement",
+        "description": "Breathe new life into your existing pool with a complete liner replacement. We handle removal, surface prep, and precision installation for a like-new finish."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Your Dream Pool in Three Simple Steps",
+    "headline": "From Dream to Dive-In — Here's How It Works",
     "steps": [
       {
-        "title": "Tell Us Your Vision",
-        "description": "Visit any of our three locations or call for a free consultation. Share your backyard dreams, budget, and timeline, and we'll create a personalized plan just for you."
+        "title": "Visit a Showroom or Call Us",
+        "description": "Stop by our Wilmington, Shorewood, or Morris location or give us a call. We'll listen to your vision, answer every question, and walk you through your options with zero pressure."
       },
       {
-        "title": "We Bring It to Life",
-        "description": "Our award-winning team handles every detail from design to construction, with Brian DesRochers personally overseeing your project. You'll stay informed at every step."
+        "title": "We Design Your Perfect Backyard",
+        "description": "Our team creates a custom plan tailored to your yard, budget, and family's needs. From pool shape and size to patio and spa — we handle every detail so you don't have to."
       },
       {
-        "title": "Dive In & Enjoy",
-        "description": "Your backyard paradise is ready. And with our ongoing maintenance services and retail stores, we'll keep it looking perfect for generations of family fun."
+        "title": "Enjoy Generations of Fun",
+        "description": "We build it right, back it up with ongoing service, and stay just a phone call away for anything you need. Your backyard becomes the place where family memories are made."
       }
     ]
   },
   "about": {
     "label": "Why Northern Illinois Trusts Us",
-    "headline": "A Family Business That Treats You Like Family",
-    "description": "DesRochers Backyard Pools & Spas has been a family-owned cornerstone of Will County since 1982. With three locations in Wilmington, Shorewood, and Morris, our team has earned national awards for construction quality and a reputation for going above and beyond. Brian DesRochers personally oversees projects because we believe every pool deserves the same care we'd put into our own backyard.",
-    "badge": "National Award Winner",
+    "headline": "A Family Business Serving Families Since 1982",
+    "description": "DesRochers Backyard Pools & Spas has been a family-owned and operated cornerstone of Northern Illinois since 1982. What started as one family's passion for pools has grown into a nationally recognized, award-winning builder with three locations across the region. We still answer the phone ourselves, know our customers by name, and believe that building a pool should feel as good as swimming in one. That's why generations of families keep coming back.",
+    "badge": "APSP Certified Member",
     "features": [
       {
         "title": "44 Years of Family Expertise",
-        "description": "Three generations of pool knowledge passed down since 1982. Our longevity means we've seen it all and solved it all."
+        "description": "Since 1982, the DesRochers family has passed down their craft through generations. You get decades of hard-earned knowledge and a team that genuinely cares about your project."
       },
       {
-        "title": "Three Convenient Locations",
-        "description": "Wilmington, Shorewood, and Morris showrooms with hot tubs in stock, full retail supplies, and expert staff ready to help."
+        "title": "National Award-Winning Quality",
+        "description": "Our construction quality has been recognized at the national level. Every pool we build reflects the same craftsmanship and attention to detail that earned those awards."
       },
       {
-        "title": "Owner-Involved on Every Project",
-        "description": "Brian DesRochers personally oversees construction and major repairs. You're not just a number here — you're part of our extended family."
+        "title": "Three Locations, One Standard",
+        "description": "With showrooms in Wilmington, Shorewood, and Morris, we're always close by. Every location offers the same personal service, expert staff, and full product selection."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "From a bag of chlorine to a full pool build, we give you honest pricing upfront. Stop by any location or call for a free estimate."
+    "headline": "Honest Pricing From a Family You Can Trust",
+    "subtitle": "Every backyard is different, so we provide detailed, transparent quotes after understanding your specific needs. No hidden fees, no bait-and-switch — just fair pricing backed by 44 years of integrity."
   },
   "guarantee": {
-    "headline": "Our \"Backyard Happiness\" Guarantee",
-    "description": "If you're not completely thrilled with our work, we'll make it right at no extra cost. That's the promise the DesRochers family has kept for over 44 years and thousands of happy pool owners across Northern Illinois."
+    "headline": "Our \"Built to Last\" Promise",
+    "description": "We stand behind every pool we build and every service we perform. If something isn't right, the DesRochers family takes it personally. We'll make it right — quickly, professionally, and at no extra cost to you. That's the same promise we've kept since 1982, and it's why families across Northern Illinois trust us with their backyards."
   },
   "faqs": [
     {
-      "question": "How long does it take to build a new pool?",
-      "answer": "Most inground pool projects take 6-10 weeks from permit to first splash, depending on complexity and weather. Fiberglass pools can be installed faster. We'll give you a detailed timeline during your free consultation and keep you updated throughout."
+      "question": "How long does it take to build an inground pool?",
+      "answer": "Most fiberglass pool installations are completed in 2-4 weeks from the start of excavation. Vinyl liner pools can take 4-8 weeks depending on complexity. During your design consultation, we'll provide a detailed timeline specific to your project so there are no surprises."
+    },
+    {
+      "question": "Which is better — fiberglass or vinyl liner?",
+      "answer": "Both are excellent choices and we specialize in both. Fiberglass pools offer faster installation, lower lifetime maintenance, and exceptional durability. Vinyl liner pools offer more shape flexibility and a lower upfront cost. We'll help you weigh the pros and cons based on your yard, budget, and preferences."
+    },
+    {
+      "question": "What areas do you serve in Northern Illinois?",
+      "answer": "We serve Wilmington, Shorewood, Morris, Joliet, Plainfield, New Lenox, Minooka, Channahon, Essex, and surrounding Northern Illinois communities. With three locations, we're never far from your backyard."
     },
     {
       "question": "Do you service pools you didn't build?",
-      "answer": "Absolutely. We service all pool types regardless of who built them. In fact, many of our happiest customers came to us after problems with other builders. We'll treat your pool like our own no matter what."
+      "answer": "Absolutely. Our service team handles maintenance, repairs, openings, closings, and liner replacements on all inground pools — regardless of who built them. We're here to help every pool owner in the region."
     },
     {
-      "question": "Which of your three locations should I visit?",
-      "answer": "Whichever is most convenient! Our Wilmington, Shorewood, and Morris locations all carry chemicals, supplies, and hot tubs. Each has knowledgeable staff who can test your water for free and recommend the right products."
-    },
-    {
-      "question": "Do you offer financing for pool construction?",
-      "answer": "Yes, we work with several financing partners to help make your dream pool affordable. During your consultation, we'll walk you through available options so you can find a payment plan that fits your budget."
-    },
-    {
-      "question": "What hot tub brands do you carry?",
-      "answer": "We're an authorized dealer for Caldera Spas and Fantasy Spas, two of the most trusted names in the industry. Visit our Wilmington or Shorewood showrooms to see models in stock and find the perfect fit for your backyard."
+      "question": "Can I visit your showrooms before making a decision?",
+      "answer": "We encourage it! Our Wilmington, Shorewood, and Morris showrooms feature pool displays, hot tub models, patio furniture, and a full supply store. Our staff is always on hand to answer questions with zero pressure to buy."
     }
   ],
   "testimonials": [
     {
-      "name": "J. K.",
-      "context": "Pool Installation, Channahon",
-      "initials": "JK",
-      "text": "This was by far the best experience anyone could have. Brian kept us informed throughout the entire project. The crew was professional and respectful of our property. We couldn't be happier with our new pool."
+      "name": "Jennifer P.",
+      "text": "I can honestly say each and everyone associated with DesRochers is the best of the best! Their knowledge and customer service is by far unbeaten anywhere. How many people would give you their cell phone number? That's right... not many!",
+      "context": "Hot Tub Customer",
+      "initials": "JP"
     },
     {
-      "name": "Jim K.",
-      "context": "Fiberglass Pool Repair",
-      "initials": "JK",
-      "text": "DesRochers didn't only fix the major mistakes another company made, they made it look brand new. Their expertise with fiberglass is unmatched. I wish we had gone to them first."
+      "name": "John Q.",
+      "text": "The DesRochers team has been closing my in-ground fiberglass pool for over 8 years. Some of the best customer service in Will County.",
+      "context": "8+ Year Pool Service Customer",
+      "initials": "JQ"
     },
     {
       "name": "Leo R.",
-      "context": "Pool Installation, Minooka",
-      "initials": "LR",
-      "text": "Still impressed with the level of service this company provides after 10 years. Always friendly, always professional, and they stand behind their work. A true family business that treats you like family."
+      "text": "DesRochers installed our inground pool 10 years ago and we're still impressed with their service.",
+      "context": "Pool Installation — Minooka, IL",
+      "initials": "LR"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free consultation from Northern Illinois' most trusted pool builder. Visit any of our three locations or call today — the DesRochers family is ready to help.",
+    "headline": "Let's Build Your Backyard Oasis",
+    "subtitle": "Whether you're dreaming about a new pool, need service on an existing one, or just want to browse our showroom — we'd love to hear from you.",
     "benefits": [
-      "Free on-site consultation & estimate",
-      "Three locations across Northern Illinois",
-      "44 years of award-winning experience"
+      "Free design consultation with zero obligation",
+      "Response within one business day",
+      "Visit any of our three Northern Illinois showrooms"
     ]
   },
   "footer": {
-    "description": "Family-owned pool builder serving Northern Illinois since 1982. Three locations in Wilmington, Shorewood & Morris.",
-    "service_area": "Serving Wilmington, Shorewood, Morris, Joliet, Minooka, Channahon & Will County",
+    "description": "DesRochers Backyard Pools & Spas has been Northern Illinois' trusted family-owned pool builder since 1982. Award-winning construction, expert service, and three convenient locations.",
+    "service_area": "Serving Wilmington, Shorewood, Morris, Joliet, Plainfield, New Lenox, Minooka, Channahon, Essex & all of Northern Illinois",
     "services": [
-      "Pool Construction",
-      "Hot Tub Sales",
-      "Pool Maintenance",
-      "Fiberglass Repair",
-      "Pool Supplies"
+      "Fiberglass Pool Construction",
+      "Vinyl Liner Pools",
+      "Hot Tubs & Spas",
+      "Pool Service & Maintenance",
+      "Pool Supplies & Chemicals"
     ],
-    "copyright": "&copy; 2026 DesRochers Backyard Pools & Spas. All rights reserved."
+    "copyright": "DesRochers Backyard Pools & Spas"
   }
 }

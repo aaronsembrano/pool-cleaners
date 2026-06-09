@@ -4,181 +4,176 @@
   "tagline": "Your pool, our priority!",
   "phone": "+1 972-238-0008",
   "email": "brian@aquapoolcare.com",
-  "logo_path": "",
-  "review_count": "5",
-  "review_rating": "3.0",
+  "review_count": "6",
+  "review_rating": "3.2",
   "colors": {
     "primary": "#0077B6",
     "primary_dark": "#005A8C",
-    "primary_deeper": "#003D5E",
+    "primary_deeper": "#004068",
     "secondary": "#00B4D8",
-    "cta": "#F77F00",
-    "cta_dark": "#D96B00"
-  },
-  "trust_badges": {
-    "badge_1": "Licensed & CPO Certified",
-    "badge_2": "Family-Owned Since 2010",
-    "badge_3": "No Contracts Required"
+    "cta": "#F4A261",
+    "cta_dark": "#D4843A"
   },
   "hero": {
-    "badge_1": "Family-Owned & Serving DFW Since 2010",
-    "badge_2": "CPO Certified Pool Professionals",
-    "headline": "Your Neighborhood Pool Team <span class=\"text-secondary italic\">Since<br>Day One</span>",
-    "subheadline": "For 16 years, Richardson families have trusted Brian and the Aqua Pool Care crew to keep their pools sparkling without the big-company price tag. Honest work, fair prices, and a real person who answers when you call.",
-    "cta_text": "Get My Free Pool Estimate",
+    "headline": "Your Neighborhood Pool Team <span class=\"text-secondary italic\">Since 2010</span>",
+    "subheadline": "Richardson families trust Aqua Pool Care for honest, owner-operated service you can count on. No corporate runaround — just Brian and his 9-person crew keeping your pool pristine all year long.",
+    "badges": [
+      "Licensed & Insured",
+      "16+ Years Serving North Texas"
+    ],
     "checkmarks": [
-      "Free pool inspection included",
-      "Same-week service available",
-      "Direct owner communication"
-    ]
+      "Direct access to the owner on every job",
+      "Photo updates so you always know the status",
+      "Trusted by HOAs, realtors & homeowners alike"
+    ],
+    "cta_text": "Get Your Free Pool Estimate"
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "Local Pools Maintained",
-    "stat_2_value": "16",
-    "stat_2_label": "Years in Richardson",
-    "stat_3_value": "1000",
-    "stat_3_label": "Service Visits Yearly",
+    "stat_1_value": "16",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "9",
+    "stat_2_label": "Dedicated Team Members",
+    "stat_3_value": "6",
+    "stat_3_label": "Cities Served",
     "stat_4_value": "100%",
     "stat_4_label": "Owner-Operated"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\">a Team That Knows Your Name",
-    "subtitle": "From weekly cleanings to full resurfacing, Aqua Pool Care handles it all so you can spend your weekends in the water instead of working on it. No corporate runaround, just reliable service from people who live in your neighborhood.",
+    "headline": "Everything Your Pool Needs, Under One Roof",
+    "subtitle": "From weekly skimming to full replastering, Aqua Pool Care handles it all so you never have to juggle multiple contractors.",
     "cards": [
       {
-        "title": "Weekly Pool Cleaning",
-        "description": "Skimming, vacuuming, brushing walls and tile, emptying baskets, and chemical checks every single week. Your pool stays swim-ready without you lifting a finger."
+        "title": "Weekly Pool Service",
+        "description": "Consistent weekly cleaning and chemical balancing that keeps your water crystal clear and swim-ready every single day."
       },
       {
-        "title": "Water Chemistry & Balancing",
-        "description": "Expert testing and precise balancing of pH, chlorine, alkalinity, and calcium hardness. Safe, clear water that's gentle on skin and eyes every time."
+        "title": "Pool Equipment Repair",
+        "description": "Fast diagnosis and repair of pumps, filters, heaters, and more — so small problems never become expensive emergencies."
       },
       {
-        "title": "Algae Treatment & Removal",
-        "description": "Green, yellow, or black algae — we diagnose and eliminate it fast with professional-grade treatment. Your pool goes from swamp to sparkling in days."
+        "title": "Pool Replastering & Resurfacing",
+        "description": "Restore your pool's interior finish with expert replastering that adds years of life and a fresh, beautiful look."
       },
       {
-        "title": "Equipment Repair & Service",
-        "description": "Pumps, motors, filters, heaters, and automated systems diagnosed and repaired by experienced hands. Most issues fixed on the first visit."
+        "title": "DE Filter Cleaning",
+        "description": "Thorough diatomaceous earth filter maintenance that ensures optimal water clarity and healthy circulation."
       },
       {
-        "title": "Pool Resurfacing & Replastering",
-        "description": "Cracked, stained, or worn pool surfaces restored to like-new condition. Full interior resurfacing that protects your pool and looks beautiful."
+        "title": "Algae Treatment & Recovery",
+        "description": "Green pool? We'll bring it back to sparkling blue with professional-grade treatment and ongoing prevention plans."
       },
       {
-        "title": "DE Filter & Heater Service",
-        "description": "Thorough DE filter cleaning for crystal-clear water, plus professional pool heater installation so you can swim comfortably year-round."
+        "title": "Seasonal Maintenance",
+        "description": "Complete opening and closing services including winterization and spring startup to protect your pool investment year-round."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Pool Care Made Simple",
     "steps": [
       {
-        "title": "Call Brian Directly",
-        "description": "Tell us about your pool and what you need. Brian personally reviews every request and gets back to you within 24 hours with an honest, no-pressure estimate."
+        "title": "Call or Text Brian",
+        "description": "Reach the owner directly — no phone trees, no waiting. Describe your pool situation and we'll schedule a visit that fits your week."
       },
       {
-        "title": "We Show Up On Time",
-        "description": "Our CPO-certified crew arrives on schedule with everything needed. Cleaning, chemicals, equipment checks — handled with care by people who treat your pool like their own."
+        "title": "Get a Straight-Up Assessment",
+        "description": "Brian or a crew member inspects your pool on-site, explains exactly what's needed, and gives you an honest, no-pressure quote."
       },
       {
-        "title": "Enjoy Your Backyard Again",
-        "description": "Your pool stays crystal clear, your equipment runs smoothly, and you have a team that actually picks up the phone when you call. That's the Aqua Pool Care difference."
+        "title": "Enjoy a Worry-Free Pool",
+        "description": "We handle the cleaning, chemistry, and repairs with photo updates along the way. You just enjoy the water."
       }
     ]
   },
   "about": {
-    "label": "Why Richardson Trusts Aqua Pool Care",
-    "headline": "Family-Owned Means We Treat Every Pool Like Our Own",
-    "description": "Since 2010, Brian McDonald has built Aqua Pool Care on old-school values: show up when you say you will, do honest work, and charge a fair price. As a family-owned business in Richardson, we know our clients by name, not account number. We're not the cheapest and we're not the flashiest — we're the team your neighbors keep recommending because we simply get the job done right, every single week.",
-    "badge": "CPO Certified Operator",
+    "label": "About Aqua Pool Care",
+    "headline": "A Real Neighbor Taking Care of Real Pools",
+    "description": "Since 2010, owner Brian McDonald and his team of 9 have been the go-to pool care provider for Richardson and surrounding North Texas communities. We started because we believed pool owners deserved better than impersonal big-brand service. Today, we work with homeowners, HOAs, management companies, and realtors who value responsive communication, honest pricing, and workmanship they can see with their own eyes. When you call Aqua Pool Care, you talk to people who care about your pool as much as you do.",
+    "badge": "Locally Owned Since 2010",
     "features": [
       {
-        "title": "Direct Owner Communication",
-        "description": "When you call Aqua Pool Care, you talk to Brian — not a call center, not a receptionist. The owner handles your questions, concerns, and scheduling personally."
+        "title": "Owner on Every Job",
+        "description": "Direct access to Brian — no middlemen, no runaround. You always know who's taking care of your pool."
       },
       {
-        "title": "No Contracts. Ever.",
-        "description": "We earn your business every visit. No long-term commitments, no cancellation fees, no fine print. Stay because you're happy, not because you're locked in."
+        "title": "Photo Updates Every Visit",
+        "description": "We send real-time photos via text so you can see exactly what was done, even when you're not home."
       },
       {
-        "title": "Neighborhood-First Service",
-        "description": "We live and work in the same DFW communities we serve. Your pool isn't a number to us — it's our neighbor's backyard, and we treat it that way."
+        "title": "Full-Service Capability",
+        "description": "From weekly cleaning to major replastering projects, one trusted team handles everything your pool needs."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Every job quoted upfront with honest pricing. No contracts, no hidden fees — just dependable pool care from a family business that values your trust."
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every pool is different. Contact us for a free, no-obligation estimate tailored to your pool's size, condition, and needs."
   },
   "guarantee": {
-    "headline": "Our \"Swim-Ready\" Guarantee",
-    "description": "If you're ever not satisfied with a service visit, call Brian directly and we'll come back to make it right at no extra charge. We've spent 16 years building our reputation on honest work and follow-through in the Richardson community. Your satisfaction isn't a policy buried in fine print — it's a handshake promise from the owner himself."
+    "headline": "Our Straight-Talk Guarantee",
+    "description": "If you're not satisfied with any service visit, call Brian directly and we'll come back to make it right — no extra charge, no excuses. We've built our reputation on doing honest work for 16 years, and we stand behind every job."
   },
   "faqs": [
     {
-      "question": "How quickly can Aqua Pool Care start service?",
-      "answer": "Most new clients are on our schedule within 3-5 business days. For green pool emergencies or urgent repairs, call Brian directly at +1 972-238-0008 and we'll prioritize getting a crew out as soon as possible."
+      "question": "How quickly can you start weekly pool service?",
+      "answer": "Most new weekly service accounts start within 3-5 business days of your initial call. We'll do an on-site assessment first to understand your pool's needs and recommend the right service plan."
     },
     {
-      "question": "Do I need to be home during pool service?",
-      "answer": "Not at all. Most clients provide gate access and we take care of everything while you're away. You'll know exactly what was done each visit, and Brian is always a phone call away if you have questions."
+      "question": "Do you work with HOAs and property management companies?",
+      "answer": "Absolutely. We work with homeowner associations, management companies, and realtors throughout North Texas. We understand the reporting and scheduling requirements that come with commercial accounts."
     },
     {
-      "question": "Are your technicians licensed and certified?",
-      "answer": "Yes. Aqua Pool Care holds a Texas pool service license, and our team includes CPO-certified operators. We carry full liability insurance so your property and your family are always protected."
+      "question": "What areas do you serve?",
+      "answer": "We serve Richardson, Allen, Melissa, Plano, McKinney, and surrounding North Texas communities. If you're not sure whether you're in our service area, just give us a call and we'll let you know."
     },
     {
-      "question": "What if I want to cancel my service?",
-      "answer": "Cancel anytime with zero fees or penalties. We don't do contracts because we believe in earning your business every single visit. No guilt trips, no hoops to jump through."
+      "question": "Can you fix my green pool?",
+      "answer": "Yes — green pool recovery is one of our specialties. We use professional-grade chemical treatments and filtration techniques to restore even badly neglected pools back to clear, safe swimming condition."
     },
     {
-      "question": "What areas do you serve in the DFW metroplex?",
-      "answer": "We serve Richardson, Plano, Allen, McKinney, Frisco, Garland, Murphy, Wylie, Sachse, Melissa, and surrounding Dallas-Fort Worth communities. If you're nearby, give us a call — we probably service your area."
+      "question": "Will I get updates on the work being done?",
+      "answer": "Always. We send photo updates via text so you can see exactly what was done during each visit. And if you ever have questions, you can reach Brian directly — no call centers or voicemail chains."
     }
   ],
   "testimonials": [
     {
       "name": "Richard K.",
-      "text": "They have the right idea on what customer service is all about. Prompt, friendly, honest, quality, and professional work. I highly recommend Aqua Pool Care for all your pool needs.",
-      "context": "Pool Maintenance Client",
+      "text": "Quick to return my call and set up a time to come out to give an estimate. The bid was quick and reasonable. They maintained constant contact about progress, including text message photos and a phone call upon completion.",
+      "context": "Pool Remodeling",
       "initials": "RK"
     },
     {
       "name": "Satisfied Customer",
-      "text": "A great experience from start to finish. Quick to return calls, set up estimates, and provide a reasonable bid. Constant contact about project progress and followed up after the work was complete.",
-      "context": "Pool Liner Installation",
+      "text": "Prompt, friendly, honest, quality, beautiful professional work. The job came out beautiful and they assisted with the liner choices. I would highly recommend them to anyone for pool care and services.",
+      "context": "Pool Resurfacing",
       "initials": "SC"
     },
     {
-      "name": "Local Homeowner",
-      "text": "Excellent pool company. They installed a new liner and it was completed in just a few hours. Very satisfied with the results and the entire process was smooth and professional.",
-      "context": "Pool Liner Replacement",
-      "initials": "LH"
+      "name": "North Texas Homeowner",
+      "text": "Brian and his crew have been maintaining our pool for several years now. They're always on time, communicative, and our pool has never looked better. It's great working with a local team that actually cares.",
+      "context": "Weekly Pool Service",
+      "initials": "NT"
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Care That<br>Actually Shows Up?",
-    "subtitle": "Call Brian directly or request a free estimate online. No contracts, no pressure — just honest pricing from a family business that's been doing this for 16 years.",
+    "headline": "Let's Get Your Pool in Shape",
+    "subtitle": "Whether you need weekly maintenance, a one-time repair, or a full replaster, we'd love to hear from you. Reach out today for a free estimate.",
     "benefits": [
-      "Free pool inspection with every estimate",
-      "Response within 24 hours guaranteed",
-      "Direct line to the owner — always"
+      "Free, no-obligation pool estimate",
+      "Response within 24 hours — usually same day",
+      "Talk to the owner, not a call center"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Serving Richardson & DFW since 2010.",
-    "service_area": "Serving Richardson, Plano, Allen, McKinney, Frisco & DFW",
-    "services": [
-      "Weekly Pool Cleaning",
-      "Water Chemistry",
+    "description": "Aqua Pool Care Inc has provided dependable pool cleaning, maintenance, and repair services to Richardson and North Texas families since 2010. Owner-operated, licensed, and insured.",
+    "service_area": "Serving Richardson, Allen, Melissa, Plano, McKinney & surrounding North Texas communities",
+    "service_links": [
+      "Weekly Pool Service",
+      "Pool Equipment Repair",
+      "Pool Replastering",
       "Algae Treatment",
-      "Equipment Repair",
-      "Pool Resurfacing"
+      "Seasonal Maintenance"
     ],
-    "copyright": "&copy; 2024 Aqua Pool Care Inc. All rights reserved. Licensed Pool Service — State of Texas"
+    "copyright": "Aqua Pool Care Inc"
   }
 }

@@ -1,183 +1,184 @@
 {
   "folder_name": "palm-beach-pool-spa",
-  "company_name": "Palm Beach Pool & Spa Service",
+  "company_name": "Palm Beach Pool & Spa Services",
   "tagline": "Trusted Pool Service and Repair in Palm Beach",
   "phone": "+1 561-660-6062",
   "email": "andrew@palmbeachpoolspaservice.com",
+  "logo_path": "logo.png",
+  "review_count": "243",
+  "review_rating": "4.9",
   "colors": {
     "primary": "#1B3A5C",
-    "primary_dark": "#122840",
-    "primary_deeper": "#0B1A2B",
-    "secondary": "#E8733A",
-    "cta": "#E8733A",
-    "cta_dark": "#C95E2A"
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#3B82F6",
+    "cta": "#E8740C",
+    "cta_dark": "#C75F06"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured — FL State Pool Contractor",
-    "badge_2": "5.0/5 from 150+ Reviews",
-    "badge_3": "Owner-Operated Since 2012"
+    "badge_1": "Licensed FL Pool Contractor",
+    "badge_2": "4.9/5 from 243+ Reviews",
+    "badge_3": "Owner-Operated Service"
   },
   "hero": {
-    "badge_1": "5.0/5 from 150+ Google Reviews",
-    "badge_2": "Owner-Operated — Every Job",
-    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Andy's Personal Touch</span>",
-    "subheadline": "Every service personally handled by owner Andy Brody — no random techs, no runaround. Palm Beach County's highest-rated pool company keeps your water crystal clear while you enjoy the Florida lifestyle.",
-    "cta_text": "Get Andy's Expert Quote Free",
+    "badge_1": "4.9/5 from 243+ Google Reviews",
+    "badge_2": "Owner On Every Job",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Andy's<br>Personal Touch</span>",
+    "subheadline": "Owner Andy Brody personally handles every service call — no random techs, no runaround. Palm Beach's highest-rated pool company delivers honest advice, fair pricing, and the kind of care that keeps 243+ families coming back.",
+    "cta_text": "Request Andy's Expert Assessment",
     "checkmarks": [
-      "Free pool inspection included",
-      "Same-week service available",
-      "150+ five-star reviews"
+      "Free pool inspection",
+      "Same-day response available",
+      "Satisfaction guaranteed on every job"
     ]
   },
   "stats": {
-    "stat_1_value": "150",
-    "stat_1_label": "Five-Star Reviews",
+    "stat_1_value": "243",
+    "stat_1_label": "5-Star Reviews",
     "stat_2_value": "14",
     "stat_2_label": "Years in Palm Beach",
     "stat_3_value": "3000",
-    "stat_3_label": "Pools Serviced",
+    "stat_3_label": "Service Calls Completed",
     "stat_4_value": "100%",
-    "stat_4_label": "Owner-Operated"
+    "stat_4_label": "Owner-Supervised Jobs"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Expert",
-    "subtitle": "From weekly cleanings to full remodels, Andy personally handles or oversees every job. No subcontractors, no shortcuts — just honest, expert pool care for Palm Beach County homeowners.",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\">One Trusted Expert",
+    "subtitle": "From routine weekly cleaning to complex equipment repairs and complete remodels, Andy and his team handle it all — so you never have to juggle multiple contractors.",
     "cards": [
       {
         "title": "Weekly Pool Cleaning",
-        "description": "Debris removal, water chemistry balancing, and filter maintenance starting at $125/month. Your pool stays swim-ready every week without you lifting a finger."
+        "description": "Comprehensive maintenance including skimming, vacuuming, brushing, chemical balancing, and filter checks. Your pool stays swim-ready every week, guaranteed."
       },
       {
-        "title": "Equipment Repair & Install",
-        "description": "Pumps, heaters, filters, and salt systems — Hayward, Pentair, Jandy, and more. Fast diagnosis and most repairs completed the same visit."
+        "title": "Heater Repairs & Installation",
+        "description": "Expert diagnosis and repair for all major heater brands — Hayward, Pentair, Raypak, and more. Fast turnaround to keep your water at the perfect temperature."
       },
       {
-        "title": "Leak Detection",
-        "description": "Advanced detection methods pinpoint hidden leaks before they cause structural damage. Stop losing water and money with professional leak diagnosis."
+        "title": "Pump & Filter Service",
+        "description": "Pool pump repairs, filter deep-cleans, and system upgrades to restore proper circulation and water clarity. Most issues resolved in a single visit."
       },
       {
-        "title": "Pool Heater Services",
-        "description": "Expert heater repairs, seasonal tune-ups, and new installations so you can swim comfortably year-round in South Florida."
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak detection technology pinpoints water loss issues fast. Andy identifies the source and gets it fixed — saving you money on water and chemicals."
       },
       {
-        "title": "Pool Remodeling",
-        "description": "Resurfacing, new tile, coping, Diamond Brite, Pebble Tec, and full renovations. Transform your aging pool into a backyard showpiece."
+        "title": "Remodeling & Resurfacing",
+        "description": "Complete pool renovations with premium finishes like Diamond Brite and Pebble Tec. Transform your tired pool into the backyard centerpiece it should be."
       },
       {
-        "title": "Pool Automation & Lighting",
-        "description": "Smart control systems and LED lighting upgrades for effortless pool management and stunning nighttime ambiance."
+        "title": "Lighting & Automation",
+        "description": "LED lighting, color-changing systems, and smart pool automation installed by a licensed contractor. Control your pool from your phone."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Three Steps to Andy's White-Glove Pool Care",
     "steps": [
       {
         "title": "Call or Text Andy Directly",
-        "description": "Reach the owner — not a call center. Describe your pool situation and get an honest assessment and free quote within 24 hours."
+        "description": "No call centers, no runaround. Reach Andy at 561-660-6062 and describe what your pool needs. You'll get an honest assessment and a fair quote within 24 hours."
       },
       {
         "title": "Andy Handles It Personally",
-        "description": "Every service is performed or directly overseen by Andy. Licensed, insured, and equipped to work on any in-ground pool type in Palm Beach County."
+        "description": "Every job is performed or directly overseen by Andy himself. Licensed, insured, and backed by 14 years of Palm Beach pool expertise — your pool is in the best hands."
       },
       {
         "title": "Enjoy Your Perfect Pool",
-        "description": "Crystal clear water, equipment running smoothly, and zero stress. If anything is not right, Andy comes back and fixes it — no questions asked."
+        "description": "Relax knowing your pool is clean, safe, and running efficiently. If anything isn't perfect, Andy comes back and makes it right — that's his personal guarantee."
       }
     ]
   },
   "about": {
     "label": "Why Palm Beach Trusts Andy",
-    "headline": "Not a Franchise — Your Dedicated Pool Expert Since 2012",
-    "description": "When Andy Brody founded Palm Beach Pool & Spa Service in 2012, he made a simple promise: every customer gets the owner's full attention. Fourteen years and 150+ five-star reviews later, that promise holds. Andy personally handles or oversees every single service call — from routine cleanings to complex equipment repairs across concrete, fiberglass, and vinyl liner pools throughout Palm Beach County.",
-    "badge": "FL Licensed Pool Contractor",
+    "headline": "Not a Franchise — Your Neighbor Who Happens to Be a Pool Expert",
+    "description": "Andy Brody started Palm Beach Pool & Spa Services in 2012 with one truck and a simple promise: treat every pool like it's his own. Fourteen years later, that promise hasn't changed. Andy still personally handles or oversees every service call, giving you the kind of honest advice and meticulous care that big companies simply can't match. That's why 243+ families trust him with their pools — and why his 4.9 Google rating speaks for itself.",
+    "badge": "FL Licensed Contractor",
     "features": [
       {
         "title": "Owner On Every Job",
-        "description": "Andy personally performs or supervises every service. You always know exactly who is caring for your pool."
+        "description": "Andy personally handles or supervises every single service call. You'll never deal with an untrained tech or a stranger in your backyard."
       },
       {
         "title": "Fair, Transparent Pricing",
-        "description": "Honest quotes with no hidden fees. Weekly cleaning from $125/month — what Andy quotes is what you pay."
+        "description": "No hidden fees, no surprise charges, no upselling. Andy quotes honestly and sticks to it. If he finds something unexpected, he calls you first."
       },
       {
-        "title": "All Pool Types Welcome",
-        "description": "Concrete, fiberglass, or vinyl liner — fully equipped to service and repair any in-ground pool in Palm Beach County."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with any service? Andy comes back and makes it right at no extra charge. Your trust is more important than any single job."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Straightforward rates from a pool pro who believes in earning your trust every visit — not locking you into contracts."
+    "headline": "Fair Pricing. Zero Hidden Fees.",
+    "subtitle": "Andy believes in honest quotes and straightforward pricing. No contracts, no cancellation penalties — just great pool care at a fair price."
   },
   "guarantee": {
-    "headline": "Andy's Personal Guarantee",
-    "description": "If you are not completely satisfied with any service, Andy will come back and make it right at no extra charge. No fine print, no runaround — just a local business owner who stakes his reputation on every single job."
+    "headline": "Andy's Personal \"Perfect Pool\" Guarantee",
+    "description": "If you're not 100% satisfied with any service, Andy will come back personally and make it right — no questions asked, no extra charge. He's staked his reputation on delivering exceptional pool care for 14 years, and he's not about to stop now. Your satisfaction isn't just a policy; it's Andy's word."
   },
   "faqs": [
     {
-      "question": "How quickly can you start weekly service?",
-      "answer": "Most new customers are added to the schedule within 3-5 business days. For urgent situations like a green pool or equipment failure, Andy offers same-day or next-day response. Just call or text directly."
+      "question": "How quickly can Andy start service?",
+      "answer": "Most new clients are on the schedule within a few days. For urgent repairs or green pool emergencies, Andy often responds the same day or next day. Just call 561-660-6062 and he'll work with your timeline."
     },
     {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and Andy takes care of everything while you are away. You will receive a summary after each visit so you always know what was done."
+      "question": "Does Andy personally do the work?",
+      "answer": "Yes. Andy personally handles or directly oversees every single service call. You'll never get a random technician — just a licensed, insured pool expert who knows your pool and your preferences."
     },
     {
-      "question": "What types of pools do you service?",
-      "answer": "All in-ground pool types — concrete, fiberglass, and vinyl liner. Andy is equipped and experienced with every major equipment brand including Hayward, Pentair, Jandy, Zodiac, and Raypak."
+      "question": "What brands of equipment do you service?",
+      "answer": "Andy services all major brands including Hayward, Jandy, Pentair, Zodiac, and Raypak. Whether it's a pump, heater, filter, or salt system, he has the expertise and parts access to get it fixed right."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. Palm Beach Pool & Spa Service holds a Florida State Pool Contractor License and carries full liability insurance. Every job is performed by or overseen by the licensed owner."
+      "question": "Do I need to sign a contract?",
+      "answer": "Never. Andy doesn't believe in locking you in. You can adjust, pause, or cancel service anytime with zero fees. He earns your business every visit — that's the way it should be."
     },
     {
-      "question": "What does weekly pool cleaning include?",
-      "answer": "Basic chlorine service starts at $125/month and includes skimming, vacuuming, chemical balancing, and filter basket cleaning. Comprehensive service at $149.95/month adds brushing, tile cleaning, and full equipment checks."
+      "question": "What areas in Palm Beach do you serve?",
+      "answer": "Andy serves Palm Beach Gardens, Jupiter, North Palm Beach, West Palm Beach, Royal Palm Beach, Wellington, Palm Beach, Juno Beach, Loxahatchee, and Riviera Beach. If you're in the greater Palm Beach area, give him a call."
     }
   ],
   "testimonials": [
     {
-      "name": "Jan D.",
-      "context": "Thumbtack Review",
-      "initials": "JD",
-      "text": "He showed up, took complete ownership of the problem and got our pool looking good again in a short amount of time. Highly recommend Andy to anyone in the Palm Beach area."
+      "name": "Sunday B.",
+      "text": "My pool developed a yellow film. I called Andy and he came the next day! We made a plan to start from scratch and it worked perfectly. He is the best and me and my pool are happy again!",
+      "context": "Pool Water Issue",
+      "initials": "SB"
     },
     {
-      "name": "Rhicel P.",
-      "context": "Thumbtack Review",
-      "initials": "RP",
-      "text": "Andy is the best! He is always on time, and communicates very well regarding any pool needs. My pool has never looked better since switching to his service."
+      "name": "Margaret M.",
+      "text": "He treats us like family. I am often out of town and can rest easy knowing my pool and hot tub are taken care of with no issue.",
+      "context": "Ongoing Maintenance",
+      "initials": "MM"
     },
     {
-      "name": "Erica B.",
-      "context": "Thumbtack Review",
-      "initials": "EB",
-      "text": "Excellent work and quick to respond! Very happy with his work thus far and will continue to use him. Fair pricing and honest communication — exactly what you want."
+      "name": "Jeffrey M.",
+      "text": "Excellent experience. I had multiple parts of my pool equipment replaced this week including my heater and filter housing. Professional and thorough.",
+      "context": "Equipment Replacement",
+      "initials": "JM"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Runs Itself?",
-    "subtitle": "Call or text Andy directly for a free, no-pressure quote. No call centers, no sales pitch — just honest advice from Palm Beach County's top-rated pool pro.",
+    "headline": "Ready for Pool Care You<br>Can Actually Count On?",
+    "subtitle": "Call Andy directly or fill out the form below. You'll get an honest assessment and a fair quote — no pressure, no obligation, no sales pitch.",
     "benefits": [
-      "Free pool inspection with every quote",
-      "Direct line to the owner — always",
-      "150+ five-star reviews and counting"
+      "Free pool inspection with your quote",
+      "Andy responds within 24 hours",
+      "100% satisfaction guaranteed on every job"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool service. Proudly serving Palm Beach County since 2012.",
-    "service_area": "Serving Palm Beach Gardens, Jupiter, West Palm Beach, Wellington & Surrounding Areas",
+    "description": "Owner-operated pool service. Serving Palm Beach County families since 2012.",
+    "service_area": "Serving Palm Beach Gardens, Jupiter, West Palm Beach & Surrounding Areas",
     "services": [
       "Weekly Pool Cleaning",
-      "Equipment Repair & Install",
+      "Heater Repairs",
       "Leak Detection",
       "Pool Remodeling",
-      "Pool Heater Services"
+      "Lighting & Automation"
     ],
-    "copyright": "&copy; 2024 Palm Beach Pool & Spa Service. All rights reserved. FL Licensed Pool Contractor."
-  },
-  "review_count": "150",
-  "review_rating": "5.0"
+    "copyright": "&copy; 2024 Palm Beach Pool & Spa Services. All rights reserved. FL Licensed Pool Contractor."
+  }
 }

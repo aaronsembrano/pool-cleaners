@@ -4,180 +4,181 @@
   "tagline": "Pools and Gardens for Fine Homes",
   "phone": "+1 972-418-5244",
   "email": "info@haroldleidner.com",
-  "review_count": "22",
-  "review_rating": "4.5",
+  "logo_path": "logo.png",
+  "review_count": "21",
+  "review_rating": "4.4",
   "colors": {
-    "primary": "#2C3E2D",
-    "primary_dark": "#1E2B1F",
-    "primary_deeper": "#121A13",
-    "secondary": "#C5A258",
-    "cta": "#C5A258",
-    "cta_dark": "#A8893D"
+    "primary": "#2C4A2E",
+    "primary_dark": "#1E3520",
+    "primary_deeper": "#142416",
+    "secondary": "#C8A96E",
+    "cta": "#C8A96E",
+    "cta_dark": "#B0924E"
   },
   "trust_badges": {
-    "badge_1": "Registered Landscape Architects",
-    "badge_2": "4.5/5 from 22+ Reviews",
-    "badge_3": "14x Best of Houzz Winner"
+    "badge_1": "40+ Years of Excellence",
+    "badge_2": "14x Best of Houzz Winner",
+    "badge_3": "BBB Accredited"
   },
   "hero": {
-    "badge_1": "4.5/5 from 22+ Google Reviews",
-    "badge_2": "Featured in Architectural Digest",
-    "headline": "Iconic Exteriors for <span class=\"text-secondary italic\">Dallas'<br>Finest Homes</span>",
-    "subheadline": "Your outdoor space should be as extraordinary as the home it surrounds. For over 40 years, Harold Leidner Landscape Architects has designed and built luxury pools, gardens, and outdoor living environments for Dallas' most distinguished properties. We design it, we build it, we guarantee it.",
+    "badge_1": "4.4/5 from 21+ Google Reviews",
+    "badge_2": "14x Best of Houzz Winner",
+    "headline": "Extraordinary Pools for <span class=\"text-secondary italic\">Distinguished<br>Dallas Homes</span>",
+    "subheadline": "For over 40 years, Harold Leidner Landscape Architects has designed and built breathtaking pools, gardens, and outdoor living spaces for the finest properties in Dallas-Fort Worth. From concept to construction, we create outdoor environments that elevate your home and how you live in it.",
     "cta_text": "Schedule Your Design Consultation",
     "checkmarks": [
-      "Complimentary on-site consultation",
-      "Design-build under one roof",
-      "40+ years of Dallas luxury expertise"
+      "Complimentary design consultation",
+      "Full design-build firm",
+      "40+ years proven expertise"
     ]
   },
   "stats": {
-    "stat_1_value": "1000",
-    "stat_1_label": "Luxury Projects Completed",
+    "stat_1_value": "500",
+    "stat_1_label": "Properties Transformed",
     "stat_2_value": "40",
     "stat_2_label": "Years of Excellence",
-    "stat_3_value": "3",
-    "stat_3_label": "DFW Office Locations",
-    "stat_4_value": "100%",
-    "stat_4_label": "Design-Build In-House"
+    "stat_3_value": "14",
+    "stat_3_label": "Best of Houzz Awards",
+    "stat_4_value": "17+",
+    "stat_4_label": "Design Professionals"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Luxury Outdoor Living<br class=\"hidden md:block\"> Designed & Built to Last",
-    "subtitle": "From award-winning pools to curated gardens, every project is conceived and constructed by our team of licensed landscape architects. One vision, one team, one iconic result.",
+    "headline": "Luxury Outdoor Design &<br class=\"hidden md:block\"> Construction",
+    "subtitle": "From custom pools and spas to complete landscape transformations, we bring architectural vision and master craftsmanship to every project across Dallas-Fort Worth.",
     "cards": [
       {
         "title": "Custom Pools & Spas",
-        "description": "Award-winning luxury swimming pools and spas tailored to complement your home's architecture. From classic elegance to modern infinity edges, designed to be the centerpiece of your property."
+        "description": "Breathtaking custom pools and spas designed for Dallas' most distinguished homes. Classic, modern, or transitional — every detail reflects your vision and lifestyle."
       },
       {
-        "title": "Water & Fire Features",
-        "description": "Dramatic fountains, waterfalls, and fire bowls that add dimension, sound, and ambiance to your outdoor environment. Every element custom-designed for your landscape."
+        "title": "Landscape Architecture",
+        "description": "Full-service landscape design for luxury properties. Custom garden and landscape plans that enhance your home's architecture and natural setting."
       },
       {
-        "title": "Outdoor Kitchens & Living",
-        "description": "Fully custom outdoor kitchens and living spaces built for world-class entertaining. Premium materials and professional-grade appliances integrated seamlessly into the landscape."
+        "title": "Outdoor Living Spaces",
+        "description": "Complete outdoor kitchens, patios, pergolas, and entertainment areas that seamlessly extend your home into the landscape."
       },
       {
-        "title": "Pergolas & Outdoor Structures",
-        "description": "Pavilions, cabanas, and covered living spaces designed to extend your home's footprint and provide year-round outdoor enjoyment with architectural integrity."
+        "title": "Water Features & Lighting",
+        "description": "Custom fountains, waterfalls, and professional landscape lighting that showcase your outdoor spaces from day into evening."
       },
       {
-        "title": "Custom Gardens & Landscaping",
-        "description": "Expert garden design including French gardens, native plantings, and curated landscape plans that enhance the architecture and setting of your property."
+        "title": "Exterior Design & Build",
+        "description": "End-to-end design and construction for complete exterior transformations including driveways, walkways, and hardscaping elements."
       },
       {
-        "title": "Landscape Lighting & Hardscape",
-        "description": "Professional exterior lighting, driveways, patios, and full property hardscaping that highlights architectural features and creates inviting ambiance day and night."
+        "title": "Concierge Maintenance",
+        "description": "Ongoing landscape maintenance to preserve and protect the beauty of your professionally designed outdoor spaces year after year."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Iconic Exterior",
+    "headline": "Your Vision, Our Proven Process",
     "steps": [
       {
-        "title": "Share Your Vision",
-        "description": "Meet with our licensed landscape architects for an on-site consultation. We study your home's architecture, your lifestyle, and your aspirations to develop a comprehensive design concept."
+        "title": "Design Consultation",
+        "description": "Meet with Harold and our design team to share your vision. We'll tour your property, discuss your lifestyle, and develop a design concept tailored to your home and how you want to live outdoors."
       },
       {
-        "title": "We Design & Build It",
-        "description": "Our in-house team handles everything from initial drawings to final construction. The same architects who conceive your exterior are the ones who build it — no outsourcing, no shortcuts."
+        "title": "Custom Design & Planning",
+        "description": "Our landscape architects create detailed plans with 3D renderings so you can see your future outdoor space before a single stone is placed. Every element is designed with precision and purpose."
       },
       {
-        "title": "Live in Your Masterpiece",
-        "description": "Step into an outdoor environment that is more than beautiful — it's iconic. And with our concierge maintenance, it stays pristine year after year."
+        "title": "Expert Construction & Reveal",
+        "description": "Our skilled craftsmen bring the design to life with meticulous attention to detail. We manage every phase of construction and walk you through your completed outdoor environment."
       }
     ]
   },
   "about": {
     "label": "Why Dallas Trusts Harold Leidner",
-    "headline": "The Designers Who Build It Are the Ones Who Conceive It",
-    "description": "Founded in 1984 by Harold Leidner, a Texas A&M-trained landscape architect, our firm has spent four decades creating luxury outdoor environments for Dallas' most distinguished homes. Our foundational belief is simple: the team that designs your exterior should be the team that builds it. That means no plans sold to outside contractors, no loss of vision in translation. Every project is designed, built, and guaranteed end-to-end by our licensed landscape architects — from Highland Park estates to Fort Worth retreats.",
-    "badge": "Registered Landscape Architects",
+    "headline": "40+ Years Reimagining Nature for Fine Living",
+    "description": "Harold Leidner Landscape Architects is the leading Dallas landscape architecture firm, trusted by top architects, builders, and homeowners throughout North Texas. From Highland Park and Preston Hollow to University Park and beyond, we have designed and built extraordinary outdoor environments for over four decades. Our team of 17 professionals brings architectural vision, master craftsmanship, and a proven process to every project.",
+    "badge": "14x Best of Houzz",
     "features": [
       {
-        "title": "Licensed Landscape Architects",
-        "description": "Every designer and project manager on our team holds a professional landscape architecture license. Your project is led by credentialed experts, not salespeople."
+        "title": "Full Design-Build Firm",
+        "description": "From initial concept through final construction, everything is handled in-house by our team of architects, designers, and craftsmen."
       },
       {
-        "title": "Design-Build Guarantee",
-        "description": "We never hand off plans to third-party contractors. The architects who conceive your outdoor space build it themselves, ensuring every detail matches the vision."
+        "title": "Trusted by Dallas' Finest",
+        "description": "Celebrity clients, top architects, and the most distinguished homeowners in Highland Park, Preston Hollow, and University Park trust our work."
       },
       {
-        "title": "40+ Years of Proven Excellence",
-        "description": "Featured in Architectural Digest, 14x Best of Houzz winner, and trusted by clients like Troy Aikman. Four decades of iconic results speak for themselves."
+        "title": "Award-Winning Excellence",
+        "description": "A 14-time Best of Houzz winner and member of the Institute of Classical Architecture & Art. Our work speaks for itself."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Investment. Extraordinary Results.",
-    "subtitle": "Every project is custom-scoped to your property and vision. Schedule a consultation to receive a detailed, no-obligation proposal."
+    "headline": "Tailored Design for Every Property.",
+    "subtitle": "Every project is custom. Schedule a consultation and we will create a detailed proposal designed around your property, vision, and investment level."
   },
   "guarantee": {
-    "headline": "Our \"Iconic Exterior\" Guarantee",
-    "description": "Every project we design and build is backed by our complete satisfaction guarantee. If any element does not meet the standard we promised, we return and make it right at our expense. We have upheld this commitment for over 40 years because our reputation is built one property at a time."
+    "headline": "Our Commitment to Excellence",
+    "description": "We stand behind every project we design and build. If any element of your landscape or pool does not meet the standards we set together during the design process, our team will return and make it right. After 40+ years, our reputation is built on delivering extraordinary results — and we intend to keep it that way."
   },
   "faqs": [
     {
-      "question": "How does the design-build process work?",
-      "answer": "It starts with an on-site consultation where our licensed landscape architects study your home, property, and vision. We create a comprehensive design, present it for your approval, and then our in-house construction team brings it to life. The same architects oversee every phase — no handoffs to outside contractors."
+      "question": "How long does a typical landscape or pool project take?",
+      "answer": "Timelines vary based on scope. A custom pool typically takes 3-5 months from design to completion. Full landscape transformations may take 4-8 months. During your consultation, we provide a detailed timeline so you know exactly what to expect at every phase."
     },
     {
-      "question": "What areas of Dallas do you serve?",
-      "answer": "We serve the entire DFW metroplex from three office locations — Highland Park, Carrollton, and Fort Worth. Our primary service areas include Dallas, Highland Park, Preston Hollow, University Park, Frisco, and Westover Hills."
+      "question": "Do you work with my architect or builder?",
+      "answer": "Absolutely. We collaborate closely with architects, builders, and interior designers throughout the Dallas-Fort Worth area. Many of the region's top architects specifically recommend Harold Leidner for landscape architecture and pool design."
     },
     {
-      "question": "How long does a typical project take?",
-      "answer": "Timelines vary by scope. A pool and landscape project typically takes 3-6 months from design approval to completion. Larger estate projects can take 6-12 months. We provide a detailed timeline during the proposal phase so you know exactly what to expect."
+      "question": "What areas of Dallas-Fort Worth do you serve?",
+      "answer": "We serve Highland Park, Preston Hollow, University Park, Westover Hills, Frisco, Carrollton, and communities throughout Dallas and Fort Worth. If you have a property in the DFW metroplex, we would love to discuss your project."
     },
     {
-      "question": "Do you handle maintenance after the project is complete?",
-      "answer": "Yes. Our concierge maintenance program keeps your landscape, pool, and outdoor living areas in pristine condition year-round. The same team that built your exterior maintains it, so every detail is preserved exactly as designed."
+      "question": "Can you handle the entire project from design to construction?",
+      "answer": "Yes. Harold Leidner is a full design-build firm. We handle everything from the initial design consultation and architectural plans through permitting, construction, planting, and final walkthrough. One team, one point of contact, one standard of excellence."
     },
     {
-      "question": "What sets Harold Leidner apart from other landscape firms?",
-      "answer": "We are one of the few firms in Dallas where every designer is a licensed landscape architect, and we never outsource construction. This design-build model means your vision is never lost in translation. Over 40 years, this approach has earned us features in Architectural Digest and 14 Best of Houzz awards."
+      "question": "Do you offer ongoing maintenance after the project is complete?",
+      "answer": "Yes, our Concierge Maintenance program provides ongoing care to preserve and protect your investment. From seasonal plantings to irrigation management, we keep your landscape looking as stunning as the day it was completed."
     }
   ],
   "testimonials": [
     {
       "name": "Troy Aikman",
-      "text": "I was very pleased with our experience with Harold Leidner and his landscape team. We have used Harold's services on our last two homes, and we would use Harold again if the opportunity presented itself.",
-      "context": "Landscape services on two homes",
+      "text": "Very pleased with our experience. Harold and his team delivered exceptional results for both of our Dallas properties. Would use Harold again if the opportunity presented itself.",
+      "context": "Landscape design, two Dallas homes",
       "initials": "TA"
     },
     {
-      "name": "Ryan M.",
-      "text": "Harold Leidner worked on our front and backyard. They did an exceptional job from start to finish. They walked us through the scope and kept us updated throughout. They handled turf, sprinklers, pool, outdoor kitchen, driveway, and patio tile. This is a professional company and I highly recommend them.",
-      "context": "Full front and backyard renovation",
-      "initials": "RM"
+      "name": "John & Mrs. Carona",
+      "text": "Harold and his team were outstanding to work with. They easily understood our taste and what we were looking for and created a landscape that was everything we wanted and more — and made the whole process easy and pleasant for us.",
+      "context": "2+ acre Preston Hollow estate",
+      "initials": "JC"
     },
     {
-      "name": "Somer G.",
-      "text": "They turned our backyard into an incredible space. Every contractor was professional and courteous. The transformation exceeded our expectations.",
-      "context": "Backyard transformation",
-      "initials": "SG"
+      "name": "Ryan Marron",
+      "text": "They did an exceptional job from start to finish. They walked us through the scope of the project and kept us updated throughout with any changes and updates. The final result exceeded our expectations.",
+      "context": "Pool, outdoor kitchen, and patio",
+      "initials": "RM"
     }
   ],
   "contact": {
-    "headline": "Ready for an Exterior<br>That's Truly Iconic?",
-    "subtitle": "Schedule a complimentary on-site consultation with our licensed landscape architects. We will study your property, discuss your vision, and provide a detailed proposal — no pressure, no obligation.",
+    "headline": "Ready to Transform Your<br>Outdoor Living Space?",
+    "subtitle": "Schedule a complimentary design consultation with Harold Leidner. We will visit your property, discuss your vision, and show you what is possible.",
     "benefits": [
       "Complimentary on-site design consultation",
-      "Detailed proposal within two weeks",
-      "40+ years of luxury landscape expertise"
+      "Custom proposal within two weeks",
+      "40+ years of proven Dallas expertise"
     ]
   },
   "footer": {
-    "description": "Dallas' premier landscape architecture firm. Designing and building iconic exteriors for 40+ years.",
-    "service_area": "Serving Dallas, Highland Park, Preston Hollow, University Park & DFW",
+    "description": "Dallas' leading landscape architecture firm. Designing extraordinary outdoor spaces for 40+ years.",
+    "service_area": "Serving Dallas, Fort Worth, Highland Park, Preston Hollow & University Park",
     "services": [
       "Custom Pools & Spas",
-      "Water & Fire Features",
-      "Outdoor Kitchens",
-      "Gardens & Landscaping",
-      "Landscape Lighting"
+      "Landscape Architecture",
+      "Outdoor Living Spaces",
+      "Water Features & Lighting",
+      "Concierge Maintenance"
     ],
-    "copyright": "&copy; 2024 Harold Leidner Landscape Architects. All rights reserved. RLA Licensed."
+    "copyright": "&copy; 2024 Harold Leidner Landscape Architects. All rights reserved. Carrollton, TX"
   }
 }
