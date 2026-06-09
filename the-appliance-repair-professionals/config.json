@@ -1,0 +1,183 @@
+{
+  "folder_name": "the-appliance-repair-professionals",
+  "company_name": "The Appliance Repair Professionals",
+  "tagline": "Same-Day Appliance Repair Service Near You",
+  "phone": "888-287-8009",
+  "email": "jamesmansperger@theappliancerepairprofessionals.com",
+  "review_count": "85",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C48",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#E8492A",
+    "cta": "#E8492A",
+    "cta_dark": "#C93A1E"
+  },
+  "trust_badges": {
+    "badge_1": "Fully Insured & Licensed",
+    "badge_2": "4.7/5 from 85+ Reviews",
+    "badge_3": "90-Day Repair Warranty"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 85+ Google Reviews",
+    "badge_2": "90-Day Warranty on All Repairs",
+    "headline": "Your Appliances Fixed Today, <span class=\"text-secondary italic\">Guaranteed</span>",
+    "subheadline": "When your fridge stops cooling or your washer floods the floor, you need a pro who answers the phone and shows up fast. We deploy from 10,000+ vetted technicians across 40 states for same-day or next-day repairs on every major brand.",
+    "cta_text": "Book My Repair Now",
+    "checkmarks": [
+      "Same-day service available",
+      "All major brands covered",
+      "No hidden fees ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1000000",
+    "stat_1_label": "Jobs Completed",
+    "stat_2_value": "15",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "10000",
+    "stat_3_label": "Vetted Technicians",
+    "stat_4_value": "40+",
+    "stat_4_label": "States Served"
+  },
+  "services": {
+    "label": "What We Fix",
+    "headline": "Expert Appliance Repair That<br class=\"hidden md:block\"> Gets Your Home Running Again",
+    "subtitle": "From refrigerators to dishwashers, our factory-trained technicians diagnose and fix every major brand. Most repairs are completed in a single visit so your daily routine stays on track.",
+    "cards": [
+      {
+        "title": "Refrigerator Repair",
+        "description": "Fast diagnosis and repair of cooling issues, ice maker problems, and temperature inconsistencies across all makes and models. Same-day service available."
+      },
+      {
+        "title": "Washer Repair",
+        "description": "Expert washing machine repair for leaks, spin cycle failures, drainage problems, and electrical issues. We get your laundry routine back on track fast."
+      },
+      {
+        "title": "Dryer Repair",
+        "description": "Heating element replacement, drum issues, ventilation problems, and timer malfunctions for both gas and electric dryers. Done right the first time."
+      },
+      {
+        "title": "Oven & Stove Repair",
+        "description": "Temperature calibration, igniter replacement, burner repair, and control board diagnostics for all major brands. Cooking again by dinner."
+      },
+      {
+        "title": "Dishwasher Repair",
+        "description": "Drainage issues, spray arm problems, detergent dispenser malfunctions, and leaks fixed fast to restore your dishwasher to peak performance."
+      },
+      {
+        "title": "Freezer & Microwave Repair",
+        "description": "From freezer temperature fluctuations and compressor issues to microwave magnetron failures and control panel problems — we handle it all."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Working Appliance",
+    "steps": [
+      {
+        "title": "Call or Book Online",
+        "description": "Tell us what's broken. We'll match you with a vetted, insured technician in your area and schedule same-day or next-day service — including weekends."
+      },
+      {
+        "title": "We Diagnose & Fix It",
+        "description": "Your technician arrives on time with transparent pricing upfront. Most repairs are completed in a single visit with parts on hand — no surprises."
+      },
+      {
+        "title": "Enjoy Peace of Mind",
+        "description": "Every repair is backed by our 90-day warranty. If something isn't right, we come back and make it right — free. Your satisfaction is non-negotiable."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Trust Us",
+    "headline": "America's Most Trusted Appliance Repair Team",
+    "description": "Founded in 2011 to solve a simple problem: finding a repair company that actually answers the phone and shows up when they say they will. Today, we're the largest appliance repair company in the USA with over 1 million jobs completed. Only 1 in 10 technician applicants passes our rigorous screening — so every pro who walks through your door is reliable, insured, and background-checked.",
+    "badge": "1-in-10 Approved",
+    "features": [
+      {
+        "title": "Background-Checked & Insured",
+        "description": "Every technician passes a comprehensive background check and carries full liability insurance before they ever enter your home."
+      },
+      {
+        "title": "Transparent, Upfront Pricing",
+        "description": "You'll know the cost before we start. No hidden fees, no surprise charges, no upsells — just honest pricing for honest work."
+      },
+      {
+        "title": "90-Day Repair Warranty",
+        "description": "Every repair is backed by a 90-day warranty. If the fix doesn't hold, we come back and make it right at no extra cost."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprise Fees.",
+    "subtitle": "Get an upfront quote before we start. No hidden charges, no upsells — just fair pricing for expert appliance repair."
+  },
+  "guarantee": {
+    "headline": "Our 90-Day \"Done Right\" Guarantee",
+    "description": "If your repair doesn't hold up within 90 days, we come back and fix it again at absolutely no cost. We also guarantee on-time arrivals and upfront pricing on every job. Over 1 million homeowners have trusted us — because we stand behind every single repair."
+  },
+  "faqs": [
+    {
+      "question": "How fast can you get a technician to my home?",
+      "answer": "In most areas, we offer same-day or next-day service, including weekends. Call us and we'll find the earliest available appointment in your area — often within hours."
+    },
+    {
+      "question": "Do you repair all appliance brands?",
+      "answer": "Yes. Our technicians are trained to service all major brands including Whirlpool, Samsung, LG, GE, Maytag, Kenmore, KitchenAid, Bosch, and more. If it's in your home, we can fix it."
+    },
+    {
+      "question": "Are your technicians background-checked?",
+      "answer": "Absolutely. Every technician passes a rigorous screening process — only 1 in 10 applicants are approved. All are fully insured, background-checked, and held to the highest professional standards."
+    },
+    {
+      "question": "What does the 90-day warranty cover?",
+      "answer": "Our warranty covers both parts and labor for the specific repair performed. If the same issue recurs within 90 days, we come back and fix it at no additional charge."
+    },
+    {
+      "question": "Do you service commercial properties?",
+      "answer": "Yes. We serve residential, commercial, and property management clients. Whether it's a single home refrigerator or a fleet of commercial units, we have the team and capacity to handle it."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "James M.",
+      "context": "Property Management Client",
+      "initials": "JM",
+      "text": "Service was incredible! Fast, honest, professional, and friendly. For now, there's no other company I would trust my tenants with. They handle everything reliably."
+    },
+    {
+      "name": "Rachel T.",
+      "context": "Washer & Oven Repair",
+      "initials": "RT",
+      "text": "I've never written a good review before, but this company earned it. They got my washer running and installed my oven — all in under an hour for a very reasonable price."
+    },
+    {
+      "name": "David L.",
+      "context": "Refrigerator Repair",
+      "initials": "DL",
+      "text": "Great technician who was completely transparent about costs. Fixed my refrigerator's cooling issue on the spot and explained everything clearly. Technical skills and customer service were both top-notch."
+    }
+  ],
+  "contact": {
+    "headline": "Appliance Acting Up?<br>Let's Fix It Today.",
+    "subtitle": "Call now or book online for a fast, no-obligation quote. Same-day service available 7 days a week — because breakdowns don't wait for Monday.",
+    "benefits": [
+      "Same-day or next-day appointments",
+      "Upfront pricing before we start",
+      "90-day warranty on every repair"
+    ]
+  },
+  "footer": {
+    "description": "America's largest appliance repair service. 10,000+ vetted technicians across 40+ states since 2011.",
+    "service_area": "Serving Tempe, Phoenix, Scottsdale, Mesa & 40+ States Nationwide",
+    "services": [
+      "Refrigerator Repair",
+      "Washer & Dryer Repair",
+      "Oven & Stove Repair",
+      "Dishwasher Repair",
+      "Freezer & Microwave Repair"
+    ],
+    "copyright": "&copy; 2024 The Appliance Repair Professionals. All rights reserved."
+  }
+}

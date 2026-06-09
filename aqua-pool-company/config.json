@@ -1,0 +1,183 @@
+{
+  "folder_name": "aqua-pool-company",
+  "company_name": "Aqua Pool Company",
+  "tagline": "Pool Service, Repair & Maintenance, Equipment Upgrades",
+  "phone": "+1 925-938-1441",
+  "email": "todd@aquapoolcompany.com",
+  "review_count": "30",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0d2a3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "CA Licensed Contractor #768494",
+    "badge_2": "4.5/5 from 30+ Reviews",
+    "badge_3": "Serving the East Bay Since 1992"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 30+ Google Reviews",
+    "badge_2": "BuildZoom Top 20% in California",
+    "headline": "34 Years Keeping East Bay <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "Since 1992, the Ferro family has grown from 72 pools to over 750 happy accounts across Alameda and Contra Costa counties. We handle the chemistry, the cleaning, and the repairs so you can simply enjoy the water.",
+    "cta_text": "Request a Free Pool Evaluation",
+    "checkmarks": [
+      "Free pool & equipment inspection",
+      "Service starts within days",
+      "750+ pools maintained weekly"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "750",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "34",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "2",
+    "stat_3_label": "County Coverage",
+    "stat_4_value": "96",
+    "stat_4_label": "BuildZoom Score"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Knows Every System",
+    "subtitle": "From weekly chemical balancing to full equipment overhauls, our in-house technicians handle it all. No subcontractors, no guesswork, just 34 years of hands-on expertise protecting your investment.",
+    "cards": [
+      {
+        "title": "Weekly Chemical & Basket Service",
+        "description": "Water testing for chlorine, pH, alkalinity, and cyanuric acid with precise chemical treatment. We clear debris from baskets, check equipment, and verify timers every visit."
+      },
+      {
+        "title": "Full Service Maintenance",
+        "description": "Our most comprehensive plan: surface skimming, vacuuming, wall brushing, chemical balancing, basket clearing, equipment inspection, and semi-annual filter cleanings included."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Algae-filled nightmare? Our team restores neglected pools to crystal-clear, swim-safe condition. We treat the root cause so it stays clean long after we leave."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "In-house repair team for pumps, filters, sweeps, heaters, and salt systems. We partner with Pentair and Paramount for premium parts and reliable fixes."
+      },
+      {
+        "title": "Solar Installation & Repair",
+        "description": "Extend your swim season and cut energy costs with professional solar heating. We install new systems and repair existing ones across the East Bay."
+      },
+      {
+        "title": "Tile & Mastic Replacement",
+        "description": "Cracked tiles and failing mastic compromise your pool's look and structure. Our crew restores waterline tile and expansion joints to like-new condition."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Evaluation",
+        "description": "Call us or fill out the form. We inspect your pool, assess your equipment, and give you an honest recommendation with transparent pricing. Zero pressure."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Our experienced technicians arrive on your scheduled day, every week. Chemistry, cleaning, equipment checks — everything is handled by the same reliable team."
+      },
+      {
+        "title": "Just Dive In",
+        "description": "Your pool stays swim-ready year-round. With 750+ pools on our route, we have the systems and expertise to keep yours perfect without you lifting a finger."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why East Bay Families Trust Us",
+    "headline": "Family-Owned Since 1992 — Still Answering Our Own Phones",
+    "description": "Todd and Kathy Ferro started Aqua Pool Company with 72 accounts and a commitment to doing things right. Thirty-four years later, that same dedication drives every visit to every one of our 750+ residential and commercial pools. Our staff personally answers your calls during business hours. Our in-house repair team handles everything from sweep fixes to full pump installations. We partner with Pentair, PebbleTec, and Paramount because your pool deserves premium equipment.",
+    "badge": "CA License #768494",
+    "features": [
+      {
+        "title": "In-House Repair Team",
+        "description": "No subcontractors. Our own trained technicians diagnose and fix equipment issues, often on the same visit they discover them."
+      },
+      {
+        "title": "Premium Brand Partners",
+        "description": "We work exclusively with industry leaders like Pentair, Paramount, PebbleTec, and Clearwater Tech for lasting quality."
+      },
+      {
+        "title": "Owner-Operated Service",
+        "description": "Todd and Kathy are still hands-on after 34 years. You deal with owners who care, not a corporate call center."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprise Fees.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade or adjust anytime — we keep it simple."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Promise",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional charge. With 34 years of reputation on the line, we do not cut corners. Every pool gets the same meticulous attention that built our name across the East Bay."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are added to our route within one week. We serve Alameda and Contra Costa counties, so chances are we are already in your neighborhood. Call us and we will find the best day for your schedule."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our 750+ clients provide gate access and we handle everything while you are away. You will always know what was done because our technicians check every detail on a consistent schedule."
+    },
+    {
+      "question": "What brands of equipment do you install and repair?",
+      "answer": "We are authorized partners with Pentair, Paramount, PebbleTec, Wet Edge, and Clearwater Tech. Our in-house repair team works on all major brands and can recommend the best equipment for your specific pool and budget."
+    },
+    {
+      "question": "Do you handle commercial pools too?",
+      "answer": "Yes. We service both residential and commercial accounts across the East Bay, including HOA pools, fitness centers, and apartment communities. The same attention to detail applies to every account regardless of size."
+    },
+    {
+      "question": "Can you help reduce my pool energy costs?",
+      "answer": "Absolutely. We install variable speed pumps and solar heating systems that can cut energy costs by 50% or more. One of our Clayton clients saw his monthly electric bill drop from $516 to $239 after a pump upgrade."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mike C.",
+      "text": "His timing couldn't have been better! He was great, explained everything to us and took care of the problem quickly. We felt confident the whole time that we were in good hands.",
+      "context": "Pool repair, Clayton CA",
+      "initials": "MC"
+    },
+    {
+      "name": "Charles D.",
+      "text": "My jaw dropped. In just three months of use, my household electric costs went from $516 down to $239 — a decrease of over 50%. The variable speed pump upgrade paid for itself faster than I expected.",
+      "context": "Equipment upgrade, Clayton CA",
+      "initials": "CD"
+    },
+    {
+      "name": "East Bay Homeowner",
+      "text": "We have been with Aqua Pool for over ten years now. They are consistent, thorough, and always professional. When our heater failed mid-winter, they had a replacement installed within days. Cannot recommend them enough.",
+      "context": "Long-term weekly service client",
+      "initials": "EB"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Get a free pool evaluation from the team that has maintained 750+ East Bay pools since 1992. No pressure, no obligation — just honest advice from people who love what they do.",
+    "benefits": [
+      "Free pool and equipment evaluation",
+      "Response within 24 hours",
+      "34 years of East Bay expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving the East Bay since 1992.",
+    "service_area": "Serving Walnut Creek, Concord, Martinez, Livermore & the East Bay",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Solar Installation",
+      "Tile Replacement"
+    ],
+    "copyright": "&copy; 2024 Aqua Pool Company. All rights reserved. CA Contractor License #768494"
+  }
+}

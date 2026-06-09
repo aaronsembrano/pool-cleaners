@@ -1,0 +1,183 @@
+{
+  "folder_name": "texas-turf-tenders",
+  "company_name": "Texas Turf Tenders",
+  "tagline": "The True Outdoor Living Experts",
+  "phone": "(281) 312-0788",
+  "email": "Info@TexasTurfTenders.com",
+  "colors": {
+    "primary": "#093764",
+    "primary_dark": "#062847",
+    "primary_deeper": "#041B30",
+    "secondary": "#0d4d8b",
+    "cta": "#D97706",
+    "cta_dark": "#B45309"
+  },
+  "trust_badges": {
+    "badge_1": "Veteran-Owned & Operated",
+    "badge_2": "5.0/5 from 111+ Reviews",
+    "badge_3": "Licensed & BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 111+ Google Reviews",
+    "badge_2": "Veteran-Owned Since 1985",
+    "headline": "41 Years Building Texas <span class=\"text-secondary italic\">Dream Backyards</span>",
+    "subheadline": "From custom pools to complete outdoor living spaces, we have been transforming Houston-area homes since 1985. Veteran-owned and driven by service, we handle it all so you can simply enjoy the outdoors.",
+    "cta_text": "Get My Free Consultation",
+    "checkmarks": [
+      "Free on-site estimate",
+      "40+ years of expertise",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "41",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "111",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Veteran-Owned Pride"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From pools and patios to landscaping and irrigation, Texas Turf Tenders handles every aspect of your outdoor space with over four decades of craftsmanship.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "Full-service custom pool design and construction tailored to your backyard vision. From concept sketches to the first splash, we build pools that last generations."
+      },
+      {
+        "title": "Pool Remodeling & Repair",
+        "description": "Breathe new life into your existing pool with updated plaster, tile, coping, and modern features. We also handle equipment repair and leak detection."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Patio covers, pergolas, outdoor kitchens, fire pits, and privacy walls designed and built for Texas living and year-round entertaining."
+      },
+      {
+        "title": "Hardscaping & Stonework",
+        "description": "Custom stone work, retaining walls, walkways, and decorative masonry that add structure, beauty, and lasting value to your property."
+      },
+      {
+        "title": "Landscaping & Design",
+        "description": "Comprehensive landscape design and installation including sod, turf, garden beds, trees, and seasonal plantings tailored to the Texas climate."
+      },
+      {
+        "title": "Irrigation & Drainage",
+        "description": "Licensed irrigation system design, installation, and repair along with drainage solutions to protect your property from water damage."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Outdoor Space",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your outdoor vision. We will visit your property, discuss your goals, and provide a detailed, honest estimate within days. Zero pressure, zero obligation."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our veteran-led crew brings your vision to life with meticulous craftsmanship. We keep you informed every step of the way with clear timelines and proactive communication."
+      },
+      {
+        "title": "Enjoy Your Outdoor Oasis",
+        "description": "Step into the backyard you have always wanted. We stand behind every project with our satisfaction guarantee and offer ongoing maintenance to keep it pristine."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Houston Trusts Us",
+    "headline": "Veteran-Owned, Family-Driven, Built on 41 Years of Trust",
+    "description": "Since 1985, Texas Turf Tenders has grown from a small irrigation company into the greater Houston area's most trusted outdoor living provider. As a veteran-owned business, we bring military discipline, honesty, and work ethic to every project. Our 5.0 Google rating across 111 reviews is not a coincidence. It is the result of treating every client's property like our own and never cutting corners. From custom pools to complete landscape transformations, we deliver craftsmanship that stands the test of time.",
+    "badge": "Veteran-Owned",
+    "features": [
+      {
+        "title": "Licensed & BBB A+ Accredited",
+        "description": "Fully licensed irrigation specialists (LI0002111) with an A+ BBB rating. Every project is backed by proper credentials and accountability."
+      },
+      {
+        "title": "One Company, Every Service",
+        "description": "Pools, patios, landscaping, irrigation, hardscaping, and maintenance. No juggling contractors. One trusted team handles it all."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We are not finished until you are thrilled. Our service-driven approach means we communicate clearly and follow through on every promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Honest Estimates.",
+    "subtitle": "Every project gets a detailed, upfront quote. No hidden fees, no surprise charges. Just straightforward pricing for exceptional outdoor work."
+  },
+  "guarantee": {
+    "headline": "Our \"Built to Last\" Guarantee",
+    "description": "If any aspect of our work does not meet your expectations, we will come back and make it right at no additional cost. We have built our reputation over 41 years on standing behind every project, and we are not about to stop now. Your satisfaction is not just a policy. It is a promise from a veteran-owned company that takes pride in doing things right."
+  },
+  "faqs": [
+    {
+      "question": "How long does a custom pool take to build?",
+      "answer": "Most custom pool projects take 8 to 12 weeks from design to completion, depending on complexity and permitting. We provide a detailed timeline upfront and keep you informed at every stage so there are no surprises."
+    },
+    {
+      "question": "Do you handle the entire outdoor project or just pools?",
+      "answer": "We handle everything. Pools, outdoor kitchens, patio covers, landscaping, irrigation, hardscaping, and ongoing maintenance. Having one company manage the full project ensures seamless coordination and consistent quality."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We hold Texas Irrigation License LI0002111, carry full liability insurance, and maintain an A+ rating with the BBB. We are also a proud veteran-owned and operated business with over 41 years in the industry."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the greater Houston area including Crosby, Humble, Kingwood, Atascocita, Huffman, The Heights, Memorial, River Oaks, Montrose, Midtown, and surrounding communities. We also serve Austin and College Station."
+    },
+    {
+      "question": "Do you offer financing or payment plans?",
+      "answer": "Yes, we offer flexible financing options for larger projects like custom pools and outdoor living spaces. We will walk you through available options during your free consultation so you can find a plan that fits your budget."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Tracy W.",
+      "context": "Pool renovation & patio",
+      "initials": "TW",
+      "text": "Patrick was professional, down-to-earth, and genuinely listened to what I wanted. He didn't try to upsell me. The pool renovation and patio turned out even better than I imagined."
+    },
+    {
+      "name": "Terry G.",
+      "context": "Landscaping & drainage",
+      "initials": "TG",
+      "text": "So professional. Super well mannered crew. Very efficient. Our landscaping and drainage project was completed on time and looks incredible. Could not be happier with the results."
+    },
+    {
+      "name": "Cassilynn E.",
+      "context": "Pool plaster work",
+      "initials": "CE",
+      "text": "I am obsessed with the new plaster on my pool. They did an amazing job and the crew was wonderful to work with from start to finish. Highly recommend Texas Turf Tenders."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your<br>Outdoor Space?",
+    "subtitle": "Get a free, no-pressure consultation from Houston's most trusted outdoor living team. Over 41 years of experience, veteran-owned integrity, and a perfect 5.0 rating.",
+    "benefits": [
+      "Free on-site consultation and estimate",
+      "Response within 24-48 hours",
+      "41 years of proven expertise"
+    ]
+  },
+  "footer": {
+    "description": "Veteran-owned outdoor living experts. Serving greater Houston since 1985.",
+    "service_area": "Serving Greater Houston, Crosby, Humble, Kingwood & Beyond",
+    "services": [
+      "Custom Pools",
+      "Pool Remodeling",
+      "Outdoor Living",
+      "Landscaping",
+      "Irrigation & Drainage"
+    ],
+    "copyright": "&copy; 2024 Texas Turf Tenders. All rights reserved. Veteran-Owned & Operated | TX Irrigation License #LI0002111"
+  },
+  "review_count": "111",
+  "review_rating": "5.0"
+}

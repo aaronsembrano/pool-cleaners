@@ -1,0 +1,184 @@
+{
+  "folder_name": "bb-pools-inc",
+  "company_name": "B&B Pools, Inc.",
+  "tagline": "Built Around Your Vision. Backed by Experience.",
+  "phone": "+1 610-691-7665",
+  "email": "jerry@bandbpoolsinc.com",
+  "logo_path": "",
+  "review_count": "112",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0c1e30",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — 50+ Years",
+    "badge_2": "4.6/5 from 112+ Reviews",
+    "badge_3": "Award-Winning Pool Builders"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 112+ Google Reviews",
+    "badge_2": "Family-Owned Since 1973",
+    "headline": "Your Dream Pool, <span class=\"text-secondary italic\">Built to Last<br>a Lifetime</span>",
+    "subheadline": "For over 50 years, B&B Pools has designed, built, and cared for custom pools across Upstate South Carolina. From first sketch to final splash, our family treats your backyard like our own.",
+    "cta_text": "Start Your Pool Project Today",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "In-house construction team",
+      "Award-winning craftsmanship"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "50",
+    "stat_2_label": "Years of Experience",
+    "stat_3_value": "12000",
+    "stat_3_label": "Sq Ft Retail Showroom",
+    "stat_4_value": "4.6★",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Pool Solutions From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From custom builds to weekly upkeep, B&B Pools handles every phase of pool ownership so you can focus on making memories in your backyard.",
+    "cards": [
+      {
+        "title": "Custom Vinyl Pool Design",
+        "description": "Complete design and installation of custom vinyl-lined swimming pools tailored to your backyard, lifestyle, and budget with expert craftsmanship."
+      },
+      {
+        "title": "Gunite Pool Construction",
+        "description": "Premium gunite pool construction for durable, fully customizable designs including freeform shapes, integrated spas, and custom water features."
+      },
+      {
+        "title": "Pool Renovation & Resurfacing",
+        "description": "Comprehensive renovation services including resurfacing, liner replacement, tile work, and deck upgrades to restore and modernize aging pools."
+      },
+      {
+        "title": "Maintenance & Repair",
+        "description": "Ongoing pool maintenance, equipment repair, and seasonal servicing including openings, closings, and professional water chemistry management."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation and repair of heaters, filters, pumps, and automation systems from Hayward, Pentair, Jandy, and other top brands."
+      },
+      {
+        "title": "Retail Store & Supplies",
+        "description": "Visit our 12,000+ sq ft showroom for chemicals, supplies, parts, covers, cleaners, display pools, and free expert water testing year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Backyard Paradise",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Visit our showroom or schedule a free on-site consultation. We'll discuss your ideas, walk through display pools, and create a design that fits your space and budget."
+      },
+      {
+        "title": "We Build It Right",
+        "description": "Our in-house construction crew handles every detail from excavation to finish — no subcontractors, no shortcuts. You'll get regular updates and clear communication at every stage."
+      },
+      {
+        "title": "Dive In & Enjoy",
+        "description": "Your custom pool is ready. And when you need supplies, maintenance, or a future upgrade, our retail store and service team are right here for you — for life."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Upstate SC Trusts B&B Pools",
+    "headline": "Family-Owned Since 1973 — Three Generations of Pool Excellence",
+    "description": "B&B Pools isn't a franchise or a fly-by-night contractor. We're a family business with over 50 years of roots in the Upstate South Carolina community. Our in-house team designs, builds, and services every pool we touch — so quality never leaves our hands. With an award-winning track record and a 12,000 sq ft showroom you can visit any time, we make the process personal, transparent, and built to last.",
+    "badge": "PHTA Gold Winner",
+    "features": [
+      {
+        "title": "In-House Construction Team",
+        "description": "No subcontractors. Our own skilled crew handles every phase of your project for consistent quality and accountability."
+      },
+      {
+        "title": "Award-Winning Track Record",
+        "description": "Recognized by the Pool & Hot Tub Alliance Carolinas Chapter and voted Best of the Upstate by The Greenville News readers."
+      },
+      {
+        "title": "Financing Options Available",
+        "description": "We offer flexible financing to help make your dream pool a reality without putting your plans on hold."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed, upfront quote. We walk you through every line item so you know exactly what you're investing in."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any aspect of our work doesn't meet the standard we promised, we'll come back and make it right at no additional cost. We've been standing behind our craftsmanship since 1973, and we're not about to stop now. Your satisfaction is what built this business — and it's what keeps it going."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a new pool?",
+      "answer": "Most custom pool projects take 8-12 weeks from design approval to completion, depending on complexity and weather. We'll give you a realistic timeline upfront and keep you informed every step of the way."
+    },
+    {
+      "question": "Do you offer free consultations?",
+      "answer": "Yes! We offer free on-site design consultations. You can also visit our 12,000+ sq ft showroom to see display pools, explore materials, and talk with our design team — no appointment needed."
+    },
+    {
+      "question": "What's the difference between vinyl and gunite pools?",
+      "answer": "Vinyl pools offer a lower upfront cost with smooth surfaces and quick installation. Gunite pools are fully customizable in shape and finish, and extremely durable. We build both and can help you decide which fits your needs and budget."
+    },
+    {
+      "question": "Do you handle pool repairs and maintenance too?",
+      "answer": "Absolutely. Beyond building pools, we offer complete maintenance, equipment repair, seasonal openings and closings, and water chemistry management. We're your one-stop shop for the life of your pool."
+    },
+    {
+      "question": "What brands of equipment do you carry?",
+      "answer": "We're authorized dealers for Hayward, Pentair, Jandy, Zodiac, and Polaris. Our retail store stocks a full range of pumps, filters, heaters, cleaners, chemicals, and accessories from these top brands."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Tom J.",
+      "context": "Pool, deck & spa install",
+      "initials": "TJ",
+      "text": "Attention to every detail. White-glove treatment resulted in a perfect pool, deck, and spa. B&B Pools exceeded every expectation we had."
+    },
+    {
+      "name": "Sonya B.",
+      "context": "New pool construction",
+      "initials": "SB",
+      "text": "From start to finish, the entire process was seamless. Communication was excellent and the team kept us informed every step of the way."
+    },
+    {
+      "name": "Todd G.",
+      "context": "Retail & pool building",
+      "initials": "TG",
+      "text": "Best pool store and builders - period. Friendly and helpful throughout. Would not go anywhere else for pool needs."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Perfect Pool?",
+    "subtitle": "Get a free, no-pressure design consultation. We'll visit your property, discuss your vision, and provide an honest quote — no surprises, no sales pressure.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed quote within one week",
+      "Financing options available"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool builders serving Upstate South Carolina since 1973.",
+    "service_area": "Serving Greenville, Anderson, Simpsonville, Spartanburg & Upstate SC",
+    "services": [
+      "Custom Pool Building",
+      "Gunite Construction",
+      "Pool Renovation",
+      "Maintenance & Repair",
+      "Retail Store & Supplies"
+    ],
+    "copyright": "&copy; 2024 B&B Pools, Inc. All rights reserved. Licensed & Insured."
+  }
+}

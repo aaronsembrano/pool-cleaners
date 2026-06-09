@@ -1,0 +1,183 @@
+{
+  "folder_name": "all-good-supply-corp",
+  "company_name": "All Good Supply Corporation",
+  "tagline": "Your Trusted Source for Pool, Janitorial & Restoration Supplies Since 1959",
+  "phone": "+1 757-826-4890",
+  "email": "tom@allgoodsupplycorporation.com",
+  "review_count": "18",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B4D8E",
+    "primary_dark": "#133A6B",
+    "primary_deeper": "#0D2A4F",
+    "secondary": "#2E8B57",
+    "cta": "#F5A623",
+    "cta_dark": "#D4900E"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.8/5 from 18+ Reviews",
+    "badge_3": "Family-Owned Since 1959"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 18+ Google Reviews",
+    "badge_2": "BBB A+ Rated Business",
+    "headline": "67 Years Keeping Hampton Roads <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Second-generation family business delivering pool chemicals, expert repairs, and janitorial supplies to homes and businesses across Hampton Roads since 1959. We know pools and cleaning like nobody else in Virginia.",
+    "cta_text": "Get Expert Help Today",
+    "checkmarks": [
+      "Free pool water testing",
+      "Same-week service & supply pickup",
+      "67 years of trusted expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "67",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "2",
+    "stat_2_label": "Generations Strong",
+    "stat_3_value": "5000",
+    "stat_3_label": "Customers Served",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Pool Care, Cleaning Supplies &<br class=\"hidden md:block\"> Restoration — All Under One Roof",
+    "subtitle": "From pool chemicals to janitorial equipment to mold remediation supplies, All Good Supply has been Hampton Roads' one-stop source for over six decades.",
+    "cards": [
+      {
+        "title": "Pool Chemicals & Supplies",
+        "description": "Full range of pool chemicals, water treatment products, and maintenance supplies to keep your residential or commercial pool crystal clear and balanced."
+      },
+      {
+        "title": "Pool Repair & Maintenance",
+        "description": "Expert diagnostics and repair for pumps, filters, heaters, and more. We keep your pool equipment running efficiently all season long."
+      },
+      {
+        "title": "Janitorial Chemicals & Equipment",
+        "description": "Commercial-grade cleaning chemicals, sanitizers, and professional janitorial equipment for businesses, facilities, and cleaning operations."
+      },
+      {
+        "title": "Restoration Supplies",
+        "description": "Specialized equipment and supplies for mold remediation, water damage restoration, and disaster recovery — everything pros need on-site."
+      },
+      {
+        "title": "Cleaning & Sanitization Products",
+        "description": "Wide selection of disinfectants, sanitizers, and cleaning products for commercial and residential use, including pandemic preparedness supplies."
+      },
+      {
+        "title": "Equipment Sales & Support",
+        "description": "Professional-grade cleaning and maintenance equipment backed by knowledgeable staff who help you pick the right tools for any job."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to the Right Solution",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Call or stop by our Hampton store. Describe your pool issue, cleaning challenge, or restoration project. Our knowledgeable team listens and asks the right questions."
+      },
+      {
+        "title": "We Match the Right Products",
+        "description": "With 67 years of expertise, we recommend exactly the right chemicals, equipment, or supplies — no upselling, no guesswork. Just honest advice."
+      },
+      {
+        "title": "Problem Solved",
+        "description": "Walk out with everything you need or schedule a service visit. Most pool issues are resolved within days. We follow up to make sure you're satisfied."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Hampton Roads Trusts Us",
+    "headline": "Family-Owned Since 1959 — Two Generations of Doing It Right",
+    "description": "All Good Supply Corporation is a second-generation, family-owned business that has served the Hampton Roads area for over 67 years. What started in 1959 has grown into the region's most trusted source for pool chemicals, janitorial supplies, and restoration equipment. Our team treats every customer like a neighbor because, in Hampton Roads, you probably are one.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "67 Years of Local Expertise",
+        "description": "Two generations of hands-on knowledge means we've seen every pool problem and cleaning challenge Hampton Roads can throw at us."
+      },
+      {
+        "title": "Honest Advice, No Upselling",
+        "description": "We recommend what works, not what costs the most. Our reputation was built on trust and we protect it with every interaction."
+      },
+      {
+        "title": "One-Stop Supply Source",
+        "description": "Pool chemicals, janitorial equipment, restoration supplies — get everything from a single trusted source instead of running all over town."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. Honest Advice. Every Time.",
+    "subtitle": "Competitive prices on every product, with the expert guidance you need to buy only what actually solves your problem."
+  },
+  "guarantee": {
+    "headline": "Our \"Good Name\" Guarantee",
+    "description": "If any product we recommend doesn't solve your problem, bring it back and we'll make it right. We've spent 67 years building our reputation in Hampton Roads, and we stand behind every recommendation with the same integrity that got us here."
+  },
+  "faqs": [
+    {
+      "question": "Do you offer pool repair services or just supplies?",
+      "answer": "Both! We carry a full range of pool chemicals and supplies, and we also provide expert pool repair services including pump, filter, and equipment diagnostics. Call Tom and we'll get your pool sorted out."
+    },
+    {
+      "question": "Can I just walk in or do I need an appointment?",
+      "answer": "Walk-ins are always welcome at our Hampton store. For pool repair service calls, we recommend calling ahead so we can schedule a convenient time. We're happy to help either way."
+    },
+    {
+      "question": "Do you serve commercial clients?",
+      "answer": "Absolutely. We supply janitorial chemicals, cleaning equipment, and pool products to businesses, property managers, hotels, and facilities across the Hampton Roads area. We offer competitive commercial pricing."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Hampton, Newport News, Norfolk, Virginia Beach, Chesapeake, Suffolk, Williamsburg, and the greater Hampton Roads region. Our store is in Hampton, and our service team covers the entire area."
+    },
+    {
+      "question": "Do you carry restoration and mold remediation supplies?",
+      "answer": "Yes, we carry a full line of restoration supplies including mold remediation products, water damage equipment, and disaster recovery tools. Our team can help you select the right products for your specific project."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Donna W.",
+      "context": "Pool Service Customer",
+      "initials": "DW",
+      "text": "I struggled with my pool after it was opened for two weeks trying to get rid of algae. Tom from All Good Supply came out and made my pool crystal clear after only two days. Wish I had called them first!"
+    },
+    {
+      "name": "John C.",
+      "context": "Pool & Cleaning Supplies",
+      "initials": "JC",
+      "text": "Thanks for all you are doing! You help me with my pool and now with important things like cleaning supplies. Always reliable, always fair, always knowledgeable."
+    },
+    {
+      "name": "Lindsey W.",
+      "context": "Regular Customer",
+      "initials": "LW",
+      "text": "Great staff and great products! The team at All Good Supply always knows exactly what I need. They've been our go-to for years and we wouldn't shop anywhere else."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Expert Pool &<br>Cleaning Solutions?",
+    "subtitle": "Stop by our Hampton store or call for a free consultation. 67 years of expertise — ready when you need it.",
+    "benefits": [
+      "Free pool water testing in-store",
+      "Knowledgeable staff — no runaround",
+      "Same-day product availability"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned since 1959. Serving Hampton Roads for 67 years.",
+    "service_area": "Serving Hampton, Newport News, Norfolk, Virginia Beach & Hampton Roads",
+    "services": [
+      "Pool Chemicals & Supplies",
+      "Pool Repair & Maintenance",
+      "Janitorial Supplies",
+      "Restoration Equipment",
+      "Cleaning Products"
+    ],
+    "copyright": "&copy; 2024 All Good Supply Corporation. All rights reserved. Hampton, Virginia."
+  }
+}

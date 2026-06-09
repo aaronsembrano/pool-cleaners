@@ -1,0 +1,184 @@
+{
+  "folder_name": "texas-apartment-pool-services",
+  "company_name": "Texas Apartment Pool Services",
+  "tagline": "Full-Service Commercial Pool Experts for Apartment Communities Across Texas",
+  "phone": "+1 713-542-4560",
+  "email": "grant@tapstx.com",
+  "logo_path": "",
+  "review_count": "15",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#0056A6",
+    "primary_dark": "#003D75",
+    "primary_deeper": "#002B52",
+    "secondary": "#00A3E0",
+    "cta": "#F4A300",
+    "cta_dark": "#D48E00"
+  },
+  "trust_badges": {
+    "badge_1": "NSPF CPOI Certified",
+    "badge_2": "4.5/5 from 15+ Reviews",
+    "badge_3": "100% Commercial Focused"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 15+ Google Reviews",
+    "badge_2": "Apartment Pools Exclusively",
+    "headline": "Your Apartment Pools <span class=\"text-secondary italic\">Handled<br>By Experts</span>",
+    "subheadline": "Managing apartment pools should not keep you up at night. TAPS handles weekly maintenance, repairs, renovations, and compliance so property managers can focus on what matters most -- happy residents and full occupancy.",
+    "cta_text": "Get a Free Pool Assessment",
+    "checkmarks": [
+      "Free property pool inspection",
+      "Statewide Texas coverage",
+      "No long-term contracts required"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Apartment Pools Managed",
+    "stat_2_value": "11",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "27",
+    "stat_3_label": "Years Industry Experience",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commercial Focused"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Commercial Pool Care Built for<br class=\"hidden md:block\"> Apartment Communities",
+    "subtitle": "From weekly chemical balancing to full-scale renovations, TAPS provides every service your apartment pools need to stay safe, compliant, and resident-ready.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly cleaning and chemical balancing for apartment pools -- skimming, vacuuming, backwashing, and water testing to keep every pool crystal clear for residents."
+      },
+      {
+        "title": "Equipment Repair & Replacement",
+        "description": "Expert diagnosis and fast repair of pumps, motors, filters, heaters, and plumbing. We minimize pool downtime so your residents never lose their favorite amenity."
+      },
+      {
+        "title": "Pool Resurfacing & Plaster",
+        "description": "National Plasterers Council-quality replastering and resurfacing that restores aging commercial pools to like-new condition with durable, professional-grade finishes."
+      },
+      {
+        "title": "Full Pool Renovations",
+        "description": "Complete facility upgrades including tile and coping replacement, deck resurfacing, coating, and modernization to elevate your apartment pool amenities."
+      },
+      {
+        "title": "Code Compliance & Inspections",
+        "description": "Thorough compliance inspections ensuring your pools meet all Texas health department regulations, safety codes, and insurance requirements -- no surprises at inspection time."
+      },
+      {
+        "title": "CPO Certification Training",
+        "description": "Certified Pool Operator courses for your maintenance staff and property managers, providing the education and certification Texas law requires for commercial pool operation."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Apartment Pools",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your property and pool setup. We will conduct an on-site inspection and deliver an honest, detailed quote within 24 hours -- no pressure, no obligations."
+      },
+      {
+        "title": "We Take Over Your Pools",
+        "description": "Our CPOI-certified technicians arrive on schedule every week. Cleaning, chemicals, equipment checks, compliance monitoring -- everything handled so you do not have to think about it."
+      },
+      {
+        "title": "Residents Enjoy, You Relax",
+        "description": "Your pools stay pristine, compliant, and resident-ready year-round. Detailed service reports keep you informed, and our team is always one call away if anything comes up."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Property Managers Trust TAPS",
+    "headline": "Built by a Pool Professional, for Apartment Communities",
+    "description": "Founded in 2015 by Grant Almquist -- a lifelong aquatics professional who started as a lifeguard at 15 and worked every segment of the industry -- Texas Apartment Pool Services was built 100% debt-free on a foundation of honesty and reliability. With 27+ years of combined experience and memberships in 7+ Texas Apartment Associations, TAPS is the partner property managers trust to keep their pools safe, compliant, and looking their best across Houston, Austin, Dallas, San Antonio, and beyond.",
+    "badge": "NSPF CPOI Certified",
+    "features": [
+      {
+        "title": "100% Apartment Pool Specialists",
+        "description": "We do not service residential backyard pools. Every process, product, and protocol is designed specifically for commercial multi-family properties."
+      },
+      {
+        "title": "Statewide Texas Coverage",
+        "description": "From Houston to Dallas, Austin to San Antonio, and everywhere in between -- one trusted partner for all your Texas apartment pool locations."
+      },
+      {
+        "title": "Built Debt-Free, Built to Last",
+        "description": "TAPS was founded without a dollar of debt, ensuring long-term stability and reliability. We are not going anywhere -- your pools are in steady hands."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Commercial Pool Pricing.",
+    "subtitle": "Custom plans for every property size. Flexible terms, volume discounts for multi-property portfolios -- no hidden fees, ever."
+  },
+  "guarantee": {
+    "headline": "Our \"Property Manager Peace of Mind\" Guarantee",
+    "description": "If your apartment pool does not pass a health inspection or you are not satisfied with any service visit, we will return and correct the issue at no additional charge. Your residents deserve a safe, sparkling pool -- and we stand behind every visit until that standard is met."
+  },
+  "faqs": [
+    {
+      "question": "Do you service residential pools or only apartments?",
+      "answer": "We are 100% focused on commercial and multi-family apartment pools. This specialization means every process, chemical protocol, and compliance procedure is built specifically for apartment communities -- not backyard pools."
+    },
+    {
+      "question": "What areas of Texas do you cover?",
+      "answer": "We provide statewide coverage across Houston, Austin, Dallas, San Antonio, Cypress, Victoria, Bryan/College Station, Central Texas, and Southeast Texas. If you manage apartment communities anywhere in Texas, we can likely serve you."
+    },
+    {
+      "question": "Can you help our staff get CPO certified?",
+      "answer": "Absolutely. Our founder is an NSPF Certified Pool Operator Instructor (CPOI). We offer CPO certification classes for your property managers and maintenance staff, fulfilling the Texas requirement for commercial pool operation."
+    },
+    {
+      "question": "How quickly can you start servicing our pools?",
+      "answer": "Most new properties are onboarded within one week. We begin with a free on-site assessment, then transition to weekly service on a schedule that works for your community. Emergency repairs are handled same-day when possible."
+    },
+    {
+      "question": "Do you handle pool renovations and resurfacing?",
+      "answer": "Yes. As National Plasterers Council members, we provide complete pool resurfacing, replastering, tile and coping replacement, deck work, and full-scale renovations to modernize aging apartment pool facilities."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "text": "TAPS has been maintaining our 300-unit community pools for years. Their reliability and professionalism are unmatched in the apartment industry. Our residents constantly compliment the pool condition.",
+      "context": "Property Manager, Houston",
+      "initials": "SM"
+    },
+    {
+      "name": "David R.",
+      "text": "Grant and his team respond quickly and get the job done right. They understand the unique needs of apartment pools and keep us fully compliant with every health inspection.",
+      "context": "Maintenance Director, San Antonio",
+      "initials": "DR"
+    },
+    {
+      "name": "Jennifer K.",
+      "text": "We switched to Texas Apartment Pool Services and the difference was immediate. Our pools have never looked better, and residents are thrilled. The detailed service reports make my job so much easier.",
+      "context": "Community Manager, Austin",
+      "initials": "JK"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Apartment Pools<br>That Run Themselves?",
+    "subtitle": "Get a free, no-obligation pool assessment for your apartment community. We will inspect your pools, identify any issues, and provide transparent pricing -- all within 24 hours.",
+    "benefits": [
+      "Free on-site pool inspection included",
+      "Custom quote within 24 hours",
+      "Statewide Texas service coverage"
+    ]
+  },
+  "footer": {
+    "description": "Texas' trusted commercial pool experts. Serving apartment communities statewide since 2015.",
+    "service_area": "Serving Houston, Austin, Dallas, San Antonio & All of Texas",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Pool Resurfacing",
+      "Renovations & Upgrades",
+      "CPO Certification"
+    ],
+    "copyright": "&copy; 2024 Texas Apartment Pool Services. All rights reserved. NSPF CPOI Certified | National Plasterers Council Member"
+  }
+}

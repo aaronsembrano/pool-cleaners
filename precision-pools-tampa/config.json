@@ -1,0 +1,183 @@
+{
+  "folder_name": "precision-pools-tampa",
+  "company_name": "Precision Pools",
+  "tagline": "Tampa's #1 Weekly Pool Service",
+  "phone": "+1 813-338-3998",
+  "email": "griffin@precisionpoolstampa.com",
+  "colors": {
+    "primary": "#E30613",
+    "primary_dark": "#B8050F",
+    "primary_deeper": "#8A040B",
+    "secondary": "#1E3A5F",
+    "cta": "#E30613",
+    "cta_dark": "#B8050F"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified",
+    "badge_2": "4.9/5 from 28+ Reviews",
+    "badge_3": "Free Estimates"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 28+ Google Reviews",
+    "badge_2": "CPO Certified Technicians",
+    "headline": "Precision Care for Your <span class=\"text-secondary italic\">Perfect Pool</span>",
+    "subheadline": "Tampa pool owners trust Precision Pools for weekly service that never misses a detail. CPO-certified technicians handle every chemical check, every brush stroke, every filter — so you just enjoy the water.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free pool estimate",
+      "Same-week service start",
+      "CPO-certified technicians"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving Tampa",
+    "stat_3_value": "28",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "96%",
+    "stat_4_label": "Five-Star Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care Built<br class=\"hidden md:block\"> Around Your Schedule",
+    "subtitle": "From weekly maintenance to emergency storm cleanup, Precision Pools delivers detail-driven service that keeps your water crystal clear and your equipment running right.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly cleaning including skimming, chemical balancing, and equipment monitoring. Your pool stays swim-ready every single week, guaranteed."
+      },
+      {
+        "title": "Full-Service Pool Care",
+        "description": "Complete care covering chemical balancing, brushing, vacuuming, and thorough equipment checks to ensure optimal water clarity and sanitation."
+      },
+      {
+        "title": "Post-Storm Cleanup",
+        "description": "Rapid response after Tampa storms to remove debris, rebalance chemicals, and restore your pool to safe swimming condition — often within 24 hours."
+      },
+      {
+        "title": "Filter Cleaning",
+        "description": "Thorough cleaning and inspection of your filtration system to ensure maximum efficiency, proper flow rates, and consistently clean water."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and salt systems. Most repairs completed same-visit to minimize your downtime."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Professional maintenance for hotels, resorts, HOAs, and community pools. Consistent scheduling and detailed reporting for property managers."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Precision-Clean Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Tell us about your pool and we'll provide an honest, no-pressure estimate within 24 hours. No contracts, no commitments — just straightforward pricing."
+      },
+      {
+        "title": "We Handle Every Detail",
+        "description": "Our CPO-certified technicians arrive on schedule and cover everything — skimming, chemicals, brushing, vacuuming, and a full equipment check every visit."
+      },
+      {
+        "title": "Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and swim-ready year-round. If anything ever falls short, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tampa Trusts Precision Pools",
+    "headline": "Built on Detail, Driven by Results",
+    "description": "Founded in 2022 by Lynn University graduate Griffin Shahmanesh, Precision Pools was built on a simple belief: Tampa pool owners deserve better. Every technician is CPO-certified and background-checked. Every visit follows a meticulous checklist. And every pool we touch gets the same precision care — whether it's a backyard oasis or a commercial property.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "CPO-Certified Technicians",
+        "description": "Every team member holds a Certified Pool Operator credential, ensuring expert-level chemical management and equipment knowledge."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your business every visit. No long-term commitments, no cancellation fees — just consistent results that keep you coming back."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not satisfied with a visit? We come back and redo it at no charge. That's the Precision Pools promise to every client."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Precision Perfect\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll come back to make it right — completely free. No questions, no runaround. We don't consider the job done until your pool meets our standard and yours."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients in Tampa are scheduled within 3-5 business days. For post-storm emergencies, we offer same-day or next-day response. Call us and we'll work with your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you're out. You'll receive a service summary after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Every Precision Pools technician is CPO-certified (Certified Pool Operator) and fully background-checked. Your safety and peace of mind are non-negotiable."
+    },
+    {
+      "question": "What if I want to cancel?",
+      "answer": "Cancel anytime with zero fees. No contracts, no cancellation penalties. We believe in earning your trust every single visit — not locking you into agreements."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Absolutely. We maintain pools for hotels, resorts, HOAs, and community centers across Tampa. Commercial clients get dedicated scheduling and detailed monthly reporting."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Gilberto G.",
+      "context": "Thumbtack Review, June 2024",
+      "initials": "GG",
+      "text": "Highly recommend Griffin and his team for any of your pool service needs. Extremely professional and top notch customer service."
+    },
+    {
+      "name": "WJS",
+      "context": "Thumbtack Review, May 2024",
+      "initials": "WJ",
+      "text": "Griffin is reliable, polite and efficient. He is very accommodating and pays attention to detail."
+    },
+    {
+      "name": "Thomas W.",
+      "context": "Thumbtack Review, August 2023",
+      "initials": "TW",
+      "text": "Always excited to work with Griffin. His attention to detail and professionalism make every service visit worth the call."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's<br>Always Swim-Ready?",
+    "subtitle": "Get a free, no-pressure estimate within 24 hours. No contracts, no commitments — just precision pool care from a team Tampa trusts.",
+    "benefits": [
+      "Free pool estimate with every inquiry",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "CPO-certified pool service. Proudly serving Tampa since 2022.",
+    "service_area": "Serving Tampa, South Tampa & Hillsborough County",
+    "services": [
+      "Weekly Maintenance",
+      "Full-Service Care",
+      "Post-Storm Cleanup",
+      "Filter Cleaning",
+      "Commercial Pools"
+    ],
+    "copyright": "&copy; 2024 Precision Pools. All rights reserved."
+  },
+  "review_count": "28",
+  "review_rating": "4.9"
+}

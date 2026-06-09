@@ -1,0 +1,184 @@
+{
+  "folder_name": "barefoot-pools",
+  "company_name": "Barefoot Pools",
+  "tagline": "Dive Into Summer with Barefoot Pools",
+  "phone": "+1 602-546-7665",
+  "email": "jose@barefootpoolman.com",
+  "logo_path": "",
+  "review_count": "127",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1A5276",
+    "primary_dark": "#133D59",
+    "primary_deeper": "#0D2B3E",
+    "secondary": "#2E86C1",
+    "cta": "#F39C12",
+    "cta_dark": "#D68910"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.7/5 from 127+ Reviews",
+    "badge_3": "Licensed, Bonded & Insured"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 127+ Google Reviews",
+    "badge_2": "Best of Gilbert 2021-2025",
+    "headline": "Award-Winning Pool Care <span class=\"text-secondary italic\">You Can<br>Walk Away From</span>",
+    "subheadline": "For over 30 years, Arizona families have trusted Barefoot Pools to keep their backyard retreats crystal clear and swim-ready. Relax knowing our elite craftspeople handle every detail so you can just enjoy the water.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site inspection",
+      "13x Best of Ahwatukee winner",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "127",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Transformed",
+    "stat_4_value": "13",
+    "stat_4_label": "Consecutive Award Years"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Arizona's Most Awarded Team",
+    "subtitle": "From weekly maintenance to full remodels, Barefoot Pools delivers resort-quality results backed by 30+ years of experience and more awards than any competitor in the Valley.",
+    "cards": [
+      {
+        "title": "Pool Remodeling",
+        "description": "Transform your tired pool into a stunning backyard resort. New pebble tech, updated finishes, and modern designs that make neighbors jealous."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Storm damage, broken pumps, plumbing issues — our technicians diagnose and fix it fast. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Maintenance & Cleaning",
+        "description": "Scheduled cleaning packages that keep your pool crystal clear and balanced year-round, even through the brutal Arizona summers."
+      },
+      {
+        "title": "Pump & Filter Service",
+        "description": "Expert replacement and installation of pumps, filters, and circulation systems to keep water flowing and filtration performing at peak."
+      },
+      {
+        "title": "Salt Cell Installation",
+        "description": "Upgrade to a salt chlorine system for silky-smooth water and low-maintenance sanitation. Professional setup with full system training."
+      },
+      {
+        "title": "Tile Restoration",
+        "description": "Remove stubborn calcium buildup and restore your pool tile to its original beauty. Professional cleaning and repair that lasts."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out our form and we'll visit your pool within 48 hours. You'll get an honest evaluation and a no-pressure quote — no strings attached."
+      },
+      {
+        "title": "Our Craftspeople Get to Work",
+        "description": "Our award-winning, tenured technicians arrive on schedule with every tool needed. We handle everything with the attention to detail that's earned us 13 consecutive awards."
+      },
+      {
+        "title": "Enjoy Your Backyard Retreat",
+        "description": "Your pool stays pristine, your equipment runs smoothly, and you spend your weekends relaxing instead of working. That's the Barefoot difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Gilbert Trusts Barefoot",
+    "headline": "Locally Owned, Nationally Recognized — Your Neighbors' #1 Choice",
+    "description": "Barefoot Pools has been the South East Phoenix Valley's most trusted pool service since 2011. With over 30 years of combined experience and 13 consecutive Best of Ahwatukee awards, our elite craftspeople treat every pool like their own. BBB A+ rated, we're the team that Arizona homeowners call when they want it done right the first time.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Elite Tenured Craftspeople",
+        "description": "Our technicians are seasoned professionals, not seasonal hires. Every team member brings years of hands-on experience to your backyard."
+      },
+      {
+        "title": "13x Award-Winning Service",
+        "description": "Best of Ahwatukee 13 years running, Best of Gilbert, Best of the Best for Chandler, Mesa, and more. The awards speak for themselves."
+      },
+      {
+        "title": "Your Satisfaction, Guaranteed",
+        "description": "Not happy with any service? We come back and make it right at no charge. Our 4.7-star reputation is built on keeping that promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the service level that fits your pool and your budget. Every plan includes our award-winning attention to detail."
+  },
+  "guarantee": {
+    "headline": "Our \"Barefoot Promise\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, we'll return and redo the work at no additional cost. We've built our reputation on 13 years of consecutive awards and a 4.7-star Google rating — and we intend to keep it that way. Your pool, your peace of mind, our promise."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start servicing my pool?",
+      "answer": "Most new clients in Gilbert, Chandler, Mesa, and Ahwatukee are scheduled within 3-5 business days. For emergencies like storm damage or green pools, we offer priority same-day or next-day response."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the entire South East Phoenix Valley including Gilbert, Chandler, Mesa, Ahwatukee, Phoenix, and surrounding communities. If you're in the area, we can likely help — just give us a call."
+    },
+    {
+      "question": "Are your technicians experienced?",
+      "answer": "Absolutely. Our team has over 30 years of combined industry experience. Every technician is licensed, bonded, insured, and vetted. These are elite-level craftspeople, not seasonal workers."
+    },
+    {
+      "question": "What if I'm not happy with the service?",
+      "answer": "We stand behind every visit with our Barefoot Promise. If anything isn't up to your standards, we'll come back and make it right at no charge. Our 4.7-star rating across 127+ reviews shows we take this seriously."
+    },
+    {
+      "question": "Do you handle pool remodels and equipment upgrades?",
+      "answer": "Yes! From pebble tech resurfacing and tile restoration to salt cell installations and full equipment overhauls, we handle it all. We'll walk you through your options and provide a detailed, no-pressure quote."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mike P.",
+      "context": "Storm damage repair",
+      "initials": "MP",
+      "text": "We got hit hard by the storms this week and our pool motor was not working. Barefoot Pools set up a service call right away. Jared came out and fixed the problem and had the pool running in no time."
+    },
+    {
+      "name": "Larry R.",
+      "context": "Salt cell installation",
+      "initials": "LR",
+      "text": "After finally deciding to let Barefoot Pools install our salt cell system, the process couldn't have gone any better. Keith was professional, knowledgeable and took the time to explain how my pool system works."
+    },
+    {
+      "name": "Verified Customer",
+      "context": "Pool remodel",
+      "initials": "VC",
+      "text": "It's rare to work with a company that provides excellent customer service and quality workmanship, but Barefoot Pools does just that. Technicians show up on time and perform work that includes small details like painting new piping and labeling all new parts."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Arizona's<br>Best Pool Service?",
+    "subtitle": "Get a free, no-obligation pool assessment within 48 hours. Over 30 years of experience, 13 consecutive awards, and a 4.7-star reputation — all working for your backyard.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 48 hours",
+      "Backed by our Barefoot Promise guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. Proudly serving the South East Phoenix Valley since 2011.",
+    "service_area": "Serving Gilbert, Chandler, Mesa, Ahwatukee & Phoenix",
+    "services": [
+      "Pool Remodeling",
+      "Pool Repair",
+      "Maintenance & Cleaning",
+      "Salt Cell Installation",
+      "Tile Restoration"
+    ],
+    "copyright": "&copy; 2024 Barefoot Pools. All rights reserved. Licensed, Bonded & Insured — BBB A+ Rated"
+  }
+}

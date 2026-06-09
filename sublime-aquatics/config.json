@@ -1,0 +1,184 @@
+{
+  "folder_name": "sublime-aquatics",
+  "company_name": "Sublime Aquatics",
+  "tagline": "Hampton Roads Premier Commercial Pool Management & Lifeguard Staffing",
+  "phone": "+1 757-751-2517",
+  "email": "joey@rangeflyers.com",
+  "logo_path": "",
+  "review_count": "18",
+  "review_rating": "4.3",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured in Virginia",
+    "badge_2": "4.3/5 from 18+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 18+ Google Reviews",
+    "badge_2": "BBB A+ Rated",
+    "headline": "Your Pool Deserves a <span class=\"text-secondary italic\">Dedicated<br>Team</span>",
+    "subheadline": "We take on fewer clients so every property gets white-glove attention. Dedicated lifeguard teams, bi-weekly accountability reports, and a resident services department that handles it all — so you never have to worry about your pool again.",
+    "cta_text": "Request a Free Consultation",
+    "checkmarks": [
+      "Dedicated 3-4 guard teams per pool",
+      "Bi-weekly accountability reports",
+      "Serving Hampton Roads since 2019"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "70",
+    "stat_1_label": "Team Members",
+    "stat_2_value": "6",
+    "stat_2_label": "Years Serving Hampton Roads",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Managed",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Commercial Pool Solutions That<br class=\"hidden md:block\">Property Managers Trust",
+    "subtitle": "From daily pool operations to lifeguard staffing, we handle every detail so your residents enjoy a safe, sparkling pool all season long.",
+    "cards": [
+      {
+        "title": "Commercial Pool Management",
+        "description": "Full-service daily pool operations customized to your property. Chemical balancing, equipment monitoring, compliance checks, and bi-weekly reports that keep you informed and in control."
+      },
+      {
+        "title": "Lifeguard Staffing",
+        "description": "Dedicated teams of 3-4 trained lifeguards assigned to your pool from May through September. Consistent faces your residents trust, professionally managed by our operations team."
+      },
+      {
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Comprehensive cleaning for concrete, tile, fiberglass, and vinyl pools. Surface skimming, vacuuming, filter maintenance, and chemical balancing to keep water crystal clear."
+      },
+      {
+        "title": "Commercial Renovations",
+        "description": "Modernize aging pool facilities with resurfacing, equipment upgrades, deck repairs, and new amenities. We transform pools into attractions residents love."
+      },
+      {
+        "title": "Pool Repairs & Equipment",
+        "description": "Fast diagnosis and repair of pumps, filters, heaters, plumbing, and surface damage. Our technicians minimize downtime so your pool stays operational."
+      },
+      {
+        "title": "Winterization & Opening",
+        "description": "Seasonal closing and spring opening services that protect your investment year-round. Proper winterization prevents costly damage and ensures a smooth start each season."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Stress-Free Pool Management",
+    "steps": [
+      {
+        "title": "Schedule a Property Walkthrough",
+        "description": "We visit your property, assess your pool facilities, and learn exactly what your community needs. You'll receive a customized management plan within 48 hours — no obligation."
+      },
+      {
+        "title": "We Deploy Your Dedicated Team",
+        "description": "Your property gets its own trained team of CPO-certified professionals and lifeguards. They learn your community, follow your rules, and deliver consistent service all season."
+      },
+      {
+        "title": "Relax With Full Accountability",
+        "description": "Receive bi-weekly reports on water quality, attendance, incidents, and maintenance. Our resident services department handles complaints and questions so you don't have to."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Property Managers Choose Us",
+    "headline": "Fewer Clients. Better Service. That's Our Promise.",
+    "description": "Founded in 2019 by Joseph Hildebrandt, Sublime Aquatics deliberately limits the number of properties we serve. Why? Because commercial pools deserve more than a revolving door of strangers. Our 70-person team builds real relationships with your residents, delivers consistent daily operations, and provides the accountability reports property managers actually need.",
+    "badge": "CPO Certified Staff",
+    "features": [
+      {
+        "title": "Background-Checked & Certified",
+        "description": "Every team member passes a thorough background check. Our pool operators hold CPO certifications and carry full liability insurance for your protection."
+      },
+      {
+        "title": "Dedicated Teams, Not Rotating Strangers",
+        "description": "Each property gets its own team of 3-4 lifeguards who stay the entire season. Your residents see the same familiar, trusted faces every day."
+      },
+      {
+        "title": "Bi-Weekly Accountability Reports",
+        "description": "No guesswork. Every two weeks you receive detailed reports on water chemistry, attendance, maintenance completed, and any incidents — total transparency."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Commercial Pricing. No Surprises.",
+    "subtitle": "Every property is different. We'll build a custom quote based on your pool size, amenities, and service needs — always with clear, upfront pricing."
+  },
+  "guarantee": {
+    "headline": "Our \"White-Glove Service\" Guarantee",
+    "description": "If you're not completely satisfied with any aspect of our service, we'll send a supervisor to your property within 24 hours to personally resolve the issue. We stake our reputation on every pool we manage — and we only take on clients we know we can serve at the highest level."
+  },
+  "faqs": [
+    {
+      "question": "What types of properties do you serve?",
+      "answer": "We specialize in commercial properties including apartment complexes, HOA community pools, and commercial aquatic facilities across Hampton, Newport News, Suffolk, and the greater Hampton Roads area."
+    },
+    {
+      "question": "How does your lifeguard staffing work?",
+      "answer": "Each pool receives a dedicated team of 3-4 lifeguards who work together from May through September. They're fully trained, background-checked, and managed by our operations team so you never have to worry about scheduling or no-shows."
+    },
+    {
+      "question": "What are the bi-weekly accountability reports?",
+      "answer": "Every two weeks, you receive a detailed report covering water chemistry readings, pool attendance, maintenance performed, any incidents, and resident feedback. It keeps you informed without requiring you to be on-site."
+    },
+    {
+      "question": "Why do you limit the number of clients you take on?",
+      "answer": "Quality over quantity. By serving fewer properties, we ensure each client receives unparalleled attention, consistent staffing, and the level of service that large pool management companies simply can't match."
+    },
+    {
+      "question": "How quickly can you start managing our pool?",
+      "answer": "We can typically begin service within 1-2 weeks of signing. For the upcoming season, we recommend reaching out by March to secure your dedicated team. Contact us for current availability."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Term Client",
+      "context": "Thumbtack Review",
+      "initials": "LC",
+      "text": "I have worked with Sublime for 4 years now and I have never had an issue. Their team is consistently reliable and professional. Best pool management company in Hampton Roads."
+    },
+    {
+      "name": "HOA Manager",
+      "context": "Thumbtack Review",
+      "initials": "HM",
+      "text": "Knowledgeable, friendly, and efficient. They took over our community pool and the difference was immediate. Highly recommend Sublime Aquatics for any pool management needs!"
+    },
+    {
+      "name": "Community Pool Client",
+      "context": "Thumbtack Review",
+      "initials": "CP",
+      "text": "Very courteous and patient during our pool opening. They took the time to explain everything and made sure we were completely satisfied with the work. True professionals."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Upgrade Your<br>Pool Management?",
+    "subtitle": "Schedule a free property walkthrough and receive a customized management plan within 48 hours. No pressure, no obligation — just a conversation about what your community deserves.",
+    "benefits": [
+      "Free property walkthrough and assessment",
+      "Custom management plan within 48 hours",
+      "Dedicated team assigned to your property"
+    ]
+  },
+  "footer": {
+    "description": "Hampton Roads' premier commercial pool management company. Serving the community since 2019.",
+    "service_area": "Serving Hampton, Newport News, Suffolk & Hampton Roads, VA",
+    "services": [
+      "Commercial Pool Management",
+      "Lifeguard Staffing",
+      "Pool Maintenance",
+      "Pool Renovations",
+      "Winterization & Opening"
+    ],
+    "copyright": "&copy; 2024 Sublime Aquatics. All rights reserved. Licensed & Insured in Virginia."
+  }
+}
