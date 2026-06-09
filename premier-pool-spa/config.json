@@ -1,0 +1,184 @@
+{
+  "folder_name": "premier-pool-spa",
+  "company_name": "Premier Pool & Spa, Inc.",
+  "tagline": "Your Local Pool & Spa Experts Since 1990",
+  "phone": "(952) 368-6070",
+  "email": "bernieg@premierpools.com",
+  "review_count": "198",
+  "review_rating": "4.8",
+  "logo_path": "logo.png",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F34",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D9901A"
+  },
+  "trust_badges": {
+    "badge_1": "CPO-Certified Technicians",
+    "badge_2": "Family-Owned Since 1990",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 198+ Google Reviews",
+    "badge_2": "Family-Owned Since 1990",
+    "headline": "Minnesota's Trusted Pool Experts <span class=\"text-secondary italic\">for 36 Years</span>",
+    "subheadline": "Premier Pool & Spa has kept western Twin Cities families swimming since 1990. With over 120 years of combined team experience and CPO-certified technicians, we handle every repair, opening, closing, and maintenance call so you never have to worry about your pool or hot tub again.",
+    "cta_text": "Book Your Service Online Today",
+    "checkmarks": [
+      "Same-day online booking available",
+      "CPO-certified, factory-trained techs",
+      "All makes and models serviced"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "36",
+    "stat_1_label": "Years Serving Minnesota",
+    "stat_2_value": "120+",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "198+",
+    "stat_3_label": "5-Star Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\">From Opening to Closing",
+    "subtitle": "From the first warm day of spring to the last leaf of fall, our CPO-certified technicians keep your pool crystal-clear and your hot tub running perfectly all year long.",
+    "cards": [
+      {
+        "title": "Hot Tub Service & Repair",
+        "description": "Factory-trained technicians who specialize in Arctic Spas and all major brands. We diagnose and fix any issue so your hot tub is ready when you are — even in January."
+      },
+      {
+        "title": "Swimming Pool Repair",
+        "description": "Pumps, filters, heaters, plumbing — if it keeps your pool running, we fix it. Fast diagnostics and honest estimates so you are back in the water without surprises."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Crystal-clear water every week without lifting a finger. We test, balance, skim, vacuum, and inspect your equipment on a reliable schedule you can count on."
+      },
+      {
+        "title": "Pool Openings & Closings",
+        "description": "Professional seasonal services that protect your investment through Minnesota winters and get you swimming on the first warm weekend of spring."
+      },
+      {
+        "title": "Vinyl Liner Replacement",
+        "description": "Faded, wrinkled, or leaking liner? We measure, order, and install your new liner with precision — dozens of patterns and colors to choose from."
+      },
+      {
+        "title": "Pool & Spa Covers",
+        "description": "Safety covers, winter covers, and automatic covers sold, installed, and serviced. Keep your pool protected and your family safe year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Book Online or Call Us",
+        "description": "Use our same-day online booking system or call (952) 368-6070. Tell us what you need and we will schedule a convenient time — often within days."
+      },
+      {
+        "title": "We Show Up and Fix It",
+        "description": "A CPO-certified technician arrives on time, diagnoses the issue, and gets to work. We carry an extensive parts inventory so most repairs are completed in a single visit."
+      },
+      {
+        "title": "Enjoy Your Pool or Spa",
+        "description": "Your pool is clear, your hot tub is hot, and your weekends are free. We handle the maintenance so you and your family can just enjoy the water."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Twin Cities Families Choose Us",
+    "headline": "Independent, Family-Owned — Never a Franchise",
+    "description": "Since 1990, Premier Pool & Spa has been the go-to pool and hot tub experts for families across the western Twin Cities suburbs. We are not a national chain — we are your neighbors in Chanhassen. Our team brings over 120 years of combined experience, CPO certifications, and factory training from manufacturers like Arctic Spas. When you call us, you get real technicians who know Minnesota pools inside and out, not a call center. That is the Premier difference.",
+    "badge": "BBB A+ Accredited Business",
+    "features": [
+      {
+        "title": "120+ Years Combined Experience",
+        "description": "Our team's cumulative expertise means we have seen and solved every pool and spa problem Minnesota weather can throw at you."
+      },
+      {
+        "title": "Authorized Arctic Spas Dealer",
+        "description": "We are one of Minnesota's authorized Arctic Spas dealers, specializing in hot tubs engineered specifically for cold-climate performance."
+      },
+      {
+        "title": "Same-Day Online Booking",
+        "description": "No phone tag, no waiting. Book your service appointment online in minutes and pick the time that works best for your schedule."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing From People You Trust",
+    "subtitle": "We give you a clear estimate before any work begins. No hidden fees, no upselling — just fair pricing from a family business that has earned its reputation over 36 years."
+  },
+  "guarantee": {
+    "headline": "Our Service Guarantee",
+    "description": "Every repair, every maintenance visit, every liner install — we stand behind our work completely. If something is not right, call Bernie and we will come back and make it right. We have been doing business this way since 1990, and our 4.8-star rating from 198 families proves it works."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in Minnesota?",
+      "answer": "We serve the western Minneapolis/St. Paul suburbs including Chanhassen, Shakopee, Eden Prairie, Minnetonka, Excelsior, Victoria, Waconia, Chaska, Prior Lake, Savage, Burnsville, Bloomington, Edina, Plymouth, Wayzata, and surrounding Carver County communities."
+    },
+    {
+      "question": "Do you service all hot tub brands or only Arctic Spas?",
+      "answer": "We service all makes and models of hot tubs and spas. While we are an authorized Arctic Spas dealer, our factory-trained technicians have the expertise to diagnose and repair any brand."
+    },
+    {
+      "question": "When should I schedule my pool opening in Minnesota?",
+      "answer": "Most Minnesota pool owners open between late April and mid-May. We recommend booking early — our spring calendar fills up fast. You can schedule your opening online or call us at (952) 368-6070."
+    },
+    {
+      "question": "How often should my pool receive professional maintenance?",
+      "answer": "We recommend weekly maintenance during swimming season to keep water chemistry balanced and equipment running efficiently. Our weekly maintenance program includes water testing, chemical balancing, skimming, vacuuming, and full equipment checks."
+    },
+    {
+      "question": "Do you carry pool and spa parts and supplies?",
+      "answer": "Yes! We maintain an extensive parts inventory at our Chanhassen location, including filters, pumps, chemicals, and accessories. We also offer online filter finder and parts diagram tools to help you identify exactly what you need."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jon T.",
+      "text": "Zach opened our pool and did a great job! All questions answered. Great guy — we will definitely be using Premier again next season.",
+      "context": "Pool Opening Service",
+      "initials": "JT"
+    },
+    {
+      "name": "Brenda S.",
+      "text": "We realized late in the day that we were short on pool supplies. They agreed to stay open until we could arrive, and everything was waiting at the register. Kindness and service that went above and beyond!",
+      "context": "Retail & Customer Service",
+      "initials": "BS"
+    },
+    {
+      "name": "Mathew Y.",
+      "text": "I bought an Arctic Spa three years ago and Jeff has helped me from the very beginning. Premier has an excellent team that truly cares about their customers.",
+      "context": "Hot Tub Sales & Support",
+      "initials": "MY"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Get Your Pool or Spa Fixed?",
+    "subtitle": "Book online in minutes or give us a call. Our CPO-certified technicians are ready to help — most appointments available within days.",
+    "benefits": [
+      "Same-day online booking available",
+      "CPO-certified technicians on every call",
+      "Serving the western Twin Cities since 1990"
+    ]
+  },
+  "footer": {
+    "description": "Premier Pool & Spa is an independent, family-owned Minnesota company serving the western Twin Cities suburbs since 1990. CPO-certified technicians, authorized Arctic Spas dealer, and BBB A+ accredited.",
+    "service_area": "Serving Chanhassen, Shakopee, Eden Prairie, Minnetonka, Excelsior, Victoria, Waconia, Chaska, Prior Lake, Savage, Burnsville, Bloomington, Edina, Plymouth, Wayzata & surrounding communities",
+    "services_links": [
+      "Hot Tub Repair",
+      "Pool Repair",
+      "Weekly Maintenance",
+      "Pool Openings",
+      "Vinyl Liners"
+    ],
+    "copyright": "Premier Pool & Spa, Inc."
+  }
+}

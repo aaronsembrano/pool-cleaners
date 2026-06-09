@@ -1,0 +1,180 @@
+{
+  "folder_name": "romanelli-pools",
+  "company_name": "Paul Romanelli & Son Pool Service",
+  "tagline": "The Easiest Way to a Perfect, Protected, Pristine, Carefree Pool",
+  "phone": "+1 631-472-6275",
+  "email": "info@romanellipools.com",
+  "logo_path": "logo.png",
+  "review_count": "300+",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#F97316",
+    "primary_dark": "#EA580C",
+    "primary_deeper": "#C2410C",
+    "secondary": "#1E40AF",
+    "cta": "#1E40AF",
+    "cta_dark": "#1E3A8A"
+  },
+  "hero": {
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Family-Level Care</span>",
+    "subheadline": "For 26 years, the Romanelli family has kept Long Island pools crystal clear with expert chemistry, digital tracking, and zero guesswork. Join 2,000+ homeowners who never worry about their pool again.",
+    "badges": [
+      "4.7-Star Rated | 300+ Reviews",
+      "A+ BBB Rating | BOLI Award Winner"
+    ],
+    "checkmarks": [
+      "Weekly digital pool health reports sent to your phone",
+      "Transparent pricing with no hidden fees ever",
+      "Licensed & insured across Suffolk and Nassau Counties"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "26",
+    "stat_1_label": "Years Serving Long Island",
+    "stat_2_value": "2000",
+    "stat_2_label": "Pools Cared For Per Season",
+    "stat_3_value": "300",
+    "stat_3_label": "Verified Customer Reviews",
+    "stat_4_value": "4.7",
+    "stat_4_label": "Average Google Rating"
+  },
+  "services": {
+    "headline": "Everything Your Pool Needs, One Team",
+    "subtitle": "From weekly maintenance to liner replacement, our experienced technicians handle it all so you can just enjoy the water.",
+    "cards": [
+      {
+        "title": "Full Season Service Bundles",
+        "description": "Comprehensive weekly maintenance packages including water balancing, chemical treatments, openings, and closings bundled for year-round peace of mind."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Recurring skimming, vacuuming, water testing, chemical balancing, and equipment checks to keep your pool pristine all season long."
+      },
+      {
+        "title": "Pool Openings & Closings",
+        "description": "Professional seasonal transitions with equipment startup, winterization, plumbing blowout, and cover installation handled by our expert crew."
+      },
+      {
+        "title": "Pool Liner Installation",
+        "description": "Expert vinyl liner replacement for inground pools with professional measurements and quality materials that last for years."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Diagnosis, repair, and upgrade of pumps, salt systems, automation controls, heaters, and filtration to keep everything running smoothly."
+      },
+      {
+        "title": "Safety Covers & Winter Watch",
+        "description": "Custom mesh or solid safety covers with photo measurements, plus off-season monitoring to prevent ice and storm damage."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Pool Care Made Simple",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out the form and we'll schedule a visit to assess your pool's size, equipment, and current condition."
+      },
+      {
+        "title": "We Build Your Custom Plan",
+        "description": "Our team creates a tailored service plan with transparent pricing, digital tracking, and a schedule that fits your season."
+      },
+      {
+        "title": "Relax & Enjoy Crystal Clear Water",
+        "description": "We handle every detail from chemistry to equipment while you get weekly health reports and a pool that's always swim-ready."
+      }
+    ]
+  },
+  "about": {
+    "label": "Family-Owned Since 1999",
+    "headline": "Three Generations of Pool Care Excellence on Long Island",
+    "description": "Founded by Rocco Romanelli in 1999, Paul Romanelli & Son Pool Service has grown from a small family operation into one of Long Island's most trusted pool care providers. With lead technicians who have a combined 45+ years in the swimming pool business, we bring unmatched expertise to every backyard. Our 100% digital approach means no paperwork, online tracking, and weekly pool health reports sent straight to your phone. We're not just maintaining pools -- we're giving families their summers back.",
+    "badge": "2,000+ Pools Cared For Per Season",
+    "features": [
+      {
+        "title": "Licensed & Insured Across Long Island",
+        "description": "Fully licensed and insured in both Suffolk and Nassau Counties, with an A+ BBB rating and BOLI 2026 Award."
+      },
+      {
+        "title": "100% Digital Pool Tracking",
+        "description": "No paperwork, no guesswork. Get weekly digital pool health reports sent straight to your phone after every visit."
+      },
+      {
+        "title": "Saturation Index Chemistry",
+        "description": "We use saturation index water balancing methodology for perfect chemistry every visit, protecting your pool surfaces and equipment."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every plan includes digital tracking, weekly health reports, and the Romanelli family's personal commitment to your pool. No hidden fees, no surprise charges."
+  },
+  "guarantee": {
+    "headline": "The Romanelli Family Promise",
+    "description": "If your pool isn't crystal clear and swim-ready after our service, we'll come back and make it right at no additional charge. With 26 years of reputation on the line and 300+ five-star reviews backing us up, we stand behind every visit. That's the Romanelli way."
+  },
+  "faqs": [
+    {
+      "question": "What areas of Long Island do you service?",
+      "answer": "We proudly serve both Suffolk County and Nassau County across Long Island. Whether you're in Bohemia, Patchogue, East Setauket, Bellmore, or anywhere in between, our team is ready to take care of your pool."
+    },
+    {
+      "question": "What are the weekly pool health reports?",
+      "answer": "After every service visit, we send you a digital report showing your pool's chemical levels, water balance, any work performed, and recommendations. It's part of our 100% paperless approach so you always know exactly what's happening with your pool."
+    },
+    {
+      "question": "How quickly can you fix a green or algae-filled pool?",
+      "answer": "We specialize in fast algae turnarounds. Most green pools are restored to crystal clear water in just days, not weeks. Our saturation index water balancing methodology gets results other companies can't match."
+    },
+    {
+      "question": "Do you offer bundled seasonal pricing?",
+      "answer": "Yes! Our Full Season Service Bundles package together weekly maintenance, pool opening, and pool closing at a better value than booking each service separately. Contact us for a custom quote based on your pool's needs."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We are fully licensed and insured in both Nassau and Suffolk Counties. We also hold an A+ BBB rating and are a 2026 BOLI Award winner, so you can trust your pool is in professional hands."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mitchell Schwartz",
+      "text": "Opened my inground pool. Got it clear in 2 days. It looks better than it has in 10 years.",
+      "context": "Patchogue, NY",
+      "initials": "MS"
+    },
+    {
+      "name": "Steven Krinsky",
+      "text": "Excellent service, on-time and always returns your phone calls! The technicians were professional and courteous.",
+      "context": "East Setauket, NY",
+      "initials": "SK"
+    },
+    {
+      "name": "Mike Hickey",
+      "text": "Very professional service when switching maintenance companies. Made the transition seamless and stress-free.",
+      "context": "Bellmore, NY",
+      "initials": "MH"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That Takes Care of Itself?",
+    "subtitle": "Get in touch today and see why 2,000+ Long Island homeowners trust the Romanelli family with their pools every season.",
+    "benefits": [
+      "Free pool assessment and custom service plan",
+      "Same-week response for most service requests",
+      "No-obligation transparent quote with zero hidden fees"
+    ]
+  },
+  "footer": {
+    "description": "Paul Romanelli & Son Pool Service has been keeping Long Island pools crystal clear since 1999. Family-owned, fully digital, and trusted by over 2,000 homeowners every season.",
+    "service_area": "Serving Suffolk County and Nassau County across Long Island, New York",
+    "service_links": [
+      "Full Season Bundles",
+      "Weekly Maintenance",
+      "Pool Openings & Closings",
+      "Liner Installation",
+      "Equipment Repair"
+    ],
+    "copyright": "Paul Romanelli & Son Pool Service. All rights reserved."
+  }
+}

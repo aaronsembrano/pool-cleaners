@@ -1,0 +1,179 @@
+{
+  "folder_name": "imperial-pools-nova",
+  "company_name": "Imperial Pools by NOVA",
+  "tagline": "Your Trusted Pool Experts on the Connecticut Shoreline",
+  "phone": "(203) 484-2731",
+  "email": "dawn@imperialpoolsinc.com",
+  "review_count": "33",
+  "review_rating": "4.3",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#143f5c",
+    "primary_deeper": "#0e2d42",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d4860a"
+  },
+  "hero": {
+    "headline": "57 Years of <span class=\"text-secondary italic\">Poolside Perfection</span>",
+    "subheadline": "Since 1969, Connecticut shoreline families have trusted Imperial Pools by NOVA for expert pool care, premium equipment, and personalized service. Three generations of local know-how, one family-owned shop.",
+    "badges": [
+      "Authorized Hayward & Loop-Loc Dealer",
+      "BBB A+ Rated Since 1969"
+    ],
+    "checkmarks": [
+      "Family-owned for over 5 decades",
+      "Personalized water treatment profiles",
+      "Full-service shop and expert installations"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "57",
+    "stat_1_label": "Years Serving CT",
+    "stat_2_value": "3",
+    "stat_2_label": "Generations of Families",
+    "stat_3_value": "1969",
+    "stat_3_label": "Family-Owned Since",
+    "stat_4_value": "4.3",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "headline": "Complete Pool & Spa Services",
+    "subtitle": "From seasonal openings to liner replacements, we handle every aspect of pool ownership so you can simply enjoy the water.",
+    "cards": [
+      {
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Scheduled cleanings, chemical balancing, and equipment checks to keep your pool sparkling and swim-ready all season long."
+      },
+      {
+        "title": "Seasonal Openings & Closings",
+        "description": "Professional spring activation and winter shutdown services designed for Connecticut's demanding climate and freeze-thaw cycles."
+      },
+      {
+        "title": "Vinyl Liner Replacement",
+        "description": "Expert in-ground liner installation that restores your pool's beauty and structural integrity with precision-fit craftsmanship."
+      },
+      {
+        "title": "Water Testing & Treatment",
+        "description": "Personalized water profiles with your pool's exact dimensions ensure accurate chemical dosing and crystal-clear results every time."
+      },
+      {
+        "title": "Above Ground Pool Sales",
+        "description": "Quality above ground pools with professional installation, helping you find the perfect fit for your yard and budget."
+      },
+      {
+        "title": "Hot Tubs & Spa Sales",
+        "description": "Authorized Saratoga Spas dealer offering premium hot tubs for year-round relaxation on the Connecticut shoreline."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy",
+    "steps": [
+      {
+        "title": "Call or Visit Our Shop",
+        "description": "Reach out by phone or stop by our North Branford showroom to discuss your pool needs with our knowledgeable team."
+      },
+      {
+        "title": "We Create Your Pool Profile",
+        "description": "We build a personalized profile with your pool dimensions and history so every recommendation is tailored to your setup."
+      },
+      {
+        "title": "Enjoy a Perfect Pool",
+        "description": "Sit back while we handle the maintenance, repairs, and supplies. Your pool stays clean, safe, and ready for every swim."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Imperial Pools by NOVA",
+    "headline": "A Family Legacy on the Connecticut Shoreline",
+    "description": "Since 1969, Imperial Pools by NOVA has been a family-owned fixture in North Branford, serving generations of pool owners across the Connecticut shoreline. Led by President Dawn Jacobson, our team combines decades of hands-on expertise with authorized partnerships from Hayward, Loop-Loc, and Saratoga Spas. We are not a faceless franchise. We are your neighbors who know your pool by name, remember your water chemistry, and treat every backyard like our own.",
+    "badge": "Trusted Since 1969",
+    "features": [
+      {
+        "title": "Authorized Premium Dealer",
+        "description": "We carry and install products from Hayward, Loop-Loc, and Saratoga Spas — brands trusted by pool professionals nationwide."
+      },
+      {
+        "title": "Personalized Pool Profiles",
+        "description": "We create a custom profile for every pool with exact dimensions and chemistry history, so every recommendation is spot-on."
+      },
+      {
+        "title": "Full-Service Under One Roof",
+        "description": "From water testing and chemicals to equipment sales and professional installations, everything you need is right here in our shop."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pool Service Pricing",
+    "subtitle": "No hidden fees, no upsells. Just honest pricing from a family business that values long-term relationships over quick profits."
+  },
+  "guarantee": {
+    "headline": "Our Shoreline Service Promise",
+    "description": "With 57 years behind every job, we stand by our work completely. If you are not satisfied with any service, we will return and make it right at no additional cost. Your trust is the foundation of our family business, and we will never take it for granted."
+  },
+  "faqs": [
+    {
+      "question": "When should I open and close my pool for the season?",
+      "answer": "On the Connecticut shoreline, we typically recommend opening your pool in late April to mid-May and closing in mid-September to early October. Our team monitors local weather patterns and will help you choose the ideal timing to protect your investment."
+    },
+    {
+      "question": "How often should I have my pool water tested?",
+      "answer": "We recommend bringing a water sample to our shop at least once a week during swimming season. We create a personalized profile for your pool so every chemical recommendation is precise and tailored to your specific setup."
+    },
+    {
+      "question": "Do you service both in-ground and above ground pools?",
+      "answer": "Yes. We sell, install, and service both above ground and in-ground pools. Whether you need a new above ground pool, a vinyl liner replacement for your in-ground pool, or ongoing maintenance, we handle it all."
+    },
+    {
+      "question": "What brands do you carry and recommend?",
+      "answer": "We are an authorized dealer for Hayward pool equipment, Loop-Loc safety covers and liners, and Saratoga Spas hot tubs. These are industry-leading brands we trust and stand behind for quality and durability."
+    },
+    {
+      "question": "Do I need an appointment or can I just stop by?",
+      "answer": "You are welcome to visit our North Branford shop during business hours without an appointment for water testing, supplies, and advice. For service calls and installations, we recommend scheduling ahead so we can dedicate the right crew and time to your project."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Customer",
+      "text": "Their workers did a great job and were very respectful, knowledgeable, and efficient. The owners are very helpful and trustworthy. This is a great family owned and operated business.",
+      "context": "Pool Service",
+      "initials": "SC"
+    },
+    {
+      "name": "Pool Owner",
+      "text": "They did a wonderful job getting it cleaned. Next year, I will be calling Imperial Pools to install my new liner. Highly recommend them.",
+      "context": "Pool Cleaning & Liner",
+      "initials": "PO"
+    },
+    {
+      "name": "New Customer",
+      "text": "The lady was very knowledgeable on what to add to my pool. They created a profile with pool dimensions to gauge exactly what is needed. Pool water has been clear and clean since coming to them.",
+      "context": "Water Testing & Chemicals",
+      "initials": "NC"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Talk About Your Pool",
+    "subtitle": "Whether you need a seasonal opening, water testing, or a brand new above ground pool, our family is here to help yours.",
+    "benefits": [
+      "Free water testing at our North Branford shop",
+      "Same-week service for most maintenance requests",
+      "Expert advice from 57 years of poolside experience"
+    ]
+  },
+  "footer": {
+    "description": "Imperial Pools by NOVA has been the Connecticut shoreline's trusted pool partner since 1969. Family-owned and operated in North Branford, we provide expert pool services, premium equipment, and personalized care.",
+    "service_area": "North Branford, Branford, Guilford, Madison, Old Lyme, Wallingford, and surrounding Connecticut shoreline communities",
+    "service_links": [
+      "Pool Maintenance & Cleaning",
+      "Seasonal Openings & Closings",
+      "Vinyl Liner Replacement",
+      "Above Ground Pool Sales",
+      "Hot Tubs & Spas"
+    ],
+    "copyright": "Imperial Pools by NOVA, Inc."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "the-pool-guy-bcs",
+  "company_name": "The Pool Guy Enterprises",
+  "tagline": "Quality Pool Design, Construction, Service, Maintenance, Renovation, and Supplies",
+  "phone": "(979) 575-6200",
+  "email": "sean@thepoolguybcs.com",
+  "logo_path": "logo.png",
+  "review_count": "45",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#0f2640",
+    "primary_deeper": "#091a2e",
+    "secondary": "#4a90d9",
+    "cta": "#c8a96e",
+    "cta_dark": "#b08e4a"
+  },
+  "trust_badges": {
+    "badge_1": "Aggie-Owned & Operated",
+    "badge_2": "4.2/5 from 45+ Reviews",
+    "badge_3": "20+ Years Experience"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 45+ Google Reviews",
+    "badge_2": "Aggie-Owned Since 2006",
+    "headline": "College Station's Pool <span class=\"text-secondary italic\">Experts<br>Since 2006</span>",
+    "subheadline": "From custom pool design to weekly maintenance and a fully stocked pool store, The Pool Guy is the Brazos Valley's one-stop shop. 20 years of Aggie pride built into every pool we touch.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free water testing in-store",
+      "Price match guarantee on supplies",
+      "Full design-to-maintenance service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "2000",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in the BCS Area",
+    "stat_3_value": "45",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Price Match Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Everything Your Pool Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "Design, build, maintain, renovate, and supply -- The Pool Guy handles every aspect of pool ownership so you can focus on enjoying the water.",
+    "cards": [
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom pools designed with 3D rendering technology so you see your finished pool before we break ground. From concept to completion, built right."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Professional ongoing pool care to keep your water clean, balanced, and swim-ready year-round. Regular service visits tailored to your pool's needs."
+      },
+      {
+        "title": "Pool Renovation",
+        "description": "Transform your existing pool with updated finishes, modern equipment, LED lighting, and new features. Breathe new life into your backyard."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and plumbing. Fast, honest service from technicians who know pools inside and out."
+      },
+      {
+        "title": "The Pool Store",
+        "description": "Full retail location with chemicals, equipment, toys, accessories, and supplies. Plus in-store Polaris pool cleaner repairs. Price match guaranteed."
+      },
+      {
+        "title": "Free Water Testing",
+        "description": "Bring in a water sample and our experts analyze your pool chemistry on the spot. We recommend the exact treatment your pool needs -- no guesswork."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Whether it's a new build, weekly maintenance, a repair, or just supplies -- call us or stop by the store. We'll give you an honest assessment and a fair quote."
+      },
+      {
+        "title": "We Get to Work",
+        "description": "Our experienced team handles everything with Aggie-level attention to detail. 20 years of BCS pool knowledge means we get it right the first time."
+      },
+      {
+        "title": "Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and worry-free. And whenever you need chemicals, parts, or advice, The Pool Store is right here in College Station."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why BCS Trusts The Pool Guy",
+    "headline": "Aggie-Owned. Locally Rooted. 20 Years Strong.",
+    "description": "Founded by Sean Hawthorne, Texas A&M Class of '93, The Pool Guy Enterprises has served Bryan-College Station for over two decades. We're not a franchise or a fly-by-night crew -- we're your neighbors. Recognized as a Newman 10 fastest-growing business three years running and named to the Aggie 100 list worldwide, we've built our reputation on honest work and community commitment. As an official corporate sponsor of TAMU Athletics, our roots in the Brazos Valley run deep.",
+    "badge": "Aggie 100 Honoree",
+    "features": [
+      {
+        "title": "20+ Years Local Experience",
+        "description": "Two decades of building, maintaining, and renovating pools across the Brazos Valley. We know BCS pools better than anyone."
+      },
+      {
+        "title": "Price Match Guarantee",
+        "description": "Find a lower price on pool chemicals or supplies? Bring it in. We'll match it. No questions asked, no hassle."
+      },
+      {
+        "title": "One-Stop Pool Shop",
+        "description": "Design, construction, maintenance, renovation, repair, and a full retail store -- everything you need in one place."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. Aggie Integrity.",
+    "subtitle": "From weekly maintenance plans to custom pool builds, we provide honest quotes with no hidden fees. Stop by or call for your free estimate."
+  },
+  "guarantee": {
+    "headline": "Our \"Aggie Honor\" Guarantee",
+    "description": "If you're not completely satisfied with our work, we'll come back and make it right at no additional charge. We've been earning the trust of Bryan-College Station families for 20 years, and we plan to keep it that way. Your satisfaction is the foundation of our reputation."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start pool service?",
+      "answer": "Most new maintenance clients are scheduled within one week. For repairs and emergencies, we offer fast turnaround -- just call (979) 575-6200 and we'll work with your schedule."
+    },
+    {
+      "question": "Do you build custom pools?",
+      "answer": "Absolutely. We design and build custom pools using 3D rendering technology so you can visualize your finished pool before construction begins. From small backyard pools to full outdoor living spaces, we handle it all."
+    },
+    {
+      "question": "What does your pool store carry?",
+      "answer": "Everything -- chemicals, equipment, pumps, filters, pool toys, accessories, and more. We also do in-store Polaris pool cleaner repairs. Plus, we offer a price match guarantee on all supplies."
+    },
+    {
+      "question": "Do you offer free water testing?",
+      "answer": "Yes! Just bring a water sample to our store and we'll test it on the spot. Our experts will analyze your pool chemistry and recommend the right treatment to keep your water balanced and safe."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve College Station, Bryan, and the greater Brazos Valley area. As a locally owned company with over 20 years in the community, we know this area and its pools inside and out."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Bobby",
+      "context": "Customer, 3 years",
+      "initials": "BO",
+      "text": "I have been using the Pool Guy for almost 3 years. Never had a problem and love the service! They're reliable, professional, and my pool always looks great."
+    },
+    {
+      "name": "Joe",
+      "context": "Pool & Spa Owner",
+      "initials": "JO",
+      "text": "I use the Pool Guy all the time. I would highly recommend this company to help maintain a pool or spa. Great people who know what they're doing."
+    },
+    {
+      "name": "P. Carter",
+      "context": "Local Homeowner",
+      "initials": "PC",
+      "text": "The Pool Guy knows more about pool problems than anyone in the area. The service is fast and honest. I wouldn't trust anyone else with my pool."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for the Best Pool<br>Service in BCS?",
+    "subtitle": "Get a free, no-pressure quote from the Brazos Valley's most trusted pool company. Call us, stop by the store, or fill out the form below.",
+    "benefits": [
+      "Free water testing with every visit",
+      "Same-week service available",
+      "Price match on all pool supplies"
+    ]
+  },
+  "footer": {
+    "description": "Aggie-owned pool company serving Bryan-College Station for 20+ years.",
+    "service_area": "Serving College Station, Bryan & the Brazos Valley",
+    "services": [
+      "Pool Design & Build",
+      "Weekly Maintenance",
+      "Pool Renovation",
+      "Equipment Repair",
+      "Pool Store & Supplies"
+    ],
+    "copyright": "&copy; 2024 The Pool Guy Enterprises, LLC. All rights reserved. College Station, TX"
+  }
+}

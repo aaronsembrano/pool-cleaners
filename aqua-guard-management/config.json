@@ -1,0 +1,184 @@
+{
+  "folder_name": "aqua-guard-management",
+  "company_name": "Aqua-Guard Management Inc",
+  "tagline": "Commercial pool management for HOA, condo, and apartment communities across Chicagoland since 1992.",
+  "phone": "+1 847-277-9840",
+  "email": "matt@aquaguardmanagement.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133c57",
+    "primary_deeper": "#0d2a3d",
+    "secondary": "#2ecc71",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "IDPH Pre-Qualified",
+    "badge_2": "4.5/5 from 15+ Reviews",
+    "badge_3": "StarGuard Elite Certified"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 15+ Google Reviews",
+    "badge_2": "IDPH Pre-Qualified",
+    "headline": "34 Years Protecting <span class=\"text-secondary italic\">Chicagoland's<br>Community Pools</span>",
+    "subheadline": "Your board has better things to do than manage a pool. Aqua-Guard handles staffing, operations, chemistry, and repairs under one roof -- so your community can swim worry-free all season long.",
+    "cta_text": "Request a Pool Management Quote",
+    "checkmarks": [
+      "Free facility assessment",
+      "One team for operations and repairs",
+      "65+ pools managed across 5 counties"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "65",
+    "stat_1_label": "Pools Managed",
+    "stat_2_value": "34",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "86",
+    "stat_3_label": "Communities Served",
+    "stat_4_value": "5",
+    "stat_4_label": "Counties Covered"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Management<br class=\"hidden md:block\">Under One Roof",
+    "subtitle": "From lifeguard staffing to pump repairs, your community gets a single point of contact for every aspect of pool operations. No vendor juggling, no finger-pointing -- just reliable service from a team that has done this for over three decades.",
+    "cards": [
+      {
+        "title": "Commercial Pool Management",
+        "description": "Full-service daily operations, maintenance, and oversight for HOA, condo, and apartment community pools. We run your facility so your board doesn't have to."
+      },
+      {
+        "title": "Lifeguard Staffing & Training",
+        "description": "StarGuard Elite certified lifeguards recruited, trained, and scheduled by our team. Professional, dependable staff at every facility, every shift."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal startup and winterization handled completely. We prepare your pool for summer operations and protect it through every Chicagoland winter."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing and continuous water quality monitoring. Safe, crystal-clear water that meets all IDPH health department standards, every visit."
+      },
+      {
+        "title": "Equipment Repair & Maintenance",
+        "description": "In-house pump and equipment repair by the same team managing your pool. No third-party handoffs, no delays -- just fast, accountable fixes."
+      },
+      {
+        "title": "Residential Pool Services",
+        "description": "Professional maintenance for single-family home pools. The same commercial-grade expertise and reliability brought to your backyard."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Pool Season",
+    "steps": [
+      {
+        "title": "Schedule a Facility Assessment",
+        "description": "Tell us about your community pool. We'll visit your facility, evaluate your needs, and deliver an honest, transparent proposal within 48 hours."
+      },
+      {
+        "title": "We Take Over Operations",
+        "description": "Our integrated team handles everything -- lifeguards, daily maintenance, water chemistry, and equipment repairs. One company, one point of contact, zero headaches."
+      },
+      {
+        "title": "Your Community Enjoys the Pool",
+        "description": "Residents swim in a clean, safe, professionally managed facility all season long. Your board gets regular reports and responsive communication whenever questions arise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Communities Trust Aqua-Guard",
+    "headline": "Family-Owned, Locally Rooted, Professionally Run",
+    "description": "Since 1992, the Aqua-Guard team has managed community pools across Chicagoland from our home base in Schaumburg. We are not a franchise or a national chain -- we are a family-owned company where the owners answer the phone and the same team that manages your pool also fixes your equipment. With 65+ pools across Cook, Lake, DuPage, Kane, and McHenry counties, we bring the scale of experience with the accountability of a local partner.",
+    "badge": "IDPH Pre-Qualified",
+    "features": [
+      {
+        "title": "One Team, No Handoffs",
+        "description": "Operations and repairs handled by the same in-house crew. No coordinating between multiple vendors -- one call solves everything."
+      },
+      {
+        "title": "StarGuard Elite Certified",
+        "description": "Every lifeguard meets the highest training standards in the industry. Your community gets qualified, professional aquatic staff every season."
+      },
+      {
+        "title": "34 Years of Local Experience",
+        "description": "We know Chicagoland pools, Chicagoland weather, and Chicagoland health codes. Three decades of doing this right, season after season."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every community is different. We assess your facility, build a custom proposal, and stand behind our pricing with no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Season-Long Confidence\" Guarantee",
+    "description": "If your facility ever falls below the standard your community expects, we will make it right immediately at no additional charge. We have built our reputation over 34 years on accountability and follow-through -- and we are not about to stop now."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you take over our pool management?",
+      "answer": "We can typically onboard a new community within 2-3 weeks, depending on the scope. For urgent mid-season transitions, we offer expedited onboarding to ensure zero downtime for your residents."
+    },
+    {
+      "question": "Do you handle all repairs in-house?",
+      "answer": "Yes. Our integrated team manages both daily operations and equipment repairs. No third-party contractors, no finger-pointing between vendors. One team, one call, one solution."
+    },
+    {
+      "question": "What counties do you serve?",
+      "answer": "We manage pools across Cook, Lake, DuPage, Kane, and McHenry counties -- covering 86+ communities from Schaumburg to Crystal Lake, Evanston to Elgin, and everywhere in between."
+    },
+    {
+      "question": "Are your lifeguards certified?",
+      "answer": "Absolutely. All lifeguards are StarGuard Elite certified -- one of the most rigorous aquatic safety programs in the country. We recruit, train, and manage every guard on staff."
+    },
+    {
+      "question": "Can you manage multiple pools for our association?",
+      "answer": "Of course. We currently manage 65+ pools across Chicagoland. Multi-facility communities benefit from a single management contract, consistent service standards, and streamlined communication with your board."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "HOA Board Member",
+      "text": "Aqua-Guard has managed our community pool for years and their team is always professional and responsive. They handle everything from staffing to repairs so our board never has to worry about pool operations.",
+      "context": "HOA Community Pool",
+      "initials": "HB"
+    },
+    {
+      "name": "Condo Association Manager",
+      "text": "The fact that Aqua-Guard handles both daily operations and equipment repairs with their own team sets them apart. No more coordinating between multiple vendors -- one call handles everything.",
+      "context": "Condo Association",
+      "initials": "CA"
+    },
+    {
+      "name": "Community Manager",
+      "text": "We switched to Aqua-Guard three seasons ago and the difference has been remarkable. Their lifeguards are well-trained, the pool chemistry is always on point, and their communication with our board is excellent.",
+      "context": "Apartment Community Pool",
+      "initials": "CM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Take Pool Management<br>Off Your Board's Plate?",
+    "subtitle": "Request a free facility assessment and custom proposal. No pressure, no obligation -- just a clear plan for a worry-free pool season.",
+    "benefits": [
+      "Free on-site facility assessment",
+      "Custom proposal within 48 hours",
+      "No obligation, no pressure"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned commercial pool management. Serving Chicagoland communities since 1992.",
+    "service_area": "Serving Cook, Lake, DuPage, Kane & McHenry Counties",
+    "services": [
+      "Pool Management",
+      "Lifeguard Staffing",
+      "Pool Opening & Closing",
+      "Equipment Repair",
+      "Residential Services"
+    ],
+    "copyright": "&copy; 2024 Aqua-Guard Management Inc. All rights reserved. Schaumburg, IL | IDPH Pre-Qualified"
+  }
+}

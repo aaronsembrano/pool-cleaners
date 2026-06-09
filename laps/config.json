@@ -1,0 +1,183 @@
+{
+  "folder_name": "laps",
+  "company_name": "Lake Air Pool Supply",
+  "tagline": "Central Texas's Trusted Source for Pool Service, Hot Tubs, Swim Spas, Saunas & Cold Plunges Since 1959",
+  "phone": "+1 254-754-4551",
+  "email": "kmaze@lakeairpoolsupply.com",
+  "review_count": "312",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3f",
+    "secondary": "#e67e22",
+    "cta": "#e67e22",
+    "cta_dark": "#c76b1a"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 1959",
+    "badge_2": "4.9/5 from 312+ Reviews",
+    "badge_3": "Serving Central Texas"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 312+ Google Reviews",
+    "badge_2": "Family-Owned Since 1959",
+    "headline": "Three Generations of <span class=\"text-secondary italic\">Pool Care<br>Excellence</span>",
+    "subheadline": "For over 65 years, Waco families have trusted Lake Air Pool Supply for everything from weekly pool service to hot tubs and swim spas. With 150+ years of combined technician experience, we keep your backyard running beautifully.",
+    "cta_text": "Get Your Free Water Test Today",
+    "checkmarks": [
+      "Free computerized water testing",
+      "150+ years combined experience",
+      "Authorized Hot Spring Spas dealer"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "67",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "312",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "150",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "3",
+    "stat_4_label": "Generations of Ownership"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Your Complete Backyard<br class=\"hidden md:block\"> Wellness Destination",
+    "subtitle": "From crystal-clear pools to soothing hot tubs and invigorating cold plunges, Lake Air Pool Supply is your one-stop shop for everything outdoor living in Central Texas.",
+    "cards": [
+      {
+        "title": "Pool Maintenance & Service",
+        "description": "Expert weekly and seasonal pool maintenance with free computerized water testing, chemical balancing, and custom care plans tailored to your pool."
+      },
+      {
+        "title": "Equipment Repair & Replacement",
+        "description": "Professional repair and replacement of filters, pumps, motors, heaters, and cleaners backed by our team's 150+ years of combined hands-on experience."
+      },
+      {
+        "title": "Hot Tubs & Spas",
+        "description": "As an authorized Hot Spring dealer, we offer the world's #1 selling hot tub brand with test soaks, backyard consultations, delivery, and ongoing service."
+      },
+      {
+        "title": "Swim Spas",
+        "description": "Endless Pools swim spa sales and installation for year-round swimming, exercise, and relaxation right in your own Central Texas backyard."
+      },
+      {
+        "title": "Saunas & Cold Plunges",
+        "description": "Premium saunas and cold plunge units to complete your backyard wellness retreat with therapeutic hot and cold therapy options."
+      },
+      {
+        "title": "Pool & Spa Supplies",
+        "description": "Full retail store stocking BioGuard water care products, Aqua Finesse, pool chemicals, accessories, and everything you need for pool and spa maintenance."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy",
+    "steps": [
+      {
+        "title": "Bring In a Water Sample",
+        "description": "Stop by our Waco showroom with a water sample from your pool or spa. Our free computerized water testing gives you an exact analysis in minutes."
+      },
+      {
+        "title": "Get Your Custom Care Plan",
+        "description": "Our experts create a personalized treatment plan with the exact products and steps to keep your water pristine. No guesswork, no unnecessary chemicals."
+      },
+      {
+        "title": "Enjoy Crystal-Clear Water",
+        "description": "Follow your custom plan or let our experienced service team handle everything. Either way, you get sparkling water and more time to relax and enjoy your backyard."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Waco Trusts Us",
+    "headline": "Three Generations Strong — Serving Central Texas Since 1959",
+    "description": "Lake Air Pool Supply is a family-owned business now in its third generation of ownership. For over 65 years, we've been a fixture on Franklin Ave in Waco, setting the standard for pool and spa excellence. Our team brings more than 150 years of combined experience to every water test, equipment repair, and hot tub consultation. We're not just a pool store — we're your neighbors, committed to this community through local charitable efforts and the same friendly service that's earned us a 4.9-star reputation.",
+    "badge": "Trusted Since 1959",
+    "features": [
+      {
+        "title": "150+ Years Combined Experience",
+        "description": "Our technicians bring generations of hands-on knowledge to every service call. There isn't a pool problem we haven't seen and solved."
+      },
+      {
+        "title": "One-Stop Backyard Shop",
+        "description": "Pools, hot tubs, swim spas, saunas, cold plunges, grills, and all the supplies to maintain them — all under one roof on Franklin Ave."
+      },
+      {
+        "title": "Community First, Always",
+        "description": "We actively participate in local initiatives and charitable efforts because Waco isn't just where we work — it's home, and it has been for 67 years."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing from a Family You Can Trust",
+    "subtitle": "Whether you need a $5 water test kit or a $15,000 swim spa, you'll get straightforward pricing with no gimmicks. Stop by our showroom or call for a free consultation."
+  },
+  "guarantee": {
+    "headline": "Our \"Three-Generation\" Service Guarantee",
+    "description": "We didn't build a 67-year reputation by cutting corners. If you're not completely satisfied with any product or service we provide, we'll make it right — period. Our family name is on every interaction, and three generations of trust mean we stand behind everything we sell and every service call we make."
+  },
+  "faqs": [
+    {
+      "question": "How often should I have my pool water tested?",
+      "answer": "We recommend bringing in a water sample at least once a month for our free computerized analysis. During peak summer months in Central Texas, every two weeks is ideal. Our system tests for over a dozen parameters and generates a custom treatment plan so you know exactly what your pool needs."
+    },
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We're an authorized Hot Spring Spas dealer — the world's #1 selling hot tub brand. We also carry Endless Pools swim spas. Visit our showroom on Franklin Ave in Waco to browse models, and we encourage you to schedule a test soak before you buy."
+    },
+    {
+      "question": "Do you offer pool equipment repair or just sales?",
+      "answer": "Both. Our service team has over 150 years of combined experience repairing and replacing filters, pumps, motors, heaters, and pool cleaners. We diagnose the issue, explain your options, and get your equipment running right — often the same week you call."
+    },
+    {
+      "question": "What areas do you serve in Central Texas?",
+      "answer": "We serve Waco, Robinson, China Spring, McGregor, Lorena, Riesel, Temple, Belton, Gatesville, and surrounding Central Texas communities. If you're within driving distance of our Franklin Ave location, give us a call."
+    },
+    {
+      "question": "Can I schedule regular pool maintenance service?",
+      "answer": "Absolutely. We offer weekly and seasonal maintenance plans that include chemical balancing, equipment checks, and water testing. Many Waco families have trusted us with their weekly pool care for years — some for decades. Call us to set up a plan that fits your needs and budget."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Brian K.",
+      "context": "Hot Tub Purchase",
+      "initials": "BK",
+      "text": "Great company, and Brian and the team were excellent at what they do. Highly recommend them for your first hot tub and continued excellent help for any questions or issues."
+    },
+    {
+      "name": "Sarah M.",
+      "context": "Pool Service",
+      "initials": "SM",
+      "text": "Their service is great and the employees are helpful and knowledgeable. The installation and instructions were amazing with exceptional responses to questions after sale."
+    },
+    {
+      "name": "David R.",
+      "context": "Pool & Spa Service",
+      "initials": "DR",
+      "text": "Excellent service and experience of the people who work there. Highly recommend this business for pool and spa needs in the Waco area."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Crystal-Clear<br>Water Year-Round?",
+    "subtitle": "Stop by our showroom, bring in a water sample, or call to schedule a service visit. We've been helping Central Texas families enjoy their backyards since 1959.",
+    "benefits": [
+      "Free computerized water testing",
+      "Same-week service appointments",
+      "67 years of Central Texas expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool and spa experts. Serving Central Texas since 1959.",
+    "service_area": "Serving Waco, Temple, Belton & Central Texas",
+    "services": [
+      "Pool Maintenance & Service",
+      "Equipment Repair & Replacement",
+      "Hot Tubs & Swim Spas",
+      "Saunas & Cold Plunges",
+      "Pool & Spa Supplies"
+    ],
+    "copyright": "&copy; 2026 Lake Air Pool Supply. All rights reserved. 3342 Franklin Ave, Waco, TX"
+  }
+}

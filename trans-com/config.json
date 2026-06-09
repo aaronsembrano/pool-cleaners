@@ -1,0 +1,184 @@
+{
+  "folder_name": "trans-com",
+  "company_name": "Trans-Com",
+  "tagline": "Known For Service",
+  "phone": "+1 631-277-3456",
+  "email": "jnelson@trans-com.us",
+  "logo_path": "logo.png",
+  "review_count": "75",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122843",
+    "primary_deeper": "#0C1C2F",
+    "secondary": "#C8102E",
+    "cta": "#C8102E",
+    "cta_dark": "#A00D24"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed NY Service Bureau",
+    "badge_2": "4.8/5 from 75+ Reviews",
+    "badge_3": "BBB Accredited Since 2008"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 75+ Google Reviews",
+    "badge_2": "Woman-Owned Business",
+    "headline": "Stay DOT Compliant <span class=\"text-secondary italic\">Without<br>the Stress</span>",
+    "subheadline": "Running a fleet means juggling regulations, deadlines, and audits. Trans-Com has handled DOT and DMV compliance for trucking, limo, and bus companies across Long Island for over 27 years -- so you can focus on running your business, not chasing paperwork.",
+    "cta_text": "Get a Free Compliance Review",
+    "checkmarks": [
+      "Free compliance assessment",
+      "27+ years of expertise",
+      "BBB Accredited business"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Fleets Served",
+    "stat_2_value": "27",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "5000",
+    "stat_3_label": "Compliance Tasks Managed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Audit Success Rate"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Full-Spectrum DOT & DMV<br class=\"hidden md:block\"> Compliance Services",
+    "subtitle": "Stop losing sleep over compliance deadlines and regulatory changes. Trans-Com handles every detail so your fleet stays legal, your drivers stay qualified, and your business stays running.",
+    "cards": [
+      {
+        "title": "DOT Compliance Management",
+        "description": "Comprehensive Department of Transportation compliance oversight to keep your fleet operating legally and avoid costly violations, fines, and shutdowns."
+      },
+      {
+        "title": "Vehicle Plating & Permitting",
+        "description": "Full-service vehicle registration, plating, and permitting for trucking, limousine, and bus fleets. Every document current, every deadline met."
+      },
+      {
+        "title": "Driver Qualification Files",
+        "description": "Complete management of DOT and 19A driver qualification files, ensuring all driver documentation meets federal and state regulatory requirements."
+      },
+      {
+        "title": "Drug & Alcohol Testing",
+        "description": "DOT-mandated drug and alcohol testing programs including random testing, pre-employment screening, and post-accident testing compliance."
+      },
+      {
+        "title": "IFTA Tax Processing",
+        "description": "Accurate processing and filing of IFTA mileage and fuel tax reports so your fleet stays in good standing with tax authorities across all jurisdictions."
+      },
+      {
+        "title": "Audit Representation",
+        "description": "Professional representation during DOT, DMV, and tax audits. We ensure your company is prepared, properly documented, and fully defended."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Full Compliance",
+    "steps": [
+      {
+        "title": "Request a Compliance Assessment",
+        "description": "Tell us about your fleet and operations. We'll review your current compliance status and identify any gaps or risks -- no obligation, no pressure."
+      },
+      {
+        "title": "We Handle the Details",
+        "description": "Our licensed compliance team manages your DOT filings, driver files, permits, drug testing, and tax reports. Every deadline tracked, every requirement met."
+      },
+      {
+        "title": "Run Your Business Worry-Free",
+        "description": "Your fleet stays fully compliant, audit-ready, and legally protected. If a regulation changes, we catch it first and keep you ahead of the curve."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Fleets Trust Us",
+    "headline": "Not Just a Service Bureau -- Your Compliance Partner",
+    "description": "Founded in 1999 by President Judi Nelson, Trans-Com is a proud woman-owned business and licensed service bureau by the State of New York. For over 27 years, we've helped trucking, limousine, and bus companies across Long Island stay in full compliance with DOT and DMV regulations. We're small enough to know every client by name, yet experienced enough to handle the most complex compliance challenges.",
+    "badge": "NY Licensed Bureau",
+    "features": [
+      {
+        "title": "Licensed Service Bureau",
+        "description": "Licensed by the State of New York as an authorized service bureau, giving you confidence that your compliance is in certified hands."
+      },
+      {
+        "title": "No Detail Falls Through the Cracks",
+        "description": "We proactively monitor every deadline, renewal, and regulatory change so you never face a surprise violation or missed filing."
+      },
+      {
+        "title": "On-Site Audit Support",
+        "description": "When auditors show up, we show up too. Professional representation during DOT, DMV, and tax audits to protect your business."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Every fleet is different. Contact us for a customized compliance plan that fits your operations and budget -- no contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Full Compliance\" Guarantee",
+    "description": "If any compliance issue arises from work we've managed, we'll resolve it at no additional cost. For over 27 years, we've built our reputation on getting it right the first time -- and standing behind every filing, every permit, and every deadline we manage."
+  },
+  "faqs": [
+    {
+      "question": "What types of companies does Trans-Com work with?",
+      "answer": "We specialize in trucking, limousine, and bus companies of all sizes. Whether you have a single vehicle or a large fleet, we tailor our compliance services to your specific needs and regulatory requirements."
+    },
+    {
+      "question": "How quickly can you take over our compliance management?",
+      "answer": "Most new clients are fully onboarded within 5-7 business days. We'll conduct a thorough compliance assessment, identify any gaps, and begin managing your filings, permits, and driver files right away."
+    },
+    {
+      "question": "Do we need to be a New York-based company?",
+      "answer": "While we're based on Long Island and specialize in New York DOT and DMV requirements, we handle IFTA, FMCSA, and federal compliance for fleets operating across multiple states."
+    },
+    {
+      "question": "What happens if we get audited?",
+      "answer": "We've got you covered. Trans-Com provides on-site audit representation and support. We'll prepare your documentation, attend the audit with you, and handle any follow-up requirements."
+    },
+    {
+      "question": "Is there a long-term contract?",
+      "answer": "No contracts required. We believe in earning your business through consistent, reliable service. You can adjust or cancel your compliance plan at any time with no penalties."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Arkady A.",
+      "text": "They have been my guardian angels since 2017. I would be lost without them. TRANS-COM team is awesome.",
+      "context": "Birdeye Review",
+      "initials": "AA"
+    },
+    {
+      "name": "Javaid C.",
+      "text": "We are using Trans-Com for decades, working with the whole team especially Carol Timmons, prompt, hands on and very professional.",
+      "context": "Birdeye Review",
+      "initials": "JC"
+    },
+    {
+      "name": "Ronnie V. Crawford",
+      "text": "Trans-Com is a very trust worthy and reliable compliance company. They are fast, efficient and always maintain the upmost professional relationship.",
+      "context": "Website Testimonial",
+      "initials": "RC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Take Compliance<br>Off Your Plate?",
+    "subtitle": "Get a free, no-obligation compliance assessment. We'll review your current status, identify risks, and show you exactly how Trans-Com keeps your fleet legal and audit-ready.",
+    "benefits": [
+      "Free compliance assessment with every consultation",
+      "Response within 24 hours",
+      "27+ years of industry expertise"
+    ]
+  },
+  "footer": {
+    "description": "Woman-owned compliance bureau. Serving Long Island fleets for 27+ years.",
+    "service_area": "Serving Long Island, NY & the Greater Metro Area",
+    "services": [
+      "DOT Compliance",
+      "Vehicle Permitting",
+      "Driver Qualification Files",
+      "Drug & Alcohol Testing",
+      "Audit Representation"
+    ],
+    "copyright": "&copy; 2024 Trans-Com. All rights reserved. Licensed Service Bureau, State of New York."
+  }
+}

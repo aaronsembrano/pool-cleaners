@@ -1,0 +1,184 @@
+{
+  "folder_name": "shamrock-pool-services",
+  "company_name": "Shamrock Pool Services",
+  "tagline": "RELAX, we've got you covered",
+  "phone": "(954) 972-9648",
+  "email": "terry@shamrockpoolservices.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1B5E20",
+    "primary_dark": "#144217",
+    "primary_deeper": "#0D2E10",
+    "secondary": "#4CAF50",
+    "cta": "#E65100",
+    "cta_dark": "#BF360C"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — CPC1459481",
+    "badge_2": "4.5/5 from 15+ Reviews",
+    "badge_3": "Serving South FL Since 1991"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 15+ Google Reviews",
+    "badge_2": "Family-Owned Since 1991",
+    "headline": "35 Years Keeping South Florida <span class=\"text-secondary italic\">Swimming Happy</span>",
+    "subheadline": "Your pool should be your escape, not your weekend project. Shamrock Pool Services has been the trusted name in South Florida pool care since 1991. Our factory-trained technicians handle everything so you can just dive in.",
+    "cta_text": "Get My Free Pool Estimate",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "GPS-tracked service visits",
+      "Licensed commercial contractor"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "3000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "35",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "Counties Served",
+    "stat_4_value": "97",
+    "stat_4_label": "BuildZoom Score"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for Homes,<br class=\"hidden md:block\"> HOAs & Commercial Properties",
+    "subtitle": "From weekly maintenance to full renovations, Shamrock's certified team keeps every pool in South Florida sparkling. Residential or commercial — we have a program for you.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly care for pools, spas, and water features. Chemical balancing, skimming, vacuuming, and filter service — your water stays clean and swim-ready all year."
+      },
+      {
+        "title": "Pool & Equipment Repair",
+        "description": "Factory-trained technicians diagnose and fix pumps, filters, heaters, salt systems, and automation. Most repairs completed same-visit with quality parts."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Licensed pool reconstruction including resurfacing, tile replacement, deck upgrades, and complete transformations. Modernize your backyard with Shamrock craftsmanship."
+      },
+      {
+        "title": "Commercial Pool Programs",
+        "description": "Specialized service for HOAs, hotels, waterparks, and municipal facilities. GPS-tracked visits, detailed reporting, and dedicated account management for every property."
+      },
+      {
+        "title": "Spa & Hot Tub Service",
+        "description": "Full-service maintenance, repair, and equipment upgrades for residential and commercial spas. We keep your hot tub performing at its best year-round."
+      },
+      {
+        "title": "Water Feature Care",
+        "description": "Professional maintenance for fountains and interactive water features. Routine care, seasonal prep, and repairs to keep your decorative elements running beautifully."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Call us or fill out the form. We will visit your property, assess your pool, and deliver an honest quote within 24 hours — no pressure, no obligations."
+      },
+      {
+        "title": "We Deploy Our Certified Crew",
+        "description": "Our factory-trained, background-checked technicians arrive on schedule in GPS-tracked vehicles. Cleaning, chemistry, equipment checks — everything is covered and documented."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and swim-ready every day. Track our visits via GPS confirmation and rest easy knowing a 35-year veteran team has your back."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Florida Trusts Shamrock",
+    "headline": "Family-Owned, Factory-Trained, and Here to Stay",
+    "description": "Since 1991, Shamrock Pool Services has been a family-owned operation serving Palm Beach, Broward, and Miami-Dade Counties. Our technicians are factory-trained and certified in the latest pool technologies. With a GPS-equipped fleet and a BuildZoom score of 97, we bring accountability and expertise that larger companies simply cannot match. Every service program is customized to your pool, your schedule, and your budget.",
+    "badge": "State Licensed Contractor",
+    "features": [
+      {
+        "title": "Factory-Trained Technicians",
+        "description": "Every team member is certified in the latest pool industry technologies and undergoes continuous training to stay ahead of the curve."
+      },
+      {
+        "title": "GPS-Tracked Service Visits",
+        "description": "Our entire fleet is GPS-equipped so you always know when we arrived, how long we stayed, and what was completed."
+      },
+      {
+        "title": "Customizable Service Programs",
+        "description": "No cookie-cutter plans here. We tailor every program to your pool's specific needs, whether it is a backyard oasis or a 50-unit HOA community."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Every plan is customizable — scale up, scale down, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us within 24 hours and we will return to make it right at no additional charge. We have been earning trust in South Florida for 35 years — and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Shamrock start servicing my pool?",
+      "answer": "Most new residential clients are scheduled within 3-5 business days. For urgent repairs or green pool situations, we offer priority response. Call us and we will work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate or yard access and we handle everything while you are away. Our GPS tracking confirms each visit, and you can request service summaries so you always know what was done."
+    },
+    {
+      "question": "Are your technicians licensed and certified?",
+      "answer": "Yes. Shamrock holds a State of Florida Commercial Pool and Spa Contractor license (CPC1459481) and an LP Gas Installer license. All technicians are factory-trained and certified in the latest pool equipment and technologies."
+    },
+    {
+      "question": "Do you service commercial properties and HOAs?",
+      "answer": "Absolutely. We serve HOA communities, hotels, waterparks, and municipal facilities across three South Florida counties. Commercial clients receive dedicated account managers, GPS-verified visits, and detailed service reporting."
+    },
+    {
+      "question": "What areas does Shamrock Pool Services cover?",
+      "answer": "We serve all of Palm Beach County, Broward County, and Miami-Dade County from our North Lauderdale headquarters. Our GPS-equipped fleet covers the entire South Florida tri-county area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Customer",
+      "text": "We have used Shamrock Pool Services for years for filters, pumps, capacitors, and other pool repairs. They provide fast, neat, clean work with very good pricing. Highly recommend them for any pool service needs.",
+      "context": "Angi Review",
+      "initials": "LC"
+    },
+    {
+      "name": "Commercial Property Mgr.",
+      "text": "Shamrock has maintained our community pools for several years. Their team is professional, responsive, and thorough. The GPS tracking gives us peace of mind that service visits are happening on schedule.",
+      "context": "Industry Reference",
+      "initials": "CP"
+    },
+    {
+      "name": "Residential Client",
+      "text": "As a family-owned business, Shamrock treats their customers like family. They have been taking care of our pool since we moved to South Florida and we would not trust anyone else with our pool maintenance and repairs.",
+      "context": "Customer Reference",
+      "initials": "RC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get a free, no-obligation quote from South Florida's trusted pool care team. We have been doing this for 35 years — let us show you the Shamrock difference.",
+    "benefits": [
+      "Free on-site pool inspection included",
+      "Response within 24 hours guaranteed",
+      "35 years of South Florida expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving South Florida since 1991.",
+    "service_area": "Serving Palm Beach, Broward & Miami-Dade Counties",
+    "services": [
+      "Weekly Maintenance",
+      "Repairs & Equipment",
+      "Pool Remodeling",
+      "Commercial Programs",
+      "Spa & Hot Tub Service"
+    ],
+    "copyright": "&copy; 2024 Shamrock Pool Services, Inc. All rights reserved. State of Florida Licensed Commercial Pool & Spa Contractor — CPC1459481"
+  }
+}

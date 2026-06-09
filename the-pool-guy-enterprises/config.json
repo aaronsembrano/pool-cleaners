@@ -1,0 +1,183 @@
+{
+  "folder_name": "the-pool-guy-enterprises",
+  "company_name": "The Pool Guy Enterprises",
+  "tagline": "Quality Pool Design, Construction, Service, Maintenance, Renovation, and Supplies",
+  "phone": "+1 979-575-6200",
+  "email": "sean@thepoolguybcs.com",
+  "review_count": "45",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#c0392b",
+    "cta_dark": "#a93226"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.0/5 from 45+ Reviews",
+    "badge_3": "Aggie-Owned Since 2006"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 45+ Google Reviews",
+    "badge_2": "Official TAMU Athletics Sponsor",
+    "headline": "Your Backyard Resort <span class=\"text-secondary italic\">Starts Right<br>Here in Aggieland</span>",
+    "subheadline": "For over 20 years, College Station families have trusted The Pool Guy to design, build, and maintain their dream pools. From weekly cleanings to resort-style construction, we handle it all so you can just enjoy the water.",
+    "cta_text": "Get My Free Pool Consultation",
+    "checkmarks": [
+      "Free water testing",
+      "Price match guarantee",
+      "20+ years local experience"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "2000",
+    "stat_1_label": "Pools Built & Serviced",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in the Brazos Valley",
+    "stat_3_value": "500",
+    "stat_3_label": "Weekly Maintenance Clients",
+    "stat_4_value": "100%",
+    "stat_4_label": "Price Match Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Design to Daily Maintenance",
+    "subtitle": "From building your dream pool to keeping it crystal clear year-round, The Pool Guy handles every aspect of pool ownership so you never have to worry.",
+    "cards": [
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom resort-style pools designed and built from concept to first splash. We handle excavation, plumbing, electrical, decking, and landscaping all in-house."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Consistent weekly service keeps your pool swim-ready. Skimming, brushing, vacuuming, chemical balancing, and equipment checks every visit."
+      },
+      {
+        "title": "Pool Renovation",
+        "description": "Breathe new life into your aging pool with resurfacing, new tile, equipment upgrades, and complete remodeling. Transform it into something brand new."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert troubleshooting and repair of pumps, filters, heaters, salt systems, and Polaris cleaners. Most repairs completed same-visit by experienced technicians."
+      },
+      {
+        "title": "Pool Supplies & Retail Store",
+        "description": "Full retail store with chemicals, equipment, toys, and accessories. Located at Hwy 6 and William D. Fitch in the HEB shopping center. Everything your pool needs."
+      },
+      {
+        "title": "Free Water Testing",
+        "description": "Bring a water sample to our store and get professional analysis with expert recommendations for chemical balance. Always free, always accurate, always helpful."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Whether it's a new build, weekly maintenance, or a one-time repair, give us a call or stop by our store. We'll discuss your needs and give you an honest, no-pressure quote."
+      },
+      {
+        "title": "We Get to Work",
+        "description": "Our experienced team arrives on schedule with the right tools and expertise. From construction projects to weekly cleanings, we treat every pool like it's our own."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and your equipment runs smoothly. And if you ever need supplies, our retail store and free water testing are always here for you."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Aggieland Trusts The Pool Guy",
+    "headline": "Aggie-Owned, Community-Rooted, Pool Obsessed",
+    "description": "Founded in 2006 by Sean Hawthorne (Texas A&M Class of '93), The Pool Guy Enterprises has been serving College Station and Bryan for over 20 years. As an official corporate sponsor of TAMU Athletics and one of the top-rated contractors in Texas, we bring Aggie values of integrity and hard work to every single pool we touch.",
+    "badge": "BuildZoom Top 13%",
+    "features": [
+      {
+        "title": "20+ Years Local Experience",
+        "description": "We've been building and maintaining pools in the Brazos Valley since 2006. We know the local soil, water, and climate inside and out."
+      },
+      {
+        "title": "Price Match Guarantee",
+        "description": "Find a better price on pool supplies or services? We'll match it. No questions asked. We believe in fair, honest pricing for our neighbors."
+      },
+      {
+        "title": "Full-Service, One Company",
+        "description": "Design, build, maintain, repair, and supply — all under one roof. No juggling multiple contractors. Just one trusted team for everything."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different, so we custom-quote every job. Get a free consultation and we'll give you an honest price — guaranteed."
+  },
+  "guarantee": {
+    "headline": "Our \"Aggie Honor\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've built our reputation on honesty and quality for over 20 years, and we stand behind every job with our name."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start pool maintenance?",
+      "answer": "Most new maintenance clients are on the schedule within one week. For equipment repairs and emergencies, we offer fast turnaround — just call our store and we'll get you taken care of."
+    },
+    {
+      "question": "Do you offer free water testing?",
+      "answer": "Yes! Bring a water sample to our retail store at Hwy 6 and William D. Fitch anytime we're open. We'll test it on the spot and give you expert recommendations for proper chemical balance — always free."
+    },
+    {
+      "question": "How long does it take to build a new pool?",
+      "answer": "A typical custom pool build takes 8-12 weeks depending on design complexity, weather, and permitting. We handle everything from excavation to landscaping so you have one point of contact throughout."
+    },
+    {
+      "question": "Do you price match pool supplies?",
+      "answer": "Absolutely. We offer a Price Match Guarantee on pool chemicals, equipment, and accessories. If you find it cheaper elsewhere, bring us the price and we'll match it."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve College Station, Bryan, and the entire surrounding Brazos Valley area. Whether you need weekly maintenance, a new pool build, or just supplies, we've got the Brazos Valley covered."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Bobby",
+      "context": "Pool Maintenance, 3 Years",
+      "initials": "BO",
+      "text": "I have been using the Pool Guy for almost 3 years. Never had a problem and love the service! They're reliable, thorough, and my pool always looks great."
+    },
+    {
+      "name": "Joe",
+      "context": "Maintenance & Supplies Customer",
+      "initials": "JO",
+      "text": "Quick chemical delivery and excellent maintenance help. I would highly recommend this company to help maintain a pool or spa. Great people who know their stuff."
+    },
+    {
+      "name": "P. Carter",
+      "context": "Pool Repair Customer",
+      "initials": "PC",
+      "text": "The Pool Guy knows more about pool problems than anyone in the area. The service is fast and honest. They diagnosed and fixed our pump issue in one visit."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for the Best Pool<br>Care in Aggieland?",
+    "subtitle": "Get a free, no-pressure consultation from the Brazos Valley's most trusted pool company. Stop by our store, give us a call, or request a quote online.",
+    "benefits": [
+      "Free water testing at our retail store",
+      "Same-week service for new clients",
+      "Price match guarantee on all supplies"
+    ]
+  },
+  "footer": {
+    "description": "Aggie-owned pool company serving College Station and Bryan for 20+ years.",
+    "service_area": "Serving College Station, Bryan & the Brazos Valley",
+    "services": [
+      "Pool Design & Construction",
+      "Weekly Maintenance",
+      "Pool Renovation",
+      "Equipment Repair",
+      "Pool Supplies Store"
+    ],
+    "copyright": "&copy; 2024 The Pool Guy Enterprises, LLC. All rights reserved. Licensed Pool Contractor — State of Texas"
+  }
+}
