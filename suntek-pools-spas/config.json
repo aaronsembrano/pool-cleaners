@@ -1,0 +1,184 @@
+{
+  "folder_name": "suntek-pools-spas",
+  "company_name": "Suntek Pools & Spas",
+  "tagline": "Bring More Wellness Home",
+  "phone": "+1 631-249-7727",
+  "email": "rlucia@suntekonline.com",
+  "logo_path": "logo.png",
+  "review_count": "72",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#4a90c4",
+    "cta": "#e8a430",
+    "cta_dark": "#cc8c1e"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured Across Long Island",
+    "badge_2": "4.9/5 from 72+ Reviews",
+    "badge_3": "Award-Winning Master Spa Dealer"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 72+ Google Reviews",
+    "badge_2": "Family-Owned Since 1989",
+    "headline": "Long Island's Trusted Pool & <span class=\"text-secondary italic\">Spa Experts</span>",
+    "subheadline": "For 36+ years, the Lucia family has helped over 25,000 Long Island homeowners bring wellness home. From hot tubs and swim spas to expert pool service, Suntek delivers premium quality backed by the largest service department in Nassau and Suffolk County.",
+    "cta_text": "Get Your Free Consultation",
+    "checkmarks": [
+      "Free in-home consultation",
+      "Same-week service available",
+      "100% U.S.A.-made products"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "25000",
+    "stat_1_label": "Happy Customers",
+    "stat_2_value": "36",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "72",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "U.S.A. Made"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Premium Pool & Spa Solutions<br class=\"hidden md:block\"> for Every Home",
+    "subtitle": "From hot tub sales and installation to full-service pool maintenance, Suntek brings over three decades of expertise to every project. Relax knowing Long Island's best team has you covered.",
+    "cards": [
+      {
+        "title": "Hot Tub Sales & Installation",
+        "description": "Master Spas, Twilight Series, and other premium brands expertly matched to your lifestyle. Full consultation through professional installation."
+      },
+      {
+        "title": "Swim Spa Sales & Installation",
+        "description": "Michael Phelps Swim Spas and H2X Fitness models for exercise, therapy, and family fun. Professionally delivered and installed at your home."
+      },
+      {
+        "title": "Pool Service & Maintenance",
+        "description": "Comprehensive pool care including water testing, chemical balancing, quarterly maintenance programs, and seasonal opening and closing services."
+      },
+      {
+        "title": "Hot Tub Service & Repair",
+        "description": "Long Island's largest service department with fully stocked trucks. Expert maintenance and repair for all hot tub brands, fast and reliable."
+      },
+      {
+        "title": "Sauna & Cold Plunge Products",
+        "description": "Premium saunas and Chilly GOAT cold tubs for total home wellness. Recovery, relaxation, and rejuvenation all in your own backyard."
+      },
+      {
+        "title": "Emergency Spa Repair",
+        "description": "Urgent repair solutions when you need them most. Our experienced technicians diagnose and fix spa emergencies quickly to get you back in the water."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Path to Backyard Wellness",
+    "steps": [
+      {
+        "title": "Schedule a Free Consultation",
+        "description": "Visit our Farmingdale showroom or request a free in-home consultation. Our team will help you find the perfect hot tub, swim spa, or pool solution for your space and budget."
+      },
+      {
+        "title": "We Handle the Heavy Lifting",
+        "description": "From delivery and professional installation to electrical hookup coordination, our experienced crew manages every detail. Fully stocked service trucks mean fewer delays."
+      },
+      {
+        "title": "Relax & Enjoy",
+        "description": "Your new spa or freshly serviced pool is ready. And with Long Island's largest service department behind you, expert support is always just a phone call away."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Long Islanders Choose Suntek",
+    "headline": "Family-Owned, Community-Trusted Since 1989",
+    "description": "The Lucia family has been bringing wellness home to Long Island for over 36 years. With Robert, Nicholas, and Dylan Lucia leading the charge, Suntek has earned the trust of more than 25,000 customers from Montauk to Manhattan. As an award-winning Master Spa dealer, we back every product with the largest service department in Nassau and Suffolk County — because your satisfaction doesn't end at the sale.",
+    "badge": "Award-Winning Dealer",
+    "features": [
+      {
+        "title": "Largest Service Dept on Long Island",
+        "description": "A fleet of fully stocked service trucks across Nassau and Suffolk County means faster response times and fewer repeat visits."
+      },
+      {
+        "title": "25,000+ Happy Customers",
+        "description": "Over three decades of earning trust, one backyard at a time. Our 4.9-star Google rating speaks for itself."
+      },
+      {
+        "title": "BBB Accredited Since 2010",
+        "description": "Fully licensed, fully insured, and accredited by the Better Business Bureau. We stand behind every product and every service call."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Premium Value.",
+    "subtitle": "Every spa, pool service, and installation is quoted honestly upfront. No hidden fees, no surprise charges — just straightforward pricing from a family you can trust."
+  },
+  "guarantee": {
+    "headline": "Our \"Wellness Promise\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit or product installation, call us and we'll make it right — no questions asked. We've built our reputation over 36 years on doing the right thing, and we're not about to stop now. Your satisfaction is the only outcome we accept."
+  },
+  "faqs": [
+    {
+      "question": "How do I choose the right hot tub or swim spa?",
+      "answer": "Visit our Farmingdale showroom to see and test our full lineup. Our team will walk you through features, sizing, and pricing to find the perfect fit for your home and lifestyle. We also offer free in-home consultations."
+    },
+    {
+      "question": "Do you service all brands of hot tubs?",
+      "answer": "Yes. While we are an award-winning Master Spa dealer, our service department handles all hot tub brands. With Long Island's largest fleet of fully stocked service trucks, we can diagnose and repair most issues in a single visit."
+    },
+    {
+      "question": "How long does hot tub installation take?",
+      "answer": "Most installations are completed within one to two days after delivery. Our crew handles placement, setup, and walkthroughs so you can start enjoying your new spa right away. We also coordinate electrical work if needed."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve all of Long Island including Nassau County, Suffolk County, and surrounding areas from Montauk to Manhattan. We are fully licensed and insured across all Long Island counties."
+    },
+    {
+      "question": "Do you offer maintenance plans for pools and spas?",
+      "answer": "Absolutely. We offer quarterly and ongoing maintenance programs for pools and hot tubs, including water testing, chemical balancing, filter cleaning, and seasonal opening and closing services. Call us to customize a plan."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Doris B.",
+      "text": "Their sales team, techs and workers are fantastic to work with. I have had my hot tub running perfectly. Suntek truly cares about their customers.",
+      "context": "Hot tub purchase & service",
+      "initials": "DB"
+    },
+    {
+      "name": "David W.",
+      "text": "The customer service and service team are highly responsive, assisting with any questions regarding chemicals, operation, or techniques for running the hot tub. Consistently available whenever needed.",
+      "context": "MasterSpa hot tub owner",
+      "initials": "DW"
+    },
+    {
+      "name": "Daniel M.",
+      "text": "Highly recommend Suntek Pools And Spas. Delivered on time, set up with great detail in terms of instructions. The whole process from start to finish was smooth and professional.",
+      "context": "Delivery & installation",
+      "initials": "DM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Bring More<br>Wellness Home?",
+    "subtitle": "Get a free, no-pressure consultation from Long Island's most trusted pool and spa team. Visit our showroom or call today — 36 years of expertise is just a conversation away.",
+    "benefits": [
+      "Free in-home or showroom consultation",
+      "Response within 24 hours",
+      "Backed by 36+ years of expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & spa experts. Proudly serving Long Island since 1989.",
+    "service_area": "Serving All of Long Island — Montauk to Manhattan",
+    "services": [
+      "Hot Tub Sales",
+      "Swim Spa Installation",
+      "Pool Service & Maintenance",
+      "Spa Repair & Service",
+      "Saunas & Cold Plunge"
+    ],
+    "copyright": "&copy; 2024 Suntek Pools & Spas. All rights reserved. Farmingdale, NY — Licensed & Insured"
+  }
+}

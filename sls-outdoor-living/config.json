@@ -1,0 +1,184 @@
+{
+  "folder_name": "sls-outdoor-living",
+  "company_name": "SLS Outdoor Living & Landscaping",
+  "tagline": "White Glove Landscaping — North Shore's Most Trusted Since 1975",
+  "phone": "+1 978-948-7701",
+  "email": "joe@sls-landscapes.com",
+  "logo_path": "logo.png",
+  "review_count": "26",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#2E5339",
+    "primary_dark": "#1E3926",
+    "primary_deeper": "#142718",
+    "secondary": "#D4A843",
+    "cta": "#B85C1E",
+    "cta_dark": "#9A4D18"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited Since 1997",
+    "badge_2": "4.7/5 from 26+ Reviews",
+    "badge_3": "Best of Boston Winner"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 26+ Google Reviews",
+    "badge_2": "Best of Boston 2023 & 2025",
+    "headline": "50 Years of White Glove <span class=\"text-secondary italic\">Landscaping<br>Excellence</span>",
+    "subheadline": "Your property deserves more than a lawn crew. SLS delivers award-winning landscape design, installation, and maintenance with the professionalism and care that has earned the trust of North Shore homeowners since 1975. Sit back and enjoy your outdoor space — we handle the rest.",
+    "cta_text": "Request a Free Consultation",
+    "checkmarks": [
+      "Free property consultation",
+      "Award-winning design team",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1000",
+    "stat_1_label": "Properties Transformed",
+    "stat_2_value": "50",
+    "stat_2_label": "Years of Experience",
+    "stat_3_value": "13",
+    "stat_3_label": "Expert Team Members",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Landscape Solutions<br class=\"hidden md:block\"> for Every Season",
+    "subtitle": "From initial design through year-round maintenance, SLS handles every aspect of your outdoor space with certified expertise and award-winning attention to detail.",
+    "cards": [
+      {
+        "title": "Landscape Design",
+        "description": "Custom landscape designs tailored to your vision and property. Our certified professionals create plans that blend beauty, function, and long-term value for your North Shore home."
+      },
+      {
+        "title": "Landscape Installation",
+        "description": "Expert installation of plantings, hardscapes, and complete outdoor transformations. From grading to the finishing touches, our crews execute every detail with precision."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Patios, fire pits, outdoor kitchens, water features, and more. We design and build spaces that extend your living area and make your backyard the favorite room in the house."
+      },
+      {
+        "title": "Landscape Maintenance",
+        "description": "Comprehensive seasonal programs including cleanups, pruning, weeding, and mulching. We keep your investment looking its best with consistent, reliable care all year."
+      },
+      {
+        "title": "Lawn Care & Irrigation",
+        "description": "Professional mowing, turf care, and sprinkler system installation and repair. Efficient watering and expert maintenance for a lush, healthy lawn all season long."
+      },
+      {
+        "title": "Snow & Ice Management",
+        "description": "Reliable commercial snow and ice management that keeps your property safe and accessible through every New England winter. Professional, prompt, and thorough."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Schedule Your Consultation",
+        "description": "Tell us about your property and vision. We visit your site, listen carefully, and provide an honest assessment with clear recommendations — no pressure, no obligations."
+      },
+      {
+        "title": "We Design & Execute",
+        "description": "Our MCLP and ISA-certified team creates a custom plan and brings it to life with skilled craftsmanship. We coordinate every detail and keep you informed at every stage."
+      },
+      {
+        "title": "Enjoy Your Outdoor Space",
+        "description": "Your landscape is transformed and maintained to perfection. With our ongoing care programs, your property stays beautiful season after season while you simply enjoy it."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why North Shore Homeowners Trust SLS",
+    "headline": "Not Just a Landscaper — Your Trusted Outdoor Living Partner",
+    "description": "Founded in 1975, SLS Outdoor Living & Landscaping has spent over 50 years building lasting relationships with homeowners and businesses across the North Shore. Owner Joe Szczechowicz started as the first team member and has grown SLS into a 13-person operation recognized with Best of Boston and Best of North Shore awards. We treat every property with the same care we would our own — because that is how trusted partnerships are built.",
+    "badge": "MCLP & ISA Certified",
+    "features": [
+      {
+        "title": "Certified Professional Team",
+        "description": "Every crew member is trained to our exacting standards. Our team holds MCLP and ISA certifications, ensuring expert knowledge in every aspect of landscape care."
+      },
+      {
+        "title": "BBB Accredited Since 1997",
+        "description": "Nearly three decades of Better Business Bureau accreditation reflects our unwavering commitment to honest business practices and customer satisfaction."
+      },
+      {
+        "title": "White Glove Guarantee",
+        "description": "Not satisfied with any service? We come back and make it right at no charge. Clear communication, follow-through, and your complete satisfaction — that is the SLS standard."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets an honest, detailed quote. No hidden fees, no scope creep — just straightforward pricing for exceptional work."
+  },
+  "guarantee": {
+    "headline": "Our \"White Glove\" Service Guarantee",
+    "description": "If you are not completely satisfied with any aspect of our work, we will return and make it right at no additional cost. For over 50 years, this promise has been the foundation of every relationship we build. Your property, your trust, and your satisfaction are what drive us every single day."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start a new project?",
+      "answer": "Most consultations are scheduled within one week, and project timelines depend on scope and season. We will give you a clear timeline during your consultation and keep you updated every step of the way."
+    },
+    {
+      "question": "Do you handle both residential and commercial properties?",
+      "answer": "Absolutely. We serve homeowners, businesses, HOAs, and property managers across the North Shore. Commercial clients receive dedicated account management and flexible scheduling to fit their needs."
+    },
+    {
+      "question": "Are your team members certified?",
+      "answer": "Yes. Our team holds Massachusetts Certified Landscape Professional (MCLP) and International Society of Arboriculture (ISA) certifications. We invest in ongoing training so our crews stay current on best practices."
+    },
+    {
+      "question": "Do you offer year-round maintenance programs?",
+      "answer": "We do. Our maintenance programs cover spring and fall cleanups, weekly mowing, pruning, weeding, mulching, irrigation management, and winter snow and ice services. We tailor each program to your property."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Newburyport, Rowley, Amesbury, West Newbury, Newbury, and communities throughout the North Shore and north of Boston. Contact us to confirm service in your area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Les B.",
+      "text": "Have been working with SLS for 5 years. They have incredible customer service, high attention to detail, and can handle complex projects. They took down 15 trees, built a water feature, and execute weekly and seasonal care flawlessly. Their crews really know their plants!",
+      "context": "Residential Client, 5 Years",
+      "initials": "LB"
+    },
+    {
+      "name": "A.G.",
+      "text": "Absolutely professional service on a large project including pool patio, spa, fireplace, and stone walls. The team managed everything from design to permits and coordinating trades. Our relationship with SLS is approaching 3 years, with every concern promptly addressed.",
+      "context": "Rowley, MA Homeowner",
+      "initials": "AG"
+    },
+    {
+      "name": "West Newbury Client",
+      "text": "SLS was undaunted by a large project that competitors were reluctant to tackle. Professional staff, a can-do attitude, attention to detail, fair pricing, and adherence to timelines. I would recommend them to anyone looking to beautify their yard.",
+      "context": "West Newbury, MA",
+      "initials": "WN"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for the Landscape<br>You Have Always Wanted?",
+    "subtitle": "Get a free, no-pressure consultation. We will visit your property, listen to your vision, and provide honest recommendations — no obligations, just expert advice from a team with 50 years of experience.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Response within 24 hours",
+      "50+ years of trusted expertise"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning landscaping. Serving the North Shore since 1975.",
+    "service_area": "Serving Newburyport, Rowley, Amesbury & the North Shore",
+    "services": [
+      "Landscape Design",
+      "Outdoor Living Spaces",
+      "Landscape Maintenance",
+      "Lawn Care & Irrigation",
+      "Snow & Ice Management"
+    ],
+    "copyright": "&copy; 2024 SLS Outdoor Living & Landscaping. All rights reserved. Rowley, MA — BBB Accredited Since 1997"
+  }
+}

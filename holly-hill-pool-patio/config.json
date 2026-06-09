@@ -1,0 +1,184 @@
+{
+  "folder_name": "holly-hill-pool-patio",
+  "company_name": "Holly Hill Pool & Patio",
+  "tagline": "Take a vacation in your own backyard",
+  "phone": "(718) 448-8800",
+  "email": "curt@hollyhillpools.com",
+  "logo_path": "logo.png",
+  "review_count": "14",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a5fb4",
+    "primary_dark": "#133f7a",
+    "primary_deeper": "#0d2c55",
+    "secondary": "#2196F3",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "trust_badges": {
+    "badge_1": "Family Owned Since 1951",
+    "badge_2": "4.7/5 Google Rating",
+    "badge_3": "BioGuard Platinum Dealer"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 14+ Google Reviews",
+    "badge_2": "75+ Years Family Owned",
+    "headline": "Your Backyard Oasis <span class=\"text-secondary italic\">Starts<br>Right Here</span>",
+    "subheadline": "For over 75 years, Staten Island families have trusted Holly Hill Pool & Patio for everything from pool sales and installation to expert water testing and repairs. We sell fun -- guaranteed.",
+    "cta_text": "Get a Free Estimate",
+    "checkmarks": [
+      "Free computerized water testing",
+      "75+ years of expertise",
+      "One-stop backyard shop"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "75",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "1000",
+    "stat_2_label": "Happy Families",
+    "stat_3_value": "5000",
+    "stat_3_label": "Water Tests Performed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Fun Guaranteed"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Everything for Your<br class=\"hidden md:block\"> Ultimate Backyard",
+    "subtitle": "From pools and patio structures to awnings and sheds, Holly Hill is your one-stop destination for creating the backyard you have always dreamed about.",
+    "cards": [
+      {
+        "title": "Pool Sales & Installation",
+        "description": "Premium Sharkline above-ground and EZ Panel in-ground pool systems. Free in-home estimates and expert guidance from selection to installation."
+      },
+      {
+        "title": "Water Testing & Chemicals",
+        "description": "Free computerized water testing with step-by-step treatment plans. Full line of BioGuard chemicals to keep your water crystal clear all season."
+      },
+      {
+        "title": "Repairs & Service",
+        "description": "Expert repair services for filters, motors, and automatic vacuums. Our experienced technicians diagnose and fix problems fast."
+      },
+      {
+        "title": "Poolside Structures",
+        "description": "Beautiful Limerick, Cantania, and Breakaway poolside structures that enhance your outdoor living space with shade and comfort."
+      },
+      {
+        "title": "Retractable Awnings",
+        "description": "Premium Aristocrat and Sunsetter retractable awnings that extend your outdoor living area with stylish, functional shade solutions."
+      },
+      {
+        "title": "Storage Sheds",
+        "description": "Quality sheds in New England, Garden Cottage, and Traditional Vinyl styles, custom-built to fit your backyard and storage needs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Backyard",
+    "steps": [
+      {
+        "title": "Visit Our Showroom",
+        "description": "Stop by our Staten Island showroom to browse pools, structures, awnings, and sheds. Our friendly staff will answer every question -- no pressure, just honest advice."
+      },
+      {
+        "title": "Get Expert Guidance",
+        "description": "We will help you choose the perfect products for your space and budget. Free in-home estimates for pools and structures, free computerized water testing for existing pools."
+      },
+      {
+        "title": "Enjoy Your Backyard",
+        "description": "From professional installation to ongoing water care support, we are with you every step. Your backyard vacation starts now -- and we are always here when you need us."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Staten Island Trusts Us",
+    "headline": "Three Generations of Backyard Expertise",
+    "description": "Since 1951, Holly Hill Pool & Patio has been family owned and operated right here on Staten Island. Over 75 years and three generations, we have built our reputation on honest advice, expert knowledge, and treating every customer like a neighbor. We are not a big-box chain -- we are the local family that knows your water, your backyard, and your name.",
+    "badge": "BioGuard Platinum Dealer",
+    "features": [
+      {
+        "title": "75+ Years Family Owned",
+        "description": "Three generations of the same family serving Staten Island since 1951. That kind of commitment cannot be replicated."
+      },
+      {
+        "title": "Free Water Testing",
+        "description": "Bring in a sample and get free computerized analysis with personalized treatment steps. No purchase required, no strings attached."
+      },
+      {
+        "title": "One-Stop Backyard Shop",
+        "description": "Pools, structures, awnings, sheds, chemicals, repairs, and propane. Everything you need for your backyard in one trusted place."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing From a Family You Can Trust.",
+    "subtitle": "No hidden fees, no surprise charges. Just honest pricing from a business that has earned Staten Island's trust for over 75 years."
+  },
+  "guarantee": {
+    "headline": "Our \"Good Neighbor\" Guarantee",
+    "description": "If you are not completely satisfied with any product or service, come talk to us. We have been on this island for 75 years because we stand behind everything we sell. We will make it right -- that is the Holly Hill way."
+  },
+  "faqs": [
+    {
+      "question": "Do you install pools or just sell them?",
+      "answer": "We sell premium Sharkline above-ground pools and EZ Panel in-ground systems, and we provide expert guidance for installation. We can recommend trusted local installers and are with you every step of the process from selection to your first swim."
+    },
+    {
+      "question": "Is the water testing really free?",
+      "answer": "Absolutely. Bring in a water sample any time and we will run a full computerized analysis. You will get a printed report with step-by-step instructions for treatment. No purchase necessary, no appointment needed."
+    },
+    {
+      "question": "What brands of chemicals do you carry?",
+      "answer": "We are a BioGuard Platinum Dealer, which means we carry the full BioGuard line plus other trusted brands. Our staff can recommend the right products based on your specific water chemistry results."
+    },
+    {
+      "question": "Can you repair my pool equipment?",
+      "answer": "Yes. Our in-house service center handles repairs for filters, motors, and automatic vacuums. Our technicians have decades of experience and can diagnose most issues quickly. Bring your equipment in or call for details."
+    },
+    {
+      "question": "Do you sell propane tanks?",
+      "answer": "We offer convenient BBQ propane tank exchange at competitive prices. Just bring in your empty tank and swap it for a full one -- quick and easy so you are ready for your next cookout."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Zoey",
+      "text": "They are truly amazing to deal with and very professional, making our pool experience easy and enjoyable. Could not recommend them enough.",
+      "context": "Pool purchase experience",
+      "initials": "ZO"
+    },
+    {
+      "name": "John B.",
+      "text": "Holly Hill surpasses all other pool stores in customer service. Very knowledgeable and friendly. They really know their stuff and never steer you wrong.",
+      "context": "Long-time customer",
+      "initials": "JB"
+    },
+    {
+      "name": "Danielle",
+      "text": "The customer service at Holly Hill is unmatched. Every interaction has been pleasant. The staff is always helpful and never pushy -- just genuinely good people.",
+      "context": "Customer service experience",
+      "initials": "DA"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Create Your<br>Backyard Paradise?",
+    "subtitle": "Stop by our Staten Island showroom or give us a call. Free estimates, free water testing, and 75 years of honest advice waiting for you.",
+    "benefits": [
+      "Free computerized water testing",
+      "Free in-home pool estimates",
+      "75+ years of trusted expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family owned and operated on Staten Island since 1951. Your one-stop backyard destination.",
+    "service_area": "Serving Staten Island, NY & Surrounding Areas",
+    "services": [
+      "Pool Sales & Installation",
+      "Water Testing & Chemicals",
+      "Repairs & Service",
+      "Retractable Awnings",
+      "Storage Sheds"
+    ],
+    "copyright": "&copy; 2024 Holly Hill Pool & Patio. All rights reserved."
+  }
+}

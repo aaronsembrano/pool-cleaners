@@ -1,34 +1,34 @@
 {
   "folder_name": "pool-time-inc",
   "company_name": "Pool Time Inc.",
-  "tagline": "Pleasanton's Trusted Name for Expert Pool Service Since 1976",
+  "tagline": "We live here. We work here. We know pools.",
   "phone": "+1 925-462-7665",
-  "email": "paul@pooltimeusa.com",
-  "review_count": "42",
+  "email": "ron.allen@pooltimeusa.com",
+  "review_count": "41",
   "review_rating": "4.6",
   "colors": {
-    "primary": "#0057A0",
-    "primary_dark": "#003D73",
-    "primary_deeper": "#002B52",
-    "secondary": "#00BFFF",
-    "cta": "#F5A623",
-    "cta_dark": "#D4900E"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#F4A300",
+    "cta": "#E8660C",
+    "cta_dark": "#C4550A"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured — CA Contractor",
-    "badge_2": "4.6/5 from 42+ Reviews",
+    "badge_1": "Licensed & Insured — CA Lic #951255",
+    "badge_2": "4.6/5 from 41+ Reviews",
     "badge_3": "Platinum BioGuard Dealer"
   },
   "hero": {
-    "badge_1": "4.6/5 from 42+ Google Reviews",
-    "badge_2": "Serving the Tri-Valley Since 1976",
-    "headline": "50 Years of Pools <span class=\"text-secondary italic\">Done Right</span>",
-    "subheadline": "Since 1976, Tri-Valley families have trusted Pool Time for weekly maintenance, expert repairs, and stunning renovations. As the Bay Area's only Platinum BioGuard dealer, we bring unmatched expertise to every backyard.",
-    "cta_text": "Request Your Free Estimate",
+    "badge_1": "4.6/5 from 41+ Google Reviews",
+    "badge_2": "Serving Pools Since 1976",
+    "headline": "50 Years of Pools Done <span class=\"text-secondary italic\">Right</span>",
+    "subheadline": "For half a century, Pool Time Inc. has kept pools sparkling across the Tri-Valley and beyond. We handle the cleaning, repairs, and chemistry so you can skip the work and just dive in.",
+    "cta_text": "Get a Free Pool Estimate",
     "checkmarks": [
-      "Free professional water testing",
-      "Certified technicians on every visit",
-      "Family-owned for 50 years"
+      "Free on-site pool inspection",
+      "Same-day leak repairs available",
+      "No long-term contracts"
     ]
   },
   "stats": {
@@ -36,148 +36,148 @@
     "stat_1_label": "Pools Serviced",
     "stat_2_value": "50",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "42",
+    "stat_3_value": "41",
     "stat_3_label": "Google Reviews",
-    "stat_4_value": "96",
-    "stat_4_label": "BuildZoom Score"
+    "stat_4_value": "100%",
+    "stat_4_label": "Locally Owned"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From weekly cleaning to full-scale renovations, Pool Time handles every phase of pool and spa care. One call covers it all — no subcontractors, no runaround.",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> a Team That's Done It All",
+    "subtitle": "From weekly cleaning to full-scale remodels, Pool Time has been the Tri-Valley's trusted pool experts since 1976. One call handles everything your pool needs.",
     "cards": [
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Professional weekly cleaning and chemical balancing from certified techs. Your pool stays sparkling, safe, and swim-ready every single week."
+        "title": "Weekly Pool Cleaning",
+        "description": "Skimming, vacuuming, brushing, chemical balancing, and filter cleaning — every week, on schedule. Your pool stays swim-ready without you lifting a finger."
       },
       {
-        "title": "Equipment Repair",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and automation. Most repairs completed same-visit by certified technicians."
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, filters, heaters, chlorinators — our experienced repair team diagnoses and fixes it fast. We also install energy-efficient upgrades to save you money."
       },
       {
-        "title": "Pool Renovations",
-        "description": "Complete pool remodels including replastering, new decks, coping, tile, and full equipment upgrades. We turn aging pools into backyard showpieces."
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak detection technology pinpoints the problem fast. We locate and repair leaks in plumbing, shells, and equipment — often the same day."
       },
       {
-        "title": "Pool Cleaner Repair",
-        "description": "Specialized automatic pool cleaner repair with no added labor costs above parts. Fast turnaround to get your cleaner running like new."
+        "title": "Water Testing & Chemistry",
+        "description": "Professional water analysis with the BioGuard ALEX system. We dial in your chemistry for crystal-clear water that's gentle on skin and eyes."
       },
       {
-        "title": "Premium Pool Supplies",
-        "description": "BioGuard chemicals, sanitizers, algaecides, and hard-to-find parts. Plus free water testing with our advanced ALEX Water Analysis System."
+        "title": "Pool Remodeling",
+        "description": "Replastering, new tile, coping, decking, and equipment modernization. We transform aging pools into stunning backyard retreats that look brand new."
       },
       {
-        "title": "Energy Efficiency Upgrades",
-        "description": "Variable-speed pumps, LED lighting, UV and ozone sanitizers. Cut your pool's operating costs while improving performance and water quality."
+        "title": "Pool & Spa Construction",
+        "description": "Custom-designed residential and commercial pools and spas, built with quality materials and expert craftsmanship from concept to first splash."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Getting Started Is Easy",
     "steps": [
       {
-        "title": "Call or Visit Our Store",
-        "description": "Reach out by phone or stop by our Pleasanton retail store. We'll discuss your pool's needs and schedule a convenient time for service or a free estimate."
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We'll schedule a free on-site inspection and provide an honest, no-pressure estimate — usually within 24 hours."
       },
       {
-        "title": "We Assess & Deliver",
-        "description": "Our certified technicians arrive on time, inspect your pool or spa, and handle everything — cleaning, repairs, water testing, or renovation planning."
+        "title": "We Take Care of Everything",
+        "description": "Our experienced technicians arrive on schedule and handle it all — cleaning, chemistry, equipment checks, and repairs. We've been doing this for 50 years, so nothing surprises us."
       },
       {
-        "title": "Enjoy Crystal-Clear Water",
-        "description": "Relax knowing your pool is in the hands of Pleasanton's most trusted team. 50 years of expertise means your pool stays perfect, season after season."
+        "title": "Enjoy Your Pool, Worry-Free",
+        "description": "Your pool stays crystal clear and ready for a swim any day of the week. If anything's not right, we come back and make it right — that's been our promise since 1976."
       }
     ]
   },
   "about": {
-    "label": "Why Tri-Valley Trusts Pool Time",
-    "headline": "Family-Owned Since 1976 — Three Generations of Pool Expertise",
-    "description": "Pool Time Inc. has been the Tri-Valley's go-to pool service company for half a century. As the Bay Area's only exclusive Platinum BioGuard dealer, we offer a level of product selection and expertise you simply won't find elsewhere. Our certified technicians handle everything from routine maintenance to complex renovations for both residential and commercial properties.",
+    "label": "Why Tri-Valley Trusts Us",
+    "headline": "50 Years of Family-Owned Pool Expertise",
+    "description": "Since 1976, Ron and Charity Allen have built Pool Time Inc. into the Tri-Valley's most trusted pool service company. We're the area's only exclusive Platinum BioGuard dealer, our retail store stocks more hard-to-find parts than anyone in the region, and our repair team has more experience than any competitor. We treat every pool like it's our own.",
     "badge": "Platinum BioGuard Dealer",
     "features": [
       {
-        "title": "Certified Pool Technicians",
-        "description": "Every technician is trained, certified, and backed by 50 years of institutional knowledge passed down through our team."
+        "title": "Locally Owned Since 1976",
+        "description": "Ron and Charity Allen have been serving this community for five decades. We live here, we work here, and our reputation is everything."
       },
       {
-        "title": "One-Stop Pool Shop",
-        "description": "Retail store, repair services, weekly maintenance, and full renovations — all from one trusted local company. No need to juggle vendors."
+        "title": "Fully Stocked Retail Store",
+        "description": "Premium BioGuard chemicals, hard-to-find parts, and accessories. Walk in for expert advice and walk out with exactly what your pool needs."
       },
       {
-        "title": "Top 20% CA Contractor",
-        "description": "Our BuildZoom score of 96 places us in the top 20% of all licensed contractors in California. Quality work is our standard, not an exception."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a service visit? We'll come back and make it right at no charge. That's the Pool Time promise — backed by 50 years of integrity."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Honest quotes, fair rates, and no hidden fees. We've been doing this for 50 years — our reputation depends on trust."
+    "subtitle": "Every pool is different, so we quote based on your specific needs. Call for a free estimate — honest pricing is how we've kept customers for 50 years."
   },
   "guarantee": {
-    "headline": "Our 50-Year Trust Guarantee",
-    "description": "If you're not completely satisfied with any service, we come back and make it right at no additional charge. We've built our reputation over five decades on doing right by our neighbors — and we're not about to stop now."
+    "headline": "Our 50-Year Promise to You",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right — no questions asked, no extra charge. We've built our reputation on doing right by every customer since 1976, and we're not about to stop now."
   },
   "faqs": [
     {
       "question": "How quickly can you start weekly service?",
-      "answer": "Most new clients are added to our route within one week. Call our Pleasanton store or request a quote online and we'll get you scheduled right away."
+      "answer": "Most new clients are on a regular schedule within 3-5 business days. For urgent needs like green pools or equipment failures, we offer same-day or next-day response. Call us and we'll find a time that works."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Absolutely. Pool Time is a licensed California contractor with a BuildZoom score of 96, placing us in the top 20% statewide. We carry full liability insurance for your peace of mind."
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we take care of everything while you're away. You'll always know what was done — we leave detailed notes after every visit."
     },
     {
-      "question": "What makes your chemicals better than big box stores?",
-      "answer": "We're the Bay Area's only exclusive Platinum BioGuard dealer. BioGuard products are professional-grade, more concentrated, and specifically formulated for optimal pool chemistry. Plus, we provide free water testing with our ALEX system so you buy exactly what your pool needs."
+      "question": "What makes Pool Time different from other companies?",
+      "answer": "We've been at this for 50 years. We're the area's only Platinum BioGuard dealer, our retail store has the largest parts inventory in the region, and our repair department has more experience than anyone. When you call Pool Time, you get experts."
     },
     {
-      "question": "Do you service commercial pools and spas?",
-      "answer": "Yes. Our certified technicians service both residential and commercial properties including community pools, HOAs, and fitness centers throughout the Tri-Valley area."
+      "question": "Do you service commercial pools?",
+      "answer": "Yes. We service HOAs, apartment complexes, and commercial facilities across the Tri-Valley. Commercial clients get customized maintenance plans tailored to their specific requirements and compliance needs."
     },
     {
-      "question": "Can you renovate my older pool?",
-      "answer": "That's one of our specialties. We handle complete pool remodels including replastering, resurfacing, new decks, coping, tile, mastic, and full equipment upgrades. We've transformed pools over 40 years old into modern backyard retreats."
+      "question": "Can you help with a pool remodel or new construction?",
+      "answer": "Absolutely. From replastering and new tile to complete remodels and brand-new pool construction, our licensed team (C53 & C27) handles projects of every scale. We'll walk you through design options and provide a detailed estimate."
     }
   ],
   "testimonials": [
     {
       "name": "Byron M.",
-      "text": "They basically took our 40 year old pool and made it like a Vegas resort! Everything I wanted, all the gadgets and tech items work perfect!",
-      "context": "Pool Renovation",
+      "text": "They basically took our 40 year old pool and made it like a Vegas resort! Pool Time is the best pool company we have ever worked with.",
+      "context": "Pool Remodeling",
       "initials": "BM"
     },
     {
       "name": "Franklin T.",
-      "text": "Pool Time came out and found the leak using some advanced detector device and repaired the same day! Highly recommend their expertise.",
+      "text": "Pool Time came out and found the leak using an advanced detector device and repaired it the same day! Fast, professional, and thorough.",
       "context": "Leak Detection & Repair",
       "initials": "FT"
     },
     {
-      "name": "Ross L.",
-      "text": "Pool Time is by far the best most professional company you will find! Outstanding service every single time.",
-      "context": "Weekly Pool Service",
-      "initials": "RL"
+      "name": "Matthew T.",
+      "text": "Call them ASAP for ANY pool problems! Their pool service is top notch too. I would never trust anyone else with my pool work.",
+      "context": "Pool Repair & Maintenance",
+      "initials": "MT"
     }
   ],
   "contact": {
-    "headline": "Ready for Worry-Free<br>Pool Ownership?",
-    "subtitle": "Get a free, no-pressure estimate from a team with 50 years of Tri-Valley expertise. Call us or stop by our Pleasanton store today.",
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get a free, no-pressure estimate from the Tri-Valley's most experienced pool team. We've been doing this for 50 years — let us show you the difference.",
     "benefits": [
-      "Free professional water testing with every visit",
-      "Response within 24 hours — often same-day",
-      "50 years of trusted, local service"
+      "Free on-site pool inspection",
+      "Estimate within 24 hours",
+      "50 years of trusted service"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service company. Proudly serving the Tri-Valley since 1976.",
-    "service_area": "Serving Pleasanton, Livermore, Dublin, San Ramon, Danville & the Tri-Valley",
+    "description": "Family-owned pool service since 1976. Serving the Tri-Valley for 50 years.",
+    "service_area": "Serving Griffin, Pleasanton, Livermore, Dublin, San Ramon, Danville & More",
     "services": [
-      "Weekly Maintenance",
+      "Weekly Cleaning",
       "Equipment Repair",
-      "Pool Renovations",
-      "Pool Supplies & Chemicals",
-      "Energy Upgrades"
+      "Leak Detection",
+      "Pool Remodeling",
+      "Pool Construction"
     ],
-    "copyright": "&copy; 2024 Pool Time Inc. All rights reserved. Licensed California Contractor"
+    "copyright": "&copy; 2024 Pool Time Inc. All rights reserved. CA Contractor Lic #951255"
   }
 }
