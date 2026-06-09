@@ -1,0 +1,184 @@
+{
+  "folder_name": "abc-pet-resort",
+  "company_name": "ABC Pet Resort & Spa",
+  "tagline": "Houston Texas' Premier Pet Resort",
+  "phone": "+1 281-444-9414",
+  "email": "jennifer@abcpetresort.com",
+  "logo_path": "logo.png",
+  "review_count": "98",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B2A4A",
+    "primary_dark": "#111D33",
+    "primary_deeper": "#0A1222",
+    "secondary": "#C8A96E",
+    "cta": "#C8A96E",
+    "cta_dark": "#B08D4F"
+  },
+  "trust_badges": {
+    "badge_1": "IBPSA Accredited",
+    "badge_2": "4.8/5 from 98+ Reviews",
+    "badge_3": "Pet CPR & First Aid Certified"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 98+ Google Reviews",
+    "badge_2": "35+ Years of Trusted Care",
+    "headline": "Your Pet Deserves a <span class=\"text-secondary italic\">Vacation<br>Too</span>",
+    "subheadline": "For over 35 years, ABC Pet Resort & Spa has given Houston pets the love, attention, and adventure they deserve. Three wooded acres, certified staff, and personalized care so you can travel worry-free.",
+    "cta_text": "Book Your Pet's Stay",
+    "checkmarks": [
+      "Free facility tour",
+      "All staff CPR & First Aid certified",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Happy Pet Families",
+    "stat_2_value": "35",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "3",
+    "stat_3_label": "Wooded Acres",
+    "stat_4_value": "100%",
+    "stat_4_label": "CPR Certified Staff"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pet Care Under<br class=\"hidden md:block\"> One Roof",
+    "subtitle": "From daycare to grooming to training, ABC Pet Resort & Spa provides everything your pet needs to thrive, all on our beautiful three-acre campus in Houston.",
+    "cards": [
+      {
+        "title": "Dog Daycare",
+        "description": "Supervised play groups with enriching activities, obedience tasks, and socialization opportunities for dogs of all sizes and temperaments throughout the day."
+      },
+      {
+        "title": "Dog Boarding",
+        "description": "Overnight accommodations featuring daily assessments, scheduled potty breaks, and personalized care plans to keep your dog comfortable and happy while you travel."
+      },
+      {
+        "title": "Cat & Small Animal Boarding",
+        "description": "Specialized boarding designed for cats and small animals, providing a calm and secure environment separate from dogs so your pet feels safe and relaxed."
+      },
+      {
+        "title": "Pet Grooming",
+        "description": "Professional grooming including baths, haircuts, nail trims, and breed-specific styling. Your pet leaves looking polished and feeling refreshed every visit."
+      },
+      {
+        "title": "Dog Training",
+        "description": "Expert training programs covering obedience, behavior modification, and socialization to help your dog become a well-mannered, confident companion at home."
+      },
+      {
+        "title": "Activities & Parties",
+        "description": "Special enrichment activities and dog birthday parties that provide mental stimulation, exercise, and unforgettable fun for your furry family member."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Pet Care",
+    "steps": [
+      {
+        "title": "Schedule a Tour",
+        "description": "Visit our three-acre resort and meet our certified team. We will learn about your pet's personality, needs, and routine to create a personalized care plan."
+      },
+      {
+        "title": "We Pamper Your Pet",
+        "description": "Our CPR-certified staff provides daily enrichment, supervised play, grooming, and loving attention. You receive photo updates so you always know your pet is thriving."
+      },
+      {
+        "title": "Pick Up a Happy Pet",
+        "description": "Your pet comes home exercised, socialized, and happy. Most pets get so excited pulling into our driveway that you will know you made the right choice."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pet Parents Trust Us",
+    "headline": "Family-Owned Since 1991 — Setting the Standard in Pet Care",
+    "description": "Founded by Suzanne and Al Locker over 35 years ago, ABC Pet Resort & Spa sits on three beautifully wooded acres in the Houston area. Suzanne served eight years on the American Boarding Kennel Association Board of Directors, including one year as President. Our founders helped create national standards for pet care facilities. Every team member holds Pet CPR and First Aid certifications, and we pride ourselves on building lasting bonds with each pet who walks through our doors.",
+    "badge": "IBPSA Accredited",
+    "features": [
+      {
+        "title": "All Staff CPR & First Aid Certified",
+        "description": "Every team member completes Pet Tech CPR and First Aid certification plus ongoing education in pet behavior and safety protocols."
+      },
+      {
+        "title": "Minimal Crate Use Policy",
+        "description": "We believe pets should roam freely. Our resort-style approach means your pet enjoys spacious play areas and comfortable rest spaces, not cages."
+      },
+      {
+        "title": "IBBY Award Winner 2025",
+        "description": "Recognized by IBPSA with the prestigious IBBY Award for Large Facility Excellence, validating our commitment to the highest standards in pet care."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the service that fits your pet's needs. Flexible scheduling, no hidden fees, and personalized care every time."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Pet\" Guarantee",
+    "description": "If your pet is not settling in comfortably or you are not 100% satisfied with any service, we will work with you to make it right at no additional charge. With 35 years of experience and a team that treats every pet like family, we stand behind every stay, every groom, and every training session until both you and your pet are happy."
+  },
+  "faqs": [
+    {
+      "question": "What do I need for my pet's first visit?",
+      "answer": "We require up-to-date vaccination records, a completed pet profile form, and a brief temperament assessment. We recommend scheduling a tour first so your pet can get comfortable with our facility and staff before their first stay."
+    },
+    {
+      "question": "How much outdoor space do pets have?",
+      "answer": "Our resort spans three beautifully wooded acres with separate play areas for different dog sizes and temperaments. Dogs enjoy supervised outdoor play sessions throughout the day in a secure, shaded environment."
+    },
+    {
+      "question": "Can you accommodate special diets and medications?",
+      "answer": "Absolutely. We handle special diets, medications, supplements, and any specific care instructions your pet requires. Our staff is trained to administer medications and follow detailed feeding schedules at no extra charge."
+    },
+    {
+      "question": "Do you send updates while my pet is boarding?",
+      "answer": "Yes! We send photo and video updates during your pet's stay so you can see them playing, resting, and enjoying their vacation. Many of our clients say it gives them total peace of mind while traveling."
+    },
+    {
+      "question": "Do you board cats and small animals too?",
+      "answer": "We do! Our cat and small animal boarding area is completely separate from the dog areas, providing a calm, quiet, and secure environment. Each small pet guest receives individualized attention and care tailored to their species."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Google Reviewer",
+      "context": "Dog Boarding",
+      "initials": "VG",
+      "text": "The staff at ABC Pet Resort truly treats my dog like family. They are always so welcoming and my dog gets visibly excited when we pull into the driveway. The facility is incredibly clean and well-maintained."
+    },
+    {
+      "name": "Long-Time Client",
+      "context": "Repeat Boarding Customer",
+      "initials": "LC",
+      "text": "We have been bringing our pets to ABC Pet Resort for years and would not trust anyone else. The personalized attention each pet receives is remarkable, and they even accommodate special diets and medications without any issues."
+    },
+    {
+      "name": "Houston Pet Owner",
+      "context": "Grooming & Boarding",
+      "initials": "HP",
+      "text": "Outstanding grooming services and the most caring staff I have ever encountered at a pet facility. They send updates and photos during boarding stays which gives us total peace of mind while traveling."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Give Your Pet the<br>Best Care in Houston?",
+    "subtitle": "Schedule a tour of our three-acre resort or book your pet's stay today. No pressure, no commitments — just a team that genuinely loves animals.",
+    "benefits": [
+      "Free facility tour for new clients",
+      "Response within 24 hours",
+      "35+ years of trusted pet care"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pet resort. Serving the Greater Houston area since 1991.",
+    "service_area": "Serving Houston, Spring, The Woodlands & Greater Houston Metro",
+    "services": [
+      "Dog Daycare",
+      "Dog Boarding",
+      "Cat Boarding",
+      "Pet Grooming",
+      "Dog Training"
+    ],
+    "copyright": "&copy; 2024 ABC Pet Resort & Spa. All rights reserved."
+  }
+}

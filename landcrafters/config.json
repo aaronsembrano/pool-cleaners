@@ -1,0 +1,184 @@
+{
+  "folder_name": "landcrafters",
+  "company_name": "Landcrafters",
+  "tagline": "Award-Winning Landscape Design, Construction & Maintenance",
+  "phone": "+1 414-897-8232",
+  "email": "scott@landcrafterslandscaping.com",
+  "logo_path": "logo.png",
+  "review_count": "35",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#2d5a27",
+    "primary_dark": "#1e3d1a",
+    "primary_deeper": "#132a11",
+    "secondary": "#D4A843",
+    "cta": "#D4A843",
+    "cta_dark": "#B8922E"
+  },
+  "trust_badges": {
+    "badge_1": "Award-Winning Design",
+    "badge_2": "4.9/5 GuildQuality Rating",
+    "badge_3": "28+ Years in Milwaukee"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 35+ Google Reviews",
+    "badge_2": "28 Years of Excellence",
+    "headline": "Your Dream Landscape <span class=\"text-secondary italic\">Designed &<br>Built to Last</span>",
+    "subheadline": "Your outdoor space should inspire you every time you step outside. Landcrafters has been creating award-winning landscapes across Milwaukee for 28 years -- so you can enjoy a stunning yard without the stress of managing it yourself.",
+    "cta_text": "Start My Landscape Project",
+    "checkmarks": [
+      "Free design consultation",
+      "3D renderings included",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "28",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "5000",
+    "stat_3_label": "Plants Installed Yearly",
+    "stat_4_value": "100%",
+    "stat_4_label": "Recommendation Rate"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Landscape Services That Transform<br class=\"hidden md:block\"> Your Outdoor Living",
+    "subtitle": "From concept sketches to finished hardscapes, Landcrafters handles every detail so your yard becomes the space you have always wanted.",
+    "cards": [
+      {
+        "title": "Landscape Design & Architecture",
+        "description": "Custom landscape design with 3D renderings, master planning, and professional architecture tailored to your property, lifestyle, and Wisconsin climate."
+      },
+      {
+        "title": "Patios, Walkways & Hardscapes",
+        "description": "Expert installation of paver patios, flagstone walkways, retaining walls, and other hardscape features that add lasting beauty and function."
+      },
+      {
+        "title": "Custom Fire Pits & Outdoor Kitchens",
+        "description": "Design and build custom fire pits, outdoor kitchens, and gathering spaces that extend your living area into the outdoors year-round."
+      },
+      {
+        "title": "Pool Landscaping & Water Features",
+        "description": "Specialized landscaping around pools including plantings, hardscaping, drainage solutions, fountains, ponds, and decorative water elements."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Professional outdoor lighting design and installation to highlight architectural features, illuminate pathways, and create evening ambiance."
+      },
+      {
+        "title": "Planting & Maintenance",
+        "description": "Expert plant selection for Wisconsin's climate plus full-service maintenance including garden bed care, seasonal cleanups, and pruning."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Schedule Your Design Consultation",
+        "description": "Tell us about your vision. We will visit your property, listen to your ideas, and provide an honest assessment with a detailed proposal -- no pressure, no obligation."
+      },
+      {
+        "title": "Review Your Custom 3D Design",
+        "description": "Our award-winning designers create a detailed plan with 3D renderings so you can see your new landscape before a single shovel hits the ground."
+      },
+      {
+        "title": "Watch Your Yard Transform",
+        "description": "Our skilled crews bring the design to life with expert craftsmanship and quality materials. We handle every detail from start to final walkthrough."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Milwaukee Trusts Landcrafters",
+    "headline": "Not Just Landscapers -- Your Design-Build Partners Since 1998",
+    "description": "Founded in 1998, Landcrafters has spent over 28 years transforming outdoor spaces across the Milwaukee metro area. As a full design-build firm, we handle everything from the first sketch to the last stone. Our team brings award-winning design talent, expert craftsmanship, and a genuine passion for creating landscapes that families love for decades. Now backed by the Greenwise family, we combine local expertise with expanded sustainable capabilities.",
+    "badge": "Award-Winning Design",
+    "features": [
+      {
+        "title": "Full Design-Build Capability",
+        "description": "One team handles your entire project from concept through completion -- no subcontractor confusion, no finger-pointing, just seamless execution."
+      },
+      {
+        "title": "Projects for Every Budget",
+        "description": "Whether your project is $3,000 or $100,000, we bring the same award-winning design quality and attention to detail to every yard."
+      },
+      {
+        "title": "4.9/5 GuildQuality Rating",
+        "description": "Our clients consistently rate us 4.9 out of 5 on GuildQuality with a 100% recommendation rate. The results speak for themselves."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written proposal upfront. No hidden fees, no change-order surprises -- just honest pricing for exceptional work."
+  },
+  "guarantee": {
+    "headline": "Our \"Landscape for Life\" Guarantee",
+    "description": "If you are not completely satisfied with any aspect of our work, we will come back and make it right at no additional cost. We stand behind every plant, every paver, and every design decision. Your landscape should bring you joy for years to come, and we guarantee it will."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start my project?",
+      "answer": "Design consultations are typically scheduled within 1-2 weeks. Construction timelines depend on project scope and season, but we will give you a clear schedule during the proposal phase. Spring and fall book fast, so reaching out early is always smart."
+    },
+    {
+      "question": "Do you handle both design and construction?",
+      "answer": "Yes, we are a full design-build firm. That means one team handles everything from the initial concept and 3D rendering through construction and final walkthrough. No subcontractor confusion -- just seamless execution from start to finish."
+    },
+    {
+      "question": "What size projects do you take on?",
+      "answer": "We handle projects ranging from $3,000 garden refreshes to $100,000+ complete outdoor transformations. Whether you need a simple patio or an entire backyard redesign with fire pit, kitchen, and lighting, we bring the same quality and attention to detail."
+    },
+    {
+      "question": "Do your plants come with a warranty?",
+      "answer": "Yes. We stand behind our plant selections and installation. All plantings come with a warranty, and we choose species specifically suited to Wisconsin's climate so your landscape thrives season after season."
+    },
+    {
+      "question": "Do you offer ongoing maintenance?",
+      "answer": "Absolutely. We offer full-service landscape maintenance including garden bed care, seasonal cleanups, mulch installation, pruning, and ongoing property management to keep your investment looking its best year-round."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Pep S.",
+      "text": "David Guthery is a genius and a walking google of information on plant types. The design exceeded our expectations and the craftsmanship was outstanding.",
+      "context": "Brookfield, WI",
+      "initials": "PS"
+    },
+    {
+      "name": "Pat C.",
+      "text": "I was impressed with LandCrafters from the very first visit. He listened to exactly what we wanted and delivered a design that was both practical and beautiful.",
+      "context": "Waukesha, WI",
+      "initials": "PC"
+    },
+    {
+      "name": "Wally S.",
+      "text": "We are very satisfied with the quality of the work that was done. LandCrafters provided great guidance throughout the entire project and the results speak for themselves.",
+      "context": "Shorewood, WI",
+      "initials": "WS"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your<br>Outdoor Space?",
+    "subtitle": "Get a free design consultation and see what your yard could become. No pressure, no obligation -- just expert guidance from Milwaukee's trusted landscape team.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning landscape design-build firm. Serving Milwaukee since 1998.",
+    "service_area": "Serving Milwaukee, Brookfield, Waukesha, Shorewood & Surrounding Areas",
+    "services": [
+      "Landscape Design",
+      "Patios & Hardscapes",
+      "Fire Pits & Kitchens",
+      "Landscape Lighting",
+      "Maintenance"
+    ],
+    "copyright": "&copy; 2024 Landcrafters. All rights reserved. Part of the Greenwise family."
+  }
+}

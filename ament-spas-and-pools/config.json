@@ -1,0 +1,184 @@
+{
+  "folder_name": "ament-spas-and-pools",
+  "company_name": "Ament Spas & Pools",
+  "tagline": "Every Day Made Better",
+  "phone": "+1 320-252-0130",
+  "email": "dan@amentspas.com",
+  "logo_path": "logo.png",
+  "review_count": "80",
+  "review_rating": "4.3",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#112842",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#4a90d9",
+    "cta": "#e8a530",
+    "cta_dark": "#d0911e"
+  },
+  "trust_badges": {
+    "badge_1": "Authorized Hot Spring Dealer",
+    "badge_2": "4.3/5 from 80+ Reviews",
+    "badge_3": "Serving Central MN Since 1971"
+  },
+  "hero": {
+    "badge_1": "4.3/5 from 80+ Google Reviews",
+    "badge_2": "55+ Years in Business",
+    "headline": "Your Backyard Retreat <span class=\"text-secondary italic\">Starts Here</span>",
+    "subheadline": "For over 55 years, Central Minnesota families have trusted Ament Spas & Pools for hot tubs, pools, saunas, and cold plunge systems. From your first visit to years of relaxation, we make every day better.",
+    "cta_text": "Book a Free Backyard Consultation",
+    "checkmarks": [
+      "Free backyard consultation",
+      "Authorized Hot Spring dealer",
+      "55+ years of local expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Happy Families",
+    "stat_2_value": "55",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "40",
+    "stat_3_label": "Communities Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Warranty Backed"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Spas, Pools & Wellness<br class=\"hidden md:block\"> for Every Home",
+    "subtitle": "From therapeutic hot tubs to backyard pools and saunas, Ament Spas & Pools brings relaxation and wellness to your doorstep with products and service you can trust.",
+    "cards": [
+      {
+        "title": "Hot Spring Spa Sales",
+        "description": "Authorized dealer for Hot Spring spas including Highlife, Limelight, and Hot Spot collections. Premium hot tubs for relaxation, therapy, and family fun."
+      },
+      {
+        "title": "Pool Sales & Installation",
+        "description": "Complete pool solutions featuring Carvin above-ground, Titan inground, and Cardinal Ultimate hybrid pools for every backyard and budget."
+      },
+      {
+        "title": "Sauna Systems",
+        "description": "Tylo sauna systems including traditional, infrared, and hybrid models. Bring the full spa experience to your home year-round."
+      },
+      {
+        "title": "Cold Plunge Systems",
+        "description": "Vigor brand cold plunge tubs for recovery and wellness. The perfect complement to your hot tub and sauna routine."
+      },
+      {
+        "title": "Water Care & Supplies",
+        "description": "Professional water care systems and supplies for spas and pools. Keep your water clean, balanced, and safe all year long."
+      },
+      {
+        "title": "Service & Repairs",
+        "description": "Authorized warranty service for all Watkins Manufacturing products plus general spa and pool repairs. Fast, reliable, factory-trained technicians."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Backyard",
+    "steps": [
+      {
+        "title": "Book a Free Consultation",
+        "description": "Tell us about your backyard vision. We'll visit your home, discuss your goals, and recommend the perfect spa, pool, or sauna setup for your space and budget."
+      },
+      {
+        "title": "We Handle the Details",
+        "description": "From product selection to delivery and installation, our team with 55+ years of combined expertise manages every step. No stress, no surprises."
+      },
+      {
+        "title": "Relax & Enjoy",
+        "description": "Your backyard retreat is ready. Soak in your hot tub, cool down in your pool, or unwind in your sauna. And we're always here for service and support."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central Minnesota Trusts Us",
+    "headline": "Family-Founded, Owner-Operated, Built on 55 Years of Trust",
+    "description": "Founded by Bob and Karen Ament in 1971, Ament Spas & Pools has been Central Minnesota's trusted source for backyard wellness for over five decades. Current owner Dan Kasper brings 20+ years of personal industry expertise, continuing the tradition of honest advice, quality products, and service that treats every customer like family.",
+    "badge": "Authorized Hot Spring Dealer",
+    "features": [
+      {
+        "title": "55+ Years of Local Expertise",
+        "description": "Since 1971, families across 40+ Central Minnesota communities have trusted us for spas, pools, and saunas."
+      },
+      {
+        "title": "Factory-Authorized Service",
+        "description": "As an authorized Watkins Manufacturing warranty provider, we service what we sell with factory-trained expertise."
+      },
+      {
+        "title": "Full Backyard Wellness",
+        "description": "Spas, pools, saunas, and cold plunge systems — everything you need for relaxation, recovery, and family fun under one roof."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every product and service comes with upfront pricing and honest guidance. We help you find the right fit for your budget."
+  },
+  "guarantee": {
+    "headline": "Our \"Every Day Made Better\" Guarantee",
+    "description": "If you're not completely satisfied with your purchase or service, we'll make it right. With factory-authorized warranty service and a 55-year reputation to uphold, your satisfaction isn't just a promise — it's our legacy."
+  },
+  "faqs": [
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We are an authorized Hot Spring spa dealer, carrying the Highlife, Limelight, and Hot Spot collections. We also offer Freeflow spas for budget-friendly options. Every spa comes with factory warranty and our local service support."
+    },
+    {
+      "question": "Do you offer delivery and installation?",
+      "answer": "Yes! We handle everything from site preparation advice to delivery and setup. Our team ensures your spa, pool, or sauna is installed correctly and ready to enjoy from day one."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Saint Cloud and 40+ communities across Central Minnesota, including Benton, Meeker, Morrison, Sherburne, Stearns, and Wright counties. Give us a call to confirm service in your area."
+    },
+    {
+      "question": "Do you service spas and pools you didn't sell?",
+      "answer": "We are an authorized warranty service provider for all Watkins Manufacturing products. We also offer general spa and pool repairs. Contact us to discuss your service needs."
+    },
+    {
+      "question": "Can I try a hot tub before I buy?",
+      "answer": "Absolutely! Visit our showroom at 2245 Roosevelt Road in Saint Cloud to see our models on display. We'll walk you through features, pricing, and help you find the perfect fit for your home."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Larry P.",
+      "text": "Ament Spas & Pools has been a pleasure to do business with! The spa has been trouble free for the four plus years we have had it.",
+      "context": "Long-term spa owner",
+      "initials": "LP"
+    },
+    {
+      "name": "John & Natalie",
+      "text": "We're so delighted with the spa and it has taken all the pain out of the muscle in my back that is a result of the scoliosis.",
+      "context": "Therapeutic spa benefit",
+      "initials": "JN"
+    },
+    {
+      "name": "Jeff",
+      "text": "Love my spa we just bought our second spa from Ament. Same great buying experience.",
+      "context": "Repeat customer",
+      "initials": "JF"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your Backyard<br>Retreat?",
+    "subtitle": "Book a free consultation and discover the perfect spa, pool, or sauna for your home. No pressure, no obligation — just honest advice from people who have been doing this since 1971.",
+    "benefits": [
+      "Free backyard consultation",
+      "Response within 24 hours",
+      "55+ years of trusted expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-founded in 1971. Serving Central Minnesota for 55+ years.",
+    "service_area": "Serving Saint Cloud & 40+ Central MN Communities",
+    "services": [
+      "Hot Spring Spas",
+      "Pool Installation",
+      "Sauna Systems",
+      "Cold Plunge",
+      "Service & Repairs"
+    ],
+    "copyright": "&copy; 2024 Ament Spas & Pools. All rights reserved."
+  }
+}
