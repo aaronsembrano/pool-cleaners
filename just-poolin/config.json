@@ -1,180 +1,179 @@
 {
   "folder_name": "just-poolin",
   "company_name": "Just Poolin' Pool Service",
-  "tagline": "Nashville's Owner-Operated Pool Care",
+  "tagline": "Your Trusted Partner in Pool Care and Maintenance",
   "phone": "+1 615-461-0796",
   "email": "info@justpoolin.com",
-  "logo_path": "",
   "review_count": "2",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#1a73e8",
-    "primary_dark": "#0d47a1",
-    "primary_deeper": "#092e6b",
-    "secondary": "#4fc3f7",
-    "cta": "#e8822a",
-    "cta_dark": "#d06a15"
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0d2a3d",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
   },
   "trust_badges": {
     "badge_1": "Certified Pool Professionals",
-    "badge_2": "5.0/5 on Google",
-    "badge_3": "Mon–Sat Availability"
+    "badge_2": "5.0/5 Google Rated",
+    "badge_3": "Owner-Operated Service"
   },
   "hero": {
     "badge_1": "5.0/5 from Google Reviews",
-    "badge_2": "Owner-Operated Service",
-    "headline": "Your Nashville Pool, <span class=\"text-secondary italic\">Treated Like<br>Our Own</span>",
-    "subheadline": "Hunter and the Just Poolin' crew handle every chemical check, every skim, every equipment tune-up so you never lift a finger. From Belle Meade estates to Airbnb rentals across Nashville, we keep your water crystal clear and guest-ready.",
-    "cta_text": "Get Your Pool Dialed In",
+    "badge_2": "Owner-Operated & Hands-On",
+    "headline": "Nashville's Pool Pro <span class=\"text-secondary italic\">at Your<br>Service</span>",
+    "subheadline": "Your pool should be the best part of your day, not a weekend chore. Just Poolin' handles every detail so you can skip the chemicals and cannonball straight in.",
+    "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
-      "Free pool evaluation",
-      "Same-week start available",
-      "Owner on every job"
+      "Free pool inspection",
+      "Same-week service available",
+      "100% satisfaction guaranteed"
     ]
   },
   "stats": {
     "stat_1_value": "50",
-    "stat_1_label": "Pools Maintained",
+    "stat_1_label": "Happy Pool Owners",
     "stat_2_value": "2",
     "stat_2_label": "Years Serving Nashville",
-    "stat_3_value": "100",
-    "stat_3_label": "Green-to-Cleans Done",
+    "stat_3_value": "500",
+    "stat_3_label": "Service Visits Completed",
     "stat_4_value": "100%",
-    "stat_4_label": "5-Star Reviews"
+    "stat_4_label": "5-Star Satisfaction"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Pool & Spa Care Built Around<br class=\"hidden md:block\"> Your Nashville Lifestyle",
-    "subtitle": "Whether you need weekly upkeep, a seasonal open or close, or your Airbnb rental pool kept spotless between guests, Just Poolin' has you covered six days a week.",
+    "label": "Our Pool Services",
+    "headline": "Pool Care Tailored to<br class=\"hidden md:block\"> Your Nashville Home",
+    "subtitle": "From weekly maintenance to emergency green pool rescues, we handle it all so your backyard stays swim-ready every single day.",
     "cards": [
       {
         "title": "Weekly Pool Service",
-        "description": "Thorough skimming, vacuuming, water chemistry testing, chemical balancing, and full equipment inspection every visit. Your pool stays swim-ready week after week."
+        "description": "Comprehensive weekly cleaning, skimming, vacuuming, chemical balancing, and equipment checks to keep your pool sparkling all season long."
       },
       {
-        "title": "Green to Clean",
-        "description": "Neglected pool gone swamp-green? We bring it back to crystal-clear with our proven algae elimination and restoration process — typically in 48 to 72 hours."
+        "title": "Green Pool Cleaning",
+        "description": "Pool turned swamp-green? We bring it back to crystal-clear with expert algae elimination and full chemical rebalancing — fast."
       },
       {
         "title": "Pool Opening",
-        "description": "Get summer-ready fast. We handle equipment startup, debris removal, chemical balancing, and a full systems check so your first swim day is worry-free."
+        "description": "Seasonal opening done right: cover removal, chemistry balancing, equipment prep, and a complete system inspection so you're swim-ready on day one."
       },
       {
-        "title": "Pool Closing",
-        "description": "Protect your investment over Tennessee winters. We winterize plumbing, balance chemicals, secure covers, and safeguard equipment against freeze damage."
+        "title": "Pool Closing & Winterization",
+        "description": "Full winterization including thorough cleaning, chemical treatment, equipment care, and cover installation to protect your pool all winter."
       },
       {
         "title": "Hot Tub Maintenance",
-        "description": "Complete spa care including water chemistry management, jet and filter cleaning, and equipment checks to keep your hot tub running perfectly year-round."
+        "description": "Professional spa cleaning and water balancing that keeps your hot tub pristine, safe, and ready for relaxation year-round."
       },
       {
         "title": "Airbnb Pool Maintenance",
-        "description": "Specialized care for short-term rental owners. We keep your pool guest-ready between bookings so your reviews stay five-star and your guests keep coming back."
+        "description": "Specialized service for rental property owners. We keep your pool guest-ready and properly maintained between every booking."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Easy Steps to a Sparkling Pool",
+    "headline": "Three Steps to a Stress-Free Pool",
     "steps": [
       {
         "title": "Tell Us About Your Pool",
-        "description": "Call or text Hunter directly. We'll learn about your pool, schedule a free evaluation, and give you an honest quote — no pressure, no obligations."
+        "description": "Reach out by phone or form. We'll ask a few questions about your pool and schedule a free on-site inspection at a time that works for you."
       },
       {
-        "title": "We Take It From Here",
-        "description": "Our certified team arrives on your schedule, Monday through Saturday. Cleaning, chemicals, equipment checks — everything handled like it's our own pool."
+        "title": "Hunter Handles the Rest",
+        "description": "Our certified owner-operator arrives on time, every time. Cleaning, chemistry, equipment — every detail is handled with care and expertise."
       },
       {
-        "title": "Just Jump In",
-        "description": "Your pool stays crystal clear and swim-ready every single week. If anything isn't perfect, we come back and make it right — that's the Just Poolin' promise."
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready all season. If anything is ever off, we come back and make it right — no questions asked."
       }
     ]
   },
   "about": {
-    "label": "Why Nashville Trusts Just Poolin'",
-    "headline": "Owner-Operated Means Your Pool Gets the Attention It Deserves",
-    "description": "Founded in 2024 by Hunter, Just Poolin' was built on one simple idea: treat every pool like it's your own. As an owner-operated business, Hunter is personally involved in every service call — no faceless crews, no shortcuts. We serve Nashville's finest neighborhoods including Belle Meade, Green Hills, and Forest Hills, and we specialize in keeping Airbnb pools guest-ready around the clock.",
-    "badge": "Certified Pool Pro",
+    "label": "Why Nashville Trusts Us",
+    "headline": "Owner-Operated, Personally Delivered Pool Care",
+    "description": "Just Poolin' was founded by Hunter in 2024 with one simple mission: make your pool the highlight of your day. As an owner-operated business, every visit gets the same hands-on attention and certified expertise. We serve Nashville's finest neighborhoods including Belle Meade, Green Hills, and East Nashville — treating every pool like it's our own.",
+    "badge": "Certified Pool Professional",
     "features": [
       {
         "title": "Owner on Every Job",
-        "description": "Hunter personally oversees your pool care. You're never handed off to a random technician — you get the same consistent, quality service every visit."
+        "description": "Hunter personally handles your service — no rotating crews, no strangers. You get consistent, accountable care every single visit."
       },
       {
-        "title": "Six-Day Availability",
-        "description": "We work Monday through Saturday to fit your schedule, not the other way around. Flexible timing for busy homeowners and rental property managers."
+        "title": "Certified Water Chemistry Experts",
+        "description": "Precise chemical balancing that keeps your water safe, clear, and gentle on skin. No guesswork, just science."
       },
       {
-        "title": "Your Satisfaction, Guaranteed",
-        "description": "Not happy with a visit? We come back and redo it at no charge. We earn your trust every single time we show up at your pool."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We come back and redo it at no charge. Your satisfaction is the only metric that matters."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. Zero Surprises.",
-    "subtitle": "Choose the plan that fits your pool. No contracts, no hidden fees — just honest Nashville pool care."
+    "subtitle": "Choose the plan that fits your pool. Flexible options, honest rates — no hidden fees or long-term contracts."
   },
   "guarantee": {
-    "headline": "Our \"Treat It Like Our Own\" Guarantee",
-    "description": "If you're not completely satisfied with any service visit, call or text Hunter directly and we'll come back to make it right — free of charge, no questions asked. We built Just Poolin' on personal accountability, and we stand behind every single visit. Your pool deserves nothing less."
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, we'll come back and redo it completely free of charge. No fine print, no runaround. Hunter personally stands behind every visit because your pool deserves nothing less than perfect."
   },
   "faqs": [
     {
-      "question": "How fast can you start servicing my pool?",
-      "answer": "Most new clients are on the schedule within 3 to 5 days. For green pool emergencies, we offer next-day response. Just call or text Hunter at 615-461-0796 and we'll get you set up."
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Nashville area are scheduled within 3-5 business days. For green pool emergencies, we offer next-day response. Just call Hunter directly and we'll get you on the schedule fast."
     },
     {
       "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most of our Nashville clients provide gate or yard access, and we handle everything while you're away. You'll get a service update after each visit so you know exactly what was done."
+      "answer": "Not at all! Most clients provide gate access and we handle everything while you're away. You'll get a service update after each visit so you always know exactly what was done."
     },
     {
       "question": "Do you service Airbnb and rental properties?",
-      "answer": "Absolutely — it's one of our specialties. We keep your pool guest-ready between bookings and can coordinate service around your rental calendar so your property always looks its best."
+      "answer": "Absolutely. We specialize in keeping rental property pools guest-ready at all times. We coordinate with your booking schedule to ensure the pool is pristine for every arrival."
     },
     {
       "question": "What areas of Nashville do you serve?",
-      "answer": "We serve Nashville, Belle Meade, Green Hills, East Nashville, West Meade, Sylvan Park, Franklin, Brentwood, Mount Juliet, and Forest Hills. If you're in the greater Nashville area, give us a call."
+      "answer": "We serve Belle Meade, Green Hills, East Nashville, West Meade, Sylvan Park, Franklin, Brentwood, Mount Juliet, Forest Hills, and surrounding Nashville communities."
     },
     {
-      "question": "Are you locked into a contract?",
-      "answer": "Never. We don't do contracts at Just Poolin'. We believe in earning your business every visit. You can cancel anytime with zero fees and zero hassle."
+      "question": "Do you offer hot tub maintenance too?",
+      "answer": "Yes! We provide full hot tub cleaning and maintenance services including water chemistry balancing, filter cleaning, and sanitization to keep your spa ready for relaxation year-round."
     }
   ],
   "testimonials": [
     {
       "name": "Maranda H.",
+      "text": "Hunter is a very professional hard working young man. He's always open to my ideas and questions about our pool. So appreciated!",
       "context": "Google Review",
-      "initials": "MH",
-      "text": "Hunter is a very professional hard working young man. He's always open to my ideas and questions about our pool."
+      "initials": "MH"
     },
     {
-      "name": "Nextdoor Neighbor",
-      "context": "Nextdoor Recommendation",
-      "initials": "NN",
-      "text": "Would highly recommend Just Poolin'. Hunter has done a great job servicing our pool and treated it like his own!"
+      "name": "Nextdoor Reviewer",
+      "text": "Hunter has done a great job servicing our pool and treated it like his own! Would highly recommend Just Poolin'.",
+      "context": "Nextdoor Review",
+      "initials": "NR"
     },
     {
       "name": "Nashville Homeowner",
-      "context": "Client Feedback",
-      "initials": "NH",
-      "text": "We needed someone reliable for our Belle Meade pool and Hunter delivered from day one. Shows up on time, communicates clearly, and our pool has never looked better."
+      "text": "Finally found a pool service that actually shows up on time and does thorough work. Hunter treats our pool like it's his own backyard. Highly recommend to anyone in the Nashville area.",
+      "context": "Belle Meade Client",
+      "initials": "NH"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
-    "subtitle": "Text or call Hunter for a free, no-pressure pool evaluation. No contracts, no commitments — just honest service from a Nashville local who treats your pool like his own.",
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free, no-pressure quote from Hunter himself. No contracts, no commitments — just honest pricing for Nashville's best pool care.",
     "benefits": [
-      "Free pool evaluation with every quote",
-      "Same-week start available",
-      "Owner-operated, every single visit"
+      "Free on-site pool inspection",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
     ]
   },
   "footer": {
     "description": "Owner-operated pool service proudly serving Nashville and surrounding communities since 2024.",
-    "service_area": "Serving Nashville, Belle Meade, Green Hills, Franklin & Brentwood",
+    "service_area": "Serving Nashville, Belle Meade, Green Hills & Surrounding Areas",
     "services": [
       "Weekly Pool Service",
-      "Green to Clean",
+      "Green Pool Cleaning",
       "Pool Opening & Closing",
       "Hot Tub Maintenance",
       "Airbnb Pool Care"

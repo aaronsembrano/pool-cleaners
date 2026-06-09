@@ -1,0 +1,183 @@
+{
+  "folder_name": "bark-a-bout-pet-resort",
+  "company_name": "Bark-A-Bout Pet Resort",
+  "tagline": "Where Every Pet is Unleash'd & Luv'd",
+  "phone": "+1 586-566-8900",
+  "email": "michelle@barkabout.net",
+  "review_count": "1088",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#2E86C1",
+    "primary_dark": "#1B4F72",
+    "primary_deeper": "#0E2F44",
+    "secondary": "#F39C12",
+    "cta": "#E67E22",
+    "cta_dark": "#D35400"
+  },
+  "trust_badges": {
+    "badge_1": "Fear-Free Certified",
+    "badge_2": "4.8/5 from 1,088+ Reviews",
+    "badge_3": "17 Years Trusted"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 1,088+ Google Reviews",
+    "badge_2": "Fear-Free Certified Facility",
+    "headline": "Your Pet's Five-Star <span class=\"text-secondary italic\">Home Away<br>From Home</span>",
+    "subheadline": "Leaving your pet shouldn't mean leaving your peace of mind. At Bark-A-Bout, our 30,000 sq ft resort provides luxury boarding, enrichment daycare, and spa-level grooming — so your best friend thrives while you're away.",
+    "cta_text": "Book a Meet~N~Greet",
+    "checkmarks": [
+      "Live webcam access for pet parents",
+      "30,000 sq ft indoor/outdoor facility",
+      "Certified enrichment programs"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1088",
+    "stat_1_label": "Happy Pet Families",
+    "stat_2_value": "17",
+    "stat_2_label": "Years of Trusted Care",
+    "stat_3_value": "30000",
+    "stat_3_label": "Sq Ft Resort Facility",
+    "stat_4_value": "4.8★",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Everything Your Pet Needs<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From luxury boarding to enrichment daycare and spa grooming, Bark-A-Bout is your pet's complete care destination in Shelby Township.",
+    "cards": [
+      {
+        "title": "Pet Hotel & Boarding",
+        "description": "Five-star luxury boarding with personalized care plans, live webcam access, and premium amenities in our state-of-the-art resort facility."
+      },
+      {
+        "title": "Dog Daycare",
+        "description": "Full-day structured programs with supervised play, socialization, and enrichment activities that keep your dog happy, active, and tired by pickup."
+      },
+      {
+        "title": "Enrichment Daycare",
+        "description": "Macomb County's first certified enrichment program featuring mind-engaging activities designed to stimulate dogs mentally and physically all day."
+      },
+      {
+        "title": "Dog Training",
+        "description": "Rewards-based obedience classes for all ages and skill levels — from puppy basics to advanced training. Build confidence and good behavior."
+      },
+      {
+        "title": "Fear-Free Grooming & Spa",
+        "description": "Metro Detroit's first Fear-Free Certified grooming spa. Stress-free baths, haircuts, and spa treatments that leave your pup looking and feeling great."
+      },
+      {
+        "title": "Aquatics & Swimming",
+        "description": "Indoor heated pool for water-loving dogs. Year-round exercise and fun in a safe, climate-controlled environment supervised by trained staff."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Happy Tails",
+    "steps": [
+      {
+        "title": "Schedule a Meet~N~Greet",
+        "description": "Every new pup starts with a temperament evaluation. We learn your dog's personality to ensure they're matched with the right playgroup and care plan."
+      },
+      {
+        "title": "We Pamper Your Pet",
+        "description": "From supervised play and enrichment activities to luxury boarding suites and spa grooming — your pet gets five-star treatment from our trained team."
+      },
+      {
+        "title": "Pick Up a Happy Pup",
+        "description": "Watch via live webcam anytime. When you arrive, your pet is tired, happy, and ready to snuggle. That's the Bark-A-Bout difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pet Parents Trust Us",
+    "headline": "More Than a Kennel — We're Your Pet's Second Family",
+    "description": "Founded in 2009, Bark-A-Bout is a 30,000 square-foot pet resort in Shelby Township that has set the standard for premium pet care in Metro Detroit. As the area's first Fear-Free Certified Grooming Spa and Macomb County's first certified enrichment daycare, we go beyond basic boarding. With 17 years of trusted service and over 1,088 five-star reviews, our team treats every pet like family.",
+    "badge": "Fear-Free Certified",
+    "features": [
+      {
+        "title": "Fear-Free Certified Facility",
+        "description": "Metro Detroit's first Fear-Free Certified grooming spa ensures every visit is stress-free and positive for your pet."
+      },
+      {
+        "title": "Unleash'd Membership Program",
+        "description": "Priority booking, reduced rates, and exclusive perks for our most loyal pet families. Because regulars deserve VIP treatment."
+      },
+      {
+        "title": "Live Webcam Access",
+        "description": "Watch your pet play, nap, and socialize from anywhere. Real-time peace of mind for pet parents who miss their fur babies."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Premium Care.",
+    "subtitle": "Choose the service that fits your pet's needs. Ask about our Unleash'd Membership for priority booking and reduced rates."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Pet\" Guarantee",
+    "description": "If your pet isn't tail-wagging happy with their experience, we'll make it right. Every service comes with our commitment to your pet's comfort and your complete satisfaction. That's what 17 years of trusted care looks like."
+  },
+  "faqs": [
+    {
+      "question": "What is a Meet~N~Greet and is it required?",
+      "answer": "Yes, every new dog must complete a Meet~N~Greet before their first daycare or boarding visit. It's a temperament and personality evaluation that helps us place your pup in the right playgroup. This ensures safety and compatibility for all our guests."
+    },
+    {
+      "question": "Can I watch my pet while they're at the resort?",
+      "answer": "Absolutely! We offer live webcam access so you can check in on your pet anytime, anywhere. It's a favorite feature among our pet parents — watch your pup play, nap, and make new friends from your phone or computer."
+    },
+    {
+      "question": "What makes your grooming different?",
+      "answer": "We're Metro Detroit's first Fear-Free Certified Grooming Enrichment Spa. That means every grooming session is designed to minimize stress and maximize comfort. Our certified groomers use gentle techniques and enrichment-based approaches so your pet actually enjoys the experience."
+    },
+    {
+      "question": "What is the Unleash'd Membership Program?",
+      "answer": "Our Unleash'd Membership gives you priority booking, reduced rates on daycare and boarding, and exclusive perks. It's perfect for pet parents who use our services regularly and want the best value and VIP treatment."
+    },
+    {
+      "question": "Do you have an indoor pool for dogs?",
+      "answer": "Yes! Our heated indoor swimming pool is available year-round. It's perfect for water-loving dogs who want exercise and fun in a safe, climate-controlled environment. Pool sessions are supervised by trained staff at all times."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Suzanne N.",
+      "context": "First visit experience",
+      "initials": "SN",
+      "text": "Absolutely love this place! Everyone was kind and made our first day pleasant. You can tell the staff genuinely cares about every dog that walks through the door."
+    },
+    {
+      "name": "Brent H.",
+      "context": "Long-time customer",
+      "initials": "BH",
+      "text": "We took our last dog to Bark-A-Bout many times and it has always been a safe and well run business. Staff is welcoming and very pet friendly. Highly recommended!"
+    },
+    {
+      "name": "Patricia O.",
+      "context": "Grooming service",
+      "initials": "PO",
+      "text": "Cooper came home perfectly groomed and soooo happy. The Fear-Free approach really makes a difference — no more stressful grooming days for our pup!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Give Your Pet<br>the VIP Treatment?",
+    "subtitle": "Schedule a Meet~N~Greet today and see why 1,088+ pet families trust Bark-A-Bout. No pressure, just happy tails.",
+    "benefits": [
+      "Free Meet~N~Greet temperament evaluation",
+      "Live webcam access from day one",
+      "Unleash'd Membership savings available"
+    ]
+  },
+  "footer": {
+    "description": "Shelby Township's premier pet resort. Serving Metro Detroit pet families for 17+ years.",
+    "service_area": "Serving Shelby Township, Utica, Auburn Hills, Sterling Heights & Surrounding Areas",
+    "services": [
+      "Pet Hotel & Boarding",
+      "Dog Daycare",
+      "Enrichment Programs",
+      "Grooming & Spa",
+      "Aquatics & Swimming"
+    ],
+    "copyright": "&copy; 2024 Bark-A-Bout Pet Resort. All rights reserved."
+  }
+}

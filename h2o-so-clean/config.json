@@ -9,175 +9,175 @@
   "colors": {
     "primary": "#0077B6",
     "primary_dark": "#005A8C",
-    "primary_deeper": "#003D5F",
+    "primary_deeper": "#003D5C",
     "secondary": "#00B4D8",
-    "cta": "#F77F00",
-    "cta_dark": "#D96A00"
+    "cta": "#F97316",
+    "cta_dark": "#EA580C"
   },
   "trust_badges": {
-    "badge_1": "CPO Certified & Licensed",
-    "badge_2": "5.0/5 from 33 Reviews",
-    "badge_3": "Free $220 Consultation"
+    "badge_1": "Licensed Contractor #1067459",
+    "badge_2": "5.0/5 from 33+ Reviews",
+    "badge_3": "Certified Pool Operator"
   },
   "hero": {
     "badge_1": "5.0/5 from 33+ Google Reviews",
-    "badge_2": "Free $220 Consultation",
-    "headline": "San Diego's Most Trusted <span class=\"text-secondary italic\">Pool Care Pro</span>",
-    "subheadline": "Get a free consultation worth $220 — including a 13-factor water chemistry analysis and 45-point equipment inspection. Daniel and the H2O So Clean team deliver honest, reliable pool care with no surprises and no hidden fees.",
-    "cta_text": "Claim Your Free Consultation",
+    "badge_2": "CPO Certified #623805",
+    "headline": "San Diego's Most Trusted <span class=\"text-secondary italic\">Pool Care Team</span>",
+    "subheadline": "Your pool deserves more than a guy with a net. H2O So Clean delivers certified, detail-obsessed service with 13-factor water testing and 45-point equipment inspections — so you never worry about your pool again.",
+    "cta_text": "Claim Your Free $220 Consultation",
     "checkmarks": [
       "Free $220 consultation included",
-      "Same-day & next-day availability",
-      "No hidden fees — ever"
+      "Same-day response available",
+      "No contracts ever"
     ]
   },
   "stats": {
-    "stat_1_value": "33",
-    "stat_1_label": "Five-Star Reviews",
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
     "stat_2_value": "8",
-    "stat_2_label": "Years Serving San Diego",
-    "stat_3_value": "45",
-    "stat_3_label": "Point Equipment Inspection",
+    "stat_2_label": "Years in San Diego",
+    "stat_3_value": "33",
+    "stat_3_label": "5-Star Reviews",
     "stat_4_value": "5.0",
     "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool, Spa & Fountain<br class=\"hidden md:block\"> Care Under One Roof",
-    "subtitle": "From weekly maintenance to emergency repairs, Daniel and the H2O So Clean team handle every aspect of your pool, spa, and fountain — so you can relax and enjoy the water.",
+    "headline": "Complete Pool, Spa & Fountain Care<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From weekly cleanings to emergency repairs, H2O So Clean handles every detail so you can enjoy your backyard oasis without lifting a finger.",
     "cards": [
       {
-        "title": "Weekly Pool Service",
-        "description": "Comprehensive weekly maintenance including water chemistry testing, skimming, brushing, vacuuming, and chemical balancing — your pool stays crystal clear year-round."
+        "title": "Pool Service & Maintenance",
+        "description": "Comprehensive weekly and bi-weekly cleaning with chemical balancing, skimming, and filter care. Your pool stays crystal clear and swim-ready all year."
       },
       {
-        "title": "Pool Repairs",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, and plumbing. Most issues resolved same-visit so your pool is back up and running fast."
+        "title": "Equipment Repairs & Installation",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, and automation systems. Most repairs completed same-visit with parts on hand."
       },
       {
-        "title": "Spa Service & Repairs",
-        "description": "Complete spa and hot tub maintenance, servicing, and repair. We keep your spa clean, safe, and performing at its best every soak."
+        "title": "Spa & Hot Tub Care",
+        "description": "Dedicated spa maintenance including water chemistry balancing, jet cleaning, and equipment checks for a safe, relaxing soak every time."
       },
       {
-        "title": "Pool & Spa Installation",
-        "description": "Professional installation of new pools, spas, and related equipment — quality craftsmanship backed by our California Contractor's License."
+        "title": "13-Factor Water Testing",
+        "description": "Laboratory-grade water chemistry analysis covering 13 critical factors. Perfectly balanced water that's gentle on skin and tough on contaminants."
       },
       {
-        "title": "Fountain Service & Repairs",
-        "description": "Maintenance, cleaning, and repair for residential and commercial fountains. We keep your water features running beautifully and efficiently."
+        "title": "Fountain Maintenance",
+        "description": "Professional fountain cleaning, water treatment, and pump service to keep decorative water features running beautifully year-round."
       },
       {
-        "title": "Equipment Inspection",
-        "description": "Our thorough 45-point equipment inspection and system efficiency evaluation catches small issues before they become expensive problems."
+        "title": "45-Point Equipment Inspections",
+        "description": "Thorough evaluation of every component — pumps, filters, heaters, plumbing, and electrical — to catch problems before they become expensive."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Sparkling Pool",
+    "headline": "Three Steps to a Perfect Pool",
     "steps": [
       {
-        "title": "Book Your Free Consultation",
-        "description": "Schedule your complimentary $220-value consultation. Daniel will perform a 13-factor water chemistry analysis and 45-point equipment inspection — no obligation, no pressure."
+        "title": "Schedule Your Free Consultation",
+        "description": "Call or fill out our form. We'll set up a free consultation that includes a full service, 13-factor water chemistry test, equipment check, and efficiency evaluation — a $220 value."
       },
       {
-        "title": "Get Your Custom Care Plan",
-        "description": "Based on your pool's specific needs, we build a personalized service plan with transparent pricing. You'll know exactly what you're paying for — no hidden fees."
+        "title": "We Inspect & Service Everything",
+        "description": "Daniel or one of our CPO-certified techs arrives on time with a 45-point checklist. We test, clean, inspect, and optimize — then walk you through exactly what your pool needs."
       },
       {
-        "title": "Dive In & Relax",
-        "description": "We handle everything from chemicals to equipment checks on a reliable schedule. Your pool stays swim-ready, and if anything's ever off, we make it right — guaranteed."
+        "title": "Relax by Your Perfect Pool",
+        "description": "Your pool stays pristine week after week with transparent service reports and responsive support. If anything is ever off, we come back and make it right — no questions asked."
       }
     ]
   },
   "about": {
     "label": "Why San Diego Trusts H2O So Clean",
-    "headline": "Owner-Operated Service — Daniel Handles Your Pool Personally",
-    "description": "Founded in 2018, H2O So Clean is built on one simple idea: pool care should be honest, professional, and done right the first time. Owner Daniel is a Certified Pool Operator (CPO #623805) and holds a California Contractor's License (#1067459). Every client gets the same hands-on attention — because your pool deserves an expert, not a rotating crew of strangers.",
-    "badge": "CPO #623805 Certified",
+    "headline": "Certified Expertise Meets Honest, Personal Service",
+    "description": "Founded by Daniel in 2018 right here in Carmel Valley, H2O So Clean was built on a simple idea: pool owners deserve expert care at fair prices with zero runaround. As a Certified Pool Operator (#623805) and licensed California contractor (#1067459), Daniel brings technical precision to every job. Our team has earned a perfect 5.0-star rating because we treat every pool like our own — and every customer like a neighbor.",
+    "badge": "CPO #623805",
     "features": [
       {
-        "title": "Licensed & Certified Operator",
-        "description": "Daniel holds both a CPO certification and a California Contractor's License — the credentials that separate professionals from hobbyists."
+        "title": "Certified & Licensed Professionals",
+        "description": "Every job backed by CPO certification and a California contractor's license. Real credentials, real accountability."
       },
       {
-        "title": "Transparent, Fair Pricing",
-        "description": "No hidden fees, no surprise charges, no upselling. You get honest pricing upfront so you always know exactly what you're paying for."
+        "title": "No Upselling. Honest Pricing.",
+        "description": "We quote fair prices and stick to them. Daniel has been known to help customers without even charging — that's the kind of company this is."
       },
       {
-        "title": "Same-Day & Next-Day Response",
-        "description": "While other companies schedule weeks out, H2O So Clean is known for fast response times. Urgent issue? We'll be there when you need us."
+        "title": "Same-Day Response Guaranteed",
+        "description": "While other companies schedule weeks out, we pick up the phone and show up fast. Your pool emergency is our priority."
       }
     ]
   },
   "pricing": {
-    "headline": "Fair Pricing. Zero Surprises.",
-    "subtitle": "Every plan includes our 13-factor water chemistry analysis. No contracts, no hidden fees — just honest pool care you can count on."
+    "headline": "Fair Pricing. No Surprises.",
+    "subtitle": "Transparent quotes with no hidden fees. Start with a free $220 consultation and pick the plan that fits your pool."
   },
   "guarantee": {
     "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you're not completely satisfied with any service visit, Daniel will personally return and make it right at no additional charge. With a perfect 5.0-star Google rating across 33 reviews, our track record speaks for itself — but our guarantee ensures you never have to worry."
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've maintained a perfect 5.0-star rating because we don't consider the job done until you're thrilled. Your satisfaction isn't just a promise — it's the standard we've built our reputation on."
   },
   "faqs": [
     {
       "question": "What's included in the free $220 consultation?",
-      "answer": "Your complimentary consultation includes a comprehensive 13-factor water chemistry analysis, a 45-point equipment inspection, and a system efficiency evaluation. Daniel personally reviews everything and provides recommendations with transparent pricing — no obligation whatsoever."
+      "answer": "You get a full pool service, a 13-factor water chemistry test, a complete equipment inspection, and a system efficiency evaluation — all free. We'll walk you through our findings and recommend a plan, with zero pressure to commit."
     },
     {
-      "question": "How quickly can you start service?",
-      "answer": "We're known for being faster than the competition. Many clients are scheduled within 1-2 days, and we offer same-day or next-day availability for urgent repairs. Just call Daniel directly and we'll work with your schedule."
+      "question": "How fast can you get to my pool?",
+      "answer": "Most new clients are scheduled within a few days. For urgent situations like equipment failures or water issues, we offer same-day response. We're known for showing up when other companies make you wait weeks."
     },
     {
-      "question": "Do you service spas and fountains too?",
-      "answer": "Absolutely. We provide full-service maintenance, repair, and installation for pools, spas, hot tubs, and fountains — both residential and commercial. One call covers all your water features."
+      "question": "Do I need to sign a contract?",
+      "answer": "Never. We earn your business every single visit. No long-term contracts, no cancellation fees, no commitments. You stay because you want to, not because you have to."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. Daniel is a Certified Pool Operator (CPO #623805) and holds a California Contractor's License (#1067459). We carry full liability insurance for your peace of mind."
+      "question": "What areas do you serve in San Diego?",
+      "answer": "We serve all of San Diego County including Carmel Valley, La Jolla, Del Mar, Rancho Santa Fe, Solana Beach, Encinitas, and surrounding communities. If you're in the area, we can get to you."
     },
     {
-      "question": "What areas in San Diego do you serve?",
-      "answer": "We serve all of San Diego County including La Jolla, Del Mar, Carmel Valley, Rancho Santa Fe, Encinitas, Carlsbad, Oceanside, Poway, Scripps Ranch, and surrounding communities. Call us to confirm coverage in your area."
+      "question": "Are your technicians certified?",
+      "answer": "Absolutely. Our team holds Certified Pool Operator credentials (#623805) and we operate under California Contractor's License #1067459. Every tech is trained, insured, and committed to the highest standards."
     }
   ],
   "testimonials": [
     {
-      "name": "Julie Miller",
+      "name": "Julie M.",
       "context": "Pool heater repair",
       "initials": "JM",
-      "text": "Dan recently helped me with a pool heater connectivity issue and was so patient walking me through all the steps. He is super knowledgeable and professional."
+      "text": "Dan recently helped me with a pool heater connectivity issue and was so patient. His knowledge and professionalism made the whole experience seamless. Couldn't recommend H2O So Clean more."
     },
     {
       "name": "Samuel M.",
-      "context": "Heater & filter repair",
+      "context": "Heater and filter repair",
       "initials": "SM",
-      "text": "Pool heater stopped working and filter was leaking. Called H2O which was the best thing I did. Daniel was so nice, friendly, and knowledgeable. Got a few other quotes but Daniel had the best prices and fastest service."
+      "text": "Pool heater stopped working and filter was leaking. Called H2O which was the best thing I did. Daniel was friendly, knowledgeable, had the best prices and fastest service of anyone I contacted."
     },
     {
-      "name": "Anthony DaSilva",
-      "context": "Pool consultation",
-      "initials": "AD",
-      "text": "Daniel was not only quick to respond but he spent the time to go over the situation in detail. He walked me through getting it resolved knowing that he was not getting paid for his time and help."
+      "name": "Jessie B.",
+      "context": "Automation system installation",
+      "initials": "JB",
+      "text": "Daniel at H2O So Clean far exceeded our expectations and impressed us with his knowledge. He had equipment on hand and was super responsive even when other companies schedule weeks out."
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Care<br>You Can Actually Trust?",
-    "subtitle": "Claim your free $220 consultation today. Daniel will personally assess your pool with a 13-factor water analysis and 45-point equipment inspection — no obligation, no pressure.",
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Claim your free $220 consultation today. No contracts, no pressure — just expert pool care from San Diego's highest-rated team.",
     "benefits": [
-      "Free $220 consultation with every inquiry",
-      "Same-day & next-day availability",
+      "Free $220 consultation with full service",
+      "Same-day response for emergencies",
       "Perfect 5.0-star satisfaction guarantee"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool, spa & fountain care. Proudly serving San Diego County since 2018.",
-    "service_area": "Serving All of San Diego County",
+    "description": "Certified pool care serving San Diego County since 2018. CPO #623805 | Lic #1067459.",
+    "service_area": "Serving San Diego County — Carmel Valley, La Jolla, Del Mar & Beyond",
     "services": [
-      "Weekly Pool Service",
-      "Pool Repairs",
-      "Spa Service & Repairs",
-      "Fountain Service",
-      "Equipment Inspection"
+      "Pool Maintenance",
+      "Equipment Repairs",
+      "Spa & Hot Tub Care",
+      "Water Chemistry Testing",
+      "Equipment Inspections"
     ],
-    "copyright": "&copy; 2024 H2O So Clean Pool & Spa Services. All rights reserved. CPO #623805 | CA Contractor's License #1067459"
+    "copyright": "&copy; 2024 H2O So Clean Pool & Spa Services. All rights reserved. CPO #623805 | CA License #1067459"
   }
 }

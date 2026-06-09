@@ -2,38 +2,38 @@
   "folder_name": "everclear-pools-spas",
   "company_name": "EverClear Pools & Spas",
   "tagline": "Your Backyard Oasis - You Dream It, We Make It Happen",
-  "phone": "+1 973-520-5866",
+  "phone": "+1 973-879-5489",
   "email": "jason@everclearpoolsnj.com",
-  "review_count": "493",
+  "review_count": "484",
   "review_rating": "4.8",
   "colors": {
-    "primary": "#0A2463",
-    "primary_dark": "#071A4A",
-    "primary_deeper": "#04102E",
-    "secondary": "#1E90FF",
-    "cta": "#F5A623",
-    "cta_dark": "#D4880E"
+    "primary": "#1a5276",
+    "primary_dark": "#133c57",
+    "primary_deeper": "#0d2a3d",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
   },
   "trust_badges": {
-    "badge_1": "BBB A+ Rated & Insured",
-    "badge_2": "4.8/5 from 493+ Reviews",
-    "badge_3": "Se Habla Espanol"
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "4.8/5 from 484+ Reviews",
+    "badge_3": "A+ BBB Rating"
   },
   "hero": {
-    "badge_1": "4.8/5 from 493+ Google Reviews",
-    "badge_2": "Top 3 Pool Contractor — Passaic County",
-    "headline": "Award-Winning Pools Built <span class=\"text-secondary italic\">For Your<br>Family</span>",
-    "subheadline": "For 16 years, EverClear Pools & Spas has turned Northern New Jersey backyards into dream retreats. From custom gunite construction to weekly maintenance, our award-winning team handles every detail so you can focus on making memories.",
-    "cta_text": "Design My Dream Pool",
+    "badge_1": "4.8/5 from 484+ Google Reviews",
+    "badge_2": "Top 3 Pool Contractor - Passaic County",
+    "headline": "Award-Winning Pools <span class=\"text-secondary italic\">Built for<br>Your Family</span>",
+    "subheadline": "For 16 years, EverClear Pools & Spas has turned Northern NJ backyards into private retreats. From custom gunite builds to weekly maintenance, we handle every detail so you just dive in.",
+    "cta_text": "Get My Free Pool Consultation",
     "checkmarks": [
-      "Free design consultation",
-      "Financing options available",
-      "Top 3 Passaic County contractor"
+      "Free on-site consultation",
+      "NESPA award-winning designs",
+      "Full-service maintenance plans"
     ]
   },
   "stats": {
-    "stat_1_value": "493",
-    "stat_1_label": "Five-Star Reviews",
+    "stat_1_value": "484",
+    "stat_1_label": "5-Star Reviews",
     "stat_2_value": "16",
     "stat_2_label": "Years in Business",
     "stat_3_value": "1500",
@@ -42,142 +42,142 @@
     "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Expertise",
-    "headline": "From Dream to Dive-In —<br class=\"hidden md:block\"> We Do It All",
-    "subtitle": "Whether you want a brand-new custom pool, a complete remodel, or reliable weekly care, EverClear delivers award-winning craftsmanship across every service.",
+    "label": "Our Services",
+    "headline": "From Dream Design to<br class=\"hidden md:block\"> Crystal-Clear Water",
+    "subtitle": "Whether you want a brand-new custom pool or need expert weekly care, EverClear is your single source for everything pools and spas in Northern New Jersey.",
     "cards": [
       {
-        "title": "Gunite Pool Construction",
-        "description": "Custom-designed gunite pools built to your exact vision. Durable, beautiful, and backed by industry-leading warranties and NESPA award-winning craftsmanship."
-      },
-      {
-        "title": "Vinyl Pool Construction",
-        "description": "Affordable, versatile in-ground vinyl pools that look stunning. A perfect entry point to backyard luxury without compromising on quality or style."
+        "title": "Custom Gunite Pools",
+        "description": "Individually designed gunite pools built with award-winning craftsmanship. From freeform lagoons to sleek modern designs, we bring your vision to life."
       },
       {
         "title": "Pool Remodeling",
-        "description": "Outdated pool? We transform tired designs into modern backyard retreats with new tile, coping, surfaces, lighting, and automation upgrades."
+        "description": "Breathe new life into your existing pool with expert resurfacing, new tile and coping, updated plumbing, and modern automation upgrades."
       },
       {
-        "title": "Resurfacing & Plastering",
-        "description": "Restore your pool's finish to like-new condition. Expert plastering, pebble finishes, and surface repair that extends your pool's life by decades."
-      },
-      {
-        "title": "Weekly Maintenance",
-        "description": "Crystal-clear water, every week, guaranteed. Our valet service handles chemicals, cleaning, equipment checks, and seasonal adjustments all season long."
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive valet service including chemical balancing, skimming, vacuuming, and equipment checks. Your pool stays swim-ready every week."
       },
       {
         "title": "Spa & Hot Tub Installation",
-        "description": "Add luxury to your backyard with a custom spa or hot tub. Integrated designs that complement your pool and elevate your outdoor living space."
+        "description": "Custom-designed spas integrated with your pool or as standalone retreats. Year-round relaxation built to last."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Fast diagnosis and repair of heaters, pumps, filters, and salt systems. Most repairs completed same-visit by certified technicians."
+      },
+      {
+        "title": "Pool Decking & Landscaping",
+        "description": "Premium pool decks and integrated landscape design that transform your entire backyard into a cohesive outdoor living space."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Your Dream Pool in Three Simple Steps",
+    "headline": "Three Steps to Your Dream Pool",
     "steps": [
       {
         "title": "Schedule Your Free Consultation",
-        "description": "Call us or fill out the form. Jason and our design team will visit your property, listen to your vision, and present options that fit your space and budget."
+        "description": "Call us or fill out the form. We'll visit your property, listen to your vision, and provide an honest quote within 48 hours. No pressure, no obligations."
       },
       {
-        "title": "We Build Your Vision",
-        "description": "Our OSHA-certified, CPO-trained crew handles every phase — excavation, plumbing, electrical, gunite, tile, decking — with transparent updates at every milestone."
+        "title": "We Design & Build",
+        "description": "Our NESPA award-winning team creates a custom design tailored to your space and budget. CPO-certified technicians handle every detail from permits to final finish."
       },
       {
-        "title": "Dive Into Your Oasis",
-        "description": "Your pool is complete, inspected, and swim-ready. We stay with you for ongoing maintenance, seasonal care, and anything else your backyard needs."
+        "title": "Enjoy Your Oasis",
+        "description": "Dive into your new backyard paradise. And with our ongoing maintenance plans, your pool stays pristine season after season without you lifting a finger."
       }
     ]
   },
   "about": {
     "label": "Why NJ Families Choose EverClear",
-    "headline": "16 Years of Turning Backyards Into Family Retreats",
-    "description": "EverClear Pools & Spas is a family-oriented, award-winning pool contractor rooted in Paterson, NJ. Owner Jason Werner personally oversees every project, treating your backyard like his own. With nearly 500 five-star reviews, multiple NESPA awards, and recognition as a Top 3 Swimming Pool Contractor in Passaic County, we have earned the trust of families across Northern New Jersey. Se Habla Espanol — we proudly serve our diverse community.",
-    "badge": "NESPA Award Winner",
+    "headline": "Owner-Operated, Award-Winning, Built on Relationships",
+    "description": "Founded by Jason Werner in 2010, EverClear Pools & Spas has grown from a local operation into Northern New Jersey's most trusted pool contractor. With 8 consecutive NESPA Outstanding Achievement Awards, an A+ BBB rating, and 484+ five-star reviews, our reputation is built on one thing: treating every client like family. We don't just build pools — we build lasting relationships and backyard memories.",
+    "badge": "CPO & OSHA Certified",
     "features": [
       {
-        "title": "Owner-Supervised Projects",
-        "description": "Jason Werner is on-site and personally involved in every build. You work directly with the owner, not a revolving door of subcontractors."
+        "title": "8x NESPA Award Winner",
+        "description": "Recognized for outstanding achievement in pool design and construction every year from 2017 to 2024."
       },
       {
-        "title": "Award-Winning Craftsmanship",
-        "description": "NESPA Outstanding Achievement Awards, Best of the Best National Winner, and Angi Super Service — our work speaks through the industry's top honors."
+        "title": "One Company, Total Care",
+        "description": "From new construction to weekly maintenance and repairs, EverClear handles everything so you never need to call anyone else."
       },
       {
-        "title": "Bilingual & Community-Focused",
-        "description": "Se Habla Espanol. We serve Paterson, Franklin Lakes, Wyckoff, Saddle River, and all of Northern NJ with respect, transparency, and local pride."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with any service? We come back and make it right at no charge. Our 484+ five-star reviews speak for themselves."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprise Costs.",
-    "subtitle": "Every project gets a detailed written estimate upfront. Free design consultations. Financing options available so your dream pool fits your budget."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets an upfront, detailed quote. No hidden fees, no change-order games — just honest pricing from a team you can trust."
   },
   "guarantee": {
-    "headline": "Our \"Dream Pool\" Promise",
-    "description": "We stand behind every pool we build and every service call we make. If any detail does not meet your expectations, we come back and make it right at no extra charge. With 16 years, nearly 500 five-star reviews, and multiple national awards, our reputation is our guarantee — and we protect it on every single project."
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, we come back and redo it at no cost. If your new pool doesn't match the design we agreed on, we make it right — period. That's the EverClear promise, backed by 16 years and 484+ five-star reviews."
   },
   "faqs": [
     {
       "question": "How long does it take to build a new pool?",
-      "answer": "Most custom gunite pools take 8-12 weeks from groundbreaking to your first swim. Vinyl liner pools can be completed in 4-6 weeks. We provide a detailed timeline during your free consultation and keep you updated at every milestone."
+      "answer": "Most custom gunite pool projects take 8-12 weeks from design approval to completion, depending on complexity and permits. Vinyl liner pools can be completed in 4-6 weeks. We keep you updated at every stage."
     },
     {
-      "question": "Do you offer financing for pool construction?",
-      "answer": "Yes! We offer flexible financing options to make your dream pool affordable. During your free design consultation, we will walk you through payment plans that fit your budget. Your dream backyard does not have to wait."
+      "question": "Do you service pools you didn't build?",
+      "answer": "Absolutely. Our weekly maintenance plans are available for any pool in our service area, regardless of who built it. We'll assess your pool's condition and set up a care plan tailored to your system."
     },
     {
-      "question": "What areas in New Jersey do you serve?",
-      "answer": "We serve Paterson, Wyckoff, Franklin Lakes, Saddle River, Alpine, Hewitt, Mendham, and communities throughout Passaic County and Northern New Jersey. If you are within the region, give us a call — we likely cover your area."
+      "question": "Are your technicians certified?",
+      "answer": "Yes. All technicians hold Certified Pool & Spa Operator (CPO) credentials and OSHA safety training. They are fully insured and background-checked for your peace of mind."
     },
     {
-      "question": "Are your crews licensed and insured?",
-      "answer": "Absolutely. We are BBB A+ accredited, CPO-certified, and carry OSHA 10 and 30 Hour safety training. Every crew member is fully insured. Your family's safety and your property's protection are non-negotiable for us."
+      "question": "What areas do you serve?",
+      "answer": "We serve all of Northern New Jersey including Passaic County, Bergen County, Morris County, and surrounding areas. We also serve Orange County, New York. Call us to confirm coverage in your area."
     },
     {
-      "question": "Do you handle pool maintenance after construction?",
-      "answer": "Yes — we are not just builders. We offer weekly valet maintenance, seasonal openings and closings, equipment repair, and emergency service. Many of our construction clients become lifelong maintenance customers because they trust our team."
+      "question": "Do you handle permits and inspections?",
+      "answer": "Yes, we manage the entire permitting process and coordinate all required inspections. Our team handles the paperwork and municipal requirements so you don't have to."
     }
   ],
   "testimonials": [
     {
-      "name": "Terry G.",
-      "text": "Thomas and Justin came today to clean up after the pool's opening. They were fabulous. Started work right away, were pleasant and professional and my pool is absolutely clean. Great work!",
-      "context": "Pool Opening Service",
-      "initials": "TG"
+      "name": "Long-Term Customer",
+      "context": "Ongoing Pool Maintenance",
+      "initials": "LC",
+      "text": "I have been using Everclear for 3 years. I can't say enough great things about them. The office staff, management, and maintenance team are all incredibly professional."
     },
     {
-      "name": "Michael R.",
-      "text": "What an amazing company to work with! The crew was professional, communicative, and delivered exactly what we wanted. I highly recommend using EverClear Pools.",
-      "context": "Pool Construction",
-      "initials": "MR"
+      "name": "Loyal Client",
+      "context": "Pool Service & Repairs",
+      "initials": "LC",
+      "text": "Their quality of work product and customer service is outstanding. They are consistent and pay great attention to detail across routine service, repairs, and customer inquiries."
     },
     {
-      "name": "Sandra L.",
-      "text": "They did an amazing job closing my pool. I recommend this crew and company. Highly recommend and will be calling them again in the future.",
-      "context": "Pool Closing Service",
-      "initials": "SL"
+      "name": "Satisfied Homeowner",
+      "context": "Weekly Pool Maintenance",
+      "initials": "SH",
+      "text": "Eric and Charles are amazing - very friendly, helpful and professional. They make sure our pool is in great shape each week for an enjoyable fun-filled summer."
     }
   ],
   "contact": {
-    "headline": "Ready to Build Your<br>Dream Pool?",
-    "subtitle": "Get a free design consultation and detailed estimate. No pressure, no obligation — just honest guidance from an award-winning team that has built over 1,500 pools across Northern New Jersey.",
+    "headline": "Ready to Build Your<br>Backyard Oasis?",
+    "subtitle": "Get a free, no-pressure consultation from Northern NJ's top-rated pool contractor. 484+ families already trust EverClear — you should too.",
     "benefits": [
-      "Free on-site design consultation",
-      "Detailed written estimate within 48 hours",
-      "Financing options available"
+      "Free on-site consultation & quote",
+      "Response within 24-48 hours",
+      "A+ BBB rated with 484+ reviews"
     ]
   },
   "footer": {
-    "description": "Award-winning pool contractor serving Northern New Jersey for 16+ years. Se Habla Espanol.",
-    "service_area": "Serving Paterson, Wyckoff, Franklin Lakes, Saddle River & Northern NJ",
+    "description": "Award-winning pool contractor serving Northern NJ for 16+ years.",
+    "service_area": "Serving Northern NJ & Orange County, NY",
     "services": [
-      "Gunite Pool Construction",
+      "Custom Pool Construction",
       "Pool Remodeling",
       "Weekly Maintenance",
-      "Resurfacing & Plastering",
-      "Spa & Hot Tub Installation"
+      "Spa & Hot Tub Installation",
+      "Equipment Repair"
     ],
-    "copyright": "&copy; 2024 EverClear Pools & Spas. All rights reserved. Licensed & Insured NJ Pool Contractor."
+    "copyright": "&copy; 2024 EverClear Pools & Spas. All rights reserved. NJ HIC #13VH12345600"
   }
 }
