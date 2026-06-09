@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-centurion-miami-beach",
+  "company_name": "Pool Centurion",
+  "tagline": "Treating Every Pool Like It's Our Own",
+  "phone": "+1 305-367-2005",
+  "email": "marc@poolcenturion.com",
+  "review_count": "56",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122843",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#2A9D8F",
+    "cta": "#E8B930",
+    "cta_dark": "#D4A520"
+  },
+  "trust_badges": {
+    "badge_1": "FL Licensed CPC1458733",
+    "badge_2": "4.9/5 from 56+ Reviews",
+    "badge_3": "Serving South Florida Since 2015"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 56+ Google Reviews",
+    "badge_2": "AquaAcademy Certified Technicians",
+    "headline": "Your Vision, Our Mission — <span class=\"text-secondary italic\">Your Pool,<br>Our Priority</span>",
+    "subheadline": "From design and construction to weekly maintenance, Pool Centurion treats every pool like it's our own. Sit back, soak up the Miami sunshine, and let our certified team handle the rest.",
+    "cta_text": "Start My Pool Project",
+    "checkmarks": [
+      "Free on-site consultation",
+      "Service Titan digital reports",
+      "Full lifecycle pool care"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Under Our Care",
+    "stat_2_value": "11",
+    "stat_2_label": "Years Licensed",
+    "stat_3_value": "5",
+    "stat_3_label": "Regional Brands",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Design to Daily Maintenance",
+    "subtitle": "Whether you are dreaming up a new backyard oasis or keeping your current pool in pristine condition, Pool Centurion delivers expert service across every stage of pool ownership.",
+    "cards": [
+      {
+        "title": "Pool Design & Consultation",
+        "description": "Custom pool design with client consultation, 3D visualization, and detailed estimating to bring your backyard vision to life — exactly as you imagined it."
+      },
+      {
+        "title": "Pool Construction",
+        "description": "Full-service pool and spa construction with dedicated project scheduling, rigorous quality control, and hands-on collaboration from first dig to final splash."
+      },
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Weekly cleaning, chemical balancing, and equipment checks for residential and commercial pools. Digital photo reports after every visit so you always know the status."
+      },
+      {
+        "title": "Repair & Equipment",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, salt systems, and piping. Most issues resolved same-visit by our AquaAcademy-trained technicians."
+      },
+      {
+        "title": "Remodeling & Renovation",
+        "description": "Transform your aging pool with new tile, resurfacing, LED lighting, automation, and smart equipment upgrades. Modern luxury on your timeline."
+      },
+      {
+        "title": "Post-Construction Support",
+        "description": "Comprehensive warranty coverage, satisfaction follow-ups, and ongoing care to protect your investment long after the build is complete."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your pool — whether it is a new build, a renovation, or weekly service. We will schedule a free on-site consultation and deliver an honest, detailed quote within 48 hours."
+      },
+      {
+        "title": "We Execute With Precision",
+        "description": "Our AquaAcademy-certified technicians get to work on schedule. You will receive digital photo reports and real-time updates through our Service Titan customer portal."
+      },
+      {
+        "title": "Enjoy Your Oasis",
+        "description": "Your pool stays crystal clear and perfectly maintained. From construction handoff to ongoing care, we are here for the full lifecycle — treating every pool like it is our own."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why South Florida Trusts Us",
+    "headline": "Customer Service Experts Who Happen to Build World-Class Pools",
+    "description": "Founded in 2015 by Marc Augier, Pool Centurion is a certified pool and spa contractor serving Miami Beach through the Florida Keys and Southwest Florida. We operate multiple regional brands — Reef Tropical Pools, Naples Pool Service, SouthWest Pools, and Pool Service Plus — to deliver local expertise with enterprise-level professionalism. Our proprietary AquaAcademy training program and Service Titan technology platform ensure every visit meets the highest standard.",
+    "badge": "FL Licensed CPC1458733",
+    "features": [
+      {
+        "title": "AquaAcademy Trained Technicians",
+        "description": "Every technician completes our proprietary training program covering pool systems, water chemistry, and customer service before entering your backyard."
+      },
+      {
+        "title": "Service Titan Technology Platform",
+        "description": "Online customer portal, digital reports with photos, smart scheduling, and real-time updates keep you informed at every step."
+      },
+      {
+        "title": "Full Lifecycle Guarantee",
+        "description": "From design consultation through post-construction support, we stand behind every phase. Not satisfied? We make it right — no questions asked."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Flexible plans with no long-term contracts — upgrade, adjust, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Centurion Standard\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. We treat every pool like it is our own — and that means your satisfaction is not negotiable. Every technician, every visit, every time."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Pool Centurion start service?",
+      "answer": "Most new maintenance clients are scheduled within 3-5 business days. For construction and renovation projects, we begin with a free on-site consultation and provide a detailed timeline during estimating. Emergency repairs get same-day or next-day response."
+    },
+    {
+      "question": "What areas does Pool Centurion serve?",
+      "answer": "We serve all of South Florida — from Miami Beach and Fort Lauderdale Beach through Key Largo and the Florida Keys, plus Naples and Southwest Florida through our regional brands Reef Tropical Pools, Naples Pool Service, SouthWest Pools, and Pool Service Plus."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. All technicians complete our proprietary AquaAcademy training program and hold CPO (Certified Pool/Spa Operator) or AFO (Aquatic Facility Operator) certifications. Pool Centurion is licensed under Florida CPC1458733."
+    },
+    {
+      "question": "Do I get updates after each service visit?",
+      "answer": "Absolutely. Through our Service Titan platform, you receive digital reports with photos after every visit. You also have access to an online customer portal where you can view service history, upcoming appointments, and communicate directly with your service team."
+    },
+    {
+      "question": "Do you handle both residential and commercial pools?",
+      "answer": "Yes — we service everything from single-family home pools to large commercial properties including hotels, resorts, and HOA communities across South Florida. Commercial clients get dedicated account management and flexible scheduling."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Madison D.",
+      "context": "Pool Construction",
+      "initials": "MD",
+      "text": "You took our new home's dirt to a beautiful oasis. We are absolutely enthralled with the end product! Professional all the way."
+    },
+    {
+      "name": "Joseph R.",
+      "context": "Pool Project",
+      "initials": "JR",
+      "text": "Nothing but good things to say about this company. The teamwork between the owners and work crews was seamless. It felt like the care for our satisfaction was a priority."
+    },
+    {
+      "name": "Clara M.",
+      "context": "Pool Service",
+      "initials": "CM",
+      "text": "Great crew, great service, punctual, reliable, accessible. Highly recommend."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Pool Experience?",
+    "subtitle": "Get a free, no-pressure consultation within 48 hours. Whether you need a new build, renovation, or weekly care — we have you covered across all of South Florida.",
+    "benefits": [
+      "Free on-site pool consultation",
+      "Digital quote within 48 hours",
+      "Centurion Standard satisfaction guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Certified pool and spa contractor. Serving South Florida since 2015.",
+    "service_area": "Serving Miami Beach, Fort Lauderdale, the Keys & Southwest Florida",
+    "services": [
+      "Pool Design & Construction",
+      "Cleaning & Maintenance",
+      "Repair & Equipment",
+      "Remodeling & Renovation",
+      "Post-Construction Support"
+    ],
+    "copyright": "&copy; 2024 Pool Centurion Group. All rights reserved. FL License #CPC1458733"
+  }
+}

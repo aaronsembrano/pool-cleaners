@@ -1,0 +1,183 @@
+{
+  "folder_name": "nomi-beauty",
+  "company_name": "NOMI Beauty",
+  "tagline": "Your Go-To Beauty Solution While Traveling",
+  "phone": "+1(646) 488-8228",
+  "email": "nikki@nomibeauty.com",
+  "colors": {
+    "primary": "#1a1a2e",
+    "primary_dark": "#111122",
+    "primary_deeper": "#0a0a18",
+    "secondary": "#c9a96e",
+    "cta": "#c9a96e",
+    "cta_dark": "#b08e50"
+  },
+  "trust_badges": {
+    "badge_1": "As Seen in Vogue & Vanity Fair",
+    "badge_2": "4.8/5 from 71+ Reviews",
+    "badge_3": "Available 7 Days a Week"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 71+ Google Reviews",
+    "badge_2": "As Seen in Vogue",
+    "headline": "Red-Carpet Beauty <span class=\"text-secondary italic\">Delivered to<br>Your Room</span>",
+    "subheadline": "Traveling should feel luxurious from the moment you wake up. NOMI Beauty sends elite hair stylists and makeup artists — with celebrity and runway credentials — directly to your hotel room, seven days a week.",
+    "cta_text": "Book Your Glam Session",
+    "checkmarks": [
+      "Available 6:30 AM to 9:00 PM daily",
+      "Celebrity-caliber artists",
+      "Complimentary consultation"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "10000",
+    "stat_1_label": "Guests Glammed",
+    "stat_2_value": "10",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "500",
+    "stat_3_label": "Luxury Hotels Served",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Average Google Rating"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Elite Beauty Services<br class=\"hidden md:block\"> That Come to You",
+    "subtitle": "No salon trips. No Uber rides with wet hair. NOMI brings world-class hair and makeup artistry straight to your hotel room so you can focus on what matters.",
+    "cards": [
+      {
+        "title": "In-Room Hair Styling",
+        "description": "Professional blowouts, updos, and styling delivered to your hotel room by artists who have worked runway shows for Chanel and Givenchy."
+      },
+      {
+        "title": "In-Room Makeup Artistry",
+        "description": "Flawless, personalized makeup application by trained artists. From natural daytime looks to full evening glam — perfected in your suite."
+      },
+      {
+        "title": "Bridal & Wedding Packages",
+        "description": "Comprehensive hair and makeup for brides and the entire wedding party. Looks that last all day, all night, through every happy tear."
+      },
+      {
+        "title": "Event & Occasion Styling",
+        "description": "On-demand beauty for galas, photo shoots, engagements, and special nights out. Red-carpet-ready looks tailored to your personal style."
+      },
+      {
+        "title": "In-Room Massage Services",
+        "description": "Therapeutic massage delivered to your suite by skilled professionals. Decompress after travel or prep for an event with total relaxation."
+      },
+      {
+        "title": "Corporate & Group Bookings",
+        "description": "Beauty coordination for corporate events, conferences, and group occasions. Multiple artists, on-schedule, camera-ready results guaranteed."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Effortless Glam",
+    "steps": [
+      {
+        "title": "Book Your Session",
+        "description": "Choose your services and preferred time through our app or website. We confirm your appointment within minutes — available 6:30 AM to 9:00 PM, seven days a week."
+      },
+      {
+        "title": "Your Artist Arrives",
+        "description": "A vetted, elite-level hair stylist or makeup artist arrives at your hotel room with everything needed. No rushing, no salon chairs — just personalized beauty in your private space."
+      },
+      {
+        "title": "Step Out Stunning",
+        "description": "Walk out the door feeling confident, polished, and absolutely glowing. Whether it is a boardroom, a ballroom, or brunch — you will look unforgettable."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Guests Trust NOMI",
+    "headline": "Founded by a Celebrity Artist, Built for You",
+    "description": "NOMI Beauty was created in 2016 by Nikki Robinson — a celebrity makeup artist and Fortune 500 beauty innovator who saw that luxury travelers deserved better than rushed salon visits and unreliable freelancers. Today, our elite team of hair stylists and makeup artists bring Vogue-worthy beauty directly to your hotel room across New York and Miami.",
+    "badge": "As Seen in Vogue",
+    "features": [
+      {
+        "title": "Celebrity & Runway Artists",
+        "description": "Every NOMI artist has worked with top brands, publications, or A-list celebrities — from Chanel runways to Vanity Fair shoots."
+      },
+      {
+        "title": "In-Room Convenience, Always",
+        "description": "We come to you. No commuting, no waiting, no salon small talk. Just world-class beauty service in the comfort of your hotel suite."
+      },
+      {
+        "title": "Flawless Results Guaranteed",
+        "description": "Not thrilled with your look? Our artists will adjust until you feel absolutely perfect. Your confidence is our top priority."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Straightforward rates for premium beauty services. Book one session or the whole wedding party — we make it easy."
+  },
+  "guarantee": {
+    "headline": "Our \"Confidence\" Guarantee",
+    "description": "If you are not completely thrilled with your hair or makeup, your artist will rework it on the spot until you love what you see. We have built our reputation on making every guest feel extraordinary, and we stand behind every brush stroke."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should I book?",
+      "answer": "For everyday glam, same-day bookings are often available. For weddings and large events, we recommend booking 2-4 weeks ahead to secure your preferred artists. Contact us and we will accommodate your timeline."
+    },
+    {
+      "question": "Do you only service hotel rooms?",
+      "answer": "While our specialty is in-room hotel service, we also accommodate private residences, event venues, and photo shoot locations in New York and Miami. Just let us know your location when booking."
+    },
+    {
+      "question": "What brands and products do your artists use?",
+      "answer": "Our artists use top-tier professional brands trusted in the fashion and film industry. If you have allergies or product preferences, let us know during booking and we will customize accordingly."
+    },
+    {
+      "question": "Can you accommodate a large bridal party?",
+      "answer": "Absolutely. We coordinate multiple stylists and makeup artists to ensure every member of your party is ready on time. We have handled bridal parties of all sizes with seamless precision."
+    },
+    {
+      "question": "What areas do you currently serve?",
+      "answer": "NOMI Beauty currently operates in New York City and Miami, with partnerships at select luxury hotels nationwide. We are expanding to additional cities — contact us to check availability in your area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "context": "Wedding & Engagement",
+      "initials": "SM",
+      "text": "I hired NOMI for both my engagement photos and my wedding. Everyone looked amazing! The stylists are incredibly talented and professional."
+    },
+    {
+      "name": "Jessica L.",
+      "context": "Special Event",
+      "initials": "JL",
+      "text": "Loved loved them! My makeup and hair was perfect. Friends and family loved my look, especially my intricate hairstyle. I would highly recommend NOMI Beauty!"
+    },
+    {
+      "name": "Lauren K.",
+      "context": "Wedding",
+      "initials": "LK",
+      "text": "I am completely obsessed! My bridesmaids looked like perfection. Hair and makeup lasted throughout the entire event despite the heat. Definitely returning to NOMI for future events."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Look<br>Absolutely Stunning?",
+    "subtitle": "Book your in-room beauty session today. Our team responds within hours with availability and a personalized quote for your occasion.",
+    "benefits": [
+      "Complimentary consultation with every booking",
+      "Response within hours of inquiry",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Premium in-room beauty services. Serving luxury travelers since 2016.",
+    "service_area": "Serving New York City, Miami & Select Hotels Nationwide",
+    "services": [
+      "Hair Styling",
+      "Makeup Artistry",
+      "Bridal Packages",
+      "Event Styling",
+      "Massage Services"
+    ],
+    "copyright": "&copy; 2026 NOMI Beauty. All rights reserved."
+  },
+  "review_count": "71",
+  "review_rating": "4.8"
+}

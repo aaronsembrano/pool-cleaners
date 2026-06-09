@@ -1,0 +1,183 @@
+{
+  "folder_name": "soleil-tans",
+  "company_name": "Soleil Tans Sun Spa",
+  "tagline": "Three Ways to Glow. One Refined Experience.",
+  "phone": "+1 732-248-9200",
+  "email": "taylor@soleiltans.net",
+  "colors": {
+    "primary": "#1a1a1a",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#c8a96e",
+    "cta": "#c8a96e",
+    "cta_dark": "#b0913a"
+  },
+  "trust_badges": {
+    "badge_1": "Certified Tanning Consultants",
+    "badge_2": "4.5/5 from 69+ Reviews",
+    "badge_3": "6 NJ Locations"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 69+ Google Reviews",
+    "badge_2": "Complimentary First Visit",
+    "headline": "Your Golden Glow Starts <span class=\"text-secondary italic\">Right Here</span>",
+    "subheadline": "Looking radiant should never feel like work. For 21+ years, Soleil Tans has helped over 100,000 guests achieve their perfect glow with German-engineered equipment and certified consultants who guide every session.",
+    "cta_text": "Book Your Free First Visit",
+    "checkmarks": [
+      "Complimentary first session",
+      "Certified tanning consultants",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "100",
+    "stat_1_label": "Thousand Sessions Done",
+    "stat_2_value": "21",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "6",
+    "stat_3_label": "NJ Locations",
+    "stat_4_value": "100%",
+    "stat_4_label": "Glow Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Sun, Spray & Spa —<br class=\"hidden md:block\"> All Under One Roof",
+    "subtitle": "From UV beds imported from Germany to custom spray tans and full-body wellness treatments, every service is designed to help you look and feel your absolute best.",
+    "cards": [
+      {
+        "title": "Premium UV Tanning",
+        "description": "Advanced UV sessions using state-of-the-art German-imported equipment. Certified consultants guide you to a natural, even color that lasts for days — safely and comfortably."
+      },
+      {
+        "title": "Custom Spray Tanning",
+        "description": "Precision-applied, fully customizable spray tans tailored to your skin tone and desired look. A sun-kissed glow without UV exposure, every single time."
+      },
+      {
+        "title": "Red Light Therapy",
+        "description": "Therapeutic red light sessions that promote skin rejuvenation, reduce inflammation, and support total-body wellness. Feel the difference after your very first visit."
+      },
+      {
+        "title": "Spa & Wellness Services",
+        "description": "Rejuvenating treatments designed for restoration and self-care. Go beyond tanning with spa services that leave you feeling refreshed, renewed, and radiantly confident."
+      },
+      {
+        "title": "Membership Programs",
+        "description": "Flexible memberships with rewards and exclusive perks across all six NJ locations. Priority access, special pricing, and a seamless experience every visit."
+      },
+      {
+        "title": "Skincare & Enhancements",
+        "description": "Professional-grade tanning lotions, skincare products, and session enhancements recommended by our certified consultants to maximize and extend your glow."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Glow",
+    "steps": [
+      {
+        "title": "Book Your Free First Visit",
+        "description": "Schedule your complimentary session online or by phone. Our certified consultants will discuss your skin type, goals, and the perfect service for you — no pressure, no commitment."
+      },
+      {
+        "title": "Experience the Soleil Difference",
+        "description": "Relax in our immaculate facilities with German-engineered equipment maintained beyond industry standards. Your consultant guides every detail for optimal, safe results."
+      },
+      {
+        "title": "Leave Glowing with Confidence",
+        "description": "Walk out with a natural, radiant glow you will love. Not satisfied? We make it right — that is our guarantee. Join thousands of guests who keep coming back."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Guests Trust Soleil Tans",
+    "headline": "21 Years of Confidence, Care & Consistency",
+    "description": "Founded in 2003, Soleil Tans Sun Spa has grown from a single location into New Jersey's premier tanning destination with six locations and over 100,000 sessions completed. Every piece of equipment is imported from Germany and maintained beyond industry standards. Our certified consultants do not just operate machines — they craft personalized experiences that leave you glowing and confident, every single visit.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Certified Tanning Consultants",
+        "description": "Every team member is trained and certified to guide your session for optimal color, safety, and skin health."
+      },
+      {
+        "title": "German-Engineered Equipment",
+        "description": "State-of-the-art tanning technology imported from Germany and maintained beyond industry standards for superior results."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Love your experience or we make it right. That is the Soleil promise — backed by 21 years of consistent five-star service."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose from single sessions, packages, or memberships — flexible options designed to fit your lifestyle across all six locations."
+  },
+  "guarantee": {
+    "headline": "Our \"Love Your Glow\" Guarantee",
+    "description": "If you are not completely thrilled with your tanning or spa experience, tell us and we will make it right — no questions asked, no fine print. We have built our reputation on 100,000+ sessions of consistent quality, and we stand behind every single one."
+  },
+  "faqs": [
+    {
+      "question": "Is the first visit really free?",
+      "answer": "Absolutely. Every new guest receives a complimentary first session — no strings attached. Our consultants will help you choose the perfect service for your skin type and goals."
+    },
+    {
+      "question": "How do I know which tanning option is right for me?",
+      "answer": "Our certified consultants will assess your skin type, discuss your desired results, and recommend the ideal service — whether that is UV tanning, spray tanning, or a combination approach."
+    },
+    {
+      "question": "Are your tanning beds safe?",
+      "answer": "Yes. We use state-of-the-art equipment imported from Germany and maintained beyond industry standards. Every session is guided by a certified consultant who ensures proper exposure for your skin type."
+    },
+    {
+      "question": "Can I use my membership at any location?",
+      "answer": "Yes! All memberships work seamlessly across our six New Jersey locations. Tan at whichever salon is most convenient for you — your perks and rewards travel with you."
+    },
+    {
+      "question": "What if I am not happy with my spray tan?",
+      "answer": "We stand behind every session with our satisfaction guarantee. If you are not thrilled with your results, let us know and we will make it right at no additional cost."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Cait F.",
+      "context": "Old Bridge, NJ",
+      "initials": "CF",
+      "text": "I've been coming to Soleil for years, and have not had one bad experience. The staff is always welcoming and the equipment is top-notch. It is my go-to spot for a perfect glow."
+    },
+    {
+      "name": "Danielle V.",
+      "context": "Keyport, NJ",
+      "initials": "DV",
+      "text": "The place is always immaculate and the service is wonderful. Everyone that works there is so friendly and helpful! I would not trust my tan to anyone else in New Jersey."
+    },
+    {
+      "name": "Jon L.",
+      "context": "Paramus, NJ",
+      "initials": "JL",
+      "text": "The machines themselves were very state of the art and gave me an excellent tan. The staff walked me through everything on my first visit. Highly recommend Soleil Tans."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your<br>Perfect Glow?",
+    "subtitle": "Book your complimentary first visit today. No commitment, no pressure — just a personalized experience crafted by certified consultants at New Jersey's premier tanning destination.",
+    "benefits": [
+      "Complimentary first session for new guests",
+      "Certified consultant guidance included",
+      "Satisfaction guaranteed on every visit"
+    ]
+  },
+  "footer": {
+    "description": "New Jersey's premier tanning & spa destination. Serving the community for 21+ years.",
+    "service_area": "Serving Central NJ — Helmetta, Matawan, Edison, Sayreville, Middletown & More",
+    "services": [
+      "Premium UV Tanning",
+      "Custom Spray Tanning",
+      "Red Light Therapy",
+      "Spa & Wellness",
+      "Membership Programs"
+    ],
+    "copyright": "&copy; 2024 Soleil Tans Sun Spa. All rights reserved."
+  },
+  "review_count": "69",
+  "review_rating": "4.5"
+}

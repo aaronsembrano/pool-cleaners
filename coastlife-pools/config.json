@@ -1,0 +1,184 @@
+{
+  "folder_name": "coastlife-pools",
+  "company_name": "Coastlife Pools",
+  "tagline": "Your Backyard Vacation Begins and Continues with CoastLife Pools",
+  "phone": "+1 772-266-4355",
+  "email": "craig@coastlifepools.com",
+  "logo_path": "",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122843",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#2AADCF",
+    "cta": "#F5A623",
+    "cta_dark": "#D9901A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & CPO Certified",
+    "badge_2": "4.5/5 from 60+ Reviews",
+    "badge_3": "Family Owned Since 2014"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 60+ Google Reviews",
+    "badge_2": "CPO & CPI Certified Team",
+    "headline": "Your Family Deserves a <span class=\"text-secondary italic\">Perfect<br>Backyard Paradise</span>",
+    "subheadline": "From custom pool builds to weekly maintenance, CoastLife Pools has kept Stuart-area families swimming worry-free for over 12 years. We handle every detail so you just dive in.",
+    "cta_text": "Start My Pool Project",
+    "checkmarks": [
+      "Free on-site consultation",
+      "Serving 4 South Florida counties",
+      "No job too big or too small"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Happy Pool Owners",
+    "stat_2_value": "12",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "4",
+    "stat_3_label": "Counties Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Promise"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Build It, Maintain It, Love It —<br class=\"hidden md:block\">We Do It All",
+    "subtitle": "From designing your dream pool to keeping it crystal clear for years, CoastLife handles every phase of pool ownership so you can focus on making memories.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "Transform your backyard into a tropical retreat with a custom-designed, professionally built swimming pool tailored to your vision, lifestyle, and property."
+      },
+      {
+        "title": "Pool Remodeling & Renovation",
+        "description": "Resurfacing, tile upgrades, waterfall features, and modern equipment installations that breathe new life into aging pools and boost your home value."
+      },
+      {
+        "title": "Weekly Service & Maintenance",
+        "description": "Professional cleaning, chemical balancing, equipment checks, and filter maintenance that keeps your pool swim-ready every single week — guaranteed."
+      },
+      {
+        "title": "Pool Inspections (CPI Certified)",
+        "description": "Thorough certified pool inspections with full written reports for home buyers, sellers, and property owners. Peace of mind before closing day."
+      },
+      {
+        "title": "Outdoor Kitchens & BBQ Areas",
+        "description": "Custom outdoor kitchens and barbecue areas designed to complement your pool and create the ultimate South Florida backyard entertainment space."
+      },
+      {
+        "title": "Patios, Decks & Driveways",
+        "description": "Premium pool decks, patios, and custom driveways built with durable materials for beautiful outdoor living surfaces that last for decades."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Simple Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Tell Us Your Vision",
+        "description": "Call Craig or fill out our form. We'll schedule a free on-site consultation to discuss your project, assess your property, and provide an honest quote with zero pressure."
+      },
+      {
+        "title": "We Bring It to Life",
+        "description": "Our CPO-certified team handles everything — design, permits, construction, or weekly maintenance. We keep you informed every step and treat your home like our own."
+      },
+      {
+        "title": "Enjoy the CoastLife",
+        "description": "Your backyard vacation is ready. Whether it's a brand-new custom pool or crystal-clear water every week, you'll wonder why you didn't call us sooner."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Stuart Trusts CoastLife",
+    "headline": "Family-Owned, Locally Rooted, Personally Committed",
+    "description": "Craig and the CoastLife team have been building and caring for pools across the Treasure Coast since 2014. As a family-owned company, we treat every pool like it's in our own backyard. Our technicians are CPO and CPI certified, our pricing is consistently lower than the competition, and we never cut corners. From Martin County to Palm Beach, your neighbors already trust us — and you will too.",
+    "badge": "CPO & CPI Certified",
+    "features": [
+      {
+        "title": "Certified Pool Professionals",
+        "description": "Every technician holds CPO and CPI certifications, ensuring expert-level pool care backed by industry-recognized credentials."
+      },
+      {
+        "title": "Competitive, Honest Pricing",
+        "description": "Customers consistently tell us we're considerably less than the competition — without sacrificing an ounce of quality or service."
+      },
+      {
+        "title": "Stress-Free Guarantee",
+        "description": "We are not happy unless you are happy. If something isn't right, we come back and fix it at no charge. That's the CoastLife way."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. No Surprises. No Contracts.",
+    "subtitle": "Get a custom quote for your project or service plan. We'll beat most competitor pricing while delivering premium results — guaranteed."
+  },
+  "guarantee": {
+    "headline": "Our \"CoastLife Happy\" Guarantee",
+    "description": "We are not happy unless you are happy — that's not just a slogan, it's how we run our business. If any service visit, build phase, or repair doesn't meet your expectations, call Craig directly and we'll make it right at no extra cost. No fine print, no runaround."
+  },
+  "faqs": [
+    {
+      "question": "What areas does CoastLife Pools serve?",
+      "answer": "We serve Martin, St. Lucie, Palm Beach, and Indian River counties — including Stuart, Palm City, Jensen Beach, Port St. Lucie, Jupiter, and surrounding communities. If you're on the Treasure Coast, we've got you covered."
+    },
+    {
+      "question": "How long does a custom pool build take?",
+      "answer": "Most custom pool builds take 8-16 weeks depending on design complexity, permits, and weather. We keep you updated throughout the process and handle all permitting so you don't have to worry about a thing."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Absolutely. Our team holds both Certified Pool Operator (CPO) and Certified Pool Inspector (CPI) certifications. We're also fully licensed, insured, and BBB accredited. Your pool is in expert hands."
+    },
+    {
+      "question": "Do you offer pool inspections for home purchases?",
+      "answer": "Yes — our CPI-certified inspectors provide thorough evaluations with full written reports. Whether you're buying, selling, or just want peace of mind, we'll give you an honest assessment of your pool's condition."
+    },
+    {
+      "question": "What if I'm not happy with the service?",
+      "answer": "We live by our motto: we are not happy unless you are happy. If anything doesn't meet your expectations, call Craig directly. We'll come back and make it right at no additional charge — no questions asked."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Term Client",
+      "context": "Pool Maintenance & Remodeling",
+      "initials": "LC",
+      "text": "CoastLife has done a great job maintaining and improving my pool for over 5 years now. Their remodeling work and custom features like waterfalls have been outstanding. Truly a team that cares."
+    },
+    {
+      "name": "New Build Customer",
+      "context": "Custom Pool Construction",
+      "initials": "NB",
+      "text": "The most beautiful pool you will own! We got four quotes and CoastLife was considerably less than the competition while delivering superior quality. Could not be happier."
+    },
+    {
+      "name": "Service Client",
+      "context": "Weekly Pool Maintenance",
+      "initials": "SC",
+      "text": "The team at CoastLife has significantly improved our pool's appearance. Their service documentation is thorough, equipment replacement is prompt, and communication is always responsive."
+    }
+  ],
+  "review_count": "60",
+  "review_rating": "4.5",
+  "contact": {
+    "headline": "Ready for the CoastLife<br>Experience?",
+    "subtitle": "Get a free, no-pressure consultation from Craig and the team. Whether you're dreaming of a new pool or need reliable weekly service, we'll take care of everything.",
+    "benefits": [
+      "Free on-site consultation & quote",
+      "Response within 24 hours",
+      "We are not happy unless you are happy"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool company serving the Treasure Coast since 2014.",
+    "service_area": "Serving Martin, St. Lucie, Palm Beach & Indian River Counties",
+    "services": [
+      "Custom Pool Builds",
+      "Pool Remodeling",
+      "Weekly Maintenance",
+      "Pool Inspections",
+      "Outdoor Kitchens"
+    ],
+    "copyright": "&copy; 2024 Coastlife Pools. All rights reserved. Licensed & Insured, Stuart FL"
+  }
+}

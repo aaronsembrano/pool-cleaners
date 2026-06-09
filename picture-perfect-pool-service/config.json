@@ -1,0 +1,184 @@
+{
+  "folder_name": "picture-perfect-pool-service",
+  "company_name": "Picture Perfect Pool Service",
+  "tagline": "You Deserve a Picture Perfect Pool",
+  "phone": "(925) 370-6675",
+  "email": "customerservice@pppsinc.com",
+  "logo_path": "",
+  "review_count": "47",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2840",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed CA Contractor (C-61, D-35, C-53)",
+    "badge_2": "4.9/5 from 47+ Reviews",
+    "badge_3": "Family-Owned Since 1990"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 47+ Google Reviews",
+    "badge_2": "Licensed & Insured Since 1990",
+    "headline": "35+ Years Keeping East Bay Pools <span class=\"text-secondary italic\">Picture Perfect</span>",
+    "subheadline": "Your pool should be a place to relax, not a weekend chore. Picture Perfect Pool Service has been the East Bay's trusted family-owned pool company since 1990 — handling everything from weekly cleaning to full construction so you can just dive in.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Service starts within days",
+      "Work guaranteed on every job"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "3000",
+    "stat_1_label": "Pools Serviced Since 1990",
+    "stat_2_value": "35",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "20",
+    "stat_3_label": "Cities Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Work Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From weekly maintenance to brand-new construction, Picture Perfect Pool Service handles it all — so you never have to juggle multiple contractors for your backyard oasis.",
+    "cards": [
+      {
+        "title": "Residential Pool Service",
+        "description": "Weekly cleaning, skimming, chemical balancing, equipment checks, and filter maintenance — your backyard pool stays sparkling and swim-ready every single week."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Professional programs for HOAs, apartment complexes, and fitness centers. Water chemistry management, filter cleaning, backwashing, and full regulatory compliance."
+      },
+      {
+        "title": "Pool Construction",
+        "description": "Custom-designed swimming pools built by a licensed contractor with 35+ years of craftsmanship. From concept to first splash, we bring your backyard vision to life."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Breathe new life into your pool with modern tile, coping, plaster resurfacing, and equipment upgrades that deliver a brand-new look and feel."
+      },
+      {
+        "title": "Pool Repair",
+        "description": "Expert diagnosis and repair of pumps, motors, heaters, plumbing, and filters. We restore your pool to peak performance quickly and affordably."
+      },
+      {
+        "title": "Reverse Osmosis Treatment",
+        "description": "Advanced water purification that removes dissolved minerals and calcium buildup — restoring crystal-clear water without draining and refilling your entire pool."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Picture Perfect Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Inspection",
+        "description": "Tell us about your pool and what you need. We'll come out, inspect your setup, and give you an honest, no-pressure quote — usually within 24 hours."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Our licensed, experienced technicians arrive on schedule. Whether it's weekly service, a complex repair, or a full remodel — we handle every detail so you don't have to."
+      },
+      {
+        "title": "Dive Into a Perfect Pool",
+        "description": "Your pool stays crystal clear, safe, and swim-ready year-round. Every job is backed by our work guarantee — if something's not right, we come back and fix it."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why East Bay Families Trust Us",
+    "headline": "A Family Business Built on a Lifetime in the Water",
+    "description": "Founded in 1990 by Brian Duncan — a lifelong competitive swimmer, Cal State Chico All-American, and licensed California contractor — Picture Perfect Pool Service has spent over 35 years earning the trust of homeowners across Contra Costa and Solano counties. Today, Brian and his son Sean run every aspect of the business, bringing the same personal attention and expertise to every pool they touch. As a longtime IPSSA member and former chapter president, Brian's commitment to industry excellence is unmatched.",
+    "badge": "Licensed CA Contractor",
+    "features": [
+      {
+        "title": "Licensed & Multiply Certified",
+        "description": "California contractor licenses C-61, D-35, and C-53 — plus decades of IPSSA leadership. Your pool is in expert hands."
+      },
+      {
+        "title": "Full-Service, One Company",
+        "description": "Build, remodel, repair, and maintain — all under one roof. No need to juggle contractors or coordinate between companies."
+      },
+      {
+        "title": "Work Guaranteed, Every Time",
+        "description": "We stand behind every service call, repair, and project. If something's not right, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Get a custom quote for your pool. Competitive rates backed by 35+ years of expertise — no hidden fees, no pressure."
+  },
+  "guarantee": {
+    "headline": "Our \"Picture Perfect\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, repair, or project, call us and we'll come back to make it right — at no additional cost. We've built our reputation on doing the job right the first time for over 35 years, and we stand behind every single piece of work."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new residential clients are scheduled within 3-5 business days. For urgent repairs or equipment failures, we do our best to respond same-day or next-day. Call us at (925) 370-6675 and we'll work with your schedule."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve 20+ cities across Contra Costa and Solano counties, including Martinez, Concord, Walnut Creek, Danville, San Ramon, Lafayette, Antioch, Brentwood, Discovery Bay, Livermore, Dublin, Hercules, Fairfield, and more."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We hold California contractor licenses C-61, D-35, and C-53. We're also a longtime IPSSA member — our founder Brian Duncan served as East Bay Chapter President and Regional Director. Fully licensed, bonded, and insured."
+    },
+    {
+      "question": "Can you handle both maintenance and construction?",
+      "answer": "Yes — that's what makes us different. Picture Perfect Pool Service is a full-service company: we build new pools, remodel existing ones, perform complex repairs, and provide weekly maintenance. One team for everything."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "We do. We maintain pools for HOAs, apartment complexes, retirement communities, and fitness centers across the East Bay. Commercial clients get tailored maintenance programs and full regulatory compliance support."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Customer",
+      "context": "Pool Service",
+      "initials": "VC",
+      "text": "Outstanding service that is professional and keeps you informed every step of the way. I would give them more than 5 stars if I could. Picture Perfect truly lives up to their name."
+    },
+    {
+      "name": "Longtime Client",
+      "context": "Residential Maintenance",
+      "initials": "LC",
+      "text": "Very efficient, courteous, accommodating and competitively priced. Their responsiveness to support calls about chemicals or technical issues is incredible — the tech experts provide top-notch assistance every time."
+    },
+    {
+      "name": "Remodel Customer",
+      "context": "Pool Remodeling",
+      "initials": "RC",
+      "text": "Our pool resurfacing and tiling work looks brand new. Brian helped us choose beautiful tile options and the communication throughout the project was excellent. Could not be happier with the results."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Picture Perfect<br>Pool?",
+    "subtitle": "Get a free, no-pressure quote from the East Bay's most trusted pool company. Over 35 years of family-owned expertise — just honest pricing and quality work.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Response within 24 hours",
+      "Every job backed by our work guarantee"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Contra Costa and Solano counties since 1990.",
+    "service_area": "Serving Martinez, Concord, Walnut Creek, Danville, San Ramon & the East Bay",
+    "services": [
+      "Residential Service",
+      "Commercial Service",
+      "Pool Construction",
+      "Pool Remodeling",
+      "Pool Repair"
+    ],
+    "copyright": "&copy; 2026 Picture Perfect Pool Service, Inc. All rights reserved. Licensed CA Contractor #C-61, D-35, C-53"
+  }
+}

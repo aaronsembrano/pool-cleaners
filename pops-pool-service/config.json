@@ -2,33 +2,31 @@
   "folder_name": "pops-pool-service",
   "company_name": "Pop's Pool Service",
   "tagline": "Trusted Pool Cleaning & Repair Experts Serving Los Angeles",
-  "phone": "+1 818-600-4854",
-  "email": "aaron@popspoolservice.com",
-  "review_count": "23",
-  "review_rating": "5.0",
+  "phone": "+1 818-824-8638",
+  "email": "mark@popspoolservice.com",
   "colors": {
     "primary": "#1E3A5F",
-    "primary_dark": "#142842",
-    "primary_deeper": "#0D1C2E",
-    "secondary": "#3B82F6",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#4FC3F7",
     "cta": "#F59E0B",
     "cta_dark": "#D97706"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured (DPH# PR0315023)",
+    "badge_1": "Licensed & Insured — DPH# PR0315023",
     "badge_2": "5.0/5 from 23+ Reviews",
-    "badge_3": "NO Skipped Stops Policy"
+    "badge_3": "CPO Certified — #C-114137"
   },
   "hero": {
     "badge_1": "5.0/5 from 23+ Google Reviews",
-    "badge_2": "NO Skipped Stops — Ever",
-    "headline": "We Never Skip Your Pool. <span class=\"text-secondary italic\">That's Our<br>Promise.</span>",
-    "subheadline": "Pop's Pool Service is a family-run team serving the San Fernando and Conejo Valleys for 15+ years. We show up every single visit, send photo reports after every clean, and treat your pool like it's our own. No missed stops. No mystery bills. Just crystal clear water.",
+    "badge_2": "NO Skipped Stops — Guaranteed",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Family Touch</span>",
+    "subheadline": "Pop's Pool Service blends old-school hospitality with modern precision. We show up every single visit, send you photo reports, and keep your water crystal clear — so all you have to do is enjoy the swim.",
     "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
-      "Free inspection & virtual quote",
-      "Same-day service available",
-      "Photo reports after every visit"
+      "Free virtual inspection",
+      "Same-day emergency service",
+      "50% off your first month"
     ]
   },
   "stats": {
@@ -39,36 +37,36 @@
     "stat_3_value": "3000",
     "stat_3_label": "Pools Cleaned",
     "stat_4_value": "100%",
-    "stat_4_label": "Show-Up Rate"
+    "stat_4_label": "No Skipped Stops"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Full-Service Pool Care From a<br class=\"hidden md:block\">Family You Can Trust",
-    "subtitle": "From weekly cleanings to emergency repairs, Pop's handles it all so you can stop worrying and start swimming. Every service backed by our NO Skipped Stops Policy.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> a Family That Cares",
+    "subtitle": "From weekly cleanings to emergency repairs, Pop's handles every aspect of pool care so you never have to worry about your backyard oasis.",
     "cards": [
       {
-        "title": "Weekly Pool Cleaning",
-        "description": "Skimming, vacuuming, brushing walls, and chemical balancing every single week. You get a photo report and email update after every visit — no guesswork."
+        "title": "Pool Cleaning",
+        "description": "Thorough weekly and bi-weekly cleaning with skimming, vacuuming, and brushing. You get a detailed photo report with water chemistry after every single visit."
       },
       {
-        "title": "Pool Repair & Equipment",
-        "description": "Pumps, filters, heaters, automation systems — diagnosed and fixed fast by CPO-certified technicians. Same-day service available for urgent breakdowns."
+        "title": "Pool Maintenance",
+        "description": "Year-round water chemistry testing, chemical balancing, and system checks that keep your pool in peak condition through every season."
       },
       {
-        "title": "Green Pool Recovery",
-        "description": "Neglected or abandoned pool turned green? We transform murky water into a crystal clear, swimmable oasis — often in just days."
+        "title": "Algae Removal & Green Pool Cleanup",
+        "description": "Got a green pool nightmare? We restore neglected, murky pools to crystal-clear condition with targeted chemical treatment — often in 48-72 hours."
       },
       {
-        "title": "Water Chemistry & Testing",
-        "description": "Precise chemical balancing with professional-grade testing. You receive detailed reports with pH, chlorine, alkalinity, and more after each visit."
-      },
-      {
-        "title": "Leak Detection & Plumbing",
-        "description": "Comprehensive leak detection using pressure testing, plus plumbing repairs for suction lines, return leaks, and valve replacements."
+        "title": "Pool Repair",
+        "description": "Leaks, broken pumps, plumbing issues, electrical problems — we diagnose fast and fix it right. From leak detection to full equipment overhauls."
       },
       {
         "title": "Equipment Installation",
-        "description": "Professional installation of pumps, filters, heaters, and automation systems by certified technicians. Upgrade your pool with confidence."
+        "description": "Professional installation and maintenance of pumps, filters, heaters, and automation systems to keep everything running efficiently and quietly."
+      },
+      {
+        "title": "Safety Inspections",
+        "description": "Comprehensive pool safety and compliance inspections that meet all LA County regulations and keep your swimmers protected."
       }
     ]
   },
@@ -76,108 +74,110 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Request Your Free Quote",
-        "description": "Tell us about your pool online or by phone. We offer free virtual quotes and complimentary inspections — no pressure, no obligations, just honest pricing."
+        "title": "Get Your Free Virtual Quote",
+        "description": "Tell us about your pool and we'll provide an honest, no-pressure quote — usually same day. No contracts, no commitments, no surprises."
       },
       {
-        "title": "We Show Up — Every Time",
-        "description": "Our CPO-certified, licensed technicians arrive on your scheduled day — guaranteed. Cleaning, chemicals, equipment checks — all handled. You get a photo report after every visit."
+        "title": "We Show Up. Every Time.",
+        "description": "Our CPO-certified technicians arrive on schedule with our NO Skipped Stops guarantee. Cleaning, chemicals, equipment checks — then we send you a full photo report."
       },
       {
-        "title": "Enjoy Crystal Clear Water",
-        "description": "Your pool stays sparkling, swim-ready, and worry-free all year. If you're ever not satisfied, we come back and make it right at no charge. That's the Pop's promise."
+        "title": "Just Dive In",
+        "description": "Your pool stays crystal clear, swim-ready, and worry-free all year long. If you're ever not happy, we come back and make it right — free."
       }
     ]
   },
   "about": {
-    "label": "Why San Fernando Valley Trusts Us",
-    "headline": "Family-Owned. Old School Values. Modern Service.",
-    "description": "Pop's Pool Service was founded by Mark and Aaron with one goal: blend old school hospitality with modern service quality. For over 15 years, we've cleaned 3,000+ pools and earned the trust of 500+ families across the San Fernando and Conejo Valleys. We're fully licensed (DPH# PR0315023), CPO-certified (C-114137), and insured. Every visit comes with a photo report and water chemistry update — because you deserve to know exactly what's happening with your pool.",
-    "badge": "CPO Certified (C-114137)",
+    "label": "Why LA Trusts Pop's",
+    "headline": "Old-School Hospitality, Modern Pool Care",
+    "description": "Founded by Mark and Aaron, Pop's Pool Service is a family-owned operation rooted in the San Fernando Valley. With 15+ years of combined experience and over 500 happy customers, we treat every pool like it's our own. We send photo reports after every visit because we believe in total transparency — you see exactly what we did, your water chemistry numbers, and any recommendations. No guesswork, no shortcuts.",
+    "badge": "CPO Certified — #C-114137",
     "features": [
       {
-        "title": "NO Skipped Stops — Ever",
-        "description": "Our signature policy means we show up for every single scheduled visit. Rain or shine, holiday or not — your pool gets serviced."
+        "title": "NO Skipped Stops. Period.",
+        "description": "Other companies skip visits when they're overbooked. We guarantee service every single scheduled visit — rain or shine, holiday or not."
       },
       {
         "title": "Photo Reports After Every Visit",
-        "description": "You receive an email with photos, pH balance, chemical stats, and service details after every clean. Full transparency, zero guesswork."
+        "description": "You'll get an email with photos and full water chemistry details every time we service your pool. Total transparency, always."
       },
       {
-        "title": "Locally Owned & Family-Operated",
-        "description": "We're not a franchise. Mark and Aaron built this business from the ground up and still oversee every account personally."
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your business every visit. No long-term commitments, no cancellation fees. If we're not the best, you're free to go."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprise Fees.",
-    "subtitle": "Every plan includes our NO Skipped Stops guarantee, photo reports, and water chemistry updates. No contracts — cancel anytime."
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts. Plus, get 50% off your first month."
   },
   "guarantee": {
-    "headline": "Our \"Never Skip, Always Sparkle\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back and redo it at no charge. And with our NO Skipped Stops Policy, you'll never wonder if your pool guy showed up. We send photo proof and a chemistry report after every single visit — because trust should never be a guessing game."
+    "headline": "Our \"Perfect Pool\" Promise",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right — completely free. We also guarantee NO skipped stops: every scheduled visit happens, every time. That's the Pop's way."
   },
   "faqs": [
     {
-      "question": "How quickly can Pop's start servicing my pool?",
-      "answer": "Most new clients are scheduled within a few days. For green pool emergencies, we offer same-day response. Call us at 818-600-4854 and we'll work with your schedule right away."
+      "question": "How quickly can Pop's start service?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies, we offer same-day service. Call us at 818-824-8638 and we'll work with your timeline."
     },
     {
-      "question": "Do I get updates after each service visit?",
-      "answer": "Absolutely. After every visit, you receive an email with photos of your pool, pH and chemical readings, and a summary of all work performed. Full transparency is our standard — not a premium add-on."
+      "question": "What are the photo reports I keep hearing about?",
+      "answer": "After every single service visit, we email you a detailed report with photos of your pool, current pH balance, chemical levels, and any recommendations. You always know exactly what was done and how your pool looks."
     },
     {
-      "question": "What is the NO Skipped Stops Policy?",
-      "answer": "It means exactly what it says — we never skip your scheduled visit. Period. Many pool services quietly skip stops when they're overbooked. Pop's guarantees every visit happens, every time. It's our founding promise."
+      "question": "Do I need to be home during cleaning?",
+      "answer": "Not at all. Most clients give us gate access and we handle everything while you're out. Your photo report email lets you see everything we did, so you never miss a thing."
     },
     {
-      "question": "Do I need a long-term contract?",
-      "answer": "No contracts, ever. We earn your business every single visit. You can cancel anytime with zero fees and zero guilt trips. We believe great service keeps customers — not contracts."
+      "question": "What does 'NO Skipped Stops' actually mean?",
+      "answer": "It means we show up every single scheduled visit — guaranteed. Other companies skip stops when they're overbooked or short-staffed. At Pop's, your service date is locked in and we honor it every time."
     },
     {
-      "question": "What areas does Pop's Pool Service cover?",
-      "answer": "We proudly serve the San Fernando Valley and Conejo Valley including Sherman Oaks, Studio City, Calabasas, Van Nuys, Encino, Woodland Hills, North Hollywood, Reseda, Burbank, Agoura Hills, Thousand Oaks, and surrounding LA neighborhoods."
+      "question": "Do you service commercial pools?",
+      "answer": "Yes! We serve both residential and commercial pools across greater Los Angeles, including HOAs, apartment complexes, and business properties. We're DPH licensed (PR0315023) and fully insured."
     }
   ],
   "testimonials": [
     {
-      "name": "Der K.",
-      "text": "Pop's is now my pool service, and the pool looks great after just a few treatments. My pool was a mess after the recent rains, fires and winds, and I had fired my last two pool people. Very professional company.",
-      "context": "Google Review",
-      "initials": "DK"
-    },
-    {
-      "name": "Asa G.",
-      "text": "Mark and his team are awesome! They have been serving my pool for a year now and I couldn't be happier. Probably the best pool cleaning service I have ever used. Highly recommend!",
-      "context": "Google Review",
-      "initials": "AG"
-    },
-    {
       "name": "Tom Frenkel",
-      "text": "Called the guys at Pop's and they serviced my pool that same day. I've stuck with them ever since. Great service and always reliable.",
-      "context": "Google Review — Same-Day Service",
-      "initials": "TF"
+      "context": "Google Review",
+      "initials": "TF",
+      "text": "Serviced my pool that same day after fires and high winds damaged it. I've stuck with them ever since. Reliable, professional, and they actually care about doing the job right."
+    },
+    {
+      "name": "Yoel K.",
+      "context": "Google Review",
+      "initials": "YK",
+      "text": "Outstanding! Super knowledgeable. Finally explained why my pool kept going green and fixed it for good. These guys know their stuff inside and out."
+    },
+    {
+      "name": "Collin Hertz",
+      "context": "Google Review",
+      "initials": "CH",
+      "text": "Professionals. Arrive on time and don't nickel and dime you. Straightforward pricing, great communication, and my pool has never looked better."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That's<br>Always Crystal Clear?",
-    "subtitle": "Get a free, no-pressure quote today. No contracts, no commitments — just honest pricing from a family that's been doing this for 15+ years.",
+    "headline": "Ready for a Pool That<br>Stays Perfect?",
+    "subtitle": "Get a free virtual quote — usually same day. No contracts, no pressure, just honest pricing from a family that's been doing this for 15+ years.",
     "benefits": [
-      "Free virtual quote & pool inspection",
-      "Response within 24 hours — same-day for emergencies",
-      "100% satisfaction guaranteed with every visit"
+      "Free virtual inspection with every quote",
+      "Same-day response guaranteed",
+      "50% off your first month of service"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Serving the San Fernando & Conejo Valleys for 15+ years.",
-    "service_area": "Serving Sherman Oaks, Studio City, Calabasas, Encino, Woodland Hills, Reseda & the San Fernando Valley",
+    "description": "Family-owned pool service proudly serving the San Fernando Valley and greater Los Angeles since 2009.",
+    "service_area": "Serving Reseda, Burbank, Studio City, Van Nuys, Granada Hills, Agoura Hills, Thousand Oaks & Greater LA",
     "services": [
-      "Weekly Pool Cleaning",
-      "Pool Repair & Equipment",
-      "Green Pool Recovery",
-      "Leak Detection & Plumbing",
-      "Equipment Installation"
+      "Pool Cleaning",
+      "Pool Maintenance",
+      "Green Pool Cleanup",
+      "Equipment Installation",
+      "Safety Inspections"
     ],
     "copyright": "&copy; 2024 Pop's Pool Service. All rights reserved. Licensed & Insured — DPH# PR0315023 | CPO# C-114137"
-  }
+  },
+  "review_count": "23",
+  "review_rating": "5.0"
 }
