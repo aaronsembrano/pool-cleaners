@@ -1,75 +1,75 @@
 {
   "folder_name": "hofmann-pools",
-  "company_name": "Hofmann Pools LLC",
+  "company_name": "Hofmann Pools",
   "tagline": "We are here so you worry less",
   "phone": "+1 704-312-0920",
-  "email": "will@hofmannpools.com",
-  "logo_path": "",
+  "email": "office@hofmannpools.com",
+  "logo_path": "logo.png",
   "review_count": "45",
   "review_rating": "4.3",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133d58",
-    "primary_deeper": "#0c2a3d",
-    "secondary": "#2e86c1",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0c1e30",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
   },
   "trust_badges": {
     "badge_1": "BBB Listed Business",
     "badge_2": "4.3/5 from 45+ Reviews",
-    "badge_3": "Serving Charlotte Since 2015"
+    "badge_3": "Clear Pool Guarantee"
   },
   "hero": {
     "badge_1": "4.3/5 from 45+ Google Reviews",
-    "badge_2": "Clear Pool Guarantee Backed",
-    "headline": "Your Pool, Our Problem <span class=\"text-secondary italic\">Your<br>Peace of Mind</span>",
-    "subheadline": "Every Hofmann Pools client gets a dedicated specialist who knows your pool inside and out. No rotating crews, no guesswork — just crystal clear water backed by our Clear Pool Guarantee, week after week.",
-    "cta_text": "Get My Free Pool Inspection",
+    "badge_2": "Clear Pool Guarantee",
+    "headline": "Your Pool, Our Priority. <span class=\"text-secondary italic\">Worry-Free<br>Since 2015</span>",
+    "subheadline": "You bought a pool for the fun, not the work. Hofmann Pools handles the maintenance, leak repairs, and equipment fixes so all you do is enjoy crystal-clear water every time you step outside.",
+    "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Free on-site pool inspection",
-      "Same-day emergency response",
-      "Clear Pool Guarantee included"
+      "Free pool inspection",
+      "Dedicated pool specialist",
+      "Clear Pool Guarantee"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Charlotte Pools Maintained",
+    "stat_1_label": "Charlotte Pools Serviced",
     "stat_2_value": "11",
-    "stat_2_label": "Years Serving Charlotte",
-    "stat_3_value": "45",
-    "stat_3_label": "Google Reviews",
+    "stat_2_label": "Years in Charlotte",
+    "stat_3_value": "1000",
+    "stat_3_label": "Leaks Detected & Fixed",
     "stat_4_value": "100%",
     "stat_4_label": "Clear Pool Guarantee"
   },
   "services": {
-    "label": "What We Do",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Your Dedicated Specialist",
-    "subtitle": "From leak detection to weekly maintenance, Hofmann Pools handles every aspect of pool ownership so you can spend your time swimming instead of stressing.",
+    "label": "Our Expertise",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">Charlotte's Leak Specialists",
+    "subtitle": "From weekly maintenance to complex leak detection, Hofmann Pools has the experience and dedication to keep your pool running perfectly all season long.",
     "cards": [
       {
         "title": "Leak Detection & Repair",
-        "description": "Expert identification and repair of pool leaks using professional diagnostic methods. We stop water loss fast and prevent costly structural damage to your pool."
-      },
-      {
-        "title": "Equipment Repair & Installation",
-        "description": "Pumps, filters, heaters, salt systems — we diagnose and fix it right the first time. Most repairs completed same-visit so your pool stays running."
+        "description": "Advanced leak detection techniques that pinpoint problems fast with minimal disruption. We find it, fix it, and get your pool back to full capacity."
       },
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Recurring maintenance backed by our Clear Pool Guarantee. Water chemistry, skimming, brushing, and filter cleaning — your pool stays swim-ready every single week."
+        "description": "Comprehensive weekly care backed by our Clear Pool Guarantee. Your dedicated specialist handles chemicals, skimming, filters, and equipment checks."
       },
       {
-        "title": "Pool Restoration",
-        "description": "Aging or neglected pool? We bring it back to life with deep cleaning, equipment overhaul, and complete water treatment. Like getting a brand new pool."
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems — we diagnose and repair it right the first time. Most repairs completed same-visit to minimize downtime."
       },
       {
-        "title": "Equipment Consultation",
-        "description": "Personalized guidance on your pool equipment and systems. We help you understand how your pool works and what it needs to run at peak performance."
+        "title": "Equipment Installation",
+        "description": "Professional installation of new pool equipment including energy-efficient pumps, variable-speed motors, heaters, and automation systems."
       },
       {
-        "title": "Emergency Pool Service",
-        "description": "Same-day response when your pool has a problem that cannot wait. Will and the team are ready to jump in and get your pool back on track fast."
+        "title": "Pool Structural Repair",
+        "description": "Surface cracks, plumbing issues, and structural problems addressed with lasting solutions. We fix the root cause, not just the symptoms."
+      },
+      {
+        "title": "Custom Service Plans",
+        "description": "Every pool is different. We build a tailored maintenance plan around your pool's unique needs, usage patterns, and budget."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Inspection",
-        "description": "Call or fill out the form. Will or a team member will come out, assess your pool, and give you an honest, no-pressure quote. No contracts, no commitments."
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and what you need. We'll come out, inspect everything, and provide an honest, no-pressure quote — typically within 48 hours."
       },
       {
         "title": "Meet Your Dedicated Specialist",
-        "description": "You get assigned one specialist who learns your pool inside and out. They handle every visit, so nothing gets missed and you always know who is showing up."
+        "description": "You're assigned a dedicated pool specialist who knows your pool inside and out. They handle every visit and you get their direct contact for questions anytime."
       },
       {
-        "title": "Enjoy Your Pool, Worry-Free",
-        "description": "Your pool stays crystal clear under our Clear Pool Guarantee. If it is not perfect after any visit, we come back and make it right — no questions asked."
+        "title": "Enjoy Crystal-Clear Water",
+        "description": "Your pool stays pristine, your equipment runs smoothly, and you never stress about maintenance again. That's the Hofmann Pools difference — backed by our Clear Pool Guarantee."
       }
     ]
   },
   "about": {
     "label": "Why Charlotte Trusts Hofmann Pools",
-    "headline": "Owner-Operated Since 2015 — Your Pool Is Personal to Us",
-    "description": "When Will Hofmann started Hofmann Pools in 2015, he had one mission: make pool ownership enjoyable, not exhausting. Eleven years later, that mission drives every decision. Our team — led by Will alongside Service Manager Jack Morris and Senior Repair Technician Matthew Keehnle — treats your pool like their own. Every client gets a dedicated specialist, not a revolving door of strangers. That personal touch, backed by our Clear Pool Guarantee, is why Charlotte homeowners keep coming back.",
-    "badge": "Clear Pool Guarantee",
+    "headline": "Owner-Operated, Hands-On Pool Care Since 2015",
+    "description": "Hofmann Pools was founded by Will Hofmann with one simple belief: pool owners deserve reliable, transparent service from people who actually care. Over the past 11 years, we've built our reputation one pool at a time across Charlotte — showing up on schedule, communicating clearly, and standing behind every visit with our Clear Pool Guarantee.",
+    "badge": "BBB Listed",
     "features": [
       {
-        "title": "Your Dedicated Pool Specialist",
-        "description": "One technician assigned to your pool who knows its history, quirks, and needs. Consistent care from someone who treats your backyard like their own."
+        "title": "Dedicated Specialist, Direct Contact",
+        "description": "Every maintenance client gets one assigned specialist who knows your pool. You get their direct number — no call centers, no runaround."
       },
       {
         "title": "Clear Pool Guarantee",
-        "description": "Every weekly maintenance plan is backed by our guarantee. If your pool is not crystal clear after a visit, we come back and fix it at no charge."
+        "description": "Every weekly maintenance plan is backed by our Clear Pool Guarantee. If your pool isn't clear, we come back and make it right — no extra charge."
       },
       {
-        "title": "Owner-Led, Hands-On Service",
-        "description": "Will Hofmann is still in the field, personally overseeing complex repairs and ensuring every client gets the care they deserve. You deal with the owner, not a call center."
+        "title": "Owner Involved in Every Account",
+        "description": "Will Hofmann personally oversees operations and stays involved in every client relationship. You're never just a number here."
       }
     ]
   },
   "pricing": {
-    "headline": "Honest Pricing. No Contracts Required.",
-    "subtitle": "Get a straightforward quote for exactly what your pool needs. No hidden fees, no long-term commitments — just fair pricing backed by our Clear Pool Guarantee."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Every plan includes our Clear Pool Guarantee and a dedicated specialist."
   },
   "guarantee": {
-    "headline": "Our \"Clear Pool\" Guarantee",
-    "description": "If your pool is not crystal clear after any service visit, call us and we will come back to make it right at no additional charge. Will Hofmann built this company on the belief that pool ownership should be worry-free, and we stand behind that with every single visit. Your satisfaction is not negotiable — it is guaranteed."
+    "headline": "Our Clear Pool Guarantee",
+    "description": "If your pool isn't crystal clear after any weekly maintenance visit, call your dedicated specialist and we'll come back to make it right — at no additional cost. We don't consider the job done until your water is sparkling and you're completely satisfied. That's been our promise since 2015, and we've never backed down from it."
   },
   "faqs": [
     {
-      "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients are on the schedule within 3-5 business days. For emergency repairs like leaks or equipment failures, we offer same-day response. Call us at 704-312-0920 and we will get you taken care of."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new maintenance clients are on the schedule within one week. We'll start with a thorough pool assessment, then build a custom plan and assign your dedicated specialist. For leak detection or urgent repairs, we often schedule within 48 hours."
     },
     {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. Your dedicated specialist knows your pool and will leave it in perfect shape every visit."
+      "question": "What does the Clear Pool Guarantee cover?",
+      "answer": "If your pool isn't clear after any scheduled maintenance visit, contact your dedicated specialist and we'll return to address the issue at no additional charge. It's that simple — we stand behind every visit."
     },
     {
-      "question": "What makes Hofmann Pools different from other pool companies?",
-      "answer": "Every client gets a dedicated specialist — one person who learns your pool and handles every visit. Combined with our Clear Pool Guarantee and over 11 years of Charlotte-area expertise, you get consistent, accountable service you can actually rely on."
+      "question": "Do I get the same technician every time?",
+      "answer": "Yes. Every weekly maintenance client is assigned a dedicated specialist who learns the ins and outs of your specific pool. You also get their direct contact information so you can reach them anytime with questions."
     },
     {
-      "question": "Am I locked into a contract?",
-      "answer": "Never. We do not do contracts at Hofmann Pools. We earn your business every single visit. You can cancel anytime with zero fees or penalties — though our clients rarely want to."
+      "question": "How does your leak detection work?",
+      "answer": "We use advanced, minimally invasive techniques to locate leaks precisely without unnecessary demolition. Once found, we provide clear repair options with upfront pricing. Most leak repairs are completed quickly with minimal disruption to your pool area."
     },
     {
-      "question": "What areas around Charlotte do you serve?",
-      "answer": "We serve Charlotte, Huntersville, Cornelius, Davidson, Mooresville, Lake Norman, Matthews, Mint Hill, and surrounding communities in the greater Charlotte NC region."
+      "question": "Do you require long-term contracts?",
+      "answer": "No long-term contracts required. We believe in earning your trust every single visit. You can adjust or cancel your service plan at any time — no cancellation fees, no penalties."
     }
   ],
   "testimonials": [
     {
-      "name": "Satisfied Homeowner",
+      "name": "Charlotte Homeowner",
+      "text": "A great experience. Fantastic job for a reasonable price. Friendly and professional. Takes the worry out of pool maintenance.",
       "context": "Google Review",
-      "initials": "SH",
-      "text": "Not only do they do a fantastic job for a reasonable price, all the employees are friendly and professional. Highly recommend Hofmann Pools for any pool service needs."
+      "initials": "CH"
     },
     {
-      "name": "Charlotte Pool Owner",
-      "context": "Google Review",
-      "initials": "CP",
-      "text": "Will and his team are the best. So knowledgeable. They showed up on time and took the time to explain everything about our pool system. Outstanding service."
+      "name": "Will's Client",
+      "text": "Will and his team are the best. Knowledgeable, on time, and extremely thorough. They genuinely care about getting it right.",
+      "context": "Weekly Maintenance Client",
+      "initials": "WC"
     },
     {
-      "name": "Barbara R.",
-      "context": "Angi Review",
-      "initials": "BR",
-      "text": "Friendly courteous customer service. My pool is looking great thanks to Hofmann Pools. Would definitely recommend them to anyone looking for reliable pool care."
+      "name": "New Pool Owner",
+      "text": "Jack was able to answer all my questions with clear and easy instructions. I really appreciate his knowledge transfer. Made the whole process stress-free.",
+      "context": "Leak Detection Client",
+      "initials": "NP"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
-    "subtitle": "Get a free, no-pressure pool inspection from Will and the Hofmann Pools team. No contracts, no commitments — just honest answers and a clear path to a better pool.",
+    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
+    "subtitle": "Get a free pool assessment and honest quote — no pressure, no contracts. Just straightforward pool care from Charlotte's trusted team.",
     "benefits": [
-      "Free on-site pool inspection",
-      "Response within 24 hours",
-      "Clear Pool Guarantee on all plans"
+      "Free pool inspection and assessment",
+      "Your dedicated specialist assigned within days",
+      "Clear Pool Guarantee on every maintenance plan"
     ]
   },
   "footer": {
-    "description": "Owner-operated pool service. Proudly serving Charlotte since 2015.",
-    "service_area": "Serving Charlotte, Huntersville, Cornelius, Davidson & Lake Norman",
+    "description": "Owner-operated pool service. Serving Charlotte since 2015.",
+    "service_area": "Serving Charlotte, NC & the Greater Charlotte Metro Area",
     "services": [
+      "Weekly Maintenance",
       "Leak Detection & Repair",
       "Equipment Repair",
-      "Weekly Maintenance",
-      "Pool Restoration",
-      "Emergency Service"
+      "Equipment Installation",
+      "Custom Service Plans"
     ],
-    "copyright": "&copy; 2024 Hofmann Pools LLC. All rights reserved. Charlotte, NC"
+    "copyright": "&copy; 2024 Hofmann Pools LLC. All rights reserved."
   }
 }

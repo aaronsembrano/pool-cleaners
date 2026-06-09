@@ -5,180 +5,180 @@
   "phone": "(281) 849-3483",
   "email": "chris@peerlesspoolservice.com",
   "logo_path": "logo.png",
-  "review_count": "25",
+  "review_count": "14",
   "review_rating": "4.9",
   "colors": {
     "primary": "#1a5276",
-    "primary_dark": "#123a54",
-    "primary_deeper": "#0c2a3e",
+    "primary_dark": "#133b55",
+    "primary_deeper": "#0d2a3e",
     "secondary": "#2980b9",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
   },
   "trust_badges": {
     "badge_1": "Licensed & Insured",
-    "badge_2": "4.9/5 from 25+ Reviews",
+    "badge_2": "4.9/5 from 14+ Reviews",
     "badge_3": "HomeAdvisor Top Rated"
   },
   "hero": {
-    "badge_1": "4.9/5 from 25+ Google Reviews",
-    "badge_2": "20+ Years of Experience",
-    "headline": "Tomball's Trusted Pool Experts <span class=\"text-secondary italic\">Since 2004</span>",
-    "subheadline": "Your pool deserves more than guesswork. With over 20 years of hands-on experience, Peerless Pool Service delivers honest repairs, expert remodels, and equipment upgrades that keep your backyard in peak condition. No pressure, no upselling — just straight answers and quality work.",
-    "cta_text": "Request a Free Estimate",
+    "badge_1": "4.9/5 from 14+ Google Reviews",
+    "badge_2": "HomeAdvisor Top Rated Pro",
+    "headline": "Turnkey Pool Care <span class=\"text-secondary italic\">Done Right,<br>Every Time</span>",
+    "subheadline": "Your pool deserves more than guesswork. Peerless Pool Service delivers licensed, insured expertise for remodels, repairs, and maintenance across Tomball and Northwest Houston. No pressure, no up-selling — just honest work and a pool you can trust.",
+    "cta_text": "Request Your Free Quote",
     "checkmarks": [
-      "Free on-site inspection",
-      "No-pressure honest estimates",
-      "Licensed & insured since 2004"
+      "Same-day service available",
+      "No pressure, no up-selling",
+      "HomeAdvisor award-winning"
     ]
   },
   "stats": {
     "stat_1_value": "500",
     "stat_1_label": "Pools Serviced",
-    "stat_2_value": "20",
-    "stat_2_label": "Years Experience",
-    "stat_3_value": "1000",
-    "stat_3_label": "Equipment Repairs",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "14",
+    "stat_3_label": "5-Star Reviews",
     "stat_4_value": "100%",
-    "stat_4_label": "Honest Pricing"
+    "stat_4_label": "Satisfaction Rate"
   },
   "services": {
-    "label": "Our Expertise",
-    "headline": "Complete Pool & Spa Solutions<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From equipment breakdowns to full remodels, Peerless handles every aspect of pool and spa care with 20+ years of technical know-how and a commitment to doing it right the first time.",
+    "label": "Our Services",
+    "headline": "Complete Pool Solutions From<br class=\"hidden md:block\"> Remodels to Weekly Care",
+    "subtitle": "From full remodels to routine filter cleans, we handle every aspect of pool ownership so you can focus on enjoying your backyard oasis.",
     "cards": [
       {
         "title": "Full Pool & Spa Remodels",
-        "description": "Turnkey remodeling from outdated or damaged pools to stunning backyard retreats. Resurfacing, tile, coping, and full structural overhauls — handled start to finish."
+        "description": "Complete upgrades for outdated or damaged pools and spas. We handle everything from proposal to final completion — no subcontractors, no surprises."
       },
       {
         "title": "Equipment Upgrades & Repairs",
-        "description": "Salt systems, pumps, filters, heaters, lights, controllers, and more. Licensed technicians diagnose fast and repair right — most jobs completed same visit."
+        "description": "Salt systems, pumps, filters, heaters, lights, controllers, and more. Licensed technicians diagnose and fix issues fast — most repairs done same-visit."
       },
       {
         "title": "Filter Cleans",
-        "description": "Professional DE and cartridge filter cleaning recommended 2-4 times per year. Keeps your system running efficiently and your water crystal clear all season long."
+        "description": "Professional DE and cartridge filter cleaning recommended 2-4 times per year. Keeps your pool running efficiently and your water crystal clear."
       },
       {
-        "title": "Drain & Cleans",
-        "description": "Expert pool draining and thorough wall cleaning by professionals who know how to avoid the costly structural damage that comes with improper drainage."
+        "title": "Drain & Clean Services",
+        "description": "Professional pool draining and chemical cleaning to restore your pool to pristine condition. We safely handle all chemical treatments for you."
       },
       {
-        "title": "Salt System Installation",
-        "description": "Switch to a salt chlorine generator for softer water, lower maintenance, and no more hauling chlorine. Full installation and ongoing maintenance included."
+        "title": "Weekly Pool Maintenance",
+        "description": "Consistent, reliable weekly service with detailed reports after every visit. Chemical balancing, skimming, brushing, and equipment checks included."
       },
       {
-        "title": "Pool Automation",
-        "description": "Modern controllers that let you manage pumps, lights, heaters, and water features from one panel or your phone. Simplify your pool life with smart automation."
+        "title": "Paramount In-Floor Repair",
+        "description": "Specialized repair and maintenance for Paramount In-Floor cleaning systems. Expert service for these advanced pool cleaning systems."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Three Steps to a Peerless Pool",
     "steps": [
       {
-        "title": "Schedule Your Inspection",
-        "description": "Call or fill out the form. We'll come out, inspect your pool and equipment, and walk you through exactly what we find — no jargon, no pressure."
+        "title": "Tell Us About Your Pool",
+        "description": "Call or email us about your pool needs. We'll provide an honest, no-pressure assessment and quote — typically within the same day. No contracts required."
       },
       {
-        "title": "Get an Honest Estimate",
-        "description": "Chris and the team will explain every option, shop the best parts, and send you a transparent quote with no hidden fees. You decide what makes sense for your budget."
+        "title": "We Get to Work",
+        "description": "Our licensed and insured team arrives on schedule and handles everything — remodels, repairs, maintenance, or cleaning. You get a detailed report after every visit."
       },
       {
-        "title": "We Get It Done Right",
-        "description": "Our licensed crew handles the work professionally and on schedule. You'll receive a detailed service report, and we stand behind every job we complete."
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Your pool stays pristine, safe, and swim-ready year-round. If anything isn't right, we come back and make it right — that's the Peerless difference."
       }
     ]
   },
   "about": {
-    "label": "Why Tomball Trusts Peerless",
-    "headline": "20+ Years of Doing Pool Service the Right Way",
-    "description": "Peerless Pool Service was founded in 2004 by Chris, a hands-on pool professional who believed homeowners deserved better than the runaround. Based right here in Tomball, TX, we've built our reputation one honest repair and one satisfied customer at a time. Every technician on our team shares the same philosophy: explain the problem, present fair options, and do the job right. We're not here to upsell you — we're here to earn your trust.",
+    "label": "Why Tomball Trusts Us",
+    "headline": "Not Just a Pool Company — Your Trusted Pool Partner",
+    "description": "Founded in 2014 in Tomball, Texas, Peerless Pool Service has built a reputation on honest work and zero pressure. We're a licensed and insured team that earned HomeAdvisor's Screened & Approved, Top Rated Pro, and Service Award Winner designations. Every technician brings professional expertise and treats your pool like their own.",
     "badge": "HomeAdvisor Top Rated",
     "features": [
       {
-        "title": "Licensed, Insured & Screened",
-        "description": "Every job is backed by proper licensing, full insurance, and HomeAdvisor screening. Your home and property are in safe hands."
+        "title": "Licensed & Fully Insured",
+        "description": "Every job is backed by proper licensing and full insurance coverage. Your property is protected, guaranteed."
       },
       {
-        "title": "No Upselling. Honest Answers.",
-        "description": "We explain what needs fixing and why. You get transparent pricing with real options — never pressured into work you don't need."
+        "title": "No Contracts. No Pressure.",
+        "description": "We earn your business every visit. No long-term commitments, no up-selling, no cancellation fees — ever."
       },
       {
-        "title": "Detailed Service Reports",
-        "description": "After every visit, you receive a thorough report showing exactly what was done, what was found, and what to watch for next."
+        "title": "Turnkey Project Management",
+        "description": "From proposal to finish, we handle everything in-house. No subcontractors, no finger-pointing, no delays."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every estimate is upfront and detailed. We shop parts for the best value and never add hidden fees — because honest work shouldn't come with a catch."
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Every quote is honest and upfront. No hidden fees, no pressure — just fair pricing for quality pool care."
   },
   "guarantee": {
-    "headline": "Our \"Peerless Promise\" Guarantee",
-    "description": "If any repair or service doesn't meet your expectations, we come back and make it right at no extra charge. With 20+ years in the business, our reputation is everything — and we protect it by treating every pool like it's our own. That's the Peerless difference."
+    "headline": "Our \"Peerless Quality\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no additional cost. We built our reputation on doing things the right way — no shortcuts, no excuses. Your satisfaction isn't just a goal, it's our standard."
   },
   "faqs": [
     {
-      "question": "How quickly can you come out for an inspection?",
-      "answer": "Most inspections are scheduled within a few business days. For urgent equipment failures, call us directly and we'll do our best to get there fast. We know a broken pool heater or pump can't wait."
-    },
-    {
-      "question": "Do you handle both residential and commercial pools?",
-      "answer": "Yes. We service residential pools and spas as well as commercial properties. Whether it's a backyard pool or a community facility, our team has the expertise and licensing to handle the job."
-    },
-    {
-      "question": "What brands of equipment do you work on?",
-      "answer": "We work on all major brands — Pentair, Hayward, Jandy, Zodiac, Polaris, and more. From pumps and filters to salt systems and automation controllers, we have experience across the board."
-    },
-    {
-      "question": "Will you try to upsell me on things I don't need?",
-      "answer": "Absolutely not. Our approach is straightforward: we inspect, explain what we find, and present options at different price points. You decide what makes sense. No pressure, no games — that's how Chris has run this company since 2004."
+      "question": "How quickly can you start service?",
+      "answer": "We pride ourselves on fast response times. Many clients get same-day service, and new maintenance customers are typically scheduled within the week. Call us and we'll work around your schedule."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We're based in Tomball, TX and serve Spring, The Woodlands, Magnolia, Cypress, Klein, Champions, Northwest Houston, and surrounding Harris and Montgomery County communities."
+      "answer": "We're based right here in Tomball, Texas and serve the surrounding Northwest Houston communities. As a local company, we know this area and can respond quickly to your pool needs."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Peerless Pool Service is fully licensed and insured. We've also earned HomeAdvisor's Screened & Approved, Top Rated Pro, and Service Award Winner designations for our commitment to quality."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "Never. We don't believe in locking you in. No contracts, no cancellation fees, no pressure. We earn your business every single visit through quality work and honest service."
+    },
+    {
+      "question": "Can you handle full pool remodels?",
+      "answer": "Yes — we're a turnkey pool remodeler. We manage everything from the initial proposal through final completion, preventing costly structural problems and ensuring professional results at every stage."
     }
   ],
   "testimonials": [
     {
-      "name": "Chris M.",
-      "text": "No pressure, no up-selling; all technical knowledge and ability combined with honest customer service. Chris inspected our pool equipment, showed us what needed to be done and explained why. By day's end he'd shopped the needed parts and sent options with very reasonable cost estimates.",
+      "name": "Chris G.",
+      "text": "Chris did an outstanding job on this project from proposal to the finish. He was always confident, reliable, professional and courteous. Dealing with Chris was a pleasure.",
+      "context": "Pool Remodel",
+      "initials": "CG"
+    },
+    {
+      "name": "HomeAdvisor Customer",
+      "text": "Peerless was hired and delivered top-notch equipment repairs, replacement, and cleaning. No pressure, no up-selling. Technical knowledge and ability combined with honest customer service.",
       "context": "Equipment Repair",
-      "initials": "CM"
+      "initials": "HC"
     },
     {
-      "name": "Tomball Homeowner",
-      "text": "Excellent and on time service. Great communication and fair pricing. Peerless was hired and delivered top-notch equipment repairs, replacement, and cleaning. Highly recommend.",
-      "context": "Equipment Replacement & Cleaning",
-      "initials": "TH"
-    },
-    {
-      "name": "Local Customer",
-      "text": "Been using Peerless for 7 months and love their detailed report and they show up on time. Also his company is local here in Tomball. Would not use anyone else for my pool needs.",
-      "context": "Ongoing Pool Service",
-      "initials": "LC"
+      "name": "Nextdoor Neighbor",
+      "text": "Been using them for 7 months and love their detailed report and they show up on time. Also his company is local here in Tomball. Would not use anyone else.",
+      "context": "Pool Maintenance",
+      "initials": "NN"
     }
   ],
   "contact": {
-    "headline": "Ready to Talk to a<br>Real Pool Expert?",
-    "subtitle": "Get a free, honest estimate from a team with 20+ years of experience. No contracts, no pressure — just straightforward answers and quality pool care.",
+    "headline": "Ready for Peerless<br>Pool Care?",
+    "subtitle": "Get a free, no-pressure quote — often same-day. No contracts, no commitments — just honest pricing from a Tomball company that treats your pool like our own.",
     "benefits": [
-      "Free on-site pool & equipment inspection",
-      "Transparent estimate within 24-48 hours",
-      "Licensed, insured & HomeAdvisor approved"
+      "Free assessment with every quote",
+      "Same-day response available",
+      "100% satisfaction guaranteed"
     ]
   },
   "footer": {
-    "description": "Locally owned pool service in Tomball, TX. Serving the community with integrity since 2004.",
-    "service_area": "Serving Tomball, Spring, The Woodlands, Magnolia, Cypress & NW Houston",
+    "description": "Licensed & insured pool service. Proudly serving Tomball, TX since 2014.",
+    "service_area": "Serving Tomball & Northwest Houston",
     "services": [
       "Pool & Spa Remodels",
       "Equipment Repairs",
       "Filter Cleans",
-      "Drain & Cleans",
-      "Salt System Installation"
+      "Drain & Clean",
+      "Weekly Maintenance"
     ],
-    "copyright": "&copy; 2024 Peerless Pool Service, LLC. All rights reserved. Licensed & Insured — Tomball, TX"
+    "copyright": "&copy; 2024 Peerless Pool Service, LLC. All rights reserved. Licensed & Insured."
   }
 }
