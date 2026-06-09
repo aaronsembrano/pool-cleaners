@@ -1,184 +1,184 @@
 {
   "folder_name": "pristine-pool-service-fresno",
-  "company_name": "Pristine Pool Service",
-  "tagline": "The Most Complete Pool Service in Fresno & Clovis",
+  "company_name": "Pristine Pool Service And Repair, Inc.",
+  "tagline": "Stop Settling for Sub-Par Pool Maintenance",
   "phone": "(559) 456-4011",
   "email": "info@pristinepoolserviceinc.com",
-  "logo_path": "",
+  "logo_path": "logo.png",
+  "review_count": "17",
+  "review_rating": "4.8",
   "colors": {
-    "primary": "#0072CE",
-    "primary_dark": "#1B3A5C",
-    "primary_deeper": "#0E2440",
-    "secondary": "#00A3E0",
-    "cta": "#E8860C",
-    "cta_dark": "#C46F08"
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured — CA Lic #972904",
+    "badge_1": "Licensed #972904 & Insured",
     "badge_2": "4.8/5 from 17+ Reviews",
-    "badge_3": "A+ BBB Rated"
+    "badge_3": "BBB A+ Accredited"
   },
   "hero": {
     "badge_1": "4.8/5 from 17+ Google Reviews",
-    "badge_2": "A+ BBB Accredited Business",
-    "headline": "28 Years of Pools Done <span class=\"text-secondary italic\">The Family Way</span>",
-    "subheadline": "Fresno families have trusted the Lopes family since 1996 to keep their pools pristine. CPO-certified technicians, honest pricing, and service we stake our family name on — so you never worry about your pool again.",
+    "badge_2": "BBB A+ Rated Since 1996",
+    "headline": "Fresno's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Family Since 1996</span>",
+    "subheadline": "Your pool deserves more than a guy with a net. With 28+ years of CPO-certified expertise, the Lopes family delivers the kind of meticulous, full-service pool care that keeps your water pristine and your weekends free.",
     "cta_text": "Get My Free Pool Inspection",
     "checkmarks": [
-      "Free pool inspection included",
+      "Free on-site pool inspection",
       "CPO-certified technicians on every visit",
-      "Licensed, bonded & insured"
+      "Licensed, bonded & BBB A+ rated"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Fresno Families Served",
+    "stat_1_label": "Pools Maintained",
     "stat_2_value": "28",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "5000",
-    "stat_3_label": "Service Visits Completed",
+    "stat_2_label": "Years of Service",
+    "stat_3_value": "1000",
+    "stat_3_label": "Repairs Completed",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> a Family That Cares",
-    "subtitle": "From weekly maintenance to emergency green pool recovery, Pristine Pool Service handles every aspect of pool ownership so you can enjoy your backyard oasis worry-free.",
+    "headline": "Complete Pool Care From the<br class=\"hidden md:block\"> Family That Does It Right",
+    "subtitle": "From weekly maintenance to full equipment overhauls, Pristine Pool Service handles every aspect of pool care so you never have to worry about your water again.",
     "cards": [
       {
-        "title": "Weekly Residential Service",
-        "description": "Tiered maintenance plans tailored to your needs — chemical balancing, skimming, brushing, filter cleaning, and equipment checks to keep your pool sparkling every week."
-      },
-      {
-        "title": "Pool Equipment Repair",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, sweeps, and chlorinators. Our CAEI-certified technicians fix it right the first time — most repairs same-visit."
-      },
-      {
-        "title": "Green Pool Recovery",
-        "description": "Algae took over? We specialize in bringing neglected, murky green pools back to crystal-clear, swimmable condition — fast."
+        "title": "Residential Pool Service",
+        "description": "Weekly full-service maintenance including chemical balancing, skimming, brushing, vacuuming, and equipment checks. Your pool stays swim-ready every single week."
       },
       {
         "title": "Commercial Pool Service",
-        "description": "Reliable maintenance for apartment complexes, HOAs, hotels, and fitness centers. CPO-certified techs ensure full compliance with health and safety standards."
+        "description": "Professional maintenance for apartment complexes, HOAs, and commercial facilities. We keep you compliant with health and safety standards — guaranteed."
       },
       {
-        "title": "Energy-Efficient Upgrades",
-        "description": "PG&E-certified installation of energy-efficient pool pumps and equipment. Save money on your electric bill while keeping your pool running at peak performance."
+        "title": "Green Pool Clean-Up",
+        "description": "Algae-covered nightmare? We restore neglected pools to crystal-clear condition fast. Our specialized treatment gets you swimming again in days, not weeks."
       },
       {
-        "title": "Equipment Installation",
-        "description": "Professional installation of new pumps, filters, heaters, and automation systems. CAEI-certified installers ensure every component runs optimally from day one."
+        "title": "Pool Equipment Repairs",
+        "description": "Expert diagnostics and repair for pumps, filters, heaters, sweeps, and salt systems. CPO-certified techs fix it right the first time."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Energy-efficient equipment installations certified through PG&E's CAEI program. Upgrade your pool equipment and save on energy costs."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing by certified professionals. Safe, clear water that's gentle on skin and eyes — because chemistry matters."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Simple",
+    "headline": "Three Steps to a Pristine Pool",
     "steps": [
       {
-        "title": "Call or Request a Quote",
-        "description": "Tell us about your pool and what you need. We will provide an honest, no-pressure quote and schedule your free inspection at a time that works for you."
+        "title": "Schedule Your Free Inspection",
+        "description": "Call or fill out the form. We'll visit your pool, assess its condition, and give you an honest quote — no pressure, no gimmicks. Just straightforward pricing from a family that values your trust."
       },
       {
-        "title": "Meet Your Dedicated Technician",
-        "description": "A CPO-certified tech from our team inspects your pool, explains everything clearly, and begins service — on time, every time. No strangers, no revolving door."
+        "title": "Our CPO-Certified Team Takes Over",
+        "description": "Our experienced, CPO-certified technicians arrive on schedule every week. Full-service cleaning, chemical balancing, and equipment inspections — all handled with 28 years of expertise."
       },
       {
-        "title": "Enjoy a Pristine Pool",
-        "description": "Your pool stays crystal clear, properly balanced, and swim-ready year-round. We stake our family reputation on every single visit — and it shows."
+        "title": "Enjoy Your Pristine Pool",
+        "description": "Your pool stays crystal clear, properly balanced, and always ready for a swim. If anything is ever less than pristine, we come back and make it right — that's the Lopes family guarantee."
       }
     ]
   },
   "about": {
-    "label": "Why Fresno Trusts the Lopes Family",
-    "headline": "Family-Owned Since 1996 — Your Pool Is Our Reputation",
-    "description": "When Joe Lopes founded Pristine Pool Service in 1996, he built it on a simple promise: treat every pool like it is your own. Today, Joe, his wife Kristi, son Brandon, and a team of experienced technicians with over 50 combined years of expertise continue that tradition. We are not a franchise or a faceless corporation — we are your neighbors in Fresno, and we put our family name on every service call.",
+    "label": "Why Fresno Trusts Us",
+    "headline": "Family-Owned, CPO-Certified, and Committed to Pristine",
+    "description": "Joe and Kristi Lopes founded Pristine Pool Service in 1996 with a simple belief: every pool should be as close to its original, pristine condition as possible. Over 28 years later, that standard hasn't changed. Every technician on our team is CPO-certified through the National Swimming Pool Foundation, and our company maintains an A+ BBB rating because we treat every pool — and every client — like family.",
     "badge": "CPO & CAEI Certified",
     "features": [
       {
-        "title": "CPO-Certified Technicians",
-        "description": "Every technician on our team holds a Certified Pool/Spa Operator credential from the National Swimming Pool Foundation — your pool is in expert hands."
+        "title": "All Technicians CPO-Certified",
+        "description": "Every tech on our team holds a Certified Pool/Spa Operator credential through the National Swimming Pool Foundation. No exceptions."
       },
       {
-        "title": "A+ BBB & ThreeBestRated",
-        "description": "Our A+ BBB rating and ThreeBestRated score of 116/120 are not just badges — they are proof of thousands of satisfied pool owners across Fresno and Clovis."
+        "title": "Licensed, Bonded & Insured",
+        "description": "California Contractor License #972904. Fully bonded and insured for your protection. BBB Accredited with an A+ rating."
       },
       {
-        "title": "Satisfaction Guaranteed",
-        "description": "Not happy with a visit? We come back and make it right at no extra charge. Our family reputation depends on your complete satisfaction."
+        "title": "28+ Years, Same Family",
+        "description": "Joe and Kristi Lopes still run the business personally. When you call Pristine, you're talking to the family that stakes their name on every job."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Choose the service tier that fits your pool and budget. Upgrade, downgrade, or cancel anytime — we earn your trust every visit."
+    "subtitle": "Every pool is different, so we quote after a free inspection. What you'll always get: honest pricing, thorough service, and zero hidden fees."
   },
   "guarantee": {
-    "headline": "Our \"Pristine Pool\" Family Guarantee",
-    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right — at no extra cost. Joe and the entire Lopes family stake their reputation on every pool we touch. We do not consider the job done until your pool is pristine and you are smiling."
+    "headline": "Our \"Pristine Pool\" Guarantee",
+    "description": "If your pool isn't pristine after any service visit, call us. We'll come back and re-service it at no charge — no questions asked. We've built our reputation on this promise for 28 years, and we're not about to stop now."
   },
   "faqs": [
     {
       "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients in Fresno and Clovis are scheduled within 3-5 business days. For green pool emergencies, we offer priority response. Just call us at (559) 456-4011 and we will work with your schedule."
+      "answer": "Most new clients are on our schedule within one week. For green pool emergencies, we offer priority response. Call us at (559) 456-4011 and we'll find the earliest available slot."
     },
     {
       "question": "Are your technicians certified?",
-      "answer": "Yes. Every technician is CPO-certified through the National Swimming Pool Foundation and our installers hold CAEI certification in partnership with PG&E. We are also a licensed, bonded, and insured California contractor (License #972904)."
-    },
-    {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most of our Fresno clients provide gate access and we handle everything while you are away. You will know exactly what was done after each visit."
+      "answer": "Every single technician is CPO-certified through the National Swimming Pool Foundation. We also hold CAEI certification from PG&E for energy-efficient equipment installations. Our team averages 10-15+ years of hands-on pool experience."
     },
     {
       "question": "Do you service commercial pools?",
-      "answer": "Absolutely. We maintain pools for apartment complexes, HOAs, hotels, and fitness centers throughout Fresno, Clovis, and the Central Valley. Our CPO-certified team ensures full health and safety compliance."
+      "answer": "Absolutely. We serve apartment complexes, HOAs, and commercial facilities across Fresno, Clovis, and Madera Ranchos. Commercial clients receive dedicated technicians and flexible scheduling to meet health and safety compliance."
     },
     {
-      "question": "Can you help me save on energy costs?",
-      "answer": "Yes. We are CAEI-certified and PG&E-approved to install energy-efficient pool pumps. Many of our Fresno clients see significant savings on their electric bills after upgrading their pool equipment through our certified programs."
+      "question": "What areas do you serve?",
+      "answer": "We serve Fresno, Clovis, and Madera Ranchos, California. If you're not sure whether you're in our service area, give us a call — we're happy to check."
+    },
+    {
+      "question": "What makes Pristine different from other pool services?",
+      "answer": "We're family-owned and operated for over 28 years. Every technician is CPO-certified, we're licensed (Contractor #972904), bonded, insured, and BBB Accredited with an A+ rating. We don't cut corners — the name Pristine is our promise."
     }
   ],
   "testimonials": [
     {
-      "name": "Verified Reviewer",
-      "context": "ThreeBestRated Review",
-      "initials": "VR",
-      "text": "This company does a very good job on keeping my pool sparkling. My tech is very thorough with cleaning and equipment maintenance. I definitely recommend this company if you want the best in the area."
-    },
-    {
-      "name": "Satisfied Client",
+      "name": "Satisfied Customer",
       "context": "ThreeBestRated Review",
       "initials": "SC",
-      "text": "Amazing service and great customer care. I called Kristi from a referral that I received from a friend. They are super busy, but they do provide a great service."
+      "text": "This company does a very good job on keeping my pool sparkling. My tech is very thorough with cleaning and equipment maintenance."
+    },
+    {
+      "name": "Happy Client",
+      "context": "ThreeBestRated Review",
+      "initials": "HC",
+      "text": "Amazing service and great customer care. They are super busy, but they do provide a great service."
     },
     {
       "name": "Long-Time Customer",
       "context": "ThreeBestRated Review",
       "initials": "LC",
-      "text": "Best pool service I have ever had. Joe, Kristi and their staff are very friendly and polite. Their work is thorough and professional and I never have to worry about the quality of their work."
+      "text": "Best pool service I have ever had. Joe, Kristi and their staff are very friendly and polite. Their work is thorough and professional."
     }
   ],
   "contact": {
     "headline": "Ready for a Pool That's<br>Always Pristine?",
-    "subtitle": "Get a free, no-pressure pool inspection and honest quote. The Lopes family has served Fresno since 1996 — call us today and see the Pristine difference.",
+    "subtitle": "Get a free on-site inspection and honest quote. No pressure, no gimmicks — just 28 years of family-owned pool care expertise working for you.",
     "benefits": [
-      "Free pool inspection with every quote",
-      "Response within 24 hours",
-      "28+ years of family-owned expertise"
+      "Free on-site pool inspection",
+      "Honest quote within 24 hours",
+      "CPO-certified service guaranteed"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving Fresno & Clovis since 1996.",
-    "service_area": "Serving Fresno, Clovis, Madera Ranchos & the Central Valley",
+    "description": "Family-owned pool service proudly serving Fresno since 1996. Licensed, bonded, insured & BBB A+ rated.",
+    "service_area": "Serving Fresno, Clovis & Madera Ranchos, CA",
     "services": [
-      "Weekly Pool Maintenance",
-      "Equipment Repair",
-      "Green Pool Recovery",
-      "Energy-Efficient Upgrades",
-      "Commercial Pool Service"
+      "Residential Pool Service",
+      "Commercial Pool Service",
+      "Green Pool Clean-Up",
+      "Equipment Repairs",
+      "Equipment Upgrades"
     ],
-    "copyright": "&copy; 2024 Pristine Pool Service and Repair, Inc. All rights reserved. CA Contractor License #972904"
-  },
-  "review_count": "17",
-  "review_rating": "4.8"
+    "copyright": "&copy; 2024 Pristine Pool Service And Repair, Inc. All rights reserved. CA Contractor License #972904"
+  }
 }
