@@ -5,31 +5,31 @@
   "phone": "+1 954-773-8892",
   "email": "mario.ramos@somarpools.com",
   "logo_path": "logo.png",
-  "review_count": "30",
+  "review_count": "17",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#1B2A4A",
-    "primary_dark": "#111D35",
-    "primary_deeper": "#0A1223",
-    "secondary": "#C9A96E",
-    "cta": "#C9A96E",
-    "cta_dark": "#B08E4A"
+    "primary": "#1B3A5C",
+    "primary_dark": "#122841",
+    "primary_deeper": "#0C1D30",
+    "secondary": "#C9A84C",
+    "cta": "#C9A84C",
+    "cta_dark": "#B08E33"
   },
   "trust_badges": {
     "badge_1": "Licensed Florida Pool Contractor",
-    "badge_2": "5.0/5 from 30+ Reviews",
-    "badge_3": "Pinnacle Design Award Winner"
+    "badge_2": "5.0/5 from 17+ Reviews",
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
-    "badge_1": "5.0/5 from 30+ Google Reviews",
-    "badge_2": "Six Consecutive Houzz Awards",
-    "headline": "South Florida's Luxury <span class=\"text-secondary italic\">Pool Artisans</span>",
-    "subheadline": "For over 25 years, discerning homeowners across Fort Lauderdale and Miami have trusted Somar Pools with their most ambitious pool visions. From award-winning infinity-edge designs to white-glove weekly care, we deliver perfection you can dive into.",
-    "cta_text": "Request Your Private Consultation",
+    "badge_1": "5.0/5 from 17+ Google Reviews",
+    "badge_2": "Six Houzz Design Awards",
+    "headline": "Luxury Pools Designed <span class=\"text-secondary italic\">for South<br>Florida Living</span>",
+    "subheadline": "For over 25 years, Somar Pools has crafted award-winning pools for South Florida's most discerning homeowners. From custom design and construction to leak detection and concierge-level maintenance, we deliver white-glove service that matches the prestige of your property.",
+    "cta_text": "Request a Private Consultation",
     "checkmarks": [
-      "Complimentary design consultation",
-      "Award-winning craftsmanship",
-      "White-glove concierge service"
+      "Complimentary on-site evaluation",
+      "Award-winning design team",
+      "White-glove concierge care"
     ]
   },
   "stats": {
@@ -37,39 +37,39 @@
     "stat_1_label": "Luxury Pools Built",
     "stat_2_value": "25",
     "stat_2_label": "Years of Excellence",
-    "stat_3_value": "3",
-    "stat_3_label": "Counties Served",
-    "stat_4_value": "5.0",
-    "stat_4_label": "Google Rating"
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "5-Star Rated"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Luxury Pool Services Crafted<br class=\"hidden md:block\"> for South Florida's Finest",
-    "subtitle": "From visionary custom builds to precision leak detection and concierge-level maintenance, every service reflects our commitment to excellence and discretion.",
+    "headline": "Full-Service Luxury Pool Care<br class=\"hidden md:block\"> From Design to Daily Maintenance",
+    "subtitle": "Whether you are envisioning a breathtaking new pool, solving a persistent leak, or seeking concierge-level weekly care, Somar Pools delivers precision-crafted solutions for every aspect of pool ownership.",
     "cards": [
       {
-        "title": "Custom Luxury Pool Design",
-        "description": "Estate pools with seamless integration to your architecture and lifestyle, combining visionary aesthetics with advanced engineering for breathtaking results."
-      },
-      {
-        "title": "Pool Automation & Salinity",
-        "description": "Expert installation of Jandy iAqualink, TruSense chemistry monitoring, and AquaPure salinity systems for effortless smart pool management."
-      },
-      {
-        "title": "Concierge Pool Maintenance",
-        "description": "White-glove weekly service by trained technicians who keep your pool pristine and swim-ready year-round, with detailed visit reports."
+        "title": "Custom Pool Design & Build",
+        "description": "Visionary luxury pool design and construction combining cutting-edge engineering with breathtaking aesthetics for South Florida's most prestigious properties."
       },
       {
         "title": "Leak Detection & Repair",
-        "description": "Pinpoint accuracy using electronic listening devices, pressure testing, and dye-tracing technology to locate and resolve leaks fast."
+        "description": "State-of-the-art electronic listening devices, pressure testing, and dye-tracing technology to pinpoint and resolve leaks other companies miss."
       },
       {
-        "title": "Award-Winning Renovations",
-        "description": "Transform your existing pool with updated finishes, modern tile, custom coping, and premium decking for a stunning refresh."
+        "title": "Concierge Pool Maintenance",
+        "description": "White-glove weekly service with proactive monitoring, detailed reporting, and meticulous care that keeps your pool pristine year-round."
+      },
+      {
+        "title": "Pool Renovation & Remodeling",
+        "description": "Award-winning renovation services backed by six Houzz Design Awards and a Pinnacle Design Award. Transform your pool into a modern masterpiece."
+      },
+      {
+        "title": "Automation & Smart Systems",
+        "description": "Certified Jandy iAqualink automation, TruSense chemistry monitoring, and AquaPure salinity control for effortless, app-controlled pool management."
       },
       {
         "title": "Commercial Pool Service",
-        "description": "Professional maintenance, repair, and compliance services tailored for hotels, multi-family communities, and commercial properties across South Florida."
+        "description": "Professional-grade maintenance and compliance management for hotels, resorts, and commercial properties throughout South Florida."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Your Luxury Pool Experience in Three Steps",
     "steps": [
       {
-        "title": "Share Your Vision",
-        "description": "Tell us about your dream pool or service needs. We schedule a private consultation at your property to understand your goals, style, and timeline."
+        "title": "Schedule a Private Consultation",
+        "description": "Contact us to arrange a complimentary on-site evaluation. We will assess your property, discuss your vision, and provide a detailed proposal tailored to your needs."
       },
       {
-        "title": "Receive Your Custom Plan",
-        "description": "Our team designs a tailored proposal with transparent pricing, 3D renderings for new builds, or a detailed scope for maintenance and repairs."
+        "title": "We Craft Your Solution",
+        "description": "Our award-winning team designs a custom plan, whether it is a new build, renovation, leak repair, or ongoing maintenance. Every detail is engineered for excellence."
       },
       {
-        "title": "Relax and Enjoy",
-        "description": "From groundbreaking to weekly care, we handle every detail with precision and discretion. Your only job is to enjoy your stunning pool."
+        "title": "Enjoy Effortless Luxury",
+        "description": "Relax while we handle everything. From construction milestones to weekly concierge care, your pool stays flawless and your time stays yours."
       }
     ]
   },
   "about": {
-    "label": "Why South Florida Trusts Somar",
-    "headline": "25+ Years of Luxury Pool Mastery in South Florida",
-    "description": "Founded by licensed Florida pool contractor Mario Ramos, Somar Pools has earned the trust of celebrity clients, prestigious builders, and discerning homeowners across Miami-Dade, Broward, and Palm Beach counties. Our Pinnacle Design Award for a 600-sq-ft suspended saline infinity-edge pool and six consecutive Houzz Design Awards speak to our relentless pursuit of perfection. Every project reflects our core values: precision engineering, visionary design, and white-glove discretion.",
-    "badge": "Pinnacle Design Award Winner",
+    "label": "Why South Florida Trusts Somar Pools",
+    "headline": "25+ Years of Award-Winning Pool Excellence",
+    "description": "Founded in 2000, Somar Pools has built a reputation as South Florida's premier luxury pool company. Owner Mario Ramos and his team combine visionary design with advanced engineering, serving discerning homeowners, celebrity clients, and prestigious builders from Fort Lauderdale to Miami Beach. Our six consecutive Houzz Design Awards and Pinnacle Design Award speak to the standard we set on every project.",
+    "badge": "Houzz Award Winner",
     "features": [
       {
         "title": "Licensed & Award-Winning",
-        "description": "Licensed Florida pool contractor with Pinnacle Design Award and six consecutive Houzz Awards for service and design excellence."
+        "description": "Licensed Florida pool contractor with six consecutive Houzz Design Awards, a Pinnacle Design Award, and BBB A+ rating."
       },
       {
-        "title": "Smart Pool Technology Experts",
-        "description": "Certified specialists in Jandy iAqualink automation, TruSense chemistry monitoring, and AquaPure salinity control systems."
+        "title": "Advanced Leak Technology",
+        "description": "We deploy electronic listening devices, pressure testing equipment, and dye-tracing technology to find leaks other companies cannot."
       },
       {
-        "title": "White-Glove Discretion",
-        "description": "Trusted by celebrity clients and elite communities for discreet, meticulous service that respects your privacy and property."
+        "title": "White-Glove Service Standard",
+        "description": "Every interaction reflects our commitment to discretion, precision, and the kind of care that luxury properties deserve."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Luxury Pricing. No Surprises.",
-    "subtitle": "Every proposal is custom-tailored to your property. Flexible service plans with no hidden fees and no long-term contracts required."
+    "headline": "Premium Service. Transparent Pricing.",
+    "subtitle": "Every engagement is custom-tailored to your property. Contact us for a complimentary consultation and detailed proposal."
   },
   "guarantee": {
-    "headline": "Our \"White-Glove\" Guarantee",
-    "description": "If any service visit does not meet our exacting standards, we return and make it right at no additional charge. Somar Pools has built its reputation on exceeding expectations for over 25 years, and we stand behind every visit, every project, and every detail until you are completely satisfied."
+    "headline": "Our Commitment to Excellence",
+    "description": "If any aspect of our service does not meet your expectations, we will return and make it right at no additional charge. With over 25 years in business, our reputation is built on delivering results that exceed what our clients envision. Your complete satisfaction is not just a promise, it is the standard we have maintained since 2000."
   },
   "faqs": [
     {
       "question": "What areas does Somar Pools serve?",
-      "answer": "We serve Miami-Dade, Broward, and Palm Beach counties including Fort Lauderdale, Las Olas Isles, Harbor Beach, Miami Beach, Golden Beach, Coral Gables, Key Biscayne, Boca Raton, and surrounding luxury communities. We also serve select Caribbean projects."
+      "answer": "We serve Miami-Dade County, Broward County, and Palm Beach County, including Fort Lauderdale (Las Olas Isles, Rio Vista, Harbor Beach, Coral Ridge), Miami Beach, Golden Beach, Coconut Grove, Coral Gables, Pinecrest, Boca Raton, and select Caribbean projects."
+    },
+    {
+      "question": "How does your leak detection process work?",
+      "answer": "We use a combination of electronic listening devices, pressure testing equipment, and dye-tracing technology to pinpoint leaks with surgical precision. Many clients come to us after other companies failed to locate their leak. We typically resolve the issue the same day we find it."
+    },
+    {
+      "question": "What makes your concierge maintenance different?",
+      "answer": "Our concierge service goes beyond basic cleaning. We provide proactive equipment monitoring, detailed service reports, water chemistry optimization, and priority scheduling. We treat your pool with the same care and discretion you would expect from any premium service provider."
+    },
+    {
+      "question": "Do you handle both residential and commercial pools?",
+      "answer": "Yes. We provide full-service solutions for luxury residences, estates, and commercial properties including hotels and resort communities. Commercial clients receive dedicated account management and compliance-focused maintenance programs."
     },
     {
       "question": "How long does a custom pool build take?",
-      "answer": "Timelines vary based on design complexity and permitting, but most luxury pool builds take 8-16 weeks from permit approval to completion. Mario personally manages every project timeline to minimize delays."
-    },
-    {
-      "question": "Do you offer pool automation upgrades for existing pools?",
-      "answer": "Absolutely. We specialize in Jandy iAqualink automation, TruSense chemistry monitoring, and AquaPure salinity control systems. We can retrofit most existing pools with smart technology for remote control and monitoring."
-    },
-    {
-      "question": "What makes your leak detection different?",
-      "answer": "We use advanced electronic listening devices, pressure testing, and dye-tracing technology for pinpoint accuracy. Most leaks are located and repaired the same day, saving you time and money versus trial-and-error approaches."
-    },
-    {
-      "question": "Do you service commercial properties?",
-      "answer": "Yes. We provide professional maintenance, repair, and compliance services for hotels, resorts, multi-family communities, and commercial properties across all three counties with flexible scheduling and dedicated account management."
+      "answer": "Timelines vary based on design complexity, permitting, and site conditions. A typical luxury pool build in South Florida ranges from 8 to 16 weeks. We provide a detailed project timeline during your consultation and keep you informed at every milestone."
     }
   ],
   "testimonials": [
     {
-      "name": "Rebecca L.",
-      "context": "Pool Remodel & Maintenance",
-      "initials": "RL",
-      "text": "The best company I have worked with. Great service and quality of work. They did an excellent job on our pool remodel. No hidden costs, cheap materials or shadiness. Somar continues to service our pool and we love knowing someone will be here on time every week."
+      "name": "Lauri B.",
+      "text": "From start to finish they were prompt, every step of the way!! The quality of work is beyond what we imagined!!",
+      "context": "Pool Remodel",
+      "initials": "LB"
+    },
+    {
+      "name": "Scott A.",
+      "text": "After Van Kirk finished it, it leaked a little for a consistent full year... Somar found the poor craftsmanship of Van Kirk and fixed it in 1 day.",
+      "context": "Leak Detection & Repair",
+      "initials": "SA"
     },
     {
       "name": "Ryan F.",
-      "context": "Pool Design & Construction",
-      "initials": "RF",
-      "text": "Mario and his team are amongst the most outstanding professionals we've worked with in Miami. He knows how to take an idea on paper and turn it into reality, making the pool design, permitting, and development process a breeze."
-    },
-    {
-      "name": "Adrienne S.",
-      "context": "Ongoing Pool Service",
-      "initials": "AS",
-      "text": "Somar Pools is TOTAL quality client service! Reliable, responsive, a pleasure to work with. It's like VIP service is their regular thing for ALL their clients! Owner Mario Ramos takes sincere pride in ensuring his customers are happy."
+      "text": "Mario and his team are amongst the most outstanding professionals with whom we've worked in the Miami area.",
+      "context": "General Service",
+      "initials": "RF"
     }
   ],
   "contact": {
-    "headline": "Ready for the Pool<br>You've Always Envisioned?",
-    "subtitle": "Request a complimentary private consultation. No pressure, no obligation — just honest expertise from South Florida's most trusted luxury pool team.",
+    "headline": "Ready for the Pool<br>You Have Always Envisioned?",
+    "subtitle": "Schedule a complimentary on-site consultation. We will evaluate your property, discuss your vision, and deliver a detailed proposal with transparent pricing.",
     "benefits": [
-      "Complimentary on-site consultation",
-      "Custom proposal within 48 hours",
+      "Complimentary on-site property evaluation",
+      "Detailed proposal within 48 hours",
       "25+ years of luxury pool expertise"
     ]
   },
   "footer": {
-    "description": "South Florida's premier luxury pool design, construction, and concierge care since 2000.",
-    "service_area": "Serving Miami-Dade, Broward & Palm Beach Counties",
+    "description": "South Florida's premier luxury pool company. Award-winning design, construction, and concierge care since 2000.",
+    "service_area": "Serving Fort Lauderdale, Miami, Palm Beach & Surrounding Communities",
     "services": [
       "Custom Pool Design",
       "Leak Detection & Repair",
       "Concierge Maintenance",
-      "Pool Renovations",
-      "Commercial Service"
+      "Pool Renovation",
+      "Automation Systems"
     ],
-    "copyright": "&copy; 2024 Somar Pools LLC. All rights reserved. Licensed Florida Pool Contractor."
+    "copyright": "&copy; 2024 Somar Pools LLC. All rights reserved. Licensed Florida Pool Contractor"
   }
 }

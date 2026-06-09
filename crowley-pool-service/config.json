@@ -2,183 +2,183 @@
   "folder_name": "crowley-pool-service",
   "company_name": "Crowley Pool Service",
   "tagline": "Southeastern Massachusetts' Vinyl Liner Pool Specialists",
-  "phone": "(781) 801-3539",
-  "email": "steve@crowleypoolservice.com",
+  "phone": "+1 781-801-3539",
+  "email": "info@crowleypoolservice.com",
   "logo_path": "logo.png",
   "review_count": "50",
   "review_rating": "4.9",
   "colors": {
-    "primary": "#1a2b4a",
-    "primary_dark": "#111d33",
-    "primary_deeper": "#0a1220",
+    "primary": "#1a3a5c",
+    "primary_dark": "#0f2540",
+    "primary_deeper": "#091a2e",
     "secondary": "#3b82f6",
-    "cta": "#f59e0b",
-    "cta_dark": "#d97706"
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured",
+    "badge_1": "BBB Accredited Business",
     "badge_2": "4.9/5 from 50+ Reviews",
-    "badge_3": "BBB Accredited"
+    "badge_3": "Owner-Operated Since 2016"
   },
   "hero": {
     "badge_1": "4.9/5 from 50+ Google Reviews",
-    "badge_2": "Family-Owned Since 2016",
-    "headline": "Vinyl Liner Experts <span class=\"text-secondary italic\">Other Companies<br>Won't Call Back</span>",
-    "subheadline": "Your pool deserves more than a generic fix from a company that won't return your calls. Crowley Pool Service custom-measures every liner, solves the problems others walk away from, and treats your pool like it's our own. Southeastern MA homeowners have trusted us for over 10 years.",
+    "badge_2": "BBB Accredited Business",
+    "headline": "Your Pool Deserves a <span class=\"text-secondary italic\">Perfect-Fit<br>Liner</span>",
+    "subheadline": "Other companies guess. We custom-measure every pool for a precise vinyl liner fit that lasts for years. Family-owned and owner-operated on the South Shore for over a decade, Crowley Pool Service handles the tough jobs other companies walk away from.",
     "cta_text": "Get My Free Pool Assessment",
     "checkmarks": [
-      "Custom-measured liners, never generic",
-      "Same-week emergency response",
-      "No big-company runaround"
+      "Custom-measured for every pool",
+      "Owner on every job site",
+      "10+ years South Shore expertise"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Pools Transformed",
+    "stat_1_label": "Liners Installed",
     "stat_2_value": "10",
-    "stat_2_label": "Years Experience",
-    "stat_3_value": "20",
-    "stat_3_label": "Towns Served",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Serviced",
     "stat_4_value": "4.9",
     "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Specialties",
-    "headline": "Vinyl Liner Pools Are All We Do.<br class=\"hidden md:block\"> And We Do Them Right.",
-    "subtitle": "From liner replacements to leak repairs, seasonal openings to full renovations — Crowley Pool Service handles every aspect of vinyl liner pool care across Southeastern Massachusetts.",
+    "headline": "Vinyl Liner Pools Are<br class=\"hidden md:block\"> All We Think About",
+    "subtitle": "From liner replacements to underground leak repairs, we handle the complex pool work other companies avoid. Every job gets the owner's direct attention.",
     "cards": [
       {
         "title": "Vinyl Liner Replacement",
-        "description": "Custom-measured liner replacement for inground and above-ground pools. Complete removal, surface prep, new gaskets, faceplates, and water coordination included."
+        "description": "Custom-measured pool liners with full removal, surface prep, new gaskets, faceplates, and water coordination for a perfect fit every time."
       },
       {
         "title": "Pool Plumbing & Leak Repair",
-        "description": "Expert leak detection, pressure testing, and plumbing repair — including underground line replacement. We find and fix leaks other companies miss."
+        "description": "Expert leak detection using pressure testing and advanced techniques, plus complete plumbing repairs to stop water loss and protect your investment."
+      },
+      {
+        "title": "Underground Line Replacement",
+        "description": "Major underground plumbing repairs and full line replacements when leaks occur beneath the pool deck or yard. We do the jobs others refuse."
       },
       {
         "title": "Pool Renovations",
-        "description": "Full-scale renovations for aging vinyl liner pools. We transform tired, worn-out pools into like-new condition with lasting results."
+        "description": "Complete renovation services for both inground and above-ground vinyl liner pools, transforming aging pools into like-new condition."
       },
       {
-        "title": "Spring Openings",
-        "description": "Professional seasonal openings to get your pool summer-ready. Equipment inspection, chemical balancing, and system checks all handled."
-      },
-      {
-        "title": "Winter Closings",
-        "description": "Thorough winterization to protect your pool and equipment through harsh New England winters. Peace of mind until spring."
+        "title": "Spring Openings & Winter Closings",
+        "description": "Seasonal services to get your pool swim-ready in spring and properly winterized in fall, protecting your equipment from freeze damage."
       },
       {
         "title": "Equipment Upgrades",
-        "description": "Pump, filter, heater installation and complete system re-plumbing. Upgrade your pool's performance and cut energy costs."
+        "description": "Installation of energy-efficient pumps, filters, heaters, and complete system re-plumbing to improve performance and reduce operating costs."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Pool You Can Trust",
+    "headline": "Three Steps to a Like-New Pool",
     "steps": [
       {
-        "title": "Tell Us About Your Pool",
-        "description": "Call or fill out the form. Steve personally reviews every request and provides an honest, no-pressure assessment within 24 hours. No sales pitch, just straight answers."
+        "title": "Tell Us What's Going On",
+        "description": "Call or message us with your pool issue. We'll ask a few questions, give you an honest assessment, and schedule a visit — usually within days, not weeks."
       },
       {
-        "title": "We Custom-Solve Your Problem",
-        "description": "Our experienced crew arrives on schedule with the right tools and materials. Every pool gets custom measurements — no generic fixes, no cutting corners."
+        "title": "We Custom-Plan Your Fix",
+        "description": "The owner personally inspects your pool, takes precise measurements, and walks you through the recommended solution with clear pricing. No surprises, no upsells."
       },
       {
-        "title": "Enjoy Your Pool Again",
-        "description": "Your pool is restored, your equipment runs smoothly, and you have a team you can actually reach when you need them. That's the Crowley difference."
+        "title": "Dive Back In",
+        "description": "Our crew handles everything from start to finish — removal, prep, installation, and water coordination. You get a pool that looks and performs like new."
       }
     ]
   },
   "about": {
-    "label": "Why Homeowners Choose Crowley",
-    "headline": "We Fix the Pools Other Companies Walk Away From",
-    "description": "Founded by Steve Crowley in 2016, Crowley Pool Service is a family-owned company built on doing the work nobody else wants to tackle. We specialize exclusively in vinyl liner pools — replacements, repairs, renovations, and everything in between. When other companies say it can't be fixed or won't return your call, that's where we step in. Operating from Carver, MA, we serve over 20 towns across Norfolk, Bristol, and Plymouth Counties with honest recommendations and quality workmanship.",
-    "badge": "10+ Years Experience",
+    "label": "Why South Shore Homeowners Trust Us",
+    "headline": "We Tackle the Pool Problems Others Walk Away From",
+    "description": "Crowley Pool Service started with one truck and a commitment to doing the job right. Ten years later, owner Steve Crowley is still on every job site, personally measuring every pool and overseeing every installation. We built our reputation by solving the complex problems — underground leaks, failing liners, aging plumbing — that other companies say can't be fixed. Your pool is in the hands of people who genuinely care about getting it right.",
+    "badge": "BBB Accredited",
     "features": [
       {
-        "title": "Owner-Operated, Direct Communication",
-        "description": "You talk to Steve — the owner — not a call center. Every job gets personal attention from start to finish."
+        "title": "Owner On Every Job",
+        "description": "Steve Crowley personally oversees every project. You always know who's working on your pool and who to call."
       },
       {
-        "title": "No Upselling, Just Honest Advice",
-        "description": "We tell you what your pool actually needs, not what makes us the most money. If it doesn't need replacing, we won't replace it."
+        "title": "Custom-Measured, Every Time",
+        "description": "No guessing, no generic sizing. Every liner is precision-measured for your specific pool to ensure a perfect, lasting fit."
       },
       {
-        "title": "Emergency Response You Can Count On",
-        "description": "Pool emergency? We're known for answering the phone and showing up fast when other companies leave you waiting."
+        "title": "We Don't Walk Away From Hard Jobs",
+        "description": "Underground leaks, complex plumbing, aging pools — we take on the challenges other companies avoid and deliver results."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every pool is different, so we custom-quote every job. No hidden fees, no bait-and-switch — just honest pricing for expert work."
+    "headline": "Straightforward Pricing. No Guesswork.",
+    "subtitle": "Every quote is custom to your pool. We explain exactly what's needed, what it costs, and why — before any work begins."
   },
   "guarantee": {
-    "headline": "Our \"Done Right\" Guarantee",
-    "description": "If you're not completely satisfied with our work, we come back and make it right — no extra charge, no excuses. We've built our reputation on standing behind every job, and we're not about to stop now. Your pool, your satisfaction, our promise."
+    "headline": "Our \"Get It Right\" Guarantee",
+    "description": "If you're not completely satisfied with our workmanship, we'll come back and make it right at no additional cost. We stand behind every liner, every repair, and every installation because our reputation on the South Shore depends on it. That's the Crowley commitment."
   },
   "faqs": [
     {
-      "question": "How quickly can you replace my vinyl liner?",
-      "answer": "Most liner replacements are scheduled within 1-2 weeks, depending on the season. We custom-order your liner to exact measurements, so timing depends on manufacturer lead times. During emergencies, we work to get you taken care of as fast as possible."
-    },
-    {
-      "question": "Do you service both inground and above-ground pools?",
-      "answer": "Absolutely. We specialize in vinyl liner pools of all types — inground and above-ground. Whether it's a liner replacement, leak repair, or full renovation, we have the expertise for both."
+      "question": "How long does a vinyl liner replacement take?",
+      "answer": "Most liner replacements are completed in a single day. We handle everything — draining, removal, surface prep, installation, and water fill coordination. Your pool is typically ready to swim in within 24-48 hours after filling."
     },
     {
       "question": "How do I know if my liner needs replacing?",
-      "answer": "Common signs include fading, stretching, pulling away from the walls, visible cracks, or persistent leaks. If you're unsure, call us for a free assessment. We'll give you an honest opinion — if it can be repaired instead of replaced, we'll tell you."
+      "answer": "Common signs include fading, wrinkling, pulling away from the track, visible cracks, or persistent leaks. If your liner is 10-15 years old, it's likely time. We'll do an honest inspection and only recommend replacement when it's truly needed."
+    },
+    {
+      "question": "Do you service above-ground pools too?",
+      "answer": "Absolutely. We service both inground and above-ground vinyl liner pools across the South Shore. Whether it's a liner swap, equipment upgrade, or leak repair, we've got you covered."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve over 20 towns across Southeastern Massachusetts, including Canton, Stoughton, Sharon, Bridgewater, Raynham, Taunton, Plymouth, Norwood, Easton, Brockton, and many more across Norfolk, Bristol, and Plymouth Counties."
+      "answer": "We serve homeowners throughout Norfolk, Bristol, and Plymouth Counties — including Canton, Stoughton, Sharon, Randolph, Bridgewater, Weymouth, Hanover, Pembroke, and surrounding towns across Southeastern Massachusetts."
     },
     {
-      "question": "Do you offer snow and ice management too?",
-      "answer": "Yes! During the off-season, we provide snow and ice management services to keep your property safe and accessible. It's our way of staying connected with our customers year-round and keeping our crew working through the winter."
+      "question": "Why should I choose Crowley over a bigger pool company?",
+      "answer": "Because the owner is on every job. You're not getting a random crew — you're getting Steve and his team, who personally measure, plan, and execute every project. We solve problems bigger companies avoid, and our 4.9-star rating proves it."
     }
   ],
   "testimonials": [
     {
       "name": "Barbara T.",
-      "text": "This was my first season using Crowley Pool Service. The service was excellent. Each member of the three person crew was professional, patient, and thorough.",
+      "text": "This was my first season using Crowley Pool Service. The service was excellent. Each member of the three person crew was professional, patient, and thorough. I ask a lot of questions, which they answered fully and completely.",
       "context": "Norwood, MA",
       "initials": "BT"
     },
     {
-      "name": "Wusung K.",
-      "text": "Steve and his team were great. They were able to come out for a leak check and put a temporary fix so I could continue to use my pool. Honest and reliable service.",
-      "context": "Easton, MA",
-      "initials": "WK"
-    },
-    {
       "name": "Kevin G.",
-      "text": "Had a pool pump issue and the service was amazing. 10 stars. Great technical skills, best prices around and trustworthy company. Highly recommend!",
+      "text": "Had a pool pump issue and the service was amazing. 10 stars. Great technical skills, best prices around and trustworthy company. Will work with them again in a heartbeat and HIGHLY RECOMMEND them for any pool needs.",
       "context": "Bridgewater, MA",
       "initials": "KG"
+    },
+    {
+      "name": "Wusung K.",
+      "text": "Steve and his team were great. They were able to come out for a leak check and put a temporary fix so I could continue to use my pool. Very responsive and professional throughout the entire process.",
+      "context": "Easton, MA",
+      "initials": "WK"
     }
   ],
   "contact": {
-    "headline": "Ready to Fix Your Pool<br>The Right Way?",
-    "subtitle": "Get a free, no-pressure assessment from Steve and the Crowley team. We'll tell you exactly what your pool needs — honestly.",
+    "headline": "Ready to Fix Your Pool<br>the Right Way?",
+    "subtitle": "Get a free, no-pressure assessment from the owner himself. We'll tell you exactly what your pool needs — honestly — and give you a clear quote within 24 hours.",
     "benefits": [
-      "Free pool assessment with every quote",
-      "Response within 24 hours — guaranteed",
-      "No contracts, no upselling, no runaround"
+      "Free on-site pool assessment",
+      "Owner-direct response within 24 hours",
+      "Honest recommendation guaranteed"
     ]
   },
   "footer": {
-    "description": "Family-owned vinyl liner pool specialists. Serving Southeastern Massachusetts since 2016.",
-    "service_area": "Serving Canton, Stoughton, Sharon, Bridgewater, Plymouth & 20+ Towns",
+    "description": "Family-owned vinyl liner pool specialists. Serving the South Shore for over 10 years.",
+    "service_area": "Serving Norfolk, Bristol & Plymouth Counties",
     "services": [
       "Vinyl Liner Replacement",
       "Leak Detection & Repair",
       "Pool Renovations",
-      "Spring Openings & Closings",
+      "Seasonal Openings & Closings",
       "Equipment Upgrades"
     ],
-    "copyright": "&copy; 2024 Crowley Pool Service LLC. All rights reserved. Licensed & Insured."
+    "copyright": "&copy; 2024 Crowley Pool Service LLC. All rights reserved."
   }
 }
