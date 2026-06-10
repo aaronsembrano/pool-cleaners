@@ -1,0 +1,184 @@
+{
+  "folder_name": "quality-pools-spas",
+  "company_name": "Quality Pools & Spas by Dick Mackey",
+  "tagline": "Get the Best for Less",
+  "phone": "(570) 586-9686",
+  "email": "michael.gallucci@qualitypoolwi.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122940",
+    "primary_deeper": "#0B1C2E",
+    "secondary": "#4A90C4",
+    "cta": "#E8B530",
+    "cta_dark": "#D4A22A"
+  },
+  "trust_badges": {
+    "badge_1": "50+ Years of Experience",
+    "badge_2": "Family-Owned Since 1975",
+    "badge_3": "Price-Match Guarantee"
+  },
+  "hero": {
+    "badge_1": "Serving Northeast PA Since 1975",
+    "badge_2": "50+ Years of Trusted Experience",
+    "headline": "Northeast PA's Most Trusted <span class=\"text-secondary italic\">Pool & Spa Experts</span>",
+    "subheadline": "For over 50 years, Quality Pools & Spas has been the go-to destination for pools, hot tubs, chemicals, and expert service in the Scranton area. We match any local price and back it with five decades of hands-on knowledge.",
+    "cta_text": "Visit Our Showroom Today",
+    "checkmarks": [
+      "Price-match guarantee plus 25% back",
+      "Computerized water testing lab",
+      "Pools, spas, chemicals & service under one roof"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "50+",
+    "stat_1_label": "Years Serving NEPA",
+    "stat_2_value": "1000s",
+    "stat_2_label": "Pools & Spas Sold",
+    "stat_3_value": "6",
+    "stat_3_label": "Top Brand Partnerships",
+    "stat_4_value": "100%",
+    "stat_4_label": "Price-Match Promise"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Your One-Stop Shop for Pools,<br class=\"hidden md:block\">Spas & Everything In Between",
+    "subtitle": "From brand-new pool installations to hot tub sales, water testing, and year-round service, Quality Pools & Spas has everything your backyard needs under one roof.",
+    "cards": [
+      {
+        "title": "Swimming Pool Sales & Installation",
+        "description": "Above-ground, in-ground, and on-ground pools from Doughboy, Embassy, San Juan Fiberglass, and Fort Wayne Pools. Expert installation for every pool type and yard."
+      },
+      {
+        "title": "Hot Tubs & Spas",
+        "description": "Premium Cove Spas and Leisure's Edge hot tubs from compact models to luxury lines like the Columbia and Everest. Professional delivery and setup included."
+      },
+      {
+        "title": "Pool & Spa Service and Repairs",
+        "description": "Pump repairs, equipment troubleshooting, liner replacements, and seasonal maintenance to keep your pool or spa running at peak performance year after year."
+      },
+      {
+        "title": "Water Testing & Chemical Sales",
+        "description": "State-of-the-art computerized water testing lab with BAQUACIL, Poolife, Pool Frog, and Nature2 products for perfectly balanced, crystal-clear water."
+      },
+      {
+        "title": "Pool Covers & Accessories",
+        "description": "Premium Loop-Loc safety covers, custom spa covers, and a full selection of pool accessories, cleaners, and supplies to protect your investment year-round."
+      },
+      {
+        "title": "Financing Options",
+        "description": "Flexible financing to make pool and spa ownership accessible for every family. We help you bring your backyard dreams to life within your budget."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Backyard",
+    "steps": [
+      {
+        "title": "Stop By or Call Us",
+        "description": "Visit our Chinchilla showroom or give us a call at (570) 586-9686. Our knowledgeable staff will help you explore your options and answer every question with zero pressure."
+      },
+      {
+        "title": "We Find Your Perfect Fit",
+        "description": "Whether it is a pool, spa, or chemical system, we match you with the right product for your space and budget. Bring in a water sample and our computerized lab gives you a precise plan."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "From professional installation to ongoing supplies and service, we are here for you for the life of your pool or spa. Over 50 years of experience means you are in the best hands in NEPA."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why NEPA Trusts Us",
+    "headline": "50+ Years of Putting Families First — That Is the Mackey Difference",
+    "description": "Dick Mackey started in the swimming pool industry in the late 1960s building in-ground pools in New Jersey. He relocated to Northeast Pennsylvania and opened the Chinchilla storefront in 1975 to better serve customers with maintenance supplies and equipment. Today, Quality Pools & Spas remains family-owned and operated, offering the same commitment to quality products at competitive prices that has earned the trust of thousands of NEPA families over five decades.",
+    "badge": "Authorized Dealer — 6 Top Brands",
+    "features": [
+      {
+        "title": "Price-Match Guarantee",
+        "description": "Find a lower price within 10 miles? We will match it and give you 25% of the difference as store credit. You always get the best deal here."
+      },
+      {
+        "title": "Computerized Water Testing Lab",
+        "description": "Our state-of-the-art testing lab analyzes your water sample and gives you a precise, personalized chemical recommendation — no guesswork, no overselling."
+      },
+      {
+        "title": "True One-Stop Shop",
+        "description": "Pools, spas, chemicals, covers, accessories, and full service — all under one roof. No running around town. Everything you need is right here."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "The Best for Less — Guaranteed.",
+    "subtitle": "We price-match any local competitor within 10 miles and give you 25% of the difference as store credit. Transparent pricing on pools, spas, chemicals, and service — no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our Price-Match & Satisfaction Promise",
+    "description": "For over 50 years, we have built our reputation on giving NEPA families the best products at the best prices. If you find a lower price within 10 miles, we match it and give you 25% of the difference back as store credit. And if something is not right with your purchase or service, our team will make it right — that is the Mackey family promise."
+  },
+  "faqs": [
+    {
+      "question": "What brands of pools do you carry?",
+      "answer": "We are authorized dealers for Doughboy, Embassy, San Juan Fiberglass, and Fort Wayne Pools. Whether you want an above-ground, in-ground, or on-ground pool, we have a trusted brand and model to fit your yard and budget."
+    },
+    {
+      "question": "How does your price-match guarantee work?",
+      "answer": "If you find an identical product at a lower price from a competitor within 10 miles, we will match that price and give you 25% of the difference as store credit. Just bring in the competitor's ad or quote."
+    },
+    {
+      "question": "Do you offer water testing services?",
+      "answer": "Yes! Our computerized water testing lab provides precise analysis of your pool or spa water. Just bring in a sample and we will give you an exact chemical recommendation — no guesswork and no overselling. The test is quick and available anytime during store hours."
+    },
+    {
+      "question": "What hot tub brands do you sell?",
+      "answer": "We carry Cove Spas and the full Leisure's Edge line including the GO Series, Columbia, Denali, and Everest models. From compact two-person spas to luxury full-size hot tubs, we have something for every space and budget."
+    },
+    {
+      "question": "Do you service and repair pools and spas?",
+      "answer": "Absolutely. Our experienced technicians handle pump repairs, equipment troubleshooting, liner replacements, and seasonal maintenance for all pool and spa brands. With over 50 years in the business, there is not much we have not seen and fixed."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Spa Customer",
+      "text": "Mr. Mackey spent a significant amount of time with us and was extremely knowledgeable about all aspects of the spas. He was able to answer any and all of my questions without hesitation. We purchased a luxury spa and could not be happier with the experience.",
+      "context": "Spa Purchase",
+      "initials": "SC"
+    },
+    {
+      "name": "Local Pool Owner",
+      "text": "Quality Pools has been our go-to for pool supplies and service for years. Their water testing lab is incredibly accurate and they always recommend exactly what we need — nothing more, nothing less.",
+      "context": "Water Testing & Chemicals",
+      "initials": "LP"
+    },
+    {
+      "name": "Northeast PA Homeowner",
+      "text": "Dick and his team helped us pick the perfect above-ground pool for our yard. The installation was smooth and professional, and they have been there for us whenever we have questions about maintenance.",
+      "context": "Pool Installation",
+      "initials": "NH"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Create Your<br>Backyard Oasis?",
+    "subtitle": "Stop by our Chinchilla showroom, give us a call, or fill out the form below. Our team has been helping NEPA families enjoy their backyards for over 50 years — let us help yours next.",
+    "benefits": [
+      "Free computerized water testing",
+      "Price-match guarantee within 10 miles",
+      "Expert advice from 50+ years of experience"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & spa shop serving Northeast Pennsylvania since 1975. Pools, spas, chemicals, covers, and expert service — all under one roof.",
+    "service_area": "Serving Scranton, Chinchilla, Clarks Summit, Dunmore, Dickson City & All of Northeast PA",
+    "services": [
+      "Swimming Pool Sales",
+      "Hot Tubs & Spas",
+      "Water Testing Lab",
+      "Pool & Spa Service",
+      "Pool Covers & Accessories"
+    ],
+    "copyright": "&copy; 2026 Quality Pools & Spas by Dick Mackey. All rights reserved. Proudly Serving Northeast Pennsylvania Since 1975 — Chinchilla, PA"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-envy",
+  "company_name": "Pool Envy, LLC",
+  "tagline": "Licensed Pool Consulting, Repair & Safety Evaluations",
+  "phone": "+1 920-321-1297",
+  "email": "jason.davies@poolenvywi.com",
+  "review_count": "35",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2D",
+    "secondary": "#38b2ac",
+    "cta": "#E8A838",
+    "cta_dark": "#D4922A"
+  },
+  "trust_badges": {
+    "badge_1": "Florida Licensed Pool Builder",
+    "badge_2": "4.4/5 from 35+ Reviews",
+    "badge_3": "API Authorized Dealer"
+  },
+  "hero": {
+    "badge_1": "Florida Licensed Pool Builder",
+    "badge_2": "BBB A+ Rated Since 2021",
+    "headline": "A Builder's Eye on <span class=\"text-secondary italic\">Every Repair</span>",
+    "subheadline": "Most pool companies fix what they see. Pool Envy evaluates what they miss. With a licensed builder's perspective and deep safety expertise, Jason and the Pool Envy team deliver thorough diagnostics and honest repairs Green Bay pool owners trust.",
+    "cta_text": "Schedule My Safety Evaluation",
+    "checkmarks": [
+      "Licensed safety & system evaluation",
+      "API-authorized parts & equipment",
+      "Nationwide consultation available"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5",
+    "stat_1_label": "Years Serving Green Bay",
+    "stat_2_value": "35",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "100%",
+    "stat_3_label": "Code-Compliant Work",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Licensed Pool Expertise<br class=\"hidden md:block\"> From Evaluation to Restoration",
+    "subtitle": "Every job starts with a thorough Safety and System Evaluation. We diagnose the real issues, explain your options clearly, and deliver lasting repairs backed by a licensed builder's standards.",
+    "cards": [
+      {
+        "title": "Safety & System Evaluations",
+        "description": "Comprehensive licensed inspections covering safety compliance, equipment condition, and system diagnostics with detailed documentation and a clear scope of work."
+      },
+      {
+        "title": "Pool Plumbing & Repipes",
+        "description": "Licensed, code-aware pressure testing, targeted leak repairs, and full repipes with clean paver and deck restoration for freeze breaks or leaking lines."
+      },
+      {
+        "title": "Equipment Repair & Upgrades",
+        "description": "Expert repair and replacement of pumps, filters, heaters, control systems, and chlorine feeders using quality API-authorized products built to last."
+      },
+      {
+        "title": "Pool Resurfacing & Plaster",
+        "description": "Complete pool makeovers including re-plastering and step repair to restore your pool to like-new condition with lasting, beautiful results."
+      },
+      {
+        "title": "Green to Clean Restoration",
+        "description": "Specialized service using Rip Tide power vacuums to take your neglected, green pool back to crystal-clear swimming condition fast."
+      },
+      {
+        "title": "Water Chemistry & Testing",
+        "description": "Professional water quality analysis including chlorine, bromine, and salt testing with expert recommendations for optimal chemistry and clarity."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Pool You Can Trust",
+    "steps": [
+      {
+        "title": "Book Your Safety Evaluation",
+        "description": "Call or message us to schedule a comprehensive Safety and System Evaluation. We inspect everything from equipment to plumbing to water chemistry and give you the full picture."
+      },
+      {
+        "title": "Get an Honest Scope of Work",
+        "description": "Jason walks you through every finding with photos and documentation. No upselling, no scare tactics. Just a clear, prioritized plan so you know exactly what your pool needs and why."
+      },
+      {
+        "title": "Enjoy a Safe, Beautiful Pool",
+        "description": "We handle the repairs with licensed precision and API-authorized parts. Your pool runs efficiently, meets code, and looks incredible. If something is not right, we make it right."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Green Bay Trusts Pool Envy",
+    "headline": "A Licensed Builder Who Works on Your Side",
+    "description": "Pool Envy was founded in 2021 by Jason Davies, a Florida-licensed pool builder who brought deep industry expertise to Green Bay, Wisconsin. Unlike typical pool repair companies, Jason approaches every job from a builder's perspective -- starting with a thorough Safety and System Evaluation before recommending a single repair. Pool Envy is known for educating pool owners, emphasizing safety and code compliance, and delivering unparalleled service backed by API-authorized products and real accountability.",
+    "badge": "API Authorized Dealer",
+    "features": [
+      {
+        "title": "Licensed Builder's Perspective",
+        "description": "Jason holds a Florida pool builder's license, giving him the diagnostic depth to catch issues most repair techs overlook. Every evaluation starts at the foundation level."
+      },
+      {
+        "title": "Education-First Approach",
+        "description": "We believe informed pool owners make better decisions. Every evaluation includes thorough documentation, photos, and a clear explanation of findings and options."
+      },
+      {
+        "title": "Nationwide Consultation",
+        "description": "Beyond Green Bay, Pool Envy extends licensed consulting services to Florida, Texas, and nationwide via remote video consultations and on-site safety checks."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Honest Evaluations.",
+    "subtitle": "Every project starts with a Safety and System Evaluation so you know exactly what you need before spending a dime on repairs. No hidden fees, no unnecessary upsells."
+  },
+  "guarantee": {
+    "headline": "Our \"Builder's Standard\" Guarantee",
+    "description": "Every repair and evaluation we perform meets licensed builder standards and local code requirements. If any work does not meet your expectations or comply with safety codes, we return and make it right at no additional charge. Jason stakes his license and reputation on every single job because your family's safety is not something we take lightly."
+  },
+  "faqs": [
+    {
+      "question": "Why should I start with a Safety and System Evaluation?",
+      "answer": "A Safety and System Evaluation gives you the complete picture of your pool's condition before any work begins. Jason inspects equipment, plumbing, water chemistry, and safety compliance so you receive an honest, prioritized scope of work. This prevents unnecessary repairs and ensures we fix the root cause, not just the symptoms."
+    },
+    {
+      "question": "What makes Pool Envy different from other pool companies?",
+      "answer": "Jason Davies holds a Florida pool builder's license, which means he approaches every repair from a builder's perspective. Most repair companies fix what is broken. We evaluate the entire system, ensure code compliance, and use API-authorized parts. We also educate you on every finding so you understand your pool inside and out."
+    },
+    {
+      "question": "Do you service pools outside of Green Bay?",
+      "answer": "Yes. In addition to serving the greater Green Bay area, Pool Envy offers licensed consulting services in Florida, Texas, and nationwide through remote video consultations and on-site safety evaluations. Contact us to discuss your location and needs."
+    },
+    {
+      "question": "What types of pool equipment do you work with?",
+      "answer": "We repair and install pumps, filters, heaters, salt chlorine generators, control systems, chlorine feeders, pool lights, and more. As an API-authorized dealer, we use quality products from trusted manufacturers to ensure lasting performance and reliability."
+    },
+    {
+      "question": "Can you fix a green or neglected pool?",
+      "answer": "Absolutely. Our Green to Clean service uses Rip Tide power vacuums and professional water chemistry to restore even severely neglected pools to crystal-clear condition. We start with a thorough evaluation to identify any underlying issues, then bring your pool back to life."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Dennis J.",
+      "context": "Pool resurfacing and renovation",
+      "initials": "DJ",
+      "text": "We had a complete makeover with our pool. Jason used the latest technology and it is an amazing transformation. Water looks like you are in the Caribbean."
+    },
+    {
+      "name": "Joan R.",
+      "context": "Pool inspection and water chemistry",
+      "initials": "JR",
+      "text": "After Jason did his inspections and water testing he gave us his recommendations. He is all about safety and compliance with Code. Our water has never looked so good!"
+    },
+    {
+      "name": "Melissa C.",
+      "context": "Complete pool overhaul",
+      "initials": "MC",
+      "text": "I cannot recommend this place, specifically Jason, enough. He did a complete overhaul on our pool -- new pump, filter, heater and liner and we are SO HAPPY with the results!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Meets Builder's Standards?",
+    "subtitle": "Schedule your Safety and System Evaluation today. Get an honest assessment, a clear scope of work, and repairs you can trust from a licensed pool builder.",
+    "benefits": [
+      "Comprehensive Safety & System Evaluation",
+      "Detailed documentation with photos",
+      "Licensed, code-compliant repairs guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Licensed pool consulting, repair, and safety evaluations. Proudly serving Green Bay, Wisconsin since 2021.",
+    "service_area": "Serving Green Bay, Appleton, Oshkosh, De Pere, Ashwaubenon & Surrounding Areas",
+    "services": [
+      "Safety Evaluations",
+      "Pool Plumbing Repairs",
+      "Equipment Upgrades",
+      "Pool Resurfacing",
+      "Water Chemistry"
+    ],
+    "copyright": "&copy; 2026 Pool Envy, LLC. All rights reserved. Florida Licensed Pool Builder | API Authorized Dealer | BBB A+ Rated"
+  }
+}
