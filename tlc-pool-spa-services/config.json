@@ -1,0 +1,180 @@
+{
+  "folder_name": "tlc-pool-spa-services",
+  "company_name": "TLC Pool & Spa Services",
+  "tagline": "Simplify Your Water Needs",
+  "phone": "+1 304-821-5308",
+  "email": "charity.huff@tlcpoolandspaservice.com",
+  "logo_path": "logo.png",
+  "colors": {
+    "primary": "#050A6F",
+    "primary_dark": "#040858",
+    "primary_deeper": "#030642",
+    "secondary": "#00ADF1",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "hero": {
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Certified Care</span>",
+    "subheadline": "TLC Pool & Spa Services brings over 30 years of combined experience to every pool and spa in the Eastern Panhandle. We are the only company in the area offering maintenance contracts so you never worry about your water again.",
+    "badges": [
+      "CPO & NSPF Certified Operators",
+      "4.1 Stars — 44 Google Reviews"
+    ],
+    "checkmarks": [
+      "Free in-store water testing with every visit",
+      "Saltwater pool installation specialists",
+      "Military discounts & loyalty rewards program"
+    ],
+    "cta_text": "Get Your Free Water Test"
+  },
+  "stats": {
+    "stat_1_value": "11",
+    "stat_1_label": "Years Serving WV",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "44",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "CPO Certified Team"
+  },
+  "services": {
+    "headline": "Complete Pool & Spa Solutions",
+    "subtitle": "From weekly maintenance contracts to full installations, TLC handles every aspect of your water care with certified expertise.",
+    "items": [
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Thorough pool cleaning including water testing, chemical balancing, skimming, vacuuming, and filter maintenance to keep your water crystal clear all season long."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening services with cover removal, pump hookup, and chemical treatment. Full winterization and closing to protect your pool investment through the cold months."
+      },
+      {
+        "title": "Pool Installation",
+        "description": "Professional Radiant Pool installations configured above ground, partially in-ground, or fully in-ground. Saltwater systems tailored to your backyard and budget."
+      },
+      {
+        "title": "Spa Service & Maintenance",
+        "description": "Complete hot tub and spa care including water chemistry management, deep cleaning, equipment inspection, and repairs to keep your spa running year-round."
+      },
+      {
+        "title": "Maintenance Contracts",
+        "description": "The only company in the area offering ongoing maintenance contracts. Scheduled service visits mean you never have to think about pool or spa care again."
+      },
+      {
+        "title": "Retail Pool & Spa Supplies",
+        "description": "Full retail store with top name-brand chemicals, accessories, and equipment. Includes free water testing, loyalty rewards, and military discounts on every purchase."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Bring In a Water Sample",
+        "description": "Stop by our Inwood retail store with a water sample. We will run a free comprehensive test and identify exactly what your pool or spa needs."
+      },
+      {
+        "title": "Get Your Custom Plan",
+        "description": "Our CPO-certified team builds a tailored maintenance plan or recommends the right supplies, chemicals, and services for your specific water situation."
+      },
+      {
+        "title": "Enjoy Crystal Clear Water",
+        "description": "Relax while we handle the work. With our maintenance contracts, your pool stays pristine all season without you lifting a finger."
+      }
+    ]
+  },
+  "about": {
+    "label": "About TLC Pool & Spa",
+    "headline": "Eastern Panhandle's Trusted Pool Experts Since 2015",
+    "description": "Founded by Charity Huff, TLC Pool & Spa Services was built on a simple mission: simplify water maintenance so homeowners can enjoy their backyard oasis without the hassle. From our retail location on Middleway Pike in Inwood, we serve the entire Eastern Panhandle with CPO and NSPF certified expertise. We are proud to be the only company in the area offering ongoing maintenance contracts, and we back every service with over 30 years of combined experience.",
+    "badge": "CPO & NSPF Certified Since 2015",
+    "features": [
+      {
+        "title": "Only Maintenance Contracts in the Area",
+        "description": "We are the only pool company in the Eastern Panhandle offering ongoing maintenance contracts. Scheduled visits keep your pool perfect without you lifting a finger."
+      },
+      {
+        "title": "Free Water Testing at Our Store",
+        "description": "Bring a water sample to our Inwood retail location and get a free comprehensive test. Our certified staff will tell you exactly what your pool needs."
+      },
+      {
+        "title": "Military Discounts & Loyalty Rewards",
+        "description": "We proudly offer military discounts on all supplies plus a customer loyalty program that saves you more with every visit."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pool & Spa Pricing",
+    "subtitle": "No hidden fees, no surprises. Get a custom quote based on your pool size and service needs. Maintenance contract customers save the most."
+  },
+  "guarantee": {
+    "headline": "Our Certified Care Promise",
+    "description": "Every service is performed by CPO and NSPF certified operators who stand behind their work. If your water is not crystal clear after our treatment, we will come back and make it right at no additional charge. That is the TLC difference — certified expertise with a personal guarantee."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in West Virginia?",
+      "answer": "We serve Inwood and the entire Eastern Panhandle of West Virginia, including Berkeley County and all surrounding communities. Our retail store is located on Middleway Pike in Inwood for convenient in-person visits."
+    },
+    {
+      "question": "What is included in a maintenance contract?",
+      "answer": "Our maintenance contracts include scheduled regular service visits covering water testing, chemical balancing, skimming, vacuuming, and equipment checks. We are the only company in the area offering these ongoing contracts, so your pool stays perfect without any effort on your part."
+    },
+    {
+      "question": "Do you service saltwater pools?",
+      "answer": "Absolutely. We specialize in saltwater pool installations and maintenance. Our CPO-certified team has extensive experience with saltwater systems, from initial setup to ongoing care and equipment maintenance."
+    },
+    {
+      "question": "Do you offer military discounts?",
+      "answer": "Yes, we proudly offer military discounts on all retail pool and spa supplies purchased at our Inwood store. We also have a customer loyalty rewards program that saves you money on every visit."
+    },
+    {
+      "question": "Is the water testing really free?",
+      "answer": "Yes, every water test at our retail store is completely free. Bring in a sample and our knowledgeable staff will run a comprehensive test and recommend exactly what your pool or spa needs to stay crystal clear."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Local Customer",
+      "text": "First time using TLC and I am now a customer for life. We took a water sample in the store and the staff was kind and super knowledgeable. After running a test and getting us the chemicals we needed, within 2 days we are back to a clear pool!",
+      "context": "Yelp Review",
+      "initials": "LC"
+    },
+    {
+      "name": "Thomas E.",
+      "text": "They are always able to help me get my pool water looking good. Reliable, professional, and worth every penny.",
+      "context": "Yellow Pages Review",
+      "initials": "TE"
+    },
+    {
+      "name": "Loyal Customer",
+      "text": "I have been doing business with TLC for 4 years and I am happy to recommend them for their responsiveness and knowledge. True professionals who care about their customers.",
+      "context": "Yahoo Local Review",
+      "initials": "LC"
+    }
+  ],
+  "contact": {
+    "headline": "Get Your Pool or Spa Taken Care Of",
+    "subtitle": "Reach out today for a free water test or to learn about our maintenance contracts. The Eastern Panhandle's only certified pool care team is ready to help.",
+    "benefits": [
+      "Free water testing at our Inwood retail store",
+      "Same-week service for most maintenance needs",
+      "Custom quotes with no hidden fees or obligations"
+    ]
+  },
+  "footer": {
+    "description": "TLC Pool & Spa Services is the Eastern Panhandle's trusted source for certified pool and spa care, retail supplies, and professional installations since 2015.",
+    "service_area": "Serving Inwood, WV and the Eastern Panhandle of West Virginia including Berkeley County and surrounding areas",
+    "service_links": [
+      "Pool Cleaning & Maintenance",
+      "Pool Opening & Closing",
+      "Pool Installation",
+      "Spa Service & Maintenance",
+      "Maintenance Contracts"
+    ],
+    "copyright": "TLC Pool & Spa Services. All rights reserved."
+  },
+  "review_count": "44",
+  "review_rating": "4.1"
+}

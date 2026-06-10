@@ -2,70 +2,74 @@
   "folder_name": "aqua-pool-patio-pensacola",
   "company_name": "Aqua Pool & Patio",
   "tagline": "Relaxing and care free pools are our business!",
-  "phone": "+1 850-432-9929",
-  "email": "info@aquapoolandpatio.com",
+  "phone": "(850) 432-9929",
+  "email": "vfisher@aquapool.com",
   "logo_path": "logo.png",
-  "review_count": "27",
+  "review_count": "13",
   "review_rating": "3.8",
   "colors": {
-    "primary": "#1a5fb4",
-    "primary_dark": "#154d94",
-    "primary_deeper": "#0d3b7a",
-    "secondary": "#f59e0b",
-    "cta": "#e85d04",
-    "cta_dark": "#c44b03"
+    "primary": "#003366",
+    "primary_dark": "#002244",
+    "primary_deeper": "#001933",
+    "secondary": "#008080",
+    "cta": "#E07000",
+    "cta_dark": "#C05E00"
+  },
+  "trust_badges": {
+    "badge_1": "CPC #1458704 Licensed & Insured",
+    "badge_2": "BBB A+ Rated Since 2007",
+    "badge_3": "Serving NW Florida Since 1949"
   },
   "hero": {
-    "headline": "77 Years of <span class=\"text-secondary italic\">Trusted Pool Care</span>",
-    "subheadline": "Since 1949, Pensacola families have relied on Aqua Pool & Patio for everything from construction to weekly maintenance. With 60+ professionals and two locations, we keep Northwest Florida swimming year-round.",
-    "badges": [
-      "BBB A+ Rated Since 2007",
-      "Licensed CPC #1458704"
-    ],
+    "badge_1": "75+ Years Serving Northwest Florida",
+    "badge_2": "BBB A+ Rated Since 2007",
+    "headline": "75 Years of Pools Done <span class=\"text-secondary italic\">Right</span>",
+    "subheadline": "Since 1949, Pensacola families have trusted Aqua Pool & Patio to build, maintain, and renovate their pools. With 60+ professionals and two locations, we handle everything so you just dive in.",
+    "cta_text": "Request Your Free Quote",
     "checkmarks": [
-      "700+ residential pools serviced weekly",
-      "90% of local commercial pools trust us",
-      "Staff averaging 20+ years of tenure"
-    ],
-    "cta_text": "Get Your Free Pool Assessment"
+      "Free pool inspection",
+      "700+ pools maintained weekly",
+      "No-pressure estimates"
+    ]
   },
   "stats": {
-    "stat_1_value": "77",
-    "stat_1_label": "Years in Business",
-    "stat_2_value": "700",
-    "stat_2_label": "Residential Pools Serviced",
-    "stat_3_value": "90",
-    "stat_3_label": "Commercial Pools in Area",
-    "stat_4_value": "60",
-    "stat_4_label": "Trained Professionals"
+    "stat_1_value": "700",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "75",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "60",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "90%",
+    "stat_4_label": "Commercial Chemical Supply"
   },
   "services": {
-    "headline": "Complete Pool & Patio Solutions",
-    "subtitle": "From construction to weekly care, one trusted team handles it all under one roof.",
+    "label": "Our Services",
+    "headline": "Complete Pool & Patio Care<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From weekly cleaning to full construction, our 60+ professionals handle every aspect of pool and patio ownership so you can focus on relaxing.",
     "cards": [
       {
-        "title": "Pool Construction",
-        "description": "Custom in-ground pools designed and built with 77 years of craftsmanship for homes and businesses across Northwest Florida."
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Weekly and bi-weekly cleaning, chemical balancing, and equipment checks for residential and commercial pools. Your pool stays swim-ready year-round."
       },
       {
-        "title": "Pool Renovations",
-        "description": "Breathe new life into aging pools with expert resurfacing, retiling, modern deck upgrades, and complete remodels."
+        "title": "Pool Renovations & Remodeling",
+        "description": "Resurfacing, tile replacement, deck upgrades, and modern equipment installations. We breathe new life into aging pools."
       },
       {
-        "title": "Weekly Maintenance",
-        "description": "Reliable weekly and bi-weekly cleaning, chemical balancing, and equipment inspections that keep your water crystal clear."
-      },
-      {
-        "title": "Commercial Pool Management",
-        "description": "Trusted by 90% of commercial pools in the area — hotels, HOAs, and fitness centers depend on our consistent service."
+        "title": "New Pool Construction",
+        "description": "Custom in-ground pool design and construction tailored to your property, style, and budget. From blueprints to first splash."
       },
       {
         "title": "Spa & Hot Tub Installation",
-        "description": "Custom-built spas and hot tubs that transform your backyard into a private retreat for year-round relaxation."
+        "description": "Custom-designed spas and hot tubs that complement your outdoor living space. Relax and unwind steps from your back door."
       },
       {
-        "title": "Equipment & Supplies",
-        "description": "Full-service pool store with pumps, filters, chemicals, and free water testing at both our Pensacola and Fort Walton locations."
+        "title": "Pool Chemicals & Equipment",
+        "description": "Full retail store stocked with chemicals, equipment, accessories, and replacement parts. We supply 90% of commercial pools in the area."
+      },
+      {
+        "title": "Patio Design & Outdoor Living",
+        "description": "Custom patio construction, outdoor furniture, grills, and complete outdoor living solutions to transform your backyard."
       }
     ]
   },
@@ -73,108 +77,108 @@
     "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Schedule Your Visit",
-        "description": "Call or fill out our form. We'll set up a convenient time to assess your pool or discuss your project."
+        "title": "Schedule Your Free Consultation",
+        "description": "Call us or fill out the form. We will visit your property, assess your pool, and provide an honest quote within 24 hours. No pressure, no obligation."
       },
       {
-        "title": "Get a Custom Plan",
-        "description": "Our experts evaluate your needs and present a clear plan — whether it's a new build, renovation, or maintenance program."
+        "title": "Our Team Gets to Work",
+        "description": "Our tenured professionals — many with 20+ years of experience — arrive on schedule with everything needed. Cleaning, chemicals, repairs, or construction, we handle it all."
       },
       {
-        "title": "Enjoy Your Pool",
-        "description": "We handle the work while you relax. Join 700+ homeowners who never worry about their pool again."
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays crystal clear and worry-free. With 75+ years of expertise behind every visit, you can trust that your pool is in the best hands in Northwest Florida."
       }
     ]
   },
   "about": {
-    "label": "About Aqua Pool & Patio",
-    "headline": "Northwest Florida's Most Established Pool Company",
-    "description": "Founded in 1949 as a small chemical company, we've grown into a full-service pool and patio operation with over 60 employees across two locations. Our team's average tenure exceeds 20 years because we treat our people like family — and that care shows in every pool we build, renovate, and maintain. Three generations of Pensacola families have trusted us with their backyard retreats.",
-    "badge": "Serving NW Florida Since 1949",
+    "label": "Why Pensacola Trusts Us",
+    "headline": "75 Years of Pool Expertise, Two Generations of Trust",
+    "description": "Founded in 1949 as a chemical and bleach company, Aqua Pool & Patio has grown into Northwest Florida's premier full-service pool company. With two locations in Pensacola and Fort Walton Beach, a staff of 60+ professionals, and employees who have been with us for over 20 years, we bring unmatched expertise to every pool we touch.",
+    "badge": "BBB A+ Rated",
     "features": [
       {
-        "title": "Two Locations, One Standard",
-        "description": "Convenient service from both our Pensacola and Fort Walton Beach offices, with the same quality you've trusted since 1949."
+        "title": "60+ Experienced Professionals",
+        "description": "Our team includes long-tenured employees with 20+ years of hands-on pool experience. That depth of knowledge shows in every job."
       },
       {
-        "title": "BBB A+ Rated Since 2007",
-        "description": "Our Better Business Bureau accreditation and A+ rating reflect our commitment to doing right by every customer, every time."
+        "title": "Two Convenient Locations",
+        "description": "Serving Pensacola and Fort Walton Beach with full-service shops, retail stores, and dedicated service teams across Northwest Florida."
       },
       {
-        "title": "Full-Service Under One Roof",
-        "description": "Construction, renovation, weekly maintenance, and supplies — one trusted team handles everything so you never juggle multiple vendors."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a service visit? We will come back and make it right at no extra charge. Your satisfaction is our 75-year tradition."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent, Fair Pricing",
-    "subtitle": "No hidden fees. No surprise charges. Get a detailed quote before any work begins — that's been our promise for 77 years."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or adjust anytime — we work with you."
   },
   "guarantee": {
-    "headline": "Our 77-Year Reputation Guarantee",
-    "description": "We've been in business since 1949 because we stand behind every job. If you're not completely satisfied with our work, we'll make it right at no additional cost. Our BBB A+ rating and decades of repeat customers are proof that your satisfaction is our top priority."
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right at no additional cost. We have been earning trust in Pensacola since 1949, and we are not about to stop now. Your pool deserves the best, and we guarantee it gets exactly that."
   },
   "faqs": [
     {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new residential clients are scheduled within 3-5 business days. For urgent situations like green pools or equipment failures, we offer expedited response. Call our Pensacola or Fort Walton Beach location and we will get you on the schedule fast."
+    },
+    {
+      "question": "Do you sell pool chemicals and equipment?",
+      "answer": "Yes! We operate a full retail store with chemicals, pumps, filters, cleaners, and accessories for all pool types. We supply chemicals to 90% of commercial pools in the area, so you are getting the same professional-grade products our technicians use."
+    },
+    {
+      "question": "Can you renovate or remodel my existing pool?",
+      "answer": "Absolutely. We handle complete pool renovations including resurfacing, tile replacement, deck upgrades, equipment modernization, and aesthetic enhancements. Our construction team has decades of experience transforming outdated pools."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Yes, commercial pool service is one of our specialties. We maintain pools for hotels, apartments, community centers, and HOAs. We also supply chemicals to the vast majority of commercial pools across Northwest Florida."
+    },
+    {
       "question": "What areas do you serve?",
-      "answer": "We serve Pensacola, Fort Walton Beach, and the surrounding Northwest Florida communities from our two convenient locations."
-    },
-    {
-      "question": "How often should my pool be serviced?",
-      "answer": "We recommend weekly service for most residential pools in our Florida climate. We also offer bi-weekly programs for pools with lighter usage. Our team will assess your specific needs during your free consultation."
-    },
-    {
-      "question": "Do you handle both residential and commercial pools?",
-      "answer": "Absolutely. We currently maintain over 700 residential pools and service 90% of commercial pools in our area, including hotels, HOAs, and fitness centers."
-    },
-    {
-      "question": "How long does a pool construction project take?",
-      "answer": "Most residential pool builds take 8-12 weeks depending on complexity, permits, and weather. We'll give you a detailed timeline during your consultation and keep you updated throughout the process."
-    },
-    {
-      "question": "Do you offer free water testing?",
-      "answer": "Yes! Bring a water sample to either our Pensacola or Fort Walton Beach location and we'll test it for free. We'll recommend the exact chemicals you need to keep your water balanced and safe."
+      "answer": "We serve Pensacola, Fort Walton Beach, and the greater Northwest Florida region from our two full-service locations. Whether you are on the coast or inland, our team covers your area with reliable, scheduled service."
     }
   ],
   "testimonials": [
     {
       "name": "Satisfied Customer",
-      "text": "Office Staff and Service Department with pool cleaning service are just outstanding. Everyone is knowledgeable, very professional, extremely friendly, with outstanding customer service and fair pricing.",
-      "context": "Via Angi",
-      "initials": "SC"
-    },
-    {
-      "name": "Happy Homeowner",
-      "text": "The company did a great job, from start to finish. We are very pleased with their work, and we would use them again.",
-      "context": "Via online review",
-      "initials": "HH"
+      "context": "Pool Maintenance",
+      "initials": "SC",
+      "text": "The pool cleaning service is just outstanding. Everyone is knowledgeable, very professional, and extremely friendly."
     },
     {
       "name": "Long-time Client",
-      "text": "Aqua Pool & Patio goes above and beyond with their customers and service. My family has used their company for years for regular pool maintenance.",
-      "context": "Via Google review",
-      "initials": "LC"
+      "context": "35+ Year Customer",
+      "initials": "LC",
+      "text": "Over 35 years, Aqua Pool and Patio Company is the pool expert in the Pensacola area. They have provided excellent service and sparkling pools."
+    },
+    {
+      "name": "Local Homeowner",
+      "context": "General Service",
+      "initials": "LH",
+      "text": "The office staff and service department offer outstanding service with knowledgeable and professional personnel, along with fair pricing."
     }
   ],
   "contact": {
-    "headline": "Ready for a Worry-Free Pool?",
-    "subtitle": "Get in touch with our team — we've been helping Pensacola families enjoy their pools since 1949.",
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Get a free consultation from Northwest Florida's most experienced pool company. 75+ years of expertise, two locations, and a team that treats your pool like their own.",
     "benefits": [
-      "Free on-site pool assessment",
-      "Same-week response guaranteed",
-      "No obligation, no pressure"
+      "Free on-site pool inspection",
+      "Quote within 24 hours",
+      "75+ years of trusted expertise"
     ]
   },
   "footer": {
-    "description": "Aqua Pool & Patio has served Northwest Florida since 1949, providing pool construction, renovation, maintenance, and supplies from our two locations in Pensacola and Fort Walton Beach.",
-    "service_area": "Pensacola, Fort Walton Beach & Northwest Florida",
-    "service_links": [
-      "Pool Construction",
+    "description": "Northwest Florida's trusted pool experts since 1949. Two locations serving Pensacola and Fort Walton Beach.",
+    "service_area": "Serving Pensacola, Fort Walton Beach & NW Florida",
+    "services": [
+      "Pool Maintenance",
       "Pool Renovations",
-      "Weekly Maintenance",
-      "Commercial Pools",
-      "Equipment & Supplies"
+      "New Construction",
+      "Chemicals & Equipment",
+      "Patio & Outdoor Living"
     ],
-    "copyright": "© 2026 Aqua Pool & Patio. All rights reserved."
+    "copyright": "&copy; 2024 Aqua Pool & Patio. All rights reserved. CPC #1458704"
   }
 }

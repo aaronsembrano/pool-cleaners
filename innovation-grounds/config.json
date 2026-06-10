@@ -1,0 +1,183 @@
+{
+  "folder_name": "innovation-grounds",
+  "company_name": "Innovation Grounds",
+  "tagline": "We make heaven-like designs, so you can really enjoy your home!",
+  "phone": "+1 800-246-0297",
+  "email": "ligia.waits@innovationgrounds.com",
+  "review_count": "8",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#2D6A4F",
+    "primary_dark": "#1B4332",
+    "primary_deeper": "#0F2A1E",
+    "secondary": "#52B788",
+    "cta": "#F4A261",
+    "cta_dark": "#E07B30"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited Business",
+    "badge_2": "4.4/5 on Google Reviews",
+    "badge_3": "Thumbtack Top Pro"
+  },
+  "hero": {
+    "badge_1": "4.4/5 on Google | BBB Accredited",
+    "badge_2": "Serving Utah & Central Texas Since 2018",
+    "headline": "Your Outdoor Paradise <span class=\"text-secondary italic\">Designed &<br>Built Right</span>",
+    "subheadline": "Cookie-cutter landscaping leaves your yard looking like everyone else's. Innovation Grounds brings 30+ years of combined expertise to design outdoor spaces that feel like your own private retreat. From custom hardscaping to lush landscapes, we turn your vision into reality across Utah and Central Texas.",
+    "cta_text": "Get My Free Design Consultation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "30+ years combined team experience",
+      "BBB accredited & fully insured"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "15",
+    "stat_3_label": "Services Offered",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Outdoor Solutions<br class=\"hidden md:block\"> From Ground to Canopy",
+    "subtitle": "Whether you need a full landscape overhaul or a single repair, our trained experts handle every detail so your outdoor space becomes the best room in your home.",
+    "cards": [
+      {
+        "title": "Landscape Design & Installation",
+        "description": "Custom landscape blueprints brought to life with expert installation. We match plants, materials, and layout to your property's unique soil, sun exposure, and aesthetic goals."
+      },
+      {
+        "title": "Hardscaping & Concrete",
+        "description": "Patios, walkways, retaining walls, driveways, and decorative concrete that add lasting structure and beauty. Built to withstand Utah winters and Texas heat alike."
+      },
+      {
+        "title": "Irrigation Systems",
+        "description": "Smart irrigation design, installation, and repair that delivers the right amount of water to every zone. Save money on water bills while keeping your landscape thriving year-round."
+      },
+      {
+        "title": "Artificial Turf",
+        "description": "Premium synthetic turf that stays green 365 days a year with zero mowing, watering, or fertilizing. Perfect for families, pets, and water-conscious homeowners."
+      },
+      {
+        "title": "Pergolas & Outdoor Living",
+        "description": "Custom pergolas, decks, and outdoor structures that extend your living space into the yard. Designed for entertaining, relaxing, and making memories under open skies."
+      },
+      {
+        "title": "Water Features & Lighting",
+        "description": "Fountains, ponds, waterfalls, and professional landscape lighting that transform your property into a stunning showpiece day and night."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Outdoor Space",
+    "steps": [
+      {
+        "title": "Schedule a Free Consultation",
+        "description": "Tell us about your vision. We visit your property, assess the space, and discuss ideas tailored to your budget and lifestyle. No pressure, no obligation."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our trained crew brings your plan to life with precision craftsmanship and quality materials. Owner involvement on every project ensures nothing falls through the cracks."
+      },
+      {
+        "title": "Enjoy Your Outdoor Paradise",
+        "description": "Step into a backyard that feels like a personal retreat. We back our work with a satisfaction guarantee, and we are always a phone call away for maintenance or future upgrades."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Trust Innovation Grounds",
+    "headline": "30+ Years of Expertise Behind Every Project",
+    "description": "Founded in 2018 in Orem, Utah, Innovation Grounds was built on a mission to change how homeowners experience landscaping. Too many contractors over-promise and under-deliver. We took a different approach: listen first, design around your life, and build with materials and methods that last. Our team brings over 30 years of combined experience in outdoor design and horticulture, and every project gets hands-on attention from ownership. Today we serve communities across Utah and Central Texas with 15 specialized outdoor services.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Full-Service Outdoor Company",
+        "description": "From landscape design to fencing, irrigation, lighting, and water features, we handle every element of your outdoor space under one roof. No juggling multiple contractors."
+      },
+      {
+        "title": "24-Hour Response Time",
+        "description": "We know your time is valuable. That is why we respond to every inquiry within 24 hours and keep your project on schedule from start to finish."
+      },
+      {
+        "title": "Multi-Platform Accredited",
+        "description": "BBB Accredited, Thumbtack Top Pro, Houzz Professional, and Angi Certified. Our reputation is verified across every major home services platform."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Every project starts with a free consultation and a detailed written estimate. You know exactly what you are paying for before any work begins."
+  },
+  "guarantee": {
+    "headline": "Our \"Heaven-Like\" Guarantee",
+    "description": "If any element of your project does not meet the standard we promised, we will come back and make it right at no additional cost. We believe your outdoor space should feel like a personal paradise, and we do not consider a project finished until you agree it does. That is the Innovation Grounds commitment."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve communities across Utah including Orem and Tooele, as well as Central Texas areas including Austin, Cedar Park, Leander, Bee Cave, Round Rock, Hutto, Lago Vista, and Horseshoe Bay. Contact us to confirm service availability in your area."
+    },
+    {
+      "question": "How long does a typical landscaping project take?",
+      "answer": "Timelines vary by scope. A basic landscape installation may take 3-5 days, while larger projects with hardscaping, irrigation, and structures can take 2-4 weeks. We provide a detailed timeline during your free consultation so you know exactly what to expect."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Innovation Grounds is fully licensed and insured. We are also a BBB Accredited Business, a Thumbtack Top Pro, and certified on Houzz and Angi. Your property is protected on every project."
+    },
+    {
+      "question": "Do you offer maintenance after the project is done?",
+      "answer": "Absolutely. We offer ongoing lawn care, irrigation maintenance, tree trimming, and seasonal upkeep to protect your investment and keep your outdoor space looking its best year-round."
+    },
+    {
+      "question": "Can I see examples of your past work?",
+      "answer": "Yes. We are happy to share photos of completed projects similar to yours during your consultation. You can also find reviews and project photos on our Google Business profile, Houzz page, and website."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Shay S.",
+      "context": "Fence Repair - Thumbtack",
+      "initials": "SS",
+      "text": "I recently hired Innovation Grounds for a last-minute, complex fence repair, and I'm thoroughly impressed with their work. Professional, fast, and the results exceeded my expectations."
+    },
+    {
+      "name": "Rachel K.",
+      "context": "Sprinkler Service - Thumbtack",
+      "initials": "RK",
+      "text": "They did amazing work on our sprinklers. They were thorough and are extremely hard workers. Our irrigation system runs perfectly now and we could not be happier with the results."
+    },
+    {
+      "name": "Sean M.",
+      "context": "Landscaping Service - Thumbtack",
+      "initials": "SM",
+      "text": "Nice and easy to work with! They completed a service request within 24 hours. Very responsive and professional. I will definitely be using them again for future projects."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free, no-pressure design consultation. We will visit your property, listen to your vision, and deliver a detailed plan and estimate within days.",
+    "benefits": [
+      "Free on-site design consultation included",
+      "Detailed written estimate with no surprises",
+      "BBB accredited & multi-platform certified"
+    ]
+  },
+  "footer": {
+    "description": "Professional landscaping and outdoor renovation. Proudly serving Utah and Central Texas since 2018.",
+    "service_area": "Serving Orem, Tooele, Austin, Cedar Park, Round Rock, Leander, Bee Cave & Surrounding Areas",
+    "services": [
+      "Landscape Design",
+      "Hardscaping & Concrete",
+      "Irrigation Systems",
+      "Artificial Turf",
+      "Pergolas & Decks"
+    ],
+    "copyright": "&copy; 2026 Innovation Grounds. All rights reserved. BBB Accredited Business."
+  }
+}
