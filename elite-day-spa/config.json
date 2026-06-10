@@ -1,0 +1,184 @@
+{
+  "folder_name": "elite-day-spa",
+  "company_name": "Elite Day Spa",
+  "tagline": "European Salon and Spa in Midtown Manhattan",
+  "phone": "+1 212-730-2100",
+  "email": "mara.pavel@elitedayspanyc.com",
+  "logo_path": "logo.png",
+  "review_count": "314",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a1a1a",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#c8a97e",
+    "cta": "#c8a97e",
+    "cta_dark": "#8b6f47"
+  },
+  "trust_badges": {
+    "badge_1": "Women-Owned Since 2000",
+    "badge_2": "4.6/5 from 314+ Reviews",
+    "badge_3": "Open 7 Days a Week"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 314+ Google Reviews",
+    "badge_2": "25+ Years of Excellence",
+    "headline": "Manhattan's Best-Kept <span class=\"text-secondary italic\">Beauty<br>Secret</span>",
+    "subheadline": "For over 25 years, Elite Day Spa has been the go-to European salon and spa for discerning New Yorkers. From virtually painless waxing to rejuvenating facials and massage, step into our Midtown oasis and leave feeling transformed.",
+    "cta_text": "Book Your Appointment Today",
+    "checkmarks": [
+      "Complimentary consultation",
+      "Same-week availability",
+      "100% satisfaction promise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "314",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "25",
+    "stat_2_label": "Years in Manhattan",
+    "stat_3_value": "10000",
+    "stat_3_label": "Clients Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Satisfaction"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete European Spa<br class=\"hidden md:block\"> Services Under One Roof",
+    "subtitle": "From head-to-toe pampering to targeted treatments, our experienced estheticians and stylists deliver personalized care in a calming Midtown Manhattan setting.",
+    "cards": [
+      {
+        "title": "Massage Therapy",
+        "description": "Swedish, deep tissue, hot stone, Thai, aromatherapy, prenatal, and couples massage sessions from experienced therapists who melt away stress."
+      },
+      {
+        "title": "European Waxing",
+        "description": "The original European Waxing center. Virtually painless Brazilian and full-body waxing with over 30 years of trusted expertise."
+      },
+      {
+        "title": "Facial Treatments",
+        "description": "Deep pore cleansing facials, TCA chemical peels, anti-aging treatments, microdermabrasion, and LED light therapy for radiant skin."
+      },
+      {
+        "title": "Nail Services",
+        "description": "Gel manicures, European pedicures, dip powder, paraffin treatments, and nail art in our clean, cozy salon setting."
+      },
+      {
+        "title": "Eyelash Extensions",
+        "description": "Classic, volume, and hybrid lash extensions, fills, and tinting performed by skilled specialists for stunning, natural-looking results."
+      },
+      {
+        "title": "Hair & Body Treatments",
+        "description": "Professional cuts, color, highlights, and updos from celebrity stylists, plus sea salt scrubs, CBD body treatments, and full exfoliation."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Total Relaxation",
+    "steps": [
+      {
+        "title": "Book Your Visit",
+        "description": "Call or book online and tell us what you need. We will recommend the perfect treatments for your goals and schedule your appointment within days."
+      },
+      {
+        "title": "Experience European Luxury",
+        "description": "Arrive at our calming Midtown oasis on 46th Street. Our experienced estheticians and stylists deliver personalized treatments tailored to you."
+      },
+      {
+        "title": "Leave Feeling Transformed",
+        "description": "Walk out refreshed, rejuvenated, and glowing. Our clients have been coming back for over two decades because the results speak for themselves."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why New Yorkers Trust Us",
+    "headline": "Not Just a Spa — Your Personal Beauty Destination",
+    "description": "Women-owned and operated since 2000, Elite Day Spa has been Midtown Manhattan's best-kept secret for over 25 years. Our European-trained estheticians bring 30+ years of expertise to every treatment, and our celebrity hair stylists ensure you always look your best. We treat every client like family in our intimate, calming space.",
+    "badge": "25+ Years in Business",
+    "features": [
+      {
+        "title": "European-Trained Estheticians",
+        "description": "Our specialists bring over 30 years of European skincare and waxing expertise to every treatment they perform."
+      },
+      {
+        "title": "Women-Owned Since 2000",
+        "description": "Proudly women-owned and operated for 25+ years. We built our reputation on personal care and honest service."
+      },
+      {
+        "title": "Your Satisfaction, Guaranteed",
+        "description": "Not happy with your treatment? We will make it right. That is our promise to every client who walks through our door."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Premium European spa services at competitive Midtown prices. Book a complimentary consultation to find the perfect treatment for you."
+  },
+  "guarantee": {
+    "headline": "Our \"Total Satisfaction\" Guarantee",
+    "description": "If you are not 100% satisfied with any treatment, we will redo it at no charge. With over 25 years in business and 314+ five-star reviews, we stand behind every service. Your beauty and wellness are our reputation, and we never take that lightly."
+  },
+  "faqs": [
+    {
+      "question": "How do I book an appointment?",
+      "answer": "You can call us at +1 212-730-2100 or book online through our website. We are open 7 days a week from 10 AM to 8 PM. Same-week appointments are almost always available."
+    },
+    {
+      "question": "Is European waxing really painless?",
+      "answer": "Our signature European waxing technique is virtually painless. With over 30 years of expertise, our estheticians use premium wax and proven methods that minimize discomfort. Many clients are amazed at how gentle the experience is."
+    },
+    {
+      "question": "What should I expect on my first visit?",
+      "answer": "You will be welcomed into our calming, intimate space on the 6th floor of 33 West 46th Street. Your esthetician or stylist will discuss your goals and customize your treatment. Most clients say they feel at home from the moment they walk in."
+    },
+    {
+      "question": "Do you offer couples massage?",
+      "answer": "Yes! Our couples massage is one of our most popular services. Both you and your partner enjoy side-by-side treatments from our skilled therapists. It is the perfect way to relax together in Midtown Manhattan."
+    },
+    {
+      "question": "Is the spa wheelchair accessible?",
+      "answer": "Yes, our facility is fully wheelchair accessible. We are committed to providing a welcoming and comfortable experience for all clients. Please call ahead if you have any special accommodation needs."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Carrie C.",
+      "text": "I have trusted Mara and nobody else for all my waxing needs for over 20 years. The pricing is competitive and Elite is a well-kept secret in Midtown with virtually painless treatments.",
+      "context": "Waxing Client, 20+ Years",
+      "initials": "CC"
+    },
+    {
+      "name": "Neil B.",
+      "text": "The massage was incredible from Mira. Best I have ever had since I am an athlete. Highly recommend the couples massage experience, European waxing, and facial services.",
+      "context": "Couples Massage",
+      "initials": "NB"
+    },
+    {
+      "name": "Nancy's Client",
+      "text": "The spa is adorable, clean, and cozy. Nancy was kind and gave me a perfect pedicure. I could not have asked for a better experience.",
+      "context": "Pedicure Services",
+      "initials": "NC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Feel<br>Refreshed and Renewed?",
+    "subtitle": "Book your appointment today and experience why Manhattan clients have trusted Elite Day Spa for over 25 years. Walk-ins welcome, appointments preferred.",
+    "benefits": [
+      "Complimentary consultation with every first visit",
+      "Same-week appointment availability",
+      "100% satisfaction guaranteed on every treatment"
+    ]
+  },
+  "footer": {
+    "description": "Women-owned European salon and spa. Serving Midtown Manhattan since 2000.",
+    "service_area": "Serving Midtown Manhattan & NYC Metro Area",
+    "services": [
+      "Massage Therapy",
+      "European Waxing",
+      "Facial Treatments",
+      "Nail Services",
+      "Eyelash Extensions"
+    ],
+    "copyright": "&copy; 2024 Elite Day Spa. All rights reserved. 33 West 46th Street, 6th Floor, New York, NY 10036"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "trublu-pools",
+  "company_name": "TruBlu Pool & Spa",
+  "tagline": "Pool Service Made Simple in St. George, Utah",
+  "phone": "+1 435-244-7736",
+  "email": "blake.hansen@trublupoolspa.com",
+  "logo_path": "logo.png",
+  "review_count": "37",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "CPO-Certified Technicians",
+    "badge_2": "5.0/5 from 37+ Reviews",
+    "badge_3": "Satisfaction Guaranteed"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 37+ Google Reviews",
+    "badge_2": "Free First Cleaning",
+    "headline": "Your Pool, Perfected <span class=\"text-secondary italic\">Every<br>Single Visit</span>",
+    "subheadline": "St. George summers are too short to waste on pool maintenance. TruBlu's CPO-certified techs handle everything — cleaning, chemicals, repairs — so you just dive in and enjoy.",
+    "cta_text": "Get My Free First Cleaning",
+    "checkmarks": [
+      "Free first pool cleaning",
+      "Real-time arrival alerts",
+      "Detailed reports every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving St. George",
+    "stat_3_value": "1500",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "5-Star Satisfaction"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> for St. George Homes",
+    "subtitle": "From weekly cleanings to emergency green pool rescues, TruBlu handles every aspect of pool ownership so you can spend your time poolside, not working on it.",
+    "cards": [
+      {
+        "title": "Recurring Pool Cleaning",
+        "description": "Comprehensive weekly service including skimming, vacuuming, brushing, chemical balancing, basket emptying, and full equipment inspection. Your pool stays swim-ready between every visit."
+      },
+      {
+        "title": "Pool & Spa Repair",
+        "description": "Pumps, filters, heaters, salt systems — our CPO-certified techs diagnose and fix issues fast. We proactively address wear before it becomes a costly breakdown."
+      },
+      {
+        "title": "Green to Clean Recovery",
+        "description": "St. George heat breeds algae fast. Our specialized treatment combines deep cleaning with precise chemical monitoring to restore crystal-clear water in days, not weeks."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Detailed health reports on every piece of equipment in your pool system. We identify potential issues early and recommend preventative solutions to save you money."
+      },
+      {
+        "title": "Chemical & Parts Delivery",
+        "description": "Manufacturer-direct pool parts, chemicals, and accessories delivered to your door. Replacement parts, upgrades, and everything your pool needs to run at peak performance."
+      },
+      {
+        "title": "Seasonal Pool Prep",
+        "description": "Get your pool dialed in for St. George's long swim season. Opening, closing, and mid-season tune-ups that keep water balanced and equipment running efficiently year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Book Your Free First Cleaning",
+        "description": "Tell us about your pool and schedule your complimentary first service. No contracts, no commitments — just a chance to see the TruBlu difference firsthand."
+      },
+      {
+        "title": "We Show Up & Keep You Informed",
+        "description": "You'll get a real-time notification when your CPO-certified tech is on the way. After every visit, we send a detailed service report so you always know exactly what was done."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and swim-ready all season long. If anything isn't perfect, we come back and make it right — guaranteed. That's the TruBlu promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why St. George Trusts TruBlu",
+    "headline": "Two Best Friends on a Mission to Fix Pool Service",
+    "description": "TruBlu was founded right here in St. George by two best friends who saw how pool service should be done — and how most companies fall short. Every technician is CPO-certified. Every visit includes a detailed report. You get real-time notifications when we're on the way. We built TruBlu because pool owners deserve transparency, professionalism, and techs who genuinely care about doing the job right.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Real-Time Arrival Notifications",
+        "description": "No more wondering when your tech will show up. You get an alert the moment we're headed to your property — every single visit."
+      },
+      {
+        "title": "Detailed Service Reports",
+        "description": "After every visit, you receive a full report covering what we did, what we found, and any recommendations. Complete transparency, always."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a service visit? We come back and redo it at no charge. No questions asked, no fine print. That's TruBlu's promise to you."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Simple Pricing. No Surprises.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no cancellation fees."
+  },
+  "guarantee": {
+    "headline": "The TruBlu Satisfaction Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right — completely free. We also send detailed reports after every visit so you can see exactly what was done. No fine print, no runaround. Just honest pool service from a team that stands behind their work."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients in St. George are scheduled within 3-5 business days. Your first cleaning is free, so there's zero risk to try us out. For green pool emergencies, we offer priority scheduling."
+    },
+    {
+      "question": "What makes TruBlu different from other pool companies?",
+      "answer": "Three things: every technician is CPO-certified, you get real-time arrival notifications so you always know when we're coming, and we send a detailed service report after every single visit. Most pool companies just show up and leave — we keep you informed every step of the way."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our St. George clients give us gate access and go about their day. You'll get a notification when we arrive and a full service report when we're done, so you always know exactly what happened."
+    },
+    {
+      "question": "Are there any contracts or cancellation fees?",
+      "answer": "Never. We earn your business every visit. No long-term contracts, no cancellation penalties, no hidden fees. If you ever want to stop service, just let us know — no hard feelings."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve St. George, Santa Clara, Ivins, Washington, Hurricane, and surrounding communities throughout Washington County, Utah. If you're not sure whether we cover your area, give us a call and we'll let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Judd M.",
+      "text": "TruBlu exceeds expectations on every service provided. They truly care about your pool, and their customers! I highly recommend TruBlu!",
+      "context": "Google Review",
+      "initials": "JM"
+    },
+    {
+      "name": "Tyler G.",
+      "text": "Blake is by far the best pool service guy I've worked with. I've had him for months now and he's always thorough and easy to work with.",
+      "context": "Google Review",
+      "initials": "TG"
+    },
+    {
+      "name": "Rachel J.",
+      "text": "I adore these guys. They do an awesome job, communicate quickly and clearly about any issues or concerns, and are pleasant to work with. I can't recommend them highly enough!",
+      "context": "Google Review",
+      "initials": "RJ"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get your free first cleaning — no contracts, no pressure. Just honest pool service from a team that actually cares about doing it right.",
+    "benefits": [
+      "Free first pool cleaning included",
+      "Real-time arrival notifications",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. Proudly serving St. George and Washington County since 2022.",
+    "service_area": "Serving St. George, Santa Clara, Ivins, Washington & Hurricane",
+    "services": [
+      "Recurring Cleaning",
+      "Pool & Spa Repair",
+      "Green to Clean",
+      "Pool Inspections",
+      "Chemical Delivery"
+    ],
+    "copyright": "&copy; 2024 TruBlu Pool & Spa. All rights reserved. St. George, Utah"
+  }
+}

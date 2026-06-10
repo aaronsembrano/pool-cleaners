@@ -1,0 +1,184 @@
+{
+  "folder_name": "carefree-crystal-clear-pools",
+  "company_name": "Carefree Crystal Clear Pools",
+  "tagline": "Over 40 Years of Trusted Pool Care",
+  "phone": "(480) 488-2636",
+  "email": "manager@ccc-pools.com",
+  "logo_path": "logo.png",
+  "review_count": "11",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#112840",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#4a90d9",
+    "cta": "#d97706",
+    "cta_dark": "#b45309"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Listed Business",
+    "badge_2": "4.0/5 from 11+ Reviews",
+    "badge_3": "Serving Since 1985"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 11+ Google Reviews",
+    "badge_2": "Family-Owned Since 1985",
+    "headline": "40 Years Keeping Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "For over four decades, families across Carefree, Cave Creek, and North Scottsdale have trusted us to keep their pools sparkling. Let our 40+ years of hands-on expertise give you a pool that is always swim-ready, so you can relax and just dive in.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-week service start",
+      "Fair pricing, no upsells"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "350",
+    "stat_1_label": "Sq Mile Service Area",
+    "stat_2_value": "40",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Honest Pricing"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Comprehensive Pool Care From<br class=\"hidden md:block\"> a Team That Knows Arizona Pools",
+    "subtitle": "From weekly cleaning to full renovations, our technicians bring over 40 years of combined experience to every job across the Carefree and North Scottsdale area.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Thorough skimming, vacuuming, chemical balancing, and tile brushing every week. Your pool stays crystal clear and swim-ready through every Arizona season."
+      },
+      {
+        "title": "Filter Cleaning & Service",
+        "description": "Professional filter teardown, cleaning, and reassembly for DE, cartridge, and sand filters. Keeps water circulating properly and extends equipment life."
+      },
+      {
+        "title": "Equipment Repairs",
+        "description": "Expert diagnosis and repair of pumps, motors, heaters, salt systems, and filtration equipment. 40+ years of repair experience means fast, accurate fixes."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical testing and balancing to keep water safe, clear, and gentle on skin. We prevent problems before they start with proactive chemistry care."
+      },
+      {
+        "title": "Pool & Spa Renovations",
+        "description": "Complete renovation services from resurfacing and new tile to equipment upgrades and automation. Breathe new life into your backyard pool or spa."
+      },
+      {
+        "title": "Seasonal Pool Prep",
+        "description": "Arizona pools need year-round attention. We handle monsoon prep, summer balancing, and winter care so your pool is always protected and ready to enjoy."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and we will provide a straightforward, honest quote. No pressure, no hidden fees, and no contracts to sign."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our experienced technicians arrive on schedule every week. Cleaning, chemistry, equipment checks, all handled so you never have to think about it."
+      },
+      {
+        "title": "Enjoy Your Crystal Clear Pool",
+        "description": "Your pool stays sparkling and swim-ready year round. With 40+ years behind us, we know exactly how to keep Arizona pools in perfect shape."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Trust Us",
+    "headline": "Family-Owned Since 1985, Serving Neighbors Like Family",
+    "description": "Established in 1985 right here in the Carefree and Cave Creek community, we have spent over 40 years earning the trust of homeowners across a 350 square mile service area. Our service technicians bring over 40 years of combined experience, and our repair team adds another 40+ years of hands-on expertise. We are not a franchise or a faceless corporation. We are your neighbors who take pride in honest work and fair pricing.",
+    "badge": "40+ Years Experience",
+    "features": [
+      {
+        "title": "Experienced, Skilled Technicians",
+        "description": "Our service and repair teams each bring 40+ years of combined hands-on expertise to every pool we touch."
+      },
+      {
+        "title": "Honest Pricing, No Upsells",
+        "description": "We quote fairly and never talk you into services you do not need. What we quote is what you pay, period."
+      },
+      {
+        "title": "Reliable, On-Time Every Week",
+        "description": "Consistent scheduling you can count on. We show up when we say we will, week after week, year after year."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. No Surprises.",
+    "subtitle": "Straightforward pool care plans with honest pricing. No contracts, no hidden fees, just quality service you can count on."
+  },
+  "guarantee": {
+    "headline": "Our Crystal Clear Promise",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back and make it right at no extra charge. After 40 years in business, our reputation means everything to us, and we stand behind every visit until your pool is perfect."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new customers are added to our route within one week. Just give us a call at (480) 488-2636 and we will schedule your free inspection at a time that works for you."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We cover Carefree, Cave Creek, North Scottsdale, and surrounding communities within a 350 square mile range. We have been serving this specific area since 1985 and know the local conditions inside and out."
+    },
+    {
+      "question": "Do I need to be home when you service my pool?",
+      "answer": "Not at all. Most of our customers provide gate access and we handle everything while you are away. You will always know exactly what was done at each visit."
+    },
+    {
+      "question": "Will you try to upsell me on things I do not need?",
+      "answer": "Absolutely not. Our customers consistently praise us for honest, fair pricing. We only recommend what your pool genuinely needs, nothing more. That is how we have kept customers for decades."
+    },
+    {
+      "question": "Can you repair my pool equipment?",
+      "answer": "Yes. Our repair technicians have over 40 years of combined experience with pumps, motors, heaters, filters, and salt systems. Most repairs are diagnosed and completed quickly so your pool is back up and running fast."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Leonel U.",
+      "text": "Great service! On time every week, courteous service, friendly staff and, above all, maintain the pool free of algae and other problems. We have had this service for about two years now and the pool has never looked and felt so good.",
+      "context": "2-year customer",
+      "initials": "LU"
+    },
+    {
+      "name": "Satisfied Customer",
+      "text": "Crystal Clear Pools did a fantastic job on my pools. I would recommend them to everyone I know. Professional, reliable, and the results speak for themselves.",
+      "context": "Angi review",
+      "initials": "SC"
+    },
+    {
+      "name": "Angi Reviewer",
+      "text": "The price was less than others interviewed, and they do a good job without trying to talk you into things you don't need. Honest and dependable, exactly what you want in a pool service.",
+      "context": "Angi review, fair pricing",
+      "initials": "AR"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
+    "subtitle": "Get a free, no-pressure quote from a team with 40+ years of local experience. No contracts, no commitments, just honest pool care for your Carefree or North Scottsdale home.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Response within 24 hours",
+      "40+ years of local expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Carefree, Cave Creek, and North Scottsdale since 1985.",
+    "service_area": "Serving Carefree, Cave Creek & North Scottsdale",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Filter Cleaning & Service",
+      "Equipment Repairs",
+      "Pool & Spa Renovations",
+      "Seasonal Pool Prep"
+    ],
+    "copyright": "&copy; 2024 Carefree Crystal Clear Pools. All rights reserved."
+  }
+}

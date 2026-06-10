@@ -1,0 +1,180 @@
+{
+  "folder_name": "affordable-pool-service",
+  "company_name": "Affordable Pool Service",
+  "tagline": "A pool should feel like a luxury, not a chore.",
+  "phone": "+1 951-215-6142",
+  "email": "phillip@apoolcare.com",
+  "logo_path": "logo.png",
+  "review_count": "200+",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F34",
+    "secondary": "#3B82F6",
+    "cta": "#06B6D4",
+    "cta_dark": "#0891B2"
+  },
+  "hero": {
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Honest Care</span>",
+    "subheadline": "Family-owned with 35+ years of experience, we assign the same CPO-certified technician to your pool every week. Photo proof after every visit — so you always know your pool is in good hands.",
+    "badges": [
+      "CPO-Certified Technicians",
+      "5-Star Rated — 200+ Reviews"
+    ],
+    "checkmarks": [
+      "Photo proof & chemical report after every visit",
+      "Same trusted technician every week",
+      "Never Green Guarantee included"
+    ],
+    "cta_text": "Get Your 30-Second Quote"
+  },
+  "stats": {
+    "stat_1_value": "35",
+    "stat_1_label": "Years Serving Pool Owners",
+    "stat_2_value": "200",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "100",
+    "stat_3_label": "Never Green Guarantee",
+    "stat_4_value": "100%",
+    "stat_4_label": "Dedicated Tech Per Pool"
+  },
+  "services": {
+    "headline": "Complete Pool Care, One Family at a Time",
+    "subtitle": "From weekly maintenance to complex repairs, our CPO-certified technicians handle it all with the attention your pool deserves.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Consistent weekly care including water testing, chemical balancing, brushing, skimming, and full equipment checks — with photo proof after every visit."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, and control systems by CPO-certified technicians who get it right the first time."
+      },
+      {
+        "title": "Filter Cleaning & Repair",
+        "description": "Thorough filter cleaning and repair to keep water circulation and filtration at peak performance, extending the life of your entire system."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and winterization services that protect your investment and ensure a smooth, stress-free start each swim season."
+      },
+      {
+        "title": "Liner Replacements",
+        "description": "Full inground liner replacement using premium materials for a fresh, leak-free pool surface that looks brand new."
+      },
+      {
+        "title": "Algae Removal & Acid Washing",
+        "description": "Aggressive algae treatment and acid washing to restore even the most neglected pools to pristine, swim-ready condition."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Crystal-Clear Water in 3 Simple Steps",
+    "steps": [
+      {
+        "title": "Request Your Free Quote",
+        "description": "Fill out our 30-second online form. Tell us about your pool and we'll have a custom quote ready for you fast."
+      },
+      {
+        "title": "Meet Your Dedicated Technician",
+        "description": "We assign one CPO-certified tech to your pool — the same person every week — so they know your pool inside and out."
+      },
+      {
+        "title": "Enjoy Worry-Free Pool Ownership",
+        "description": "Relax while we handle everything. You'll get photo proof and a chemical report after every visit, backed by our Never Green Guarantee."
+      }
+    ]
+  },
+  "about": {
+    "label": "Family-Owned Since 1991",
+    "headline": "35+ Years of Treating Every Pool Like Our Own",
+    "description": "Affordable Pool Service was built on a simple promise: honest, consistent care from people who actually show up and do the work. As a family-owned, owner-operated company, we're not a franchise or a call center — we're the people servicing your pool. Our CPO-certified technicians are assigned to your pool permanently, so you get someone who knows every detail of your system. We send photo proof and chemical reports after every visit because we believe you deserve full transparency. That commitment to doing things right has earned us over 200 five-star reviews and a customer base that stays year after year.",
+    "badge": "Owner-Operated, Never Corporate",
+    "features": [
+      {
+        "title": "Same Technician Every Week",
+        "description": "One dedicated CPO-certified tech is permanently assigned to your pool — they know your system inside and out."
+      },
+      {
+        "title": "Photo Proof After Every Visit",
+        "description": "You'll receive photo documentation and a full chemical report after each service so you always know exactly what was done."
+      },
+      {
+        "title": "Never Green Guarantee",
+        "description": "If your pool turns green while under our weekly care, we'll restore it to crystal-clear condition at absolutely no charge."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Get an honest quote in 30 seconds — no hidden fees, no upsells, just straightforward pool care from a family that takes pride in fair pricing."
+  },
+  "guarantee": {
+    "headline": "Our Never Green Guarantee",
+    "description": "If your pool turns green while under our weekly care, we'll treat it and restore it at absolutely no charge. That's how confident we are in the consistency of our service. No fine print, no excuses — just a promise backed by 35+ years of doing this the right way."
+  },
+  "faqs": [
+    {
+      "question": "What's included in your weekly pool service?",
+      "answer": "Every visit includes water testing, chemical balancing, brushing walls and tiles, skimming all debris, emptying baskets, and a full equipment check. You'll receive a photo report and chemical summary after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "Will I get the same technician every week?",
+      "answer": "Yes — we assign one dedicated CPO-certified technician to your pool permanently. They'll learn your pool's unique needs and provide consistent, reliable care every single visit."
+    },
+    {
+      "question": "What is the Never Green Guarantee?",
+      "answer": "If your pool turns green while under our regular weekly service, we'll treat it and restore it to crystal-clear condition at no additional charge. It's our way of standing behind the quality of our work."
+    },
+    {
+      "question": "How quickly can I get a quote?",
+      "answer": "Our online quote form takes about 30 seconds. Just tell us about your pool and your needs, and we'll get back to you with an honest, straightforward estimate — no hidden fees or pressure to commit."
+    },
+    {
+      "question": "Do you handle equipment repairs too?",
+      "answer": "Absolutely. Our CPO-certified technicians handle pump repairs, heater installation, filter cleaning, salt system maintenance, lighting, automation, and liner replacements — all with the same honest, transparent approach as our weekly service."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah J.",
+      "text": "Professional, reliable, and always on time. I never have to worry about my pool anymore. Switching to Affordable Pool Service was the best decision we made.",
+      "context": "Weekly pool service customer",
+      "initials": "SJ"
+    },
+    {
+      "name": "Michael C.",
+      "text": "The photo reports after every visit are amazing. I can see exactly what they've done and know my pool is being taken care of even when I'm not home.",
+      "context": "Appreciated transparency and communication",
+      "initials": "MC"
+    },
+    {
+      "name": "David N.",
+      "text": "Switched from a big corporate pool company and the difference is night and day. Same tech every week, honest pricing, and they actually care about doing the job right.",
+      "context": "Switched from competitor",
+      "initials": "DN"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care You Can Actually Trust?",
+    "subtitle": "Get your free quote in 30 seconds — no pressure, no gimmicks, just honest service from a family that's been doing this for 35+ years.",
+    "benefits": [
+      "Free, no-obligation quote in under a minute",
+      "Dedicated CPO-certified technician assigned to your pool",
+      "Photo proof and chemical reports after every single visit"
+    ]
+  },
+  "footer": {
+    "description": "Affordable Pool Service is a family-owned, owner-operated pool care company with 35+ years of experience. CPO-certified technicians, photo proof after every visit, and our Never Green Guarantee — that's the Affordable difference.",
+    "service_area": "Proudly serving Sardinia, Brown County, and surrounding areas in Ohio",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Filter Cleaning",
+      "Pool Opening & Closing",
+      "Liner Replacements"
+    ],
+    "copyright": "Affordable Pool Service"
+  }
+}

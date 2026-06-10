@@ -1,0 +1,184 @@
+{
+  "folder_name": "luke-gell-pools",
+  "company_name": "Luke Gell Pools LLC",
+  "tagline": "Central Florida's Leading Custom Pool Builders & Design",
+  "phone": "+1 321-890-4676",
+  "email": "luke@lukegellpools.com",
+  "logo_path": "logo.png",
+  "review_count": "35",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0c1e30",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "trust_badges": {
+    "badge_1": "CPC Licensed & Fully Insured",
+    "badge_2": "4.8/5 from 35+ Reviews",
+    "badge_3": "0% APR Financing Available"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 35+ Google Reviews",
+    "badge_2": "Triple-Licensed Contractor",
+    "headline": "Your Dream Pool, <span class=\"text-secondary italic\">Built From<br>Scratch</span>",
+    "subheadline": "Every pool we build is 100% custom-designed for your backyard, your lifestyle, and Florida's climate. No cookie-cutter templates. Just premium craftsmanship from a triple-licensed contractor with 12+ years of experience in Brevard County.",
+    "cta_text": "Get My Free 3D Design Consultation",
+    "checkmarks": [
+      "Free 3D design consultation",
+      "On-time, on-budget promise",
+      "Premium Pebble Plaster included"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Pools Built",
+    "stat_2_value": "12",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "35",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Custom Designed"
+  },
+  "services": {
+    "label": "What We Build",
+    "headline": "Custom Pool Construction &<br class=\"hidden md:block\"> Complete Outdoor Living",
+    "subtitle": "From custom inground pools to outdoor kitchens and fire features, we design and build every element of your backyard retreat in-house with premium materials.",
+    "cards": [
+      {
+        "title": "Custom Inground Pools",
+        "description": "100% custom gunite pools engineered for Florida's climate. Every design is unique, built with CL Industries Pebble Plaster and Microglass technology for lasting beauty."
+      },
+      {
+        "title": "Spas & Tanning Ledges",
+        "description": "Integrated spa additions and tanning ledges that turn your pool into a complete backyard retreat. Designed to complement your pool's unique layout."
+      },
+      {
+        "title": "Outdoor Kitchens",
+        "description": "Custom outdoor kitchens built to match your pool area, creating the ultimate entertainment space for family gatherings and weekend cookouts."
+      },
+      {
+        "title": "Fire Features & Fireplaces",
+        "description": "Fire bowls, fireplaces, and custom fire features that add warmth and dramatic ambiance to your outdoor pool environment year-round."
+      },
+      {
+        "title": "Hardscaping & Pavers",
+        "description": "Expert installation of travertine, pavers, and natural stone for pool decks, patios, and walkways that elevate your entire outdoor space."
+      },
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Weekly cleaning services including brushing, skimming, vacuuming, and chemical balancing. We keep your pool swim-ready so you never have to worry."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Dream to First Splash in Three Steps",
+    "steps": [
+      {
+        "title": "Free 3D Design Consultation",
+        "description": "Share your vision and we'll create a custom 3D pool design tailored to your backyard, lifestyle, and budget. No pressure, no commitment — just possibilities."
+      },
+      {
+        "title": "We Build It Right",
+        "description": "Our triple-licensed team manages every phase in-house — from permitting and excavation through plaster and decking. On time, on budget, no subcontractor surprises."
+      },
+      {
+        "title": "Dive Into Your Backyard Paradise",
+        "description": "Your custom pool is complete, finished with premium Pebble Plaster, and ready for your family. We even offer ongoing maintenance to keep it perfect year-round."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Brevard County Trusts Us",
+    "headline": "Not a Template Builder — Your Custom Pool Craftsman",
+    "description": "Founded by Luke Gell in 2014, we've spent over 12 years building custom pools across Brevard County and Central Florida. Luke holds three separate licenses — pool contractor, general contractor, and gas installer — so every aspect of your project stays under one roof. We use premium CL Industries Pebble Plaster with Microglass technology on every build, and we never cut corners. Your pool isn't just another project to us — it's the centerpiece of your family's backyard.",
+    "badge": "CPC Certified Contractor",
+    "features": [
+      {
+        "title": "Triple-Licensed Contractor",
+        "description": "Pool/Spa, General Contractor, and Gas Installer licenses mean your entire project is managed by one qualified team — no subcontractor runaround."
+      },
+      {
+        "title": "On-Time, On-Budget Promise",
+        "description": "We commit to your timeline and your budget from day one. No surprise change orders, no drawn-out delays, no excuses."
+      },
+      {
+        "title": "100% Custom — Zero Templates",
+        "description": "Every pool we build is uniquely designed for your yard and your family. We don't do cookie-cutter, and we never will."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprise Costs.",
+    "subtitle": "Every project includes a detailed proposal with fixed pricing. 0% APR financing available for qualified customers."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "We stand behind every pool we build with industry-leading warranties and our personal commitment to your satisfaction. If something isn't right, we make it right — no questions asked, no runaround. That's the Luke Gell Pools promise."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a custom pool?",
+      "answer": "Most custom pool builds take 8-12 weeks from permit approval to completion, depending on design complexity and features. We provide a detailed timeline during your free 3D design consultation so you know exactly what to expect."
+    },
+    {
+      "question": "Do you handle all the permitting?",
+      "answer": "Absolutely. We manage the entire permitting process with Brevard County from start to finish. As a triple-licensed contractor, we handle everything so you don't have to deal with any paperwork or inspections."
+    },
+    {
+      "question": "What makes your pools different from other builders?",
+      "answer": "Every pool is 100% custom designed — no templates. We use premium CL Industries Pebble Plaster with Microglass technology standard on every build, and our triple licensing means your entire project stays in-house with no subcontractor surprises."
+    },
+    {
+      "question": "Do you offer financing?",
+      "answer": "Yes! We offer 0% APR financing for qualified customers, making your dream pool more affordable than you might think. We'll walk you through all available options during your consultation."
+    },
+    {
+      "question": "Do you also maintain pools after construction?",
+      "answer": "Yes, we offer weekly pool cleaning and maintenance services including brushing, skimming, vacuuming, chemical balancing, and equipment repairs. Many of our build clients trust us to keep their pools looking perfect year-round."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Brevard O.",
+      "context": "Facebook Review - 5 Stars",
+      "initials": "BO",
+      "text": "Luke Gell Pools does an excellent job! The staff is very thorough and meticulous. They get the job done right every time and consistently exceed expectations."
+    },
+    {
+      "name": "Scott H.",
+      "context": "Facebook Review - 5 Stars",
+      "initials": "SH",
+      "text": "Exceptional customer service and personal attention to your pool. I have used Luke for nearly a year and have had nothing but good experiences with him and his company. Highly recommend."
+    },
+    {
+      "name": "Donald D.",
+      "context": "Facebook Review - 5 Stars",
+      "initials": "DD",
+      "text": "Very satisfied with the service. The team is friendly, thorough, efficient and reliable. They always leave the pool looking great and address any concerns right away."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Pool?",
+    "subtitle": "Get a free 3D design consultation and honest quote. No pressure, no obligation — just a custom plan for the backyard you've always wanted.",
+    "benefits": [
+      "Free 3D design consultation included",
+      "Detailed proposal within 48 hours",
+      "0% APR financing available"
+    ]
+  },
+  "footer": {
+    "description": "Custom pool builder serving Brevard County since 2014. Triple-licensed and fully insured.",
+    "service_area": "Serving Brevard County, Cocoa, Merritt Island, Rockledge, Viera & Melbourne",
+    "services": [
+      "Custom Pool Construction",
+      "Spas & Tanning Ledges",
+      "Outdoor Kitchens",
+      "Hardscaping & Pavers",
+      "Pool Maintenance"
+    ],
+    "copyright": "&copy; 2024 Luke Gell Pools LLC. All rights reserved. CPC Licensed — Brevard County, FL"
+  }
+}

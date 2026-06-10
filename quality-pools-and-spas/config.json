@@ -1,0 +1,184 @@
+{
+  "folder_name": "quality-pools-and-spas",
+  "company_name": "Quality Pools & Spas",
+  "tagline": "Your Trusted Friend & Partner Serving ALL of Your Pool and Spa Needs",
+  "phone": "(580) 762-3444",
+  "email": "kelly.johnson@qualitypoolwi.com",
+  "logo_path": "logo.png",
+  "review_count": "18",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0b1a2e",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d4900e"
+  },
+  "trust_badges": {
+    "badge_1": "Serving Oklahoma Since 1979",
+    "badge_2": "4.2/5 from 18+ Reviews",
+    "badge_3": "Authorized Sundance & Hot Spring Dealer"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 18+ Google Reviews",
+    "badge_2": "Serving North Central Oklahoma Since 1979",
+    "headline": "46 Years Keeping Pools <span class=\"text-secondary italic\">Crystal<br>Clear</span>",
+    "subheadline": "Since 1979, Quality Pools & Spas has been northern Oklahoma's only full-service pool and spa company. From weekly maintenance to hot tub sales, our team of 12 dedicated pros handles everything so you can enjoy the water worry-free.",
+    "cta_text": "Schedule My Free Consultation",
+    "checkmarks": [
+      "Free computerized water analysis",
+      "Same-week service available",
+      "45+ years of trusted expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools & Spas Serviced",
+    "stat_2_value": "46",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "12",
+    "stat_3_label": "Dedicated Professionals",
+    "stat_4_value": "Only",
+    "stat_4_label": "Full-Service Provider in N. Central OK"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From repairs and chemicals to hot tub sales and sauna installations, we are your one-stop shop for everything pool and spa in North Central Oklahoma.",
+    "cards": [
+      {
+        "title": "Pool Service & Repair",
+        "description": "Equipment installation, leak detection, automation controls, and parts replacement. We diagnose fast and fix it right the first time."
+      },
+      {
+        "title": "Hot Tub & Spa Sales",
+        "description": "Authorized Sundance and Hot Spring dealer. Our experts match you with the perfect spa for your lifestyle, then handle delivery and setup."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Computerized water analysis, chemical balancing, cleaning, and equipment checks. Your pool stays swim-ready every single week."
+      },
+      {
+        "title": "Liner Replacements",
+        "description": "Custom inground pool liner measurement, selection, and professional installation to restore your pool's look and function."
+      },
+      {
+        "title": "Safety Covers & Winterization",
+        "description": "Custom safety cover fitting and seasonal opening and closing services to protect your family and your investment year-round."
+      },
+      {
+        "title": "Sauna & Outdoor Living",
+        "description": "Tylo saunas, outdoor furniture, BBQ grills, and backyard accessories to transform your yard into a complete relaxation retreat."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Backyard Bliss",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Call or stop by our Ponca City showroom. Whether it's a leaky pump, a new hot tub, or weekly maintenance, we'll listen and give you an honest recommendation — no pressure, no upsell."
+      },
+      {
+        "title": "We Handle the Details",
+        "description": "Our experienced team arrives on time with the right parts, chemicals, and equipment. With 46 years of know-how, we get the job done right and clean up after ourselves."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool sparkles, your spa is dialed in, and your water chemistry is perfect. If anything is not right, we come back and make it right — that is the Quality Pools promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Oklahomans Trust Us",
+    "headline": "The Only Pool & Spa Company North Central Oklahoma Has Needed Since 1979",
+    "description": "For over 45 years, Quality Pools & Spas has been the trusted name in Ponca City and beyond. We started as a small family operation and grew into a full-service team of 12 professionals who live and work right here in your community. We carry premium brands like Sundance, Hot Spring, and Tylo because our customers deserve the best. Every pool we service and every spa we sell gets the same care we would give our own.",
+    "badge": "46 Years of Service",
+    "features": [
+      {
+        "title": "Locally Owned Since 1979",
+        "description": "We are not a franchise or a chain. We are your neighbors who have dedicated four decades to keeping North Central Oklahoma swimming."
+      },
+      {
+        "title": "Premium Brands You Can Trust",
+        "description": "Authorized dealer for Sundance Spas, Hot Spring Spas, and Tylo Saunas. We stand behind every product we sell."
+      },
+      {
+        "title": "Computerized Water Analysis",
+        "description": "No guesswork. Our computerized testing gives you precise chemical recommendations for perfectly balanced, crystal-clear water every time."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Whether you need a one-time repair or ongoing weekly care, we will give you an honest quote you can count on. No hidden fees, no pressure."
+  },
+  "guarantee": {
+    "headline": "Our \"Trusted Friend\" Guarantee",
+    "description": "If you are not completely satisfied with any service we perform, call us and we will come back to make it right at no extra charge. We have built our reputation over 46 years by treating every customer like a neighbor — because you are one. Your satisfaction is not just a policy, it is our promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start pool service?",
+      "answer": "Most new maintenance customers are scheduled within one week. For urgent repairs like leaks or equipment failures, we offer priority scheduling and can often be there within 24-48 hours. Call us and we will work with your timeline."
+    },
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We are an authorized dealer for both Sundance Spas and Hot Spring Spas — two of the most trusted names in the industry. Visit our Ponca City showroom at 115 E Highland Ave to see models in person and find the perfect fit for your home and budget."
+    },
+    {
+      "question": "Do you service pools outside of Ponca City?",
+      "answer": "Absolutely. We serve all of North Central Oklahoma including Stillwater, Newkirk, Blackwell, Tonkawa, Perry, and surrounding communities. We have been covering this region for over 45 years and know the area like the back of our hand."
+    },
+    {
+      "question": "Can you help with pool opening and closing for the season?",
+      "answer": "Yes, seasonal openings and winterizations are one of our most popular services. We handle everything from removing and installing safety covers to balancing chemicals and inspecting equipment so your pool is ready when you are."
+    },
+    {
+      "question": "Do you sell pool and spa chemicals?",
+      "answer": "We carry a full line of pool and spa chemicals, test kits, and accessories in our retail store. Plus, our computerized water analysis takes the guesswork out of chemical balancing — bring in a water sample and we will tell you exactly what your pool needs."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mike R.",
+      "text": "Quality Pools has been taking care of our pool for years. They really know their stuff and always have the right chemicals and parts in stock. Great local business that stands behind their work.",
+      "context": "Pool maintenance customer",
+      "initials": "MR"
+    },
+    {
+      "name": "Sandra T.",
+      "text": "We bought our Hot Spring spa from Quality Pools and could not be happier. The team helped us pick the perfect model and handled the entire installation. Their service after the sale has been just as excellent.",
+      "context": "Hot tub purchase and installation",
+      "initials": "ST"
+    },
+    {
+      "name": "David L.",
+      "text": "Had a leak in our inground pool and Quality Pools diagnosed and fixed it quickly. They have been in business forever and it shows in their expertise. Highly recommend for any pool service needs.",
+      "context": "Pool repair service",
+      "initials": "DL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Enjoy Your<br>Pool Again?",
+    "subtitle": "Get a free consultation from North Central Oklahoma's most trusted pool and spa team. Stop by our showroom or give us a call — we have been helping neighbors like you since 1979.",
+    "benefits": [
+      "Free computerized water analysis",
+      "Response within 24 hours",
+      "46 years of trusted local expertise"
+    ]
+  },
+  "footer": {
+    "description": "North Central Oklahoma's only full-service pool and spa company since 1979.",
+    "service_area": "Serving Ponca City, Stillwater, Newkirk, Blackwell, Tonkawa & Perry",
+    "services": [
+      "Pool Service & Repair",
+      "Hot Tub & Spa Sales",
+      "Weekly Maintenance",
+      "Liner Replacements",
+      "Sauna & Outdoor Living"
+    ],
+    "copyright": "&copy; 2024 Quality Pools & Spas. All rights reserved. 115 E Highland Ave, Ponca City, OK 74601"
+  }
+}
