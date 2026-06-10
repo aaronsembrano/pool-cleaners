@@ -3,178 +3,178 @@
   "company_name": "Scott's Pools & Spas",
   "tagline": "Luxury Outdoor Living. Built Right.",
   "phone": "+1 904-364-0028",
-  "email": "spc@scottspools.net",
+  "email": "scott.campbell@scottspools.net",
   "logo_path": "logo.png",
   "review_count": "63",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#1E3A5F",
-    "primary_dark": "#152C49",
-    "primary_deeper": "#0E1F34",
-    "secondary": "#3B82F6",
-    "cta": "#F59E0B",
-    "cta_dark": "#D97706"
+    "primary": "#1a56db",
+    "primary_dark": "#1545b5",
+    "primary_deeper": "#0f3490",
+    "secondary": "#ffffff",
+    "cta": "#e85d04",
+    "cta_dark": "#c44e03"
   },
   "hero": {
     "headline": "Your Dream Pool, <span class=\"text-secondary italic\">Built Right</span>",
-    "subheadline": "Jacksonville's family-owned pool builder delivering luxury outdoor living with transparent pricing, free 3D designs, and no large upfront deposits. See exactly what you're getting before a single shovel hits the ground.",
+    "subheadline": "Jacksonville's family-owned pool contractor delivering luxury outdoor living with transparent pricing and hands-on craftsmanship. Licensed, insured, and committed to exceeding your expectations.",
     "badges": [
-      "Licensed FL Pool Contractor #CPC1460880",
-      "5.0 Stars \u2014 63 Google Reviews"
+      "5.0 Stars \u2014 63 Reviews",
+      "Licensed FL Contractor #CPC1460880"
     ],
     "checkmarks": [
-      "Free 3D design with every proposal",
-      "Progress-based payments \u2014 no big deposits",
-      "Owner on-site for every project"
+      "Transparent pricing with no hidden fees",
+      "Photo updates after every service visit",
+      "Owner-involved on every project"
     ],
-    "cta_text": "Get Your Free 3D Pool Design"
+    "cta_text": "Get Your Free Pool Consultation"
   },
   "stats": {
-    "stat_1_value": "5.0",
-    "stat_1_label": "Google Rating",
-    "stat_2_value": "63",
-    "stat_2_label": "5-Star Reviews",
-    "stat_3_value": "4",
-    "stat_3_label": "Years Serving Jax",
-    "stat_4_value": "$600/mo",
-    "stat_4_label": "Financing Available"
+    "stat_1_value": "63",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving Jacksonville",
+    "stat_3_value": "100",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Insured"
   },
   "services": {
-    "headline": "Everything Your Pool Needs \u2014 From Build to Maintenance",
-    "subtitle": "Whether you're dreaming of a brand-new pool or need expert care for your existing one, we handle it all with the same attention to detail.",
-    "cards": [
+    "headline": "Pool Services Built Around Your Lifestyle",
+    "subtitle": "From new construction to weekly maintenance, we handle every detail so you can enjoy your backyard oasis worry-free.",
+    "items": [
       {
-        "title": "Custom Pool Construction",
-        "description": "Fully custom pools designed around your property and lifestyle. Every project includes a free 3D rendering so you can see your pool before we build it."
+        "title": "New Pool Construction",
+        "description": "Signature and custom pool builds designed to fit your budget, lifestyle, and property \u2014 from pre-designed options to fully custom luxury pools."
       },
       {
-        "title": "Signature Pool Packages",
-        "description": "Pre-designed luxury pool packages scaled to fit your budget \u2014 get a stunning pool without the custom price tag or extended timeline."
-      },
-      {
-        "title": "Pool Remodeling & Renovation",
-        "description": "Breathe new life into your existing pool with resurfacing, tile upgrades, deck renovations, and complete modernization projects."
-      },
-      {
-        "title": "Spa & Water Features",
-        "description": "Add relaxation and visual appeal with custom spa installations, fountains, waterfalls, and bubbler features for any pool."
+        "title": "Pool Remodeling & Renovations",
+        "description": "Transform your existing pool with updated finishes, expanded features, modern tile, and resurfacing to breathe new life into your backyard."
       },
       {
         "title": "Equipment Upgrades",
-        "description": "Modernize your pool systems with new pumps, heaters, automation controls, and energy-efficient LED lighting upgrades."
+        "description": "Full equipment replacements including pumps, heaters, automation systems, LED lighting, filters, and salt chlorine generators."
       },
       {
-        "title": "Routine Pool Maintenance",
-        "description": "Keep your pool crystal clear year-round with professional chemical balancing, cleaning, and equipment inspections."
+        "title": "Spa Additions",
+        "description": "Add a custom spa or hot tub to your existing pool setup for the ultimate relaxation experience right in your backyard."
+      },
+      {
+        "title": "Water Features",
+        "description": "Enhance your pool with elegant waterfalls, fountains, bubblers, and deck jets that elevate your outdoor living space."
+      },
+      {
+        "title": "Pool Maintenance",
+        "description": "Regular maintenance to keep your pool sparkling clean, chemically balanced, and operating at peak performance year-round."
       }
     ]
   },
   "how_it_works": {
-    "headline": "From Consultation to Cannonball in 3 Simple Steps",
+    "headline": "Three Steps to Your Perfect Pool",
     "steps": [
       {
-        "title": "Free Consultation & 3D Design",
-        "description": "We visit your property, discuss your vision, and create a stunning 3D rendering of your future pool \u2014 completely free with every proposal."
+        "title": "Free Consultation",
+        "description": "We visit your property, discuss your vision and budget, and provide a transparent quote with no hidden fees or surprises."
       },
       {
-        "title": "Transparent Build Process",
-        "description": "Our 8-step construction process keeps you informed at every stage with photo updates, clear timelines, and progress-based payments."
+        "title": "Design & Build",
+        "description": "Our team brings your vision to life with hands-on owner involvement, regular photo updates, and clear communication at every stage."
       },
       {
-        "title": "Pool Orientation & Enjoyment",
-        "description": "We walk you through your new pool's systems, teach you maintenance basics, and hand you the keys to your personal oasis."
+        "title": "Enjoy & Relax",
+        "description": "Dive into your new luxury outdoor space knowing it was built right the first time, backed by our quality guarantee."
       }
     ]
   },
   "about": {
-    "label": "Family-Owned & Operated",
-    "headline": "Scott Campbell \u2014 Personally Involved in Every Project",
-    "description": "Scott's Pools & Spas was founded in 2022 with one mission: build pools the right way with zero shortcuts. Owner Scott Campbell is on-site for every project, known for his transparency, punctuality, and hands-on approach. We send detailed photo updates, explain every step of the process, and never surprise you with hidden fees. Our perfect 5-star rating across 63 reviews speaks to the trust Jacksonville families place in our work.",
-    "badge": "Licensed FL Contractor #CPC1460880",
+    "label": "Family-Owned in Jacksonville",
+    "headline": "Built on Honesty, Communication & Craftsmanship",
+    "description": "Scott's Pools & Spas was founded in 2022 on a simple principle: treat every customer's pool like it's our own. As a family-owned company, owner Scott Campbell is personally involved in every project \u2014 ensuring clear communication, realistic expectations, and dependable results. We don't cut corners, and we never leave you guessing. With detailed photo reports after every service and transparent pricing from day one, we've earned the trust of 63 five-star clients across Northeast Florida.",
+    "badge": "Licensed FL Pool Contractor #CPC1460880",
     "features": [
       {
-        "title": "Owner-Managed Projects",
-        "description": "Owner Scott Campbell personally manages every single project from start to finish \u2014 no hand-offs, no subcontractor surprises."
+        "title": "Owner-Involved",
+        "description": "Scott Campbell is personally involved in every project, ensuring quality craftsmanship and clear communication from start to finish."
       },
       {
-        "title": "Photo Progress Reports",
-        "description": "Receive detailed photo updates at every stage of your build so you always know exactly where your project stands."
+        "title": "Photo Reports Every Visit",
+        "description": "Receive detailed photo documentation after every service visit so you always know exactly what was done and why."
       },
       {
-        "title": "Zero Hidden Fees",
-        "description": "Transparent pricing from day one. We quote honestly, bill fairly, and never surprise you with charges after the fact."
+        "title": "Transparent Pricing Always",
+        "description": "No hidden fees, no surprise charges. Every quote is detailed upfront so you know exactly what you are paying for."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing, No Surprises",
-    "subtitle": "We believe you deserve to know exactly what you're paying for. Our progress-based payment structure means you only pay as milestones are completed \u2014 no large upfront deposits, no hidden fees, and financing options starting at just $600/month."
+    "headline": "Transparent Pricing, Zero Surprises",
+    "subtitle": "Every quote is detailed and upfront. No hidden fees, no change-order games, no bait-and-switch. Just honest pricing for premium pool work."
   },
   "guarantee": {
-    "headline": "Our Built-Right Promise",
-    "description": "Every pool we build is backed by our commitment to quality craftsmanship, proper installation, and long-term performance. We don't cut corners, we don't rush timelines, and we don't disappear after the last tile is set. If something isn't right, we make it right \u2014 period."
+    "headline": "Our Built-Right Guarantee",
+    "description": "We stand behind every project we complete. If something isn't right, we'll make it right \u2014 no excuses, no runaround. Your satisfaction and your pool's performance are our top priorities, backed by our Florida contractor's license and full insurance coverage."
   },
   "faqs": [
     {
-      "question": "How long does it take to build a pool in Jacksonville?",
-      "answer": "Most pool builds take 8-12 weeks depending on design complexity and permitting timelines. We keep you updated with photos and progress reports at every stage so you always know where things stand."
-    },
-    {
-      "question": "Do I need a large deposit to get started?",
-      "answer": "No. We use a progress-based payment structure, meaning you pay as milestones are completed rather than putting down a large sum upfront. This protects you and ensures accountability throughout the build."
-    },
-    {
-      "question": "What is included in the free 3D design?",
-      "answer": "Every proposal includes a detailed 3D rendering of your future pool, showing the shape, features, decking, and how it fits your property. You'll see exactly what you're getting before any work begins."
-    },
-    {
-      "question": "Do you offer financing for pool construction?",
-      "answer": "Yes, we offer financing options starting at approximately $600/month. During your consultation, we'll discuss payment plans that work for your budget and project scope."
+      "question": "How long does a new pool construction take?",
+      "answer": "Most new pool builds take 8-12 weeks depending on the design complexity, permitting timelines, and weather conditions. We keep you updated with photos and progress reports throughout the entire process."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Absolutely. We are a licensed Florida Pool Contractor (License #CPC1460880) and fully insured. We're happy to provide documentation upon request."
+      "answer": "Yes! We are a fully licensed Florida pool contractor (License #CPC1460880) and carry comprehensive insurance. You can verify our license on the Florida DBPR website."
+    },
+    {
+      "question": "Do you offer financing for pool construction?",
+      "answer": "We work with several financing partners to help make your dream pool a reality. During your free consultation, we'll discuss budget-friendly options that fit your financial situation."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Jacksonville, Jacksonville Beach, Ponte Vedra Beach, Neptune Beach, Atlantic Beach, St. Augustine, and surrounding Northeast Florida communities."
+    },
+    {
+      "question": "How do I get a quote for my project?",
+      "answer": "Simply call us at 904-364-0028 or fill out our contact form. We'll schedule a free on-site consultation to discuss your vision, assess your property, and provide a detailed, transparent quote."
     }
   ],
   "testimonials": [
     {
       "name": "Marie Mortenson",
-      "text": "They exceeded my expectations on every level... emailed me pics of my pool when completed.",
-      "context": "Google Review",
+      "text": "They exceeded my expectations on every level. Excellent communication with photos and prompt problem-solving.",
+      "context": "Pool maintenance and repair",
       "initials": "MM"
     },
     {
       "name": "Molly Katsma",
-      "text": "Scott came out within 30 minutes of us calling! Great guy, honest work.",
-      "context": "Google Review",
+      "text": "Scott came out within 30 minutes of us calling! His honesty and quality work are why we will always call him for future service.",
+      "context": "Emergency pool service",
       "initials": "MK"
     },
     {
       "name": "Fred Dean",
-      "text": "Scott has been amazing! He has fixed and maximized my pool and equipment.",
-      "context": "Google Review",
+      "text": "Scott has been amazing! He fixed and optimized pool equipment that a previous company had neglected to address.",
+      "context": "Equipment repair and optimization",
       "initials": "FD"
     }
   ],
   "contact": {
     "headline": "Ready to Build Your Dream Pool?",
-    "subtitle": "Schedule your free consultation and 3D design session today. No pressure, no obligations \u2014 just honest answers about what's possible for your backyard.",
+    "subtitle": "Get a free, no-obligation consultation with transparent pricing. We'll visit your property and discuss exactly what's possible within your budget.",
     "benefits": [
-      "Free on-site consultation and property assessment",
-      "Complimentary 3D pool design with every proposal",
-      "Transparent quote with no hidden fees"
+      "Free on-site property assessment",
+      "Detailed written quote within 48 hours",
+      "No pressure, no hidden fees \u2014 ever"
     ]
   },
   "footer": {
-    "description": "Scott's Pools & Spas is a family-owned, licensed pool contractor serving Jacksonville and Northeast Florida. We specialize in pool construction, remodeling, and maintenance \u2014 built right, every time.",
-    "service_area": "Serving Jacksonville, Jacksonville Beach, and Northeast Florida",
-    "services": [
-      "Custom Pool Construction",
+    "description": "Scott's Pools & Spas is a licensed Florida pool contractor serving Jacksonville and Northeast Florida with premium pool construction, renovation, and maintenance services.",
+    "service_area": "Jacksonville, Jacksonville Beach, Ponte Vedra Beach, Neptune Beach, Atlantic Beach, St. Augustine, and surrounding Northeast Florida communities",
+    "service_links": [
+      "New Pool Construction",
       "Pool Remodeling",
-      "Spa Installations",
       "Equipment Upgrades",
+      "Spa Additions",
       "Pool Maintenance"
     ],
-    "copyright": "Scott's Pools & Spas. All rights reserved."
+    "copyright": "Scott's Pools & Spas. All rights reserved. Licensed FL Contractor #CPC1460880."
   }
 }
