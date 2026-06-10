@@ -1,0 +1,184 @@
+{
+  "folder_name": "mcewen-industries",
+  "company_name": "McEwen Industries Inc",
+  "tagline": "Custom Pool Products, Legendary Service",
+  "phone": "+1 704-365-8070",
+  "email": "rmcewen@mcewenindustries.com",
+  "logo_path": "logo.png",
+  "review_count": "8",
+  "review_rating": "4.4",
+  "colors": {
+    "primary": "#2f6cb9",
+    "primary_dark": "#1e4a80",
+    "primary_deeper": "#143460",
+    "secondary": "#66e3ff",
+    "cta": "#e8872a",
+    "cta_dark": "#c46e1a"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited Business",
+    "badge_2": "4.4/5 from 8+ Reviews",
+    "badge_3": "Family-Owned Since 1991"
+  },
+  "hero": {
+    "badge_1": "4.4/5 from 8+ Google Reviews",
+    "badge_2": "Family-Owned Since 1991",
+    "headline": "Custom Pool Products, <span class=\"text-secondary italic\">Built by Family</span>",
+    "subheadline": "For over 35 years, McEwen Industries has been crafting premium pool liners, safety covers, and inground pools right here in North Carolina. We put our family name on every product we make because your satisfaction is our legacy.",
+    "cta_text": "Find a Dealer Near You",
+    "checkmarks": [
+      "35+ years of craftsmanship",
+      "Nationwide dealer network",
+      "Complete product support"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "35",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "500",
+    "stat_2_label": "Authorized Dealers",
+    "stat_3_value": "10000",
+    "stat_3_label": "Pools Outfitted",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family Commitment"
+  },
+  "services": {
+    "label": "Our Products",
+    "headline": "Premium Pool Products<br class=\"hidden md:block\"> Crafted in North Carolina",
+    "subtitle": "From custom vinyl liners to automatic safety covers, every McEwen product is designed for durability, beauty, and a perfect fit for your backyard.",
+    "cards": [
+      {
+        "title": "Inground Pool Liners",
+        "description": "Custom-designed vinyl liners in 20mil and 27mil options with exclusive patterns available only through authorized McEwen Pool Dealers."
+      },
+      {
+        "title": "Safety Covers",
+        "description": "Standard and commercial safety covers engineered to protect your pool and family, providing reliable off-season security and peace of mind."
+      },
+      {
+        "title": "Automatic Safety Covers",
+        "description": "Motorized one-touch safety covers that combine convenient daily operation with code-compliant pool protection for your family."
+      },
+      {
+        "title": "Inground Pools",
+        "description": "Highland brand inground swimming pools designed and manufactured for lasting quality, transforming your backyard into a personal oasis."
+      },
+      {
+        "title": "Above-Ground Pools",
+        "description": "Highland brand above-ground pools offering affordable pool ownership without compromising on quality construction or design options."
+      },
+      {
+        "title": "Portable Spas & Steps",
+        "description": "Highland portable spas including the Swimmercise Pro series, plus custom pool steps designed for comfort and seamless integration."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Connect with a Local Dealer",
+        "description": "Find an authorized McEwen dealer near you. Our nationwide network of established, reputable pool and spa retailers will guide you through every option."
+      },
+      {
+        "title": "Custom Design Your Products",
+        "description": "Work with your dealer to select from our exclusive patterns, sizes, and configurations. Every product is custom-manufactured at our North Carolina facility."
+      },
+      {
+        "title": "Professional Installation",
+        "description": "Your dealer handles expert installation while McEwen provides full product support. From selection to first swim, we stand behind every product we make."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Dealers & Homeowners Trust McEwen",
+    "headline": "A Family Name on Every Product We Make",
+    "description": "Since 1991, McEwen Industries has been a family-owned leader in the swimming pool industry. Our success is rooted in our passion to consistently provide the very best in quality and value. With a dedicated North Carolina production facility and a nationwide dealer network, we deliver custom-designed pool products with meticulous craftsmanship and legendary service that has earned us recognition in AQUA Magazine and Aquatics International.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "North Carolina Manufacturing",
+        "description": "Every product is crafted at our own production facility, giving us complete quality control from raw materials to finished product."
+      },
+      {
+        "title": "Exclusive Dealer Network",
+        "description": "We partner only with established, reputable pool and spa retailers who share our commitment to customer satisfaction."
+      },
+      {
+        "title": "Complete Product Support",
+        "description": "From helping you choose the right product to supporting professional installation, we are with you every step of the way."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Quality Products. Fair Dealer Pricing.",
+    "subtitle": "Contact your local McEwen dealer for a custom quote tailored to your pool. Every project is unique, and our dealers provide honest, transparent pricing."
+  },
+  "guarantee": {
+    "headline": "Our \"Family Name\" Guarantee",
+    "description": "We put the McEwen name on every product we manufacture because we stand behind our craftsmanship completely. If any product does not meet your expectations, we work directly with your dealer to make it right. Our 35-year reputation depends on your satisfaction, and we take that personally."
+  },
+  "faqs": [
+    {
+      "question": "How do I find a McEwen dealer near me?",
+      "answer": "Contact us directly at 704-365-8070 or email us, and we will connect you with an authorized McEwen Pool Dealer in your area. Our nationwide dealer network ensures there is a trusted professional nearby."
+    },
+    {
+      "question": "What makes McEwen pool liners different?",
+      "answer": "Our inground liners feature exclusive patterns and designs available only through McEwen dealers. Offered in both 20mil and 27mil options, every liner is custom-manufactured at our North Carolina facility for a perfect fit."
+    },
+    {
+      "question": "Do you sell directly to homeowners?",
+      "answer": "McEwen products are available exclusively through our authorized dealer network. This ensures you receive expert guidance on product selection and professional installation for the best results."
+    },
+    {
+      "question": "How long does a custom order take?",
+      "answer": "Most custom orders are completed and shipped within 7 to 10 business days from our North Carolina production facility. Your dealer will provide a specific timeline based on your project requirements."
+    },
+    {
+      "question": "Do you offer commercial pool products?",
+      "answer": "Yes. We manufacture commercial safety covers and reinforced PVC membranes designed for heavy-use applications. Contact us for commercial pricing and specifications tailored to your facility."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-time Pool Dealer",
+      "context": "Chamber of Commerce Review",
+      "initials": "LD",
+      "text": "We have purchased pool covers from McEwen for 10 years. Great customer service, pricing that beats other wholesale companies, and delivery in 7 to 10 business days."
+    },
+    {
+      "name": "Satisfied Customer",
+      "context": "Chamber of Commerce Review",
+      "initials": "SC",
+      "text": "Great customer service, super helpful and super friendly. They offer great quality products. An amazing company to work with."
+    },
+    {
+      "name": "Pool Owner",
+      "context": "Online Review",
+      "initials": "PO",
+      "text": "After speaking directly with customer service by phone, they answered all my questions and provided helpful, understandable information. Very kind and helpful team."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Premium<br>Pool Products?",
+    "subtitle": "Connect with McEwen Industries or find an authorized dealer near you. Our family team is ready to help you select the perfect products for your pool project.",
+    "benefits": [
+      "Free product consultation via phone or email",
+      "Response within 24 hours from our NC team",
+      "35+ years of family-backed quality"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool product manufacturer. Serving the industry since 1991 from Charlotte, NC.",
+    "service_area": "Serving Charlotte, NC and Dealers Nationwide",
+    "services": [
+      "Inground Pool Liners",
+      "Safety Covers",
+      "Automatic Covers",
+      "Inground Pools",
+      "Portable Spas"
+    ],
+    "copyright": "&copy; 2024 McEwen Industries Inc. All rights reserved. Charlotte, NC"
+  }
+}

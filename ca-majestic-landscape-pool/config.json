@@ -1,30 +1,30 @@
 {
   "folder_name": "ca-majestic-landscape-pool",
-  "company_name": "Ca Majestic Landscape Maintenance And Pool Service",
+  "company_name": "CA Majestic Landscape Maintenance and Pool Service",
   "tagline": "A trusted local business since 2001!",
-  "phone": "(916) 638-2607",
+  "phone": "+1 916-638-2607",
   "email": "camajesticpool@aol.com",
   "logo_path": "logo.png",
   "review_count": "8",
   "review_rating": "4.0",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133d59",
-    "primary_deeper": "#0d2b3e",
-    "secondary": "#2ecc71",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#1a73a7",
+    "primary_dark": "#13567d",
+    "primary_deeper": "#0b3a55",
+    "secondary": "#2cbcb3",
+    "cta": "#f5a623",
+    "cta_dark": "#d98e14"
   },
   "trust_badges": {
-    "badge_1": "CSLB Licensed #794263",
-    "badge_2": "BBB A+ Rated",
+    "badge_1": "Fully Licensed & Registered",
+    "badge_2": "4.0/5 on Google Reviews",
     "badge_3": "Hayward Authorized Dealer"
   },
   "hero": {
     "badge_1": "4.0/5 from Google Reviews",
-    "badge_2": "BBB Accredited — A+ Rating",
+    "badge_2": "Hayward Authorized Dealer",
     "headline": "Sacramento's Pool Experts <span class=\"text-secondary italic\">Since<br>2001</span>",
-    "subheadline": "For over 25 years, Sacramento families and businesses have trusted us to keep their pools sparkling clean and their landscapes looking pristine. We handle everything so you can just dive in.",
+    "subheadline": "For over 25 years, Sacramento families and businesses have trusted CA Majestic to keep their pools sparkling clean and their landscapes looking pristine. We handle everything so you can just dive in.",
     "cta_text": "Request Your Free Quote",
     "checkmarks": [
       "Free pool inspection",
@@ -38,9 +38,9 @@
     "stat_2_value": "25",
     "stat_2_label": "Years in Business",
     "stat_3_value": "19",
-    "stat_3_label": "Cities Served",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_label": "Communities Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Registered"
   },
   "services": {
     "label": "Our Services",
@@ -91,18 +91,18 @@
     ]
   },
   "about": {
-    "label": "Why Sacramento Trusts Us",
+    "label": "Why Sacramento Trusts CA Majestic",
     "headline": "25 Years of Keeping Sacramento Pools Sparkling",
-    "description": "Since 2001, California Majestic has been the Greater Sacramento Area's go-to for pool service and landscape maintenance. We're fully licensed (CSLB #794263), BBB Accredited with an A+ rating, and a proud Hayward Authorized Dealer. From Folsom to Elk Grove, Roseville to Davis — our technicians treat every property like their own.",
-    "badge": "Hayward Authorized",
+    "description": "Since 2001, CA Majestic has been the Greater Sacramento Area's go-to for pool service and landscape maintenance. We're fully licensed, properly registered, and a proud Hayward Authorized Dealer. From Folsom to Elk Grove, Roseville to Davis — our technicians treat every property like their own.",
+    "badge": "Hayward Authorized Dealer",
     "features": [
       {
-        "title": "Licensed & BBB Accredited",
-        "description": "CSLB Licensed contractor #794263 with a BBB A+ rating. Fully insured and properly registered for your peace of mind."
+        "title": "Fully Licensed & Registered",
+        "description": "Every service is performed by licensed professionals who are properly registered and insured for your complete peace of mind."
       },
       {
         "title": "Commercial & Residential",
-        "description": "Hotels, hospitals, office parks, and family homes — we serve them all with the same attention to detail and professionalism."
+        "description": "Hotels, medical facilities, office parks, and family homes — we serve them all with the same attention to detail and professionalism."
       },
       {
         "title": "Satisfaction Guaranteed",
@@ -111,53 +111,53 @@
     ]
   },
   "pricing": {
-    "headline": "Affordable Rates. Honest Pricing.",
-    "subtitle": "Surprisingly affordable service from licensed, experienced professionals. Get a custom quote for your property — no hidden fees, no surprises."
+    "headline": "Competitive Pricing. Honest Service.",
+    "subtitle": "Surprisingly affordable rates from licensed, experienced professionals. Get a custom quote for your property — no hidden fees, no surprises."
   },
   "guarantee": {
-    "headline": "Our \"Not Satisfied Until You Are\" Guarantee",
+    "headline": "Our \"Majestic Clean\" Guarantee",
     "description": "If you're not completely happy with any service visit, call us and we'll come back to make it right — at no additional cost. We've built our reputation on this promise for over 25 years, and we're not about to stop now."
   },
   "faqs": [
     {
       "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within 3-5 business days. For green pool emergencies, we offer faster response times. Call us at (916) 638-2607 and we'll work with your schedule."
+      "answer": "Most new clients are scheduled within 3-5 business days. For green pool emergencies, we offer faster response times. Call us at 916-638-2607 and we'll work with your schedule."
     },
     {
-      "question": "Do you service both residential and commercial pools?",
-      "answer": "Absolutely. We maintain pools for homeowners, hotels, hospitals, HOAs, office complexes, and more across 19 Sacramento-area communities. Commercial clients get tailored maintenance plans."
+      "question": "Do you service both residential and commercial properties?",
+      "answer": "Absolutely. We maintain pools for homeowners and provide full landscape maintenance for hotels, medical facilities, HOAs, office complexes, and more across 19 Sacramento-area communities."
     },
     {
-      "question": "What areas do you serve?",
+      "question": "What areas in Sacramento do you serve?",
       "answer": "We serve the Greater Sacramento Area including Elk Grove, Folsom, Roseville, Rocklin, Citrus Heights, Carmichael, Fair Oaks, Granite Bay, Rancho Cordova, Davis, and many more communities."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Yes. We hold CSLB License #794263, are BBB Accredited with an A+ rating, and are a Hayward Authorized Dealer. We carry full liability insurance on every job."
+      "answer": "Yes. CA Majestic is fully licensed and properly registered. We are also a Hayward Authorized Dealer, which means we use premium equipment and meet the highest industry standards."
     },
     {
       "question": "What makes you different from other pool services?",
-      "answer": "25 years of experience, a BBB A+ rating, Hayward Authorized Dealer status, and a simple promise: we're not satisfied until you are. Our rates are surprisingly affordable for the level of service we provide."
+      "answer": "25 years of experience, Hayward Authorized Dealer status, both pool and landscape services under one roof, and a simple promise: we're not satisfied until you are. Our rates are surprisingly affordable for the level of service we provide."
     }
   ],
   "testimonials": [
     {
       "name": "Honey C.",
       "text": "When I called for their rates I was surprised at how inexpensive their services are. My pool tech was awesome, knowledgeable, funny & quick!",
-      "context": "Google Review — 5 Stars",
+      "context": "Google Review - 5 Stars",
       "initials": "HC"
     },
     {
       "name": "Chavo B.",
       "text": "This is awesome service. The employees are very professional and know what they're doing. Highly recommend for anyone in the Sacramento area.",
-      "context": "Google Review — 5 Stars",
+      "context": "Google Review - 5 Stars",
       "initials": "CB"
     },
     {
-      "name": "Long-time Client",
-      "text": "They have been servicing our pool for over 13 years. Professional, honest and reliable. You won't find a more dependable pool service in Sacramento.",
-      "context": "Angi Review — Loyal Customer",
-      "initials": "LC"
+      "name": "Satisfied Client",
+      "text": "Extremely happy with the service. Anthony does a great job servicing our pool every week. Great customer service and very reliable. Our pool has never looked better.",
+      "context": "Verified Customer Review",
+      "initials": "SC"
     }
   ],
   "contact": {
@@ -170,8 +170,8 @@
     ]
   },
   "footer": {
-    "description": "Sacramento's trusted pool and landscape service since 2001. CSLB #794263 | BBB A+ Rated | Hayward Authorized Dealer.",
-    "service_area": "Serving the Greater Sacramento Area — 19 Communities",
+    "description": "Sacramento's trusted pool and landscape service since 2001. Fully licensed, registered, and Hayward Authorized Dealer.",
+    "service_area": "Serving Sacramento, Elk Grove, Folsom, Roseville, Rocklin & 19+ Communities",
     "services": [
       "Residential Pool Service",
       "Commercial Pool Service",
@@ -179,6 +179,6 @@
       "Equipment Repairs",
       "Landscape Maintenance"
     ],
-    "copyright": "&copy; 2024 Ca Majestic Landscape Maintenance And Pool Service. All rights reserved. CSLB #794263"
+    "copyright": "&copy; 2024 CA Majestic Landscape Maintenance and Pool Service. All rights reserved."
   }
 }

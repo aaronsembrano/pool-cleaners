@@ -1,0 +1,184 @@
+{
+  "folder_name": "nrc-landscape-construction",
+  "company_name": "NRC Landscape Construction",
+  "tagline": "Northern Virginia's Premier Landscape Design & Custom Pool Construction",
+  "phone": "+1 703-242-7698",
+  "email": "nick@nrclandscaping.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#9D7A5F",
+    "primary_dark": "#7A5D45",
+    "primary_deeper": "#5C4332",
+    "secondary": "#C5AF97",
+    "cta": "#2E7D32",
+    "cta_dark": "#1B5E20"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — VA Pool Contractor",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "22 Years of Excellence",
+    "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Designed &<br>Built to Last</span>",
+    "subheadline": "For over two decades, NRC has been transforming Northern Virginia properties into luxury outdoor retreats. From custom pools installed in just two weeks to complete landscape architecture, owner Nick Hanna and 35 dedicated artisans handle every detail so you can simply enjoy the result.",
+    "cta_text": "Start Your Design Consultation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "Full 3D visualization included",
+      "92% client return rate"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1000",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "22",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "35",
+    "stat_3_label": "Artisans on Staff",
+    "stat_4_value": "92%",
+    "stat_4_label": "Client Return Rate"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Luxury Outdoor Living<br class=\"hidden md:block\"> Crafted by Master Artisans",
+    "subtitle": "From custom pools and hardscapes to full landscape architecture, NRC brings your vision to life with in-house designers, masons, and carpenters who work as one team.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "From concept to completion, NRC designs pools with your family in mind. Most pool shells installed in just two weeks — full-service design, construction, and renovation."
+      },
+      {
+        "title": "Outdoor Structures",
+        "description": "Custom outdoor rooms, screened porches, pavilions, and pool houses crafted by our in-house architects and engineers to create stunning, functional spaces."
+      },
+      {
+        "title": "Hardscape & Decking",
+        "description": "Expert masons and carpenters deliver exceptional patios, walkways, retaining walls, and custom decking using a diverse range of premium materials."
+      },
+      {
+        "title": "Landscape Architecture",
+        "description": "Transform your property with native plants, majestic mature trees, and vibrant perennials — complete with detailed 3D renderings and custom planting plans."
+      },
+      {
+        "title": "Outdoor Kitchens & Fire Features",
+        "description": "Elegant outdoor kitchens and fire pits designed for effortless entertaining, featuring custom stone work and fully equipped cooking areas."
+      },
+      {
+        "title": "Sport Courts & Recreation",
+        "description": "Custom sport court design and installation for residential properties, creating dedicated recreational spaces that complement your overall landscape."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "From Vision to Reality in Three Steps",
+    "steps": [
+      {
+        "title": "Design Consultation",
+        "description": "Meet with owner Nick Hanna on-site. We listen to your vision, assess your property, and provide an honest, detailed proposal with 3D renderings — no pressure, no obligations."
+      },
+      {
+        "title": "Expert Construction",
+        "description": "Our 35 dedicated artisans — designers, masons, carpenters, and horticulturists — work as one coordinated team. Most pool shells are completed in just two weeks."
+      },
+      {
+        "title": "Enjoy Your Retreat",
+        "description": "Step into your transformed outdoor living space. With a 92% client return rate for multi-phase projects, we know you will love the result — and keep coming back for more."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Northern Virginia Trusts NRC",
+    "headline": "Not a General Contractor — Your Dedicated Outdoor Living Team",
+    "description": "Founded in 2004 by Nick Hanna, NRC Landscape Construction has spent over 20 years focused exclusively on pools and landscapes. With 35 in-house artisans, designers, and masons, we bring every discipline under one roof. That specialized focus is why 92% of our clients return for additional phases — they know we treat every project like our own home.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "35 In-House Artisans & Designers",
+        "description": "Every discipline under one roof — architects, engineers, horticulturists, masons, and carpenters working together for flawless execution."
+      },
+      {
+        "title": "Owner-Led, Every Project",
+        "description": "Nick Hanna is personally involved from first consultation to final walkthrough. You are never handed off to a random crew."
+      },
+      {
+        "title": "92% Client Return Rate",
+        "description": "The vast majority of our clients come back for additional phases. That kind of loyalty is earned through exceptional results and genuine care."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Exceptional Value.",
+    "subtitle": "Every project is custom-designed for your property. Schedule a free consultation and receive a detailed, no-obligation proposal with full 3D visualization."
+  },
+  "guarantee": {
+    "headline": "Our \"Flawless Execution\" Promise",
+    "description": "If any aspect of your project does not meet the standards we agreed upon, we will make it right at no additional cost. With over 20 years of craftsmanship behind every decision, we stand fully behind our work — from the first design sketch to the final walkthrough and beyond."
+  },
+  "faqs": [
+    {
+      "question": "How long does a custom pool project take?",
+      "answer": "Most pool shells are installed in just two weeks. Full projects including landscaping and hardscaping typically run 6-12 weeks depending on scope. During your consultation, we provide a detailed timeline tailored to your specific project."
+    },
+    {
+      "question": "Do I get to see the design before construction begins?",
+      "answer": "Absolutely. Every project includes detailed 3D renderings, plant lists, and plan measurements so you can visualize exactly what your finished outdoor space will look like before we break ground."
+    },
+    {
+      "question": "Are your crews in-house or subcontracted?",
+      "answer": "All 35 of our artisans, designers, masons, and carpenters are NRC team members — not subcontractors. This means better communication, consistent quality, and a team that takes personal pride in every project."
+    },
+    {
+      "question": "What areas in Northern Virginia do you serve?",
+      "answer": "We serve McLean, Great Falls, Vienna, Arlington, Alexandria, Fairfax Station, Reston, Tysons, Loudoun County, Chantilly, Falls Church, Leesburg, Ashburn, and surrounding Northern Virginia communities."
+    },
+    {
+      "question": "Can you work on projects in phases?",
+      "answer": "Yes — in fact, 92% of our clients return for multi-phase projects. We can design a master plan and execute it in stages that fit your timeline and budget, ensuring everything integrates beautifully."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ali M.",
+      "context": "Pool Construction",
+      "initials": "AM",
+      "text": "Working with Nick and NRC Landscape was a fantastic experience from start to finish. They recently completed a pool for my property with exceptional results. The quality of work and attention to detail exceeded our expectations."
+    },
+    {
+      "name": "Tommy S.",
+      "context": "Pool and Spa Project",
+      "initials": "TS",
+      "text": "NRC did an amazing job with our pool and spa project. From the initial consultation with Nick to the final walkthrough, everything was handled professionally. I highly recommend them to anyone looking for quality craftsmanship."
+    },
+    {
+      "name": "Matt F.",
+      "context": "Outdoor Living",
+      "initials": "MF",
+      "text": "Nick, Roberto, and the whole NRC team were incredible to work with. Our original contractor pulled out and NRC stepped in and delivered outstanding results. They truly care about every detail of the project."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Schedule a free on-site design consultation with owner Nick Hanna. You will receive a detailed proposal with 3D renderings — no pressure, no obligations, just honest expertise.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed 3D visualization included",
+      "Owner-led from start to finish"
+    ]
+  },
+  "footer": {
+    "description": "Northern Virginia's premier landscape design and custom pool construction — 22 years of craftsmanship.",
+    "service_area": "Serving McLean, Great Falls, Vienna, Arlington, Reston & Northern Virginia",
+    "services": [
+      "Custom Pools",
+      "Outdoor Structures",
+      "Hardscape & Decks",
+      "Landscape Design",
+      "Outdoor Kitchens"
+    ],
+    "copyright": "&copy; 2024 NRC Landscape Construction. All rights reserved. Licensed VA Contractor"
+  }
+}
