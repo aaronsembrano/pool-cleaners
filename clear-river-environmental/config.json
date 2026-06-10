@@ -1,71 +1,71 @@
 {
   "folder_name": "clear-river-environmental",
   "company_name": "Clear River Environmental",
-  "tagline": "Environmental Remediation Company You Can Trust",
-  "phone": "+1 631-238-3684",
-  "email": "info@clearriverenvironmental.com",
+  "tagline": "Stop worrying about septic backups, cesspool odors, and contaminated water threatening your family's safety.",
+  "phone": "+1 631-467-5447",
+  "email": "david.warrren@clearriverenvironmental.com",
   "logo_path": "logo.png",
-  "review_count": "184",
-  "review_rating": "4.6",
+  "review_count": "155",
+  "review_rating": "4.7",
   "colors": {
     "primary": "#2E7D32",
     "primary_dark": "#1B5E20",
     "primary_deeper": "#0D3B12",
-    "secondary": "#FFFFFF",
+    "secondary": "#4CAF50",
     "cta": "#E65100",
     "cta_dark": "#BF360C"
   },
   "hero": {
-    "headline": "65 Years Protecting <span class=\"text-secondary italic\">Long Island Homes</span>",
-    "sub_headline": "Family-owned since 1960, Clear River Environmental delivers expert plumbing, septic, cesspool, sewer, and environmental remediation services across Nassau and Suffolk Counties. No surprise bills, guaranteed pricing, and a 2-hour emergency response you can count on.",
+    "headline": "60+ Years Protecting <span class=\"text-secondary italic\">Long Island Families</span>",
+    "subheadline": "Since 1960, Clear River Environmental has been the trusted name for septic, cesspool, and environmental services across Long Island. Family-owned, EPA-certified, and available 24/7 when you need us most.",
     "badges": [
-      "4.6 Stars on Google (184 Reviews)",
-      "EPA & IICRC Certified"
+      "EPA & IICRC Certified",
+      "4.7★ from 155 Reviews"
     ],
     "checkmarks": [
-      "No Surprise Bills — Written Estimates on Every Job",
-      "24/7 Emergency Response — On-Site in 2 Hours",
-      "Licensed, Certified Experts — Never Subcontractors"
+      "24/7 Emergency Response — Day or Night",
+      "Family-Owned & Operated Since 1960",
+      "Licensed Environmental Service Technicians"
     ],
-    "cta_text": "Get Your Free Estimate Now"
+    "cta_text": "Get Your Free Assessment"
   },
   "stats": {
-    "stat_1_value": "65+",
+    "stat_1_value": "60",
     "stat_1_label": "Years Serving Long Island",
-    "stat_2_value": "184+",
-    "stat_2_label": "5-Star Google Reviews",
-    "stat_3_value": "2hr",
-    "stat_3_label": "Emergency Response Time",
-    "stat_4_value": "100%",
-    "stat_4_label": "Guaranteed Pricing"
+    "stat_2_value": "155",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "10000",
+    "stat_3_label": "Jobs Completed",
+    "stat_4_value": "24/7",
+    "stat_4_label": "Emergency Availability"
   },
   "services": {
-    "headline": "Complete Environmental & Plumbing Solutions",
-    "subtitle": "From emergency plumbing repairs to full environmental remediation, our licensed team handles every job with professional-grade equipment and transparent pricing.",
+    "headline": "Complete Environmental Services",
+    "subtitle": "From routine cesspool maintenance to emergency hazardous waste remediation — one call handles it all.",
     "cards": [
       {
+        "title": "Cesspool Services",
+        "description": "Cesspool pumping, location, aeration, and treatments to keep your system running efficiently and prevent costly backups."
+      },
+      {
+        "title": "Septic Tank Services",
+        "description": "Full septic tank installation, repair, pumping, and inspection services for residential and commercial properties across Long Island."
+      },
+      {
         "title": "Plumbing Services",
-        "description": "Emergency repairs, water heaters, sump pumps, gas lines, oil tanks, winterization, slab leak repairs, frozen pipe restoration, and backflow certification for homes and businesses."
+        "description": "Residential and commercial plumbing including emergency repairs, ensuring your home's water systems function properly year-round."
       },
       {
         "title": "Sewer & Drain Cleaning",
-        "description": "High-pressure water jetting, video camera inspection, sewer line cleaning, and storm drain maintenance to keep your property flowing and problem-free."
+        "description": "Professional sewer and drain cleaning using high-pressure water jetting and video camera inspection technology to pinpoint problems fast."
       },
       {
-        "title": "Cesspool Pumping & Treatment",
-        "description": "Professional cesspool pumping, GPS location services, aeration, chemical and bacterial treatment, system inspection, and Suffolk County certifications."
+        "title": "Hazardous Waste Remediation",
+        "description": "Certified hazardous and non-hazardous waste remediation, oil tank cleaning, and emergency oil spill response by licensed technicians."
       },
       {
-        "title": "Septic System Services",
-        "description": "Complete septic tank installation, repair, pumping, and inspection services. We maintain your system so you never face a costly emergency replacement."
-      },
-      {
-        "title": "Environmental Remediation",
-        "description": "Hazardous and non-hazardous waste cleanup, oil tank removal, emergency oil spill response, and bulk liquid waste hauling by certified remediation specialists."
-      },
-      {
-        "title": "Commercial & Municipal",
-        "description": "Fully compliant environmental and plumbing solutions for businesses, schools, parks, and government facilities throughout Long Island."
+        "title": "Bulk Liquid Waste Hauling",
+        "description": "Safe and fully compliant bulk liquid waste hauling services for residential, commercial, and industrial clients throughout the region."
       }
     ]
   },
@@ -73,107 +73,98 @@
     "headline": "How It Works",
     "steps": [
       {
-        "title": "Call or Request Online",
-        "description": "Reach us 24/7. Describe your issue and we'll dispatch a licensed technician — often within 2 hours for emergencies."
+        "title": "Call or Book Online",
+        "description": "Reach us 24/7. Describe your issue and we'll schedule a convenient time — or dispatch immediately for emergencies."
       },
       {
-        "title": "Transparent Inspection & Estimate",
-        "description": "Our expert arrives with professional-grade camera and GPS equipment, diagnoses the problem, and provides a written, guaranteed estimate before any work begins."
+        "title": "Expert Diagnosis",
+        "description": "Our licensed technicians arrive with advanced equipment, diagnose the problem accurately, and explain your options clearly — no surprises."
       },
       {
-        "title": "Problem Solved, Guaranteed",
-        "description": "We complete the job with full documentation, clean up thoroughly, and back our work with a satisfaction guarantee. No surprise bills, ever."
+        "title": "Problem Solved",
+        "description": "We complete the work efficiently, clean up thoroughly, and ensure your system is running safely before we leave."
       }
     ]
   },
   "about": {
-    "label": "Family-Owned Since 1960",
-    "headline": "Three Generations of Long Island Expertise",
-    "description": "Clear River Environmental has been the name Long Island families trust for over 65 years. What started as a small family plumbing operation in Ronkonkoma has grown into a full-service environmental company with a fleet of modern pumping trucks, camera inspection systems, and GPS location equipment. We still operate with the same values our founders built this company on: honest pricing, expert workmanship, and treating every customer like a neighbor.",
-    "badge": "65+ Years in Business",
+    "label": "About Clear River Environmental",
+    "headline": "Three Generations of Environmental Expertise",
+    "description": "Since 1960, Clear River Environmental has been a family-owned company dedicated to protecting Long Island homes and businesses. What started as a local cesspool service has grown into a comprehensive environmental solutions provider — all while keeping the same honest, personal service our neighbors have trusted for over six decades.",
+    "badge": "Family-Owned Since 1960",
     "features": [
-      {
-        "title": "EPA & IICRC Certified Technicians",
-        "description": "Every technician is fully licensed and certified. We never use subcontractors — only our own trained professionals."
-      },
-      {
-        "title": "Modern Professional-Grade Equipment",
-        "description": "Our fleet includes pumping trucks, video camera inspection systems, and GPS location devices for precise diagnostics."
-      },
-      {
-        "title": "Written Estimates, Guaranteed Pricing",
-        "description": "You approve the cost before any work begins. The number on your invoice always matches the number we quoted."
-      }
+      { "title": "EPA & IICRC Certified Technicians", "description": "Every technician on your job holds EPA and IICRC certifications, ensuring work is done safely and to the highest environmental standards." },
+      { "title": "Comprehensive Environmental Services", "description": "From routine cesspool pumping to emergency hazardous waste remediation, we handle it all — one trusted company for every need." },
+      { "title": "60+ Years of Community Trust", "description": "Three generations of Long Island families have relied on us. We earn your trust every single visit, just like we have since 1960." }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing, No Surprises",
-    "subtitle": "Every job starts with a written estimate and guaranteed price. You approve the cost before we lift a wrench — and the number on your invoice matches the number we quoted."
+    "headline": "Transparent, Fair Pricing",
+    "subtitle": "No hidden fees, no surprise charges. We provide upfront quotes before any work begins so you know exactly what to expect."
   },
   "guarantee": {
-    "headline": "Our No-Surprise-Bill Guarantee",
-    "description": "We believe you deserve to know exactly what you're paying before work begins. That's why every Clear River job comes with a written, guaranteed estimate. If our final cost exceeds our quote for any reason within our control, we cover the difference. After 65 years in business, our reputation depends on keeping this promise to every customer."
+    "headline": "Our Promise to You",
+    "description": "If you're not completely satisfied with our work, we'll come back and make it right — no questions asked. With 60+ years of reputation on the line, your trust means everything to us."
   },
   "faqs": [
     {
-      "question": "How quickly can you respond to a plumbing or septic emergency?",
-      "answer": "We offer 24/7 emergency service with a 2-hour arrival time across Long Island. Call us at (631) 238-3684 and a licensed technician will be dispatched immediately."
+      "question": "How often should I pump my cesspool or septic tank?",
+      "answer": "For most Long Island homes, we recommend pumping every 2-3 years. However, household size, water usage, and system age can affect this timeline. We'll assess your specific situation and recommend the right schedule."
     },
     {
-      "question": "Do you provide written estimates before starting work?",
-      "answer": "Absolutely. Every job begins with a thorough inspection, a written estimate, and guaranteed pricing. You approve the cost before any work starts, and our final invoice matches our quote."
+      "question": "Do you offer 24/7 emergency service?",
+      "answer": "Absolutely. Septic emergencies don't wait for business hours, and neither do we. Call us any time — day or night, weekends and holidays included — and we'll dispatch a technician immediately."
     },
     {
-      "question": "What areas on Long Island do you serve?",
-      "answer": "We serve all of Nassau County and Suffolk County, including every town and village on Long Island. Our fleet is based in Ronkonkoma for fast response across the entire island."
+      "question": "What areas do you serve?",
+      "answer": "We serve all of Long Island including Suffolk County communities like Ronkonkoma, Brentwood, Islip, Smithtown, and surrounding areas. If you're on Long Island, we can help."
     },
     {
-      "question": "Are your technicians licensed and certified?",
-      "answer": "Yes. Every technician on our team is fully licensed and holds EPA, IICRC, and EAA certifications. We never use subcontractors — only our own trained, vetted professionals."
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our team holds EPA, IICRC, and CRA certifications. Every technician is a licensed environmental service professional with extensive training and experience."
     },
     {
-      "question": "How often should I have my cesspool or septic system serviced?",
-      "answer": "We recommend pumping every 2-3 years for most residential systems, though usage and household size can affect timing. We'll inspect your system and recommend the right maintenance schedule for your property."
+      "question": "How quickly can you respond to an emergency?",
+      "answer": "For emergencies like cesspool collapses or sewage backups, we typically arrive within hours — not days. We've even completed full septic system replacements in under 24 hours when needed."
     }
   ],
   "testimonials": [
     {
-      "name": "Stephen Smith",
-      "text": "We had a swamp gas smell in our house. Clear River's people arrived pretty much immediately and worked for 6 hours to diagnose and resolve the issue.",
-      "context": "Google Review - 5 stars",
-      "initials": "SS"
+      "name": "Long-time Customer",
+      "text": "Izzy is extremely knowledgeable and very polite. We are always glad to see him year after year.",
+      "context": "Annual septic service",
+      "initials": "LC"
     },
     {
-      "name": "Guy Vincel",
-      "text": "The team arrived early. Wenfred, Terrelle and Alex were professional, and courteous. They explained everything clearly and completed my septic tank service efficiently.",
-      "context": "Google Review - 5 stars",
-      "initials": "GV"
+      "name": "Emergency Septic Customer",
+      "text": "Our cesspool collapsed and in less than 24 hours we had a new septic system. Some of the most skilled professionals with extremely fair pricing and service second to none.",
+      "context": "Emergency septic installation",
+      "initials": "ES"
     },
     {
-      "name": "Jerry Silverstein",
-      "text": "Within an hour of cold calling them Jessie came to the rescue. He was knowledgeable and supportive and put us right at ease in a harrowing situation.",
-      "context": "Google Review - 5 stars",
-      "initials": "JS"
+      "name": "Residential Customer",
+      "text": "Clear River installed our septic system and services it. Their prices are fair and service is very professional.",
+      "context": "Septic installation and maintenance",
+      "initials": "RC"
     }
   ],
   "contact": {
-    "headline": "Get Your Free Estimate Today",
-    "subtitle": "Call now or fill out the form below. We respond to every inquiry within 30 minutes during business hours — and dispatch emergency crews 24/7.",
+    "headline": "Get Help Today",
+    "subtitle": "Whether it's routine maintenance or a midnight emergency, we're here for you.",
     "benefits": [
-      "Free written estimate with guaranteed pricing",
-      "24/7 emergency dispatch — on-site in 2 hours",
-      "No obligation, no pressure, no surprise bills"
+      "Free phone consultations and upfront quotes",
+      "Same-day service available for emergencies",
+      "Flexible scheduling that works around your life"
     ]
   },
   "footer": {
-    "description": "Clear River Environmental has served Long Island families and businesses since 1960. Licensed, certified, and committed to transparent pricing on every plumbing, septic, cesspool, sewer, and environmental remediation job.",
-    "service_area": "Serving Long Island, Nassau County, Suffolk County & Greater New York",
+    "description": "Clear River Environmental has been Long Island's trusted environmental service provider since 1960. Family-owned, EPA-certified, and committed to protecting your home and the environment.",
+    "service_area": "Serving Long Island, Suffolk County, Ronkonkoma, Brentwood, Islip, and surrounding New York communities",
     "services": [
+      "Cesspool Services",
+      "Septic Tank Services",
       "Plumbing Services",
       "Sewer & Drain Cleaning",
-      "Cesspool Pumping",
-      "Septic Systems",
-      "Environmental Remediation"
+      "Hazardous Waste Remediation"
     ],
     "copyright": "Clear River Environmental Service Corp"
   }
