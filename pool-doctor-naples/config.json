@@ -1,0 +1,184 @@
+{
+  "folder_name": "pool-doctor-naples",
+  "company_name": "Pool Doctor Service & Supplies",
+  "tagline": "We make pool ownership easy — so you can focus on what matters",
+  "phone": "+1 239-574-1133",
+  "email": "barbara@forsterusa.com",
+  "logo_path": "logo.png",
+  "review_count": "1275",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#F5C518",
+    "primary_dark": "#C9A010",
+    "primary_deeper": "#9A7A0B",
+    "secondary": "#F5C518",
+    "cta": "#2563EB",
+    "cta_dark": "#1D4ED8"
+  },
+  "trust_badges": {
+    "badge_1": "FL License #CPC057088",
+    "badge_2": "4.5/5 from 1,275+ Reviews",
+    "badge_3": "50+ Years in Business"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 1,275+ Google Reviews",
+    "badge_2": "Trusted Since 1974",
+    "headline": "50 Years of Pools Done <span class=\"text-secondary italic\">Right in<br>Southwest Florida</span>",
+    "subheadline": "You bought a pool to relax, not to spend weekends testing chemicals and chasing repairs. Pool Doctor has kept Southwest Florida swimming since 1974 with dedicated technicians, honest pricing, and service reports with photos after every single visit.",
+    "cta_text": "Request My Free Quote",
+    "checkmarks": [
+      "Free pool inspection included",
+      "Dedicated technician assigned",
+      "Photo reports after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "1275",
+    "stat_1_label": "Google Reviews",
+    "stat_2_value": "50",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Background-Checked Techs"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> the Team That Wrote the Book",
+    "subtitle": "From weekly cleaning to major equipment installs, Pool Doctor handles every aspect of pool ownership so you never have to think about it again.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Professional weekly service with skimming, vacuuming, chemical balancing, and filter care. You get a detailed report with photos after every single visit."
+      },
+      {
+        "title": "Pool Repairs & Equipment",
+        "description": "Pumps, motors, filters, salt systems, heaters, lighting, and automation. Our certified technicians diagnose fast and get your equipment running right."
+      },
+      {
+        "title": "Salt System Installation",
+        "description": "Upgrade to a saltwater chlorination system for softer water, lower maintenance, and a gentler swimming experience. Expert installation and ongoing support."
+      },
+      {
+        "title": "Pool Automation Systems",
+        "description": "Control your pump, lights, heater, and water features from your phone. We install and configure modern automation so your pool runs itself."
+      },
+      {
+        "title": "Leak Detection & Inspection",
+        "description": "Advanced leak detection technology pinpoints water loss fast. Thorough inspections catch small problems before they become expensive repairs."
+      },
+      {
+        "title": "Commercial Pool Services",
+        "description": "Professional maintenance, repair, and compliance services for HOAs, hotels, fitness centers, and apartment communities across Southwest Florida."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Quote",
+        "description": "Tell us about your pool and we will provide a straightforward, honest quote. No sales pressure, no hidden fees, no long-term contracts to sign."
+      },
+      {
+        "title": "Meet Your Dedicated Technician",
+        "description": "You get assigned one Pool Vision-trained, background-checked technician who learns your pool inside and out. No revolving door of strangers."
+      },
+      {
+        "title": "Relax and Swim",
+        "description": "Your pool stays crystal clear while you get photo reports after every visit. If anything is ever less than perfect, we come back and fix it at no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Southwest Florida Trusts Pool Doctor",
+    "headline": "Family-Owned Since 1974 and Still Going Strong",
+    "description": "Pool Doctor started as a small retail store selling pool chemicals and supplies in Cape Coral. Over five decades, we have grown into Southwest Florida's most trusted full-service pool company by sticking to what matters: honest pricing, proactive communication, and technicians who actually care about your pool. Every tech is trained through our proprietary Pool Vision curriculum and passes a full background check before they ever set foot in your backyard.",
+    "badge": "FL License #CPC057088",
+    "features": [
+      {
+        "title": "Pool Vision-Trained Technicians",
+        "description": "Every technician completes our proprietary Pool Vision training curriculum covering equipment, chemistry, and customer care before touching a single pool."
+      },
+      {
+        "title": "Your Own Dedicated Technician",
+        "description": "No random crews. You are assigned one experienced technician who knows your pool, your equipment, and your preferences visit after visit."
+      },
+      {
+        "title": "Photo Reports After Every Visit",
+        "description": "You receive a detailed service report with photos after each visit so you always know exactly what was done and the current condition of your pool."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing. No Surprises. No Contracts.",
+    "subtitle": "Choose the service plan that fits your pool. Upgrade, downgrade, or cancel anytime with zero penalties or fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If your pool is not swim-ready after any service visit, call us within 24 hours and we will send your dedicated technician back to make it right at absolutely no charge. We have built our reputation over 50 years by standing behind every visit, and we are not about to stop now."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within one week. For urgent situations like equipment failures or green pools, we offer priority scheduling. Call us at 239-574-1133 and we will work around your timeline."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate or lanai access. After each visit you receive a detailed service report with photos, so you always know exactly what was done even if you were not home."
+    },
+    {
+      "question": "What training do your technicians have?",
+      "answer": "Every Pool Doctor technician completes our proprietary Pool Vision training curriculum covering equipment diagnostics, water chemistry, and customer service. All techs are background-checked and fully licensed under CPC#057088."
+    },
+    {
+      "question": "Do I have to sign a long-term contract?",
+      "answer": "Never. We do not use contracts because we believe in earning your business every single visit. Cancel anytime with zero fees, zero penalties, and zero hassle."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Absolutely. We service HOA pools, hotel pools, fitness centers, apartment communities, and more across Southwest Florida. Commercial clients receive dedicated account management and flexible scheduling to meet compliance requirements."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert C.",
+      "context": "Loyal customer, 20+ years",
+      "initials": "RC",
+      "text": "Ashley and Jeff do a wonderful job keeping my pool balanced. Very friendly atmosphere. Thanks for over 20 years of helping me keep my pool clean. Would not trust anyone else in Cape Coral."
+    },
+    {
+      "name": "Charles H.",
+      "context": "Seasonal pool care while away",
+      "initials": "CH",
+      "text": "We had Pool Doctor care for our pool while we were gone for eight weeks. I got pictures each week showing the pool in perfect condition. Fantastic job and I will absolutely use them again every season."
+    },
+    {
+      "name": "Rick B.",
+      "context": "13-year loyal customer",
+      "initials": "RB",
+      "text": "Pool Doctor has been my go-to pool company for 13 years. Ashley is always welcoming, professional, and knows how to handle any pool complication. The consistency and reliability are unmatched."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Worry About?",
+    "subtitle": "Get a free, no-pressure quote from the company Southwest Florida has trusted for over 50 years. No contracts, no commitments, just honest pool care.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Dedicated technician assigned to your pool",
+      "Photo reports after every service visit"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Southwest Florida since 1974.",
+    "service_area": "Serving Cape Coral, Fort Myers, Naples, Bonita Springs, Estero, Lehigh Acres & Surrounding Areas",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Repairs & Equipment",
+      "Salt System Installation",
+      "Pool Automation",
+      "Commercial Services"
+    ],
+    "copyright": "&copy; 2024 Pool Doctor Service & Supplies, Inc. All rights reserved. FL CPC #057088 | Serving SWFL Since 1974"
+  }
+}

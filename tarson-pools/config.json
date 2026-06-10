@@ -1,0 +1,184 @@
+{
+  "folder_name": "tarson-pools",
+  "company_name": "Tarson Pools & Spas",
+  "tagline": "Central New York's Longest Operating Pool & Spa Retailer",
+  "phone": "+1 315-291-8800",
+  "email": "bobt@tarsonpools.com",
+  "logo_path": "logo.png",
+  "review_count": "66",
+  "review_rating": "3.6",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3f",
+    "secondary": "#3498db",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 1941",
+    "badge_2": "3.6/5 from 66+ Reviews",
+    "badge_3": "CPO Certified Technicians"
+  },
+  "hero": {
+    "badge_1": "3.6/5 from 66+ Google Reviews",
+    "badge_2": "Serving CNY Since 1941",
+    "headline": "85 Years of Pools, Spas <span class=\"text-secondary italic\">& Family<br>Trust</span>",
+    "subheadline": "Since 1941, Central New York families have counted on Tarson Pools & Spas for expert pool installation, hot tub sales, and trusted service. Three generations of backyard happiness start here.",
+    "cta_text": "Get Your Free Consultation",
+    "checkmarks": [
+      "Free backyard consultation",
+      "Factory-trained CPO technicians",
+      "Authorized Jacuzzi dealer"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "85",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "100",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools & Spas Installed",
+    "stat_4_value": "2",
+    "stat_4_label": "CNY Locations"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Your Complete Backyard<br class=\"hidden md:block\"> Destination Since 1941",
+    "subtitle": "From custom inground pools to Jacuzzi hot tubs and expert service, Tarson Pools & Spas has everything Central New York needs to love their backyard.",
+    "cards": [
+      {
+        "title": "Inground Swimming Pools",
+        "description": "Custom fiberglass, steel wall, and insulated inground pools designed and installed to fit your backyard, lifestyle, and Central New York climate."
+      },
+      {
+        "title": "Hot Tubs & Swim Spas",
+        "description": "As an authorized Jacuzzi dealer, we offer the full lineup of hydrotherapy hot tubs and year-round swim spas for relaxation and fitness."
+      },
+      {
+        "title": "Aboveground Pools",
+        "description": "Quality USA-manufactured aboveground pools in multiple shapes and sizes. Affordable backyard fun for the whole family."
+      },
+      {
+        "title": "Pool Service & Repair",
+        "description": "Factory-trained, CPO-certified technicians diagnose and fix pumps, filters, heaters, and more. Most repairs completed same-visit."
+      },
+      {
+        "title": "Saunas & Cold Plunge",
+        "description": "Jacuzzi infrared saunas and Kodiak cold plunge tubs for home wellness, recovery therapy, and total relaxation."
+      },
+      {
+        "title": "Patio Furniture & Recreation",
+        "description": "Premium outdoor furniture from Telescope Casual, WildRidge, and Ratana, plus Brunswick game tables to complete your backyard oasis."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Backyard",
+    "steps": [
+      {
+        "title": "Visit Our Showroom",
+        "description": "Stop by our North Syracuse or Waterloo location to explore pools, hot tubs, saunas, and patio furniture in person. Our team will listen to your vision and budget."
+      },
+      {
+        "title": "Get Your Custom Plan",
+        "description": "Our experts design a personalized solution for your backyard. From pool selection to spa sizing, we handle every detail with 85 years of know-how."
+      },
+      {
+        "title": "Enjoy Your Backyard",
+        "description": "Our factory-trained technicians handle installation and ongoing service. You get a backyard retreat built to last decades — just ask our customers from 1992."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why CNY Trusts Tarson",
+    "headline": "Family-Owned for 85 Years — Not a Chain, Not a Franchise",
+    "description": "Tarson Pools & Spas started as a small family supply company in 1941 and grew into Central New York's most trusted pool and spa retailer. Led by owner Robert Tarson, our team of CPO-certified technicians and knowledgeable sales specialists brings over 100 years of combined experience to every project. We partner with brands that share our family values, and we give back through organizations like the Make-A-Wish Foundation.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Factory-Trained Technicians",
+        "description": "Every technician is CPO-certified and factory-trained on all major pool and spa brands for reliable, expert service."
+      },
+      {
+        "title": "Authorized Jacuzzi Dealer",
+        "description": "Full access to Jacuzzi's complete hot tub, swim spa, and sauna product lines — backed by factory warranty support."
+      },
+      {
+        "title": "Community Committed",
+        "description": "From Make-A-Wish partnerships to CNY Readers' Choice awards, we earn our community's trust through action, not just words."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every project is different. Visit our showroom or request a free consultation — we'll give you honest pricing tailored to your backyard and budget."
+  },
+  "guarantee": {
+    "headline": "Our \"Family Promise\" Guarantee",
+    "description": "If you're not completely satisfied with any product or service from Tarson Pools & Spas, we'll make it right. That's not corporate talk — that's a promise from a family that's been serving Central New York since 1941. Our reputation is built one backyard at a time, and we stand behind every single one."
+  },
+  "faqs": [
+    {
+      "question": "How long does a pool installation take?",
+      "answer": "Timelines vary by pool type. Fiberglass inground pools can be installed in as little as 2-3 weeks, while custom builds take longer. Visit our showroom and we'll walk you through the full process and timeline for your specific project."
+    },
+    {
+      "question": "Do you service pools you didn't install?",
+      "answer": "Absolutely. Our CPO-certified technicians service all pool makes and models, regardless of who installed them. We handle everything from routine maintenance to complex repairs."
+    },
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We are an authorized Jacuzzi dealer with access to their full product line, including the J-200, J-300, J-400, and J-500 collections. We also carry swim spas, infrared saunas, and Kodiak cold plunge tubs."
+    },
+    {
+      "question": "Do you have a showroom I can visit?",
+      "answer": "Yes! We have two locations — North Syracuse (Taft Road) and Waterloo. Both showrooms feature working hot tubs, pool displays, patio furniture, and knowledgeable staff to help you explore your options in person."
+    },
+    {
+      "question": "Do you offer commercial pool and spa services?",
+      "answer": "We do. Tarson Pools serves hotels, fitness centers, apartment complexes, and commercial properties throughout Central New York with professional pool and spa maintenance, repair, and installation."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kimberly P.",
+      "context": "Inground Pool Installation",
+      "initials": "KP",
+      "text": "We purchased a pool from Tarson Pools in 1992. The liner was replaced once and it is in top condition still! The durability and longevity of the pool has been incredible over nearly three decades."
+    },
+    {
+      "name": "Monica P.",
+      "context": "Pool Supplies & Products",
+      "initials": "MP",
+      "text": "I have shopped for my pool stuff all over town. I always go to Tarson's because they know their products better than anyone else."
+    },
+    {
+      "name": "Moose M.",
+      "context": "Pool & Spa Sales",
+      "initials": "MM",
+      "text": "If purchasing a pool or spa, make sure your sales person has the knowledge. The sales person at Taft Rd Tarsons knows more about the product than all the others combined."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Love Your<br>Backyard Again?",
+    "subtitle": "Visit our showroom or request a free consultation. No pressure, no gimmicks — just 85 years of honest advice from a family that loves what they do.",
+    "benefits": [
+      "Free backyard consultation",
+      "Two CNY showroom locations",
+      "85 years of family expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & spa retailer serving Central New York since 1941.",
+    "service_area": "Serving Central New York — Syracuse, North Syracuse, Waterloo & Beyond",
+    "services": [
+      "Inground Pools",
+      "Hot Tubs & Spas",
+      "Pool Service & Repair",
+      "Saunas & Cold Plunge",
+      "Patio Furniture"
+    ],
+    "copyright": "&copy; 2024 Tarson Pools & Spas. All rights reserved. North Syracuse & Waterloo, NY"
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "folder_name": "paradise-pools-stl",
+  "company_name": "Paradise Pools STL",
+  "tagline": "Quality Pool Service by Trained Professionals",
+  "phone": "+1 314-665-5500",
+  "email": "erin.goodier@paradisepoolsstl.com",
+  "review_count": "15",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a73e8",
+    "primary_dark": "#0d47a1",
+    "primary_deeper": "#082e6a",
+    "secondary": "#f5a623",
+    "cta": "#f5a623",
+    "cta_dark": "#d4890a"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.7/5 from 15+ Reviews",
+    "badge_3": "Veteran Owned"
+  },
+  "hero": {
+    "badge_1": "4.7/5 Stars • BBB A+ Rated",
+    "badge_2": "Veteran & Family Owned Since 2008",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Paradise<br>Treatment</span>",
+    "subheadline": "For 18 years, our trained professionals have kept St. Louis pools crystal clear with detailed service reports and photos after every visit. You get peace of mind while we handle everything.",
+    "cta_text": "Get a Free Pool Quote",
+    "checkmarks": [
+      "Photos after every service",
+      "A+ BBB rating",
+      "No-hassle scheduling"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "18",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Greater St. Louis",
+    "subtitle": "From weekly maintenance to full liner replacements, our trained professionals handle every aspect of pool ownership so you can simply enjoy the water.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Starting at $70/week — debris removal, chemical checks, basket emptying, and a detailed service report with photos emailed after every single visit."
+      },
+      {
+        "title": "Pool Repairs & Equipment",
+        "description": "Leak detection, pump replacements, filter upgrades, and equipment troubleshooting. Our trained techs diagnose fast and fix it right the first time."
+      },
+      {
+        "title": "Pool Opening Services",
+        "description": "Professional seasonal openings for $395. Equipment startup, chemical balancing, full system inspection — your pool is swim-ready for summer."
+      },
+      {
+        "title": "Pool Closing & Winterization",
+        "description": "Quality swimming pool covers and proper winterization protect your investment through Missouri's cold months, so spring opening is smooth and easy."
+      },
+      {
+        "title": "Pool Liner Replacement",
+        "description": "Complete inground liner replacement with smooth, professional installation. Give your aging pool a fresh new look and years more of enjoyment."
+      },
+      {
+        "title": "One-Time Pool Cleaning",
+        "description": "Single cleaning for $95 — perfect before a party or after a long absence. Includes debris removal, chemical check, and up to 1 hour of hands-on service."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We respond quickly with honest, straightforward pricing. No pressure, no gimmicks — just fair quotes from a family-owned company."
+      },
+      {
+        "title": "We Take Care of Your Pool",
+        "description": "Our trained professionals arrive on time, handle everything from cleaning to chemicals, and email you a detailed service report with photos so you always know exactly what was done."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays clean, balanced, and swim-ready all season. With 18 years of experience and an A+ BBB rating, you can trust Paradise Pools to deliver every time."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why St. Louis Trusts Us",
+    "headline": "Family & Veteran Owned — Serving STL Since 2008",
+    "description": "Founded by Greg Maurath Jr., Paradise Pools STL was built on a simple promise: treat every pool like it's our own. For 18 years, our family and veteran owned company has earned the trust of St. Louis homeowners through honest work, detailed service reports, and a genuine commitment to going the extra mile. Our A+ BBB rating speaks for itself.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Detailed Reports After Every Visit",
+        "description": "You receive a service report with photos after each visit, so you always know exactly what was done and the condition of your pool."
+      },
+      {
+        "title": "Flexible Payment Options",
+        "description": "Pay however works best for you — ACH, credit card, cash, or check. We make the business side as easy as the pool care."
+      },
+      {
+        "title": "Veteran-Owned Values",
+        "description": "Discipline, integrity, and follow-through define how we operate. Owner Greg Maurath personally ensures every customer is taken care of."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Weekly maintenance from $70, single cleanings at $95, seasonal openings for $395. Flexible payment options — ACH, credit card, cash, or check."
+  },
+  "guarantee": {
+    "headline": "Our \"Extra Mile\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no extra charge. With an A+ BBB rating and 18 years of earned trust, we stand behind every visit because our reputation depends on your satisfaction."
+  },
+  "faqs": [
+    {
+      "question": "How much does weekly pool service cost?",
+      "answer": "Weekly maintenance starts at $70 per visit, which includes debris removal, basket emptying, chemical checks, and a detailed service report with photos emailed to you. Chemicals are included in the weekly price."
+    },
+    {
+      "question": "Do I need to be home during pool service?",
+      "answer": "Not at all. Most of our customers provide gate access and go about their day. After each visit, you will receive a detailed service report with photos by email so you always know exactly what was done."
+    },
+    {
+      "question": "How do I schedule a pool opening or closing?",
+      "answer": "Just give us a call at 314-665-5500 or send us a message. Pool openings are $395 and we book them on a first-come basis each spring, so we recommend scheduling early to lock in your preferred date."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept ACH, credit cards, cash, and checks. We keep billing simple and transparent — no hidden fees, no surprise charges. You choose the payment method that works best for you."
+    },
+    {
+      "question": "Do you handle pool liner replacements?",
+      "answer": "Yes, we specialize in complete inground pool liner replacement. Our team ensures smooth, professional installation that gives your pool a fresh look. Contact us for a free estimate based on your pool size and liner selection."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Michael Pona",
+      "text": "Beyond exceptional service! From a customer perspective, I do not believe you could find a more qualified and capable crew.",
+      "context": "Facebook Review",
+      "initials": "MP"
+    },
+    {
+      "name": "Kim Dorlaque",
+      "text": "Paradise Pools just completed the replacement of my inground pool liner and repair of my stairs. I could not be happier with the results.",
+      "context": "Facebook Review",
+      "initials": "KD"
+    },
+    {
+      "name": "Jenny Brummer",
+      "text": "Paradise Pools just opened our pool and did an outstanding job. The booking was easy, the team was prompt and very professional.",
+      "context": "Facebook Review",
+      "initials": "JB"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Feels Like Paradise?",
+    "subtitle": "Call us at 314-665-5500 or request a free quote below. No contracts, no pressure — just honest pool care from a family you can trust.",
+    "benefits": [
+      "Free quote with no obligation",
+      "Service reports with photos every visit",
+      "A+ BBB rated, veteran owned"
+    ]
+  },
+  "footer": {
+    "description": "Family & veteran owned pool service. Proudly serving Greater St. Louis since 2008.",
+    "service_area": "Serving Greater St. Louis, Fenton, Manchester & Surrounding Areas",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Repairs",
+      "Pool Openings",
+      "Liner Replacement",
+      "Pool Winterization"
+    ],
+    "copyright": "&copy; 2024 Paradise Pools STL. All rights reserved. Veteran & Family Owned."
+  }
+}

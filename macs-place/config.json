@@ -1,0 +1,184 @@
+{
+  "folder_name": "macs-place",
+  "company_name": "Mac's Place",
+  "tagline": "Salt Lake City's Premier Private Members Club",
+  "phone": "(801) 555-0199",
+  "email": "cody@macsplacelounge.com",
+  "logo_path": "logo.png",
+  "review_count": "87",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a1a1a",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#c9a96e",
+    "cta": "#c9a96e",
+    "cta_dark": "#b08d4f"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Professionals",
+    "badge_2": "4.8/5 from 87+ Reviews",
+    "badge_3": "Exclusive Membership"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 87+ Google Reviews",
+    "badge_2": "Private Members Club Since 2019",
+    "headline": "Where Gentlemen Come <span class=\"text-secondary italic\">to Be<br>Refined</span>",
+    "subheadline": "Salt Lake City's only private members club combining premium grooming, licensed massage therapy, and a sophisticated 1930s lounge. Step into a world of authentic vintage elegance and leave looking and feeling your absolute best.",
+    "cta_text": "Explore Membership",
+    "checkmarks": [
+      "Premium barber services",
+      "Licensed massage therapists",
+      "Exclusive lounge access"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "87",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "7",
+    "stat_2_label": "Years in SLC",
+    "stat_3_value": "500",
+    "stat_3_label": "Active Members",
+    "stat_4_value": "6+",
+    "stat_4_label": "Premium Services"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Premium Grooming & Lounge<br class=\"hidden md:block\">Experiences Under One Roof",
+    "subtitle": "From a precision haircut to a rejuvenating massage, every service at Mac's Place is delivered by licensed professionals in an atmosphere of authentic 1930s elegance.",
+    "cards": [
+      {
+        "title": "Barber Services",
+        "description": "Expert haircuts and grooming from Salt Lake City's top-tier barbers. Every cut is tailored to your personal style in a refined, classic setting."
+      },
+      {
+        "title": "Massage Therapy",
+        "description": "Licensed massage therapists deliver rejuvenating sessions in total privacy. Unwind and recover in the exclusive comfort of the club."
+      },
+      {
+        "title": "Skin Care Treatments",
+        "description": "Professional skin care administered by trained specialists. Keep your complexion sharp and healthy with treatments designed for the modern gentleman."
+      },
+      {
+        "title": "Haberdasher Services",
+        "description": "Personal style consultations from an on-staff haberdasher. Elevate your wardrobe with expert guidance on fit, fabric, and finishing touches."
+      },
+      {
+        "title": "Shoe Shine & Details",
+        "description": "Classic shoe shine services to complete your polished look. Every detail matters, and our team ensures you leave looking impeccable head to toe."
+      },
+      {
+        "title": "Private Lounge & Events",
+        "description": "An exclusive members-only lounge with vintage vinyl, curated beverages, and a complimentary conference room for business meetings."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Becoming a Member",
+    "steps": [
+      {
+        "title": "Schedule Your Visit",
+        "description": "Reach out to learn about membership tiers. We will walk you through the benefits and find the perfect level for your lifestyle — from standard to Penthouse access."
+      },
+      {
+        "title": "Experience the Club",
+        "description": "Tour our authentic 1930s-1940s space, meet our barbers, massage therapists, and staff. Every piece of decor is an original antique — there is nothing else like it in Salt Lake City."
+      },
+      {
+        "title": "Enjoy the Lifestyle",
+        "description": "As a member, you gain access to premium grooming, relaxation, networking, and a community of like-minded individuals who appreciate the finer things."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Members Choose Us",
+    "headline": "Not Just a Club — A Destination for the Distinguished",
+    "description": "Since 2019, Mac's Place has provided something Salt Lake City has been missing: a private club that caters to those who desire the best of the best. Located at 308 West Broadway in historic downtown, every corner of our space is dressed in authentic 1930s-1940s high-class decor. Every single piece is an original antique, creating an atmosphere you simply cannot find anywhere else.",
+    "badge": "Private Members Club",
+    "features": [
+      {
+        "title": "Licensed & Certified Professionals",
+        "description": "Every barber, massage therapist, and skin care specialist is fully licensed and hand-selected for their craft."
+      },
+      {
+        "title": "Tiered Membership Levels",
+        "description": "From standard access to Penthouse-level privileges, choose the membership that fits your lifestyle and needs."
+      },
+      {
+        "title": "One-of-a-Kind Atmosphere",
+        "description": "Authentic 1930s-1940s antiques, vintage vinyl, and curated beverages create an experience that cannot be replicated."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Membership Plans for Every Gentleman.",
+    "subtitle": "Choose the membership tier that matches your lifestyle. Upgrade anytime — every level unlocks more of the Mac's Place experience."
+  },
+  "guarantee": {
+    "headline": "Our \"Members First\" Promise",
+    "description": "If any service does not meet your expectations, we will make it right immediately — no questions asked. Our reputation is built on delivering an exceptional experience every single visit. Your satisfaction is not just a policy; it is the foundation of everything we do at Mac's Place."
+  },
+  "faqs": [
+    {
+      "question": "How do I become a member of Mac's Place?",
+      "answer": "Reach out by phone or email to schedule a visit. We will walk you through our membership tiers, give you a tour of the club, and help you choose the level that fits your lifestyle. The process is simple and personal."
+    },
+    {
+      "question": "What membership levels are available?",
+      "answer": "We offer tiered membership levels ranging from standard access to our exclusive Penthouse tier. Each level unlocks additional services, lounge privileges, and benefits. Contact us for current pricing and availability."
+    },
+    {
+      "question": "Do I need an appointment for grooming services?",
+      "answer": "While walk-ins are welcome for certain services based on availability, we strongly recommend booking an appointment to ensure your preferred barber or therapist is available. Members can schedule directly through our team."
+    },
+    {
+      "question": "Can I use the private conference room?",
+      "answer": "Yes. Members have complimentary access to our private conference room for business meetings and professional gatherings. Simply reserve your time slot in advance and we will have the space ready for you."
+    },
+    {
+      "question": "Is Mac's Place open to the public?",
+      "answer": "Mac's Place is an exclusive private members club. However, we welcome prospective members to schedule a tour and experience the atmosphere firsthand before committing to a membership."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Local Member",
+      "context": "Google Review",
+      "initials": "LM",
+      "text": "Mac's Place provides something that Salt Lake has been missing but needed for years — a private club that caters to those who desire the best of the best. The owner has hired the top barbers, massage therapists, and staff."
+    },
+    {
+      "name": "SLC Regular",
+      "context": "Google Review",
+      "initials": "SR",
+      "text": "The most chill people and place in SLC. Mac's Place is my choice for a relaxing night. The people are the salt of the earth and the atmosphere is unlike anything else in the city."
+    },
+    {
+      "name": "Club Patron",
+      "context": "Online Review",
+      "initials": "CP",
+      "text": "An incredible atmosphere with captivating decor that reflects decades of carefully curated vintage charm. Everything is an authentic original antique and the service is top-notch."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Experience<br>Mac's Place?",
+    "subtitle": "Schedule a tour or inquire about membership. No pressure, no obligation — just an invitation to see what Salt Lake City's premier private club has to offer.",
+    "benefits": [
+      "Complimentary club tour for prospects",
+      "Response within 24 hours",
+      "Flexible membership options"
+    ]
+  },
+  "footer": {
+    "description": "Salt Lake City's premier private members club. Grooming, relaxation, and community since 2019.",
+    "service_area": "Serving Salt Lake City & Surrounding Areas",
+    "services": [
+      "Barber Services",
+      "Massage Therapy",
+      "Skin Care",
+      "Haberdasher",
+      "Private Lounge"
+    ],
+    "copyright": "&copy; 2024 Mac's Place. All rights reserved. 308 West Broadway, Salt Lake City, UT"
+  }
+}
