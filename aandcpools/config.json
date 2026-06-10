@@ -1,68 +1,69 @@
 {
   "folder_name": "aandcpools",
-  "company_name": "A&C Pools LLC",
-  "tagline": "Honest and Affordable Professional Swimming Pool Cleaning and Maintenance",
+  "company_name": "A&C Pools",
+  "tagline": "Time for Family. Time for Friends. Time for You. Time for Fun.",
   "phone": "+1 469-269-3307",
   "email": "alan.johnson@aandcpools.com",
-  "review_count": "16",
-  "review_rating": "4.9",
+  "logo_path": "logo.png",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#143d59",
-    "primary_deeper": "#0e2a3d",
-    "secondary": "#2e86c1",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#1B3A5C",
+    "primary_dark": "#142D48",
+    "primary_deeper": "#0E2035",
+    "secondary": "#2AADCF",
+    "cta": "#2AADCF",
+    "cta_dark": "#1E8FA8"
   },
   "hero": {
-    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Family Care</span>",
-    "subheadline": "A&C Pools has served Frisco and North Texas families for over 11 years with personalized, reliable pool maintenance. We treat every customer like family — because that's exactly what we are.",
-    "badge_1": "4.9/5 from 16 Google Reviews",
-    "badge_2": "BBB A+ Rated",
+    "headline": "Your Family Pool, <span class=\"text-secondary italic\">Always Ready</span>",
+    "subheadline": "For over 11 years, Frisco families have trusted A&C Pools to keep their backyard oasis crystal clear. Our certified technicians handle everything so you can focus on making memories.",
+    "badges": [
+      "4.9-Star Rated on Google",
+      "TX Licensed TICL #831"
+    ],
     "checkmarks": [
-      "Weekly typed inspection reports after every visit",
-      "State-certified technicians you can trust",
-      "Zero BBB complaints in 11 years"
+      "Family-owned & operated since 2015",
+      "Proactive problem detection saves you money",
+      "Serving North Dallas with competitive pricing"
     ],
     "cta_text": "Get Your Free Pool Assessment"
   },
   "stats": {
     "stat_1_value": "11",
-    "stat_1_label": "Years Serving North Texas",
+    "stat_1_label": "Years Serving North Dallas",
     "stat_2_value": "4.9",
     "stat_2_label": "Google Star Rating",
-    "stat_3_value": "34",
-    "stat_3_label": "Nextdoor Favorites",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
   },
   "services": {
-    "headline": "Complete Pool Care Solutions",
-    "subtitle": "From weekly maintenance to equipment repairs, our certified technicians keep your pool sparkling year-round.",
+    "headline": "Complete Pool Care Under One Roof",
+    "subtitle": "From weekly maintenance to equipment repairs, our certified techs keep your pool sparkling and safe all year long.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Vacuuming, brushing, chemical balancing, and a typed inspection report emailed to you after every single visit."
+        "description": "Comprehensive cleaning, chemical balancing, and equipment checks every week so your pool is always swim-ready."
       },
       {
-        "title": "Equipment Repairs",
-        "description": "Expert diagnosis and repair of heaters, filters, pumps, and automatic cleaners to keep your pool running efficiently."
+        "title": "Equipment Repairs & Installs",
+        "description": "Expert repair and installation of pumps, heaters, filters, and automation systems to keep everything running smoothly."
       },
       {
         "title": "Filter Cleaning",
-        "description": "Professional deep cleaning to restore optimal water flow and extend the life of your filtration system."
+        "description": "Thorough filter maintenance that restores optimal water circulation and extends the life of your filtration system."
       },
       {
-        "title": "Control System Installation",
-        "description": "Automated pool and spa control systems for convenient one-touch management of your pool's daily operation."
+        "title": "Chemical Balancing",
+        "description": "Precise water chemistry testing and adjustment to maintain safe, healthy, and crystal-clear swimming conditions."
       },
       {
-        "title": "Pool Light Services",
-        "description": "Installation and repair of pool lighting for enhanced safety and beautiful ambiance during evening swims."
+        "title": "Pool Inspections",
+        "description": "Complete inspections that catch small issues before they become expensive problems, saving you time and money."
       },
       {
-        "title": "Deck-O-Seal & Coping",
-        "description": "Specialized coping seal and Deck-O-Seal services to protect your pool deck from water intrusion and cracking."
+        "title": "Tile & Deck Repairs",
+        "description": "Professional tile repair, mastic replacement, and coping sealant services to protect your pool's structure and beauty."
       }
     ]
   },
@@ -71,98 +72,109 @@
     "steps": [
       {
         "title": "Schedule Your Assessment",
-        "description": "Call or fill out our form and we'll arrange a convenient time to inspect your pool — completely free."
+        "description": "Call or fill out our form for a free, no-obligation pool evaluation at your home."
       },
       {
         "title": "Get Your Custom Plan",
-        "description": "We'll evaluate your pool's condition and recommend the right service plan tailored to your needs and budget."
+        "description": "We inspect your pool and recommend a maintenance plan tailored to your equipment and budget."
       },
       {
-        "title": "Enjoy a Sparkling Pool",
-        "description": "Relax while our certified techs keep your pool pristine, with detailed reports after every visit so you're always informed."
+        "title": "Enjoy Your Pool",
+        "description": "Relax while our certified technicians keep your pool pristine week after week, year after year."
       }
     ]
   },
   "about": {
     "label": "Family-Owned Since 2015",
-    "headline": "We Treat Your Pool Like It's Our Own",
-    "description": "Founded by Christy C. Johnson in 2015, A&C Pools was built on a simple promise: provide honest, affordable pool care with the kind of personal attention only a family business can deliver. Over the past 11 years, we've earned the trust of hundreds of North Texas families through consistent quality, transparent communication, and genuine care for every pool we service.",
-    "badge": "34 Nextdoor Neighbor Favorites",
+    "headline": "Built on Relationships, Not Just Service Calls",
+    "description": "A&C Pools was founded with a simple belief: pool service should feel personal. As a family-owned company in Frisco, we treat every customer like a neighbor. Our TICL-licensed technicians don't just clean pools \u2014 they proactively monitor your equipment and water chemistry to prevent costly surprises. That's why North Dallas families have trusted us for over a decade.",
+    "badge": "A+ BBB Rated",
     "features": [
-      { "title": "Weekly Email Reports", "description": "After every service visit, you receive a detailed email with your pool's critical information and a typed inspection report." },
-      { "title": "State-Certified Technicians", "description": "Our techs hold State of Texas certifications and are trained to identify problems before they become costly repairs." },
-      { "title": "No Hidden Fees Ever", "description": "Competitive, transparent pricing with no surprise charges. We earn your trust with honest work, not fine print." }
+      {
+        "title": "Certified & Licensed Technicians",
+        "description": "Every tech holds a TICL license and is trained to spot problems before they become costly repairs."
+      },
+      {
+        "title": "Transparent Pricing, No Contracts",
+        "description": "We earn your business every visit with honest, competitive pricing and zero hidden fees or long-term commitments."
+      },
+      {
+        "title": "Same-Tech Consistency",
+        "description": "Your assigned technician knows your pool inside and out, ensuring nothing gets missed visit after visit."
+      }
     ]
   },
   "pricing": {
-    "headline": "Transparent, Affordable Pool Care",
-    "subtitle": "No hidden fees, no long-term contracts. Just honest pricing for honest work — tailored to your pool's specific needs."
+    "headline": "Straightforward Pricing, No Surprises",
+    "subtitle": "Every pool is different. We'll assess yours and provide a clear quote with no hidden costs \u2014 just honest, competitive pricing for premium service."
   },
   "guarantee": {
-    "headline": "Our Family Promise to You",
-    "description": "If you're ever unsatisfied with a service visit, we'll come back and make it right — no questions asked. With an A+ BBB rating and zero complaints in over a decade, we stand behind every job. Your satisfaction isn't just a goal; it's a family commitment."
+    "headline": "Our Promise to You",
+    "description": "If you're ever unhappy with a service visit, we'll come back and make it right at no extra charge. We've built our reputation on reliability and honesty \u2014 and we stand behind every visit with a satisfaction guarantee."
   },
   "faqs": [
     {
-      "question": "What's included in your weekly maintenance service?",
-      "answer": "Every visit includes vacuuming, brushing walls and tiles, emptying skimmer baskets, water testing, chemical balancing, and a thorough inspection. You'll also receive a typed report and email update with your pool's critical information after each service."
-    },
-    {
-      "question": "Do I need to be home during service visits?",
-      "answer": "Not at all. Most of our customers provide gate access and go about their day. You'll receive a detailed email report after every visit so you always know exactly what was done and the current state of your pool."
+      "question": "How often should my pool be serviced?",
+      "answer": "We recommend weekly service to maintain proper chemical balance and prevent algae growth. In North Texas heat, consistent maintenance is essential to keep your pool safe and clear."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We proudly serve Frisco, Plano, Dallas, Allen, McKinney, Prosper, Richardson, Carrollton, and the surrounding DFW area. If you're in North Texas, give us a call — we likely cover your neighborhood."
+      "answer": "We serve Frisco, Allen, McKinney, Prosper, Plano, Richardson, Dallas, and surrounding North DFW communities."
     },
     {
-      "question": "Are your technicians certified?",
-      "answer": "Yes. All of our pool technicians hold State of Texas certifications and are trained to identify and report both existing and potential problems before they become costly repairs."
+      "question": "Are your technicians licensed?",
+      "answer": "Yes. We hold Texas TICL License #831 and maintain an A+ rating with the BBB. Our techs are trained to identify and resolve issues proactively."
     },
     {
-      "question": "How quickly can you start service?",
-      "answer": "In most cases, we can begin service within the same week of your initial assessment. We'll work with your schedule to find the most convenient recurring day and time for visits."
+      "question": "What does weekly maintenance include?",
+      "answer": "Each visit includes skimming, brushing, vacuuming, chemical testing and balancing, filter basket cleaning, and a full equipment inspection to catch problems early."
+    },
+    {
+      "question": "Can you repair my pool equipment?",
+      "answer": "Absolutely. We service and install pumps, heaters, filters, lighting, automation systems, and more. If your equipment has an issue, we'll diagnose it and provide a clear repair estimate."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-term Customer",
-      "text": "A&C Pools has provided service for more than two years, always being courteous and exemplary. Our pool is clean and sparkling all the time.",
-      "context": "Weekly Maintenance Customer",
-      "initials": "LC"
+      "name": "JP P.",
+      "text": "They've elevated the pool maintenance business with consistency, reliability, professionalism and personal care. Each individual is friendly, knowledgeable, and their pricing is very competitive.",
+      "context": "McKinney",
+      "initials": "JP"
     },
     {
-      "name": "Satisfied Homeowner",
-      "text": "A&C Pools is a 5-star class A pool company with over-the-top personalized service. Our pool is always beautiful and we constantly receive compliments.",
-      "context": "Ongoing Service Customer",
-      "initials": "SH"
+      "name": "Sean S.",
+      "text": "Very good about identifying possible issues before they become big problems. That proactive approach has saved us money multiple times.",
+      "context": "Plano",
+      "initials": "SS"
     },
     {
-      "name": "Loyal Client",
-      "text": "They elevate pool maintenance above what others offer in consistency, reliability, professionalism and personal care. Excellent work and competitive pricing.",
-      "context": "Pool Maintenance Customer",
-      "initials": "LC"
+      "name": "Terry M.",
+      "text": "Best pool guys I have had since owning my home. Reliable, honest, and they truly care about keeping our pool in perfect shape.",
+      "context": "Plano",
+      "initials": "TM"
     }
   ],
   "contact": {
-    "headline": "Let's Keep Your Pool Perfect",
-    "subtitle": "Schedule your free pool assessment today and see why Frisco families have trusted A&C Pools for over a decade.",
+    "headline": "Ready for a Pool You Can Count On?",
+    "subtitle": "Get your free assessment and see why North Dallas families choose A&C Pools year after year.",
     "benefits": [
       "Free no-obligation pool assessment",
       "Same-week service start available",
-      "No long-term contracts required"
+      "Flexible scheduling that fits your life"
     ]
   },
   "footer": {
-    "description": "A&C Pools LLC is a family-owned pool service company proudly serving the North Texas community since 2015. BBB A+ rated with state-certified technicians.",
-    "service_area": "Frisco, Plano, Dallas, Allen, McKinney, Prosper, Richardson, Carrollton, and the surrounding DFW area",
+    "description": "A&C Pools is a family-owned pool service company in Frisco, TX, providing reliable maintenance, repairs, and inspections to North Dallas homeowners since 2015.",
+    "service_area": "Serving Frisco, Allen, McKinney, Prosper, Plano, Richardson, Dallas, and surrounding North DFW areas",
     "services": [
       "Weekly Pool Maintenance",
       "Equipment Repairs",
       "Filter Cleaning",
-      "Pool Light Services",
-      "Deck-O-Seal & Coping"
+      "Pool Inspections",
+      "Tile & Deck Repairs"
     ],
-    "copyright": "A&C Pools LLC"
-  }
+    "copyright": "A&C Pools"
+  },
+  "review_count": "16",
+  "review_rating": "4.9"
 }
