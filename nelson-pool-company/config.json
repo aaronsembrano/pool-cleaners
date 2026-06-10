@@ -4,181 +4,180 @@
   "tagline": "Pool Leak Detection, Repair & Renovation in Sarasota FL",
   "phone": "+1 941-256-4079",
   "email": "anthony@nelsonpoolcompany.com",
-  "logo_path": "logo.png",
   "review_count": "117",
   "review_rating": "4.9",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133d59",
-    "primary_deeper": "#0d2b3e",
-    "secondary": "#2980b9",
-    "cta": "#e67e22",
-    "cta_dark": "#cf6d17"
+    "primary": "#0A4D8C",
+    "primary_dark": "#073763",
+    "primary_deeper": "#042545",
+    "secondary": "#1B75BB",
+    "cta": "#F7941D",
+    "cta_dark": "#D97B0A"
   },
   "trust_badges": {
-    "badge_1": "FL Certified Pool Contractor",
+    "badge_1": "FL Certified Pool Contractor — CPC1460487",
     "badge_2": "4.9/5 from 117+ Reviews",
-    "badge_3": "BBB A+ Accredited"
+    "badge_3": "BBB A+ Accredited Since 2017"
   },
   "hero": {
     "badge_1": "4.9/5 from 117+ Google Reviews",
     "badge_2": "BBB A+ Accredited Since 2017",
-    "headline": "We Find Leaks <span class=\"text-secondary italic\">Others<br>Can't Detect</span>",
-    "subheadline": "For over 21 years, Nelson Pool Company has been Sarasota's go-to for leak detection, expert repairs, and full pool renovations. Owner-operated and backed by 117+ five-star reviews, we treat every pool like our own.",
-    "cta_text": "Schedule Your Free Estimate",
+    "headline": "We Find Leaks Others <span class=\"text-secondary italic\">Can't<br>Even Detect</span>",
+    "subheadline": "For over 21 years, Nelson Pool Company has been Sarasota's trusted name in pool leak detection, repair, and renovation. Family-owned and backed by a 4.9-star reputation, we combine cutting-edge technology with old-school craftsmanship so your pool stays watertight and beautiful.",
+    "cta_text": "Schedule Your Pool Inspection",
     "checkmarks": [
-      "Free leak assessment",
-      "21+ years experience",
-      "Owner on every project"
+      "Free leak evaluation",
+      "Everything in writing upfront",
+      "Owner-supervised projects"
     ]
   },
   "stats": {
     "stat_1_value": "117",
     "stat_1_label": "Five-Star Reviews",
     "stat_2_value": "21",
-    "stat_2_label": "Years in Sarasota",
+    "stat_2_label": "Years Serving Sarasota",
     "stat_3_value": "3000",
-    "stat_3_label": "Pools Restored",
+    "stat_3_label": "Leaks Found & Fixed",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Sarasota's Specialists in<br class=\"hidden md:block\"> Leak Detection & Pool Renovation",
-    "subtitle": "From pinpointing hidden leaks to complete pool transformations, Nelson Pool Company delivers the craftsmanship Sarasota homeowners trust.",
+    "headline": "Leak Detection to Complete<br class=\"hidden md:block\">Pool Transformation",
+    "subtitle": "From pinpointing hidden leaks to full-scale renovations, Nelson Pool Company delivers the specialized expertise Sarasota pool owners trust most.",
     "cards": [
       {
         "title": "Pool Leak Detection",
-        "description": "Advanced technology and 21 years of expertise to find leaks other companies miss. We locate the source fast so you stop wasting water and money."
+        "description": "Advanced technology and 21 years of experience help us find leaks that other companies miss. Visual evaluation, pressure testing, and electronic detection — we leave nothing to chance."
       },
       {
         "title": "Pool Leak Repair",
-        "description": "Pressure-side leaks, structural cracks, plumbing failures, equipment issues — we diagnose it right and fix it permanently the first time."
-      },
-      {
-        "title": "Pool Renovation",
-        "description": "Complete pool transformations including resurfacing, new tile and coping, equipment upgrades, deck pavers, and luxury additions like waterfalls."
+        "description": "Once we find the leak, we fix it right. Structural, plumbing, and pressure-side repairs completed with precision so the problem stays solved permanently."
       },
       {
         "title": "Pool Resurfacing",
-        "description": "Breathe new life into your pool with premium quartz and pebble finishes. Durable, beautiful surfaces that last for years."
+        "description": "Premium replastering with Krystal Krete, Stone Scape, and Pebble Tec finishes. Our crews are leading specialists in restoring your pool surface to like-new condition."
       },
       {
-        "title": "Pool Deck Renovation",
-        "description": "Upgrade your pool area with brick pavers, travertine, or other premium materials for a stunning and slip-resistant outdoor space."
+        "title": "Complete Pool Renovation",
+        "description": "From tile and coping to waterfalls, spas, and full redesigns — we transform tired pools into stunning backyard retreats that feel brand new."
       },
       {
-        "title": "Pool Equipment Services",
-        "description": "Pumps, filters, heaters, automation, and solar heating — expert repair or replacement to keep your pool running efficiently."
+        "title": "Equipment & Automation",
+        "description": "Energy-efficient pumps, filters, heaters, LED lighting, saltwater systems, and pool automation upgrades that save you money and simplify pool care."
+      },
+      {
+        "title": "Deck Pavers & Travertine",
+        "description": "Professional installation of pavers, travertine, and concrete decking that elevates your pool area's look, safety, and long-term durability."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Your Pool Renovation in Three Simple Steps",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Request Your Free Estimate",
-        "description": "Tell us about your pool concerns. Anthony will personally review your project and provide an honest, detailed estimate within 24 hours."
+        "title": "Tell Us What's Going On",
+        "description": "Describe the issue — a suspected leak, aging surface, or renovation idea. We schedule a thorough evaluation at your convenience and provide everything in writing."
       },
       {
-        "title": "We Get to Work",
-        "description": "Our licensed, insured team arrives on schedule with the right equipment. Anthony oversees every project to ensure top-quality craftsmanship."
+        "title": "We Diagnose & Plan",
+        "description": "Owner Anthony Wilson personally oversees the inspection. We identify the problem, present honest options, and give you a transparent quote with no hidden costs."
       },
       {
-        "title": "Love Your Pool Again",
-        "description": "Whether we found a hidden leak or completed a full renovation, you get a pool that looks stunning and works flawlessly. Guaranteed."
+        "title": "Expert Repair, Lasting Results",
+        "description": "Our skilled crews handle the work while Anthony checks every detail. You get a pool that looks great, holds water, and stays that way for years to come."
       }
     ]
   },
   "about": {
-    "label": "Why Sarasota Trusts Us",
-    "headline": "Owner-Operated, Quality-Obsessed Since 2005",
-    "description": "Founded in 2005, Nelson Pool Company has served Sarasota and Manatee counties for over two decades. Now led by Anthony and Jayme Wilson, we bring the same dedication to every project — from a small leak repair to a complete pool transformation. As a Florida Certified Pool/Spa Contractor with a BBB A+ rating, we stake our reputation on every job.",
-    "badge": "FL Certified Contractor",
+    "label": "Why Sarasota Trusts Nelson Pool",
+    "headline": "Family-Owned, Owner-Operated, and Built on Integrity",
+    "description": "Founded in 2005 by Nelson Inda and now led by Anthony and Jayme Wilson, Nelson Pool Company has spent over two decades earning our reputation one pool at a time. Anthony personally oversees every project — from initial inspection to final walkthrough — because we believe that is the only way to guarantee the quality Sarasota families deserve. With a 4.9-star Google rating, BBB A+ accreditation, and hundreds of satisfied customers across Sarasota and Manatee counties, our track record speaks for itself.",
+    "badge": "FL Licensed CPC1460487",
     "features": [
       {
-        "title": "Owner on Every Job",
-        "description": "Anthony personally oversees your project from start to finish. You're never handed off to a random subcontractor."
+        "title": "Owner on Every Job Site",
+        "description": "Anthony Wilson personally checks crew work on every project, ensuring the craftsmanship meets our exacting standards."
       },
       {
-        "title": "Leak Experts Others Call",
-        "description": "We routinely find leaks that two or three other companies couldn't detect. Advanced technology plus decades of hands-on experience."
+        "title": "Transparent, Written Estimates",
+        "description": "Everything is provided in writing — scope, cost, and timeline. No confusion, no surprises, no fine print."
       },
       {
-        "title": "Quality You Can See",
-        "description": "With a 4.9-star rating across 117+ reviews, our work speaks for itself. We don't cut corners — ever."
+        "title": "BBB A+ Rated Since 2017",
+        "description": "Accredited with the Better Business Bureau at the highest rating for seven consecutive years, reflecting our commitment to doing right by every customer."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project gets a detailed written estimate upfront. No hidden fees, no change orders, no games — just honest pricing from a company that values your trust."
+    "subtitle": "Every quote is provided in writing with a clear scope, timeline, and cost. No hidden fees, no change-order games — just honest pricing from a company that values your trust."
   },
   "guarantee": {
-    "headline": "Our \"Done Right\" Guarantee",
-    "description": "If any work we perform doesn't meet your expectations, we come back and make it right at no additional cost. We've built our 4.9-star reputation on standing behind every job — from a small repair to a complete renovation. Your satisfaction isn't negotiable."
+    "headline": "Our \"Leak-Free or We Come Back\" Guarantee",
+    "description": "If a leak we repaired resurfaces or any work does not meet the standard we promised, we will return and make it right at no additional cost. We have built our 21-year reputation on standing behind every job, and we are not about to stop now."
   },
   "faqs": [
     {
       "question": "How do you detect pool leaks?",
-      "answer": "We use advanced pressure testing, electronic listening devices, and dye testing to pinpoint leaks with precision. Our 21 years of experience mean we know where to look — even when other companies come up empty."
+      "answer": "We start with a thorough visual evaluation, then use advanced electronic detection equipment and pressure testing to pinpoint the exact source. Our 21 years of experience mean we find leaks that other companies have missed — including structural, plumbing, and pressure-side leaks."
     },
     {
       "question": "How long does a pool renovation take?",
-      "answer": "Most renovations take 2-4 weeks depending on scope. We provide a detailed timeline before starting and keep you updated throughout. Anthony personally manages the schedule to minimize disruption."
-    },
-    {
-      "question": "Do you serve areas outside Sarasota?",
-      "answer": "Yes! We serve Sarasota, Bradenton, Lakewood Ranch, Parrish, Venice, North Port, Anna Maria, and surrounding Manatee County communities. Contact us to confirm service in your area."
+      "answer": "Timelines vary depending on scope. A resurfacing typically takes 5-7 days, while a full renovation with tile, coping, and equipment may take 2-4 weeks. We provide a written timeline upfront so you know exactly what to expect."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Absolutely. We hold Florida Certified Pool/Spa Contractor License #CPC1460487, carry full insurance, are BBB A+ accredited since 2017, and have a BuildZoom score in the top 20% of Florida contractors."
+      "answer": "Absolutely. We hold Florida Certified Pool/Spa Contractor License CPC1460487, State Contractors License #1459347, and carry full insurance. We are also BBB Accredited with an A+ rating since 2017 and ranked in the top 20% of Florida contractors by BuildZoom."
+    },
+    {
+      "question": "What resurfacing materials do you use?",
+      "answer": "We work with premium finishes including Krystal Krete, Stone Scape, and Pebble Tec. During your consultation, we help you choose the best material for your budget, aesthetic preference, and long-term durability goals."
     },
     {
       "question": "What if another company couldn't find my leak?",
-      "answer": "That's actually one of our specialties. Many clients come to us after other companies failed to locate their leak. Our advanced detection methods and two decades of experience allow us to find what others miss."
+      "answer": "That is actually one of our specialties. Many clients come to us after other companies failed to locate their leak. Our advanced detection methods and two decades of hands-on experience allow us to find what others miss."
     }
   ],
   "testimonials": [
     {
-      "name": "Natasha D.",
-      "text": "Anthony and his team were fantastic to work with — professional, friendly, and always available to answer questions. Everything was stress-free with clear communication and a finished product that exceeded expectations.",
-      "context": "Pool Renovation",
-      "initials": "ND"
-    },
-    {
       "name": "Idan M.",
-      "text": "Nelson Pool Company did an amazing job. They found a leak that two other companies couldn't figure out. The technicians came out the next day to fix it. Highly recommend!",
-      "context": "Leak Detection & Repair",
-      "initials": "IM"
+      "context": "Pool Leak Detection",
+      "initials": "IM",
+      "text": "Nelson Pool Company did an amazing job. They found a leak that two other companies couldn't figure out. Highly recommend their leak detection services."
     },
     {
-      "name": "Helen T.",
-      "text": "We found Anthony, the owner, to be very professional and responsive throughout the project. The quality of work was excellent and we would happily recommend him to anyone.",
-      "context": "Pool Renovation Project",
-      "initials": "HT"
+      "name": "EJ Remorta",
+      "context": "Pool Renovation",
+      "initials": "ER",
+      "text": "We felt confident that we were in capable hands from the initial design consultation to the final walkthrough. The results exceeded our expectations."
+    },
+    {
+      "name": "Natasha D.",
+      "context": "Pool Renovation Client",
+      "initials": "ND",
+      "text": "Anthony and Thea were fantastic to work with — professional, friendly, and always available to answer questions. Our renovated pool looks incredible."
     }
   ],
   "contact": {
-    "headline": "Ready to Fix or Transform<br>Your Pool?",
-    "subtitle": "Get a free, no-obligation estimate from Anthony himself. Over 21 years of Sarasota pool expertise — just honest advice and quality work.",
+    "headline": "Ready to Fix Your Pool<br>Once and for All?",
+    "subtitle": "Get a free, written evaluation from Sarasota's top-rated pool leak and renovation specialists. No pressure, no obligation — just honest answers.",
     "benefits": [
-      "Free on-site leak assessment",
-      "Detailed written estimate within 24 hours",
-      "Owner-supervised from start to finish"
+      "Free pool evaluation with every inquiry",
+      "Written quote within 48 hours",
+      "4.9-star rated — 117+ happy customers"
     ]
   },
   "footer": {
-    "description": "Sarasota's trusted pool experts since 2005. Leak detection, repairs, and renovations done right.",
-    "service_area": "Serving Sarasota, Bradenton, Lakewood Ranch, Venice & Manatee County",
+    "description": "Family-owned pool specialists serving Sarasota and Manatee counties since 2005.",
+    "service_area": "Serving Sarasota, Bradenton, Lakewood Ranch, Venice & Surrounding Areas",
     "services": [
-      "Leak Detection",
-      "Leak Repair",
+      "Pool Leak Detection",
+      "Pool Resurfacing",
       "Pool Renovation",
-      "Resurfacing",
-      "Equipment Services"
+      "Equipment & Automation",
+      "Deck Pavers & Travertine"
     ],
-    "copyright": "&copy; 2024 Nelson Pool Company. All rights reserved. FL Certified Pool/Spa Contractor #CPC1460487"
+    "copyright": "&copy; 2026 Nelson Pool Company. All rights reserved. FL License #CPC1460487"
   }
 }
