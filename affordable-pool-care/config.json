@@ -1,0 +1,184 @@
+{
+  "folder_name": "affordable-pool-care",
+  "company_name": "Affordable Pool Care",
+  "tagline": "Set Your Pool On Autopilot",
+  "phone": "+1 951-215-6142",
+  "email": "alex.maeso@apoolcare.com",
+  "logo_path": "logo.png",
+  "review_count": "200",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0891b2",
+    "primary_dark": "#1e3a5f",
+    "primary_deeper": "#0f2440",
+    "secondary": "#06b6d4",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & CPO-Certified",
+    "badge_2": "5.0/5 from 200+ Reviews",
+    "badge_3": "\"Never Green\" Guarantee"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 200+ Google Reviews",
+    "badge_2": "Owner-Operated Since 2010",
+    "headline": "Your Pool on Autopilot, <span class=\"text-secondary italic\">Crystal Clear<br>Every Week</span>",
+    "subheadline": "Stop worrying about chemicals, algae, and equipment headaches. Our CPO-certified techs handle everything and send you photo proof after every visit. You just enjoy the water.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free inspection & honest quote",
+      "Same dedicated tech every week",
+      "Photo proof after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "16",
+    "stat_2_label": "Years in Riverside",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits / Year",
+    "stat_4_value": "100%",
+    "stat_4_label": "\"Never Green\" Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care So You<br class=\"hidden md:block\"> Never Lift a Finger",
+    "subtitle": "From weekly maintenance to emergency repairs, our CPO-certified technicians keep your pool swim-ready year-round so you can focus on enjoying it.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Chemical testing, brushing, skimming, and basket emptying every week. Plus a detailed photo report and chemical log after every single visit."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, heaters, filters, salt systems, and control boards. Our certified techs diagnose fast and fix it right the first time."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Pool turned green while you were away? We'll have it crystal clear in 48-72 hours with our algae removal and acid wash services."
+      },
+      {
+        "title": "Filter & Pump Service",
+        "description": "Regular filter cleaning, pump diagnostics, and full replacements when needed. Proper circulation means cleaner water and lower bills."
+      },
+      {
+        "title": "Heater & Salt System Repair",
+        "description": "Extend your swim season with expert heater repair and installation. Plus specialized salt water system maintenance for balanced, comfortable water."
+      },
+      {
+        "title": "Pool Drain & Restart",
+        "description": "Complete drain, clean, refill, and chemical rebalancing. A fresh start for pools that need a total reset."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Book Your Free Inspection",
+        "description": "Call the owner directly or fill out our form. We'll assess your pool and give you an honest, no-pressure quote within 24 hours. No contracts ever."
+      },
+      {
+        "title": "Your Dedicated Tech Takes Over",
+        "description": "The same CPO-certified technician arrives every week on schedule. Cleaning, chemicals, equipment checks, and a photo report sent straight to your phone."
+      },
+      {
+        "title": "Enjoy Autopilot Pool Care",
+        "description": "Your pool stays crystal clear and swim-ready all year. If it ever turns green, we come back and fix it free. That's our \"Never Green\" Guarantee."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Riverside Trusts Us",
+    "headline": "Owner-Operated, Not Corporate-Managed",
+    "description": "Since 2010, Affordable Pool Care has been owner-operated right here in Riverside. The owner personally answers the phone and cares about every pool we touch. Our CPO-certified technicians provide consistent, reliable service with photo proof after every visit. We grew to a second location in Corona because our clients kept referring us. With 200+ five-star reviews and a \"Never Green\" Guarantee, we treat every pool like it's our own.",
+    "badge": "CPO Certified Technicians",
+    "features": [
+      {
+        "title": "Same Technician Every Week",
+        "description": "Your dedicated tech knows your pool inside and out. No revolving door of strangers, just a trusted professional who treats your backyard like their own."
+      },
+      {
+        "title": "Photo Proof After Every Visit",
+        "description": "An electronic door hanger with date, time, services performed, and full water test results. You always know exactly what was done."
+      },
+      {
+        "title": "\"Never Green\" Guarantee",
+        "description": "If your pool ever turns green under our care, we fix it completely free. No questions asked, no fine print. That's confidence in our work."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Contracts Ever.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime. We earn your business every single visit."
+  },
+  "guarantee": {
+    "headline": "Our \"Never Green\" Guarantee",
+    "description": "If your pool turns green under our weekly service, we fix it completely free. No questions asked, no fine print, no runaround. We've backed this guarantee since 2010 because our CPO-certified technicians get it right every time. Your satisfaction isn't negotiable."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Call the owner directly at +1 951-215-6142 and we'll get you on the schedule fast."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients give us gate access and we handle everything while you're away. After each visit you'll receive a detailed electronic report with photos, service notes, and water test results."
+    },
+    {
+      "question": "What does the photo report include?",
+      "answer": "Every visit, your technician logs the date, arrival time, all services performed, and a full water chemistry test. You get before and after photos plus chemical readings sent directly to you."
+    },
+    {
+      "question": "What if I want to cancel?",
+      "answer": "Cancel anytime with zero fees. No contracts, no cancellation penalties, no hassle. We've been in business since 2010 because we earn our clients' trust every week, not because we lock them in."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Riverside, Corona, Anaheim Hills, Orange, Villa Park, and surrounding Orange County communities. We opened our second location in Corona in 2017 to better serve the growing demand in the area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah J.",
+      "text": "Professional, reliable, and always on time. The photo reports after every visit are amazing. I can see exactly what they did and never have to worry about my pool. Best service in Riverside.",
+      "context": "Riverside homeowner, 2+ years",
+      "initials": "SJ"
+    },
+    {
+      "name": "Michael C.",
+      "text": "The owner actually answers the phone and genuinely cares about the work. My pool has never looked better, and the same tech comes every week. It feels like they treat my pool like their own.",
+      "context": "Corona, CA",
+      "initials": "MC"
+    },
+    {
+      "name": "Jessica M.",
+      "text": "Crystal-clear water every single time. They caught a filter issue early and saved me from an expensive repair. Honest, dependable, and thorough. This is what professional pool care looks like.",
+      "context": "Orange County homeowner",
+      "initials": "JM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs on Autopilot?",
+    "subtitle": "Get a free inspection and honest quote within 24 hours. No contracts, no commitments. Just the owner picking up the phone and giving you a straight answer.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Owner answers the phone personally",
+      "\"Never Green\" Guarantee included"
+    ]
+  },
+  "footer": {
+    "description": "Owner-operated pool care serving Riverside and Corona since 2010. CPO-certified technicians. 200+ five-star reviews.",
+    "service_area": "Serving Riverside, Corona, Anaheim Hills, Orange, Villa Park & Surrounding Areas",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Green-to-Clean Recovery",
+      "Heater & Salt Systems",
+      "Pool Drain & Restart"
+    ],
+    "copyright": "&copy; 2024 Affordable Pool Care. All rights reserved. Licensed & Insured. CPO-Certified."
+  }
+}

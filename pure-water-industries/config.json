@@ -1,0 +1,183 @@
+{
+  "folder_name": "pure-water-industries",
+  "company_name": "Pure Water Industries",
+  "tagline": "Advanced Mobile Reverse Osmosis Systems for Water Conservation",
+  "phone": "888-432-4794",
+  "email": "bruce@purewaterindustries.com",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#E86A10",
+    "cta_dark": "#C4560A"
+  },
+  "review_count": "10",
+  "review_rating": "4.8",
+  "trust_badges": {
+    "badge_1": "500M+ Gallons Conserved",
+    "badge_2": "4.8/5 from 10+ Reviews",
+    "badge_3": "Serving 8 States Nationwide"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 10+ Google Reviews",
+    "badge_2": "Pioneering Water Conservation Since 2009",
+    "headline": "Purify Your Pool Water, <span class=\"text-secondary italic\">Save Every Drop</span>",
+    "subheadline": "Our mobile reverse osmosis technology filters your pool water on-site, removing calcium, TDS, and contaminants while conserving up to 85% of the water. No draining, no downtime, no wasted water. Keep swimming while we purify.",
+    "cta_text": "Get a Free Water Analysis",
+    "checkmarks": [
+      "Swim during filtration",
+      "85% water conservation",
+      "Nationwide mobile service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Million Gallons Saved",
+    "stat_2_value": "17",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "8",
+    "stat_3_label": "States Served",
+    "stat_4_value": "85%",
+    "stat_4_label": "Water Conserved"
+  },
+  "services": {
+    "label": "Our Solutions",
+    "headline": "Water Purification Technology<br class=\"hidden md:block\">That Protects Your Investment",
+    "subtitle": "From residential pools to emergency drinking water, our reverse osmosis systems deliver lab-quality results without draining a single drop more than necessary.",
+    "cards": [
+      {
+        "title": "The Puripool Process",
+        "description": "Mobile and inline reverse osmosis that lowers calcium hardness, TDS, cyanuric acid, phosphates, and salt while conserving up to 85% of existing water. Swim while we filter."
+      },
+      {
+        "title": "Mobile RO Trailer Systems",
+        "description": "Portable reverse osmosis filtration trailers brought directly to your pool. Custom configurations for any pool size, from residential to large commercial facilities."
+      },
+      {
+        "title": "Inline RO Systems",
+        "description": "Permanent commercial reverse osmosis solutions for resorts, aquatic centers, and facilities requiring continuous water purification on an ongoing basis."
+      },
+      {
+        "title": "Whole House RO Systems",
+        "description": "Residential reverse osmosis systems in multiple sizes, providing purified water throughout your entire home. Remove contaminants and improve quality at every tap."
+      },
+      {
+        "title": "Emergency Drinking Water",
+        "description": "Rapid-deploy water purification producing up to 40,000 gallons daily for disaster relief, emergency response, and communities in need of clean drinking water."
+      },
+      {
+        "title": "Commercial Filtration",
+        "description": "Industrial-grade water treatment for businesses, municipalities, and large-scale operations. High-volume purification engineered for demanding applications."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Crystal-Pure Pool Water",
+    "steps": [
+      {
+        "title": "Schedule Your Water Analysis",
+        "description": "Contact us with your pool details. We test your water and provide a clear report on calcium hardness, TDS, cyanuric acid, and other contaminants — no obligations."
+      },
+      {
+        "title": "We Deploy Our RO System",
+        "description": "Our mobile reverse osmosis trailer arrives on-site and connects to your pool. Advanced filtration begins immediately — swim while the system works. No draining required."
+      },
+      {
+        "title": "Enjoy Purified Water",
+        "description": "When filtration is complete, your pool water is softer, cleaner, and chemically balanced. You use fewer chemicals, your equipment lasts longer, and every swim feels better."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pool Owners Choose Us",
+    "headline": "Pioneers of Mobile Reverse Osmosis for Swimming Pools",
+    "description": "Since 2009, Pure Water Industries has led the pool industry in water conservation technology. Founded in Hurricane, Utah, we have conserved over 500 million gallons of water through our advanced mobile RO systems. Our Puripool Process is the gold standard — filtering your pool water on-site without draining, so you save water and keep swimming.",
+    "badge": "RO Filtration Experts",
+    "features": [
+      {
+        "title": "No Draining, No Downtime",
+        "description": "Our systems filter your pool water in place. No need to empty your pool, no waiting days to refill, and no water level changes during the process."
+      },
+      {
+        "title": "Nationwide Coverage, 8 States",
+        "description": "From Southern California to Texas and everywhere in between. Our mobile RO trailers serve residential and commercial pools across the western United States."
+      },
+      {
+        "title": "500 Million Gallons Conserved",
+        "description": "Every pool we treat keeps up to 85% of its existing water. Since 2009, that adds up to over half a billion gallons saved from going down the drain."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Water-Saving Value.",
+    "subtitle": "Every pool is different. Contact us for a custom quote based on your pool size, water chemistry, and service needs."
+  },
+  "guarantee": {
+    "headline": "Our Pure Water Promise",
+    "description": "If your water quality does not meet the target levels after our Puripool Process, we will continue filtration at no additional charge until it does. We stand behind every gallon we purify because your satisfaction and your water quality are non-negotiable."
+  },
+  "faqs": [
+    {
+      "question": "How does the Puripool Process work?",
+      "answer": "We bring our mobile reverse osmosis trailer to your property and connect it to your pool's plumbing. The system cycles your pool water through advanced RO membranes, removing calcium, TDS, cyanuric acid, phosphates, and other contaminants. You can swim during the entire process with no change in water level."
+    },
+    {
+      "question": "How long does the filtration take?",
+      "answer": "Most residential pools are completed within 12-24 hours depending on pool size and water chemistry. Commercial pools and larger bodies of water may take longer. We provide a timeline estimate after your initial water analysis."
+    },
+    {
+      "question": "Is this better than draining and refilling my pool?",
+      "answer": "Absolutely. Draining wastes 100% of your pool water, risks structural damage, and refilling with hard tap water often reintroduces the same problems. Our process conserves up to 85% of your water while delivering results that exceed fresh fill quality."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We currently serve Southern California, Northern California, Arizona, Nevada, Oregon, Oklahoma, Utah, and Texas. Our mobile RO trailers are deployed across all eight states. Contact us to confirm availability in your specific area."
+    },
+    {
+      "question": "Can I swim while the system is running?",
+      "answer": "Yes! One of the biggest advantages of the Puripool Process is that your pool remains fully usable during filtration. There is no water level change and no downtime. Your family can swim the entire time."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jim C.",
+      "context": "Pool Industry Professional",
+      "initials": "JC",
+      "text": "Pure Water Industries has been nothing but professional, kind, and have an eye for detail and quality. Their RO systems are the real deal for pool water treatment."
+    },
+    {
+      "name": "Adam S.",
+      "context": "Puripool Service, San Marcos CA",
+      "initials": "AS",
+      "text": "My pool has never looked or felt better. The water is fresh, clean and clear, and no dry, itching feeling after swimming. Completely different experience from a drain and refill."
+    },
+    {
+      "name": "Karen N.",
+      "context": "Puripool Process, Dove Canyon CA",
+      "initials": "KN",
+      "text": "The effectiveness, ease, convenience, water conservation, no pool downtime — Bruce is one of the nicest people you will ever meet. Cannot recommend highly enough."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Water<br>That's Truly Pure?",
+    "subtitle": "Request a free water analysis and discover what our reverse osmosis technology can do for your pool. No pressure, no obligations — just cleaner water.",
+    "benefits": [
+      "Free water analysis with every consultation",
+      "Response within 24 hours",
+      "Service across 8 western states"
+    ]
+  },
+  "footer": {
+    "description": "Pioneers of mobile reverse osmosis for swimming pools. Conserving water since 2009.",
+    "service_area": "Serving CA, AZ, NV, OR, OK, UT & TX",
+    "services": [
+      "Puripool Process",
+      "Mobile RO Trailers",
+      "Inline RO Systems",
+      "Whole House RO",
+      "Emergency Water"
+    ],
+    "copyright": "&copy; 2024 Pure Water Industries. All rights reserved."
+  }
+}
