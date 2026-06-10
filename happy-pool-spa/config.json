@@ -1,0 +1,184 @@
+{
+  "folder_name": "happy-pool-spa",
+  "company_name": "Happy Pool & Spa",
+  "tagline": "Top Rated Pool Service Company in Brevard County!",
+  "phone": "+1 321-341-2566",
+  "email": "service@happypoolandspa.com",
+  "logo_path": "logo.png",
+  "review_count": "172",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#FFD700",
+    "cta_dark": "#E6C200"
+  },
+  "trust_badges": {
+    "badge_1": "Background-Checked Techs",
+    "badge_2": "5.0/5 from 172+ Reviews",
+    "badge_3": "Free Estimates"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 172+ Google Reviews",
+    "badge_2": "Locally Owned & Operated",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Happy Treatment</span>",
+    "subheadline": "You bought a pool to relax, not to spend weekends scrubbing tiles and testing chemicals. Happy Pool & Spa handles every detail so you can get back to doing what pools were made for — making memories with family.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-week service start",
+      "Certified & background-checked techs"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Happy Clients",
+    "stat_2_value": "22",
+    "stat_2_label": "Communities Served",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Cleaned",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> Across Brevard County",
+    "subtitle": "From weekly maintenance to emergency green-to-cleans, our certified technicians keep your pool sparkling so you never have to worry about water quality again.",
+    "cards": [
+      {
+        "title": "Weekly Pool & Spa Cleaning",
+        "description": "Brushing walls, skimming surfaces, testing water chemistry, balancing chemicals, vacuuming, and inspecting equipment. Your pool stays swim-ready every single week."
+      },
+      {
+        "title": "One-Time Deep Cleans",
+        "description": "Need a single-visit refresh? We restore neglected pools to pristine condition with thorough cleaning, equipment checks, and full chemical treatment."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Pool turned green? Our team restores it to crystal clear with aggressive treatment and deep cleaning. Most green pools are swimmable again within days."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing that keeps water safe, clear, and gentle on skin. No red eyes, no irritation — just perfectly balanced water every visit."
+      },
+      {
+        "title": "Chlorine & Chemical Delivery",
+        "description": "Prefer to handle your own maintenance? We deliver quality chlorine and pool chemicals right to your door so you always have what you need on hand."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Condominiums, HOAs, and commercial properties across Brevard County trust us for reliable, professional pool maintenance that keeps residents happy."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Happier Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Tell us about your pool or spa. We will provide an honest, no-pressure estimate within 24 hours. No contracts, no commitments — just straightforward pricing."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our background-checked, certified technicians arrive on schedule. Cleaning, chemicals, equipment checks — every detail handled with care by trained professionals."
+      },
+      {
+        "title": "Enjoy Your Pool & Spa",
+        "description": "Your pool stays crystal clear, swim-ready, and worry-free all year long. If you are ever not satisfied, we come back and make it right at no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Brevard County Trusts Us",
+    "headline": "Locally Owned, Personally Committed to Your Pool",
+    "description": "Founded by Ryan Marcinik, a Brevard County native and experienced pool care expert, Happy Pool & Spa was built on a simple idea: every pool deserves professional attention with a personal touch. Our technicians are background checked and go through a certification process so you can trust the people caring for your pool. We serve 22+ communities across the Space Coast, and we treat every backyard like our own.",
+    "badge": "Certified Pool Techs",
+    "features": [
+      {
+        "title": "Background-Checked Technicians",
+        "description": "Every technician passes a thorough background check and certification process before they ever service your pool or spa."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your business every visit. No long-term commitments, no cancellation fees, no surprises — just great service you can count on."
+      },
+      {
+        "title": "Free Estimates, Always",
+        "description": "Get an honest quote with zero pressure. We believe in transparent pricing and letting our work speak for itself."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Simple Pricing. No Surprises.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Happy Pool\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and redo it at no charge. No questions asked, no fine print. We are not happy until your pool makes you happy — and we will keep working until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients in Brevard County are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Just call us at 321-341-2566 and we will work with your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate or backyard access and we handle everything while you are out. You will always know what was done because we care about keeping you informed after every visit."
+    },
+    {
+      "question": "Are your technicians background-checked?",
+      "answer": "Yes, every single one. All technicians pass a comprehensive background check and go through our certification process before servicing any pool or spa. Your safety and peace of mind come first."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve 22+ communities across Brevard County and the Space Coast, including Palm Bay, Melbourne, Cocoa Beach, Satellite Beach, Indialantic, Viera, Suntree, Merritt Island, Rockledge, Titusville, and many more."
+    },
+    {
+      "question": "Do you service commercial pools?",
+      "answer": "Absolutely. We maintain pools for condominiums, HOAs, fitness centers, and commercial properties across Brevard County. Our commercial clients appreciate our professionalism, reliability, and attention to detail."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ryan S.",
+      "context": "Google Review",
+      "initials": "RS",
+      "text": "Ryan provided outstanding service at Happy Pool & Spa! He was punctual, courteous, and incredibly thorough. Our pool has never looked better, and we really appreciate his commitment to quality work."
+    },
+    {
+      "name": "Local Condo Manager",
+      "context": "Commercial Client",
+      "initials": "LC",
+      "text": "We have been using Happy Pool and Spa for our condominium's commercial pool maintenance, and we couldn't be more impressed with their service! Their team is professional, punctual, and always goes the extra mile."
+    },
+    {
+      "name": "Satisfied Customer",
+      "context": "Google Review",
+      "initials": "SC",
+      "text": "Jaiden is very quick, efficient and does a phenomenal job servicing my pool and spa. I strongly recommend Happy Pool & Spa for great quality service."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Makes You Happy?",
+    "subtitle": "Get a free, no-pressure estimate in 24 hours. No contracts, no commitments — just honest pricing from a locally owned team that cares about your pool.",
+    "benefits": [
+      "Free pool inspection with every estimate",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool & spa service. Proudly serving Brevard County and the Space Coast.",
+    "service_area": "Serving 22+ Communities Across Brevard County",
+    "services": [
+      "Weekly Pool Cleaning",
+      "One-Time Deep Cleans",
+      "Green-to-Clean Recovery",
+      "Chemical Delivery",
+      "Commercial Pool Service"
+    ],
+    "copyright": "&copy; 2024 Happy Pool & Spa. All rights reserved."
+  }
+}

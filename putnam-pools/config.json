@@ -8,177 +8,177 @@
   "review_count": "7",
   "review_rating": "4.4",
   "colors": {
-    "primary": "#0066a4",
-    "primary_dark": "#004a78",
-    "primary_deeper": "#00345a",
-    "secondary": "#4cb5e0",
-    "cta": "#f5a623",
-    "cta_dark": "#d4900e"
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2e86c1",
+    "cta": "#d4ac0d",
+    "cta_dark": "#b7950b"
   },
   "trust_badges": {
     "badge_1": "Licensed in CT & NY",
-    "badge_2": "BBB A+ Rated Since 2013",
-    "badge_3": "Family-Owned Since 1992"
+    "badge_2": "4.4/5 on Google Reviews",
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
-    "badge_1": "BBB A+ Rated — Trusted Since 1992",
-    "badge_2": "166+ Years Combined Experience",
+    "badge_1": "4.4/5 from Google Reviews",
+    "badge_2": "Family-Owned Since 1992",
     "headline": "34 Years Keeping Pools <span class=\"text-secondary italic\">Pristine<br>in Fairfield County</span>",
-    "subheadline": "You bought a pool to relax, not to spend every weekend testing chemicals and scrubbing tile. Putnam Swimming Pool Service has kept Fairfield and Westchester County pools crystal clear since 1992 — so you can just dive in.",
-    "cta_text": "Request a Free Pool Evaluation",
+    "subheadline": "Your pool should be your escape, not your weekend chore. Since 1992, the Saunders family and our certified technicians with 166+ years of combined experience have kept Fairfield and Westchester County pools clean, safe, and swim-ready. You relax, we handle the rest.",
+    "cta_text": "Request Your Free Quote",
     "checkmarks": [
-      "Free on-site pool evaluation",
-      "Same-week service available",
-      "BBB A+ rated satisfaction"
+      "Free pool inspection",
+      "Licensed in CT & NY",
+      "166+ years combined experience"
     ]
   },
   "stats": {
-    "stat_1_value": "1000",
-    "stat_1_label": "Pools Maintained",
-    "stat_2_value": "34",
-    "stat_2_label": "Years of Service",
-    "stat_3_value": "166",
-    "stat_3_label": "Years Combined Experience",
+    "stat_1_value": "34",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "166",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Maintained",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Inground Pool Care<br class=\"hidden md:block\"> From One Trusted Team",
-    "subtitle": "From weekly cleaning to full renovations, our certified technicians handle every aspect of your concrete and gunite pool — so you never have to call anyone else.",
+    "label": "Our Expertise",
+    "headline": "Inground Concrete & Gunite<br class=\"hidden md:block\"> Pool Specialists",
+    "subtitle": "From weekly cleanings to full renovations, our NSPF-certified team handles every aspect of your pool so you can spend your time swimming, not scrubbing.",
     "cards": [
       {
-        "title": "Weekly Pool Cleaning",
-        "description": "Thorough skimming, vacuuming, brushing, and water chemistry balancing every week. Your pool stays swim-ready without you lifting a finger."
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Weekly chemical balancing, skimming, vacuuming, and filter maintenance by certified technicians. Your pool stays crystal clear and swim-ready all season long."
       },
       {
-        "title": "Equipment Repair",
-        "description": "Pumps, filters, heaters, and salt systems diagnosed and repaired by certified technicians. Most issues resolved in a single visit."
+        "title": "Pool Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, plumbing leaks, and structural issues. Most problems fixed quickly by our experienced team."
       },
       {
-        "title": "Pool Renovation",
-        "description": "Coping, tile replacement, plaster resurfacing, and structural restoration. We bring aging pools back to their original beauty."
+        "title": "Pool Renovation & Restoration",
+        "description": "Complete renovation for aging concrete and gunite pools, including resurfacing, tile replacement, coping repair, and structural upgrades."
       },
       {
-        "title": "Equipment Installation",
-        "description": "Professional installation of filters, pumps, heaters, and sanitization systems — properly sized and configured for your pool."
+        "title": "Equipment Sales & Installation",
+        "description": "Professional installation of filters, pumps, heaters, and sanitization systems from top manufacturers to keep your pool running at peak efficiency."
       },
       {
-        "title": "Seasonal Opening & Closing",
-        "description": "Expert spring startup and winter closing services that protect your pool through harsh Connecticut winters and get you swimming sooner."
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal services to prepare your pool for summer fun and protect it through harsh Connecticut and New York winters. Done right, every time."
       },
       {
         "title": "Water Chemistry Management",
-        "description": "Precise chemical balancing that keeps water safe, sparkling, and gentle on skin. No guesswork — just science-backed pool care."
+        "description": "Precise chemical balancing and water testing to keep your pool safe, clear, and gentle on skin. No red eyes, no irritation, just pure enjoyment."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool Season",
+    "headline": "Getting Started Is Easy",
     "steps": [
       {
-        "title": "Schedule Your Free Evaluation",
-        "description": "Tell us about your pool and we will visit your property for an honest, no-pressure assessment. We serve all of Fairfield and Westchester County."
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool. Jeff and the team will provide an honest, no-pressure assessment and quote. We treat every pool like it is our own."
       },
       {
-        "title": "Our Certified Team Gets to Work",
-        "description": "Licensed, long-tenured technicians arrive on schedule with everything needed. Cleaning, chemistry, equipment — we handle it all so you do not have to."
+        "title": "We Send Our Certified Team",
+        "description": "Our NSPF-certified technicians arrive on schedule with 166+ years of combined experience. Cleaning, chemicals, equipment, repairs, all handled professionally."
       },
       {
-        "title": "Enjoy Your Pool All Season",
-        "description": "Your pool stays crystal clear from opening day to closing. If you are ever not completely satisfied, we come back and make it right — that is the Putnam promise."
+        "title": "Enjoy Your Pool Worry-Free",
+        "description": "Your pool stays pristine, safe, and swim-ready all season. If the issue is important to you, it is important to us. That is our promise since 1992."
       }
     ]
   },
   "about": {
-    "label": "Why Fairfield County Trusts Us",
-    "headline": "Family-Owned Since 1992 — Three Decades of Pool Expertise",
-    "description": "Founded by Jeff Saunders in 1992, Putnam Swimming Pool Service is a family-owned company built on doing things right. Our team of long-tenured professionals collectively holds over 166 years of combined experience, and most of our technicians have been with us for 7 to 25+ years. We specialize exclusively in inground concrete and gunite pools, which means every technician is a true specialist — not a generalist learning on your pool.",
-    "badge": "NSPF Certified Professionals",
+    "label": "Why Fairfield & Westchester Trust Us",
+    "headline": "A Family Business Built on 34 Years of Trust",
+    "description": "Founded by Jeff Saunders in 1992, Putnam Swimming Pool Service is a family-owned business that has served Fairfield County and Westchester County for over three decades. Our team of experienced, NSPF-certified technicians brings more than 166 years of combined expertise to every job. We specialize in inground concrete and gunite pools, and we hold licenses in both Connecticut and New York. Our philosophy is simple: if the issue is important to you, it is important to us.",
+    "badge": "NSPF Certified",
     "features": [
       {
-        "title": "Fully Licensed in CT & NY",
-        "description": "We hold pool builder, plumbing, and home improvement licenses in both Connecticut and New York — full legal compliance on every job."
+        "title": "Licensed & Fully Insured",
+        "description": "Holding CT and NY contractor licenses, plumbing licenses, and pool builder licenses. Full liability coverage for your peace of mind."
       },
       {
-        "title": "BBB A+ Accredited Since 2013",
-        "description": "Our Better Business Bureau accreditation with an A+ rating reflects our commitment to honest practices and customer satisfaction."
+        "title": "166+ Years Combined Experience",
+        "description": "Our certified technicians bring decades of hands-on pool expertise. Every team member is trained, vetted, and passionate about pool care."
       },
       {
-        "title": "Long-Tenured Expert Team",
-        "description": "Our technicians average over a decade with the company. You get experienced professionals who know your pool, not rotating strangers."
+        "title": "Your Satisfaction, Our Priority",
+        "description": "Not happy with a visit? We come back and make it right. Our mission since 1992 has been simple: your priorities are our priorities."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Get an honest quote tailored to your pool. We believe in transparency — no hidden fees, no upsells, just fair pricing for expert service."
+    "subtitle": "Choose the service level that fits your pool. Flexible scheduling, honest quotes, and the quality you deserve from a family-owned company."
   },
   "guarantee": {
-    "headline": "Our \"Perfect Pool\" Promise",
-    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right at no additional charge. With 34 years in business and an A+ BBB rating, our reputation depends on your satisfaction — and we take that seriously."
+    "headline": "Our \"Family Promise\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right at no additional charge. Jeff Saunders built this company on trust, and after 34 years, that commitment has not changed. Your pool, your family, and your satisfaction matter to us."
   },
   "faqs": [
     {
-      "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients in Fairfield and Westchester County are scheduled within one week. For urgent needs like equipment failures or green pool emergencies, we offer priority response. Call us and we will work with your timeline."
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients in Fairfield and Westchester County are scheduled within a few days. For urgent pool issues, call us directly at 203-348-0512 and we will work to accommodate your needs as quickly as possible."
     },
     {
-      "question": "Do you only service inground concrete and gunite pools?",
-      "answer": "Yes, we specialize exclusively in inground concrete and gunite swimming pools. This focus means our technicians are true specialists with deep expertise in the specific needs of concrete and gunite pool surfaces, plumbing, and equipment."
+      "question": "Do you only service inground concrete pools?",
+      "answer": "We specialize in inground concrete and gunite swimming pools, which is where our 166+ years of combined experience truly shines. Contact us to discuss your specific pool type and we will let you know how we can help."
     },
     {
       "question": "Are your technicians licensed and certified?",
-      "answer": "Absolutely. We hold pool builder, plumbing, and home improvement licenses in both Connecticut and New York. Our team includes NSPF-certified professionals, and we are proud members of the Association of Pool and Spa Professionals."
+      "answer": "Absolutely. Our team is NSPF-certified, and we hold Connecticut Home Improvement, Plumbing, and Pool Builder licenses as well as Westchester County Home Improvement licenses. We carry full liability insurance for every job."
     },
     {
-      "question": "Do you service pools in Westchester County, NY?",
-      "answer": "Yes. We are fully licensed in both Connecticut and New York and regularly service pools throughout lower Fairfield County, CT and Westchester County, NY — including Greenwich, Stamford, Darien, Rye, and White Plains."
+      "question": "Do you service pools in New York?",
+      "answer": "Yes. We are fully licensed in both Connecticut and New York, serving Lower Fairfield County CT and Westchester County NY including Greenwich, Stamford, and surrounding communities."
     },
     {
-      "question": "What makes Putnam different from other pool companies?",
-      "answer": "Three things set us apart: 34 years of family-owned dedication, a team with over 166 years of combined experience where most technicians have been with us 7 to 25+ years, and our exclusive focus on inground concrete and gunite pools. We are specialists, not generalists."
+      "question": "What sets Putnam apart from other pool companies?",
+      "answer": "We are a family-owned business with 34 years of hands-on experience and a team with 166+ years of combined expertise. Our BBB A+ rating, multiple state licenses, and NSPF certifications back up our commitment to quality. If the issue is important to you, it is important to us."
     }
   ],
   "testimonials": [
     {
       "name": "Henry",
-      "text": "Just a word of thanks to Putnam Swimming Pool Service for a really good summer swimming season. The pool was always clean and well-maintained throughout the entire season.",
-      "context": "Greenwich, CT homeowner",
-      "initials": "HE"
+      "context": "Greenwich, CT",
+      "initials": "HG",
+      "text": "Just a word of thanks to Putnam Swimming Pool Service for a really good summer swimming season. Your team kept our pool in perfect condition all year. Truly professional and reliable service."
     },
     {
-      "name": "Satisfied Customer",
-      "text": "You guys did a nice job closing up our pool. Professional, thorough, and on time. We will definitely be calling you again in the spring for opening.",
-      "context": "Seasonal pool closing service",
-      "initials": "SC"
+      "name": "Bill",
+      "context": "Greenwich, CT",
+      "initials": "BG",
+      "text": "You guys did a nice job closing up our pool. Thank you for the professional and thorough service. We will definitely be calling you back in the spring for our opening."
     },
     {
-      "name": "New Homeowner",
-      "text": "The Putnam team helped us open the pool at our new home that needed draining, power washing, and some repairs. Very responsive and great to work with from start to finish.",
-      "context": "Pool opening and repair",
-      "initials": "NH"
+      "name": "Satisfied Homeowner",
+      "context": "Fairfield County, CT",
+      "initials": "SH",
+      "text": "The Putnam team helped us open the pool at our new home that needed draining, power washing, and some repairs. Very responsive, knowledgeable, and great to work with."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Stays Perfect All Season?",
-    "subtitle": "Get a free, no-obligation pool evaluation from Fairfield County's most experienced pool team. 34 years of family-owned service — call today.",
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get a free, no-pressure quote from our family-owned team. 34 years of trusted service in Fairfield and Westchester County. Call or fill out the form below.",
     "benefits": [
-      "Free on-site pool evaluation",
+      "Free pool inspection with every quote",
       "Response within 24 hours",
-      "BBB A+ rated — 34 years in business"
+      "Family-owned since 1992"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving Fairfield & Westchester County since 1992.",
-    "service_area": "Serving Fairfield County CT & Westchester County NY",
+    "description": "Family-owned pool service. Proudly serving Fairfield and Westchester County since 1992.",
+    "service_area": "Serving Lower Fairfield County CT & Westchester County NY",
     "services": [
-      "Weekly Pool Cleaning",
-      "Equipment Repair",
-      "Pool Renovation",
-      "Seasonal Opening & Closing",
-      "Equipment Installation"
+      "Pool Cleaning & Maintenance",
+      "Pool Repair",
+      "Renovation & Restoration",
+      "Equipment Installation",
+      "Pool Opening & Closing"
     ],
-    "copyright": "&copy; 2026 Putnam Swimming Pool Service, Inc. All rights reserved. CT HIC.0539633 | SPB.0000208"
+    "copyright": "&copy; 2024 Putnam Swimming Pool Service, Inc. All rights reserved. CT HIC.0539633 | NY WC-22672-H10"
   }
 }
