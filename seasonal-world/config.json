@@ -8,176 +8,176 @@
   "review_count": "600",
   "review_rating": "4.5",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133c57",
-    "primary_deeper": "#0d2a3d",
-    "secondary": "#2e86c1",
-    "cta": "#f39c12",
-    "cta_dark": "#d68910"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5C",
+    "secondary": "#F7941D",
+    "cta": "#F7941D",
+    "cta_dark": "#D97B0A"
   },
   "trust_badges": {
-    "badge_1": "Licensed & Insured — NJ & PA",
+    "badge_1": "Licensed NJ & PA",
     "badge_2": "4.5/5 from 600+ Reviews",
-    "badge_3": "Family-Owned Since 1980"
+    "badge_3": "Top 50 Pool Builder"
   },
   "hero": {
     "badge_1": "4.5/5 from 600+ Google Reviews",
-    "badge_2": "Top 50 Pool Builder — Nationally Recognized",
+    "badge_2": "Top 50 Pool Builder in America",
     "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Starts<br>Right Here</span>",
-    "subheadline": "For over 45 years, New Jersey families have trusted Seasonal World to transform ordinary backyards into extraordinary escapes. From custom inground pools to complete outdoor living spaces, we handle every detail so you can focus on making memories.",
-    "cta_text": "Design My Dream Backyard",
+    "subheadline": "For 46 years, New Jersey families have trusted Seasonal World to design and build custom pools and outdoor living spaces that become the heart of their home. From 3D design to the final splash, we handle everything so you can focus on making memories.",
+    "cta_text": "Start Your Backyard Transformation",
     "checkmarks": [
-      "Free 3D pool design consultation",
-      "One company for the entire project",
-      "Thousands of NJ families served"
+      "Free 3D design consultation",
+      "Family-owned since 1980",
+      "Self-cleaning pool systems"
     ]
   },
   "stats": {
     "stat_1_value": "5000",
-    "stat_1_label": "Families Served",
+    "stat_1_label": "Backyards Built",
     "stat_2_value": "46",
     "stat_2_label": "Years in Business",
     "stat_3_value": "600",
     "stat_3_label": "Google Reviews",
     "stat_4_value": "Top 50",
-    "stat_4_label": "National Pool Builder"
+    "stat_4_label": "Pool Builder Nationwide"
   },
   "services": {
-    "label": "Our Expertise",
-    "headline": "Complete Backyard Transformations<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From the first sketch to the final splash, Seasonal World designs, builds, and maintains every element of your outdoor paradise. No juggling contractors — just one trusted team.",
+    "label": "Our Services",
+    "headline": "Everything Your Backyard<br class=\"hidden md:block\"> Needs Under One Roof",
+    "subtitle": "From custom pools to complete outdoor living spaces, Seasonal World delivers turnkey backyard transformations backed by 46 years of expertise and nationally recognized craftsmanship.",
     "cards": [
       {
         "title": "Custom Inground Pools",
-        "description": "Steel wall vinyl liner, concrete, fiberglass, or gunite — we build the pool that fits your yard, your style, and your budget. See it first in stunning 3D."
-      },
-      {
-        "title": "Above Ground Pools",
-        "description": "Premium above ground installations featuring top brands like Doughboy and Embassy. Quality craftsmanship and value for every family."
+        "description": "Complete design and installation of custom inground pools including vinyl liner, fiberglass, and gunite construction with immersive 3D virtual design technology."
       },
       {
         "title": "Hot Tubs & Spas",
-        "description": "Extend your season with a premium hot tub. Year-round relaxation, perfectly integrated into your backyard design."
+        "description": "Premium hot tub sales and installation featuring top brands. The perfect complement to your backyard oasis for year-round relaxation."
       },
       {
-        "title": "Pool Liner Replacements",
-        "description": "Faded or torn liner? Our expert replacement service restores your pool to like-new condition with patterns you will love."
+        "title": "Liner Replacements",
+        "description": "Expert vinyl liner replacement with a wide selection of patterns and styles. Refresh your pool's look and extend its life with professional installation."
       },
       {
-        "title": "Outdoor Living Structures",
-        "description": "Cabanas, pavilions, pergolas, pool houses, and hardscaping — we design and build the outdoor living space your family deserves."
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal maintenance services including professional spring opening and fall winterization to keep your pool protected and ready year after year."
       },
       {
-        "title": "Pool Openings & Closings",
-        "description": "Professional seasonal services to open your pool for summer fun and close it safely for winter. Safety covers custom-fitted to your pool."
+        "title": "Outdoor Living Spaces",
+        "description": "Complete outdoor living design and construction including patios, pavilions, pergolas, cabanas, pool houses, and hardscape features that extend your home."
+      },
+      {
+        "title": "Safety Covers & Equipment",
+        "description": "Professional safety cover installation plus self-cleaning pool systems and equipment upgrades that reduce maintenance and protect your family."
       }
     ]
   },
   "how_it_works": {
-    "headline": "From Vision to Backyard Paradise in Three Steps",
+    "headline": "Three Steps to Your Perfect Backyard",
     "steps": [
       {
-        "title": "Share Your Vision",
-        "description": "Tell us about your dream backyard. We schedule a free consultation, visit your property, and create a stunning 3D design so you can see the finished result before we break ground."
+        "title": "Design Your Vision",
+        "description": "Share your backyard dreams with us. Our designers create an immersive 3D virtual model so you can see exactly what your finished space will look like before a single shovel hits the ground."
       },
       {
         "title": "We Build It Right",
-        "description": "Our experienced crews handle everything — excavation, construction, plumbing, electrical, landscaping, and hardscaping. One team, one timeline, zero stress for you."
+        "description": "Our experienced crews handle every detail of construction from excavation to finish work. With 46 years of building expertise, your project stays on track and on budget."
       },
       {
-        "title": "Make Memories That Last",
-        "description": "Your backyard transformation is complete. Dive in, fire up the grill, relax in the hot tub — and know that Seasonal World stands behind every project we deliver."
+        "title": "Make Memories",
+        "description": "Step into your transformed backyard and start living. With self-cleaning systems and seasonal service support, we make sure your new space stays as beautiful as the day it was finished."
       }
     ]
   },
   "about": {
     "label": "Why NJ Families Choose Us",
-    "headline": "45+ Years of Building Backyards Families Love",
-    "description": "Since 1980, the Seasonal World family has been turning New Jersey backyards into destinations. We are not a franchise or a faceless corporation — we are your neighbors, and we have built our reputation one backyard at a time. As a nationally recognized Top 50 Pool Builder, we bring big-company expertise with the personal care of a family business.",
+    "headline": "46 Years of Building Backyards That Bring Families Together",
+    "description": "Since 1980, Seasonal World has been a family-owned New Jersey institution dedicated to one thing: turning ordinary backyards into extraordinary gathering places. Recognized as a Top 50 Pool Builder nationwide, we combine decades of hands-on craftsmanship with cutting-edge 3D design technology. Every project is built by our own crews, never subcontracted, because your backyard deserves the same care we would put into our own.",
     "badge": "Top 50 Pool Builder",
     "features": [
       {
-        "title": "One Company, Entire Project",
-        "description": "Pool, patio, pavilion, landscaping — Seasonal World handles every element so you never juggle multiple contractors."
+        "title": "3D Virtual Pool Design",
+        "description": "See your finished backyard before construction begins. Our immersive 3D design technology lets you walk through your project and make changes before we break ground."
       },
       {
-        "title": "3D Design Before You Commit",
-        "description": "See your dream backyard in photorealistic 3D before construction begins. No guesswork, no surprises, just confidence."
+        "title": "Self-Cleaning Pool Systems",
+        "description": "Spend more time swimming and less time scrubbing. Our self-cleaning pool systems keep your water pristine with minimal effort on your part."
       },
       {
-        "title": "Built to Last, Backed for Life",
-        "description": "We use premium materials and proven construction methods. Our work is warrantied and our team is always a phone call away."
+        "title": "Complete Backyard, One Company",
+        "description": "Pool, patio, pavilion, landscaping, turf — we design and build it all in-house. No juggling multiple contractors. One team, one vision, one beautiful result."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project is unique. Request a free consultation and receive a detailed quote with no hidden fees and no pressure."
+    "subtitle": "Every project is custom-quoted to your backyard and vision. Request a free consultation and get a detailed proposal with no hidden fees."
   },
   "guarantee": {
-    "headline": "Our \"Backyard of Your Dreams\" Guarantee",
-    "description": "We stand behind every project we build. If something is not right, you do not need to ask twice — we will make it right, period. That commitment to quality is why thousands of New Jersey families have trusted Seasonal World for over four decades."
+    "headline": "Our \"Build It Right\" Guarantee",
+    "description": "We stand behind every backyard we build. If any aspect of our workmanship does not meet the standards we promised, we will make it right at no additional cost. With 46 years and thousands of completed projects, our reputation is our bond."
   },
   "faqs": [
     {
-      "question": "How long does it take to build an inground pool?",
-      "answer": "Most inground pool projects take 6-10 weeks depending on the design complexity, permits, and weather. We keep you updated at every stage and our project managers ensure your build stays on schedule."
+      "question": "How long does a custom pool installation take?",
+      "answer": "Most custom inground pool projects take 6-10 weeks from groundbreaking to completion, depending on complexity and weather. During your design consultation, we provide a detailed timeline so you know exactly what to expect at every stage."
     },
     {
-      "question": "Do you handle permits and inspections?",
-      "answer": "Absolutely. Seasonal World manages all municipal permits, HOA approvals, and required inspections. We have been navigating New Jersey building codes for over 45 years — you will not have to worry about a thing."
+      "question": "Can I see what my pool will look like before you build it?",
+      "answer": "Absolutely. We use advanced 3D virtual design technology to create a realistic, immersive model of your entire backyard project. You can explore every angle and make changes before construction begins so there are no surprises."
     },
     {
-      "question": "Can I see what my pool will look like before construction?",
-      "answer": "Yes! We use advanced 3D design technology to create a photorealistic rendering of your entire backyard project. You will see exactly how your pool, patio, and outdoor structures will look before we break ground."
+      "question": "What types of inground pools do you build?",
+      "answer": "We build all major types: steel wall vinyl liner, concrete wall vinyl liner, fiberglass, and gunite pools. During your consultation, we help you choose the best option for your property, budget, and lifestyle."
     },
     {
-      "question": "Do you service pools you did not build?",
-      "answer": "Yes. Our pool opening, closing, liner replacement, and safety cover services are available for any pool — not just the ones we built. Give us a call and we will take great care of your pool."
+      "question": "Do you handle the entire backyard or just the pool?",
+      "answer": "We do it all. Pools, patios, pavilions, pergolas, cabanas, pool houses, artificial turf, and complete hardscaping. Having one company manage the entire project means a cohesive design and smoother construction process."
     },
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve all of New Jersey and Eastern Pennsylvania. With our Clarksburg headquarters, we are centrally located to reach families across the region. Contact us to confirm service availability in your area."
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Seasonal World is fully licensed in both New Jersey (HIC #13VH00772700) and Pennsylvania (HIC #PA077494). We carry comprehensive insurance and have maintained a BuildZoom score of 93, placing us in the top 27% of NJ licensed contractors."
     }
   ],
   "testimonials": [
     {
-      "name": "Happy Pool Family",
+      "name": "Tara from Clarksburg",
+      "text": "We chose Seasonal World for our pool project and could not be happier with the results. The 3D design process helped us visualize exactly what our backyard would look like, and the installation was completed efficiently and professionally.",
       "context": "Inground Pool Installation",
-      "initials": "HP",
-      "text": "Seasonal World went above and beyond to make our experience second to none. They made our 5 year dream of having our own in ground pool come true. They stand behind their product and never have to ask twice if something needs to be fixed."
+      "initials": "TC"
     },
     {
-      "name": "Tony's Client",
-      "context": "Pool Build Project",
-      "initials": "TC",
-      "text": "Tony the owner was great and Hector kept us up to speed every step of the way making this process effortless. The entire team was professional and the finished pool exceeded our expectations."
+      "name": "Ken from Freehold",
+      "text": "Seasonal World delivered on every promise. From the initial consultation through the final walkthrough, they were professional and attentive to every detail. Our new pool has transformed our backyard into an incredible space for the whole family.",
+      "context": "Custom Pool Build",
+      "initials": "KF"
     },
     {
-      "name": "Store Visitor",
-      "context": "Retail Store Experience",
-      "initials": "SV",
-      "text": "Came to get some decorations and everyone was so helpful. Got exactly what I wanted! Great store, great service, and the outdoor displays gave us so many ideas for our own backyard."
+      "name": "Phil & Linda from Millstone",
+      "text": "After researching many pool companies, we chose Seasonal World and it was the best decision we made. The self-cleaning pool system they recommended has been a game changer. We spend more time enjoying the pool and less time maintaining it.",
+      "context": "Self-Cleaning Pool System",
+      "initials": "PL"
     }
   ],
   "contact": {
-    "headline": "Ready to Build the Backyard<br>Your Family Deserves?",
-    "subtitle": "Schedule a free design consultation and see your dream backyard in 3D. No pressure, no obligation — just honest guidance from a family that has been building backyards since 1980.",
+    "headline": "Ready to Build Your<br>Dream Backyard?",
+    "subtitle": "Get a free design consultation and 3D preview of your project. No pressure, no obligation — just honest expertise from a family that has been building backyards since 1980.",
     "benefits": [
       "Free 3D design consultation included",
       "Response within 24 hours",
-      "Over 45 years of trusted experience"
+      "Licensed in NJ and PA"
     ]
   },
   "footer": {
-    "description": "Family-owned backyard builders serving New Jersey & Eastern PA since 1980.",
-    "service_area": "Serving All of New Jersey & Eastern Pennsylvania",
+    "description": "Family-owned pool builder and outdoor living experts. Serving New Jersey since 1980.",
+    "service_area": "Serving Central & Southern NJ and Eastern PA",
     "services": [
-      "Inground Pools",
-      "Above Ground Pools",
+      "Custom Inground Pools",
       "Hot Tubs & Spas",
-      "Outdoor Living",
-      "Pool Openings & Closings"
+      "Outdoor Living Spaces",
+      "Liner Replacements",
+      "Pool Opening & Closing"
     ],
     "copyright": "&copy; 2024 Seasonal World. All rights reserved. NJ HIC #13VH00772700 | PA HIC #PA077494"
   }

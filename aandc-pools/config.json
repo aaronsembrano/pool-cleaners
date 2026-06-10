@@ -1,0 +1,183 @@
+{
+  "folder_name": "aandc-pools",
+  "company_name": "A&C Pools LLC",
+  "tagline": "Honest and Affordable Professional Pool Cleaning and Maintenance",
+  "phone": "+1 469-269-3307",
+  "email": "alan.johnson@aandcpools.com",
+  "colors": {
+    "primary": "#0277BD",
+    "primary_dark": "#015A8F",
+    "primary_deeper": "#013F66",
+    "secondary": "#26A69A",
+    "cta": "#E65100",
+    "cta_dark": "#BF360C"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "4.9/5 from 16+ Reviews",
+    "badge_3": "Free Consultations"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 16+ Google Reviews",
+    "badge_2": "Family-Owned Since 2015",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Family-Level<br>Care</span>",
+    "subheadline": "For over 11 years, A&C Pools has kept Frisco-area pools sparkling clean with honest pricing and personal attention. We handle the chemicals, cleaning, and repairs so you can just dive in.",
+    "cta_text": "Get My Free Consultation",
+    "checkmarks": [
+      "Free in-home consultation",
+      "No long-term contracts",
+      "BBB A+ rated service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "11",
+    "stat_2_label": "Years Serving Frisco",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a<br class=\"hidden md:block\">Family You Can Trust",
+    "subtitle": "From weekly maintenance to major equipment repairs, A&C Pools handles every aspect of pool ownership so you can enjoy your backyard oasis worry-free.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly cleaning and chemical balancing to keep your pool sparkling clean, safe, and swim-ready all year round."
+      },
+      {
+        "title": "Equipment Repairs & Installation",
+        "description": "Expert repair and installation of heaters, filters, pumps, and automatic pool cleaners to keep your pool running efficiently."
+      },
+      {
+        "title": "Filter Cleans",
+        "description": "Thorough cleaning and servicing of pool filtration systems to ensure optimal water clarity and circulation performance."
+      },
+      {
+        "title": "Pool & Spa Control Systems",
+        "description": "Installation and repair of automated pool and spa control systems for convenient, efficient pool management."
+      },
+      {
+        "title": "Tile & Stonework Repair",
+        "description": "Small tile repair jobs plus Mastik, Deck-O-Seal, and stonework coping seal service to maintain your pool's appearance."
+      },
+      {
+        "title": "Pool Light Installation & Repair",
+        "description": "Professional installation and repair of pool and spa lighting for safety and ambiance during evening swims."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Sparkling Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Call or fill out our form and we'll visit your home to assess your pool at no cost. Honest pricing, no pressure, no hidden fees."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our experienced team arrives on schedule every visit. Cleaning, chemical balancing, equipment checks, and repairs -- all handled with personal care."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays crystal clear and swim-ready year-round. If anything is ever off, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Frisco Families Trust Us",
+    "headline": "Family-Owned, Family-Run, and Personally Invested in Your Pool",
+    "description": "Founded in 2015 by Christy C. Johnson, A&C Pools has spent over 11 years building relationships with homeowners across the North Dallas area. We are not a franchise or a call center -- when you call us, you talk to the people who actually service your pool. Our BBB A+ rating and loyal customer base speak to the consistency, reliability, and personal care we bring to every single visit.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Owner-Involved on Every Account",
+        "description": "Unlike large companies, our owners personally oversee your pool care and are always a phone call away."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your trust every visit. No long-term commitments, no cancellation fees, no surprises on your bill."
+      },
+      {
+        "title": "Free In-Home Consultations",
+        "description": "Every new customer gets a complimentary on-site pool evaluation so we can give you an honest, accurate quote."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing. No Surprises.",
+    "subtitle": "Affordable plans tailored to your pool's needs. No contracts, no hidden fees -- upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. We have built our reputation on doing right by our customers for over 11 years, and we stand behind every single visit."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days after their free consultation. We will visit your home, assess your pool, and have you set up on a regular schedule quickly."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "Never. A&C Pools operates on a no-contract basis. We believe in earning your business every visit. You can adjust or cancel service at any time with zero fees or penalties."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Frisco, Plano, Prosper, Allen, McKinney, Richardson, Carrollton, and Far North Dallas. If you are nearby but not listed, give us a call -- we may still be able to help."
+    },
+    {
+      "question": "What does weekly maintenance include?",
+      "answer": "Our weekly service covers surface skimming, vacuuming, chemical testing and balancing, filter inspection, pump basket cleaning, and a full equipment check. Your pool stays swim-ready all week long."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. A&C Pools is a licensed pool contractor in the State of Texas and carries full liability insurance. We also hold a BBB A+ rating for your peace of mind."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David M.",
+      "text": "A&C Pools provides exceptional service and makes a huge difference. They are a 5-star class A pool company with truly personalized service.",
+      "context": "Long-term customer",
+      "initials": "DM"
+    },
+    {
+      "name": "Sarah K.",
+      "text": "As first-time pool owners we were overwhelmed, but A&C Pools was reasonable in pricing and made everything easy. Highly recommend their service.",
+      "context": "First-time pool owner",
+      "initials": "SK"
+    },
+    {
+      "name": "Michael R.",
+      "text": "Consistency, reliability, professionalism and personal care describe A&C Pools perfectly. Our pool has never looked better after years with them.",
+      "context": "Multi-year customer",
+      "initials": "MR"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Practically Cares for Itself?",
+    "subtitle": "Get a free, no-obligation in-home consultation. We will assess your pool, answer every question, and give you an honest quote -- no pressure, no contracts.",
+    "benefits": [
+      "Free in-home pool consultation",
+      "Response within 24 hours",
+      "BBB A+ rated and fully insured"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving North Dallas since 2015.",
+    "service_area": "Serving Frisco, Plano, Prosper, Allen, McKinney & More",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repairs",
+      "Filter Cleans",
+      "Control Systems",
+      "Tile & Stonework"
+    ],
+    "copyright": "&copy; 2024 A&C Pools LLC. All rights reserved. Licensed Pool Contractor — State of Texas"
+  },
+  "review_count": "16",
+  "review_rating": "4.9"
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "southeast-pools",
+  "company_name": "Southeast Pools",
+  "tagline": "The Clear Choice for Pool Services",
+  "phone": "+1(407) 507-2570",
+  "email": "jeremy@southeastpools.com",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "logo_path": "",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#2E86C1",
+    "cta": "#E67E22",
+    "cta_dark": "#CA6A10"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed CPC Contractor",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Family-Owned Since 2006"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Licensed CPC #1459162",
+    "headline": "Central Florida's Trusted <span class=\"text-secondary italic\">Pool Care<br>Family</span>",
+    "subheadline": "For nearly 20 years, the Bushaw family has kept Central Florida pools sparkling clean. From weekly maintenance to full builds, we handle every detail so you can simply enjoy the water.",
+    "cta_text": "Get Your Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Service within the week",
+      "State-licensed & fully insured"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "45",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "96",
+    "stat_4_label": "BuildZoom Score"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> One Trusted Family",
+    "subtitle": "Whether you need weekly cleaning, a major repair, or a complete pool build, Southeast Pools handles it all. One team, one call, total peace of mind.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Thorough cleaning, chemical balancing, and equipment checks every week. Your pool stays crystal clear and swim-ready without you lifting a finger."
+      },
+      {
+        "title": "Pool & Equipment Repair",
+        "description": "Pumps, filters, heaters, motors, and plumbing — our certified techs diagnose and fix problems fast so your pool runs at peak performance."
+      },
+      {
+        "title": "Pool Resurfacing & Remodeling",
+        "description": "Breathe new life into an aging pool with professional resurfacing, retiling, and remodeling that transforms your backyard into a private retreat."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "HOAs, resorts, and community pools trust us for reliable commercial maintenance, repairs, and compliance-ready water management."
+      },
+      {
+        "title": "Pool Heater Service",
+        "description": "Expert heating system diagnostics, repair, and replacement to keep your pool at the perfect temperature through every Florida season."
+      },
+      {
+        "title": "New Pool Construction",
+        "description": "Custom-designed residential pools built from concept to completion. The Bushaw family oversees every step for a turnkey backyard experience."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out the form. We'll visit your property, inspect your pool, and provide an honest, no-obligation quote — usually within 24 hours."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our state-licensed technicians arrive on schedule, handle all cleaning, chemistry, and equipment needs, and send you photos after every visit."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays sparkling, safe, and swim-ready all year long. If anything ever falls short, we come back and make it right — that's the Southeast Pools promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central Florida Trusts Us",
+    "headline": "A Family Business Built on Doing Things Right",
+    "description": "Since 2006, the Bushaw family has built Southeast Pools into one of Central Florida's most trusted pool companies. With a state-certified CPC license and a BuildZoom score in the top 20% of Florida contractors, we bring real credentials — not just promises. Every pool we maintain, repair, or build gets the same care we'd give our own.",
+    "badge": "CPC Licensed",
+    "features": [
+      {
+        "title": "State-Certified Contractor",
+        "description": "Holding active CPC license #1459162 from the Florida DBPR — ranked in the top 20% of all licensed contractors statewide."
+      },
+      {
+        "title": "Nearly 20 Years of Experience",
+        "description": "Since 2006, we've served thousands of residential and commercial clients across Clermont, Orlando, and greater Central Florida."
+      },
+      {
+        "title": "Photo Documentation Every Visit",
+        "description": "After every service, we send detailed photos so you always know exactly what was done and the condition of your pool."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Flexible plans, honest pricing, and real value from a licensed contractor."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're ever unsatisfied with a service visit, call us and we'll return to make it right at no additional charge. We've been earning trust in Central Florida since 2006, and we stand behind every single visit with a family's word — not just a policy."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start servicing my pool?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For urgent issues like green pools or equipment failures, we offer priority response. Call us at (407) 507-2570 and we'll get you set up fast."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Southeast Pools holds an active Certified Pool/Spa Contractor license (CPC1459162) from the Florida DBPR. We carry full liability insurance and our BuildZoom score of 96 places us in the top 20% of all licensed contractors in Florida."
+    },
+    {
+      "question": "Do you service commercial pools and HOAs?",
+      "answer": "Yes. We maintain pools for HOAs, property management groups, community amenities, and resort properties throughout Central Florida. Commercial clients receive dedicated scheduling, compliance-ready documentation, and priority support."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Clermont, Champions Gate, Davenport, Orlando, Kissimmee, Winter Garden, Windermere, Dr. Phillips, and surrounding Central Florida communities. If you're nearby, there's a good chance we cover your area."
+    },
+    {
+      "question": "Can you handle both repairs and weekly maintenance?",
+      "answer": "That's what makes us different. Southeast Pools is a full-service operation — from weekly cleaning and chemical balancing to major equipment repairs, resurfacing, and even new pool construction. One trusted team handles everything."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Terry B.",
+      "context": "20+ year client",
+      "initials": "TB",
+      "text": "I have used Southeast Pools for my weekly pool service and repairs for 20+ years. They are reliable and trustworthy. They refurbished our pool and are an excellent full service pool company."
+    },
+    {
+      "name": "Wendy W.",
+      "context": "Pool construction & weekly service",
+      "initials": "WW",
+      "text": "Southeast Pools is awesome! They built my pool and they service my pool weekly. They are dependable. My pool is always sparkling clean and ready to swim."
+    },
+    {
+      "name": "Joan F.",
+      "context": "Pool design & construction",
+      "initials": "JF",
+      "text": "From design to completion, the Southeast Pools team members were professional, friendly, courteous and on time. Comprehensive turnkey project management."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Always Looks Its Best?",
+    "subtitle": "Get a free, no-obligation pool assessment from a licensed Central Florida contractor. Nearly 20 years of family-owned expertise, one phone call away.",
+    "benefits": [
+      "Free on-site pool assessment included",
+      "Response within 24 hours guaranteed",
+      "Licensed CPC contractor — top 20% in FL"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Central Florida since 2006.",
+    "service_area": "Serving Clermont, Orlando & Central Florida",
+    "services": [
+      "Weekly Maintenance",
+      "Pool & Equipment Repair",
+      "Resurfacing & Remodeling",
+      "Commercial Pool Service",
+      "New Pool Construction"
+    ],
+    "copyright": "&copy; 2024 Southeast Pools. All rights reserved. Licensed & Insured — CPC #1459162"
+  }
+}

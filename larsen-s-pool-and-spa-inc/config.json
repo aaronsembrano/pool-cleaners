@@ -1,0 +1,103 @@
+{
+  "folder_name": "larsen-s-pool-and-spa-inc",
+  "company_name": "Larsen's Pool And Spa",
+  "tagline": "Tampa Bay's Trusted Custom Pool Builder",
+  "phone": "(727) 786-7665",
+  "email": "info@larsenspoolandspa.com",
+  "colors": {
+    "primary": "#0E7490",
+    "primary_dark": "#155E75",
+    "primary_deeper": "#0C3D4F",
+    "secondary": "#22D3EE",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured CPC 1457680",
+    "badge_2": "4.9/5 from 192+ Reviews",
+    "badge_3": "Google Guaranteed"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 192+ Google Reviews",
+    "badge_2": "Google Guaranteed Builder",
+    "headline": "Custom Pools Built by Tampa Bay's <span class=\"text-secondary italic\">Most Trusted<br>Builder</span>",
+    "subheadline": "For 18 years, owner Eric Larsen has personally guided every project from 3D design to final splash. Shotcrete construction means your pool is built stronger, lasts longer, and looks exactly how you imagined.",
+    "checkmarks": ["Owner-involved from start to finish", "Shotcrete construction standard", "3D custom design included"],
+    "cta_text": "Get Your Free Pool Design Consultation"
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Built in Tampa Bay",
+    "stat_2_value": "18",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "192",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Owner-Involved Projects"
+  },
+  "services": {
+    "label": "What We Build",
+    "headline": "Everything Your Backyard Needs — Designed & Built by Larsen's",
+    "subtitle": "From brand-new custom pools to complete renovations, we handle every detail so you can focus on enjoying the finished result.",
+    "cards": [
+      {"title": "Custom Pool Construction", "description": "Shotcrete-built residential pools designed around your lifestyle — from lap pools to freeform resort-style retreats with integrated spas."},
+      {"title": "Pool Renovations & Refreshes", "description": "Breathe new life into your existing pool with updated tile, resurfacing, new decking, and modern equipment upgrades."},
+      {"title": "Water & Fire Features", "description": "Cascading waterfalls, bubbling fountains, spillover spas, and dramatic fire bowls that turn your pool into an outdoor showpiece."},
+      {"title": "3D Pool Design", "description": "See your dream pool before a single shovel hits the ground with our photorealistic 3D renderings and virtual walkthroughs."},
+      {"title": "Spa & Hot Tub Integration", "description": "Custom-built spas seamlessly connected to your pool with spillover edges, jets, and independent temperature controls."},
+      {"title": "Outdoor Living Spaces", "description": "Complete your backyard with custom decking, summer kitchens, pergolas, and landscape lighting designed to complement your new pool."}
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Pool Journey — From Dream to Dive",
+    "steps": [
+      {"title": "Free Consultation & 3D Design", "description": "Meet with Eric to discuss your vision. We'll survey your yard, review your ideas, and create a stunning 3D rendering you can explore before committing."},
+      {"title": "Engineering & Construction", "description": "We handle all permits, HOA approvals, and engineering. Then our crew builds your pool with premium shotcrete — with Eric checking progress at every stage."},
+      {"title": "Finish, Fill & Enjoy", "description": "Final tile, coping, decking, and equipment are installed. We walk you through everything, fill the pool, and hand you the keys to your new backyard."}
+    ]
+  },
+  "about": {
+    "label": "About Larsen's Pool & Spa",
+    "headline": "18 Years of Building Tampa Bay's Finest Pools",
+    "description": "When Eric Larsen founded Larsen's Pool & Spa, he made one promise: every homeowner would have direct access to the owner from first sketch to final swim. That commitment hasn't changed. We don't hand you off to a project manager or disappear after the sale. Eric is on-site, on the phone, and personally accountable for every pool we build.",
+    "badge": "Google Guaranteed Business",
+    "features": [
+      {"title": "Owner on Every Project", "description": "Eric Larsen personally manages every build — no middlemen, no project managers. You get direct access to the decision-maker from day one."},
+      {"title": "Shotcrete Construction Standard", "description": "We use shotcrete exclusively — the same material used in bridges and tunnels. Stronger, more flexible, and longer-lasting than standard gunite."},
+      {"title": "Award-Winning Designs", "description": "Featured on Houzz and recognized across Tampa Bay for exceptional craftsmanship and creative pool designs that transform backyards."}
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pool Pricing — No Surprises",
+    "subtitle": "Every Larsen's project comes with a detailed, line-item proposal so you know exactly what you're paying for. We also offer flexible financing to make your dream pool fit your budget."
+  },
+  "guarantee": {
+    "headline": "The Larsen's Golden Rule Guarantee",
+    "description": "We treat every backyard like it's our own. If something isn't right, Eric personally ensures it gets fixed — no call centers, no runaround. That's why our Google rating has stayed at 4.9 stars across 192+ reviews."
+  },
+  "faqs": [
+    {"question": "How long does it take to build a custom pool?", "answer": "Most Larsen's pools are completed in 8-12 weeks depending on complexity, permitting timelines, and weather. Eric provides a realistic schedule during your consultation and keeps you updated throughout."},
+    {"question": "Why do you use shotcrete instead of gunite?", "answer": "Shotcrete is applied wet, which means fewer voids, greater structural integrity, and more design flexibility for curves and features. It's the same material used in bridges and tunnels — built to last decades."},
+    {"question": "Do you handle permits and HOA approvals?", "answer": "Absolutely. We manage the entire permitting process with Hillsborough and Pinellas counties, plus any HOA architectural review submissions, so you don't lift a finger."},
+    {"question": "Can I see my pool design before construction begins?", "answer": "Yes — every client receives a full 3D rendering of their pool design. You can view it from multiple angles and make changes until it's exactly what you want before we break ground."},
+    {"question": "Do you offer financing for pool construction?", "answer": "We do. We partner with several lenders to offer competitive financing options including low-interest loans and flexible payment plans. Ask Eric for current rates during your consultation."}
+  ],
+  "testimonials": [
+    {"name": "Mike & Sarah T.", "context": "Custom pool with spa — Westchase", "initials": "MT", "text": "Eric was involved every single day. He answered our calls immediately, showed up when he said he would, and delivered a pool that exceeded our expectations. The 3D design was spot-on — what we saw on screen is exactly what's in our backyard now."},
+    {"name": "Jennifer R.", "context": "Freeform pool with water features — Odessa", "initials": "JR", "text": "We interviewed five pool builders and Larsen's was the only one where the actual owner would be managing our project. That made all the difference. No miscommunications, no delays, and the craftsmanship is outstanding."},
+    {"name": "David & Lisa K.", "context": "Full pool renovation — Carrollwood", "initials": "DK", "text": "Our 15-year-old pool looked brand new after Larsen's finished the renovation. New tile, resurfaced interior, updated equipment — and they finished ahead of schedule. Eric even came back a month later to check on everything."}
+  ],
+  "review_count": "192",
+  "review_rating": "4.9",
+  "contact": {
+    "headline": "Ready to Build Your Dream Pool?",
+    "subtitle": "Schedule a free consultation with Eric Larsen. We'll visit your property, discuss your vision, and show you what's possible with a complimentary 3D design concept.",
+    "benefits": ["Free on-site consultation with the owner", "3D design concept at no obligation", "Transparent pricing — no hidden fees"]
+  },
+  "footer": {
+    "description": "Larsen's Pool & Spa has been building custom pools for Tampa Bay families since 2006. Owner-operated, Google Guaranteed, and committed to the Golden Rule.",
+    "service_area": "Serving Tampa, Westchase, Odessa, Lutz, Land O' Lakes, Carrollwood & surrounding areas",
+    "services": ["Pool Construction", "Renovations", "Water Features", "3D Design", "About Us"],
+    "copyright": "&copy; 2024 Larsen's Pool And Spa, Inc. All rights reserved. License #CPC1457680"
+  }
+}

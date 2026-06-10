@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-time-griffin",
+  "company_name": "Pool Time Inc.",
+  "tagline": "Griffin's Trusted Pool & Spa Experts Since 1976",
+  "phone": "(770) 467-6565",
+  "email": "pooltime121@bellsouth.net",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5C",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D96B00"
+  },
+  "trust_badges": {
+    "badge_1": "Serving Griffin Since 1976",
+    "badge_2": "4.6/5 from 41+ Reviews",
+    "badge_3": "Family Owned & Operated"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 41+ Google Reviews",
+    "badge_2": "Family Owned Since 1976",
+    "headline": "50 Years Keeping Griffin <span class=\"text-secondary italic\">Swimming<br>in Crystal Clear</span>",
+    "subheadline": "For nearly five decades, Pool Time Inc. has been the name Griffin families trust for pools and spas. Ron and Charity Allen and their team handle everything from construction to weekly care so you never have to worry about your pool again.",
+    "cta_text": "Get a Free Pool Estimate",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "No-pressure honest quotes",
+      "Same-week service available"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1976",
+    "stat_2_value": "50",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "41",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "4.6",
+    "stat_4_label": "Star Rating"
+  },
+  "services": {
+    "label": "Our Pool Services",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\"> From One Trusted Team",
+    "subtitle": "From building your dream pool to keeping it pristine every week, Pool Time Inc. does it all. One call handles everything your pool needs.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Chemical testing, balancing, skimming, vacuuming, and filter cleaning on a reliable weekly schedule. Your pool stays swim-ready without you lifting a finger."
+      },
+      {
+        "title": "Pool Construction",
+        "description": "Custom inground pool and spa construction from design through installation. We build the backyard oasis your family has been dreaming about."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Expert vinyl liner replacement for inground and commercial pools. Quality materials and professional installation that restores your pool's look and function."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems, and chlorinators diagnosed and repaired by experienced technicians. We keep your equipment running right."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and closing services done right. We prepare your pool for summer fun or winter shutdown, protecting your investment all year."
+      },
+      {
+        "title": "Pool & Spa Supplies",
+        "description": "Full retail selection of chemicals, parts, accessories, and hard-to-find equipment. Stop by our shop for everything you need between service visits."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy",
+    "steps": [
+      {
+        "title": "Call or Visit Our Shop",
+        "description": "Give us a call at (770) 467-6565 or stop by our Griffin location. Tell us about your pool and we will give you an honest, no-pressure recommendation and quote."
+      },
+      {
+        "title": "We Take Care of Your Pool",
+        "description": "Our experienced team arrives on schedule and handles everything: cleaning, chemicals, repairs, or whatever your pool needs. Nearly 50 years of know-how in every visit."
+      },
+      {
+        "title": "Relax and Enjoy the Water",
+        "description": "Your pool stays clean, safe, and swim-ready all season long. And if you ever need supplies between visits, our fully stocked shop has you covered."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Griffin Trusts Pool Time",
+    "headline": "Family-Owned, Locally Rooted, and Here to Stay",
+    "description": "Since 1976, Ron and Charity Allen have run Pool Time Inc. with one simple philosophy: treat every customer the way you would want to be treated. That means honest advice, fair prices, and work done right the first time. We are not a franchise and we are not a fly-by-night operation. We are your neighbors, and we have been taking care of Griffin's pools for nearly 50 years. When you call Pool Time, you get real people who know pools inside and out.",
+    "badge": "Maytronics Authorized Dealer",
+    "features": [
+      {
+        "title": "Nearly 50 Years of Experience",
+        "description": "Since 1976, we have built deep expertise in every aspect of pool and spa care. There is no problem we have not seen and solved before."
+      },
+      {
+        "title": "Honest, No-Pressure Service",
+        "description": "We are not just out to make a sale. We give you straight answers and fair prices, every single time. That is why customers stay with us for decades."
+      },
+      {
+        "title": "Full-Service Shop & Retail Store",
+        "description": "Beyond service calls, our Griffin location stocks a complete line of chemicals, parts, and accessories so you always have what you need."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. Honest People.",
+    "subtitle": "Get the best prices from the most knowledgeable pool team in Griffin. Call for a free quote tailored to your pool."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service we provide, call us and we will come back and make it right at no extra charge. We have been earning Griffin's trust since 1976, and we plan to keep it that way. Your satisfaction is not just a promise, it is how we have stayed in business for nearly 50 years."
+  },
+  "faqs": [
+    {
+      "question": "How long has Pool Time been in business?",
+      "answer": "Pool Time Inc. has been serving Griffin and Spalding County since 1976. That is nearly 50 years of pool and spa expertise. Ron and Charity Allen continue the tradition of honest, knowledgeable service that our customers have counted on for decades."
+    },
+    {
+      "question": "Do you sell pool chemicals and supplies?",
+      "answer": "Yes! We carry a full line of pool and spa chemicals, equipment, parts, and accessories in our Griffin shop. Whether you need routine supplies or a hard-to-find part, stop by or call us and we will get you what you need."
+    },
+    {
+      "question": "Can you replace my pool liner?",
+      "answer": "Absolutely. We specialize in vinyl liner replacement for both inground and commercial pools. We use quality materials and handle the full installation so your pool looks and functions like new."
+    },
+    {
+      "question": "Do you build new pools?",
+      "answer": "Yes, we offer complete inground pool and spa construction services. From initial design to finished installation, we work with you to create the backyard pool you have always wanted, on budget and on schedule."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We primarily serve Griffin, Spalding County, and surrounding areas in Georgia. If you are not sure whether you are in our service area, give us a call at (770) 467-6565 and we will let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ron's Customer",
+      "context": "Superpages Review",
+      "initials": "RC",
+      "text": "Ron is honest and very helpful, not just out to make a sale. They truly care about their customers and go above and beyond to make sure everything is right. Highly recommended."
+    },
+    {
+      "name": "Griffin Pool Owner",
+      "context": "Yellow Pages Review",
+      "initials": "GP",
+      "text": "The best prices and the most knowledgeable people. A first rate pool service and repair company that I would recommend to anyone in the Griffin area. They have been our go-to for years."
+    },
+    {
+      "name": "Long-Time Client",
+      "context": "Loyal Customer, 10+ Years",
+      "initials": "LC",
+      "text": "We have been using Pool Time for over a decade and would not trust anyone else with our pool. They know their stuff, show up when they say they will, and the price is always fair."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Runs Itself?",
+    "subtitle": "Call us at (770) 467-6565 or fill out the form for a free, no-pressure quote. Griffin's trusted pool experts since 1976 are ready to help.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Honest quote within 24 hours",
+      "Nearly 50 years of local expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & spa experts. Proudly serving Griffin, GA since 1976.",
+    "service_area": "Serving Griffin, Spalding County & Surrounding Areas",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Construction",
+      "Liner Replacement",
+      "Equipment Repair",
+      "Pool Supplies"
+    ],
+    "copyright": "&copy; 2024 Pool Time Inc. All rights reserved."
+  },
+  "review_count": "41",
+  "review_rating": "4.6"
+}

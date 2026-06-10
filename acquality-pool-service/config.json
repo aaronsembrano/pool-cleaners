@@ -3,7 +3,8 @@
   "company_name": "Acquality Pool Service",
   "tagline": "Professional. Discreet. Punctual.",
   "phone": "+1 305-982-7481",
-  "email": "carlos.grau@acqualitypool.com",
+  "email": "beatriz.mendoza@acqualitypool.com",
+  "logo_path": "logo.png",
   "review_count": "30",
   "review_rating": "5.0",
   "colors": {
@@ -141,22 +142,22 @@
   ],
   "testimonials": [
     {
-      "name": "James S.",
-      "context": "Google Review, August 2024",
-      "initials": "JS",
-      "text": "The most reliable and honest pool service I have ever received. Would not change them for the world. True professionals who care about doing the job right."
+      "name": "Patricia R.",
+      "context": "Google Review",
+      "initials": "PR",
+      "text": "They are personable, punctual, knowledgeable and offer a great service for a great price. They are also bilingual. If you want your pool water crystal-clear, I highly recommend their service!"
     },
     {
-      "name": "Juan P.",
-      "context": "8+ Year Client",
-      "initials": "JP",
-      "text": "Detailed photos, chemical reports, and honorable family business practices. After 8 years as a client, I HIGHLY recommend Acquality to anyone who wants real pool care."
+      "name": "Pablo S.",
+      "context": "Client for 5+ Years",
+      "initials": "PS",
+      "text": "Acquality has done a great job servicing my pool for over 5 years. I am very happy with their high-quality customer service and intend to continue working with them for the foreseeable future."
     },
     {
-      "name": "Michelle B.",
-      "context": "Google Review, 24-Year Resident",
-      "initials": "MB",
-      "text": "At the top of my list among service providers in South Florida over 24 years. They check the water quality each visit and you receive an email giving you the readings and services performed."
+      "name": "Karen R.",
+      "context": "Airbnb Host",
+      "initials": "KR",
+      "text": "My home pool is used daily by Airbnb guests. I am very impressed by the quality of service they provide. The pool is always crystal clear no matter how many guests use it."
     }
   ],
   "contact": {

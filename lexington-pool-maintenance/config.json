@@ -1,0 +1,184 @@
+{
+  "folder_name": "lexington-pool-maintenance",
+  "company_name": "Lexington Pool & Maintenance",
+  "tagline": "Your Go-To Source for All Your Professional Pool Services",
+  "phone": "+1 407-778-5055",
+  "email": "lexington.maintenance@lexingtonmanagementservices.com",
+  "logo_path": "logo.png",
+  "review_count": "10",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.2/5 from 10+ Reviews",
+    "badge_3": "24/7 Emergency Response"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 10+ Google Reviews",
+    "badge_2": "24-Hour Emergency Team",
+    "headline": "Orlando's Trusted Pool Care <span class=\"text-secondary italic\">Around<br>the Clock</span>",
+    "subheadline": "From routine cleaning to emergency repairs, our bilingual team delivers custom-tailored pool and facility maintenance across Central Florida. You focus on enjoying your property — we handle every detail so you never have to worry.",
+    "cta_text": "Get My Custom Service Plan",
+    "checkmarks": [
+      "Free property assessment",
+      "24-hour emergency response",
+      "Custom-tailored programs"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Properties Served",
+    "stat_2_value": "6",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "Florida Regions Covered",
+    "stat_4_value": "24/7",
+    "stat_4_label": "Emergency Response"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool & Property Care<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "Stop juggling multiple vendors for your property needs. Lexington handles pool care, janitorial, trash management, and facility maintenance — all with one dedicated team.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Chemical checks, surface skimming, filter cleaning, and water balancing. Your pool stays crystal clear and swim-ready every single week."
+      },
+      {
+        "title": "Pool Repairs & Equipment",
+        "description": "Pumps, filters, heaters, and salt systems diagnosed and repaired fast. Most issues resolved same-visit by our certified technicians."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Hurricane aftermath or neglected pool? We restore green, murky water to sparkling clear in 48-72 hours. Emergency same-day dispatch available."
+      },
+      {
+        "title": "Janitorial Services",
+        "description": "Restroom upkeep, chair cleaning, and full facility sanitation for commercial properties, HOAs, and community clubhouses."
+      },
+      {
+        "title": "Trash & Bulk Pickup",
+        "description": "Door-to-door trash bin service, valet trash, and bulk pickup that keeps your community spotless and complaint-free."
+      },
+      {
+        "title": "Facility Maintenance",
+        "description": "Complete property care for commercial buildings, HOAs, and associations. One call handles everything from landscaping coordination to repairs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Worry-Free Pool Care",
+    "steps": [
+      {
+        "title": "Request Your Free Assessment",
+        "description": "Tell us about your property. We'll visit, assess your needs, and deliver an honest, custom-tailored quote within 24 hours. No pressure, no obligations."
+      },
+      {
+        "title": "We Build Your Custom Program",
+        "description": "Our professionally trained, bilingual team creates a service program designed specifically for your property — whether it's a single pool or an entire community."
+      },
+      {
+        "title": "Enjoy Peace of Mind",
+        "description": "Your pool stays sparkling, your facility stays maintained, and our 24-hour emergency team is always on call. If something's not right, we fix it immediately."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central Florida Trusts Us",
+    "headline": "One Team for Every Property Need — Pool to Parking Lot",
+    "description": "Founded in 2019 and led by President and CEO Paul Napolitano, Lexington Pool & Maintenance has grown into a full-service property care company serving Central, East, and West Florida. Our professionally trained, bilingual team delivers customized service programs that save our clients time, money, and headaches — with competitive pricing that consistently beats the competition.",
+    "badge": "BBB Listed Business",
+    "features": [
+      {
+        "title": "24-Hour Emergency Response",
+        "description": "Pool emergency at midnight? Equipment failure during a holiday weekend? Our emergency team is on call around the clock, ready to respond."
+      },
+      {
+        "title": "Bilingual, Trained Professionals",
+        "description": "Every crew member is professionally trained and our bilingual staff ensures clear communication with every client, every time."
+      },
+      {
+        "title": "Custom Programs, Competitive Pricing",
+        "description": "No cookie-cutter plans here. We tailor every service program to your property's specific needs — and clients report saving up to 50% vs. their previous vendor."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Competitive Pricing. Zero Surprises.",
+    "subtitle": "Every service program is custom-built for your property. Request your free assessment and see how much you can save."
+  },
+  "guarantee": {
+    "headline": "Our \"Always On Call\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, our team will return and make it right at no extra charge. Plus, with our 24-hour emergency response team, you're never left waiting when something goes wrong. That's not a policy — it's our promise to every client."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients are up and running within 3-5 business days. For pool emergencies — like post-hurricane damage or green pools — we offer same-day or next-day emergency response across Central Florida."
+    },
+    {
+      "question": "Do you serve both residential and commercial properties?",
+      "answer": "Absolutely. We serve single-family homes, HOA communities, apartment complexes, commercial facilities, and more across Orlando, Tampa, Daytona, Fort Myers, and surrounding areas."
+    },
+    {
+      "question": "What makes Lexington different from other pool companies?",
+      "answer": "We're not just a pool company — we're a full property maintenance partner. One call handles pool care, janitorial, trash management, and facility maintenance. Plus, our bilingual team and 24-hour emergency response set us apart."
+    },
+    {
+      "question": "Will I save money switching to Lexington?",
+      "answer": "Our clients consistently report significant savings. One customer cut their monthly bill from over $1,000 to under $500 after switching to us. We'll provide an honest quote so you can compare."
+    },
+    {
+      "question": "Do you offer emergency services?",
+      "answer": "Yes. Our 24-hour emergency response team is available around the clock, including weekends and holidays. Whether it's a pump failure, flood, or post-storm damage, we're there fast."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "PositivePressure",
+      "text": "Had a pool vendor drop our service request after the hurricane, ended up calling Lexington to help instead. Paul and Juan were very professional! Ended up knocking down my previous bill from over $1,000 to under $500 with Lexington. HIGHLY recommend these guys!",
+      "context": "Google Review",
+      "initials": "PP"
+    },
+    {
+      "name": "Stella Laborde",
+      "text": "Did a great job restoring and treating my fountain and splash pad. Thank you, Gloria. You should promote her.",
+      "context": "Google Review",
+      "initials": "SL"
+    },
+    {
+      "name": "Rebecca Bray",
+      "text": "This is an awesome company. Very happy with all their services.",
+      "context": "Google Review",
+      "initials": "RB"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Property Care<br>You Can Count On?",
+    "subtitle": "Get a free, no-pressure assessment within 24 hours. Custom programs, competitive pricing, and a team that's on call around the clock.",
+    "benefits": [
+      "Free property assessment with every quote",
+      "24-hour emergency response team on standby",
+      "Custom programs — save up to 50%"
+    ]
+  },
+  "footer": {
+    "description": "Full-service pool and property maintenance serving Central, East, and West Florida since 2019.",
+    "service_area": "Serving Orlando, Tampa, Daytona, Fort Myers & All of Central Florida",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Pool Repairs & Equipment",
+      "Janitorial Services",
+      "Trash & Bulk Pickup",
+      "Facility Maintenance"
+    ],
+    "copyright": "&copy; 2024 Lexington Pool & Maintenance. All rights reserved. Licensed & Insured."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "rnr-pool-service",
+  "company_name": "RNR Pool Service",
+  "tagline": "Keep your pool and equipment healthy and clean with regular pool maintenance and professional pool cleaning services",
+  "phone": "+1 305-252-0016",
+  "email": "rolando.rojas@rnrpoolservice.com",
+  "logo_path": "logo.png",
+  "review_count": "32",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0c1e30",
+    "secondary": "#4da8da",
+    "cta": "#e8a317",
+    "cta_dark": "#c78b0f"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 32+ Reviews",
+    "badge_3": "CPO Certified Team"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 32+ Google Reviews",
+    "badge_2": "Detailed Reports After Every Visit",
+    "headline": "Crystal Clear Pools With <span class=\"text-secondary italic\">Full<br>Transparency</span>",
+    "subheadline": "After every service visit, you get a detailed email report with photos, chemical readings, and a full summary of what we did. No guesswork, no surprises — just a sparkling pool and complete peace of mind.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "Photo reports after every visit",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Miami",
+    "stat_3_value": "25000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Transparency Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Keeps You Informed",
+    "subtitle": "From weekly maintenance to emergency repairs, our trained professionals handle it all. And after every visit, you receive a detailed report so you always know exactly what happened with your pool.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Consistent weekly care including chemical balancing, skimming, brushing, and filter checks. Your pool stays swim-ready every week with a full report delivered to your inbox."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Pumps, filters, heaters, and automation systems diagnosed and repaired quickly. We find the problem other companies miss and fix it at a fair price."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Specialized leak detection to identify and address water loss before it causes structural damage. Fast, accurate diagnosis saves you money in the long run."
+      },
+      {
+        "title": "Chemical Balancing",
+        "description": "Precise water chemistry management that keeps your water safe, clear, and gentle on skin. Every reading is documented and sent to you after each visit."
+      },
+      {
+        "title": "Deep Pool Cleaning",
+        "description": "Thorough vacuuming, tile scrubbing, surface skimming, and debris removal. We restore your pool to sparkling condition using professional-grade equipment."
+      },
+      {
+        "title": "Seasonal Pool Prep",
+        "description": "Get your pool ready for heavy swim season or prepare it for quieter months. Equipment inspections, chemical resets, and preventive maintenance included."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and we will come out for a free inspection. No pressure, no obligation — just an honest evaluation and transparent quote within 24 hours."
+      },
+      {
+        "title": "We Service and Report",
+        "description": "Our CPO-certified technicians arrive on schedule and handle everything. After each visit, you receive an automated email with photos, chemical readings, and a full service summary."
+      },
+      {
+        "title": "Enjoy Total Peace of Mind",
+        "description": "Your pool stays crystal clear and healthy. You always know exactly what was done and why — no mystery charges, no guessing. Just dive in and enjoy."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Miami Pool Owners Trust Us",
+    "headline": "A Small Team That Treats Every Pool Like Their Own",
+    "description": "Founded in 2015, RNR Pool Service was built on a simple idea: pool owners deserve to know exactly what is happening with their pool. Our team of 5 dedicated professionals serves Miami, South Miami, Kendall, and Palmetto Bay with the kind of attention and transparency that larger companies simply cannot match. Every visit includes a detailed automated report with photos, chemical readings, dosages, and a full service summary delivered straight to your inbox.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Automated Service Reports",
+        "description": "After every single visit, you receive a detailed email with photos, chemical readings, dosages applied, and a comprehensive summary of all work performed."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your trust every visit. No long-term commitments, no cancellation fees. If we do not deliver, you are free to walk away."
+      },
+      {
+        "title": "Licensed, Insured, CPO Certified",
+        "description": "Our team holds Certified Pool Operator credentials and is a proud member of the Florida Pool and Spa Association. Your pool is in qualified hands."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Choose the level of care your pool needs. Every plan includes detailed service reports. No contracts — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back and redo it at no additional charge. We also guarantee you will receive a detailed service report after every visit — because you deserve to know exactly what is happening with your pool."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in Miami, Kendall, and South Miami are scheduled within 3-5 business days. For urgent situations like equipment failures, we offer expedited response. Call us and we will work with your schedule."
+    },
+    {
+      "question": "What are the service reports I keep hearing about?",
+      "answer": "After every visit, you receive an automated email with photos of your pool, all chemical readings and dosages applied, and a comprehensive summary of the work performed. It is our way of keeping you fully informed without you needing to be home."
+    },
+    {
+      "question": "Do I need to be home when you service the pool?",
+      "answer": "Not at all. Most of our clients provide gate access and go about their day. Your detailed email report after each visit tells you exactly what was done, so you are always in the loop even when you are away."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Miami, South Miami, Kendall, Palmetto Bay, Pinecrest, and Coral Gables. If you are in the greater South Florida area and are not sure if we cover your neighborhood, give us a call and we will let you know."
+    },
+    {
+      "question": "Are your technicians certified and insured?",
+      "answer": "Yes. Our team holds Certified Pool Operator (CPO) credentials, we carry full liability insurance, and we are a member of the Florida Pool and Spa Association. Your pool and property are in safe, qualified hands."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Maria G.",
+      "text": "My pool looks great and I love the excellent communication. I get weekly email reports and they call me immediately if there are any issues. Best pool service I have ever had.",
+      "context": "Weekly Maintenance Customer",
+      "initials": "MG"
+    },
+    {
+      "name": "Carlos D.",
+      "text": "RNR Pool Service has been extremely professional and helpful. Always reliable with great pool cleaning and maintenance. The owner Rolando communicates well and truly cares about his customers.",
+      "context": "Long-term Customer",
+      "initials": "CD"
+    },
+    {
+      "name": "Jennifer T.",
+      "text": "After another pool service company could not resolve an issue with my equipment, RNR came out and found and repaired it for a reasonable price. I switched to them permanently and have not looked back since.",
+      "context": "Equipment Repair Customer",
+      "initials": "JT"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free, no-pressure pool assessment. We will inspect your pool, give you an honest quote, and show you what our service reports look like — all before you commit to anything.",
+    "benefits": [
+      "Free pool inspection and assessment",
+      "Detailed quote within 24 hours",
+      "Service reports from day one"
+    ]
+  },
+  "footer": {
+    "description": "Miami's trusted pool service team. Serving South Florida with transparency and care since 2015.",
+    "service_area": "Serving Miami, South Miami, Kendall, Palmetto Bay, Pinecrest & Coral Gables",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Leak Detection",
+      "Chemical Balancing",
+      "Deep Cleaning"
+    ],
+    "copyright": "&copy; 2024 RNR Pool Service. All rights reserved. Licensed & Insured — CPO Certified"
+  }
+}

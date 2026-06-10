@@ -1,0 +1,180 @@
+{
+  "folder_name": "refresh-pool-company",
+  "company_name": "Refresh Pool Company",
+  "tagline": "Refresh Your Pool, Refresh Your Life",
+  "phone": "+1 972-325-8132",
+  "email": "drew.stephenson@refreshpool.co",
+  "logo_path": "logo.png",
+  "review_count": "25",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#4A90D9",
+    "cta": "#E8A838",
+    "cta_dark": "#CC8F2A"
+  },
+  "hero": {
+    "headline": "Pool Care Built on <span class=\"text-secondary italic\">Honesty & Trust</span>",
+    "subheadline": "No missed appointments. No guessing games. Just consistent, transparent pool service from a locally owned Dallas team that treats your backyard like it matters.",
+    "badges": [
+      "5.0 Stars — 25 Google Reviews",
+      "CMS & RAIL Certified Technicians"
+    ],
+    "checkmarks": [
+      "Detailed photo reports after every visit",
+      "Clear communication — no surprises on your bill",
+      "Locally owned and operated in East Dallas"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "8",
+    "stat_1_label": "Years Serving Dallas",
+    "stat_2_value": "15",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "25",
+    "stat_3_label": "5-Star Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Transparency Guarantee"
+  },
+  "services": {
+    "headline": "Pool Services You Can Actually Count On",
+    "subtitle": "From weekly maintenance to full renovations — done right, communicated clearly, every single time.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Consistent cleaning, chemical balancing, filter care, and equipment checks — with detailed reports and photos sent after every visit."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, valves, chlorinators, and pool sweeps to keep your system running efficiently."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Complete overhauls including tile replacement, replastering, deck and paver work, and mastic replacement to transform your backyard."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Professional pressure testing, equipment testing, and diver services to locate and repair leaks quickly — before they become costly problems."
+      },
+      {
+        "title": "Chemical Balancing",
+        "description": "Precise water chemistry management to keep your pool safe, crystal clear, and comfortable for your family all season long."
+      },
+      {
+        "title": "Seasonal Pool Care",
+        "description": "Opening and closing services plus seasonal equipment prep so your pool is always ready when you are — no stress, no guesswork."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or fill out our form and we'll visit your pool within 48 hours to evaluate its current condition."
+      },
+      {
+        "title": "Get a Straightforward Plan",
+        "description": "We'll explain exactly what your pool needs, what it costs, and what to expect — no hidden fees, no upsells."
+      },
+      {
+        "title": "Enjoy Your Backyard Again",
+        "description": "Sit back while our certified techs handle everything. You'll get photo reports after each visit so you always know what's happening."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Refresh Pool",
+    "headline": "Founded to Fix What's Broken in Pool Service",
+    "description": "Drew Stephenson started Refresh Pool Company after seeing too many Dallas homeowners frustrated by missed appointments, poor communication, and surprise charges. With over a decade in the pool industry, Drew built Refresh on three pillars: Honesty, Communication, and Quality. Every technician is CMS and RAIL certified, and every visit comes with a detailed report so you always know the state of your pool.",
+    "badge": "Locally Owned in East Dallas Since 2018",
+    "features": [
+      {
+        "title": "Photo Reports After Every Visit",
+        "description": "You'll receive detailed photos and notes after each service so you always know exactly what was done and what condition your pool is in."
+      },
+      {
+        "title": "CMS & RAIL Certified Technicians",
+        "description": "Every technician on our team is professionally certified, ensuring your pool receives expert-level care every single visit."
+      },
+      {
+        "title": "Integrity in Everything We Do",
+        "description": "As a Christ-centered organization, we operate with honesty and fairness. No upsells, no shortcuts — just quality work you can trust."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "We quote what we charge and charge what we quote. Every service plan is customized to your pool's specific needs."
+  },
+  "guarantee": {
+    "headline": "Our Transparency Guarantee",
+    "description": "If you ever feel uninformed about what's happening with your pool, we'll make it right. We believe clear communication isn't optional — it's the foundation of trust. You'll always know what we did, what we found, and what comes next."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in the DFW metroplex?",
+      "answer": "We serve Dallas and surrounding DFW areas, with a focus on East Dallas neighborhoods. Contact us to confirm we service your specific location."
+    },
+    {
+      "question": "What happens during a weekly maintenance visit?",
+      "answer": "Each visit includes skimming, brushing, vacuuming, chemical testing and adjustment, filter cleaning, and a full equipment inspection. You'll receive a detailed report with photos after every visit."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes — all of our technicians are CMS Certified and RAIL Licensed, ensuring they have the training and expertise to properly care for your pool and equipment."
+    },
+    {
+      "question": "How quickly can you respond to equipment issues or leaks?",
+      "answer": "For existing maintenance customers, we prioritize equipment repairs and can usually diagnose the issue within 24-48 hours. Leak detection is scheduled based on availability."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most customers provide gate access and we handle everything while you're away. You'll get a photo report so you can see exactly what was done."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "HomeAdvisor Customer",
+      "text": "Refresh Pool Company was amazing to work with. Timely service, very reasonable prices, and highly communicative staff. Could not recommend them enough.",
+      "context": "Pool maintenance service",
+      "initials": "HC"
+    },
+    {
+      "name": "Angi Customer",
+      "text": "Drew is reliable, honest, professional and personable, and extremely knowledgeable about pool service, cleaning, and repair. He truly cares about his customers.",
+      "context": "Weekly pool service",
+      "initials": "AC"
+    },
+    {
+      "name": "HomePros Verified Customer",
+      "text": "Refresh Pool was the first pool services company to answer the phone and make time to come out. Great customer service and very knowledgeable staff. Couldn't be happier.",
+      "context": "Pool service and repair",
+      "initials": "HV"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Refresh Your Pool?",
+    "subtitle": "Get in touch for a free, no-obligation pool assessment. We'll be straight with you from day one.",
+    "benefits": [
+      "Free pool assessment within 48 hours",
+      "Honest pricing with no hidden fees",
+      "Detailed photo reports after every visit"
+    ]
+  },
+  "footer": {
+    "description": "Refresh Pool Company is a locally owned, Christ-centered pool service provider in Dallas, TX. Built on honesty, communication, and quality — we make pool ownership easy.",
+    "service_area": "Dallas, TX and surrounding DFW areas",
+    "service_links": [
+      "Weekly Pool Maintenance",
+      "Equipment Repair & Installation",
+      "Pool Renovations",
+      "Leak Detection & Repair",
+      "Chemical Balancing"
+    ],
+    "copyright": "Refresh Pool Company. All rights reserved."
+  }
+}

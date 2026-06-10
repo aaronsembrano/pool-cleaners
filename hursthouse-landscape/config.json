@@ -1,0 +1,184 @@
+{
+  "folder_name": "hursthouse-landscape",
+  "company_name": "Hursthouse Landscape Architects & Contractors",
+  "tagline": "Creating and Maintaining Premier Outdoor Living Spaces",
+  "phone": "+1 630-759-3500",
+  "email": "rhursthouse@hursthouse.com",
+  "logo_path": "logo.png",
+  "review_count": "23",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#E87722",
+    "primary_dark": "#B85E1A",
+    "primary_deeper": "#8A4613",
+    "secondary": "#F5A623",
+    "cta": "#E87722",
+    "cta_dark": "#B85E1A"
+  },
+  "trust_badges": {
+    "badge_1": "IL Licensed Landscape Architect",
+    "badge_2": "4.7/5 from 23+ Reviews",
+    "badge_3": "25x Best of Houzz Winner"
+  },
+  "hero": {
+    "badge_1": "4.7/5 Stars — 25x Best of Houzz Winner",
+    "badge_2": "Serving Chicagoland Since 1990",
+    "headline": "Award-Winning Landscapes <span class=\"text-secondary italic\">Designed<br>for Your Life</span>",
+    "subheadline": "Your outdoor space should inspire you every time you step outside. With 36 years of landscape architecture expertise and 4,500+ designs completed, Hursthouse transforms your property into a living masterpiece — so you simply enjoy it.",
+    "cta_text": "Request a Design Consultation",
+    "checkmarks": [
+      "Free initial consultation",
+      "IL Registered Landscape Architect on staff",
+      "Design, build & maintain under one roof"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "4500",
+    "stat_1_label": "Landscapes Designed",
+    "stat_2_value": "36",
+    "stat_2_label": "Years of Excellence",
+    "stat_3_value": "2600",
+    "stat_3_label": "Families Served",
+    "stat_4_value": "25x",
+    "stat_4_label": "Best of Houzz Winner"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Landscape Solutions<br class=\"hidden md:block\"> From Vision to Reality",
+    "subtitle": "Stop imagining and start living in the outdoor space you deserve. From architectural design to seasonal maintenance, we handle every detail so your landscape thrives year-round.",
+    "cards": [
+      {
+        "title": "Landscape Architecture & Design",
+        "description": "Custom outdoor plans led by an IL Registered Landscape Architect. We connect your lifestyle and values to a design that transforms your property into something extraordinary."
+      },
+      {
+        "title": "Hardscape Construction",
+        "description": "Patios, walkways, retaining walls, and outdoor kitchens built with premium materials and expert craftsmanship. Every stone placed with precision to last decades."
+      },
+      {
+        "title": "Water Features & Pools",
+        "description": "Stunning waterfalls, fountains, reflecting pools, and natural streams that add movement and tranquility to your landscape. Custom-engineered for your property."
+      },
+      {
+        "title": "Planting & Garden Design",
+        "description": "Curated plant palettes chosen for beauty, seasonal interest, and long-term health. Native species, ornamental gardens, and privacy plantings tailored to your soil and light."
+      },
+      {
+        "title": "Outdoor Living Spaces",
+        "description": "Fire pits, pergolas, outdoor rooms, and lighting systems that extend your living space beyond four walls. Designed for entertaining and everyday enjoyment."
+      },
+      {
+        "title": "Landscape Maintenance",
+        "description": "Professional seasonal care programs that protect your investment. Pruning, bed maintenance, lawn care, and spring/fall cleanups to keep every detail looking its best."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your property and how you want to live outdoors. Our Registered Landscape Architect meets you on-site for a complimentary consultation to understand your goals, budget, and timeline."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Your custom landscape plan comes to life through detailed blueprints and expert construction. Our team manages every phase — grading, hardscape, planting, lighting — with meticulous attention to quality."
+      },
+      {
+        "title": "Live in Your Landscape",
+        "description": "Step into an outdoor space that feels like it was always meant to be there. With optional maintenance programs, your landscape stays pristine season after season — you just enjoy it."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Choose Hursthouse",
+    "headline": "Not Just Landscapers — Landscape Architects Who Build What They Design",
+    "description": "Founded in 1990 by Bob and Robbi Hursthouse, our firm has spent 36 years perfecting the art of outdoor living across Chicagoland's western suburbs. With an Illinois Registered Landscape Architect on staff and over 4,500 landscapes to our name, we bring professional-grade design expertise that most contractors simply cannot match. Our five-day work week ensures our team is rested, focused, and delivering their finest craftsmanship on your property.",
+    "badge": "IL Licensed Architect",
+    "features": [
+      {
+        "title": "Registered Landscape Architect on Staff",
+        "description": "Full professional licensure means your design meets the highest standards of the industry — not just a sketch on a napkin."
+      },
+      {
+        "title": "Design, Build & Maintain — One Team",
+        "description": "No handoffs between companies. The team that designs your landscape builds it and can maintain it for years to come."
+      },
+      {
+        "title": "25x Best of Houzz — 5.0 Star Rating",
+        "description": "Recognized 25 times by Houzz for design and service excellence. Our 5.0-star rating across 69 Houzz reviews speaks for itself."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is custom-scoped to your property and goals. We provide detailed proposals so you know exactly what you're investing in — no hidden fees, no change-order surprises."
+  },
+  "guarantee": {
+    "headline": "Our \"Premier Landscape\" Promise",
+    "description": "If any element of our work does not meet the standard we presented in your design, we will return and correct it at no additional cost. We have built our 36-year reputation on standing behind every project, and we intend to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How far in advance should I schedule a landscape project?",
+      "answer": "We recommend reaching out 2-3 months before your ideal start date, especially for spring and summer projects. Design development takes 3-6 weeks depending on scope, and construction scheduling fills up quickly. For consultations, we can usually meet within 1-2 weeks."
+    },
+    {
+      "question": "Do I need a landscape architect for my project?",
+      "answer": "For any project involving grading, drainage, structures, or significant investment, a licensed landscape architect ensures your design is both beautiful and structurally sound. Our IL Registered Landscape Architect brings expertise that prevents costly mistakes and maximizes your property's potential."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the western suburbs of Chicago including Naperville, Wheaton, Burr Ridge, Clarendon Hills, Glen Ellyn, Hinsdale, Elmhurst, Western Springs, Downers Grove, and surrounding communities. If you're in the greater Chicagoland area, give us a call."
+    },
+    {
+      "question": "How much does a typical landscape project cost?",
+      "answer": "Every property and vision is unique, so we scope each project individually. We provide detailed, transparent proposals after your on-site consultation so you understand exactly where every dollar goes. No hidden fees, no surprise change orders."
+    },
+    {
+      "question": "Do you offer ongoing maintenance after the project is complete?",
+      "answer": "Absolutely. We offer comprehensive seasonal maintenance programs that protect your landscape investment for years to come. From pruning and bed care to spring cleanups and winter prep, our team keeps your outdoor space looking its best every season."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ted M.",
+      "context": "Facebook Review",
+      "initials": "TM",
+      "text": "True masters of their craft. Inspirational. You really can't imagine what your outdoors could look like until Hursthouse shows you the possibilities. They exceeded every expectation."
+    },
+    {
+      "name": "Jennifer L.",
+      "context": "Houzz Review",
+      "initials": "JL",
+      "text": "We experienced their ability to understand our needs and design a plan and budget to meet exactly what we were looking for. They even remediated subpar work from other contractors at no extra charge."
+    },
+    {
+      "name": "David R.",
+      "context": "Houzz Review",
+      "initials": "DR",
+      "text": "Hursthouse has been fantastic! We have worked with tons of landscape companies over the years and Hursthouse stands above the rest in quality and responsiveness. Truly a cut above."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Landscape You'll<br>Love Coming Home To?",
+    "subtitle": "Schedule a complimentary on-site consultation with our Registered Landscape Architect. No pressure, no obligation — just honest expertise for your outdoor space.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Response within 48 hours",
+      "36 years of award-winning expertise"
+    ]
+  },
+  "footer": {
+    "description": "Award-winning landscape architecture firm. Serving Chicagoland since 1990.",
+    "service_area": "Serving Naperville, Wheaton, Hinsdale & Greater Chicagoland",
+    "services": [
+      "Landscape Architecture",
+      "Hardscape Construction",
+      "Water Features",
+      "Outdoor Living Spaces",
+      "Landscape Maintenance"
+    ],
+    "copyright": "&copy; 2024 Hursthouse Landscape Architects & Contractors. All rights reserved. IL Landscape Architect License #157-108"
+  }
+}

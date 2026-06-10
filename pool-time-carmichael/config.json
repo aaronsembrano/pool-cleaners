@@ -1,0 +1,180 @@
+{
+  "folder_name": "pool-time-carmichael",
+  "company_name": "Pool Time Pool & Spa",
+  "tagline": "Your Dream Backyard Awaits",
+  "phone": "+1 916-638-7665",
+  "email": "pooltime@pooltimepool.com",
+  "logo_path": "logo.png",
+  "review_count": "85",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "hero": {
+    "headline": "Sacramento's Most Trusted <span class=\"text-secondary italic\">Pool Experts</span>",
+    "subheadline": "Since 1989, Pool Time has been designing, building, and maintaining stunning pools and spas across the Greater Sacramento area. Over 70 skilled professionals and 25 trucks ready to serve you.",
+    "badges": [
+      "C-53 Certified Contractor",
+      "35+ Years in Business"
+    ],
+    "checkmarks": [
+      "Full-service: design, build, remodel & maintain",
+      "Licensed, bonded & insured — CA #701670",
+      "Management oversight on every single project"
+    ],
+    "cta_text": "Get Your Free Pool Consultation"
+  },
+  "stats": {
+    "stat_1_value": "35",
+    "stat_1_label": "Years Serving Sacramento",
+    "stat_2_value": "70",
+    "stat_2_label": "Skilled Professionals",
+    "stat_3_value": "3000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "headline": "Complete Pool & Spa Solutions",
+    "subtitle": "From custom design and construction to weekly maintenance, Pool Time handles every aspect of pool ownership so you can simply enjoy your backyard.",
+    "items": [
+      {
+        "title": "Pool & Spa Construction",
+        "description": "Custom design and build of in-ground swimming pools and spas for residential and commercial properties of all types and sizes."
+      },
+      {
+        "title": "Remodeling & Renovation",
+        "description": "Complete pool remodels and upgrades to transform your existing pool into a modern backyard paradise you'll love again."
+      },
+      {
+        "title": "Weekly Pool Service",
+        "description": "Four service tiers from Chemical Service to Full Service, keeping your pool crystal clear and properly maintained year-round."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Expert installation and servicing of quality equipment from top manufacturers including Pentair, Paramount, and Sta-Rite."
+      },
+      {
+        "title": "Pool Resurfacing & Plastering",
+        "description": "Premium finish options including PlasterScapes, StoneScapes, and JewelScapes for a beautiful, durable pool interior."
+      },
+      {
+        "title": "Water Features & Upgrades",
+        "description": "Custom waterfalls, slides, sheer descents, rain curtains, spillways, jets, and bubblers to elevate your backyard experience."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How It Works",
+    "steps": [
+      {
+        "title": "Free Consultation",
+        "description": "We visit your property, discuss your vision, and provide a detailed proposal tailored to your space and budget."
+      },
+      {
+        "title": "Expert Execution",
+        "description": "Our management team oversees every phase of your project, ensuring quality craftsmanship from start to finish."
+      },
+      {
+        "title": "Lifetime Relationship",
+        "description": "We service what we build. Enjoy ongoing maintenance and support from the same team who knows your pool inside and out."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Pool Time",
+    "headline": "A Sacramento Tradition Since 1989",
+    "description": "Started as a one-man operation by Joe Pagluica focused on pool service in the Arden area, Pool Time has grown into Sacramento's most trusted pool and spa company. Today our team of over 70 skilled professionals — many with 20+ years of experience — delivers the same personal attention and quality that built our reputation from day one.",
+    "badge": "Roseville Pool Builder of the Year",
+    "features": [
+      {
+        "title": "70+ Skilled Professionals",
+        "description": "Our team includes many employees with 20+ years of experience, delivering expertise you can trust on every job."
+      },
+      {
+        "title": "Design-Build-Maintain Under One Roof",
+        "description": "From initial concept to weekly upkeep, one company handles it all — no juggling multiple contractors."
+      },
+      {
+        "title": "Top Manufacturer Partnerships",
+        "description": "We install and service only quality equipment from Pentair, Paramount, and Sta-Rite for lasting performance."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pool Service Pricing",
+    "subtitle": "Four service tiers to fit every need and budget — from basic chemical balancing to full-service weekly care including brushing, vacuuming, and equipment checks."
+  },
+  "guarantee": {
+    "headline": "Our Service-What-We-Build Promise",
+    "description": "We stand behind every pool we build and every service we perform. If you're not completely satisfied with our work, we'll make it right — no excuses, no runaround. That's the Pool Time commitment that's kept Sacramento families trusting us for over 35 years."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a new pool?",
+      "answer": "Most custom pool builds take 8-12 weeks depending on the design complexity, permits, and weather. Our project managers keep you informed at every stage so there are never surprises."
+    },
+    {
+      "question": "What areas do you serve in Sacramento?",
+      "answer": "We serve the entire Greater Sacramento area including Carmichael, Fair Oaks, Folsom, Granite Bay, Roseville, Rancho Cordova, Citrus Heights, Orangevale, Gold River, and surrounding communities."
+    },
+    {
+      "question": "Do you offer financing for pool construction?",
+      "answer": "Yes, we work with several financing partners to help make your dream pool a reality. Ask about our current financing options during your free consultation."
+    },
+    {
+      "question": "What's included in your weekly pool service?",
+      "answer": "We offer four tiers: Chemical Service, Chemical Plus, Standard Service, and Full Service. Each tier builds upon the last, ranging from basic water chemistry to complete pool care including brushing, vacuuming, and equipment inspection."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Pool Time is a C-53 Certified Swimming Pool Contractor, fully licensed (#701670), bonded, and insured. We've maintained our credentials for over 35 years."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Eileen M.",
+      "text": "Probably the best pool service we have ever had in the past 10 years! Professional, friendly and prompt. Just an overall great company.",
+      "context": "Galt, CA",
+      "initials": "EM"
+    },
+    {
+      "name": "Denise C.",
+      "text": "Nothing but the best experience with all employees involved when having our pool installed. Highly recommend Pool Time.",
+      "context": "Sacramento, CA",
+      "initials": "DC"
+    },
+    {
+      "name": "Robin S.",
+      "text": "An excellent experience with them every time we dealt with them for mechanical and pool expertise. Truly top-notch service.",
+      "context": "Rancho Cordova, CA",
+      "initials": "RS"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your Backyard?",
+    "subtitle": "Get a free consultation from Sacramento's most experienced pool team. Call us or fill out the form and we'll get back to you within 24 hours.",
+    "benefits": [
+      "Free on-site consultation and estimate",
+      "35+ years of local Sacramento expertise",
+      "Flexible scheduling — evenings and weekends available"
+    ]
+  },
+  "footer": {
+    "description": "Pool Time Pool & Spa has been Sacramento's trusted pool company since 1989. From custom construction to weekly maintenance, we're your lifetime pool partner.",
+    "service_area": "Serving Carmichael, Fair Oaks, Folsom, Granite Bay, Roseville, Rancho Cordova, Citrus Heights, Orangevale, Gold River, Sacramento & surrounding areas",
+    "services": [
+      "Pool Construction",
+      "Pool Remodeling",
+      "Weekly Service",
+      "Equipment Repair",
+      "Resurfacing"
+    ],
+    "copyright": "Pool Time Pool & Spa. All rights reserved."
+  }
+}

@@ -5,167 +5,180 @@
   "phone": "+1 702-644-2213",
   "email": "tom@spspoolcare.com",
   "logo_path": "logo.png",
-  "review_count": "1152",
+  "review_count": "1,152",
   "review_rating": "4.4",
   "colors": {
-    "primary": "#0077B6",
-    "primary_dark": "#005A8C",
-    "primary_deeper": "#003F63",
-    "secondary": "#00B4D8",
-    "cta": "#F77F00",
-    "cta_dark": "#D66A00"
+    "primary": "#0097A7",
+    "primary_dark": "#004D57",
+    "primary_deeper": "#002E33",
+    "secondary": "#4DD0E1",
+    "cta": "#E65100",
+    "cta_dark": "#BF360C"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "4.4/5 from 1,152+ Reviews",
+    "badge_3": "Money-Back Guarantee"
   },
   "hero": {
-    "headline": "43 Years of <span class=\"text-secondary italic\">Crystal Clear</span> Pools",
-    "subheadline": "Tucson families have trusted Splash Pool Service since 1983. We include all chemicals, offer free evaluations, and back every service with a money-back guarantee.",
-    "badges": [
-      "Licensed, Bonded & Insured (ROC #327706)",
-      "4.4 Stars - 1,152 Google Reviews"
-    ],
+    "badge_1": "4.4/5 from 1,152+ Google Reviews",
+    "badge_2": "Money-Back Guarantee",
+    "headline": "43 Years of Pools Done <span class=\"text-secondary italic\">Right in<br>Tucson</span>",
+    "subheadline": "Since 1983, Tucson families have trusted Splash Pool Service to keep their pools crystal clear. All-inclusive monthly plans, no hidden fees, and a money-back guarantee if you're not satisfied. Stop worrying about your pool and just dive in.",
+    "cta_text": "Get My Free Evaluation",
     "checkmarks": [
-      "All chemicals included - no hidden charges",
-      "Free Pool School training with every new service",
-      "Money-back satisfaction guarantee"
-    ],
-    "cta_text": "Get Your Free Pool Evaluation"
+      "Free pool evaluation",
+      "All chemicals included",
+      "Money-back guarantee"
+    ]
   },
   "stats": {
-    "stat_1_value": "43",
-    "stat_1_label": "Years Serving Tucson",
-    "stat_2_value": "1152",
-    "stat_2_label": "Google Reviews",
-    "stat_3_value": "100",
-    "stat_3_label": "Satisfaction Guarantee",
-    "stat_4_value": "0",
-    "stat_4_label": "Hidden Fees"
+    "stat_1_value": "1152",
+    "stat_1_label": "Verified Reviews",
+    "stat_2_value": "43",
+    "stat_2_label": "Years in Tucson",
+    "stat_3_value": "14",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "100%",
+    "stat_4_label": "Money-Back Guarantee"
   },
   "services": {
-    "headline": "Complete Pool Care Under One Roof",
-    "subtitle": "From weekly maintenance to major repairs, Splash handles everything so you can just enjoy your pool.",
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From weekly maintenance to major repairs, Splash handles it all. Every plan includes chemicals, water testing, and a team that treats your pool like their own.",
     "cards": [
       {
-        "title": "Weekly Pool Service",
-        "description": "Three-tier maintenance plans with chemical balancing, system inspection, filter cleaning, and complete pool and spa care. All chemicals included in your monthly price."
+        "title": "Full Pool Service",
+        "description": "Weekly visits with all chemicals, water testing, full system inspection, filter and basket cleaning, plus complete pool and spa cleaning. Everything handled for $165/month."
       },
       {
         "title": "Pool Repairs",
-        "description": "Expert repair for pumps, filters, heaters, lights, plumbing, and automation systems. Every job starts with a free evaluation before any paid work begins."
+        "description": "Pumps, filters, heaters, lights, plumbing, and automation systems. Our technicians diagnose fast and fix it right the first time."
       },
       {
         "title": "Green Pool Cleanup",
-        "description": "Pool turned green? Our professional drain and cleanup service restores your pool to crystal clear condition quickly and affordably."
-      },
-      {
-        "title": "Pool Tile Cleaning",
-        "description": "We remove stubborn mineral deposits and calcium buildup from your pool tiles, restoring their original shine and beauty."
+        "description": "Pool turned swamp-green? We drain it, scrub it, and restore it to crystal clear. Tucson heat makes this common, and we make it fast."
       },
       {
         "title": "Equipment Installation",
-        "description": "Upgrade to smart pool controls, variable speed pumps, energy-efficient heaters, and other modern equipment installed by our licensed technicians."
+        "description": "Heaters, IntelliCenter smart controls, and variable-speed pumps that cut energy costs up to 90%. Professionally installed and configured."
       },
       {
-        "title": "Pool Draining & Acid Wash",
-        "description": "Complete pool draining recommended every 3-5 years, combined with acid wash treatment to refresh and revitalize your pool surfaces."
+        "title": "Pool Tile Cleaning",
+        "description": "Mineral deposits and calcium buildup stripped away to restore your tile's original shine. Tucson's hard water doesn't stand a chance."
+      },
+      {
+        "title": "Drain & Acid Wash",
+        "description": "Recommended every 3-5 years to remove stubborn stains and buildup. We drain, acid wash, and refill to make your pool look brand new."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Easy",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Free Evaluation",
-        "description": "We visit your pool at no cost, assess its condition, and recommend the right service plan for your needs."
+        "title": "Schedule Your Free Evaluation",
+        "description": "Call or fill out our form. We'll inspect your pool, assess its condition, and provide an honest recommendation with transparent pricing. No sales pressure, no obligations."
       },
       {
-        "title": "Choose Your Plan",
-        "description": "Pick from three maintenance tiers or schedule a one-time service. All chemicals are included with no surprise charges."
+        "title": "We Take Care of Everything",
+        "description": "Our team of 14 licensed professionals arrives on schedule every week. Chemicals, cleaning, inspections, and equipment checks are all included in your plan."
       },
       {
-        "title": "Enjoy Your Pool",
-        "description": "Relax while our experienced team keeps your pool sparkling. Plus, we'll teach you the basics with our free Pool School training."
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays swim-ready year-round in the Tucson sun. And if you're ever not satisfied, our money-back guarantee means you have nothing to lose."
       }
     ]
   },
   "about": {
-    "label": "About Splash Pool Service",
-    "headline": "Family-Owned Since 1983. Trusted by Tucson.",
-    "description": "For over four decades, Splash Pool Service has been the name Tucson pool owners rely on. As a licensed, bonded, and insured family business, we treat every pool like it's our own. Our money-back guarantee means you never risk a penny, and our free evaluations ensure you only pay for what you actually need.",
-    "badge": "43 Years of Trusted Service",
+    "label": "Why Tucson Trusts Us Since 1983",
+    "headline": "Family-Owned, Tucson-Rooted, and Here to Stay",
+    "description": "Splash Pool Service has been a Tucson family business since 1983. Over 43 years, we've built our reputation one pool at a time — no shortcuts, no gimmicks. Licensed (ROC #327706), bonded, and insured, our team of 14 professionals treats every backyard like it belongs to family. That's why over 1,152 customers have left us verified reviews.",
+    "badge": "ROC #327706 Licensed",
     "features": [
-      { "title": "Money-Back Guarantee", "description": "Not satisfied with our service? We'll refund your last month's payment. No questions asked, no hoops to jump through." },
-      { "title": "Free Evaluations First", "description": "We never charge for evaluations. We assess your pool, explain what's needed, and you decide before any paid work begins." },
-      { "title": "All Chemicals Included", "description": "Your monthly price covers every chemical your pool needs. No surprise charges, no nickel-and-diming, no hidden fees ever." }
+      {
+        "title": "Licensed, Bonded & Insured",
+        "description": "Fully licensed with the Arizona Registrar of Contractors (ROC #327706). Your property and investment are always protected."
+      },
+      {
+        "title": "Money-Back Guarantee",
+        "description": "Not happy with our service? We'll refund your last month's payment. No questions, no hoops, no fine print."
+      },
+      {
+        "title": "Free Evaluations, Always",
+        "description": "We never charge for an initial pool evaluation. We'll assess your pool's condition and recommend a plan before you spend a dime."
+      }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing, Zero Surprises",
-    "subtitle": "Every plan includes all chemicals, regular inspections, and our satisfaction guarantee. No contracts, no hidden fees."
+    "headline": "All-Inclusive Pricing. Zero Surprises.",
+    "subtitle": "Every plan includes chemicals, water testing, and weekly visits. Pick what fits your pool and upgrade or cancel anytime."
   },
   "guarantee": {
-    "headline": "Our Money-Back Satisfaction Guarantee",
-    "description": "If you're not completely happy with our service, we'll refund your last month's payment. No questions asked. That's how confident we are in our team's work. We've stood behind this promise since 1983 because we believe you deserve a pool service that earns your trust every single week."
+    "headline": "Our Money-Back Promise",
+    "description": "If you're not 100% satisfied with our service, we'll refund your last month's payment. No fine print, no runaround. We've stood behind this guarantee since 1983 because we know our work speaks for itself. Over 1,152 customers agree."
   },
   "faqs": [
     {
-      "question": "What's included in the monthly service price?",
-      "answer": "All chemicals needed to keep your pool balanced and clean are included in your monthly price. There are no hidden charges or surprise fees for chemicals, test kits, or standard maintenance supplies."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new customers are up and running within one week. We start with a free evaluation to assess your pool's condition, then schedule your regular service day. For green pool emergencies, we can often respond same-day."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "No. We earn your business every month. If you're ever unhappy, our money-back guarantee means we'll refund your last month's payment with no questions asked."
+      "question": "What's included in the monthly price?",
+      "answer": "All chemicals, water testing, and the service visit itself — everything is included. We never surprise you with add-on charges for chlorine, acid, or other supplies. The price you see is the price you pay."
     },
     {
-      "question": "What is Pool School?",
-      "answer": "Pool School is our free training session included with every new service startup. We teach you pool care basics so you understand what we do and can spot issues between visits. It's our way of empowering you as a pool owner."
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Absolutely. We're licensed with the Arizona Registrar of Contractors (ROC #327706), bonded, and fully insured. Every one of our 14 team members is trained and vetted. Your property is always protected."
     },
     {
-      "question": "How quickly can you clean a green pool?",
-      "answer": "Most green pools are restored to crystal clear condition within one to two weeks, depending on severity. We start with a free evaluation to assess the situation and provide an honest timeline."
+      "question": "What if I'm not happy with the service?",
+      "answer": "We offer a straightforward money-back guarantee. If you're unsatisfied, we'll refund your last month's payment — no questions asked. We've been in business 43 years because we stand behind our work."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. Splash Pool Service is fully licensed (ROC #327706), bonded, and insured. We've maintained these credentials continuously since 1983, giving you complete peace of mind."
+      "question": "Do you handle repairs and equipment too?",
+      "answer": "Yes, we're a full-service pool company. Pumps, filters, heaters, lights, plumbing, automation systems, tile cleaning, acid washes — our licensed team handles it all, so you never need to call another contractor."
     }
   ],
   "testimonials": [
     {
-      "name": "Terri",
-      "text": "Will never use another pool company. My pool is always crystal clear.",
-      "context": "Google Review",
-      "initials": "T"
+      "name": "Bedford",
+      "text": "I've been with Splash pool service for a combined 20 plus years. Outstanding service and professionalism from Nick and the entire team.",
+      "context": "Customer for 20+ years",
+      "initials": "BD"
     },
     {
-      "name": "Kate DeMeester",
-      "text": "Highly recommend Splash Pools! Nick took our pool from cloudy and dark green to crystal clear in less than two weeks.",
-      "context": "Green Pool Cleanup",
-      "initials": "KD"
+      "name": "Daniella",
+      "text": "Nick is incredible! He was polite, professional and got the job done. Transformed my pool from cloudy and dark green to crystal clear in less than two weeks with a very competitive monthly fee.",
+      "context": "Green pool recovery",
+      "initials": "DA"
     },
     {
-      "name": "Stan",
-      "text": "Pool service is consistent and very helpful. Been with them since 2008.",
-      "context": "Long-term Customer",
-      "initials": "S"
+      "name": "David",
+      "text": "I've been using Splash Pool Service for nearly 15 years. Their service is consistent, professional, and I highly recommend them.",
+      "context": "Customer for 15 years",
+      "initials": "DV"
     }
   ],
   "contact": {
-    "headline": "Ready for a Cleaner Pool?",
-    "subtitle": "Schedule your free evaluation today. No pressure, no obligation - just honest advice from Tucson's most trusted pool team.",
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Get a free, no-obligation evaluation from Tucson's most trusted pool team. We'll assess your pool, recommend a plan, and have you swimming worry-free within a week.",
     "benefits": [
-      "Free on-site pool evaluation",
-      "Same-week service available",
-      "No obligation - just honest recommendations"
+      "Free pool evaluation — no commitment",
+      "Service starts within one week",
+      "Money-back guarantee on every plan"
     ]
   },
   "footer": {
-    "description": "Splash Pool Service has proudly served Tucson pool owners since 1983. Licensed, bonded, and insured - we stand behind every service with our money-back guarantee.",
-    "service_area": "Tucson, Arizona and surrounding areas",
-    "service_links": [
-      "Weekly Pool Service",
+    "description": "Family-owned pool service. Proudly serving Tucson since 1983.",
+    "service_area": "Serving Tucson, AZ & Surrounding Areas",
+    "services": [
+      "Full Pool Service",
       "Pool Repairs",
       "Green Pool Cleanup",
       "Equipment Installation",
-      "Pool Tile Cleaning"
+      "Tile Cleaning & Acid Wash"
     ],
-    "copyright": "Splash Pool Service. All rights reserved."
+    "copyright": "&copy; 2026 Splash Pool Service. All rights reserved. Licensed ROC #327706"
   }
 }

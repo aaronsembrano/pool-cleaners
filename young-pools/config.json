@@ -1,0 +1,184 @@
+{
+  "folder_name": "young-pools",
+  "company_name": "Young Pools",
+  "tagline": "Family-owned pool experts providing excellent service since 2003",
+  "phone": "+1 864-359-9357",
+  "email": "daniel@youngpools.co",
+  "logo_path": "logo.png",
+  "review_count": "50",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0C1C2E",
+    "secondary": "#4AAED9",
+    "cta": "#E8722A",
+    "cta_dark": "#C95E1F"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 2003",
+    "badge_2": "4.9/5 from 50+ Reviews",
+    "badge_3": "500+ Pools Serviced"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 50+ Google Reviews",
+    "badge_2": "Family-Owned Since 2003",
+    "headline": "Your Family Pool Deserves <span class=\"text-secondary italic\">Family Care</span>",
+    "subheadline": "For over 20 years, the Young family has kept Anderson pools crystal clear. We treat every pool like our own — with integrity, expertise, and old-fashioned pride in a job well done.",
+    "cta_text": "Get Our Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "300+ liner replacements done",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Serviced",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "300",
+    "stat_3_label": "Liners Replaced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family Commitment"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a<br class=\"hidden md:block\"> Family That Knows Pools",
+    "subtitle": "From weekly maintenance to full liner replacements, we handle it all so you can focus on enjoying your backyard oasis.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Chemical balancing, skimming, vacuuming, step cleaning, and filter rinsing. Your pool stays swim-ready every single week without you lifting a finger."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Over 300 liners replaced with expert precision. Wide pattern selection, warranty included. We make old pools look brand new again."
+      },
+      {
+        "title": "Pump & Equipment Repair",
+        "description": "Pumps, sand filters, heaters, and more — diagnosed and repaired quickly. We keep your pool system running at peak efficiency."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Specialized leak detection to find and resolve hidden leaks before they cause costly structural damage to your pool."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and closing services to protect your investment. We handle winterization and spring start-up so your pool is always ready."
+      },
+      {
+        "title": "Water Chemistry Balancing",
+        "description": "Precise chemical testing and balancing for safe, clear water that's gentle on skin and eyes. No guesswork, just science."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Text Us",
+        "description": "Reach out and tell us about your pool. We'll schedule a free inspection and provide an honest quote — no pressure, no obligation."
+      },
+      {
+        "title": "We Take Care of Your Pool",
+        "description": "Our experienced team arrives on schedule, handles everything from cleaning to repairs, and leaves your pool sparkling."
+      },
+      {
+        "title": "Enjoy Your Backyard",
+        "description": "Relax knowing your pool is in the hands of a family that's been doing this for over 20 years. Just dive in and enjoy."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Anderson Trusts Us",
+    "headline": "A Father-Son Team Built on Integrity",
+    "description": "Young Pools started in 2003 when Terry Young founded Anderson Area Pool Service. He taught his sons the trade during their teenage years, and his son Daniel officially joined in 2010. Together they've grown to serve over 500 pools in the Anderson area. Every job is met with excellence — because our family name is on the line.",
+    "badge": "20+ Years Experience",
+    "features": [
+      {
+        "title": "Family-Owned & Operated",
+        "description": "Not a franchise, not a corporation. A real family that takes personal pride in every pool we touch."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your trust every single visit. No long-term commitments, no cancellation fees — just great service."
+      },
+      {
+        "title": "Excellence Guaranteed",
+        "description": "If you're not completely satisfied, we'll come back and make it right. That's the Young Pools promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your needs. Flexible plans, no contracts, cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Family Name\" Guarantee",
+    "description": "When our name is on the truck, our reputation is on the line. If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've built 20 years of trust one pool at a time — and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within a few days. For urgent repairs or green pool situations, we do our best to respond same-day or next-day. Just give us a call."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you're away. We'll leave a service note so you always know what was done."
+    },
+    {
+      "question": "How much does liner replacement cost?",
+      "answer": "Liner replacement pricing depends on your pool size and the pattern you choose. We offer a wide selection with warranty included. Call us for a free estimate — we've done over 300 replacements."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Anderson, South Carolina and the surrounding areas. If you're nearby and not sure if we cover your location, just give us a call and we'll let you know."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Young Pools is fully insured and has been operating professionally in the Anderson area since 2003. Your property and pool are in safe hands."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Nextdoor Neighbor",
+      "text": "They are fantastic! Young Pools has been taking care of our pool and they always do a great job. Reliable, friendly, and the pool always looks perfect.",
+      "context": "Nextdoor Review",
+      "initials": "NN"
+    },
+    {
+      "name": "Anderson Homeowner",
+      "text": "Excellent service from a family that truly cares about their customers. They replaced our liner and it looks brand new. Couldn't be happier with the results.",
+      "context": "Local Review",
+      "initials": "AH"
+    },
+    {
+      "name": "Long-Time Customer",
+      "text": "Been using Young Pools for years and they never disappoint. The father-son team is honest, professional, and always goes above and beyond. Highly recommend.",
+      "context": "Repeat Customer",
+      "initials": "LC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
+    "subtitle": "Get a free pool assessment from Anderson's most trusted family pool service. No contracts, no pressure — just honest advice and fair pricing.",
+    "benefits": [
+      "Free pool inspection included",
+      "Response within 24 hours",
+      "20+ years of local expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Anderson, SC since 2003.",
+    "service_area": "Serving Anderson, SC & Surrounding Areas",
+    "services": [
+      "Weekly Maintenance",
+      "Liner Replacement",
+      "Pump & Equipment Repair",
+      "Leak Detection",
+      "Pool Opening & Closing"
+    ],
+    "copyright": "&copy; 2024 Young Pools. All rights reserved. Anderson, South Carolina."
+  }
+}

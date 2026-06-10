@@ -1,0 +1,184 @@
+{
+  "folder_name": "a-c-pools-llc",
+  "company_name": "A&C Pools LLC",
+  "tagline": "Family-Owned Pool Care Built on Trust and Attention to Detail",
+  "phone": "(469) 269-3307",
+  "email": "contact@aandcpools.com",
+  "review_count": "16",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0E4D7C",
+    "primary_dark": "#093556",
+    "primary_deeper": "#051E35",
+    "secondary": "#38BDF8",
+    "cta": "#22C55E",
+    "cta_dark": "#16A34A"
+  },
+  "trust_badges": {
+    "badge_1": "Texas State-Certified (TICL# 831)",
+    "badge_2": "5.0/5 from 16+ Reviews",
+    "badge_3": "100% Satisfaction Guaranteed"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 16+ Reviews",
+    "badge_2": "Family-Owned & Operated in Frisco",
+    "headline": "Pool Service That Treats You <span class=\"text-secondary italic\">Like<br>Family</span>",
+    "subheadline": "A&C Pools is the family-owned, state-certified pool service Frisco trusts for weekly maintenance, equipment repair, and the kind of personal attention that big companies simply cannot match. We communicate every visit so you always know your pool's status.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free comprehensive pool inspection",
+      "Weekly email updates on your pool",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "7",
+    "stat_1_label": "Years Serving North Texas",
+    "stat_2_value": "16",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "100",
+    "stat_3_label": "Satisfaction Guarantee",
+    "stat_4_value": "6",
+    "stat_4_label": "Cities Served"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Sweats the Details",
+    "subtitle": "From weekly chemical balancing to full equipment overhauls, A&C Pools handles every aspect of pool ownership so you can focus on enjoying your backyard oasis.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Thorough skimming, brushing, vacuuming, chemical testing, and filter checks every single week. We send you an email after every visit detailing your pool's condition and any recommendations."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Pumps, heaters, filters, automatic cleaners, and control systems expertly diagnosed and repaired. We install top-quality equipment built to handle the Texas heat season after season."
+      },
+      {
+        "title": "Pool & Spa Automation",
+        "description": "Modern control systems that let you manage your pool and spa from your phone. We install, program, and repair automation equipment so your pool practically runs itself."
+      },
+      {
+        "title": "Chemical Balancing & Water Testing",
+        "description": "Precise chemical management that keeps your water crystal clear, algae-free, and gentle on skin. We test and adjust at every visit — no guesswork, just science."
+      },
+      {
+        "title": "Filter Cleans & Maintenance",
+        "description": "Deep filter cleaning and cartridge replacement to maintain proper flow and filtration. A clean filter means cleaner water and lower energy bills year-round."
+      },
+      {
+        "title": "Pool Inspections & Reports",
+        "description": "Comprehensive pool inspections with detailed typed reports covering equipment condition, surface integrity, and water chemistry. Ideal for home sales or peace of mind."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Crystal Clear Pool",
+    "steps": [
+      {
+        "title": "Book Your Free Inspection",
+        "description": "Call or fill out our form and we will schedule a no-obligation pool inspection. Alan personally assesses your pool's condition, equipment, and chemistry within days."
+      },
+      {
+        "title": "Get a Personalized Care Plan",
+        "description": "We build a maintenance or repair plan tailored to your pool's specific needs — no cookie-cutter packages. You will know exactly what we do, when we do it, and what it costs."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Our certified technicians handle everything on schedule while you get weekly email updates. Your pool stays sparkling and you get your weekends back."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Frisco Families Choose A&C Pools",
+    "headline": "Family-Owned Means We Care Like It's Our Own Pool",
+    "description": "A&C Pools was built on a simple belief: pool service should be personal. As a family-owned company, we treat every backyard like our own. Our state-certified technicians (TICL# 831) bring the same meticulous attention to detail whether we are balancing chemicals or installing a new heater. We communicate constantly because you deserve to know exactly how your pool is doing — that is why every client gets weekly email updates after each service visit.",
+    "badge": "Texas State-Certified TICL# 831",
+    "features": [
+      {
+        "title": "Weekly Email Communication",
+        "description": "After every service visit, you receive a detailed email with your pool's chemical readings, work performed, and any recommendations. No other company keeps you this informed."
+      },
+      {
+        "title": "State-Certified Technicians",
+        "description": "Our team holds Texas TICL certification, meaning every technician meets rigorous state standards for pool service, repair, and chemical handling."
+      },
+      {
+        "title": "Competitive Pricing, No Surprises",
+        "description": "We actively look for ways to optimize your equipment settings to save you money on energy and chemicals. Honest pricing with no hidden fees or upsells."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing. No Hidden Fees.",
+    "subtitle": "Whether you need weekly maintenance or a one-time repair, our pricing is straightforward and competitive. No contracts lock you in — we earn your business every visit."
+  },
+  "guarantee": {
+    "headline": "Our 100% Satisfaction Promise",
+    "description": "If your pool is anything less than perfect after a service visit, call us and we will come back to make it right — no questions asked, no extra charge. Alan and the A&C Pools team stake their family name on every single visit. Your satisfaction is not a policy; it is the principle our business was built on."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you service?",
+      "answer": "We currently serve Frisco, Allen, McKinney, Prosper, Plano, Dallas, and The Colony. We are actively expanding, so if you are nearby but not listed, give us a call — we may already be in your neighborhood."
+    },
+    {
+      "question": "Do you send the same technician each week?",
+      "answer": "Yes. Consistency is one of our core values. You will see the same familiar faces at your pool because we believe knowing your pool inside and out leads to better service and faster problem detection."
+    },
+    {
+      "question": "What happens after each service visit?",
+      "answer": "You receive a detailed email summarizing everything we did, your current chemical levels, and any recommendations. We believe communication is just as important as the service itself."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Absolutely. A&C Pools holds Texas TICL# 831 certification. Our technicians are state-certified and undergo continuous training on the latest pool equipment and chemistry protocols."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "Never. We do not believe in locking customers into contracts. You stay with us because we deliver exceptional service, not because of fine print. Cancel anytime with zero penalties."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "context": "Weekly maintenance, 2+ years",
+      "initials": "SM",
+      "text": "A&C Pools is a 5-star, class-A pool company. Alan and his team are over the top in personalized service. They treat us like family and our pool has never looked better. The weekly emails are a great touch."
+    },
+    {
+      "name": "David K.",
+      "context": "Equipment repair & weekly service",
+      "initials": "DK",
+      "text": "A&C Pools has elevated pool maintenance above what others offer in terms of consistency, reliability, professionalism, and personal care. Each team member is friendly, knowledgeable, and hard-working. Pricing is very competitive too."
+    },
+    {
+      "name": "Rachel & Tom W.",
+      "context": "Weekly maintenance, 3+ years",
+      "initials": "RW",
+      "text": "We have been with A&C Pools for a few years now and they truly run a family business that treats customers like family. The attention to detail is unmatched and we always know exactly what is happening with our pool."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Service<br>You Can Actually Trust?",
+    "subtitle": "Schedule your free, no-obligation pool inspection today. No contracts, no pressure — just honest, family-owned service backed by state certification and a 100% satisfaction guarantee.",
+    "benefits": [
+      "Free comprehensive pool inspection",
+      "Weekly email updates after every visit",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service delivering personalized care and honest communication since day one. Texas State-Certified (TICL# 831).",
+    "service_area": "Serving Frisco, Allen, McKinney, Prosper, Plano, Dallas & The Colony",
+    "services": [
+      "Weekly Pool Maintenance",
+      "Equipment Repair & Install",
+      "Pool & Spa Automation",
+      "Chemical Balancing",
+      "Filter Cleans",
+      "Pool Inspections"
+    ],
+    "copyright": "&copy; 2024 A&C Pools LLC. All rights reserved. Texas TICL# 831 | Family-Owned & Operated"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "folder_name": "jayson-oil-co",
+  "company_name": "The Jayson Company",
+  "tagline": "#BetterThanBottled — Your Trusted Water Quality and Pool Service Experts Since 1936",
+  "phone": "+1 855-529-7661",
+  "email": "cyannelli@jaysoncompany.com",
+  "logo_path": "logo.png",
+  "review_count": "17",
+  "review_rating": "3.4",
+  "colors": {
+    "primary": "#003366",
+    "primary_dark": "#002244",
+    "primary_deeper": "#001a33",
+    "secondary": "#0066CC",
+    "cta": "#E8A317",
+    "cta_dark": "#C78A0E"
+  },
+  "hero": {
+    "headline": "Three Generations of <span class=\"text-secondary italic\">Pure Trust</span>",
+    "sub_headline": "Since 1936, New Jersey families have relied on The Jayson Company for crystal-clear pools and water you can trust. From in-ground concrete pool service to advanced water purification, we do one thing — keep your water perfect.",
+    "badges": [
+      "BBB A+ Rated Since 1936",
+      "Licensed & Certified NJ Contractors"
+    ],
+    "checkmarks": [
+      "90+ years of family-owned expertise",
+      "24-hour emergency service available",
+      "Only NJ company certified for Perchlorate removal"
+    ],
+    "cta_text": "Get Your Free Water Assessment"
+  },
+  "stats": {
+    "stat_1_value": "90",
+    "stat_1_label": "Years Serving New Jersey",
+    "stat_2_value": "3",
+    "stat_2_label": "Generations of Family Ownership",
+    "stat_3_value": "24",
+    "stat_3_label": "Hour Emergency Service",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "headline": "Complete Water & Pool Solutions",
+    "subtitle": "From the water in your glass to the pool in your backyard, The Jayson Company handles it all under one roof.",
+    "cards": [
+      {
+        "title": "In-Ground Concrete Pool Service",
+        "description": "Weekly maintenance, seasonal openings and closings, equipment repair, and full renovations for your in-ground concrete pool and spa. We keep it swim-ready year-round."
+      },
+      {
+        "title": "Water Softener Systems",
+        "description": "Professional installation and maintenance of water softening systems that eliminate hard water damage to your plumbing, appliances, and fixtures — residential, commercial, and industrial."
+      },
+      {
+        "title": "Water Purification",
+        "description": "Advanced purification for homes and businesses. We're the only NJ company documented to successfully treat Perchlorate contamination in domestic well water supplies."
+      },
+      {
+        "title": "Reverse Osmosis Systems",
+        "description": "State-of-the-art RO filtration that delivers clean, pure drinking water from your tap for pennies a day. Better than bottled — guaranteed."
+      },
+      {
+        "title": "Pool Chemicals & Products",
+        "description": "Full range of professional-grade pool chemicals and maintenance products to keep your water balanced, sanitized, and crystal clear all season long."
+      },
+      {
+        "title": "24-Hour Emergency Service",
+        "description": "Round-the-clock emergency response for water treatment equipment failures and urgent pool issues. Service contracts and budget plans available for worry-free ownership."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Assessment",
+        "description": "Call us or fill out the form. We'll arrange a convenient time for our certified specialist to visit your home and evaluate your water or pool needs."
+      },
+      {
+        "title": "Get Your Custom Plan",
+        "description": "Your Jayson specialist will test your water, inspect your equipment, and present a tailored solution with transparent pricing — no surprises, no pressure."
+      },
+      {
+        "title": "Enjoy Perfect Water",
+        "description": "Our licensed technicians handle the installation or service, then we stay with you for ongoing maintenance and 24/7 support whenever you need us."
+      }
+    ]
+  },
+  "about": {
+    "label": "About The Jayson Company",
+    "headline": "Three Generations. One Mission. Perfect Water.",
+    "description": "Founded by Cornelius Jayson in 1936, our family has spent over 90 years earning the trust of New Jersey homeowners. Today, three generations later, we remain the only water treatment company in the state documented to have successfully treated Perchlorate in domestic well water — holding contracts from both the NJ DEP and US EPA. Whether it's your pool, your drinking water, or your softener system, Jayson professionals do the job right the first time.",
+    "badge": "Family-Owned Since 1936",
+    "features": [
+      {
+        "title": "NJ Licensed Plumbers & Contractors",
+        "description": "Fully licensed with NJ Plumbing License #5948 and NJ Contractors License #13VH00342000 for your complete peace of mind."
+      },
+      {
+        "title": "Certified Water Specialists",
+        "description": "Water Quality Association members and Certified Water Specialists — we bring science-backed expertise to every job."
+      },
+      {
+        "title": "3M Authorized with EPA Contracts",
+        "description": "As a 3M Authorized Dealer holding NJ DEP and US EPA contracts, we meet the highest standards in the industry."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing, No Surprises",
+    "subtitle": "Every home and pool is different. We provide free on-site assessments with clear, upfront pricing — and service contracts that save you money long-term."
+  },
+  "guarantee": {
+    "headline": "The Jayson Family Promise",
+    "description": "For 90+ years, our family name has been on every truck, every invoice, and every handshake. If you're not completely satisfied with our work, we'll come back and make it right — that's not a corporate policy, it's a family promise. Your satisfaction is personal to us."
+  },
+  "faqs": [
+    {
+      "question": "What areas of New Jersey do you serve?",
+      "answer": "We serve North and Central New Jersey including Union County, Essex County, Morris County, Hunterdon County, Somerset County, and surrounding areas. Call us to confirm service availability at your address."
+    },
+    {
+      "question": "Do you offer emergency pool and water service?",
+      "answer": "Yes. We provide 24-hour emergency service for water treatment equipment failures and urgent pool issues. Service contracts and budget plans are available for worry-free coverage year-round."
+    },
+    {
+      "question": "What makes your water purification different from competitors?",
+      "answer": "The Jayson Company is the only water treatment company in New Jersey documented to have successfully treated Perchlorate in domestic well water supplies. We hold contracts from both the NJ DEP and US EPA for Perchlorate removal — a distinction no other NJ company can claim."
+    },
+    {
+      "question": "How long has The Jayson Company been in business?",
+      "answer": "We were founded by Cornelius Jayson in 1936 and have been family-owned and operated for over 90 years — three generations of water quality and pool service expertise right here in New Jersey."
+    },
+    {
+      "question": "Do you service all types of pools?",
+      "answer": "We specialize in in-ground concrete pools and spas. Our services include weekly maintenance, seasonal openings and closings, equipment repair, renovation, and a full line of pool chemicals and products."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Joanna N.",
+      "text": "My whole experience with Jayson Water Company was excellent. The water tastes fantastic. We stopped buying tons of plastic water bottles.",
+      "context": "Water Purification Customer",
+      "initials": "JN"
+    },
+    {
+      "name": "Lynn M.",
+      "text": "They are extremely professional, knowledgeable, and offer great customer service!! Would highly recommend them to all!",
+      "context": "Water Treatment Customer",
+      "initials": "LM"
+    },
+    {
+      "name": "Bob N.",
+      "text": "Great experience with the salesman. The equipment installation went just as described and I was also very pleased with the techs.",
+      "context": "Equipment Installation Customer",
+      "initials": "BN"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Talk About Your Water",
+    "subtitle": "Whether it's your pool, your drinking water, or a softener system — our certified specialists are ready to help.",
+    "benefits": [
+      "Free on-site water assessment and consultation",
+      "Transparent pricing with no hidden fees",
+      "90+ years of family-owned expertise backing every job"
+    ]
+  },
+  "footer": {
+    "description": "The Jayson Company has been New Jersey's trusted name in water quality and pool service since 1936. Three generations of family ownership, one commitment: perfect water for your home.",
+    "service_area": "Serving North and Central New Jersey including Union, Essex, Morris, Hunterdon, and Somerset Counties",
+    "service_links": [
+      "In-Ground Pool Service",
+      "Water Softener Systems",
+      "Water Purification",
+      "Reverse Osmosis",
+      "24-Hour Emergency Service"
+    ],
+    "copyright": "The Jayson Company"
+  }
+}

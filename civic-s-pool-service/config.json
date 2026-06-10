@@ -1,0 +1,183 @@
+{
+  "folder_name": "civic-s-pool-service",
+  "company_name": "Civic's Pool Service",
+  "tagline": "Tampa Bay's Trusted Pool Cleaning & Maintenance Experts",
+  "phone": "814-923-3528",
+  "email": "Ernie@Civicspoolservice.com",
+  "review_count": "13",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0E7490",
+    "primary_dark": "#155E75",
+    "primary_deeper": "#0C4A5E",
+    "secondary": "#22D3EE",
+    "cta": "#22C55E",
+    "cta_dark": "#16A34A"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned & Operated",
+    "badge_2": "5.0/5 from 13+ Reviews",
+    "badge_3": "10+ Years Experience"
+  },
+  "hero": {
+    "badge_1": "5.0/5 Stars — Yelp & Google Reviews",
+    "badge_2": "Family-Owned Tampa Pool Experts",
+    "headline": "We Treat Your Pool <span class=\"text-secondary italic\">Like It's<br>Our Own</span>",
+    "subheadline": "Big franchises send a different tech every week. Civic's Pool Service sends the same dedicated team that knows your pool inside and out. Family-owned, locally operated, and trusted by hundreds of Tampa Bay homeowners for reliable, personalized care.",
+    "cta_text": "Get My Free Estimate Today",
+    "checkmarks": [
+      "Free no-obligation estimate",
+      "Flexible scheduling options",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Happy Homeowners",
+    "stat_2_value": "10",
+    "stat_2_label": "Years Serving Tampa",
+    "stat_3_value": "5.0",
+    "stat_3_label": "Star Average Rating",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care<br class=\"hidden md:block\"> From a Team That Cares",
+    "subtitle": "Whether it's weekly upkeep or rescuing a neglected pool, we handle every detail so you can enjoy crystal-clear water without the hassle.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Consistent water balancing, debris removal, equipment inspection, and algae prevention every single week. Your pool stays swim-ready through Tampa's heat and humidity."
+      },
+      {
+        "title": "Green to Clean Recovery",
+        "description": "Algae takeover? No problem. Our shock treatment and multi-step recovery process transforms neglected green pools back to sparkling blue — often in just days."
+      },
+      {
+        "title": "One-Time Deep Cleaning",
+        "description": "Perfect for seasonal refreshes or before a big event. Tile scrubbing, thorough vacuuming, filter cleaning, and precision chemical balancing in one comprehensive visit."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Buying or selling a home? Our detailed pool inspections cover equipment condition, structural integrity, and water chemistry — giving you a clear picture before you commit."
+      },
+      {
+        "title": "Pool School Training",
+        "description": "Want to learn how to maintain your own pool? Our hands-on training teaches you everything from chemical testing to equipment operation. Knowledge is power."
+      },
+      {
+        "title": "Pool Leak Detection",
+        "description": "Unexplained water loss? We use advanced detection methods to pinpoint leaks before they cause costly structural damage. Early detection saves thousands."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Stress-Free Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Tell us about your pool. We'll come out, assess your needs, and provide a transparent quote — no surprises, no hidden fees, no pressure to commit."
+      },
+      {
+        "title": "We Handle Everything",
+        "description": "Our experienced team arrives on schedule with professional-grade tools and chemicals. Every visit follows a thorough checklist so nothing gets missed."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Spend your weekends relaxing by a perfectly maintained pool instead of wrestling with chemicals and equipment. That's the Civic's Pool Service difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tampa Trusts Civic's",
+    "headline": "Family-Owned Means We Actually Care About Your Pool",
+    "description": "Civic's Pool Service was built on a simple promise: treat every customer's pool as if it were our own. As a family-owned business with over a decade of experience in Tampa Bay, we've built strong relationships with hundreds of homeowners who value personalized attention over corporate indifference. We're not the biggest — we're the best at making you feel like family.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Same Team, Every Visit",
+        "description": "You'll never wonder who's showing up. The same experienced technicians service your pool week after week, building familiarity with your system's unique needs."
+      },
+      {
+        "title": "No Contracts Required",
+        "description": "We keep your business by delivering great results — not by locking you into paperwork. Cancel anytime, no fees, no guilt."
+      },
+      {
+        "title": "Flexible Scheduling",
+        "description": "Life is unpredictable. We work around your schedule with flexible service windows and easy rescheduling when plans change."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Every pool is different. We'll provide a custom quote based on your pool's size, condition, and your preferred service level."
+  },
+  "guarantee": {
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If your pool isn't crystal clear and perfectly balanced after any service visit, call us and we'll come back to make it right — completely free of charge. We built our reputation one satisfied homeowner at a time, and we intend to keep it that way. Your trust means everything to our family."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start servicing my pool?",
+      "answer": "Most new customers are on the schedule within 3-5 business days. If you have an urgent situation like a green pool or equipment failure, let us know and we'll do our best to accommodate you sooner."
+    },
+    {
+      "question": "Do I need to be home during my service visit?",
+      "answer": "Nope! Most of our customers provide gate access and we take care of everything while they're at work or running errands. We'll leave a service summary so you always know what was done."
+    },
+    {
+      "question": "What makes you different from the big pool companies?",
+      "answer": "We're family-owned and personally invested in every pool we service. You'll get the same experienced technician every visit, direct communication with ownership, and the kind of care that only comes from a team that treats your pool like their own."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "Never. We earn your loyalty through great service, not binding contracts. You're free to cancel anytime with zero fees or penalties. We believe if we're doing our job right, you'll want to stay."
+    },
+    {
+      "question": "What areas in Tampa do you serve?",
+      "answer": "We proudly serve Tampa, Westchase, Oldsmar, Citrus Park, Dunedin, Safety Harbor, and surrounding communities throughout the Tampa Bay region. Contact us to confirm we cover your neighborhood."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "context": "Weekly service customer, 2+ years",
+      "initials": "SM",
+      "text": "Best pool service in Tampa — always on time and keeps our pool sparkling. Ernie and the team genuinely care about doing things right. We haven't had a single issue since switching to Civic's."
+    },
+    {
+      "name": "David K.",
+      "context": "Green to clean recovery",
+      "initials": "DK",
+      "text": "We are extremely impressed with Civic's Pool Service — fast response and quality of work. Our pool went from embarrassingly green to crystal clear in just a few days. Cannot recommend them enough."
+    },
+    {
+      "name": "Michelle T.",
+      "context": "Weekly maintenance, new homeowner",
+      "initials": "MT",
+      "text": "As a first-time pool owner I was overwhelmed, but Civic's made it effortless. They even took time to explain everything during their Pool School session. Affordable, professional, and they do an amazing job."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Worry About?",
+    "subtitle": "Request your free estimate today. No contracts, no commitments — just honest, family-owned pool care from a team that treats every pool like their own.",
+    "benefits": [
+      "Free on-site estimate included",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly keeping Tampa Bay pools crystal clear for over a decade.",
+    "service_area": "Serving Tampa, Westchase, Oldsmar, Citrus Park, Dunedin, Safety Harbor & Surrounding Areas",
+    "services": [
+      "Weekly Pool Service",
+      "Green to Clean",
+      "Deep Cleaning",
+      "Pool Inspections",
+      "Leak Detection"
+    ],
+    "copyright": "&copy; 2024 Civic's Pool Service. All rights reserved. Family-Owned & Operated | BBB A+ Rated"
+  }
+}

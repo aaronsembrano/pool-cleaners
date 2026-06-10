@@ -1,0 +1,179 @@
+{
+  "folder_name": "nautical-pool-services",
+  "company_name": "Nautical Pool Services",
+  "tagline": "Professional Pool Care You Can Trust",
+  "phone": "(480) 707-7023",
+  "email": "randy.miller@nauticalpoolservices.com",
+  "review_count": "30",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#142D48",
+    "primary_deeper": "#0E2035",
+    "secondary": "#2196F3",
+    "cta": "#F57C00",
+    "cta_dark": "#E65100"
+  },
+  "hero": {
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Personal Attention</span>",
+    "subheadline": "Randy Miller has kept Phoenix pools crystal clear for 10 years. As an owner-operator, he personally handles every service call — no technician roulette, no runaround.",
+    "badges": [
+      "5.0 Stars on 30+ Reviews",
+      "Certified Pool Operator"
+    ],
+    "checkmarks": [
+      "Same-week diagnosis & repair",
+      "Owner on every service call",
+      "No contracts required"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "10",
+    "stat_1_label": "Years Serving Phoenix",
+    "stat_2_value": "5",
+    "stat_2_label": "Star Google Rating",
+    "stat_3_value": "30",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Satisfaction"
+  },
+  "services": {
+    "headline": "Complete Pool Care Under One Roof",
+    "subtitle": "From weekly maintenance to complex repairs, Randy handles it all with the expertise of a decade in the field.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Full-service weekly care including chemistry balancing, skimmer and pump basket cleaning, brushing, vacuuming, and filter maintenance."
+      },
+      {
+        "title": "Pumps & Motors",
+        "description": "Fast diagnosis and repair of pool pumps and motors to keep your circulation running efficiently and quietly."
+      },
+      {
+        "title": "Tile Cleaning & Repair",
+        "description": "Professional tile restoration that removes calcium buildup and revives your pool's original beauty."
+      },
+      {
+        "title": "Filter Service",
+        "description": "Deep cleaning, repair, and replacement for cartridge, sand, and DE filters to ensure spotless water."
+      },
+      {
+        "title": "Salt & Chlorination Systems",
+        "description": "Expert installation and maintenance of salt chlorine generators and traditional chlorination for safe, balanced water."
+      },
+      {
+        "title": "Heater & Lighting",
+        "description": "Keep your pool comfortable and beautifully lit year-round with professional heater and lighting services."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Text Randy",
+        "description": "Reach out directly to the owner. Describe your pool situation and get honest answers immediately."
+      },
+      {
+        "title": "Same-Week Assessment",
+        "description": "Randy visits your pool, diagnoses any issues on the spot, and provides a clear, upfront quote."
+      },
+      {
+        "title": "Enjoy a Perfect Pool",
+        "description": "Sit back while your pool gets the expert care it deserves — consistently clean, balanced, and ready to swim."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Nautical Pool Services",
+    "headline": "One Owner. One Standard. Every Pool.",
+    "description": "When Randy Miller started Nautical Pool Services in 2016, he made a simple promise: every customer gets the same owner-level attention, no matter the size of the job. Ten years later, that promise hasn't changed. Randy personally services every pool, diagnosing problems quickly and fixing them affordably. His Phoenix neighbors trust him because he shows up, communicates clearly, and delivers results you can see the moment you walk outside.",
+    "badge": "10 Years of Owner-Operated Excellence",
+    "features": [
+      {
+        "title": "Owner on Every Service Call",
+        "description": "Randy personally handles every visit — no random techs, no miscommunication, just consistent expert care."
+      },
+      {
+        "title": "Quick Diagnosis, Fast Fixes",
+        "description": "Most issues identified on the spot with same-week repairs. No dragging things out or unnecessary return trips."
+      },
+      {
+        "title": "Responsive Communication",
+        "description": "Text or call Randy directly and get a real answer. No phone trees, no waiting days for a callback."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Honest Pricing, No Surprises",
+    "subtitle": "Randy provides upfront quotes before any work begins. No hidden fees, no upselling — just fair pricing for quality pool care."
+  },
+  "guarantee": {
+    "headline": "The Nautical Guarantee",
+    "description": "If you're not completely satisfied with any service, Randy will return and make it right at no additional charge. That's the advantage of working directly with the owner — your satisfaction is his personal reputation."
+  },
+  "faqs": [
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and go about their day. Randy will text you a summary after each visit so you always know what was done."
+    },
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "In most cases, Randy can begin within the same week of your initial call. Phoenix pools need consistent care, and we don't believe in making you wait."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Nautical Pool Services is fully licensed and insured, and Randy holds a Certified Pool Operator (CPO) certification for added peace of mind."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Phoenix, Scottsdale, Tempe, Paradise Valley, Arcadia, Biltmore, and surrounding Phoenix metro communities."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "Never. We earn your business every single visit. You're free to cancel anytime — though our clients rarely do once they see the difference."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "text": "Randy is amazing, very knowledgeable, friendly, prompt and professional. The quality of his work is great and my pool has never looked better. Highly recommend!",
+      "context": "Nextdoor Review",
+      "initials": "SM"
+    },
+    {
+      "name": "Mike T.",
+      "text": "I've used Nautical Pool Services for the past several years and Randy has been amazing. Super responsive, great service, and an all-around nice guy. Highly recommend them to anyone looking for reliable pool care.",
+      "context": "Nextdoor Review",
+      "initials": "MT"
+    },
+    {
+      "name": "Jennifer L.",
+      "text": "Randy diagnosed our pool pump issue within minutes and had it fixed the same week. His services are affordable and superior to other companies we've used. We didn't realize how different a great pool service could be until working with him.",
+      "context": "Nextdoor Review",
+      "initials": "JL"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Get Your Pool Right",
+    "subtitle": "Call or text Randy directly. No call centers, no voicemail maze — just the owner ready to help.",
+    "benefits": [
+      "Direct line to the owner",
+      "Same-week service available",
+      "Free honest assessment"
+    ]
+  },
+  "footer": {
+    "description": "Nautical Pool Services has provided owner-operated pool maintenance and repair to the Phoenix metro area since 2016. Certified, insured, and committed to your pool's perfection.",
+    "service_area": "Serving Phoenix, Scottsdale, Tempe, Paradise Valley, Arcadia, Biltmore & surrounding areas",
+    "service_links": [
+      "Weekly Pool Maintenance",
+      "Pumps & Motors",
+      "Tile Cleaning & Repair",
+      "Filter Service",
+      "Salt & Chlorination Systems"
+    ],
+    "copyright": "Nautical Pool Services. All rights reserved."
+  }
+}

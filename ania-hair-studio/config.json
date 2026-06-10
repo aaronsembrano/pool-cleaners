@@ -1,0 +1,179 @@
+{
+  "folder_name": "ania-hair-studio",
+  "company_name": "Ania Hair Studio & Spa",
+  "tagline": "Albany NY Haircuts, Color & Spa",
+  "phone": "+1 518-456-8822",
+  "email": "ania@aniahairsalon.com",
+  "review_count": "240",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#2C2C2C",
+    "primary_dark": "#1A1A1A",
+    "primary_deeper": "#111111",
+    "secondary": "#C9A96E",
+    "cta": "#C9A96E",
+    "cta_dark": "#B8944F"
+  },
+  "hero": {
+    "headline": "Albany's Premier <span class=\"text-secondary italic\">Hair & Spa Destination</span>",
+    "subheadline": "For 25 years, Ania Hair Studio & Spa has been the Capital Region's trusted name in luxury haircuts, color, and spa treatments. Our team of 20+ stylists and colorists delivers personalized care in our spacious 5,000 sq ft studio.",
+    "badges": [
+      "4.5 Stars - 240+ Google Reviews",
+      "Only Ouidad-Certified Salon in the Capital Region"
+    ],
+    "checkmarks": [
+      "Curly hair specialists trained in Manhattan",
+      "Full-service salon and day spa under one roof",
+      "Private wig & topper consultations available"
+    ],
+    "cta_text": "Book Your Appointment Today"
+  },
+  "stats": {
+    "stat_1_value": "25",
+    "stat_1_label": "Years Serving Albany",
+    "stat_2_value": "20",
+    "stat_2_label": "Stylists & Colorists",
+    "stat_3_value": "5000",
+    "stat_3_label": "Sq Ft Luxury Studio",
+    "stat_4_value": "240",
+    "stat_4_label": "5-Star Reviews"
+  },
+  "services": {
+    "headline": "Our Salon & Spa Services",
+    "subtitle": "From precision haircuts to rejuvenating spa treatments, we offer everything you need to look and feel your best.",
+    "cards": [
+      {
+        "title": "Haircuts & Styling",
+        "description": "Expert precision cuts for men, women, and children, plus event-ready styling for weddings, proms, and special occasions by our experienced team."
+      },
+      {
+        "title": "Hair Coloring & Balayage",
+        "description": "Full-spectrum color services including single process, highlights, balayage, and creative color that blends our expertise with your personal vision."
+      },
+      {
+        "title": "Curly Hair Specialists",
+        "description": "As the only Ouidad-certified salon in the Capital Region, our Manhattan-trained stylists specialize in curly textures using signature techniques."
+      },
+      {
+        "title": "Extensions & Keratin",
+        "description": "Professional hair extensions for length and volume, plus Brazilian Silk Keratin treatments that reduce frizz and add lasting shine."
+      },
+      {
+        "title": "Facials & Skincare",
+        "description": "Customized facials and advanced beauty treatments performed by licensed estheticians using top-tier skincare products for radiant, healthy skin."
+      },
+      {
+        "title": "Massage & Spa Packages",
+        "description": "Professional massage therapy, curated spa packages, bridal experiences, and full day-of-beauty packages combining our best treatments."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Experience at Ania Hair Studio",
+    "steps": [
+      {
+        "title": "Book a Consultation",
+        "description": "Call us or book online to schedule your appointment. We'll discuss your hair goals and recommend the perfect service for you."
+      },
+      {
+        "title": "Personalized Service",
+        "description": "Your stylist or esthetician creates a customized treatment plan tailored to your hair type, texture, and personal style preferences."
+      },
+      {
+        "title": "Walk Out Confident",
+        "description": "Leave our studio looking and feeling your absolute best, with expert tips on maintaining your new look between visits."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Ania Hair Studio & Spa",
+    "headline": "25 Years of Excellence in Albany",
+    "description": "Founded in 2001 by Ania Bickham, Ania Hair Studio & Spa has grown into the Capital Region's premier full-service salon and day spa. Our spacious 5,000 square foot facility at 1704 Western Ave houses over 20 talented stylists and colorists dedicated to making every client feel beautiful. We are the only Ouidad-certified salon in the region, with stylists trained in Manhattan who specialize in all hair types and textures. From our private wig and topper consultation room to our full spa services, every detail reflects our commitment to compassionate, individualized care.",
+    "badge": "Established 2001 - Trusted for 25 Years",
+    "features": [
+      {
+        "title": "Only Ouidad-Certified Salon",
+        "description": "The only Ouidad-certified salon in the Capital Region, with stylists trained in Manhattan for expert curly hair care."
+      },
+      {
+        "title": "20+ Stylists & Colorists",
+        "description": "A team of over 20 talented professionals in our spacious 5,000 sq ft studio, each specializing in different techniques."
+      },
+      {
+        "title": "Compassionate Hair Loss Care",
+        "description": "Private consultation room for wig and topper fittings, providing personalized solutions for clients experiencing hair loss."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent, Fair Pricing",
+    "subtitle": "We believe in honest pricing with no hidden fees. Contact us for a personalized quote based on your hair type and desired service."
+  },
+  "guarantee": {
+    "headline": "Our Satisfaction Promise",
+    "description": "Your happiness is our top priority. If you're not completely thrilled with your service, contact us within 7 days and we'll make it right at no additional charge. For 25 years, this commitment to client satisfaction has been the foundation of everything we do at Ania Hair Studio & Spa."
+  },
+  "faqs": [
+    {
+      "question": "Do I need an appointment or do you accept walk-ins?",
+      "answer": "We recommend booking an appointment to ensure availability with your preferred stylist. However, we do accommodate walk-ins when our schedule allows. Call us at 518-456-8822 to check same-day availability."
+    },
+    {
+      "question": "What makes your curly hair services different?",
+      "answer": "We are the only Ouidad-certified salon in the Capital Region. Our stylists were trained in Manhattan using Ouidad's signature cutting and styling techniques specifically designed for curly and wavy hair textures, ensuring results that embrace and enhance your natural curl pattern."
+    },
+    {
+      "question": "Do you offer services for clients experiencing hair loss?",
+      "answer": "Yes, we offer specialized wig and topper consultations and fittings in a private room. Our compassionate team provides personalized solutions so you can feel confident and comfortable throughout the process."
+    },
+    {
+      "question": "What spa services do you offer besides hair?",
+      "answer": "Our full-service day spa includes customized facials, massage therapy, waxing, manicures, pedicures, and curated spa packages. We also offer bridal packages and couples experiences with side-by-side services."
+    },
+    {
+      "question": "Where are you located and what are your hours?",
+      "answer": "We're located at 1704 Western Ave in Albany, NY, in our spacious 5,000 sq ft studio. Call us at 518-456-8822 for our current hours and to schedule your visit."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Shyanna Logan",
+      "text": "Jessica is truly exceptional at what she does. Every single appointment exceeds my expectations. Color is always perfectly blended with cuts that grow out beautifully.",
+      "context": "Google Review - 5 Stars",
+      "initials": "SL"
+    },
+    {
+      "name": "Amy Blair",
+      "text": "Elaina has truly revived my trust in hair stylists. Her kindness, compassion, and attention to detail are remarkable.",
+      "context": "Google Review - 5 Stars",
+      "initials": "AB"
+    },
+    {
+      "name": "Rachel Leavitt",
+      "text": "Laurie is the best hairstylist. Blends her expertise with your vision to create stunning results every time.",
+      "context": "Google Review - 5 Stars",
+      "initials": "RL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Your Best Hair Day?",
+    "subtitle": "Schedule your appointment at Albany's premier hair studio and day spa. We can't wait to welcome you.",
+    "benefits": [
+      "Personalized consultation with your stylist",
+      "Flexible scheduling to fit your life",
+      "Relaxing 5,000 sq ft luxury studio"
+    ]
+  },
+  "footer": {
+    "description": "Ania Hair Studio & Spa has been Albany's trusted destination for luxury haircuts, color, and spa treatments since 2001. Our team of 20+ stylists delivers personalized care in our 5,000 sq ft studio.",
+    "service_area": "Serving Albany, NY and the Capital Region",
+    "services": [
+      "Haircuts & Styling",
+      "Hair Coloring & Balayage",
+      "Curly Hair Specialists",
+      "Extensions & Keratin",
+      "Facials & Massage"
+    ],
+    "copyright": "Ania Hair Studio & Spa. All rights reserved."
+  }
+}

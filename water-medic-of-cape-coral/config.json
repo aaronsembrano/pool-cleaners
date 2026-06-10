@@ -1,0 +1,183 @@
+{
+  "folder_name": "water-medic-of-cape-coral",
+  "company_name": "Water Medic Of Cape Coral",
+  "tagline": "Southwest Florida's Trusted Pool & Water Treatment Experts",
+  "phone": "(239) 541-2581",
+  "email": "info@watermedic.com",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#023E73",
+    "primary_deeper": "#012A4A",
+    "secondary": "#48CAE4",
+    "cta": "#00B4D8",
+    "cta_dark": "#0096C7"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 740+ Reviews",
+    "badge_3": "Serving Cape Coral 25+ Years"
+  },
+  "hero": {
+    "headline": "Pure Water, Crystal Pools — <span class=\"text-secondary italic\">One Call<br>Handles Both</span>",
+    "subheadline": "For over 25 years, Cape Coral families have trusted Water Medic to keep their pools sparkling and their home water pristine. From weekly pool maintenance to whole-home water treatment — we handle it all so you can just enjoy the water.",
+    "badge_1": "4.8/5 from 740+ Google Reviews",
+    "badge_2": "BBB Accredited Since 2009",
+    "cta_text": "Get My Free Quote",
+    "checkmarks": [
+      "Free water analysis",
+      "Same-week service",
+      "25+ years of local expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "740",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "25",
+    "stat_2_label": "Years in Cape Coral",
+    "stat_3_value": "5000",
+    "stat_3_label": "Homes Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Pool Care & Water Treatment<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "Most companies do pools or water — we do both. That means one trusted team for your pool maintenance, equipment repairs, water softening, and reverse osmosis systems. Fewer vendors, fewer headaches.",
+    "cards": [
+      {
+        "title": "Monthly Pool Maintenance",
+        "description": "Consistent, thorough pool cleaning with chemical balancing, skimming, vacuuming, and filter care. Your pool stays swim-ready every single month — guaranteed."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems, and automation — our factory-trained technicians diagnose fast and fix it right the first time."
+      },
+      {
+        "title": "Saltwater & Chlorination Systems",
+        "description": "Upgrade to a saltwater chlorinator for softer water and lower chemical costs. We handle installation, conversion, and ongoing maintenance."
+      },
+      {
+        "title": "Whole-Home Reverse Osmosis",
+        "description": "Cape Coral's water is tough on homes. Our whole-home RO systems deliver pure, fresh water to every tap — better tasting, better for your skin and appliances."
+      },
+      {
+        "title": "Water Softeners & Filtration",
+        "description": "Hard water stains, scale buildup, and sulfur smell? We install and maintain water softeners, carbon filters, and aerator systems tailored to your well or city water."
+      },
+      {
+        "title": "Pool Heater Installation",
+        "description": "Extend your swim season year-round with a professionally installed pool heater. We size it right, install it clean, and keep it running efficiently."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Better Water",
+    "steps": [
+      {
+        "title": "Schedule Your Free Analysis",
+        "description": "Call us or fill out the form. We'll test your pool water or home water at no cost and give you an honest assessment — no pressure, no obligation."
+      },
+      {
+        "title": "Get a Custom Solution",
+        "description": "Our experienced technicians design a service plan tailored to your pool type, water source, and budget. We explain everything in plain English before any work begins."
+      },
+      {
+        "title": "Relax — We've Got It",
+        "description": "From scheduled maintenance to emergency repairs, your water is in expert hands. We show up on time, do the job right, and keep you informed every step of the way."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Cape Coral Trusts Water Medic",
+    "headline": "Family-Owned, Locally Operated — For Over 25 Years",
+    "description": "Water Medic of Cape Coral isn't a franchise or a faceless corporation. We're a family-owned business that's been solving Southwest Florida's water challenges since day one. Our technicians live in the community they serve — they know Cape Coral's water, its quirks, and exactly how to keep your pool and home water in perfect shape.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Factory-Trained Technicians",
+        "description": "Every technician is trained on the latest pool and water treatment equipment — no guesswork, just expert service from certified professionals."
+      },
+      {
+        "title": "One Company, Complete Water Care",
+        "description": "Pool maintenance, equipment repair, water softening, and reverse osmosis — all handled by one team you already trust. No juggling multiple vendors."
+      },
+      {
+        "title": "Honest Pricing, Always",
+        "description": "We quote upfront and stick to it. No surprise fees, no upselling tactics. If we recommend something, it's because your water actually needs it."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your home. Flexible plans with honest pricing — we'll never hit you with hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Water Medic\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us within 24 hours and we'll come back to make it right — at no additional charge. We've built our reputation on doing the job right, and we stand behind every visit. Your satisfaction isn't just a policy, it's how we've earned 740+ five-star reviews over 25 years."
+  },
+  "faqs": [
+    {
+      "question": "How soon can Water Medic start servicing my pool?",
+      "answer": "Most new pool maintenance clients are scheduled within 3-5 business days. For equipment emergencies or green pool recovery, we often respond same-day or next-day. Just give us a call at (239) 541-2581 and we'll get you on the schedule."
+    },
+    {
+      "question": "Do you only service pools, or do you handle home water too?",
+      "answer": "We do both! Water Medic specializes in pool maintenance and equipment as well as whole-home water treatment — reverse osmosis systems, water softeners, well water filtration, and more. One company for all your water needs."
+    },
+    {
+      "question": "Is Cape Coral's water really that bad for pools and homes?",
+      "answer": "Cape Coral has some of the hardest water in Florida, plus many homes are on well water with sulfur and iron. This is tough on pools, appliances, and plumbing. Our systems are specifically designed for Southwest Florida's water challenges."
+    },
+    {
+      "question": "Are your technicians certified and insured?",
+      "answer": "Absolutely. Every Water Medic technician is factory-trained, fully insured, and background-checked. We're also BBB Accredited with an outstanding track record since 2009. Your home is in safe hands."
+    },
+    {
+      "question": "Do you offer financing for water treatment systems?",
+      "answer": "Yes, we offer flexible financing options for larger installations like whole-home reverse osmosis and water softener systems. We'll walk you through the options during your free water analysis so you can choose what works best for your budget."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David H.",
+      "text": "We've used Water Medic for both our pool and whole-home RO system. The difference in our water quality is incredible — pool is always crystal clear, and the drinking water tastes better than bottled. Their techs are always on time and super knowledgeable.",
+      "context": "Pool & RO customer, 3 years",
+      "initials": "DH"
+    },
+    {
+      "name": "Christine M.",
+      "text": "After moving to Cape Coral, our pool turned green within a month using another company. Water Medic took over and within a week it was spotless. They also fixed our hard water problem with a softener system. One call handles everything — love it.",
+      "context": "New Cape Coral homeowner",
+      "initials": "CM"
+    },
+    {
+      "name": "Robert P.",
+      "text": "I manage two rental properties in Cape Coral and Water Medic handles the pools for both. They're reliable, reasonably priced, and their communication is excellent. I get service reports after every visit. Makes my life so much easier.",
+      "context": "Property manager, 2 properties",
+      "initials": "RP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Better Water<br>at Home & in the Pool?",
+    "subtitle": "Get a free water analysis and honest quote within 24 hours. No pressure, no obligation — just expert advice from Cape Coral's most trusted water team.",
+    "benefits": [
+      "Free water analysis with every quote",
+      "Response within 24 hours",
+      "25+ years of Southwest Florida expertise"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool & water treatment company. Proudly serving Cape Coral for over 25 years.",
+    "service_area": "Serving Cape Coral & Southwest Florida",
+    "services": [
+      "Pool Maintenance",
+      "Equipment Repair",
+      "Water Softeners",
+      "Reverse Osmosis",
+      "Pool Heaters"
+    ],
+    "copyright": "&copy; 2024 Water Medic of Cape Coral, Inc. All rights reserved. Licensed & Insured."
+  },
+  "review_count": "740",
+  "review_rating": "4.8"
+}

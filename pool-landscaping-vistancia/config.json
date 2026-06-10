@@ -1,76 +1,70 @@
 {
   "folder_name": "pool-landscaping-vistancia",
   "company_name": "Pool & Landscaping of Vistancia",
-  "tagline": "Expert Pool & Landscaping Services in Vistancia",
-  "phone": "602-887-4400",
+  "tagline": "Expert Pool & Landscaping Services in Vistancia, Peoria, AZ",
+  "phone": "(602) 887-4400",
   "email": "brian@poolandlandscapingofvistancia.com",
   "review_count": "51",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#133d59",
-    "primary_deeper": "#0d2b3e",
-    "secondary": "#2ecc71",
-    "cta": "#f39c12",
-    "cta_dark": "#d4860a"
+    "primary": "#1B5E20",
+    "primary_dark": "#145218",
+    "primary_deeper": "#0E3E12",
+    "secondary": "#0277BD",
+    "cta": "#F57C00",
+    "cta_dark": "#E65100"
   },
   "hero": {
-    "headline": "Vistancia's Most Trusted <span class=\"text-secondary italic\">Pool & Yard Pros</span>",
-    "subheadline": "Brian Beckman and his crew keep Peoria pools crystal-clear and yards pristine -- even in 115-degree heat. 51 five-star reviews and counting because we treat every home like our own.",
+    "headline": "One Team for Your Pool <span class=\"text-secondary italic\">& Yard</span>",
+    "subheadline": "Stop juggling multiple vendors. Pool & Landscaping of Vistancia handles everything — from crystal-clear pool water to a stunning desert landscape — all under one trusted roof in Peoria, AZ.",
     "badges": [
-      "5.0 Stars -- 51 Google Reviews",
-      "BBB Accredited & Fully Insured"
+      "5.0 ★ Google Rating — 51 Reviews",
+      "BBB Accredited — A+ Rating"
     ],
     "checkmarks": [
-      "Weekly email reports after every visit",
-      "Emergency service when you need it most",
-      "Owner-operated with hands-on care"
+      "One company for pool AND landscaping",
+      "Owner-operated with hands-on accountability",
+      "Specialized in Arizona desert environments"
     ],
-    "cta_text": "Get Your Free First Visit"
+    "cta_text": "Get Your Free Property Assessment"
   },
   "stats": {
     "stat_1_value": "5.0",
-    "stat_1_label": "Google Star Rating",
+    "stat_1_label": "Perfect Google Rating",
     "stat_2_value": "51",
-    "stat_2_label": "5-Star Reviews",
+    "stat_2_label": "Five-Star Reviews",
     "stat_3_value": "3",
     "stat_3_label": "Years Serving Vistancia",
     "stat_4_value": "100%",
     "stat_4_label": "Satisfaction Guaranteed"
   },
   "services": {
-    "headline": "Pool & Landscape Services Built for Arizona Living",
-    "subtitle": "From weekly pool care to full landscape transformations, we handle everything so you can enjoy your outdoor space worry-free.",
+    "headline": "Complete Pool & Landscaping Care",
+    "subtitle": "Everything your Vistancia property needs — from water chemistry to curb appeal — handled by one expert team.",
     "cards": [
       {
-        "icon": "💧",
         "title": "Weekly Pool Maintenance",
-        "description": "Chemical balancing, skimming, filter cleaning, and full equipment checks every week. Your pool stays swim-ready year-round, no matter the heat."
+        "description": "Crystal-clear water year-round with expert chemical balancing, skimming, brushing, filter care, and full equipment checks every visit."
       },
       {
-        "icon": "🔧",
-        "title": "Pool Repair",
-        "description": "Pumps, filters, heaters, plumbing -- Brian solves stubborn problems other companies give up on. Fast diagnosis, lasting fixes."
+        "title": "Pool Equipment Repair",
+        "description": "Fast diagnosis and repair of pumps, filters, heaters, and automation systems so your pool never skips a beat."
       },
       {
-        "icon": "🌿",
-        "title": "Weekly Landscaping Care",
-        "description": "Mowing, edging, trimming, weed removal, plant health checks, and full debris cleanup. Your yard stays HOA-ready without lifting a finger."
+        "title": "Landscaping Design & Install",
+        "description": "Arizona-appropriate landscape design and installation that transforms your property with desert-smart plants and stunning curb appeal."
       },
       {
-        "icon": "🏗️",
-        "title": "Hardscaping & Installation",
-        "description": "Patios, walkways, retaining walls, and desert-friendly plantings designed to thrive in Arizona's climate and elevate your curb appeal."
+        "title": "Weekly Yard Maintenance",
+        "description": "Mowing, edging, trimming, weed removal, plant health checks, and full debris cleanup to keep your yard looking sharp every week."
       },
       {
-        "icon": "💦",
-        "title": "Irrigation Install & Repair",
-        "description": "Sprinkler and drip system installation plus emergency repairs. We keep your landscape healthy and your water bill low."
+        "title": "Irrigation & Hardscaping",
+        "description": "Complete irrigation install and repair plus custom pavers, artificial turf, and landscape lighting for the ultimate outdoor space."
       },
       {
-        "icon": "🌳",
-        "title": "Tree Trimming",
-        "description": "Professional trimming of mesquite and other Arizona trees. We keep branches safe, healthy, and your property looking sharp."
+        "title": "Property Inspections",
+        "description": "Detailed pool and yard inspections for home buyers or existing owners — get peace of mind about every inch of your property."
       }
     ]
   },
@@ -78,110 +72,107 @@
     "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "number": "1",
-        "title": "Schedule Your Free Visit",
-        "description": "Call or fill out our form. We'll set up a complimentary first visit to walk your property and understand exactly what you need."
+        "title": "Call or Text Brian",
+        "description": "Reach out at (602) 887-4400 and tell us about your pool and landscaping needs. We respond fast — usually same day."
       },
       {
-        "number": "2",
-        "title": "Get a Straightforward Plan",
-        "description": "Brian personally reviews your pool and yard, then provides an honest recommendation and clear pricing -- no upsells, no surprises."
+        "title": "Get Your Free Assessment",
+        "description": "Brian personally visits your property to assess your pool, yard, and irrigation — then builds a custom care plan and transparent quote."
       },
       {
-        "number": "3",
-        "title": "Enjoy a Perfect Backyard",
-        "description": "We handle everything on a reliable weekly schedule and send you a detailed email after every single visit so you always know what was done."
+        "title": "Enjoy a Perfect Property",
+        "description": "Sit back while one team handles everything. Crystal-clear pool water and a beautiful yard — no vendor juggling required."
       }
     ]
   },
   "about": {
-    "label": "About Pool & Landscaping of Vistancia",
-    "headline": "Owner-Operated. Community-Focused. Built on Trust.",
-    "description": "Brian Beckman founded Pool & Landscaping of Vistancia with one goal: deliver honest, reliable service that Vistancia homeowners can count on week after week. Every visit ends with a detailed email recap, and our neighbor nomination program means your friends and neighbors can try us free. From pool chemistry to landscape design, Brian and his team bring hands-on expertise and genuine pride in every yard they touch.",
-    "badge": "Proudly Serving Vistancia Since 2023",
+    "label": "Locally Owned in Vistancia",
+    "headline": "One Company. Pool & Yard. Done Right.",
+    "description": "Founded by Brian Beckman in 2023, Pool & Landscaping of Vistancia was built to solve a simple problem: homeowners were tired of hiring one company for their pool and another for their yard — with neither delivering consistent results. Brian combined expert pool maintenance with professional landscaping under one roof, backed by responsive communication and real accountability. Every project gets hands-on owner involvement, and it shows — a perfect 5.0-star Google rating and BBB A+ accreditation prove that doing things the right way works.",
+    "badge": "BBB Accredited — A+ Rating",
     "features": [
       {
-        "title": "Email Reports After Every Visit",
-        "description": "You'll receive a detailed email recap after every single service visit, so you always know exactly what was done at your property."
+        "title": "Owner-Operated",
+        "description": "Brian is personally involved in every account — real accountability from the person who built this company."
       },
       {
-        "title": "Free First Visit -- Neighbor Nominations",
-        "description": "Our neighbor nomination program lets your friends and neighbors try us with a complimentary first visit -- no strings attached."
+        "title": "Arizona Desert Specialists",
+        "description": "We know exactly what thrives in Peoria heat — your pool and landscape get care designed for this climate."
       },
       {
-        "title": "BBB Accredited & Fully Licensed",
-        "description": "We're a BBB Accredited Business, fully licensed and insured in Arizona. Your property is always in professional, protected hands."
+        "title": "One Team, Zero Hassle",
+        "description": "One invoice, one schedule, one team for both your pool and yard — no more juggling multiple vendors."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing, No Surprises",
-    "subtitle": "Every plan is customized to your property. Call us for a free walkthrough and honest quote -- you'll know exactly what you're paying for before we start."
+    "subtitle": "Every property is different. We provide honest, upfront quotes after a free on-site assessment — no hidden fees, no pressure, just straightforward pricing for exactly what your pool and yard need."
   },
   "guarantee": {
-    "headline": "Our Promise to You",
-    "description": "If you're not completely satisfied with any service visit, we'll come back and make it right at no extra charge. Brian personally stands behind every job because his name is on the business -- and your trust matters more than anything."
+    "headline": "Our Promise to Vistancia Homeowners",
+    "description": "We stand behind every visit with a satisfaction guarantee. If something is not right after a service, call Brian directly and we will make it right — no runaround, no excuses. Our 5.0-star rating across 51 reviews exists because we treat your property like our own."
   },
   "faqs": [
     {
-      "question": "What areas do you serve?",
-      "answer": "We serve Vistancia, Peoria, Surprise, Glendale, and North Phoenix, Arizona -- primarily ZIP codes 85382 and 85383. If you're nearby, give us a call and we'll let you know."
+      "question": "Do you handle both pool AND landscaping for the same property?",
+      "answer": "Absolutely — that is exactly what makes us different. One team, one schedule, one invoice for your pool and your yard. No juggling multiple vendors or dealing with inconsistent service."
     },
     {
-      "question": "What's included in weekly pool maintenance?",
-      "answer": "Every weekly visit includes chemical testing and balancing, surface skimming, brushing, vacuuming, filter inspection and cleaning, and a full equipment check. After each visit, you'll receive a detailed email report of everything we did."
+      "question": "What areas do you serve around Vistancia?",
+      "answer": "We serve Vistancia, Peoria, Surprise, Glendale, North Phoenix, Fletcher Heights, Westwing Mountain, and surrounding Northwest Valley communities in ZIP codes 85382 and 85383."
     },
     {
-      "question": "How does the neighbor nomination program work?",
-      "answer": "If you know someone who could use our services, nominate them and they'll receive a complimentary first visit -- no strings attached. It's our way of building trust in the Vistancia community one neighbor at a time."
-    },
-    {
-      "question": "Do you handle emergency repairs?",
-      "answer": "Absolutely. If your pool equipment fails or your irrigation system has a sudden leak, call us right away. We offer emergency service availability to get things fixed fast before further damage occurs."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are set up within a week. Call Brian at (602) 887-4400 for a free property assessment and we will get you on the schedule fast."
     },
     {
       "question": "Are you licensed and insured?",
-      "answer": "Yes. Pool & Landscaping of Vistancia is fully licensed and insured in Arizona and is a BBB Accredited Business. You can trust that your property is in professional, protected hands."
+      "answer": "Yes. We are a BBB Accredited Business with an A+ rating since June 2024. We carry full insurance for your peace of mind on every pool and landscaping job."
+    },
+    {
+      "question": "What if I only need pool service or only landscaping?",
+      "answer": "No problem at all. Many clients start with one service and add the other later. We offer standalone pool maintenance and standalone landscaping — whatever your property needs."
     }
   ],
   "testimonials": [
     {
       "name": "Joe Jacobs",
-      "text": "Brian Beckman is the best pool company we have ever used in our 30 years as a pool owner. Brian is dependable and very knowledgeable.",
-      "context": "Pool Service",
+      "text": "Brian Beckman is the best pool company we have ever used in our 30 years as a pool owner. He is dependable and very knowledgeable.",
+      "context": "Pool Maintenance Client",
       "initials": "JJ"
     },
     {
-      "name": "Ken Cruickshank",
-      "text": "Brian was able to solve a stubborn problem regarding air getting into our pool system that others could not resolve. Extremely easy to work with.",
-      "context": "Pool Repair",
-      "initials": "KC"
+      "name": "Kat Israel",
+      "text": "Brian, Zack and the team have been amazing. Their integrity and professionalism are top notch. Hard working, timely, and always go above and beyond.",
+      "context": "Pool & Landscaping Client",
+      "initials": "KI"
     },
     {
-      "name": "Kat Israel",
-      "text": "Brian, Zack and the team have been amazing. They are hard working, timely, and always go above and beyond. Their integrity and professionalism are top notch.",
-      "context": "Landscaping & Tree Service",
-      "initials": "KI"
+      "name": "Travis Allen",
+      "text": "Brian and his team did an amazing job cleaning up the front yard. Friendly and professional, everything looks fantastic.",
+      "context": "Landscaping Cleanup Client",
+      "initials": "TA"
     }
   ],
   "contact": {
-    "headline": "Ready for a Backyard You'll Love?",
-    "subtitle": "Reach out today for a free property walkthrough. No pressure, no upsells -- just an honest plan to keep your pool and yard looking their best.",
+    "headline": "Ready for a Hassle-Free Property?",
+    "subtitle": "Get a free assessment from Brian and see why 51 homeowners gave us a perfect 5-star rating.",
     "benefits": [
-      "Free first visit -- no obligation",
-      "Same-week scheduling available",
-      "Detailed email recap after every service"
+      "Free on-site property assessment",
+      "Same-day response from Brian personally",
+      "No obligation, no pressure — just honest advice"
     ]
   },
   "footer": {
-    "description": "Pool & Landscaping of Vistancia delivers honest, reliable pool and landscaping services to homeowners across the Vistancia community and greater Peoria area. Owner-operated by Brian Beckman.",
-    "service_area": "Proudly serving Vistancia, Peoria, Surprise, Glendale, and North Phoenix, AZ",
+    "description": "Pool & Landscaping of Vistancia delivers expert pool maintenance and professional landscaping to homeowners across Peoria and the Northwest Valley. One team, one standard of excellence.",
+    "service_area": "Proudly serving Vistancia, Peoria, Surprise, Glendale, North Phoenix, Fletcher Heights, Westwing Mountain, and surrounding communities.",
     "service_links": [
       "Weekly Pool Maintenance",
-      "Pool Repair",
-      "Landscaping Maintenance",
-      "Hardscaping & Installation",
-      "Irrigation Install & Repair"
+      "Pool Equipment Repair",
+      "Landscaping Design & Install",
+      "Weekly Yard Maintenance",
+      "Irrigation & Hardscaping"
     ],
     "copyright": "Pool & Landscaping of Vistancia"
   }

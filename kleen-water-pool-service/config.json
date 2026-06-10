@@ -1,0 +1,183 @@
+{
+  "folder_name": "kleen-water-pool-service",
+  "company_name": "Kleen Water Pool Service",
+  "tagline": "We skim so you can swim.",
+  "phone": "+1 469-947-7501",
+  "email": "cameron@kleenwaterpoolservice.com",
+  "review_count": "15",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E40AF",
+    "primary_dark": "#162e7a",
+    "primary_deeper": "#0f1f52",
+    "secondary": "#0EA5E9",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "CPO-Certified & Fully Insured",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "Locally Owned in Collin County"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "20+ Years Combined Experience",
+    "headline": "Pool Care Built on <span class=\"text-secondary italic\">20 Years<br>of Expertise</span>",
+    "subheadline": "Your pool deserves more than a cookie-cutter service. Kleen Water Pool Service brings over 20 years of combined industry experience to every backyard in McKinney, Celina, and Prosper — with customized care plans designed around your pool's unique needs.",
+    "cta_text": "Get Your Custom Pool Plan",
+    "checkmarks": [
+      "Free pool evaluation",
+      "CPO-certified technicians",
+      "Customized care plans"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "15",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "20",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Serviced in Collin County",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Perfect Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Expert Pool Care Tailored<br class=\"hidden md:block\"> to Your Backyard",
+    "subtitle": "Every pool is different. That's why we build a custom maintenance plan around yours — so you spend less time worrying about chemistry and more time making memories poolside.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Complete skimming, brushing, vacuuming, and debris removal every week. Our CPO-certified techs keep your pool crystal clear so you never have to think about it."
+      },
+      {
+        "title": "Pool Maintenance",
+        "description": "Precise chemical balancing, equipment inspections, and routine upkeep tailored to your pool. Hassle-free care designed for busy Collin County families."
+      },
+      {
+        "title": "Equipment Repairs",
+        "description": "Pumps, motors, filters, and salt systems — we diagnose and fix equipment issues for all major brands. Most repairs completed on the first visit."
+      },
+      {
+        "title": "Pool Repairs",
+        "description": "From leak detection to pump replacements, we handle emergency and scheduled repairs with fast response times to get your pool back up and running."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Resurfacing, tile repair, equipment upgrades, and complete pool makeovers. Transform your backyard into the Collin County oasis you've been dreaming of."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precision chemical balancing that keeps water safe, sparkling, and gentle on skin. No red eyes, no guesswork — just perfectly balanced pool water every visit."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Easy Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out our form. We'll learn about your pool's setup, your concerns, and your goals — then provide an honest quote with zero pressure."
+      },
+      {
+        "title": "We Build Your Custom Plan",
+        "description": "Our CPO-certified technicians create a maintenance plan tailored to your pool's unique needs — because no two pools are the same. We arrive on schedule, every time."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays swim-ready all season long. We handle the hard work so you can do what pools are meant for — making memories with family and friends."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Collin County Trusts Kleen Water",
+    "headline": "20+ Years of Pool Expertise, Now Serving Your Neighborhood",
+    "description": "Kleen Water Pool Service was built on a simple belief: pool owners deserve technicians who actually know what they're doing. With leadership backgrounds from Leslie's Poolmart and Prestige Pool and Patio, our team brings over 20 years of hands-on industry experience to every job. We're CPO-certified, fully insured, and locally owned right here in Collin County. Every swimming pool is unique, and we treat yours that way — with a customized care plan and the kind of personal attention you only get from a local team that takes pride in their work.",
+    "badge": "CPO-Certified Technicians",
+    "features": [
+      {
+        "title": "Industry-Trained Professionals",
+        "description": "Our team's backgrounds include leadership roles at Leslie's Poolmart and Prestige Pool and Patio — real expertise, not just a guy with a net."
+      },
+      {
+        "title": "Customized Pool Care Plans",
+        "description": "No two pools are alike. We evaluate your pool's specific conditions, equipment, and usage to build a maintenance plan that fits perfectly."
+      },
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We live and work in Collin County. Your pool isn't just another stop on our route — it's our neighbor's pool, and we treat it that way."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Clear Pricing. No Surprises.",
+    "subtitle": "Every pool is unique, so every quote is customized. Tell us about yours and we'll give you an honest price — no hidden fees, no upsells."
+  },
+  "guarantee": {
+    "headline": "Our \"Kleen Water\" Guarantee",
+    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no extra charge. We've spent 20+ years building our reputation in the pool industry, and we put that reputation behind every single visit. Your pool will be clean, balanced, and swim-ready — or we're not done."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in McKinney, Celina, and Prosper are scheduled within 3-5 business days. For urgent issues, we do our best to respond same-day or next-day. Give us a call and we'll find a time that works."
+    },
+    {
+      "question": "What makes Kleen Water different from other pool services?",
+      "answer": "Our team brings over 20 years of combined experience from industry leaders like Leslie's Poolmart and Prestige Pool and Patio. We're CPO-certified, fully insured, and we customize every maintenance plan to your pool's specific needs — no one-size-fits-all service here."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our Collin County clients provide gate access and we handle everything while you're away. You'll know exactly what was done after each visit so there are never any surprises."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve McKinney, Celina, Prosper, and surrounding communities throughout Collin County, Texas. If you're in the area and not sure if we cover your neighborhood, just give us a call — we're happy to check."
+    },
+    {
+      "question": "Are your technicians certified and insured?",
+      "answer": "Absolutely. Every technician on our team is CPO-certified (Certified Pool Operator) and we carry full liability insurance. We're also a BBB-listed business. Your pool and your property are in safe, qualified hands."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Nextdoor Neighbor",
+      "context": "Nextdoor Review",
+      "initials": "NN",
+      "text": "Kleen Water Pool Service is reliable, honest, and provides excellent service. If you're looking for dependable pool service, give them a call."
+    },
+    {
+      "name": "Verified Neighbor",
+      "context": "Nextdoor Review",
+      "initials": "VN",
+      "text": "Kleen Water Pool Service is a great and dependable company! I highly recommend them for all your pool needs!"
+    },
+    {
+      "name": "Local Homeowner",
+      "context": "Nextdoor Verified Feedback",
+      "initials": "LH",
+      "text": "This pool cleaner and pool repair service is reliable, professional, and consistently leaves pools sparkling, making it a strong contender for all your pool needs."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Enjoy Your Pool<br>Without the Work?",
+    "subtitle": "Get a free, no-pressure quote from Collin County's CPO-certified pool experts. We respond within 24 hours and customize every plan to your pool.",
+    "benefits": [
+      "Free pool evaluation with every quote",
+      "Response within 24 hours",
+      "CPO-certified, fully insured team"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. CPO-certified experts serving Collin County, Texas.",
+    "service_area": "Serving McKinney, Celina, Prosper & Collin County, TX",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Pool Maintenance",
+      "Equipment Repairs",
+      "Pool Renovations",
+      "Water Chemistry"
+    ],
+    "copyright": "&copy; 2024 Kleen Water Pool Service. All rights reserved. McKinney, TX. CPO-Certified & Fully Insured."
+  }
+}

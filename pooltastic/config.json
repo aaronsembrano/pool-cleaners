@@ -1,10 +1,11 @@
 {
   "folder_name": "pooltastic",
   "company_name": "Pooltastic, LLC",
-  "tagline": "Locally Owned and Operated Swimming Pool Service",
+  "tagline": "Pool Service, Cleaning, Equipment Repair and Installation",
   "phone": "(210) 538-9690",
-  "email": "service@pooltastic.net",
-  "review_count": "27",
+  "email": "jason@pooltastic.net",
+  "logo_path": "logo.png",
+  "review_count": "23",
   "review_rating": "4.7",
   "colors": {
     "primary": "#0077B6",
@@ -12,23 +13,23 @@
     "primary_deeper": "#003D5E",
     "secondary": "#00B4D8",
     "cta": "#F77F00",
-    "cta_dark": "#D96C00"
+    "cta_dark": "#D96B00"
   },
   "trust_badges": {
-    "badge_1": "TX Licensed — TICL 476",
-    "badge_2": "4.7/5 from 27+ Reviews",
-    "badge_3": "Family Owned Since 2011"
+    "badge_1": "TICL 476 Licensed",
+    "badge_2": "4.7/5 from 23+ Reviews",
+    "badge_3": "Locally Owned Since 2011"
   },
   "hero": {
-    "badge_1": "4.7/5 from 27+ Google Reviews",
-    "badge_2": "TX Licensed — TICL 476",
-    "headline": "Honest Pool Care That <span class=\"text-secondary italic\">Saves You<br>Money</span>",
-    "subheadline": "Other companies replace parts you don't need. Pooltastic diagnoses the real problem and fixes it right the first time — saving San Antonio families thousands. Jason and Stephanie treat every pool like their own.",
-    "cta_text": "Get My Honest Quote",
+    "badge_1": "4.7/5 from 23+ Google Reviews",
+    "badge_2": "Honest Diagnostics, Real Savings",
+    "headline": "San Antonio Pool Care <span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Stop overpaying for repairs you don't need. Pooltastic has spent 15 years earning San Antonio's trust with honest diagnostics, expert service, and crews who treat your pool like their own. You relax -- we handle the rest.",
+    "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
-      "Free pool inspection",
-      "Repairs over replacements",
-      "No contracts ever"
+      "Free honest equipment assessment",
+      "Same-week service available",
+      "No unnecessary replacements"
     ]
   },
   "stats": {
@@ -36,39 +37,39 @@
     "stat_1_label": "Pools Maintained",
     "stat_2_value": "15",
     "stat_2_label": "Years in San Antonio",
-    "stat_3_value": "1000",
-    "stat_3_label": "Repairs Completed",
-    "stat_4_value": "4.7",
+    "stat_3_value": "9",
+    "stat_3_label": "Communities Served",
+    "stat_4_value": "4.7★",
     "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From a Team<br class=\"hidden md:block\"> That Actually Cares",
-    "subtitle": "From weekly cleaning to emergency repairs, Jason and Stephanie handle every detail so you can enjoy your backyard without the worry.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> a Team You Can Trust",
+    "subtitle": "From weekly cleaning to complex equipment repairs, Pooltastic handles every aspect of pool ownership so you can enjoy your backyard without the headaches.",
     "cards": [
       {
         "title": "Weekly Pool Cleaning",
-        "description": "Skimming, brushing, vacuuming, and precise chemical balancing every single week. Your pool stays swim-ready so you never have to think twice."
-      },
-      {
-        "title": "Scheduled Maintenance",
-        "description": "Custom preventive maintenance programs that catch small issues before they become expensive problems. We protect your investment season after season."
+        "description": "Thorough skimming, vacuuming, brushing, and chemical balancing every week. Your pool stays crystal clear and swim-ready without you lifting a finger."
       },
       {
         "title": "Equipment Repair",
-        "description": "Honest diagnosis of pumps, filters, heaters, and automation systems. We fix the actual problem — not upsell parts you don't need."
+        "description": "Pumps, filters, heaters, lights, and cleaners -- we diagnose honestly and fix it right. We find the real problem so you don't pay for parts you don't need."
       },
       {
         "title": "Equipment Installation",
-        "description": "Professional installation of pumps, filters, heaters, lighting, and automation. Quality workmanship from a team with 15+ years of hands-on experience."
+        "description": "Professional installation of pumps, filters, lighting, and automation systems. TICL licensed for all electrical pool work in Texas."
       },
       {
-        "title": "Water Chemistry Management",
-        "description": "Precision chemical balancing that keeps your water crystal clear, safe, and gentle on skin and eyes. No guesswork, just science."
+        "title": "Scheduled Maintenance",
+        "description": "Custom maintenance programs that keep equipment running efficiently and water chemistry perfectly balanced season after season."
       },
       {
-        "title": "Seasonal Pool Care",
-        "description": "Spring openings, winterization, and storm recovery services tailored to the Texas Hill Country climate. Your pool stays protected year-round."
+        "title": "Pool Light Service",
+        "description": "Expert pool light repair and replacement by TICL-licensed technicians. Safe, code-compliant electrical work you can count on."
+      },
+      {
+        "title": "Emergency Repairs",
+        "description": "Storm damage, freeze damage, or sudden equipment failure -- call Pooltastic for fast, reliable emergency pool repair across the San Antonio area."
       }
     ]
   },
@@ -76,108 +77,108 @@
     "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Call or Text Us",
-        "description": "Reach Jason or Stephanie directly. We'll ask a few questions about your pool, give you an honest assessment, and schedule a convenient time — usually within days."
+        "title": "Call or Message Us",
+        "description": "Tell us about your pool and what you need. Stephanie will get back to you quickly with honest answers and a no-pressure quote -- no upselling, ever."
       },
       {
-        "title": "We Diagnose & Fix It Right",
-        "description": "Our licensed technicians arrive on schedule, identify the real issue, and fix it properly the first time. No unnecessary replacements, no inflated bills."
+        "title": "We Diagnose & Deliver",
+        "description": "Our experienced technicians arrive on schedule, assess your pool honestly, and handle everything from cleaning to complex repairs. No unnecessary replacements."
       },
       {
-        "title": "Enjoy Your Pool Again",
-        "description": "Your pool stays clean, safe, and equipment runs like new. And if anything ever feels off, one call to Stephanie and we make it right — that's our word."
+        "title": "Enjoy Your Pool",
+        "description": "Your pool stays clean, your equipment runs right, and you keep more money in your pocket. That's the Pooltastic difference -- honest service that saves you money."
       }
     ]
   },
   "about": {
-    "label": "Why San Antonio Trusts Us",
-    "headline": "We're Jason & Stephanie — Your Neighbors, Not a Faceless Company",
-    "description": "Since 2011, Pooltastic has been the pool service San Antonio families call when they want the truth — not a sales pitch. Jason diagnoses the real problem and fixes it right. Stephanie makes sure you're informed every step of the way. Together, they've built a reputation on honesty, saving customers thousands by repairing what others would replace. Licensed by the State of Texas (TICL 476) and serving communities across the Hill Country.",
-    "badge": "TX Licensed TICL 476",
+    "label": "Why San Antonio Trusts Pooltastic",
+    "headline": "Honest Diagnostics That Save You Real Money",
+    "description": "Founded in 2011 by Jason, Pooltastic has spent over 15 years building a reputation on one simple principle: tell the truth. While other companies push expensive replacements, we find the actual problem -- whether it's a $20 wiring fix or a loose connection after a storm. Our team serves San Antonio, Boerne, Bulverde, Canyon Lake, and 5 more surrounding communities with the same care we'd give our own pools.",
+    "badge": "TICL 476 Licensed",
     "features": [
       {
-        "title": "Honest Diagnoses, Real Savings",
-        "description": "We find the actual problem and fix it. Other companies replace entire pumps for a wiring issue — we won't. That's saved our customers thousands."
+        "title": "Honest Diagnostics, Real Savings",
+        "description": "We identify the actual issue before recommending repairs. Our customers routinely save thousands because we fix what's broken -- not replace what isn't."
       },
       {
-        "title": "No Contracts. Ever.",
-        "description": "We earn your trust every single visit. No long-term lock-ins, no cancellation fees, no pressure. Just great pool care, plain and simple."
+        "title": "Locally Owned Since 2011",
+        "description": "Jason and Stephanie run this business personally. You're not a ticket number -- you're a neighbor. Every call gets answered, every concern gets addressed."
       },
       {
-        "title": "Direct Access to Owners",
-        "description": "When you call Pooltastic, you get Jason or Stephanie — not a call center. Real people who know your pool and genuinely care about getting it right."
+        "title": "Licensed for Electrical Work",
+        "description": "TICL 476 licensed and regulated by the Texas Department of Licensing and Regulation. Pool lights, wiring, and electrical repairs done safely and to code."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Surprises.",
-    "subtitle": "Pick the plan that fits your pool. Change or cancel anytime — no contracts, no penalties, no fine print."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Get a clear quote upfront. We tell you exactly what needs fixing and what it costs -- no hidden fees, no padded invoices."
   },
   "guarantee": {
-    "headline": "Our \"Fix It Right\" Guarantee",
-    "description": "If you're not completely satisfied with any service visit, call Stephanie and we'll come back and make it right at no extra charge. We've built our reputation on doing right by our neighbors — and we plan to keep it that way."
+    "headline": "Our \"Honest Service\" Guarantee",
+    "description": "We will never recommend a replacement when a repair will do. If we diagnose your equipment, we'll explain exactly what's wrong and give you options -- not pressure. If you're not satisfied with any service, we'll make it right. That's the Pooltastic promise, backed by 15 years of doing business the right way."
   },
   "faqs": [
     {
-      "question": "How fast can you start servicing my pool?",
-      "answer": "Most new customers are on the schedule within 3-5 days. For urgent issues like a broken pump or green pool, we often respond same-day or next-day. Just call or text (210) 538-9690."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new customers are on the schedule within a few days. Call or text Stephanie and she'll find a day that works for your area -- we serve San Antonio plus 8 surrounding communities."
     },
     {
-      "question": "Do I need to be home when you come?",
-      "answer": "Not at all. Most of our San Antonio customers give us gate access and go about their day. We'll send you a summary after every visit so you always know exactly what was done."
+      "question": "Will you try to upsell me on equipment I don't need?",
+      "answer": "Never. That's our whole thing. We diagnose honestly and tell you exactly what's wrong. If it's a $20 fix, we'll tell you it's a $20 fix -- even if selling you a new pump would make us more money."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. Pooltastic holds Texas License TICL 476 and is regulated by the Texas Department of Licensing and Regulation. We carry full liability coverage for your peace of mind."
-    },
-    {
-      "question": "Will you try to sell me equipment I don't need?",
-      "answer": "Absolutely not. Honest diagnosis is our biggest differentiator. We've saved customers thousands by finding the real issue — like a simple wiring fix instead of a full pump replacement. We only recommend what you actually need."
+      "question": "Are you licensed for electrical pool work?",
+      "answer": "Yes. Pooltastic holds a TICL 476 license and is regulated by the Texas Department of Licensing and Regulation. All pool electrical work -- lights, wiring, connections -- is done safely and to code."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve San Antonio, Boerne, Bulverde, Canyon Lake, Fair Oaks, La Vernia, New Braunfels, Seguin, and Spring Branch — covering the greater Hill Country region."
+      "answer": "We serve San Antonio, Boerne, Bulverde, Canyon Lake, Fair Oaks, La Vernia, New Braunfels, Seguin, and Spring Branch. If you're in the greater San Antonio area, chances are we cover you."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most customers provide gate access and we handle everything while you're away. You'll always know what was done and how your pool looks after each visit."
     }
   ],
   "testimonials": [
     {
       "name": "Kirsten F.",
-      "context": "Pump repair diagnosis",
-      "initials": "KF",
-      "text": "After storms, our pump quit working. Another company said to replace the entire pump. Pooltastic found it was a wiring issue, saving us thousands of dollars. Jason and Stephanie are fantastic to work with."
+      "text": "Saved us thousands of dollars! Jason and Stephanie are AMAZING! They found a simple wiring issue after storms when another company wanted to replace our entire pump. Honest people who actually care.",
+      "context": "Equipment repair customer",
+      "initials": "KF"
     },
     {
       "name": "Benjamin B.",
-      "context": "Multiple repairs & maintenance",
-      "initials": "BB",
-      "text": "Stephanie and Jason exceed expectations every time. They repaired damaged equipment after a winter freeze when parts were unavailable and replaced our pool cleaner pump. They even resolved a pool light issue before July 4th."
+      "text": "Stephanie and Jason are the best duo when it comes to taking care of pools. They've handled freeze damage, pump replacements, and even got our pool light fixed before July 4th. Always reliable.",
+      "context": "Long-term service customer",
+      "initials": "BB"
     },
     {
       "name": "Larry D.",
-      "context": "Pool troubleshooting",
-      "initials": "LD",
-      "text": "Called with a problem and Stephanie texted back and walked me through solutions professionally. She even declined payment despite saving me money. Outstanding service."
+      "text": "Stephanie walked me through fixing a pool issue over the phone -- at no charge. She was so kind and professional that I will never call another pool repair company. Pooltastic has a customer for life.",
+      "context": "Emergency phone support",
+      "initials": "LD"
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Care You Can<br>Actually Trust?",
-    "subtitle": "Get a free, honest quote from Jason and Stephanie. No pressure, no contracts — just straightforward pricing from a family that's served San Antonio for 15 years.",
+    "headline": "Ready for Honest<br>Pool Service?",
+    "subtitle": "Get a free, no-pressure quote from a team that's been doing it right in San Antonio since 2011. No contracts, no upselling -- just straight talk and great pool care.",
     "benefits": [
-      "Free pool inspection with every quote",
-      "Response within 24 hours — often same day",
-      "Zero contracts, cancel anytime"
+      "Free honest equipment assessment",
+      "Response within 24 hours",
+      "No unnecessary replacements -- guaranteed"
     ]
   },
   "footer": {
-    "description": "Family-owned pool service. Proudly serving San Antonio and the Texas Hill Country since 2011.",
-    "service_area": "Serving San Antonio, Boerne, Bulverde, Canyon Lake & the Hill Country",
+    "description": "Locally owned pool service. Serving San Antonio and surrounding communities since 2011.",
+    "service_area": "Serving San Antonio, Boerne, Bulverde, Canyon Lake, Fair Oaks, La Vernia, New Braunfels, Seguin & Spring Branch",
     "services": [
       "Weekly Cleaning",
-      "Scheduled Maintenance",
       "Equipment Repair",
       "Equipment Installation",
-      "Water Chemistry"
+      "Scheduled Maintenance",
+      "Pool Light Service"
     ],
-    "copyright": "&copy; 2024 Pooltastic, LLC. All rights reserved. Texas License TICL 476"
+    "copyright": "&copy; 2024 Pooltastic, LLC. All rights reserved. TICL 476 Licensed."
   }
 }

@@ -3,33 +3,31 @@
   "company_name": "Prewett, Read & Associates",
   "tagline": "Bringing Life to Design",
   "phone": "+1 713-468-4313",
-  "email": "tom@prewettread.com",
+  "email": "info@prewettread.com",
   "logo_path": "logo.png",
-  "review_count": "10",
-  "review_rating": "3.4",
   "colors": {
-    "primary": "#2E5A1C",
-    "primary_dark": "#1E3D12",
-    "primary_deeper": "#12280B",
-    "secondary": "#D4A853",
-    "cta": "#C17525",
-    "cta_dark": "#A5621B"
+    "primary": "#4A6741",
+    "primary_dark": "#364D30",
+    "primary_deeper": "#253621",
+    "secondary": "#C4A265",
+    "cta": "#C4A265",
+    "cta_dark": "#A88B50"
   },
   "trust_badges": {
     "badge_1": "Licensed Landscape Architects",
     "badge_2": "BBB A+ Rated Since 2001",
-    "badge_3": "TCEQ Licensed Irrigation"
+    "badge_3": "Serving Houston Since 1998"
   },
   "hero": {
-    "badge_1": "Licensed Landscape Architects | 28 Years in Houston",
-    "badge_2": "BBB A+ Rated Since 2001",
-    "headline": "Your Outdoor Vision, <span class=\"text-secondary italic\">Expertly<br>Brought to Life</span>",
-    "subheadline": "For 28 years, Houston homeowners have trusted our licensed landscape architects to design, build, and maintain extraordinary outdoor living spaces. From custom pools and outdoor kitchens to lush landscaping and year-round maintenance, Prewett, Read & Associates handles every detail so you can simply enjoy the result.",
+    "badge_1": "BBB A+ Rated Since 2001",
+    "badge_2": "28 Years in Houston",
+    "headline": "Your Backyard Vision, <span class=\"text-secondary italic\">Brought<br>to Life</span>",
+    "subheadline": "Your outdoor space should feel like a retreat, not a project. For over 28 years, our licensed landscape architects have designed and built Houston's finest pools, outdoor kitchens, and landscapes -- managing every detail from concept to completion so you can simply enjoy the result.",
     "cta_text": "Start Your Design Consultation",
     "checkmarks": [
       "Free design consultation",
-      "Full-service design-build-maintain",
-      "Licensed & insured since 1998"
+      "Full design-build service",
+      "Licensed landscape architects"
     ]
   },
   "stats": {
@@ -37,148 +35,150 @@
     "stat_1_label": "Projects Completed",
     "stat_2_value": "28",
     "stat_2_label": "Years in Houston",
-    "stat_3_value": "3",
-    "stat_3_label": "Specialized Departments",
+    "stat_3_value": "1998",
+    "stat_3_label": "Established",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\">From Design to Maintenance",
-    "subtitle": "Three specialized departments under one roof means your project flows seamlessly from concept to completion to ongoing care. No juggling contractors, no miscommunication.",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\">Design & Construction",
+    "subtitle": "From custom pools to full landscape transformations, our licensed architects and skilled craftsmen handle every phase of your project with precision and artistry.",
     "cards": [
       {
-        "title": "Landscape Architecture",
-        "description": "Custom designs by registered, licensed landscape architects who craft personalized outdoor spaces with 3D renderings and detailed site plans tailored to your vision."
+        "title": "Custom Pool & Spa Design",
+        "description": "Swimming pools and hot tubs designed by licensed landscape architects and seamlessly integrated into your overall outdoor living plan."
       },
       {
-        "title": "Swimming Pools & Spas",
-        "description": "Full-service pool and spa design and construction, creating custom aquatic features that integrate seamlessly with your overall landscape architecture."
+        "title": "Landscape Architecture",
+        "description": "Comprehensive landscape design led by registered professionals who create custom plans tailored to your vision, property, and Houston's unique climate."
       },
       {
         "title": "Outdoor Kitchens & Living",
-        "description": "Custom cooking and entertaining areas designed to extend your home into the backyard. Built for Houston weather and built to last."
+        "description": "Custom outdoor kitchen spaces and living areas designed for entertaining, from built-in grills and bars to full pavilion setups."
       },
       {
-        "title": "Landscape Maintenance",
-        "description": "Certified crews providing ongoing horticultural care including pruning, feeding, seasonal color, and preventative maintenance to preserve your investment."
+        "title": "Water Features & Lighting",
+        "description": "Fountains, ponds, and decorative water elements paired with professional landscape lighting to extend your outdoor enjoyment into the evening."
       },
       {
-        "title": "Irrigation & Drainage",
-        "description": "TCEQ-licensed irrigation design and installation (License #LI18583) plus drainage solutions engineered for Houston's challenging clay soils and rainfall."
+        "title": "Hardscape & Construction",
+        "description": "Patios, walkways, retaining walls, pergolas, custom iron work, and fencing -- all built by our experienced craftsmen to the highest standards."
       },
       {
-        "title": "Hardscapes & Structures",
-        "description": "Pergolas, arbors, custom iron work, fencing, and stone features that provide shade, privacy, and architectural character to your outdoor spaces."
+        "title": "Maintenance & Seasonal Color",
+        "description": "Certified maintenance teams and seasonal planting programs that keep your landscape vibrant and your investment protected year-round."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Outdoor Space",
+    "headline": "From Vision to Reality in Three Steps",
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "Schedule a consultation with one of our founding landscape architects. We'll walk your property, discuss your goals, and explore possibilities you may not have considered."
+        "description": "Meet with our licensed landscape architects for a complimentary consultation. We listen to your ideas, assess your property, and discuss possibilities for your outdoor space."
       },
       {
-        "title": "We Design & Build It",
-        "description": "Our Design department creates detailed plans and 3D renderings. Once approved, our Installation team brings it to life under the direct oversight of our experienced project managers."
+        "title": "We Design & Build",
+        "description": "Our team creates a custom plan, manages every contractor, and oversees construction from groundbreaking to final planting. One firm, one point of contact, zero stress."
       },
       {
-        "title": "Enjoy & We Maintain",
-        "description": "Your outdoor living space is complete and stunning. Our Maintenance department keeps it that way year-round with certified horticultural care, so it only gets more beautiful over time."
+        "title": "Enjoy Your Outdoor Retreat",
+        "description": "Step into the backyard you always imagined. And with our ongoing maintenance services, it stays beautiful for years to come."
       }
     ]
   },
   "about": {
-    "label": "Why Houston Homeowners Trust Us",
-    "headline": "Two Founding Architects, One Seamless Experience",
-    "description": "Since 1998, licensed landscape architects Bill Prewett and Tom Read have led a firm built on one principle: the people who design your outdoor space should also build it and care for it. Our three specialized departments — Design, Installation, and Maintenance — work as one team, ensuring nothing falls through the cracks. Every project gets direct owner involvement, transparent communication, and the meticulous attention to detail that has earned us an A+ BBB rating for over two decades.",
-    "badge": "Licensed Landscape Architects",
+    "label": "Why Houston Homeowners Choose Us",
+    "headline": "Licensed Architects, Not Just Contractors",
+    "description": "Founded in 1998, Prewett, Read & Associates is led by registered, licensed landscape architects who bring the same personalized attention to every project. Our team of designers, project managers, and skilled craftsmen manages every detail of the design-build process -- so your outdoor space is not just built, but thoughtfully designed from the ground up.",
+    "badge": "ASLA Member",
     "features": [
       {
-        "title": "Owner-Led, Hands-On Approach",
-        "description": "Bill and Tom remain personally involved in every project. You work directly with the principals, not a sales team."
+        "title": "Registered Landscape Architects",
+        "description": "Led by licensed professionals, not just contractors. Our principals are directly involved in every project from concept to completion."
       },
       {
-        "title": "One Firm, Three Departments",
-        "description": "Design, Installation, and Maintenance under one roof. No juggling contractors, no finger-pointing, no gaps."
+        "title": "Full Design-Build Service",
+        "description": "One firm handles design, construction, irrigation, lighting, and maintenance. No juggling multiple contractors or conflicting timelines."
       },
       {
         "title": "28 Years of Houston Expertise",
-        "description": "We understand Houston's soils, climate, and drainage challenges intimately. Your landscape is designed to thrive here."
+        "description": "Since 1998, we have built a reputation for quality and reliability. Our long-term client relationships speak to the trust we have earned."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project is custom, so we provide detailed proposals upfront. No hidden fees, no change-order surprises."
+    "headline": "Transparent Pricing. Exceptional Value.",
+    "subtitle": "Every project is unique. We provide detailed proposals so you know exactly what to expect -- no hidden fees, no surprises."
   },
   "guarantee": {
-    "headline": "Our \"Design Integrity\" Guarantee",
-    "description": "If any element of our work does not meet the standards presented in your approved design, we will correct it at no additional cost. We stake our reputation on delivering exactly what we promise — and we have been doing so for 28 years."
+    "headline": "Our \"Built to Last\" Promise",
+    "description": "Every project we deliver is backed by our commitment to quality craftsmanship and client satisfaction. If any element of our work does not meet the standards we set together, we will make it right. That is the promise we have kept since 1998."
   },
   "faqs": [
     {
       "question": "How does the design-build process work?",
-      "answer": "It starts with a consultation where we walk your property and discuss your vision. Our architects create detailed plans and 3D renderings for your approval. Once the design is finalized, our installation team builds it under direct project management. The entire process is handled in-house for seamless execution."
+      "answer": "It starts with a complimentary consultation where we discuss your vision and assess your property. From there, our architects create a detailed design plan. Once approved, our construction team handles every phase -- permits, grading, plumbing, hardscape, planting -- with a single project manager as your point of contact throughout."
     },
     {
-      "question": "Do you handle pool design and construction?",
-      "answer": "Absolutely. We design and build custom swimming pools, spas, and water features as part of our comprehensive landscape architecture services. Because we handle the entire outdoor space, your pool integrates perfectly with landscaping, drainage, hardscapes, and lighting."
-    },
-    {
-      "question": "Can you maintain the landscape after installation?",
-      "answer": "Yes, and we highly recommend it. Our Maintenance department has certified crews trained specifically in horticultural care. They understand the design intent behind your landscape and maintain it to preserve that vision year-round — pruning, feeding, seasonal color, and more."
+      "question": "Do I need a landscape architect for my project?",
+      "answer": "For projects involving pools, significant grading, drainage, or multiple outdoor elements, a licensed landscape architect ensures everything works together structurally and aesthetically. Our designs account for drainage, irrigation, and long-term plant health -- details that save you costly fixes down the road."
     },
     {
       "question": "How long does a typical project take?",
-      "answer": "Timeline depends on scope. A landscape redesign may take 4-8 weeks from design approval to completion. Larger projects involving pools, structures, and full-property renovations typically run 3-6 months. We provide a detailed timeline in every proposal and keep you updated throughout."
+      "answer": "Timelines vary by scope. A pool and landscape project typically runs 8-16 weeks from design approval to completion. We provide a detailed timeline during the proposal phase so you know what to expect at every stage."
     },
     {
-      "question": "What areas of Houston do you serve?",
-      "answer": "We serve Houston, Bellaire, Katy, Spring, and surrounding communities throughout the greater Houston metro area. Our team has deep experience with the specific soil conditions, drainage challenges, and climate considerations across the region."
+      "question": "Do you handle permits and inspections?",
+      "answer": "Absolutely. We manage all permits, inspections, and regulatory requirements. Our TCEQ-licensed irrigation team and certified professionals ensure everything meets or exceeds local codes."
+    },
+    {
+      "question": "Do you offer ongoing maintenance after the project is complete?",
+      "answer": "Yes. Our certified maintenance team provides ongoing landscape care, seasonal color programs, and irrigation management. Many of our clients have been with us for over a decade because we protect the investment we helped them build."
     }
   ],
   "testimonials": [
     {
       "name": "Jack & Karen L.",
-      "text": "We love the way our landscape looks — people have actually stopped us in the front yard numerous times to compliment it. Prewett, Read delivered beyond what we imagined.",
+      "text": "We have worked with Bill and the Prewett, Read team on multiple projects that have met all our needs and desires. Their attention to detail and professionalism is unmatched.",
       "context": "Multiple landscape projects",
       "initials": "JK"
     },
     {
       "name": "Myra P.",
-      "text": "I really can't say enough positive comments about Prewett, Read & Associates. They handled our pool, water feature, landscaping, hardscaping, and drainage across multiple phases flawlessly.",
-      "context": "Pool, water features, and landscaping",
+      "text": "Bill Prewett is a customer's dream contractor. If anything came up, small or large, he took care of it quickly. The pool, landscaping, and hardscaping all turned out beautifully.",
+      "context": "Pool, landscaping & hardscaping",
       "initials": "MP"
     },
     {
       "name": "Sandy & John N.",
-      "text": "Bill was hands-on with the project and kept us updated with everything that was scheduled. All of the contractors he lined up were great. The result exceeded our expectations.",
-      "context": "Landscape design, pool, and maintenance",
+      "text": "All of the contractors he lined up and anyone we came in contact with over the course of the project were great. Our backyard is now the retreat we always wanted.",
+      "context": "Pool design & landscape installation",
       "initials": "SJ"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform Your<br>Outdoor Living Space?",
-    "subtitle": "Schedule a free design consultation with one of our founding landscape architects. We'll walk your property, discuss your vision, and show you what's possible.",
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Schedule a complimentary design consultation with our licensed landscape architects. We will listen to your vision and show you what is possible.",
     "benefits": [
-      "Free on-site design consultation",
+      "Complimentary design consultation",
       "Detailed proposal within one week",
-      "28 years of Houston expertise"
+      "One firm from concept to completion"
     ]
   },
   "footer": {
-    "description": "Licensed landscape architects serving Houston since 1998. Design. Build. Maintain.",
-    "service_area": "Serving Houston, Bellaire, Katy, Spring & Surrounding Areas",
+    "description": "Licensed landscape architects serving Houston since 1998. Design-build excellence for pools, outdoor living, and landscapes.",
+    "service_area": "Serving Greater Houston & Surrounding Areas",
     "services": [
+      "Pool & Spa Design",
       "Landscape Architecture",
-      "Swimming Pools & Spas",
       "Outdoor Kitchens",
-      "Landscape Maintenance",
-      "Irrigation & Drainage"
+      "Water Features",
+      "Maintenance"
     ],
-    "copyright": "&copy; 2024 Prewett, Read & Associates. All rights reserved. Licensed Landscape Architects, State of Texas. TCEQ License #LI18583"
-  }
+    "copyright": "&copy; 2024 Prewett, Read & Associates. All rights reserved. Licensed Landscape Architects | TCEQ LI18583"
+  },
+  "review_count": "11",
+  "review_rating": "3.4"
 }

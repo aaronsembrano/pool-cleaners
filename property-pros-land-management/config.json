@@ -1,0 +1,170 @@
+{
+  "folder_name": "property-pros-land-management",
+  "company_name": "Property Pros Land Management",
+  "tagline": "Outdoor Lifestyles",
+  "phone": "+1 317-482-3111",
+  "email": "matt.padgett@propertyproslm.com",
+  "review_count": "123",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#0c89bd",
+    "primary_dark": "#0a7199",
+    "primary_deeper": "#085a7a",
+    "secondary": "#32373c",
+    "cta": "#e8a317",
+    "cta_dark": "#c78b12"
+  },
+  "hero": {
+    "headline": "Central Indiana's Premier <span class=\"text-secondary italic\">Outdoor Living</span> Experts",
+    "subheadline": "From custom landscape design to full-service maintenance, Property Pros has transformed thousands of outdoor spaces across Central Indiana since 2010. Inc. 5000 ranked and BBB A+ rated — your property is in expert hands.",
+    "badges": [
+      "Inc. 5000 Ranked Company",
+      "BBB A+ Rating"
+    ],
+    "checkmarks": [
+      "Custom design-build for residential & commercial",
+      "Full-service maintenance year-round",
+      "16+ years transforming Central Indiana properties"
+    ],
+    "cta_button": "Get Your Free Property Consultation"
+  },
+  "stats": {
+    "stat_1_value": "16",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "123",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "5000",
+    "stat_3_label": "Inc. Ranked",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "headline": "Complete Exterior Solutions",
+    "subtitle": "From design to build to ongoing maintenance — one trusted team for every outdoor need.",
+    "cards": [
+      {
+        "title": "Landscape Design & Build",
+        "description": "Custom landscape plans and full installation that transform your property into a personalized outdoor retreat."
+      },
+      {
+        "title": "Hardscape & Patios",
+        "description": "Expert construction of patios, walkways, retaining walls, and outdoor structures that elevate your property."
+      },
+      {
+        "title": "Outdoor Kitchens & Living",
+        "description": "Design and build custom outdoor kitchen and entertainment spaces perfect for Indiana gatherings."
+      },
+      {
+        "title": "Lawn Maintenance & Mowing",
+        "description": "Reliable weekly mowing and comprehensive lawn care to keep your property looking pristine all season."
+      },
+      {
+        "title": "Fertilization & Turf Programs",
+        "description": "Seasonal treatment programs scientifically designed to keep your lawn healthy, green, and thriving."
+      },
+      {
+        "title": "Drainage & Water Solutions",
+        "description": "Expert drainage design and water feature installation to protect your property and add visual appeal."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Property Transformation in 3 Steps",
+    "steps": [
+      {
+        "title": "Schedule Your Consultation",
+        "description": "Call us or fill out our form. We'll visit your property, listen to your vision, and assess the space."
+      },
+      {
+        "title": "Receive Your Custom Plan",
+        "description": "Our design team creates a personalized proposal with detailed scope, timeline, and transparent pricing."
+      },
+      {
+        "title": "Watch Your Vision Come to Life",
+        "description": "Our professional crews execute your project with precision while you enjoy watching your outdoor space transform."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Property Pros",
+    "headline": "From Small Mulching Company to Inc. 5000 Ranked",
+    "description": "Founded in 2010 by Josh Springer, Property Pros grew from a small mulching operation into one of Central Indiana's premier outdoor design/build and landscape maintenance companies. Our personalized approach and commitment to quality earned us a spot on the 2020 Inc. 5000 list of America's fastest-growing private companies. Today, we serve residential and commercial clients with a full network of professionals dedicated to bringing your property dreams to life.",
+    "badge": "Serving Central Indiana Since 2010",
+    "features": [
+      { "title": "Inc. 5000 Ranked Company", "description": "Recognized as one of America's fastest-growing private companies on the prestigious 2020 Inc. 5000 list." },
+      { "title": "Full-Service Design & Build", "description": "From initial concept through installation and ongoing maintenance — one trusted team handles everything." },
+      { "title": "BBB A+ Rated", "description": "Consistently high customer satisfaction with 123+ verified reviews and a perfect Better Business Bureau rating." }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing for Every Property",
+    "subtitle": "Whether you need a one-time project or ongoing maintenance, we'll provide a detailed quote with no hidden fees or surprises."
+  },
+  "guarantee": {
+    "headline": "Our Property Pros Promise",
+    "description": "We stand behind every project with a satisfaction guarantee. If you're not completely thrilled with our work, we'll make it right at no additional cost. Our 16-year reputation and Inc. 5000 ranking were built on delivering results that exceed expectations — and we intend to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "What areas in Central Indiana do you serve?",
+      "answer": "We serve the greater Indianapolis area including Fortville, Fishers, Carmel, Noblesville, Westfield, Zionsville, and surrounding communities throughout Central Indiana."
+    },
+    {
+      "question": "Do you handle both design and installation?",
+      "answer": "Yes! We are a full-service design/build company. Our team handles everything from initial concept design through complete installation, so you have one point of contact throughout your entire project."
+    },
+    {
+      "question": "How long does a typical landscape project take?",
+      "answer": "Project timelines vary based on scope. A basic installation may take 1-2 weeks while larger design/build projects can take 4-8 weeks. We'll provide a detailed timeline during your consultation."
+    },
+    {
+      "question": "Do you offer ongoing maintenance after installation?",
+      "answer": "Absolutely. We offer comprehensive maintenance programs including mowing, fertilization, mulching, leaf removal, and seasonal care to keep your investment looking its best year-round."
+    },
+    {
+      "question": "Can you work with my HOA requirements?",
+      "answer": "Yes, we regularly work with HOAs and understand their guidelines. We've partnered with numerous neighborhoods and commercial properties across Central Indiana to beautify their greenspaces within their specific requirements."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Teresa Kissick",
+      "text": "I am elated with the results of my landscaping project. Property Pros are the utmost professionals.",
+      "context": "Landscaping Project",
+      "initials": "TK"
+    },
+    {
+      "name": "Shawn Mendenhall",
+      "text": "We are absolutely thrilled with the work Property Pros did for us in transforming our outdoor space with exceptional service.",
+      "context": "Outdoor Space Transformation",
+      "initials": "SM"
+    },
+    {
+      "name": "Kim Hauser",
+      "text": "I am continually impressed with the level of professionalism, responsiveness and quality of work performed and their willingness to help beyond the scope of landscaping.",
+      "context": "Ongoing Landscape Services",
+      "initials": "KH"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your Property?",
+    "subtitle": "Get in touch for a free consultation. We'll visit your property and provide a custom plan tailored to your vision and budget.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Custom design plans with 3D renderings",
+      "Flexible scheduling around your timeline"
+    ]
+  },
+  "footer": {
+    "description": "Property Pros Land Management has been Central Indiana's trusted outdoor design/build and maintenance company since 2010. Inc. 5000 ranked and BBB A+ rated.",
+    "service_area": "Serving Central Indiana including Indianapolis, Fortville, Fishers, Carmel, Noblesville, Westfield, Zionsville, and surrounding communities.",
+    "services": [
+      "Landscape Design & Build",
+      "Hardscape & Patios",
+      "Outdoor Kitchens",
+      "Lawn Maintenance",
+      "Fertilization Programs"
+    ],
+    "copyright": "Property Pros Land Management"
+  }
+}

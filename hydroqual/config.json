@@ -1,0 +1,183 @@
+{
+  "folder_name": "hydroqual",
+  "company_name": "HydroQual",
+  "tagline": "Integrated Science and Engineering Consulting for Water Quality",
+  "phone": "+1 201-529-5151",
+  "email": "rmutch@mutchassociates.com",
+  "review_count": "",
+  "review_rating": "",
+  "colors": {
+    "primary": "#005B96",
+    "primary_dark": "#003F6B",
+    "primary_deeper": "#002A48",
+    "secondary": "#4CAF50",
+    "cta": "#E87722",
+    "cta_dark": "#C9631A"
+  },
+  "trust_badges": {
+    "badge_1": "P.E. Licensed Engineers",
+    "badge_2": "HDR Affiliated Company",
+    "badge_3": "Serving Clients Since 1980"
+  },
+  "hero": {
+    "badge_1": "46+ Years of Water Quality Expertise",
+    "badge_2": "HDR Affiliated Firm",
+    "headline": "Science-Driven Solutions <span class=\"text-secondary italic\">for Cleaner<br>Water</span>",
+    "subheadline": "Complex water quality challenges demand more than guesswork. HydroQual combines 46 years of scientific rigor with advanced computational modeling to deliver results you can trust. From pollutant fate analysis to treatment optimization, we turn data into action.",
+    "cta_text": "Request a Consultation",
+    "checkmarks": [
+      "Free initial project scoping",
+      "Proprietary modeling tools",
+      "Nationwide and international reach"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "46",
+    "stat_2_label": "Years of Expertise",
+    "stat_3_value": "50",
+    "stat_3_label": "States Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Commitment"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Integrated Water Quality<br class=\"hidden md:block\">Solutions You Can Rely On",
+    "subtitle": "Environmental challenges require precision, not approximation. Our team of engineers and scientists delivers defensible, data-backed solutions for every phase of your project.",
+    "cards": [
+      {
+        "title": "Water Quality Modeling",
+        "description": "Mathematical modeling to evaluate pollutant fate and transport in rivers, lakes, estuaries, and coastal waters. Defensible science for regulatory and planning decisions."
+      },
+      {
+        "title": "Treatment Optimization",
+        "description": "Assessment and optimization of water and wastewater treatment processes for public utilities and industrial clients, improving efficiency and ensuring regulatory compliance."
+      },
+      {
+        "title": "Environmental Hydrodynamics",
+        "description": "Advanced hydrodynamic and sediment transport modeling using proprietary tools like ECOMSED to map water circulation, mixing zones, and sediment behavior."
+      },
+      {
+        "title": "Site Remediation",
+        "description": "Hydrogeological and engineering services for contaminated site assessment, investigation, and remediation to meet environmental cleanup standards on schedule."
+      },
+      {
+        "title": "Natural Resource Studies",
+        "description": "Comprehensive environmental studies and natural resource assessments supporting regulatory compliance, permitting, and environmental impact evaluations."
+      },
+      {
+        "title": "Mixing Zone Analysis",
+        "description": "Specialized pollutant mixing zone evaluations in water bodies to support discharge permitting and regulatory compliance for industrial and municipal clients."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How We Deliver Results for Your Project",
+    "steps": [
+      {
+        "title": "Define the Challenge",
+        "description": "Share your project scope with our team. We conduct a thorough assessment, identify regulatory requirements, and develop a tailored approach within days, not weeks."
+      },
+      {
+        "title": "Model, Analyze, and Engineer",
+        "description": "Our P.E.-licensed engineers and scientists deploy proprietary modeling tools and field investigations to build defensible, data-driven solutions for your specific conditions."
+      },
+      {
+        "title": "Deliver Actionable Results",
+        "description": "You receive clear, implementable findings backed by rigorous science. Our reports withstand regulatory scrutiny and give you confidence to move forward with your project."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Clients Choose HydroQual",
+    "headline": "Four Decades of Water Quality Leadership",
+    "description": "Founded in 1980 and headquartered in Northern New Jersey, HydroQual is a privately-owned environmental engineering firm that has served public agencies and industrial clients worldwide for over 46 years. Now operating as HDR|HydroQual, we combine deep specialized expertise with the resources of a global engineering firm. Our team of approximately 21 engineers, scientists, and modelers delivers integrated science and engineering solutions that stand up to the toughest regulatory challenges.",
+    "badge": "HDR Affiliated",
+    "features": [
+      {
+        "title": "P.E. Licensed Professional Staff",
+        "description": "Our team includes Professional Engineers and certified specialists who bring credentialed expertise to every project we take on."
+      },
+      {
+        "title": "Proprietary Modeling Technology",
+        "description": "Tools like ECOMSED and the Biotic Ligand Model give our clients analytical capabilities unavailable anywhere else in the industry."
+      },
+      {
+        "title": "Defensible, Regulatory-Ready Work",
+        "description": "Every deliverable is built to withstand agency review. Our science holds up because we never cut corners on methodology."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Project Pricing. No Surprises.",
+    "subtitle": "Every project is scoped clearly upfront. You know the cost, the timeline, and the deliverables before we begin. No hidden fees, no scope creep."
+  },
+  "guarantee": {
+    "headline": "Our \"Defensible Science\" Guarantee",
+    "description": "Every model, every report, every analysis we deliver is built on rigorous scientific methodology. If our work does not meet the regulatory standards we committed to, we will revise it at no additional cost. That is our promise to every client, on every project."
+  },
+  "faqs": [
+    {
+      "question": "What types of projects does HydroQual handle?",
+      "answer": "We specialize in water quality modeling, wastewater treatment optimization, environmental hydrodynamics, site remediation, and natural resource investigations. Our work spans municipal, industrial, and regulatory clients across the U.S. and internationally."
+    },
+    {
+      "question": "How quickly can you begin a new project?",
+      "answer": "Most projects move from initial scoping to active work within two to three weeks. For urgent environmental matters, we can mobilize faster. Contact us with your timeline and we will develop a plan that fits."
+    },
+    {
+      "question": "Do you work with regulatory agencies directly?",
+      "answer": "Yes. We regularly interface with the EPA, state DEPs, and other regulatory bodies on behalf of our clients. Our deliverables are designed to meet and exceed agency requirements for defensibility and scientific rigor."
+    },
+    {
+      "question": "What makes your modeling capabilities different?",
+      "answer": "We developed proprietary tools like ECOMSED and the Biotic Ligand Model that are used industry-wide. Our 46 years of modeling experience means we understand not just the software, but the science behind it."
+    },
+    {
+      "question": "Can you support projects outside of New Jersey?",
+      "answer": "Absolutely. While headquartered in Northern New Jersey, we serve clients nationwide and internationally. Our team has completed projects in all 50 states and multiple countries around the world."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Municipal Utility Director",
+      "text": "HydroQual's modeling work gave us the scientific foundation we needed to secure our discharge permit renewal. Their team was thorough, responsive, and delivered ahead of schedule. We have worked with them for over a decade.",
+      "context": "Wastewater permit project",
+      "initials": "MU"
+    },
+    {
+      "name": "Environmental Program Manager",
+      "text": "When we needed a mixing zone analysis that would hold up under EPA scrutiny, HydroQual was the only firm we called. Their proprietary tools and deep expertise made the difference between approval and denial.",
+      "context": "Industrial discharge permitting",
+      "initials": "EP"
+    },
+    {
+      "name": "Remediation Project Lead",
+      "text": "The hydrogeological assessment HydroQual delivered for our contaminated site was the most comprehensive we have seen. Their recommendations saved us months of remediation time and significant costs.",
+      "context": "Site remediation engagement",
+      "initials": "RP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Solve Your<br>Water Quality Challenge?",
+    "subtitle": "Get a free initial project scoping consultation. Our engineers will review your needs and provide an honest assessment of how we can help, with no obligation.",
+    "benefits": [
+      "Free initial project scoping call",
+      "Response within 48 business hours",
+      "46 years of proven expertise behind every project"
+    ]
+  },
+  "footer": {
+    "description": "Environmental engineering and water quality consulting since 1980. Serving clients nationwide and worldwide.",
+    "service_area": "Serving Northern New Jersey, Nationwide, and International Clients",
+    "services": [
+      "Water Quality Modeling",
+      "Treatment Optimization",
+      "Environmental Hydrodynamics",
+      "Site Remediation",
+      "Natural Resource Studies"
+    ],
+    "copyright": "&copy; 2024 HydroQual. All rights reserved. HDR Affiliated Company."
+  }
+}

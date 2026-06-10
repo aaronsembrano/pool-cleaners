@@ -1,184 +1,184 @@
 {
   "folder_name": "pool-centurion",
   "company_name": "Pool Centurion",
-  "tagline": "Treating every pool like it's our own",
+  "tagline": "Treating Every Pool Like It's Our Own",
   "phone": "+1 305-367-2005",
-  "email": "marc@poolcenturion.com",
+  "email": "mike@poolcenturion.com",
   "logo_path": "logo.png",
   "review_count": "56",
   "review_rating": "4.9",
   "colors": {
-    "primary": "#1a3a5c",
-    "primary_dark": "#122943",
-    "primary_deeper": "#0b1c2e",
-    "secondary": "#2c7bb6",
-    "cta": "#e8a523",
-    "cta_dark": "#c98d1a"
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C48",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#2196F3",
+    "cta": "#F5A623",
+    "cta_dark": "#D4890E"
   },
   "trust_badges": {
-    "badge_1": "CPC Licensed & Insured",
+    "badge_1": "FL Licensed #CPC1458733",
     "badge_2": "4.9/5 from 56+ Reviews",
-    "badge_3": "25+ Years of Excellence"
+    "badge_3": "Insured & Bonded"
   },
   "hero": {
     "badge_1": "4.9/5 from 56+ Google Reviews",
-    "badge_2": "AquaAcademy Certified Technicians",
-    "headline": "South Florida's Most Trusted <span class=\"text-secondary italic\">Pool Care Family</span>",
-    "subheadline": "Pool Centurion and our family of brands have kept South Florida pools pristine for over 25 years. With certified technicians, digital reports after every visit, and an online portal at your fingertips, we handle the hard work so you just dive in.",
-    "cta_text": "Get Your Free Pool Assessment",
+    "badge_2": "FL Licensed Pool Contractor",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Centurion-Level<br>Care</span>",
+    "subheadline": "From Key Largo to Naples, our 19-person team treats every pool like it is our own. Design, build, maintain, or repair — one call handles it all so you can stop worrying and start swimming.",
+    "cta_text": "Get a Free Pool Estimate",
     "checkmarks": [
       "Free on-site inspection",
-      "Digital reports after every visit",
-      "Certified CPO technicians"
+      "Full-service from build to maintenance",
+      "Satisfaction guaranteed"
     ]
   },
   "stats": {
-    "stat_1_value": "5000",
+    "stat_1_value": "500",
     "stat_1_label": "Pools Under Care",
-    "stat_2_value": "25",
-    "stat_2_label": "Years Experience",
-    "stat_3_value": "6",
-    "stat_3_label": "Brands Strong",
+    "stat_2_value": "5",
+    "stat_2_label": "Years Serving SE Florida",
+    "stat_3_value": "19",
+    "stat_3_label": "Team Members",
     "stat_4_value": "4.9",
     "stat_4_label": "Google Rating"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Family of Brands",
-    "subtitle": "From weekly cleaning to full renovations, Pool Centurion's family of certified professionals covers every aspect of pool ownership across South Florida.",
+    "headline": "Full-Lifecycle Pool Care<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From the first sketch to the thousandth weekly cleaning, Pool Centurion covers every stage of pool ownership across Southeast Florida.",
     "cards": [
       {
+        "title": "Pool Design & Consultation",
+        "description": "From dream to blueprint — we walk you through design visualization, budgeting, and planning so your new pool fits your lifestyle perfectly."
+      },
+      {
+        "title": "Pool Construction",
+        "description": "Full-service pool building with meticulous project scheduling, quality control, and transparent collaboration from groundbreaking to first splash."
+      },
+      {
         "title": "Pool Cleaning & Maintenance",
-        "description": "Thorough skimming, wall brushing, vacuuming, and filter cleaning with digital reports and photos sent after every visit through our Service Titan platform."
+        "description": "Ongoing residential and commercial cleaning that keeps water crystal clear, chemicals balanced, and equipment running at peak efficiency."
       },
       {
-        "title": "Water Chemistry & Balancing",
-        "description": "Precision testing for pH, chlorine, alkalinity, and more. Our AquaAcademy-trained techs keep your water safe, crystal clear, and gentle on skin."
+        "title": "Equipment Repair & Service",
+        "description": "Fast diagnosis and repair of pumps, filters, heaters, and automation systems. Most issues resolved in a single visit."
       },
       {
-        "title": "Pool Renovation & Remodeling",
-        "description": "Transform your outdated pool into a modern outdoor oasis. Expert resurfacing, tile work, coping, and aesthetic upgrades handled by our licensed contractors."
+        "title": "Pool Resurfacing & Renovation",
+        "description": "Breathe new life into aging pools with resurfacing, tile replacement, and deck upgrades that restore beauty and value."
       },
       {
-        "title": "Pool Design & Construction",
-        "description": "Full-service custom pool design and construction from initial consultation and 3D visualization through quality-controlled build to your first splash."
-      },
-      {
-        "title": "Equipment Repair & Diagnostics",
-        "description": "Pumps, filters, heaters, salt systems, and plumbing diagnosed and repaired fast. Our certified techs fix most issues in a single visit."
-      },
-      {
-        "title": "Spa Installation & Service",
-        "description": "Professional spa design, installation, maintenance, and repair for residential and commercial owners throughout South Florida."
+        "title": "Spa & Hot Tub Services",
+        "description": "Expert installation, maintenance, and repair for spas and hot tubs — the perfect complement to your pool care plan."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Pool You Love",
+    "headline": "Three Steps to Centurion-Level Pool Care",
     "steps": [
       {
-        "title": "Schedule Your Free Assessment",
-        "description": "Tell us about your pool and we will schedule a free on-site inspection. You receive an honest, transparent quote within 24 hours with zero pressure."
+        "title": "Tell Us About Your Pool",
+        "description": "Call or fill out our form. We will schedule a free on-site inspection, assess your pool's needs, and deliver an honest quote — no pressure, no obligation."
       },
       {
-        "title": "Our Certified Team Takes Over",
-        "description": "AquaAcademy-trained, CPO-certified technicians arrive on schedule. After every visit, you receive a digital report with photos through our Service Titan portal."
+        "title": "We Deploy Your Team",
+        "description": "Our licensed, insured professionals arrive on schedule — whether it is weekly maintenance, a major repair, or a full build. You always know who is coming and when."
       },
       {
-        "title": "Enjoy Your Perfect Pool",
-        "description": "Your pool stays sparkling, balanced, and swim-ready year-round. Manage your account online, view service history, and relax knowing the experts have it covered."
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays pristine, your equipment stays healthy, and your weekends stay free. If anything ever falls short, we come back and make it right at no charge."
       }
     ]
   },
   "about": {
-    "label": "Why South Florida Trusts Us",
-    "headline": "Not Just a Pool Company — A Family of Pool Experts",
-    "description": "Pool Centurion is the holding company behind some of South Florida's most respected pool brands, including Reef Tropical Pools, Soflo Pools, AquaBrite Pool and Spa, and Naples Pool Service. With over 25 years of combined expertise and a team of certified professionals trained through our proprietary AquaAcademy program, we treat every pool like it is our own.",
-    "badge": "CPC Licensed #CPC1458733",
+    "label": "Why Southeast Florida Trusts Us",
+    "headline": "We Are in the Customer Service Business — We Just Happen to Be Pool Experts",
+    "description": "Pool Centurion was built on a simple promise: treat every pool like it is our own. With 19 professionals serving Fort Lauderdale, Miami, Key Largo, Naples, and West Palm Beach through our family of brands, we deliver the personal attention of a local company with the reach and resources of a regional one. Licensed by the Florida DBPR and rated 4.9 stars on Google, we have earned the trust of hundreds of pool owners across Southeast Florida.",
+    "badge": "FL Licensed CPC1458733",
     "features": [
       {
-        "title": "AquaAcademy-Trained Technicians",
-        "description": "Every technician graduates from our proprietary training program covering the latest pool technology, water chemistry, and service standards."
+        "title": "Licensed & Insured Professionals",
+        "description": "Every technician is fully insured and works under our Florida DBPR contractor license — your property is always protected."
       },
       {
-        "title": "Digital Reports After Every Visit",
-        "description": "Our Service Titan platform sends you photos and a detailed report after each service, plus an online portal to manage your account anytime."
+        "title": "Multi-Market Coverage",
+        "description": "From Key Largo to Naples, our affiliated brands ensure consistent, reliable service no matter where you are in Southeast Florida."
       },
       {
-        "title": "Multiple Brands, One Standard",
-        "description": "Whether you are serviced by Reef Tropical, Soflo, or AquaBrite, every brand in our family delivers the same certified, five-star experience."
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We come back and redo it at no charge. We treat your pool like it is our own — because that is the standard we set."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or adjust anytime with complete flexibility."
+    "headline": "Straightforward Pricing. Zero Surprises.",
+    "subtitle": "Get a custom quote based on your pool's size and needs. No hidden fees, no long-term contracts — just honest service you can count on."
   },
   "guarantee": {
     "headline": "Our \"Centurion Standard\" Guarantee",
-    "description": "If you are not 100% satisfied with any service visit, we will return and make it right at no additional cost. Every technician, every brand, every time. We have built our reputation over 25 years by treating every pool like it is our own, and we stand behind that promise until it meets your standards."
+    "description": "If you are not 100% satisfied with any service visit, call us within 24 hours and we will come back and make it right at no additional cost. We treat every pool like it is our own — and we would never let our own pool fall short. That is the Centurion standard, and we stand behind it every single day."
   },
   "faqs": [
     {
-      "question": "How quickly can Pool Centurion start service?",
-      "answer": "Most new clients are scheduled within 3-5 business days. We serve all of South Florida and our team will match you with the nearest brand in our family for the fastest possible response."
+      "question": "What areas does Pool Centurion serve?",
+      "answer": "We serve all of Southeast Florida including Fort Lauderdale, Miami, Miami Beach, Key Largo, Naples, West Palm Beach, and surrounding communities. Through our affiliated brands, we cover the entire region from the Keys to Southwest Florida."
     },
     {
-      "question": "What are the digital reports I will receive?",
-      "answer": "After every service visit, our Service Titan platform sends you a detailed report with photos showing work completed, chemical readings, and any recommendations. You also get access to an online portal to view service history and manage your account."
+      "question": "How fast can you start weekly service?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent repairs or green pool emergencies, we offer same-day or next-day response. Call us at 305-367-2005 and we will work with your schedule."
     },
     {
-      "question": "Are your technicians certified?",
-      "answer": "Yes. All technicians are trained through our proprietary AquaAcademy program and hold CPO or AFO certifications. Pool Centurion is also a licensed Certified Pool/Spa Contractor verified by the Florida DBPR."
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Absolutely. Pool Centurion holds Florida DBPR Contractor License CPC1458733. All technicians are fully insured and bonded, and we carry comprehensive liability coverage for your peace of mind."
     },
     {
-      "question": "Which areas of South Florida do you serve?",
-      "answer": "Our family of brands covers all of South Florida including Miami Beach, Miami, Fort Lauderdale, West Palm Beach, Naples, Key Largo, and the Florida Keys. With multiple brands under our umbrella, we have teams positioned throughout the region."
+      "question": "Do you handle both construction and maintenance?",
+      "answer": "Yes — that is what sets us apart. We offer full-lifecycle service from pool design and construction through ongoing weekly maintenance and equipment repair. One relationship covers everything your pool will ever need."
     },
     {
-      "question": "Do you handle commercial pools?",
-      "answer": "Absolutely. Our brands service hotels, resorts, HOA communities, fitness centers, and commercial properties throughout South Florida. Commercial clients receive dedicated account managers and priority scheduling."
+      "question": "Do you service commercial pools?",
+      "answer": "We do. We serve hotels, HOAs, resorts, fitness centers, and multi-family properties across Southeast Florida. Commercial clients receive dedicated account management and flexible scheduling to fit their operations."
     }
   ],
   "testimonials": [
     {
       "name": "Madison D.",
-      "context": "Pool construction client",
+      "context": "Pool Construction",
       "initials": "MD",
-      "text": "You took our new home's dirt to a beautiful oasis. We are absolutely enthralled with the end product! The team's attention to detail and communication throughout the project was outstanding."
+      "text": "You took our new home's dirt to a beautiful oasis. We are absolutely enthralled with the result. Professional all the way."
     },
     {
       "name": "Joseph R.",
-      "context": "Ongoing pool service",
+      "context": "Pool Service",
       "initials": "JR",
-      "text": "Nothing but good things to say about this company. The teamwork between the owners and work crews was seamless. They show up on time, leave detailed reports, and our pool has never looked better."
+      "text": "Nothing but good things to say about this company. The teamwork between the owners and work crews was seamless. Felt like the care for our satisfaction was a priority."
     },
     {
       "name": "Clara M.",
-      "context": "Pool maintenance client",
+      "context": "Pool Maintenance",
       "initials": "CM",
-      "text": "Great crew, great service, punctual, reliable, accessible. The digital reports after each visit give me total peace of mind. Thank you for making pool ownership effortless."
+      "text": "Great crew, great service, punctual, reliable, accessible. Thank you."
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Care You<br>Can Actually Count On?",
-    "subtitle": "Get a free, no-pressure assessment from South Florida's most trusted pool care family. Transparent pricing, certified technicians, and digital reporting from day one.",
+    "headline": "Ready to Experience<br>Centurion-Level Pool Care?",
+    "subtitle": "Get a free, no-obligation quote within 24 hours. No contracts, no pressure — just honest pricing from a team that treats your pool like their own.",
     "benefits": [
-      "Free on-site pool inspection and assessment",
-      "Digital report and quote within 24 hours",
-      "Backed by 25+ years of South Florida expertise"
+      "Free on-site pool inspection",
+      "Quote delivered within 24 hours",
+      "100% satisfaction guaranteed"
     ]
   },
   "footer": {
-    "description": "South Florida's trusted family of pool brands. Serving communities for 25+ years.",
-    "service_area": "Serving Miami Beach, Miami, Fort Lauderdale, West Palm Beach, Naples & the Florida Keys",
+    "description": "Southeast Florida's full-service pool company. Design, build, maintain, and repair — since 2021.",
+    "service_area": "Serving Fort Lauderdale, Miami, Key Largo, Naples & West Palm Beach",
     "services": [
-      "Pool Cleaning",
+      "Pool Design & Build",
+      "Weekly Maintenance",
       "Equipment Repair",
-      "Pool Renovation",
-      "Pool Construction",
-      "Spa Services"
+      "Resurfacing & Renovation",
+      "Spa & Hot Tub Service"
     ],
-    "copyright": "&copy; 2024 Pool Centurion. All rights reserved. Licensed Certified Pool/Spa Contractor #CPC1458733"
+    "copyright": "&copy; 2024 Pool Centurion. All rights reserved. FL License #CPC1458733"
   }
 }

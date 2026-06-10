@@ -1,0 +1,177 @@
+{
+  "folder_name": "pop-s-pool-service",
+  "company_name": "Pop's Pool Service",
+  "tagline": "Old School Hospitality, Modern Pool Care",
+  "phone": "(818) 600-4854",
+  "email": "info@popspoolservice.com",
+  "colors": {
+    "primary": "#0E7490",
+    "primary_dark": "#1E3A5F",
+    "primary_deeper": "#0F2A44",
+    "secondary": "#38BDF8",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — CPO Certified",
+    "badge_2": "5.0/5 from 23+ Reviews",
+    "badge_3": "No Contracts Required"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 23+ Google Reviews",
+    "badge_2": "No Contracts Ever",
+    "headline": "LA's Family-Owned Pool Pros <span class=\"text-secondary italic\">Since Day One</span>",
+    "subheadline": "Pop's Pool Service blends old school hospitality with modern expertise. We handle the chemicals, the cleaning, and the repairs — so all you do is enjoy the water.",
+    "cta_text": "Get My Free Quote",
+    "checkmarks": [
+      "Same-day repair diagnostics",
+      "50% off your first month",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Happy Customers",
+    "stat_2_value": "15",
+    "stat_2_label": "Years Combined Experience",
+    "stat_3_value": "3000",
+    "stat_3_label": "Pools Cleaned",
+    "stat_4_value": "100%",
+    "stat_4_label": "Same-Day Diagnostics"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Every LA Homeowner",
+    "subtitle": "From weekly maintenance to emergency repairs, Pop's handles it all so you never have to worry about your pool again.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Surface skimming, vacuuming, tile brushing, chemical balancing, and filter checks. We email you a full report after every visit with pH stats and chemicals used."
+      },
+      {
+        "title": "Equipment Repair & Install",
+        "description": "Pumps, heaters, filters, salt systems — diagnosed and fixed same-day. We carry parts on our trucks so most repairs are completed in a single visit."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Pool turned swamp green? We'll restore it to crystal clear in 48-72 hours with our proven recovery process. Emergency same-day response available."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing tailored to your pool's unique needs. Saltwater, chlorine, or mineral — we keep it safe, clear, and gentle on skin."
+      },
+      {
+        "title": "Acid Wash & Deep Clean",
+        "description": "Remove calcium buildup, stains, and algae with professional acid washing. Restores your pool's surface to like-new condition."
+      },
+      {
+        "title": "Leak Detection & Plumbing",
+        "description": "Non-invasive electronic leak detection pinpoints problems fast. We repair plumbing lines, valves, and fittings with minimal disruption to your yard."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Call or Text Us",
+        "description": "Reach out at (818) 600-4854 or fill out our form. We'll give you an honest, no-pressure quote within 24 hours — often sooner."
+      },
+      {
+        "title": "We Show Up On Time, Every Time",
+        "description": "Our CPO-certified, background-checked techs arrive on your scheduled day. Cleaning, chemicals, equipment checks — handled while you're at work or relaxing inside."
+      },
+      {
+        "title": "Dive Into a Sparkling Pool",
+        "description": "Your pool stays swim-ready year-round. After every visit you get an email summary with pH levels, chemicals added, and any notes. That's the Pop's difference."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why LA Trusts Pop's",
+    "headline": "A Family Business That Treats Your Pool Like Our Own",
+    "description": "Pop's Pool Service was built on one idea: treat every customer's pool like it's in our own backyard. We're a family-owned crew operating out of the San Fernando Valley, serving 30+ neighborhoods across Los Angeles. Our CPO-certified technicians carry full insurance and years of hands-on experience — and they genuinely care about getting it right.",
+    "badge": "CPO Certified — DPH Licensed",
+    "features": [
+      {
+        "title": "Licensed, Insured & Certified",
+        "description": "DPH #PR0315023, CPO #C-114137. Every technician is background-checked and carries full liability insurance for your peace of mind."
+      },
+      {
+        "title": "No Contracts. Cancel Anytime.",
+        "description": "We earn your trust every visit. No long-term commitments, no cancellation fees — just consistent, reliable pool care week after week."
+      },
+      {
+        "title": "After-Service Email Reports",
+        "description": "After every cleaning you receive a detailed email with pH balance, chemical readings, what was added, and any maintenance notes. Full transparency, always."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Simple Pricing. No Surprises.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no hidden fees. First month is 50% off."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% happy with any service visit, call us and we'll come back to make it right — completely free. No questions, no runaround. We've built our reputation on doing right by our neighbors, and we plan to keep it that way."
+  },
+  "testimonials": [
+    {
+      "name": "David M.",
+      "context": "Weekly service client, 1 year",
+      "initials": "DM",
+      "text": "Switched to Pop's after a bad experience with another company. Night and day difference — they actually show up when they say they will, the pool looks incredible, and I love getting the email report after each visit. Highly recommend."
+    },
+    {
+      "name": "Jessica T.",
+      "context": "Green pool recovery",
+      "initials": "JT",
+      "text": "Came home from a two-week trip to a swamp. Called Pop's on Monday morning, they were out Tuesday, and by Thursday it was crystal clear. The communication throughout was excellent. These guys are the real deal."
+    },
+    {
+      "name": "Robert & Linda S.",
+      "context": "Homeowners in Encino",
+      "initials": "RS",
+      "text": "We've used Pop's for over a year now and couldn't be happier. Professional, on-time, and our pool has never looked better. The fact that there's no contract makes it even better — they earn our business every single week."
+    }
+  ],
+  "review_count": "23",
+  "review_rating": "5.0",
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Sparkling Year-Round?",
+    "subtitle": "Get a free, no-pressure quote today. No contracts, no commitments — just honest pricing from a family-owned team that cares about doing it right.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Same-day response guaranteed",
+      "50% off your first month of service"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service in the San Fernando Valley. Serving 30+ LA neighborhoods with old school hospitality and modern expertise.",
+    "service_area": "Serving Los Angeles, Encino, Sherman Oaks, Woodland Hills, Calabasas & Beyond",
+    "services": ["Weekly Maintenance", "Equipment Repair", "Green Pool Recovery", "Acid Wash & Deep Clean", "Leak Detection"],
+    "copyright": "&copy; 2024 Pop's Pool Service. All rights reserved. Licensed & Insured — DPH#: PR0315023 | CPO#: C-114137"
+  },
+  "faqs": [
+    {
+      "question": "How fast can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Just call (818) 600-4854 and we'll get you set up."
+    },
+    {
+      "question": "Do I need to be home when you come?",
+      "answer": "Not at all. Most of our clients provide gate access and go about their day. After every visit, you'll receive a detailed email report with pH levels, chemicals added, and any notes — so you always know exactly what happened."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. Every Pop's technician is CPO-certified, background-checked, and carries full liability insurance. We hold DPH License #PR0315023 and CPO Certification #C-114137. Your home is in good hands."
+    },
+    {
+      "question": "What if I want to cancel my service?",
+      "answer": "Cancel anytime — zero fees, zero hassle. We don't do contracts because we believe in earning your business every single visit. If you ever want to pause or stop, just let us know."
+    },
+    {
+      "question": "What areas do you serve in Los Angeles?",
+      "answer": "We serve 30+ neighborhoods across LA including Encino, Sherman Oaks, Woodland Hills, Calabasas, Beverly Hills, Burbank, Glendale, North Hollywood, Tarzana, Hidden Hills, and the entire San Fernando Valley."
+    }
+  ]
+}

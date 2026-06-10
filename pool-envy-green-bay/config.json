@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-envy-green-bay",
+  "company_name": "Pool Envy, LLC",
+  "tagline": "Licensed Pool Consulting, Repair & Safety Evaluations",
+  "phone": "+1 920-321-1297",
+  "email": "jason.davies@poolenvywi.com",
+  "review_count": "32",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#112a44",
+    "primary_deeper": "#0b1e32",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & CPO Certified",
+    "badge_2": "4.5/5 from 32+ Reviews",
+    "badge_3": "WI, TX & FL Licensed"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 32+ Google Reviews",
+    "badge_2": "Licensed in 3 States",
+    "headline": "Code-Compliant Pool Care <span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Your pool deserves more than guesswork. Pool Envy delivers licensed, safety-first repairs, diagnostics, and consulting backed by real credentials and inspector-friendly documentation. Stop worrying about compliance and start enjoying your pool.",
+    "cta_text": "Schedule a Safety Evaluation",
+    "checkmarks": [
+      "Licensed & CPO certified",
+      "Minimally invasive leak detection",
+      "Inspector-friendly documentation"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Evaluated",
+    "stat_2_value": "6",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "3",
+    "stat_3_label": "State Licenses",
+    "stat_4_value": "100%",
+    "stat_4_label": "Code Compliant"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Licensed Pool Services You<br class=\"hidden md:block\"> Can Actually Trust",
+    "subtitle": "From safety evaluations to leak detection, every service we deliver is backed by real licenses, CPO certification, and inspector-ready documentation. No shortcuts, no guesswork.",
+    "cards": [
+      {
+        "title": "Safety & System Evaluations",
+        "description": "Comprehensive pool inspections with clear, inspector-friendly documentation and a detailed scope of work for repairs or code compliance."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Minimally invasive leak detection using advanced camera and sound technology to pinpoint problems without tearing up your deck or yard."
+      },
+      {
+        "title": "Plumbing Repairs & Repipes",
+        "description": "Licensed, code-aware pressure testing, targeted plumbing repairs, and full repipes with clean paver and deck restoration every time."
+      },
+      {
+        "title": "Equipment Repair & Replacement",
+        "description": "Pumps, filters, heaters, chlorine feeders — diagnosed and fixed fast. We keep parts in stock so you are not waiting weeks mid-summer."
+      },
+      {
+        "title": "Water Chemistry & Treatment",
+        "description": "Precise water chemistry analysis and treatment to keep your pool safe, crystal clear, and gentle on skin. No guesswork, just science."
+      },
+      {
+        "title": "Commercial Pool Services",
+        "description": "Commercial pool repair, compliance inspections, and safety evaluations for aquatic facilities that need to pass code every time."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Compliant, Safe Pool",
+    "steps": [
+      {
+        "title": "Book Your Evaluation",
+        "description": "Start with a paid Safety and System Evaluation. We assess your entire pool system and deliver a clear, inspector-friendly scope of work — no surprises."
+      },
+      {
+        "title": "We Diagnose & Repair",
+        "description": "Our licensed, CPO-certified team handles everything from leak detection to equipment replacement. We use minimally invasive methods and keep parts in stock."
+      },
+      {
+        "title": "Swim with Confidence",
+        "description": "Your pool is code-compliant, safe, and swim-ready. You get full documentation for your records, and we are always a phone call away if you need us."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Green Bay Trusts Pool Envy",
+    "headline": "Licensed, Credentialed, and Safety-Obsessed",
+    "description": "Founded in 2020 by Jason Davies, Pool Envy is not your average pool company. We hold WI HVAC/Electrical and Dwelling licenses, CPO certification, and are licensed to operate in Wisconsin, Texas, and Florida. Every project starts with a thorough evaluation because we believe in doing the job right — not just doing it fast. Our code-compliant, safety-first approach means your pool meets every standard, every time.",
+    "badge": "CPO Certified & Multi-State Licensed",
+    "features": [
+      {
+        "title": "Real Licenses & Credentials",
+        "description": "WI HVAC/Electrical License, Dwelling License, CPO Certification, and BBB accreditation. We have the credentials other companies wish they had."
+      },
+      {
+        "title": "Safety-First, Always",
+        "description": "Every project starts with a Safety and System Evaluation. We provide inspector-friendly documentation so you know exactly what needs to happen."
+      },
+      {
+        "title": "Minimally Invasive Methods",
+        "description": "Our advanced camera and sound leak detection technology finds problems without ripping apart your pool deck. Precision diagnostics, not demolition."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Guesswork.",
+    "subtitle": "Every project begins with a paid Safety and System Evaluation so you know exactly what you need — and what it costs — before any work begins."
+  },
+  "guarantee": {
+    "headline": "Our \"Code-Compliant\" Guarantee",
+    "description": "Every repair and evaluation we deliver meets or exceeds local building codes and safety standards. If any work we perform does not pass inspection, we come back and make it right at no additional cost. That is not a marketing promise — it is how we operate."
+  },
+  "faqs": [
+    {
+      "question": "Why do you start with a paid evaluation instead of a free quote?",
+      "answer": "A thorough Safety and System Evaluation gives you a clear, inspector-friendly scope of work so there are no surprises. It costs a fraction of what a misdiagnosed repair would, and it ensures every dollar you spend goes toward the right fix."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We are based in Green Bay and serve De Pere, Appleton, and all of Northeast Wisconsin. We also hold licenses in Florida and Texas for clients in those states. Give us a call to confirm service availability in your area."
+    },
+    {
+      "question": "Are you actually licensed?",
+      "answer": "Yes. We hold a WI HVAC/Electrical License (#1543940), a WI Dwelling License (#012100046), and CPO Certification. We are also licensed in Florida and Texas, and we are a BBB Accredited Business."
+    },
+    {
+      "question": "How does your leak detection work?",
+      "answer": "We use advanced camera and sound technology to pinpoint leaks with minimal disruption to your pool deck and landscaping. No unnecessary digging or demolition — just precise diagnostics that save you time and money."
+    },
+    {
+      "question": "Can you help with commercial pools?",
+      "answer": "Absolutely. We provide commercial pool repair, compliance inspections, and safety evaluations for aquatic facilities of all sizes. Our inspector-friendly documentation makes your compliance process straightforward."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Homeowner",
+      "text": "Hands down the most passionate and professional team you'll meet. Nobody has more knowledge, experience and enthusiasm for their craft than the Pool Envy team.",
+      "context": "Full pool service",
+      "initials": "SH"
+    },
+    {
+      "name": "Pool Overhaul Customer",
+      "text": "Jason did a complete overhaul on our pool with a new pump, filter, heater and liner. We are SO HAPPY with the results.",
+      "context": "Equipment replacement",
+      "initials": "PO"
+    },
+    {
+      "name": "Green Pool Recovery Client",
+      "text": "These guys are amazing at getting green pools clean. They transformed our severely algae-infected pool to crystal clear. Could not be happier.",
+      "context": "Pool cleaning and recovery",
+      "initials": "GP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Passes Every Inspection?",
+    "subtitle": "Schedule your Safety and System Evaluation today. We will assess your pool, provide clear documentation, and give you an honest scope of work — no pressure, no surprises.",
+    "benefits": [
+      "Detailed Safety and System Evaluation",
+      "Inspector-friendly documentation included",
+      "Licensed and CPO-certified team"
+    ]
+  },
+  "footer": {
+    "description": "Licensed pool consulting, repair, and safety evaluations. Serving Green Bay and Northeast Wisconsin since 2020.",
+    "service_area": "Serving Green Bay, De Pere, Appleton & NE Wisconsin",
+    "services": [
+      "Safety Evaluations",
+      "Leak Detection",
+      "Plumbing Repairs",
+      "Equipment Service",
+      "Commercial Pools"
+    ],
+    "copyright": "&copy; 2024 Pool Envy, LLC. All rights reserved. WI HVAC/Electrical License #1543940"
+  }
+}

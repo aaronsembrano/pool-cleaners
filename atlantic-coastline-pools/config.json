@@ -2,73 +2,73 @@
   "folder_name": "atlantic-coastline-pools",
   "company_name": "Atlantic Coastline Pools",
   "tagline": "Sparkling Pools & Patios",
-  "phone": "(321) 505-0077",
+  "phone": "(321) 209-1469",
   "email": "seth.bruton@atlanticcoastlinepools.com",
-  "review_count": "15",
+  "review_count": "2",
   "review_rating": "5.0",
   "colors": {
-    "primary": "#0C4A6E",
-    "primary_dark": "#083551",
-    "primary_deeper": "#052438",
-    "secondary": "#F97316",
-    "cta": "#F97316",
-    "cta_dark": "#EA580C"
+    "primary": "#1E6FA0",
+    "primary_dark": "#165A82",
+    "primary_deeper": "#0E3F5E",
+    "secondary": "#2AB5E0",
+    "cta": "#F4A236",
+    "cta_dark": "#D8892A"
   },
   "trust_badges": {
-    "badge_1": "Certified & Fully Insured",
-    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_1": "Certified & Insured",
+    "badge_2": "5.0/5 Google Rating",
     "badge_3": "Eco-Friendly Products"
   },
   "hero": {
-    "badge_1": "5.0/5 from 15+ Google Reviews",
-    "badge_2": "Free Pool Checkups",
-    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Space Coast's Best</span>",
-    "subheadline": "Atlantic Coastline Pools keeps your backyard sparkling so you can enjoy it, not maintain it. Family-owned, eco-friendly, and serving Brevard County with detailed care reports after every visit.",
+    "badge_1": "5-Star Rated on Google",
+    "badge_2": "Eco-Friendly & Family-Owned",
+    "headline": "Your Space Coast Pool, <span class=\"text-secondary italic\">Always Crystal Clear</span>",
+    "subheadline": "Stop guessing if your pool water is safe. Atlantic Coastline Pools delivers detailed post-visit reports with exact chemistry readings after every service, so you always know your family is swimming in clean, balanced water. Titusville's trusted family-owned pool care.",
     "cta_text": "Get My Free Pool Checkup",
     "checkmarks": [
-      "Free no-obligation pool checkup",
-      "Detailed post-visit reports",
-      "Eco-friendly products"
+      "Free pool checkup, zero obligation",
+      "Eco-friendly cleaning products",
+      "Detailed water chemistry reports every visit"
     ]
   },
   "stats": {
-    "stat_1_value": "50",
-    "stat_1_label": "Happy Pool Owners",
-    "stat_2_value": "2",
-    "stat_2_label": "Years Serving Brevard",
-    "stat_3_value": "500",
-    "stat_3_label": "Service Visits Completed",
-    "stat_4_value": "100%",
-    "stat_4_label": "5-Star Satisfaction"
+    "stat_1_value": "5.0",
+    "stat_1_label": "Google Star Rating",
+    "stat_2_value": "6",
+    "stat_2_label": "Days a Week Available",
+    "stat_3_value": "100%",
+    "stat_3_label": "Eco-Friendly Products",
+    "stat_4_value": "Every",
+    "stat_4_label": "Visit Documented"
   },
   "services": {
     "label": "Our Services",
     "headline": "Complete Pool & Patio Care<br class=\"hidden md:block\"> for the Space Coast",
-    "subtitle": "From weekly maintenance to deep cleans and patio pressure washing, we handle it all so you can relax poolside.",
+    "subtitle": "From routine weekly maintenance to deep cleans and patio restoration, we handle every detail so you can enjoy your backyard oasis worry-free.",
     "cards": [
       {
         "title": "Weekly Pool Maintenance",
-        "description": "Comprehensive recurring care including skimming, brushing, vacuuming, chemical balancing, and filter cleaning. Every visit ends with a detailed report so you always know your pool's health."
+        "description": "Skimming, brushing, vacuuming, chemical balancing, and filter cleaning on a schedule that fits your life. Every visit ends with a detailed report documenting water chemistry levels."
       },
       {
-        "title": "Chemical Balancing & Water Analysis",
-        "description": "Expert water testing and precise chemical adjustments to keep pH, chlorine, and alkalinity in the safe zone. Crystal clear water that's gentle on skin and eyes."
+        "title": "Chemical Balancing",
+        "description": "Precise water analysis and pH, chlorine, and alkalinity adjustments that prevent algae growth and skin irritation. Your pool stays safe, clear, and comfortable for every swim."
       },
       {
         "title": "One-Time Deep Cleans",
-        "description": "Thorough deep cleaning for pools needing extra attention. Perfect for seasonal openings, pre-sale prep, or restoring a neglected pool to pristine condition."
+        "description": "Pool looking neglected? Our thorough deep cleaning service restores even the most tired pools to sparkling condition, from waterline scrubbing to filter overhauls."
       },
       {
         "title": "Patio Pressure Washing",
-        "description": "High-powered pressure washing to blast away algae, grime, and stains from your patio and deck. Optional sealing services to protect and restore your outdoor spaces."
+        "description": "High-powered pressure washing removes years of algae, mildew, and grime from your deck and patio surfaces. Optional sealing protects against Florida's intense sun and rain."
       },
       {
-        "title": "Commercial Pool Servicing",
-        "description": "Reliable maintenance for hotels, community pools, and HOA facilities across Brevard County. Certified technicians and flexible scheduling to keep your commercial pool compliant."
+        "title": "Commercial Pool Services",
+        "description": "Professional-grade cleaning and maintenance for HOA pools, hotels, and commercial properties across the Space Coast. Reliable scheduling and compliance-ready documentation."
       },
       {
-        "title": "Pool Checkups & Estimates",
-        "description": "Free, no-obligation pool assessments where we evaluate your pool's condition and recommend the best maintenance plan. Zero pressure, just honest advice."
+        "title": "Flexible Maintenance Plans",
+        "description": "Choose weekly, bi-weekly, or monthly service to match your pool's needs and your budget. Upgrade, downgrade, or pause anytime with no contracts or cancellation fees."
       }
     ]
   },
@@ -77,107 +77,107 @@
     "steps": [
       {
         "title": "Book Your Free Checkup",
-        "description": "Call or fill out the form and we'll schedule a free pool assessment. We'll evaluate your pool's condition and give you an honest recommendation with no pressure."
+        "description": "Call or fill out the form. Seth will visit your pool, inspect the water chemistry, equipment, and surfaces, and give you an honest assessment with a no-obligation estimate."
       },
       {
-        "title": "We Clean & Report",
-        "description": "Our certified technicians arrive on schedule with eco-friendly products. After every visit, you receive a detailed report with water chemistry readings and recommendations."
+        "title": "We Handle Everything",
+        "description": "Our certified technicians arrive on schedule with eco-friendly products. After every visit, you receive a detailed report showing water chemistry readings and exactly what was done."
       },
       {
         "title": "Enjoy Your Backyard Oasis",
-        "description": "Your pool stays crystal clear and swim-ready while you enjoy the Space Coast lifestyle. We handle the work so you can just dive in."
+        "description": "Your pool stays crystal clear, your patio stays spotless, and you get your weekends back. If anything is ever less than perfect, we make it right at no extra cost."
       }
     ]
   },
   "about": {
-    "label": "Why Space Coast Families Trust Us",
-    "headline": "Family-Owned Care for Your Family's Pool",
-    "description": "Atlantic Coastline Pools is a family-owned business founded right here in Titusville by Seth Bruton. We treat every pool like it's our own, using eco-friendly products and delivering detailed post-visit reports so you always know exactly what was done and how your water chemistry looks. Certified, insured, and committed to the Brevard County community.",
-    "badge": "Certified Pool Technicians",
+    "label": "Why Titusville Trusts Atlantic Coastline Pools",
+    "headline": "Family-Owned Means Every Pool Gets Personal Attention",
+    "description": "Founded in 2024 by Seth Bruton, Atlantic Coastline Pools was born from a simple belief: pool care should be transparent, reliable, and personal. As a family-owned Space Coast business, we treat every backyard like our own. We use only eco-friendly cleaning products and provide detailed post-visit reports with exact water chemistry readings, because you deserve to know exactly what is happening with your pool, not just trust that someone showed up.",
+    "badge": "BBB Listed Business",
     "features": [
       {
-        "title": "Detailed Post-Visit Reports",
-        "description": "After every service, you receive a full report documenting cleaning tasks, water chemistry readings, and recommendations for maintaining optimal pool health."
+        "title": "Certified & Fully Insured",
+        "description": "Every technician is trained, certified, and insured. You get professional-grade care with complete peace of mind and zero liability."
       },
       {
-        "title": "Eco-Friendly Cleaning Products",
-        "description": "We use environmentally responsible products that are tough on algae and grime but gentle on your family, pets, and the Florida ecosystem."
+        "title": "Transparent Reporting After Every Visit",
+        "description": "No guesswork. After each service, you receive a detailed report showing initial water readings, chemicals added, and final levels. Full visibility, every time."
       },
       {
-        "title": "Flexible Scheduling, No Contracts",
-        "description": "Available Monday through Saturday, 7AM to 8PM. Choose weekly, bi-weekly, or monthly service. Cancel anytime with zero fees or hassle."
+        "title": "100% Eco-Friendly Products",
+        "description": "We use environmentally responsible cleaning products that are tough on algae and grime but gentle on your family, pets, and the Florida ecosystem."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Choose the plan that fits your pool. Flexible scheduling, no contracts, and cancel anytime."
+    "headline": "Simple Pricing. No Contracts. No Surprises.",
+    "subtitle": "Pick the plan that fits your pool and your budget. Switch or cancel anytime with zero fees. Every plan includes post-visit water chemistry reports."
   },
   "guarantee": {
-    "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, we'll come back and make it right at no extra charge. We also guarantee you'll receive a detailed post-visit report after every single service so you're never left wondering what happened with your pool."
+    "headline": "Our \"Sparkling Clean\" Guarantee",
+    "description": "If your pool is not sparkling after any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. We also guarantee that every visit includes a detailed water chemistry report delivered to you, because transparency is not optional, it is how we do business. That is the Atlantic Coastline promise."
   },
   "faqs": [
     {
       "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within 3-5 business days. We'll start with a free pool checkup to assess your pool's condition, then build a customized maintenance plan. Call us at (321) 505-0077 to get started."
+      "answer": "Most new clients are on the schedule within 3-5 business days. We offer a free initial pool checkup so we can assess your pool's condition and recommend the right service plan before any commitment."
     },
     {
-      "question": "What areas do you serve on the Space Coast?",
-      "answer": "We proudly serve Titusville, the broader Space Coast, and all of Brevard County. Whether you're near Kennedy Space Center or further south in the county, we've got you covered."
+      "question": "What is included in the free pool checkup?",
+      "answer": "We inspect your pool's water chemistry, equipment condition, surface integrity, and filtration system. You receive a written assessment with recommendations and a no-obligation estimate. There is zero pressure to sign up."
     },
     {
-      "question": "What's included in the post-visit report?",
-      "answer": "Every report details the cleaning tasks performed, all water chemistry readings (pH, chlorine, alkalinity, etc.), and personalized recommendations for maintaining optimal pool health between visits."
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. After each visit, you receive a detailed service report with water chemistry readings so you always know exactly what was done."
     },
     {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most clients provide gate access and we handle everything while you're away. You'll receive your detailed service report after each visit so you always know exactly what was done."
+      "question": "What makes your eco-friendly products different?",
+      "answer": "Our cleaning products are formulated to be effective against algae, bacteria, and stains while being safe for children, pets, and Florida's local waterways. You get a cleaner pool without harsh chemical residue."
     },
     {
-      "question": "Do you service commercial pools and HOA communities?",
-      "answer": "Absolutely. We provide professional maintenance for hotels, community pools, and HOA facilities across Brevard County. Certified technicians and flexible scheduling ensure your pool stays clean and compliant."
+      "question": "Can I switch between weekly, bi-weekly, and monthly plans?",
+      "answer": "Absolutely. We offer flexible scheduling with no contracts or cancellation fees. You can upgrade, downgrade, or pause your service at any time. We earn your loyalty with results, not paperwork."
     }
   ],
   "testimonials": [
     {
-      "name": "Satisfied Homeowner",
-      "context": "Google Review",
-      "initials": "SH",
-      "text": "Atlantic Coastline Pools is an AMAZING pool cleaning service! Seth takes great pride cleaning my pool. If you care about quality, I HIGHLY recommend Atlantic Coastline Pools for any pool cleaning needs."
+      "name": "John S.",
+      "context": "Yahoo Local Review - February 2026",
+      "initials": "JS",
+      "text": "You will not find a better pool cleaning service anywhere. Seth and his team are fantastic. They always show up on time and my pool looks incredible after every visit."
     },
     {
-      "name": "Home Seller",
-      "context": "Google Review",
-      "initials": "HS",
-      "text": "You will not find a better pool cleaning service anywhere. Seth and his team are fantastic. We hired them when we put our house on the market and it was a great decision. Seth was always willing to go the extra mile to make the pool sparkle."
+      "name": "Ryan E.",
+      "context": "Yahoo Local Review - July 2024",
+      "initials": "RE",
+      "text": "Atlantic Coastline Pools is an AMAZING pool cleaning service! Seth takes great pride cleaning my pool. You can tell he genuinely cares about doing quality work."
     },
     {
-      "name": "Happy Customer",
-      "context": "Google Review",
-      "initials": "HC",
-      "text": "Always friendly with a smile and efficient with my pool! The pool has never looked better! I love getting the detailed reports after each visit."
+      "name": "Verified Customer",
+      "context": "Online Review",
+      "initials": "VC",
+      "text": "Very professional and knows what he is doing. Left my pool crystal clear. The detailed report after each visit is a nice touch that no other company has ever provided."
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Practically Maintains Itself?",
-    "subtitle": "Get a free, no-obligation pool checkup from Seth and the team. We'll assess your pool, give honest recommendations, and have you swimming in a sparkling pool this week.",
+    "headline": "Ready for a Pool You Can<br>Actually Trust?",
+    "subtitle": "Get a free pool checkup and honest assessment within 48 hours. No contracts, no pressure, just transparent service from a family-owned team that documents every visit.",
     "benefits": [
-      "Free pool checkup with every quote",
-      "Detailed report after every visit",
-      "100% satisfaction guaranteed"
+      "Free pool checkup with water chemistry analysis",
+      "Detailed report after every single visit",
+      "Flexible plans with zero contracts or fees"
     ]
   },
   "footer": {
-    "description": "Family-owned pool & patio service. Proudly serving Brevard County's Space Coast.",
-    "service_area": "Serving Titusville, Space Coast & Brevard County, FL",
+    "description": "Family-owned pool and patio care serving the Space Coast. Eco-friendly products and transparent reporting after every visit.",
+    "service_area": "Serving Titusville, Cocoa, Cocoa Beach, Merritt Island, Cape Canaveral & Brevard County",
     "services": [
       "Weekly Pool Maintenance",
       "Chemical Balancing",
-      "Deep Pool Cleans",
       "Patio Pressure Washing",
-      "Commercial Pool Service"
+      "One-Time Deep Cleans",
+      "Commercial Pool Services"
     ],
-    "copyright": "&copy; 2024 Atlantic Coastline Pools, LLC. All rights reserved. Titusville, FL"
+    "copyright": "&copy; 2026 Atlantic Coastline Pools. All rights reserved. Certified & Insured | BBB Listed | Eco-Friendly"
   }
 }

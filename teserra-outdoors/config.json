@@ -5,15 +5,13 @@
   "phone": "+1 888-837-3772",
   "email": "brockb@teserraoutdoors.com",
   "logo_path": "logo.png",
-  "review_count": "204",
-  "review_rating": "4.6",
   "colors": {
     "primary": "#1B3A5C",
-    "primary_dark": "#122841",
-    "primary_deeper": "#0D1E30",
+    "primary_dark": "#122840",
+    "primary_deeper": "#0B1C2E",
     "secondary": "#D4A853",
     "cta": "#D4A853",
-    "cta_dark": "#B8903F"
+    "cta_dark": "#B8923F"
   },
   "trust_badges": {
     "badge_1": "CA LIC #656128",
@@ -23,13 +21,13 @@
   "hero": {
     "badge_1": "4.6/5 from 204+ Google Reviews",
     "badge_2": "Google Guaranteed",
-    "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Built to Last</span>",
-    "subheadline": "For over 40 years, Teserra has designed and built breathtaking pools and outdoor living spaces across the Coachella Valley and Orange County. From custom pools to complete backyard transformations, we handle every detail so you can enjoy the result.",
+    "headline": "40 Years Building <span class=\"text-secondary italic\">Dream Outdoor<br>Living Spaces</span>",
+    "subheadline": "From custom pools and spas to full landscape transformations, Teserra Outdoors has been the Coachella Valley and Orange County's most trusted outdoor builder since 1985. Let us turn your backyard into the resort you deserve.",
     "cta_text": "Start Your Project Today",
     "checkmarks": [
       "Free design consultation",
-      "On-time, on-budget delivery",
-      "40+ years of expertise"
+      "40+ years of proven expertise",
+      "Serving Coachella Valley & OC"
     ]
   },
   "stats": {
@@ -37,107 +35,107 @@
     "stat_1_label": "Projects Completed",
     "stat_2_value": "40",
     "stat_2_label": "Years Experience",
-    "stat_3_value": "2",
-    "stat_3_label": "Regions Served",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_3_value": "204",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "4.6★",
+    "stat_4_label": "Average Rating"
   },
   "services": {
     "label": "Our Expertise",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Design & Construction",
-    "subtitle": "From stunning custom pools to fully equipped outdoor kitchens, Teserra delivers every element of your dream backyard under one roof. No subcontractor runaround, no finger-pointing — just exceptional craftsmanship from start to finish.",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Built From the Ground Up",
+    "subtitle": "From pools and putting greens to outdoor kitchens and fire features, Teserra delivers every element of your dream backyard under one roof.",
     "cards": [
       {
         "title": "Custom Pool Construction",
-        "description": "Resort-style pools, intimate backyard retreats, and commercial aquatic facilities — designed and built from the ground up to match your vision and lifestyle."
+        "description": "Residential and commercial pools designed and built with four decades of expertise. Every pool is tailored to your vision, property, and lifestyle."
       },
       {
-        "title": "Pool Remodeling",
-        "description": "Breathe new life into your existing pool with resurfacing, updated tile, modern equipment upgrades, and fresh design elements that transform the space."
+        "title": "Pool & Spa Remodeling",
+        "description": "Complete renovation services from resurfacing and tile work to full redesigns. We modernize aging pools and transform them into stunning centerpieces."
       },
       {
-        "title": "Outdoor Living Spaces",
-        "description": "Pergolas, shade structures, patios, and entertainment areas that extend your home into the outdoors. Designed for the desert climate and coastal breezes."
+        "title": "Landscape Design & Install",
+        "description": "Custom outdoor landscape planning and installation that transforms ordinary yards into beautiful, functional living environments you love."
       },
       {
-        "title": "Outdoor Kitchens & Fire Features",
-        "description": "Custom-built kitchens with grills, countertops, and storage, plus firepits and fireplaces for year-round outdoor entertaining under the California sky."
+        "title": "Outdoor Kitchens & Living",
+        "description": "Full outdoor kitchen design with built-in grills, countertops, cabinetry, and pergolas. Everything for alfresco dining and entertaining."
       },
       {
-        "title": "Hardscape & Masonry",
-        "description": "Walkways, retaining walls, driveways, and decorative masonry veneer that tie your entire outdoor environment together with lasting quality."
+        "title": "Putting Greens & Turf",
+        "description": "Expert design and installation of golf putting greens and artificial turf. Our unique golfing industry expertise delivers greens that play true."
       },
       {
-        "title": "Artificial Grass & Putting Greens",
-        "description": "Premium synthetic turf for lawns, pet areas, playgrounds, and tour-quality putting greens — low maintenance, water-saving, and always green."
+        "title": "Hardscape & Fire Features",
+        "description": "Premium patios, walkways, retaining walls, fire pits, and fireplaces using concrete, pavers, and natural stone. Craftsmanship that endures."
       }
     ]
   },
   "how_it_works": {
-    "headline": "From Vision to Reality in Three Steps",
+    "headline": "Three Steps to Your Dream Backyard",
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "Tell us about your dream outdoor space. We'll visit your property, discuss your goals and budget, and provide a detailed design concept — all at no cost to you."
+        "description": "Tell us about your outdoor living goals. We'll schedule a free on-site consultation to discuss design possibilities, timeline, and investment."
       },
       {
         "title": "We Design & Build",
-        "description": "Our in-house design team creates your custom plan. Once approved, our licensed crews handle every phase of construction with weekly progress updates."
+        "description": "Our licensed team handles everything — design, permitting, construction, and finishing. You stay informed at every stage with a dedicated project manager."
       },
       {
-        "title": "Enjoy Your Retreat",
-        "description": "Step into your completed backyard paradise. Every project is backed by our craftsmanship warranty and the Google Guaranteed badge for your peace of mind."
+        "title": "Enjoy Your Outdoor Oasis",
+        "description": "Your dream backyard is complete. From the first splash in your new pool to evening gatherings around the fire pit, it's time to live outdoors."
       }
     ]
   },
   "about": {
-    "label": "Why Homeowners Choose Teserra",
-    "headline": "40+ Years Building Outdoor Living That Lasts",
-    "description": "Since 1985, Teserra has been the most trusted name in outdoor construction across the Coachella Valley and Orange County. Our team brings decades of hands-on experience to every project, whether it's a custom pool, a complete backyard renovation, or a commercial facility. We treat every property like our own — because our reputation depends on it.",
+    "label": "Why Clients Choose Teserra",
+    "headline": "Four Decades of Building What Others Only Imagine",
+    "description": "Since 1985, Teserra Outdoors has been the most respected name in pool construction and landscape design across the Coachella Valley and Orange County. We partner with homeowners, developers, builders, and contractors to deliver limitless possibilities for outdoor living — backed by Google Guaranteed status and California Contractor License #656128.",
     "badge": "Google Guaranteed",
     "features": [
       {
-        "title": "Licensed & Fully Insured",
-        "description": "CA License #656128 with comprehensive insurance coverage. Every project is permitted and built to code — no shortcuts, no exceptions."
+        "title": "Licensed & Google Guaranteed",
+        "description": "CA LIC #656128 and Google Guaranteed status mean you're working with a vetted, trusted, and insured professional."
       },
       {
-        "title": "On-Time, On-Budget Delivery",
-        "description": "We set a schedule and a price, and we stick to both. Our project management process keeps your build on track from groundbreaking to final walkthrough."
+        "title": "Full-Service Outdoor Builder",
+        "description": "Pools, landscapes, kitchens, hardscape, lighting, and turf — one team handles your entire project from concept to completion."
       },
       {
-        "title": "Full-Service, One Team",
-        "description": "Design, engineering, construction, and finishing — all handled by Teserra. One point of contact, one accountable team, one exceptional result."
+        "title": "Putting Green Specialists",
+        "description": "Our unique expertise in the golfing industry means we install putting greens that play true and last for years."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Every project gets a detailed written estimate upfront. We stand behind our numbers — no change-order games, no surprise invoices."
+    "headline": "Transparent Project Pricing. No Surprises.",
+    "subtitle": "Every project is custom. We provide detailed proposals with clear scope, timeline, and investment — so you know exactly what you're getting."
   },
   "guarantee": {
-    "headline": "Our Craftsmanship Guarantee",
-    "description": "Every Teserra project is built to last and backed by our workmanship warranty. If anything we built doesn't meet the standard we promised, we'll make it right at no additional cost. That's the commitment that has earned us 204+ five-star reviews and the Google Guaranteed badge."
+    "headline": "Our \"Craftsmanship\" Guarantee",
+    "description": "Every Teserra project is backed by our commitment to exceptional quality. If any aspect of our work doesn't meet the standards we promised, we'll make it right at no additional cost. After 40+ years, our reputation is built on standing behind every pool, every patio, and every project we deliver."
   },
   "faqs": [
     {
       "question": "How long does a custom pool project take?",
-      "answer": "Most residential pool builds take 8-14 weeks depending on complexity and permitting. We provide a detailed timeline upfront and keep you updated at every phase. Larger outdoor living projects with multiple elements may take longer, and we'll always give you an honest estimate."
+      "answer": "Most custom pool builds take 8-16 weeks depending on scope and complexity. During your free consultation, we'll provide a detailed timeline for your specific project. We keep you informed at every stage."
+    },
+    {
+      "question": "Do you handle all permits and inspections?",
+      "answer": "Yes, Teserra manages everything — design, permitting, inspections, and construction. As a licensed California contractor (LIC #656128), we handle all municipal requirements so you don't have to."
     },
     {
       "question": "Do you serve both Coachella Valley and Orange County?",
-      "answer": "Yes! We have teams operating across both regions. In the Coachella Valley, we serve Palm Springs, Palm Desert, La Quinta, Rancho Mirage, Indian Wells, and surrounding cities. In Orange County, we cover Irvine, Newport Beach, Huntington Beach, Anaheim, and more."
+      "answer": "Absolutely. We have dedicated teams serving the entire Coachella Valley (La Quinta, Palm Springs, Palm Desert, and surrounding areas) as well as Orange County (Irvine, Newport Beach, Huntington Beach, and beyond)."
     },
     {
-      "question": "Can you work within my budget?",
-      "answer": "Absolutely. Our designers are skilled at creating stunning outdoor spaces across a wide range of budgets. During your free consultation, we'll discuss your priorities and design a plan that maximizes impact within your investment range — no pressure, no upselling."
+      "question": "Can you remodel my existing pool?",
+      "answer": "Yes! Pool and spa remodeling is one of our specialties. From resurfacing and new tile to complete redesigns with added features like waterfalls or fire bowls, we can transform your existing pool into something extraordinary."
     },
     {
-      "question": "What makes Teserra different from other contractors?",
-      "answer": "Over 40 years of experience, a full in-house team (no subcontractor shuffle), the Google Guaranteed badge, and a track record of on-time, on-budget delivery. We've built thousands of projects and our 4.6-star rating across 204+ reviews speaks for itself."
-    },
-    {
-      "question": "Do you handle permits and HOA approvals?",
-      "answer": "Yes, we manage the entire permitting process and can assist with HOA submissions. Our team is familiar with local building codes across both Coachella Valley and Orange County jurisdictions, so nothing falls through the cracks."
+      "question": "What makes Teserra different from other outdoor builders?",
+      "answer": "40+ years of experience, Google Guaranteed status, and true full-service capability set us apart. We handle everything from pools and landscapes to outdoor kitchens and putting greens — all under one roof with one accountable team."
     }
   ],
   "testimonials": [
@@ -145,40 +143,42 @@
       "name": "Tim H.",
       "context": "Pool and yard construction",
       "initials": "TH",
-      "text": "Teserra was terrific to work with and built a beautiful pool and yard in what we felt was a timely manner. We highly recommend both Adam and the entire Teserra team!"
+      "text": "Teserra was terrific to work with and built a beautiful pool and yard in what we felt was a timely manner. The whole experience exceeded our expectations."
     },
     {
-      "name": "Delanda C.",
-      "context": "Pool remodeling",
-      "initials": "DC",
-      "text": "I had 7 bids and chose Teserra because Ryan was very informative about every aspect of my pool remodel — more so than any of the other companies. Best decision I made."
-    },
-    {
-      "name": "Brian S.",
+      "name": "Brian S. & Jane E.",
       "context": "Custom pool build",
-      "initials": "BS",
-      "text": "We are so thrilled with our Teserra pool. Adam was great to work with and the on-site manager was terrific. The project was on time and on budget and we have a beautiful pool."
+      "initials": "BJ",
+      "text": "We are so thrilled with our Teserra pool. Adam was great to work with and Fernando was terrific. The project was on time and on budget and we have a beautiful pool."
+    },
+    {
+      "name": "Barb R.",
+      "context": "Pool and outdoor construction",
+      "initials": "BR",
+      "text": "Could not be more pleased! Everyone on the Teserra team — John, Brock, and Jessie — plus all the providers they chose were wonderful. Outstanding quality from start to finish."
     }
   ],
   "contact": {
-    "headline": "Ready to Build Your<br>Dream Backyard?",
-    "subtitle": "Get a free design consultation and project estimate. No pressure, no obligation — just honest guidance from a team with 40+ years of experience.",
+    "headline": "Ready to Build Your<br>Dream Outdoor Space?",
+    "subtitle": "Schedule a free design consultation. We'll visit your property, discuss your vision, and provide a detailed proposal — no pressure, no obligation.",
     "benefits": [
       "Free on-site design consultation",
-      "Detailed written estimate within days",
-      "Google Guaranteed for your protection"
+      "Detailed proposal within one week",
+      "40+ years of trusted craftsmanship"
     ]
   },
   "footer": {
-    "description": "Builders of exceptional outdoor living since 1985. Serving Coachella Valley and Orange County.",
+    "description": "Builders of exceptional outdoor living. Serving the Coachella Valley & Orange County since 1985.",
     "service_area": "Serving Coachella Valley & Orange County, CA",
     "services": [
       "Custom Pools",
       "Pool Remodeling",
+      "Landscape Design",
       "Outdoor Kitchens",
-      "Hardscape & Masonry",
-      "Artificial Grass"
+      "Putting Greens"
     ],
     "copyright": "&copy; 2024 Teserra Outdoors. All rights reserved. CA LIC #656128"
-  }
+  },
+  "review_count": "204",
+  "review_rating": "4.6"
 }

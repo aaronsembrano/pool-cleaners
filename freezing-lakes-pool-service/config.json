@@ -1,0 +1,180 @@
+{
+  "folder_name": "freezing-lakes-pool-service",
+  "company_name": "Freezing Lakes Pool Service",
+  "tagline": "Relax & Enjoy Your Pool",
+  "phone": "+1 702-417-5681",
+  "email": "max.flores@freezinglakespools.com",
+  "logo_path": "logo.png",
+  "review_count": "12",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1a73e8",
+    "primary_dark": "#1557b0",
+    "primary_deeper": "#0d3f82",
+    "secondary": "#f59e0b",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "hero": {
+    "headline": "29 Years Keeping Vegas Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Since 1997, Las Vegas homeowners have trusted our owner-operated team for worry-free weekly pool maintenance. Eco-friendly products, honest pricing, and a pool you can actually enjoy.",
+    "badges": [
+      "4.5★ Google Rated",
+      "Licensed & Insured Since 1997"
+    ],
+    "checkmarks": [
+      "Owner on every service visit",
+      "Eco-friendly, skin-safe chemicals",
+      "Weekly maintenance from $110/mo"
+    ],
+    "cta_text": "Get Your Free Pool Estimate"
+  },
+  "stats": {
+    "stat_1_value": "29",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "12",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "1500",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "headline": "Pool Services Built for the Desert",
+    "subtitle": "From weekly maintenance to deep cleaning treatments, we handle every aspect of your pool care so you never have to.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Complete weekly care including pH balancing, chlorine treatment, skimmer cleaning, brushing, debris removal, and vacuuming your pool floor."
+      },
+      {
+        "title": "Water Testing & Balancing",
+        "description": "Professional water chemistry analysis followed by precise application of eco-friendly, skin-safe products to restore perfect balance."
+      },
+      {
+        "title": "Acid Wash Treatment",
+        "description": "Deep cleaning acid wash to remove stubborn stains, algae buildup, and mineral deposits — bringing your pool surface back to like-new condition."
+      },
+      {
+        "title": "Shock Cycle Service",
+        "description": "Specialized super-chlorination and oxidation treatment for high-use pools, eliminating bacteria and viruses after heavy swim activity."
+      },
+      {
+        "title": "Equipment Inspection",
+        "description": "Thorough pump, filter, and skimmer inspections to catch potential issues early — before they turn into expensive repairs."
+      },
+      {
+        "title": "Seasonal Pool Prep",
+        "description": "Get your pool ready for peak Vegas summer with a full equipment check, deep clean, and chemical optimization for heavy use months."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Call or fill out our form. We'll schedule a convenient time to assess your pool's needs — no pressure, no obligation."
+      },
+      {
+        "title": "Get a Custom Care Plan",
+        "description": "We'll test your water, inspect your equipment, and recommend the right service plan for your pool size and usage."
+      },
+      {
+        "title": "Relax & Enjoy Your Pool",
+        "description": "We handle everything on a reliable weekly schedule. You just enjoy crystal clear water every time you step outside."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Freezing Lakes Pool Service",
+    "headline": "Owner-Operated Pool Care You Can Count On",
+    "description": "Since 1997, Max Flores and the Freezing Lakes team have provided honest, reliable pool maintenance across the Las Vegas Valley. We believe in personal accountability — the owner is involved in every service visit. Our eco-friendly approach keeps your pool safe for your family while our nearly 30 years of experience means we've seen and solved every pool problem Vegas can throw at us.",
+    "badge": "Serving Las Vegas Since 1997",
+    "features": [
+      {
+        "title": "Owner-Operated Service",
+        "description": "Max personally oversees every account — you'll never deal with an anonymous technician or call center."
+      },
+      {
+        "title": "Eco-Friendly & Skin-Safe",
+        "description": "We use only eco-friendly, skin-safe products so your family and pets can swim without worry."
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed by the State of Nevada with nearly 30 years of proven pool care expertise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pool Care Pricing",
+    "subtitle": "Weekly maintenance plans starting at $110/month. No hidden fees, no long-term contracts. Just reliable service you can count on."
+  },
+  "guarantee": {
+    "headline": "Our Promise to You",
+    "description": "If you're not completely satisfied with any service visit, we'll come back and make it right at no extra charge. We've built our reputation on honesty and integrity for 29 years — and we stand behind every job with the owner's personal guarantee."
+  },
+  "faqs": [
+    {
+      "question": "How often should my pool be serviced in Las Vegas?",
+      "answer": "In the Las Vegas heat, weekly service is essential to maintain proper chemical balance and prevent algae growth. Our standard plans include once-per-week visits to keep your pool swim-ready year-round."
+    },
+    {
+      "question": "What's included in weekly maintenance?",
+      "answer": "Every visit includes pH and chlorine balancing, skimmer and pump basket cleaning, brushing walls/steps/tiles, surface skimming, debris removal, vacuuming, and a full equipment check."
+    },
+    {
+      "question": "Do you use chemicals that are safe for kids and pets?",
+      "answer": "Absolutely. We use eco-friendly, skin-safe products that effectively sanitize your pool without harsh side effects. Your family and pets can swim with confidence."
+    },
+    {
+      "question": "What is a shock cycle and does my pool need one?",
+      "answer": "A shock cycle is a super-chlorination treatment that eliminates bacteria and viruses. We recommend it for pools hosting 10+ swimmers per week or after pool parties to restore safe water quality."
+    },
+    {
+      "question": "Do you offer free estimates?",
+      "answer": "Yes! We provide free, no-obligation estimates. We'll visit your property, assess your pool's condition, test the water, and recommend the right service plan for your needs and budget."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert",
+      "text": "HONESTY, INTEGRITY, TRUST, RELIABLE!!! I have been a client for 2 years now. Max has proven to me that he is dependable and takes great care of my pool.",
+      "context": "5-star Google Review",
+      "initials": "R"
+    },
+    {
+      "name": "Verified Customer",
+      "text": "I loved this company. My appointment was confirmed day before, they were on time and spent extra time on areas that were damaged from previous renters.",
+      "context": "Yelp Review",
+      "initials": "VC"
+    },
+    {
+      "name": "Verified Customer",
+      "text": "Fast, affordable and reliable. Joey is the only pool guy I will ever use. Very nice chap who was friendly and knowledgeable about the job.",
+      "context": "Online Review",
+      "initials": "VC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You Actually Enjoy?",
+    "subtitle": "Get your free estimate today. No contracts, no pressure — just honest pool care from a team that's been doing it right since 1997.",
+    "benefits": [
+      "Free no-obligation estimate",
+      "Same-week service available",
+      "Owner responds personally"
+    ]
+  },
+  "footer": {
+    "description": "Freezing Lakes Pool Service has been providing trusted, owner-operated pool maintenance across the Las Vegas Valley since 1997. Licensed, insured, and committed to keeping your pool crystal clear.",
+    "service_area": "Serving Las Vegas, Henderson, North Las Vegas, and surrounding areas in the Las Vegas Valley, NV",
+    "service_links": [
+      "Weekly Pool Maintenance",
+      "Water Testing & Balancing",
+      "Acid Wash Treatment",
+      "Shock Cycle Service",
+      "Equipment Inspection"
+    ],
+    "copyright": "© 2026 Freezing Lakes Pool Service Inc. All rights reserved."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "poolservice-company-arlington",
+  "company_name": "Poolservice Company",
+  "tagline": "The Clear Choice For All Your Pool Services",
+  "phone": "+1 703-528-3400",
+  "email": "cochise.wanzer@poolservicecompany.com",
+  "logo_path": "logo.png",
+  "review_count": "36",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0E4D6E",
+    "primary_dark": "#0A3A53",
+    "primary_deeper": "#072B3E",
+    "secondary": "#2A9D8F",
+    "cta": "#D97706",
+    "cta_dark": "#B45309"
+  },
+  "trust_badges": {
+    "badge_1": "Fully Insured & Bonded",
+    "badge_2": "BBB A+ Rated",
+    "badge_3": "Serving NoVA Since 1968"
+  },
+  "hero": {
+    "badge_1": "BBB A+ Rating — Trusted Since 1968",
+    "badge_2": "Fully Insured & Bonded",
+    "headline": "58 Years Keeping NoVA Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Since 1968, Northern Virginia families have trusted Poolservice Company to handle every detail of pool care — from opening day to winter watch. Stop worrying about chemicals, equipment, and weekend chores. We handle it all so you just dive in.",
+    "cta_text": "Request Your Free Pool Quote",
+    "checkmarks": [
+      "Free pool assessment",
+      "Year-round service available",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1968",
+    "stat_2_value": "58",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1968",
+    "stat_3_label": "Established",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Opening to Closing",
+    "subtitle": "From the first warm day of spring to the last leaf of fall, we keep your pool pristine, safe, and ready to enjoy. Year-round expertise for every Northern Virginia pool owner.",
+    "cards": [
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Comprehensive seasonal services including equipment inspection, chemical balancing, system startup in spring, and full winterization to protect your investment through cold months."
+      },
+      {
+        "title": "Weekly Maintenance",
+        "description": "Year-round professional maintenance including cleaning, chemical balancing, water quality monitoring, and equipment checks — your pool stays swim-ready every single week."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, and mechanical systems. Our experienced technicians fix it right the first time, keeping downtime to a minimum."
+      },
+      {
+        "title": "Drain & Clean",
+        "description": "Complete pool draining and thorough deep cleaning to remove buildup, stains, and debris. We restore your pool to like-new condition so it looks and feels fresh."
+      },
+      {
+        "title": "Water Analysis & Chemistry",
+        "description": "Professional water testing to ensure proper chemical balance, crystal clarity, and safe swimming conditions. No red eyes, no irritation — just pure, clean water."
+      },
+      {
+        "title": "Vacation & Winter Watch",
+        "description": "Reliable pool care while you are away plus ongoing winter monitoring to prevent freeze damage, check covers, and keep your pool secure through the off-season."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and we will visit your property for a thorough assessment. You will receive an honest, no-pressure quote tailored to your pool's specific needs."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our experienced, fully insured technicians arrive on schedule. Cleaning, chemicals, equipment checks, repairs — every detail handled by pros who have been doing this for decades."
+      },
+      {
+        "title": "Enjoy Your Pool Year-Round",
+        "description": "Your pool stays crystal clear and worry-free in every season. From summer swims to winter protection, we have you covered. Not satisfied? We come back and make it right — free."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Northern Virginia Trusts Us",
+    "headline": "58 Years of Keeping Pools Perfect — One Family at a Time",
+    "description": "Since 1968, Poolservice Company has been the trusted choice for Northern Virginia pool owners. Our long-tenured technicians know your pool inside and out because many have serviced the same neighborhoods for years. We deliver customized, personalized care — not cookie-cutter service — because every pool and every family is different.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Fully Insured & Bonded",
+        "description": "Complete peace of mind knowing every technician and every visit is backed by full insurance and bonding coverage."
+      },
+      {
+        "title": "Customized Service Plans",
+        "description": "No two pools are alike. We build a care plan around your pool's specific needs, your schedule, and your budget."
+      },
+      {
+        "title": "Year-Round Availability",
+        "description": "From summer maintenance to winter watch, we are here 12 months a year. Your pool is never left unattended."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Every pool is different, so we quote based on your specific needs. No hidden fees, no upsells — just honest pricing from a company that has been around since 1968."
+  },
+  "guarantee": {
+    "headline": "Our \"Perfect Pool\" Promise",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will come back to make it right at no additional charge. We have been earning trust this way for 58 years — and we are not about to stop now."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within one week. If you have an urgent situation like a green pool or equipment failure, call us directly and we will prioritize your service. We have been doing this since 1968 — we know how to move fast."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our clients provide gate or yard access and we handle everything while you are away. After each visit, you will know exactly what was done and the current condition of your pool."
+    },
+    {
+      "question": "Are your technicians insured and experienced?",
+      "answer": "Absolutely. Every technician is fully insured and bonded. Many of our team members have been with us for years and know the specific needs of Northern Virginia pools inside and out."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "No. We believe in earning your business every visit. You can adjust, pause, or cancel your service at any time with no fees or penalties. After 58 years, we know loyalty is earned, not locked in."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We serve the entire Northern Virginia and DC metro area including Arlington, Alexandria, McLean, Falls Church, Burke, Great Falls, and surrounding communities. If you are nearby, chances are we are already in your neighborhood."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Scott S.",
+      "text": "Extremely professional, reliable, and responsive. The personalized service sets them apart from the competition. Our pool has never looked better.",
+      "context": "Washington, DC",
+      "initials": "SS"
+    },
+    {
+      "name": "Kevin B.",
+      "text": "Knowledgeable staff and competitive pricing on our heater installation. They really know their stuff and saved us money compared to other quotes we received.",
+      "context": "Burke, VA",
+      "initials": "KB"
+    },
+    {
+      "name": "Robert M.",
+      "text": "They take a cost-effective problem-solving approach that other companies just don't offer. Saved us significant money on what we thought would be a major repair.",
+      "context": "McLean, VA",
+      "initials": "RM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Takes Care of Itself?",
+    "subtitle": "Get a free, no-pressure assessment from Northern Virginia's most experienced pool service team. 58 years of expertise, one phone call away.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "Fully insured and bonded service"
+    ]
+  },
+  "footer": {
+    "description": "Serving Northern Virginia pool owners since 1968. Fully insured, bonded, and BBB A+ rated.",
+    "service_area": "Serving Arlington, Alexandria, McLean, Falls Church, Burke, Great Falls & the DC Metro Area",
+    "services": [
+      "Pool Opening & Closing",
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Drain & Clean",
+      "Water Analysis"
+    ],
+    "copyright": "&copy; 2024 Poolservice Company. All rights reserved. Serving Northern Virginia since 1968."
+  }
+}

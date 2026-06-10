@@ -1,0 +1,180 @@
+{
+  "folder_name": "wax-man-spa",
+  "company_name": "Wax Man Spa",
+  "tagline": "Zero Attitude - Judgement Free Professional Spa Services",
+  "phone": "+1 872-208-3702",
+  "email": "julio@waxmanspa.com",
+  "logo_path": "logo.png",
+  "review_count": "99",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1a1a2e",
+    "primary_dark": "#121222",
+    "primary_deeper": "#0a0a18",
+    "secondary": "#c9a96e",
+    "cta": "#c9a96e",
+    "cta_dark": "#b8935a"
+  },
+  "hero": {
+    "headline": "Chicago's Judgement-Free <span class=\"text-secondary italic\">Men's Spa</span>",
+    "subheadline": "Professional waxing, skin care, and grooming in a welcoming, zero-attitude environment. Proudly LGBTQ-owned, Latinx-owned, and veteran-owned since 2013.",
+    "badges": [
+      "5.0 Stars - 99 Reviews",
+      "Yelp People Love Us Award Winner"
+    ],
+    "checkmarks": [
+      "Inclusive & welcoming to all clients",
+      "Skilled estheticians with 13+ years experience",
+      "ADA-compliant & wheelchair accessible"
+    ],
+    "cta_text": "Book Your Appointment"
+  },
+  "stats": {
+    "stat_1_value": "13",
+    "stat_1_label": "Years Serving Chicago",
+    "stat_2_value": "5.0",
+    "stat_2_label": "Star Google Rating",
+    "stat_3_value": "99",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "3",
+    "stat_4_label": "Yelp Awards Won"
+  },
+  "services": {
+    "headline": "Professional Spa Services",
+    "subtitle": "Every service delivered in a clean, comfortable, and judgement-free environment by skilled estheticians.",
+    "cards": [
+      {
+        "title": "Full Body Waxing",
+        "description": "Expert hair removal for back, chest, arms, shoulders, and legs. Fast, thorough, and as comfortable as possible."
+      },
+      {
+        "title": "Facial Waxing",
+        "description": "Precision eyebrow shaping, upper lip, and full face waxing to keep you looking sharp and well-groomed."
+      },
+      {
+        "title": "Eyebrow Tinting",
+        "description": "Professional eyebrow tinting to define and enhance your brows for a polished, natural-looking result."
+      },
+      {
+        "title": "Custom Facials",
+        "description": "Tailored facial treatments addressing your specific skin concerns with deep cleansing, exfoliation, and targeted care."
+      },
+      {
+        "title": "Men's Grooming",
+        "description": "Complete grooming services designed to help you look and feel your best, from head to toe."
+      },
+      {
+        "title": "Skin Care Treatments",
+        "description": "Targeted skin solutions for acne, aging, dryness, and more, customized to your unique skin type and goals."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How It Works",
+    "steps": [
+      {
+        "title": "Book Online or Call",
+        "description": "Schedule your appointment at a time that works for you. First-timers get a brief consultation to discuss your needs."
+      },
+      {
+        "title": "Relax & Enjoy",
+        "description": "Arrive at our Ravenswood studio and settle in. Your esthetician will walk you through every step in a comfortable, pressure-free setting."
+      },
+      {
+        "title": "Leave Looking Great",
+        "description": "Walk out feeling confident with smooth skin and a fresh look. We will get you on a schedule to maintain your results."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Wax Man Spa",
+    "headline": "Ravenswood's Award-Winning Spa Since 2013",
+    "description": "Wax Man Spa was founded on one simple idea: everyone deserves professional spa services in a space where they feel welcome. As an LGBTQ-owned, Latinx-owned, and veteran-owned business, we have built a loyal following by treating every client with respect, delivering outstanding results, and keeping our prices fair. Our skilled team has earned us the Yelp 'People Love Us' award three years running, and we are proud to serve Chicago's North Side from our accessible, gender-inclusive Ravenswood studio.",
+    "badge": "Veteran-Owned Business",
+    "features": [
+      {
+        "title": "LGBTQ, Latinx & Veteran-Owned",
+        "description": "We are proudly owned by members of the LGBTQ, Latinx, and veteran communities, bringing diverse perspectives and deep commitment to every client."
+      },
+      {
+        "title": "Gender-Neutral & Inclusive",
+        "description": "Our studio features gender-neutral restrooms and a welcoming atmosphere where every person feels comfortable and respected."
+      },
+      {
+        "title": "Military Discount Available",
+        "description": "As a veteran-owned business, we offer a military discount to active service members and veterans as a thank you for your service."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent, Fair Pricing",
+    "subtitle": "No hidden fees, no pressure to upsell. Just honest pricing for quality spa services you will love."
+  },
+  "guarantee": {
+    "headline": "Our Comfort Guarantee",
+    "description": "Your comfort is our top priority. If at any point during your service you feel uneasy, we will adjust our approach or stop entirely, no questions asked. We have built our reputation on making every client feel safe and respected, and we stand behind that promise with every visit."
+  },
+  "faqs": [
+    {
+      "question": "Is Wax Man Spa only for men?",
+      "answer": "While we specialize in men's services, we welcome clients of all genders. Our studio is inclusive, with gender-neutral restrooms and a judgement-free atmosphere for everyone."
+    },
+    {
+      "question": "How should I prepare for a waxing appointment?",
+      "answer": "Hair should be about a quarter-inch long for best results. Avoid sun exposure and exfoliating products 24 hours before your appointment. We will walk you through everything when you arrive."
+    },
+    {
+      "question": "Is waxing painful?",
+      "answer": "Discomfort varies by person and area, but our experienced estheticians use professional techniques to minimize pain. Many clients, like our 7-year regulars, describe the experience as quick and surprisingly easy."
+    },
+    {
+      "question": "Do you offer military discounts?",
+      "answer": "Yes! As a veteran-owned business, we are proud to offer a military discount. Just mention your service when booking or at check-in."
+    },
+    {
+      "question": "Is the spa wheelchair accessible?",
+      "answer": "Absolutely. Our Ravenswood location is fully ADA-compliant and wheelchair accessible, so every client can enjoy our services comfortably."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Tom's Client",
+      "text": "I had a really great experience here. Tom was professional, kind, and made me feel completely comfortable. His communication and attention to detail were outstanding, and the whole atmosphere was welcoming.",
+      "context": "Waxing Service",
+      "initials": "TC"
+    },
+    {
+      "name": "Long-Time Customer",
+      "text": "This place is fantastic - it is always a first class experience. Prices are fair and well worth the money. The attention to detail here is superior to larger competitors.",
+      "context": "Regular Client",
+      "initials": "LC"
+    },
+    {
+      "name": "Yesenia's Client",
+      "text": "I've been going to Yesenia for 7 years. She is the best - always super fast and painless. She makes the experience funny and light-hearted every single time.",
+      "context": "7-Year Client",
+      "initials": "YC"
+    }
+  ],
+  "contact": {
+    "headline": "Book Your Visit",
+    "subtitle": "Ready to experience Chicago's most welcoming spa? Reach out today and we will get you scheduled.",
+    "benefits": [
+      "Same-week appointments often available",
+      "Free consultation for first-time clients",
+      "Convenient Ravenswood location with easy parking"
+    ]
+  },
+  "footer": {
+    "description": "Wax Man Spa is Chicago's premier judgement-free men's day spa, proudly serving the Ravenswood neighborhood and North Side communities since 2013.",
+    "service_area": "Chicago, IL - Ravenswood, Lincoln Square, Uptown, Andersonville, Lakeview, and surrounding North Side neighborhoods",
+    "service_links": [
+      "Full Body Waxing",
+      "Facial Waxing",
+      "Custom Facials",
+      "Men's Grooming",
+      "Skin Care Treatments"
+    ],
+    "copyright": "Wax Man Spa. All rights reserved."
+  }
+}

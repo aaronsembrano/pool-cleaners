@@ -1,0 +1,184 @@
+{
+  "folder_name": "jomo-pool-services",
+  "company_name": "Jomo Pool Services",
+  "tagline": "Experience the Joy of Missing Out",
+  "phone": "(904) 222-0809",
+  "email": "jlewis@jomopoolservice.com",
+  "logo_path": "logo.png",
+  "review_count": "730",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#0066CC",
+    "primary_dark": "#004A99",
+    "primary_deeper": "#003366",
+    "secondary": "#F5C518",
+    "cta": "#F5C518",
+    "cta_dark": "#D4A910"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Insured & CPO Certified",
+    "badge_2": "4.9/5 from 730+ Reviews",
+    "badge_3": "Flat Monthly Pricing"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 730+ Google Reviews",
+    "badge_2": "LSI-Balanced Water Chemistry",
+    "headline": "Your Pool, Perfect. <span class=\"text-secondary italic\">Your Weekend,<br>Yours Again</span>",
+    "subheadline": "Jacksonville pool owners trust JOMO because we show up every week like clockwork, balance your water with precision LSI testing, and never leave you guessing. Founded by pool owners who got tired of bad service — so you never have to.",
+    "cta_text": "Get My Free Pool Evaluation",
+    "checkmarks": [
+      "Free pool evaluation",
+      "Service starts this week",
+      "No contracts ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "730",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "6",
+    "stat_2_label": "Years Serving Jax",
+    "stat_3_value": "3000",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Show-Up Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Pool Care Designed Around<br class=\"hidden md:block\"> Your Life, Not Ours",
+    "subtitle": "From weekly chemistry balancing to full-service cleaning and equipment repair, every JOMO plan is built so you can skip the work and enjoy the water.",
+    "cards": [
+      {
+        "title": "AquaJOMO - Water Chemistry",
+        "description": "Weekly or bi-weekly water chemistry testing and LSI balancing that protects your pool surface and equipment. Science-driven care, not guesswork."
+      },
+      {
+        "title": "SparklingJOMO Plus - Weekly Service",
+        "description": "Comprehensive weekly cleaning, chemistry balancing, filter and salt cell maintenance, and full equipment inspection. The works, every single week."
+      },
+      {
+        "title": "SparklingJOMO - Bi-Weekly Cleaning",
+        "description": "Designed for covered salt pools. Includes skimming, brushing, basket cleaning, water balancing, and filter maintenance on a bi-weekly schedule."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnostics and repair for pumps, filters, automation systems, and heaters. Quality parts, fast turnaround, and honest pricing on every job."
+      },
+      {
+        "title": "SaltyJOMO - Salt Conversion",
+        "description": "Full salt system installation and ongoing maintenance. We handle the transition so you can enjoy softer water and lower chemical costs."
+      },
+      {
+        "title": "RoboJOMO - Robotic Cleaner Add-On",
+        "description": "Supplement your service plan with automated robotic cleaning between visits. Your pool stays cleaner, longer, with zero extra effort from you."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to the Joy of Missing Out",
+    "steps": [
+      {
+        "title": "Book Your Free Evaluation",
+        "description": "Tell us about your pool and we'll schedule a free on-site evaluation. Within 24 hours you'll have an honest quote — no pressure, no contracts, no fine print."
+      },
+      {
+        "title": "We Show Up Like Clockwork",
+        "description": "Our dual-certified technicians arrive on your scheduled day, every single week. LSI water balancing, cleaning, equipment checks — all handled while you're living your life."
+      },
+      {
+        "title": "Experience the JOMO",
+        "description": "Your pool stays crystal clear and swim-ready without you lifting a finger. That's the Joy of Missing Out — missing the hassle, not the fun."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Jacksonville Trusts JOMO",
+    "headline": "Founded by Pool Owners Who Were Tired of Bad Pool Service",
+    "description": "In 2020, Mark Slater and John Lewis — two Jacksonville pool owners frustrated with missed visits and poor communication — decided to build the pool company they wished existed. Partnering with industry veteran Chris Wiedegreen, they created JOMO Pool Service on a simple promise: show up every week, balance the water right, and communicate like adults. We pay our technicians above industry average because your pool deserves top talent, and we use LSI water testing at every visit because close enough isn't good enough.",
+    "badge": "Dual CPO & FPPS Certified",
+    "features": [
+      {
+        "title": "LSI Water Balancing Every Visit",
+        "description": "We use Langelier Saturation Index testing at every service visit — the gold standard in water chemistry that protects your pool surface and equipment."
+      },
+      {
+        "title": "Flat Monthly Fee, Everything Included",
+        "description": "One predictable monthly price covers chemicals, equipment maintenance, and weekly service. No surprise charges, no nickel-and-diming."
+      },
+      {
+        "title": "We Show Up. Every. Week.",
+        "description": "No missed visits, no excuses. Our technicians are scheduled, tracked, and accountable. You'll know exactly when we're coming and what we did."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Flat Monthly Pricing. Zero Surprises.",
+    "subtitle": "Every JOMO plan includes chemicals, equipment checks, and weekly service. Pick what fits your pool — upgrade or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Perfect Pool\" Promise",
+    "description": "If your pool isn't perfect after any visit, call us and we'll come back to make it right — no charge, no questions, no runaround. We founded JOMO because we were tired of pool companies that didn't care. Every pool we touch is treated like our own, and we stand behind every single visit."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can JOMO start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. We'll start with a free on-site evaluation to assess your pool's condition and recommend the right service plan. Need emergency help? Call us and we'll get there fast."
+    },
+    {
+      "question": "What makes JOMO different from other pool companies?",
+      "answer": "We were founded by pool owners who experienced bad service firsthand. We use LSI water balancing at every visit (most companies don't), pay our techs above industry average to attract top talent, and charge a flat monthly fee that covers everything — chemicals included. No surprises."
+    },
+    {
+      "question": "Do I need to be home when your technicians arrive?",
+      "answer": "Not at all. Most clients provide gate access and go about their day. After each visit, you'll know exactly what was done and how your water chemistry looks. We always make sure gates are secured when we leave."
+    },
+    {
+      "question": "What is LSI water balancing and why does it matter?",
+      "answer": "The Langelier Saturation Index is a scientific formula that measures whether your water is corrosive or scale-forming. By balancing to LSI at every visit, we protect your pool surface, equipment, and plumbing — saving you thousands in long-term repairs most pool owners don't see coming."
+    },
+    {
+      "question": "Are there contracts or cancellation fees?",
+      "answer": "Never. We believe in earning your business every visit, not locking you in. You can upgrade, downgrade, or cancel your plan anytime with zero fees and zero hassle. If we're not delivering, you shouldn't be stuck."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Andy G.",
+      "context": "Weekly Pool Maintenance",
+      "initials": "AG",
+      "text": "Tony has been doing a great job keeping our pool looking great and is always friendly with us and our dogs, always making sure the gates are closed when he leaves."
+    },
+    {
+      "name": "Travis C.",
+      "context": "Weekly Pool Service",
+      "initials": "TC",
+      "text": "Travis comes to service our pool every week and does a great job. He's always courteous and thorough. Anytime I have a question he always takes time to answer them."
+    },
+    {
+      "name": "Chris R.",
+      "context": "Pool Cleaning Service",
+      "initials": "CR",
+      "text": "Chris, the owner, has a great focus on customer service and has gone out of his way to make my pool spotless. Highly recommend JOMO Pool Service."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Experience<br>the JOMO?",
+    "subtitle": "Get a free, no-pressure pool evaluation within 24 hours. No contracts, no commitments — just honest pricing from a team that actually shows up.",
+    "benefits": [
+      "Free on-site pool evaluation",
+      "Response within 24 hours",
+      "Flat monthly pricing, chemicals included"
+    ]
+  },
+  "footer": {
+    "description": "Founded by Jacksonville pool owners. Serving your community since 2020.",
+    "service_area": "Serving Jacksonville, Ponte Vedra, St. Johns, Nocatee & Surrounding Areas",
+    "services": [
+      "Weekly Pool Service",
+      "Water Chemistry & LSI",
+      "Equipment Repair",
+      "Salt System Conversion",
+      "Robotic Cleaner Add-On"
+    ],
+    "copyright": "&copy; 2024 Jomo Pool Services, LLC. All rights reserved. Licensed & Insured."
+  }
+}

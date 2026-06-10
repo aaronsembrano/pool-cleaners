@@ -1,0 +1,180 @@
+{
+  "folder_name": "pool-shark-h2o",
+  "company_name": "Pool Shark H2O, Inc",
+  "tagline": "Pools that are managed correctly cost less to own and run!",
+  "phone": "+1 855-742-7542",
+  "email": "scott@poolsharkh2o.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003F63",
+    "secondary": "#00B4D8",
+    "cta": "#F77F00",
+    "cta_dark": "#D66A00"
+  },
+  "hero": {
+    "headline": "Smarter Pool Management <span class=\"text-secondary italic\">Costs Less</span>",
+    "subheadline": "The cloud-based commercial pool management system trusted by YMCAs, hotels, and property managers nationwide. Cut chemical costs, eliminate paper logs, and stay 100% compliant with health departments.",
+    "badges": [
+      "CMAHC Certified Technology",
+      "Trusted by 100+ Facilities"
+    ],
+    "checkmarks": [
+      "60-second automated water analysis",
+      "100% health department compliance",
+      "Remote monitoring across all properties"
+    ],
+    "cta_text": "Get Your Free Savings Estimate"
+  },
+  "stats": {
+    "stat_1_value": "14",
+    "stat_1_label": "Years Serving Facilities",
+    "stat_2_value": "4.8",
+    "stat_2_label": "Google Rating",
+    "stat_3_value": "60",
+    "stat_3_label": "Second Water Analysis",
+    "stat_4_value": "100%",
+    "stat_4_label": "Health Dept Compliance"
+  },
+  "services": {
+    "headline": "Everything You Need to Run Pools Smarter",
+    "subtitle": "From automated water testing to enterprise-level compliance reporting, Pool Shark H2O replaces guesswork with precision.",
+    "cards": [
+      {
+        "title": "Digital Pool Log Books",
+        "description": "Cloud-based, health department-compliant pool logging via mobile app. Eliminate paper logs and ensure 100% compliance with local regulations for your aquatic facilities."
+      },
+      {
+        "title": "Chemical Testing & Analysis",
+        "description": "Instant water analysis with automated dosage recommendations. Integrates with LaMotte Spin Touch testers for complete 60-second testing that removes all guesswork."
+      },
+      {
+        "title": "Remote Facility Management",
+        "description": "Real-time notifications and alerts for testing schedules and pool status. Monitor water quality and compliance across multiple properties from anywhere."
+      },
+      {
+        "title": "Corporate Solutions",
+        "description": "Enterprise-level pool management for organizations with multiple aquatic facilities. Centralized oversight, reporting, and compliance documentation across all properties."
+      },
+      {
+        "title": "Pool Volume Calculator",
+        "description": "Professional tool for accurately calculating pool capacity \u2014 essential for proper chemical dosing and health department compliance documentation."
+      },
+      {
+        "title": "Cost Savings Analysis",
+        "description": "Comprehensive savings calculator that estimates your operational cost reductions including chemical, labor, and maintenance savings from implementing our system."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Up and Running in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Connect Your Facility",
+        "description": "Set up your pools in our cloud platform in minutes. Add staff, configure testing schedules, and connect your LaMotte Spin Touch tester."
+      },
+      {
+        "title": "Test & Log Automatically",
+        "description": "Staff run 60-second water tests and results upload instantly. The system calculates exact chemical doses and logs everything for compliance."
+      },
+      {
+        "title": "Monitor & Save",
+        "description": "Track all properties remotely, receive real-time alerts, and watch your chemical and labor costs drop while pools stay open more days per year."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Pool Shark H2O",
+    "headline": "14 Years of Innovation in Commercial Pool Management",
+    "description": "Founded in 2012 in Bennington, Vermont, Pool Shark H2O built the technology that commercial aquatic facilities needed but didn't have. Our cloud-based platform integrates with LaMotte Spin Touch testers to deliver automated 60-second water analysis with instant chemical dosage recommendations. We serve YMCAs, hotels, residential communities, and corporate facilities nationwide \u2014 helping them save on chemicals, labor, and maintenance while keeping pools open more days per year.",
+    "badge": "CMAHC Certified & LaMotte Integration Partner",
+    "features": [
+      {
+        "title": "LaMotte Spin Touch Integration",
+        "description": "Automated 60-second complete water testing with instant chemical dosage recommendations \u2014 no guesswork, no chemistry degree required."
+      },
+      {
+        "title": "Cloud-Based Remote Monitoring",
+        "description": "Monitor water quality and compliance across unlimited properties from anywhere. Real-time alerts keep you informed 24/7."
+      },
+      {
+        "title": "Step Into Swim Partner",
+        "description": "Proud partner of the Step Into Swim drowning prevention initiative, committed to making aquatic facilities safer for everyone."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Plans That Pay for Themselves",
+    "subtitle": "Most facilities recoup their investment within the first month through chemical and labor savings alone."
+  },
+  "guarantee": {
+    "headline": "Our Compliance Guarantee",
+    "description": "If your facility doesn't achieve 100% health department compliance documentation within 30 days of implementing Pool Shark H2O, we'll work with you one-on-one until it does \u2014 at no additional cost. We've spent 14 years perfecting this system so you never worry about a failed inspection again."
+  },
+  "faqs": [
+    {
+      "question": "How does the LaMotte Spin Touch integration work?",
+      "answer": "Simply place your water sample in the LaMotte Spin Touch tester and it performs a complete analysis in 60 seconds. Results automatically sync to Pool Shark H2O, which instantly calculates the exact chemical doses needed and logs everything for compliance."
+    },
+    {
+      "question": "Will this help us pass health department inspections?",
+      "answer": "Absolutely. Pool Shark H2O provides 100% compliant digital documentation that health departments accept. Your testing records, chemical logs, and maintenance history are always accessible and audit-ready."
+    },
+    {
+      "question": "How many pools or properties can we manage?",
+      "answer": "There's no limit. Our corporate solutions support organizations managing dozens or hundreds of pools across multiple properties, all from a single centralized dashboard with remote monitoring."
+    },
+    {
+      "question": "What kind of savings can we expect?",
+      "answer": "Most facilities see significant reductions in chemical costs (from precise dosing), labor costs (from automated logging), and maintenance costs (from consistent water balance). Many clients report savings that far exceed the cost of the system within the first month."
+    },
+    {
+      "question": "Is training required for our staff?",
+      "answer": "The system is designed to be intuitive. Staff can be trained in under 30 minutes. The mobile app guides them through each test, and the automated dosage recommendations eliminate the need for chemistry expertise."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jeremy R.",
+      "text": "Within the last month we have saved chemicals, time, and labor costs far beyond what I would have imagined.",
+      "context": "Aquatic Director",
+      "initials": "JR"
+    },
+    {
+      "name": "Roy",
+      "text": "We eliminated the need to acid wash any of our pools last year. In the past we have done at least 4 a year.",
+      "context": "Regional Service Director, Fairfield Residential",
+      "initials": "RY"
+    },
+    {
+      "name": "Hotel Manager",
+      "text": "Pool Shark H2O is the best software on the market. We have used and tested many other products and none have come close to Pool Shark H2O.",
+      "context": "Hotel property, 4-5 year user",
+      "initials": "HM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Cut Costs and Stay Compliant?",
+    "subtitle": "Get a personalized savings analysis for your facility. See exactly how much Pool Shark H2O can save you in chemicals, labor, and maintenance.",
+    "benefits": [
+      "Free savings estimate for your facility",
+      "Live demo of the platform and mobile app",
+      "No commitment \u2014 see the numbers first"
+    ]
+  },
+  "footer": {
+    "description": "Pool Shark H2O provides cloud-based commercial pool management software that helps aquatic facilities maintain compliance, reduce costs, and keep pools open more days per year.",
+    "service_area": "Serving commercial aquatic facilities nationwide across the United States",
+    "links": [
+      "Digital Pool Logs",
+      "Chemical Testing",
+      "Remote Monitoring",
+      "Corporate Solutions",
+      "Cost Calculator"
+    ],
+    "copyright": "Pool Shark H2O, Inc"
+  }
+}

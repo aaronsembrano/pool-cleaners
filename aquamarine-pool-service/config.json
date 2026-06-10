@@ -1,0 +1,179 @@
+{
+  "folder_name": "aquamarine-pool-service",
+  "company_name": "Aquamarine Pool Service & Repair",
+  "tagline": "Quality Not Quantity — The Best in Pool Maintenance and Repair",
+  "phone": "+1 760-522-3700",
+  "email": "david.arendt@aquamarinepool.com",
+  "review_count": "15",
+  "review_rating": "3.4",
+  "colors": {
+    "primary": "#006994",
+    "primary_dark": "#005577",
+    "primary_deeper": "#004466",
+    "secondary": "#00B4D8",
+    "cta": "#E07B00",
+    "cta_dark": "#C46A00"
+  },
+  "hero": {
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Unhurried Excellence</span>",
+    "subheadline": "Most pool techs rush through your yard to hit their quota. At Aquamarine, we pay for quality, not speed — so every visit is thorough, every chemical reading is precise, and your pool stays crystal clear all year long.",
+    "badges": [
+      "BBB A+ Rated Since 2006",
+      "Licensed CA Pool Contractor"
+    ],
+    "checkmarks": [
+      "No rush jobs — technicians are paid for quality, never by pool count",
+      "Nearly 20 years serving Poway & San Diego County families",
+      "Owner Dave Arendt brings engineering-grade precision to every pool"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "20",
+    "stat_1_label": "Years Serving San Diego County",
+    "stat_2_value": "15",
+    "stat_2_label": "Years of Expert Repairs",
+    "stat_3_value": "2500",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "headline": "Complete Pool Care From a Team That Takes Their Time",
+    "subtitle": "From weekly maintenance to complex equipment diagnostics, Aquamarine delivers meticulous service across Poway and greater San Diego County.",
+    "items": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Thorough weekly cleaning and chemical balancing for residential and commercial pools. Our techs never rush — they stay until every detail is handled right."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and plumbing. Dave's engineering background means faster, smarter troubleshooting every time."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation and setup of pool equipment systems — from energy-efficient pumps to advanced filtration. Done right the first time, guaranteed."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "Detailed pool inspections for real estate transactions. We assess equipment condition, structural integrity, and safety compliance so buyers and sellers have full confidence."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Keep your commercial facility safe, spotless, and compliant with health regulations. Reliable scheduling and meticulous chemical management for public-facing pools."
+      },
+      {
+        "title": "Chemical Balancing",
+        "description": "Precision water chemistry from an owner with a chemical engineering background. Exact chlorine, pH, and alkalinity levels that keep your water safe and sparkling."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Visit",
+        "description": "Reach out by phone or through our contact form. Dave or a team member will respond quickly to schedule your free pool assessment."
+      },
+      {
+        "title": "We Inspect & Recommend",
+        "description": "A technician visits your property, evaluates your pool's condition and equipment, and provides honest recommendations — no upselling, just what your pool actually needs."
+      },
+      {
+        "title": "Enjoy a Worry-Free Pool",
+        "description": "Sit back while our quality-first team keeps your pool clean, balanced, and running smoothly — week after week, season after season."
+      }
+    ]
+  },
+  "about": {
+    "label": "Locally Owned Since 2006",
+    "headline": "Why Poway Families Trust Dave Arendt With Their Pools",
+    "description": "After decades in the corporate world as an engineer, Dave Arendt founded Aquamarine Pool Service in 2006 with a simple conviction: pool care should never be about rushing through as many pools as possible. That is why Aquamarine never pays technicians by pool count — unlike most competitors. The result? Every visit is thorough, every chemical reading is precise, and every customer gets the attention they deserve. Nearly 20 years later, that quality-first philosophy has earned Aquamarine an A+ BBB rating and the loyalty of families across Poway, Rancho Bernardo, and greater San Diego County.",
+    "badge": "BBB A+ Rated Business",
+    "features": [
+      {
+        "title": "Owner-Operated & Accessible",
+        "description": "Dave Arendt is hands-on and directly available for any questions, concerns, or special requests about your pool."
+      },
+      {
+        "title": "Engineering-Grade Expertise",
+        "description": "With a background in corporate engineering and chemistry, Dave brings precision and scientific rigor to every pool we service."
+      },
+      {
+        "title": "Quality-First Guarantee",
+        "description": "Not satisfied with a visit? Call Dave directly and we will come back to make it right at no additional charge."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing, No Surprises",
+    "subtitle": "Every pool is different. We provide transparent quotes based on your pool's size, condition, and needs — never hidden fees, never corners cut."
+  },
+  "guarantee": {
+    "headline": "Our Quality-First Promise",
+    "description": "If you are ever unsatisfied with a service visit, call Dave directly and we will come back to make it right at no additional charge. We built this business on doing the job right — not doing it fast. That commitment to quality is our guarantee to every customer."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in San Diego County?",
+      "answer": "We serve Poway, Rancho Bernardo, Carmel Mountain Ranch, Rancho Penasquitos, 4S Ranch, Sabre Springs, Ramona, SD Country Estates, Highland Valley, Barona, Lakeside, and El Cajon."
+    },
+    {
+      "question": "What makes Aquamarine different from other pool companies?",
+      "answer": "Our quality-not-quantity philosophy sets us apart. We never pay technicians by the number of pools they service — which is common in this industry. That means your tech takes their time, does the job right, and never rushes through your yard."
+    },
+    {
+      "question": "Do you offer pool inspections for home sales?",
+      "answer": "Yes. We provide thorough pool inspections for real estate transactions, covering equipment condition, structural assessment, and safety compliance. Contact us to schedule an inspection before your closing date."
+    },
+    {
+      "question": "How quickly can you respond to equipment problems?",
+      "answer": "We prioritize repair calls and typically schedule service within 1-2 business days. For existing maintenance customers, we often respond even faster. Dave's engineering background means we diagnose problems accurately the first time."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Aquamarine Pool Service holds a California pool service contractor license and maintains full insurance. We are also an A+ rated business with the Better Business Bureau."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Nextdoor Neighbor",
+      "text": "Dave came out right away, found the problem with our pool equipment, and scheduled the follow-up work. Reliable, knowledgeable, and reasonable. Could not ask for better service.",
+      "context": "Equipment Repair",
+      "initials": "VN"
+    },
+    {
+      "name": "Yelp Reviewer",
+      "text": "I highly recommend Aquamarine Pool Service. Dave and his staff are very reliable and efficient. The biggest and best thing about Aquamarine is the customer service.",
+      "context": "Weekly Pool Maintenance",
+      "initials": "YR"
+    },
+    {
+      "name": "Local Customer",
+      "text": "Dave is local and very accessible. He really takes care of his customers. You really can't do better than Aquamarine.",
+      "context": "Ongoing Pool Service",
+      "initials": "LC"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Talk About Your Pool",
+    "subtitle": "Whether you need weekly maintenance, a repair, or just a second opinion — Dave and the Aquamarine team are ready to help.",
+    "benefits": [
+      "Free pool assessment with honest recommendations",
+      "Direct access to owner Dave Arendt",
+      "Fast response for repairs and service calls"
+    ]
+  },
+  "footer": {
+    "description": "Aquamarine Pool Service & Repair has served Poway and San Diego County since 2006. Our quality-not-quantity approach means your pool gets the thorough, expert care it deserves — every single visit.",
+    "service_area": "Proudly serving Poway, Rancho Bernardo, Carmel Mountain Ranch, Rancho Penasquitos, 4S Ranch, Sabre Springs, Ramona, and surrounding San Diego County communities.",
+    "service_links": [
+      "Weekly Pool Maintenance",
+      "Pool Equipment Repair",
+      "Pool Inspections",
+      "Commercial Pool Service",
+      "Chemical Balancing"
+    ],
+    "copyright": "Aquamarine Pool Service & Repair"
+  }
+}

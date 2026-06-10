@@ -1,0 +1,184 @@
+{
+  "folder_name": "revitalize-pool-spa",
+  "company_name": "Revitalize Pool & Spa",
+  "tagline": "Professional Pool Cleaning & Maintenance in Northeast Florida",
+  "phone": "+1 904-842-2223",
+  "email": "evan@revitalizepools.com",
+  "logo_path": "logo.png",
+  "review_count": "65",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C48",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#4A90D9",
+    "cta": "#2ECC71",
+    "cta_dark": "#25A85C"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — CPC1461353",
+    "badge_2": "4.7/5 from 65+ Reviews",
+    "badge_3": "All Chemicals Included"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 65+ Google Reviews",
+    "badge_2": "Google Guaranteed Provider",
+    "headline": "Your Pool, Always <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Stop worrying about chemicals, algae, and equipment headaches. Revitalize Pool & Spa handles every detail of your pool care so you can skip the work and just dive in.",
+    "cta_text": "Get a Same-Day Quote",
+    "checkmarks": [
+      "All chemicals included",
+      "Same-day response available",
+      "No contracts required"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "300",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving NE FL",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "4.7★",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care,<br class=\"hidden md:block\"> Chemicals Included",
+    "subtitle": "From weekly maintenance to emergency green pool recovery, we handle every aspect of pool care with all chemicals included in every plan.",
+    "cards": [
+      {
+        "title": "Rejuvenate Plan",
+        "description": "Our most popular full-service weekly plan — vacuuming, skimming, brushing, filter cleaning, equipment inspection, and all chemicals included."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and salt systems. Most issues resolved in a single visit to keep your pool running smoothly."
+      },
+      {
+        "title": "Green to Blue Recovery",
+        "description": "Neglected pool turned green? We restore it to crystal clear blue water with thorough cleaning and chemical treatment — fast turnaround guaranteed."
+      },
+      {
+        "title": "Refresh Plan",
+        "description": "52 weekly inspections per year with water balancing, algae treatment, and all chemicals included. No need to store a single chemical at home."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Reliable maintenance programs for HOAs, hotels, and community pools with consistent scheduling, compliance support, and dedicated account management."
+      },
+      {
+        "title": "Elevate Plan",
+        "description": "Specialized above-ground pool maintenance with tailored service designed specifically for your pool type, keeping it clean and perfectly balanced."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Pool Care in Three Simple Steps",
+    "steps": [
+      {
+        "title": "Text Us for a Free Quote",
+        "description": "Send us a text or call and we will respond the same day with an honest, no-pressure quote. Most customers are scheduled within days."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our licensed technicians arrive on schedule every week. Cleaning, chemicals, equipment checks, photo updates — all handled so you never have to think about it."
+      },
+      {
+        "title": "Enjoy a Perfect Pool Year-Round",
+        "description": "Your pool stays crystal clear and swim-ready every single day. We send text updates and photos after every visit so you always know the status."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Northeast Florida Trusts Us",
+    "headline": "Licensed, Local, and Obsessed With Clean Pools",
+    "description": "Founded in 2022, Revitalize Pool & Spa has quickly become one of Northeast Florida's most trusted pool service companies. We hold Florida Pool Contractor License CPC1461353 and are a Google Guaranteed provider. Every service plan includes all chemicals — you never have to buy, store, or handle a single bottle. Our team communicates proactively with text updates and photo reports after every visit because we believe you deserve to know exactly what is happening with your pool.",
+    "badge": "FL Licensed CPC1461353",
+    "features": [
+      {
+        "title": "All Chemicals Included",
+        "description": "Every plan covers all chemicals needed to keep your water balanced and clear. No surprise charges, no trips to the pool store."
+      },
+      {
+        "title": "Text Updates & Photo Reports",
+        "description": "After every service visit, you receive a text with photos and a summary. You always know what was done and how your pool looks."
+      },
+      {
+        "title": "Same-Day Response Guaranteed",
+        "description": "We respond to every inquiry the same day. Need a quote or emergency service? Text us and expect a reply within hours, not days."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Plans. All Chemicals Included.",
+    "subtitle": "Choose the plan that fits your pool and budget. Every plan includes all chemicals — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our Crystal Clear Guarantee",
+    "description": "If your pool is not crystal clear and swim-ready after our service, we will come back and make it right at no additional cost. We also send photo reports after every visit so you can see the results for yourself. Your satisfaction is not just a promise — it is how we have earned a 4.7-star rating across 65+ reviews."
+  },
+  "faqs": [
+    {
+      "question": "Are all chemicals really included in every plan?",
+      "answer": "Yes, every maintenance plan includes all chemicals needed to keep your pool clean and balanced. You never need to buy, store, or handle chemicals yourself. It is all part of the service."
+    },
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within a few days. For green pool emergencies, we often respond the same day. Text us at 904-842-2223 and we will get you on the schedule fast."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. After each visit, you receive a text with photos and a summary of what was done."
+    },
+    {
+      "question": "What areas in Northeast Florida do you service?",
+      "answer": "We serve Jacksonville, Atlantic Beach, Neptune Beach, Ponte Vedra Beach, St. Augustine, and surrounding Northeast Florida communities. If you are unsure whether we cover your area, just text us."
+    },
+    {
+      "question": "Do you offer commercial pool service?",
+      "answer": "Absolutely. We maintain pools for HOAs, hotels, and community centers across Northeast Florida. Commercial clients receive dedicated scheduling, compliance support, and consistent service you can count on."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Amy F.",
+      "text": "We LOVE the service we receive from Revitalize Pool and Spa. Attention to detail is outstanding and they are very responsive. Our pool has never looked better.",
+      "context": "Weekly Maintenance Client",
+      "initials": "AF"
+    },
+    {
+      "name": "Sandra H.",
+      "text": "Excellent company, great communication, pool always looks incredible. They send photos after every visit so I always know exactly how my pool looks even when I am traveling.",
+      "context": "Northeast Florida Homeowner",
+      "initials": "SH"
+    },
+    {
+      "name": "Evan's Client",
+      "text": "Evan came out almost every day until our pool was crystal clear and good as new! He checked in via text and asked for picture updates each morning. He made us feel like he actually cared about our pool. The pool was a MESS and now it is perfect!",
+      "context": "Green to Blue Recovery",
+      "initials": "EC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Text or call us for a free, same-day quote. All chemicals included in every plan — no contracts, no hidden fees, just crystal clear water.",
+    "benefits": [
+      "Same-day quote — text or call",
+      "All chemicals included in every plan",
+      "Licensed, insured, and Google Guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Licensed pool service serving Northeast Florida since 2022. All chemicals included.",
+    "service_area": "Serving Jacksonville, Atlantic Beach, Ponte Vedra & NE Florida",
+    "services": [
+      "Weekly Maintenance",
+      "Equipment Repair",
+      "Green to Blue Recovery",
+      "Commercial Pools",
+      "Above-Ground Pools"
+    ],
+    "copyright": "&copy; 2024 Revitalize Pool & Spa. All rights reserved. FL License #CPC1461353"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "folder_name": "tide-pools-texas",
+  "company_name": "Tide Pools Texas",
+  "tagline": "The Tide Pools Difference",
+  "phone": "(972) 555-0120",
+  "email": "jack@tidepoolsllc.com",
+  "review_count": "6",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#0C4A6E",
+    "primary_dark": "#083452",
+    "primary_deeper": "#052339",
+    "secondary": "#0EA5E9",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Fully Insured",
+    "badge_2": "4.9/5 on Google Reviews",
+    "badge_3": "Serving North DFW Since 2020"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 6+ Google Reviews",
+    "badge_2": "Detailed E-Reports Every Visit",
+    "headline": "Know Exactly What's <span class=\"text-secondary italic\">Happening<br>in Your Pool</span>",
+    "subheadline": "Most pool companies show up, dump chemicals, and disappear. Tide Pools Texas sends you a detailed report after every single visit so you always know the exact condition of your pool. Richardson families trust us because we treat your backyard like our own.",
+    "cta_text": "Get My Free Pool Estimate",
+    "checkmarks": [
+      "Free project estimates",
+      "E-report after every visit",
+      "No unnecessary upsells"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "100",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "6",
+    "stat_2_label": "Years Serving N. DFW",
+    "stat_3_value": "52",
+    "stat_3_label": "Cleanings Per Pool/Year",
+    "stat_4_value": "100%",
+    "stat_4_label": "E-Report Delivery Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care With<br class=\"hidden md:block\"> Total Transparency",
+    "subtitle": "From weekly maintenance to emergency recovery, every service comes with a detailed electronic report so you never have to wonder what was done or what your pool needs next.",
+    "cards": [
+      {
+        "title": "Full Service Weekly Cleanings",
+        "description": "Comprehensive weekly maintenance including skimming, brushing, vacuuming, chemical balancing, and filter cleaning. Your pool stays crystal clear and swim-ready every single week."
+      },
+      {
+        "title": "Honest Pool Repairs",
+        "description": "Straightforward diagnostics for pumps, filters, heaters, and plumbing. We only fix what truly needs fixing — no unnecessary upsells, no inflated invoices, just fair pricing."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Neglected pool turned green? Our specialized deep cleaning and expert chemical treatment brings even the worst pools back to pristine, swimmable condition fast."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Upgrade to modern, energy-efficient systems including variable speed pumps, smart controllers, and Wi-Fi-enabled monitoring for better performance and lower utility costs."
+      },
+      {
+        "title": "Special Event Cleaning",
+        "description": "Get your pool guest-ready before parties, holidays, and gatherings. Dedicated pre-event service ensures your pool looks its absolute best when it matters most."
+      },
+      {
+        "title": "E-Reports Every Visit",
+        "description": "Detailed electronic reports delivered after each service documenting chemical readings, work performed, and pool condition. Full transparency — no other company does this."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Tell us about your pool and what you need. Jack will personally provide an honest, no-pressure estimate. No contracts required, no commitments — just straightforward pricing."
+      },
+      {
+        "title": "We Show Up — Every Time",
+        "description": "Our reliable technicians arrive on schedule, every week, without fail. We handle the cleaning, chemicals, and equipment checks — then send you a full e-report of everything we did."
+      },
+      {
+        "title": "Enjoy Your Pool, Stay Informed",
+        "description": "Your pool stays crystal clear and swim-ready. After every visit you get a detailed report so you always know your pool's exact condition. No surprises, just peace of mind."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Richardson Trusts Tide Pools",
+    "headline": "Locally Owned, Personally Overseen, Radically Transparent",
+    "description": "Tide Pools Texas was founded in 2020 by Jack right here in Richardson because North DFW families deserved better pool service. As a small, locally-owned company, we do things differently — every customer gets detailed e-reports after every visit, honest repair recommendations with no upsells, and a team of reliable technicians who show up on time, every time. Jack personally oversees service quality because your pool is more than a job to us — it's a responsibility we take seriously.",
+    "badge": "Licensed Pool Operator",
+    "features": [
+      {
+        "title": "E-Reports After Every Visit",
+        "description": "No other pool company in North DFW gives you this level of transparency. After every service, you receive a detailed electronic report with chemical readings, work performed, and pool condition."
+      },
+      {
+        "title": "Honest Repairs, No Upsells",
+        "description": "We only recommend and fix what truly needs fixing. Jack personally reviews every repair recommendation to ensure you never pay for work you don't need."
+      },
+      {
+        "title": "Reliable — Never Miss a Cleaning",
+        "description": "Our technicians are always on time and never skip a scheduled visit. You can count on us week after week, season after season, without exception."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Hidden Fees.",
+    "subtitle": "Every plan includes detailed e-reports after every visit. No contracts required — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Total Transparency\" Guarantee",
+    "description": "If you're ever unsatisfied with a service visit, call Jack directly and we'll come back to make it right at no additional charge. Plus, every single visit includes a detailed e-report so you can see exactly what was done. If your pool isn't perfect, we don't rest until it is."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on our schedule within 3-5 business days. For green pool emergencies, we offer rapid response. Call us and Jack will personally coordinate your start date."
+    },
+    {
+      "question": "What are the e-reports you mention?",
+      "answer": "After every single service visit, we send you a detailed electronic report documenting chemical readings, all work performed, and the overall condition of your pool. It's our signature transparency feature — no other pool company in the area does this."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything while you're away. You'll receive your detailed e-report after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "Will you try to upsell me on repairs I don't need?",
+      "answer": "Never. Honesty is core to how Tide Pools operates. We only recommend repairs that are genuinely necessary, and Jack personally reviews every recommendation. You'll always get a fair price for only the work that needs doing."
+    },
+    {
+      "question": "What areas do you serve in North DFW?",
+      "answer": "We serve Richardson, Garland, Plano, Allen, McKinney, Frisco, Murphy, Wylie, Sachse, Rowlett, and the greater North DFW Metroplex. If you're nearby and not sure, give us a call — we're happy to check."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Richardson Homeowner",
+      "context": "Weekly pool maintenance customer",
+      "initials": "RH",
+      "text": "Jack is always on time and never misses a cleaning. Great communication and very reasonable pricing. I always know exactly what's happening with my pool thanks to the reports after each visit."
+    },
+    {
+      "name": "Garland Pool Owner",
+      "context": "Long-term maintenance client",
+      "initials": "GP",
+      "text": "Jack keeps us informed on every matter relating to our pool. The attention to detail is outstanding and we never have to worry about the condition of our pool between visits."
+    },
+    {
+      "name": "DFW Resident",
+      "context": "Green-to-clean recovery service",
+      "initials": "DR",
+      "text": "I was hospitalized and my pool turned completely green and was full of sediment. Jack responded quickly, gave me a fair price, and did an excellent job bringing my pool back to life. Cannot recommend Tide Pools enough."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free, no-pressure estimate from Jack personally. No contracts, no commitments — just honest pricing and the most transparent pool service in North DFW.",
+    "benefits": [
+      "Free estimate with every inquiry",
+      "E-report after every single visit",
+      "Honest repairs — no upsells, ever"
+    ]
+  },
+  "footer": {
+    "description": "Locally owned pool service. Serving North DFW with total transparency since 2020.",
+    "service_area": "Serving Richardson, Plano, Garland & North DFW",
+    "services": ["Weekly Cleaning", "Pool Repairs", "Green-to-Clean", "Equipment Upgrades", "Event Cleaning"],
+    "copyright": "&copy; 2026 Tide Pools Texas. All rights reserved. Licensed Pool Operator — Fully Insured."
+  }
+}

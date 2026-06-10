@@ -1,0 +1,183 @@
+{
+  "folder_name": "alec-s-pool-service",
+  "company_name": "Alec's Pool Service",
+  "tagline": "Family-Owned Pool Care for the Los Angeles Area",
+  "phone": "(909) 227-8869",
+  "email": "alexpoolservice@icloud.com",
+  "review_count": "24",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0F4C75",
+    "primary_dark": "#093552",
+    "primary_deeper": "#062438",
+    "secondary": "#3FC1C9",
+    "cta": "#F5A623",
+    "cta_dark": "#D9901A"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned & Operated",
+    "badge_2": "4.8/5 from 24+ Reviews",
+    "badge_3": "All Major Credit Cards Accepted"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 24+ Customer Reviews",
+    "badge_2": "Serving LA Since Day One",
+    "headline": "Los Angeles Pool Care<br><span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Tired of unreliable pool guys who ghost you after the first month? Alec's Pool Service is the family-run team LA homeowners trust for consistent, detail-obsessed pool maintenance, repairs, and equipment installs — every single week, rain or shine.",
+    "cta_text": "Get My Free Pool Evaluation",
+    "checkmarks": [
+      "Free on-site pool evaluation",
+      "Flexible scheduling that fits your life",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "800",
+    "stat_1_label": "Pools Serviced",
+    "stat_2_value": "24",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "2",
+    "stat_3_label": "Free Months for New Clients",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Spectrum Pool Care<br class=\"hidden md:block\"> for Every LA Home",
+    "subtitle": "From weekly chemical balancing to full equipment overhauls, we handle the hard work so your pool stays pristine and party-ready year-round.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Complete skimming, brushing, vacuuming, and chemical balancing every visit. We keep your water crystal clear and safe for your family through every Los Angeles season."
+      },
+      {
+        "title": "Chemical Balancing & Tablets",
+        "description": "Precise water chemistry management including chlorine tablets, pH adjustment, and alkalinity control to prevent algae, scaling, and irritation."
+      },
+      {
+        "title": "Filter Clean-Up & Maintenance",
+        "description": "Thorough filter disassembly, deep cleaning, and inspection to ensure maximum water flow and filtration efficiency all year long."
+      },
+      {
+        "title": "Pump & Motor Repair",
+        "description": "Diagnosis and repair of faulty pumps, motors, and circulation systems. We get your equipment running smoothly again — fast and at fair prices."
+      },
+      {
+        "title": "New Equipment Installation",
+        "description": "Professional installation of pumps, heaters, salt systems, and automation controllers. We source quality equipment and install it right the first time."
+      },
+      {
+        "title": "Skimmer & Plumbing Repairs",
+        "description": "Leak detection, skimmer basket replacement, and plumbing line repairs that stop water loss and restore your pool's circulation to peak performance."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Stress-Free Pool",
+    "steps": [
+      {
+        "title": "Book Your Free Evaluation",
+        "description": "Call or fill out our form and we will schedule a free on-site pool inspection. We assess your water, equipment, and surfaces — then give you an honest quote with zero pressure."
+      },
+      {
+        "title": "We Handle Everything",
+        "description": "Our trained technicians arrive on your schedule, every time. Chemicals, brushing, filter care, and equipment checks are all covered so you never have to think about your pool again."
+      },
+      {
+        "title": "Swim & Relax",
+        "description": "Your pool stays sparkling, your equipment runs efficiently, and you get back the weekends you used to spend wrestling with chemicals. If anything is off, we fix it free."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why LA Trusts Alec's Pool Service",
+    "headline": "Family-Operated Means Real Accountability",
+    "description": "Alec's Pool Service was built on a straightforward belief: pool owners deserve a service team that actually shows up, communicates clearly, and treats every pool like their own backyard. As a family-run operation serving Los Angeles, we keep our client list manageable so every home gets personal attention — not a rushed 15-minute visit from a revolving door of strangers.",
+    "badge": "Fully Insured",
+    "features": [
+      {
+        "title": "New Client Special: 2 Free Months",
+        "description": "We are so confident you will love our service that new customers get their first two months free. No gimmicks, no catches — just great pool care from day one."
+      },
+      {
+        "title": "Flexible Appointments",
+        "description": "Your schedule matters. We offer morning, afternoon, and weekend slots so pool day never disrupts your routine or forces you to rearrange your life."
+      },
+      {
+        "title": "Honest, Upfront Pricing",
+        "description": "No hidden fees, no surprise charges, no upselling you equipment you do not need. We quote a price and stick to it, period."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Simple Pricing. No Hidden Fees.",
+    "subtitle": "Pick the plan that fits your pool. Adjust or cancel anytime — we earn your business every visit, not through fine print."
+  },
+  "guarantee": {
+    "headline": "Our \"Swim-Ready\" Guarantee",
+    "description": "If your pool is not crystal clear and swim-ready after any service visit, call us within 24 hours and we will come back to make it perfect at no extra charge. We built this business on word-of-mouth referrals, and we plan to keep it that way. Your satisfaction is not negotiable — it is the standard."
+  },
+  "faqs": [
+    {
+      "question": "How does the 2 free months promotion work?",
+      "answer": "It is simple — sign up for weekly or bi-weekly service and your first two months are completely free. No deposits, no commitments. If you love the service (and we are confident you will), you continue at our standard rate. If not, you walk away having enjoyed two months of free pool care."
+    },
+    {
+      "question": "What areas in Los Angeles do you serve?",
+      "answer": "We proudly serve Los Angeles, Panorama City, Van Nuys, North Hollywood, Burbank, Glendale, and surrounding communities. If you are unsure whether you are in our service area, give us a call and we will let you know right away."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate or side-yard access and we take care of everything while you are at work or away. We send a text summary after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept all major credit cards, Venmo, Zelle, and cash. Billing is straightforward — you receive an invoice monthly with a clear breakdown of services performed. No surprises."
+    },
+    {
+      "question": "Can you fix my pool equipment or just clean?",
+      "answer": "We handle both. Our team repairs and installs pumps, motors, heaters, filters, skimmers, and automation systems. If your equipment needs replacing, we source quality parts at fair prices and install them properly."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Carlos M.",
+      "context": "Weekly cleaning, 2+ years",
+      "initials": "CM",
+      "text": "Alec's team has been servicing our pool for over two years. They never miss a visit, the water is always perfect, and they actually communicate when something needs attention. Best pool service we have ever had in LA."
+    },
+    {
+      "name": "Sarah K.",
+      "context": "Pump replacement & ongoing service",
+      "initials": "SK",
+      "text": "Our pump died in the middle of July and Alec's crew had a new one installed within two days. The price was fair and the work was clean. We signed up for weekly service after that and have not looked back since."
+    },
+    {
+      "name": "David & Maria T.",
+      "context": "New client, took the 2-month free offer",
+      "initials": "DT",
+      "text": "We took them up on the two free months thinking there had to be a catch. There was not. Service was excellent from day one — friendly, thorough, and always on time. We happily continued and recommend them to all our neighbors."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect?",
+    "subtitle": "Get a free, no-obligation pool evaluation within 48 hours. No contracts, no pressure — just honest, family-run service from a team that shows up every time.",
+    "benefits": [
+      "Free on-site pool evaluation included",
+      "2 months free for new customers",
+      "All major credit cards accepted"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool cleaning, repair, and equipment installation. Proudly serving Los Angeles homeowners.",
+    "service_area": "Serving Los Angeles, Panorama City, Van Nuys, North Hollywood, Burbank, Glendale & Surrounding Areas",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Chemical Balancing",
+      "Filter Maintenance",
+      "Pump & Motor Repair",
+      "Equipment Installation"
+    ],
+    "copyright": "&copy; 2025 Alec's Pool Service. All rights reserved. Fully Insured | Family-Owned & Operated"
+  }
+}

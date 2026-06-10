@@ -1,0 +1,184 @@
+{
+  "folder_name": "swim-chem",
+  "company_name": "Swim Chem, Inc.",
+  "tagline": "At Swim Chem, We Get the Job Done Right",
+  "phone": "+1 916-332-6111",
+  "email": "jerrywallace@swimchemsac.com",
+  "logo_path": "logo.png",
+  "review_count": "134",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#017cc3",
+    "primary_dark": "#015a8e",
+    "primary_deeper": "#003d61",
+    "secondary": "#00b5d9",
+    "cta": "#e8860c",
+    "cta_dark": "#c47009"
+  },
+  "trust_badges": {
+    "badge_1": "CA License #249712",
+    "badge_2": "4.0/5 from 134+ Reviews",
+    "badge_3": "Pentair Authorized Dealer"
+  },
+  "hero": {
+    "badge_1": "4.0/5 from 134+ Google Reviews",
+    "badge_2": "Family-Owned Since 1970",
+    "headline": "55 Years of Crystal Clear <span class=\"text-secondary italic\">Sacramento<br>Pools</span>",
+    "subheadline": "Since 1970, Sacramento families have trusted Swim Chem for worry-free pool care. Our dedicated technicians stay with us for decades because they love what they do, and it shows in every sparkling pool we maintain.",
+    "cta_text": "Get Your Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection",
+      "Service starting at $80/mo",
+      "Pentair factory-authorized"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "55",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "38",
+    "stat_2_label": "Max Tech Tenure (Yrs)",
+    "stat_3_value": "5000",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care from<br class=\"hidden md:block\"> Sacramento's Most Trusted Team",
+    "subtitle": "From basic chemistry to full equipment overhauls, Swim Chem has every aspect of pool care covered with technicians who have been doing this for decades.",
+    "cards": [
+      {
+        "title": "Chemical Service",
+        "description": "Weekly water chemistry balancing to control algae and bacteria, keeping your pool sparkling clear and swim-ready. Starting at just $80/month."
+      },
+      {
+        "title": "Basket Service",
+        "description": "Full chemical service plus skimmer and pump basket cleaning to keep your filtration system running at peak performance. Starting at $110/month."
+      },
+      {
+        "title": "Full Pool Service",
+        "description": "Comprehensive weekly maintenance covering chemicals, baskets, brushing, and vacuuming. Total pool care so you never lift a finger. Starting at $248/month."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Our specialized repair division handles pumps, filters, heaters, and automation systems. Expert technicians with decades of hands-on experience."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Energy-efficient equipment replacements and pool makeovers that reduce your utility costs and bring your pool system into the modern era."
+      },
+      {
+        "title": "Pentair Sales & Install",
+        "description": "Factory-authorized Pentair and Sta-Rite dealer and warranty station. Professional installation backed by manufacturer and Swim Chem guarantees."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Call us or fill out the form. We'll visit your pool, assess its condition, and recommend the right service level, no pressure and no obligation."
+      },
+      {
+        "title": "Your Dedicated Tech Arrives",
+        "description": "You'll be assigned a dedicated technician who follows a rigid schedule so you always know when to expect us. Many of our techs have been with us 15-38 years."
+      },
+      {
+        "title": "Enjoy a Perfect Pool",
+        "description": "Relax knowing Sacramento's most experienced pool team is keeping your water crystal clear, your equipment running smoothly, and your family safe."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Sacramento Trusts Swim Chem",
+    "headline": "A Family Business with 55 Years of Keeping Pools Perfect",
+    "description": "Founded by John Wallace in 1970, Swim Chem grew from one man's vision for dependable pool service into one of Northern California's largest and most respected pool companies. We keep separate service and repair divisions so every technician is a true specialist. Our team members stay with us for decades, not months, because we treat them right and they treat your pool like their own.",
+    "badge": "CA License #249712",
+    "features": [
+      {
+        "title": "Dedicated Technicians, Rigid Schedules",
+        "description": "Your assigned technician arrives on the same day, same time, every week. No missed appointments, no guesswork, just reliable service you can set your watch to."
+      },
+      {
+        "title": "Separate Specialized Repair Division",
+        "description": "Our repair team focuses exclusively on equipment diagnostics and fixes, so complex problems get expert attention from technicians who do this all day, every day."
+      },
+      {
+        "title": "Factory-Authorized Pentair Warranty Station",
+        "description": "As a certified Pentair and Sta-Rite dealer and warranty station, we install, service, and warranty equipment with manufacturer backing."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Real Value.",
+    "subtitle": "Plans starting at just $80/month. Choose the level of care that fits your pool and your budget."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right at no additional charge. Swim Chem has built its reputation on dependability for over 55 years, and we stand behind every single visit."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can I get started with service?",
+      "answer": "Most new clients are scheduled within one week. Call us at 916-332-6111 and we will set up a free inspection at a time that works for you. We serve Sacramento, Placer, El Dorado, and Solano counties."
+    },
+    {
+      "question": "What is included in the $80/month chemical service?",
+      "answer": "Our chemical service includes weekly visits to test and balance your water chemistry, add necessary chemicals to control algae and bacteria, and ensure your pool stays sparkling clear. Basket and full service plans add filtration and cleaning tasks."
+    },
+    {
+      "question": "Do your technicians have experience?",
+      "answer": "Our technicians are not seasonal workers. They are career professionals with 15 to 38 years of tenure at Swim Chem. When you get assigned a tech, they know pools inside and out and they will be with you for the long haul."
+    },
+    {
+      "question": "Are you licensed and authorized for equipment work?",
+      "answer": "Yes. We hold California Contractors License #249712 and are a factory-authorized Pentair and Sta-Rite dealer and warranty station. We are also BBB A+ accredited and members of PHTA, NPC, and CPSA."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Sacramento County, Placer County, El Dorado County, and Solano County. This includes Sacramento, Roseville, Rancho Cordova, Elk Grove, Carmichael, Orangevale, North Highlands, Vacaville, Fairfield, and El Dorado Hills."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Murray W.",
+      "text": "For 40 years they have kept my pool water nice and clear. An outstanding job well done. You will not find a more dependable pool service company in Sacramento.",
+      "context": "North Highlands",
+      "initials": "MW"
+    },
+    {
+      "name": "Patricia S.",
+      "text": "Very dependable, been providing my pool service for approximately over 30 years! They show up every week without fail and the pool always looks great.",
+      "context": "Orangevale",
+      "initials": "PS"
+    },
+    {
+      "name": "Randall N.",
+      "text": "Have used SwimChem for over 25 years. They are prompt, professional and easy to work with. I would recommend them to anyone looking for reliable pool service.",
+      "context": "Sacramento",
+      "initials": "RN"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Worry-Free<br>Pool Care?",
+    "subtitle": "Get a free inspection and honest quote from Sacramento's most experienced pool service team. No pressure, no obligation, just 55 years of expertise at your service.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "Service plans starting at $80/month",
+      "Pentair factory-authorized service"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Serving Northern California since 1970.",
+    "service_area": "Serving Sacramento, Placer, El Dorado & Solano Counties",
+    "services": [
+      "Chemical Service",
+      "Basket Service",
+      "Full Pool Service",
+      "Equipment Repair",
+      "Pentair Sales & Install"
+    ],
+    "copyright": "&copy; 2024 Swim Chem, Inc. All rights reserved. CA Contractors License #249712"
+  }
+}

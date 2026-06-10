@@ -1,0 +1,184 @@
+{
+  "folder_name": "pool-service-partners",
+  "company_name": "Pool Service Partners",
+  "tagline": "Craft your legacy with confidence.",
+  "phone": "+1 484-929-2297",
+  "email": "mark@poolservicepartners.com",
+  "logo_path": "",
+  "review_count": "15",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152B47",
+    "primary_deeper": "#0E1D30",
+    "secondary": "#F47B20",
+    "cta": "#F47B20",
+    "cta_dark": "#D4670E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured Across the Northeast",
+    "badge_2": "4.8/5 from 15+ Reviews",
+    "badge_3": "Serving the Northeast Since 2022"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 15+ Google Reviews",
+    "badge_2": "Backed by the Northeast's Leading Pool Platform",
+    "headline": "Trusted Local Pool Care, <span class=\"text-secondary italic\">Powerfully<br>Backed</span>",
+    "subheadline": "Your neighborhood pool company now has the resources, technology, and expertise of the Northeast's leading pool service platform behind it. Same trusted technicians, same personal touch — with the backing to deliver even more.",
+    "cta_text": "Request Your Free Quote Today",
+    "checkmarks": [
+      "Free pool assessment included",
+      "Locally operated, regionally backed",
+      "Comprehensive employee-backed service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained Regionally",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Building Our Network",
+    "stat_3_value": "50",
+    "stat_3_label": "Combined Years of Partner Experience",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care Backed by<br class=\"hidden md:block\"> the Best in the Northeast",
+    "subtitle": "From routine maintenance to complex repairs, our partner companies deliver consistent, high-quality pool care powered by cutting-edge technology and top-tier technicians.",
+    "cards": [
+      {
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Comprehensive weekly and bi-weekly maintenance including water testing, chemical balancing, skimming, vacuuming, and filter cleaning to keep your pool sparkling all season."
+      },
+      {
+        "title": "Pool Repair & Equipment Service",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and automation systems. Fast, reliable service backed by our network's deep parts inventory and expertise."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Professional seasonal opening and winterization to protect your investment. Cover removal, equipment startup, chemical balancing, and full system checks handled right."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise water testing and chemical balancing for safe, crystal-clear water. Regular monitoring of pH, chlorine, alkalinity, and every critical parameter your pool needs."
+      },
+      {
+        "title": "Equipment Installation & Upgrades",
+        "description": "Professional installation of energy-efficient pumps, salt systems, LED lighting, automation controls, and heating systems to modernize your pool and cut energy costs."
+      },
+      {
+        "title": "Liner & Surface Repair",
+        "description": "Expert repair and replacement of pool liners, crack patching, leak repair, and surface restoration to extend your pool's life and keep it looking its best."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Better Pool Care",
+    "steps": [
+      {
+        "title": "Connect With Your Local Partner",
+        "description": "Tell us about your pool and location. We will match you with the trusted local PSP partner company in your area and provide an honest, no-pressure quote within 24 hours."
+      },
+      {
+        "title": "We Bring the Full Platform",
+        "description": "Your dedicated, CPO-certified technician arrives on schedule with the backing of our full regional network — advanced tools, premium supplies, and deep expertise at the ready."
+      },
+      {
+        "title": "Enjoy a Pool That Just Works",
+        "description": "Your pool stays crystal clear and swim-ready all season. With PSP's technology and support behind your local team, you get consistency and quality you can count on."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Pool Owners Choose PSP Partners",
+    "headline": "Local Brands You Trust, Backed by a Platform Built for Excellence",
+    "description": "Pool Service Partners was founded in 2022 with a simple belief: the best pool service comes from people who know your community. That is why we partner with established local pool companies across the Northeast — preserving the brands, relationships, and expertise homeowners already trust. Behind the scenes, PSP provides capital, cutting-edge technology, and comprehensive employee benefits so your local team can focus entirely on delivering exceptional service to your pool.",
+    "badge": "CPO Certified Technicians",
+    "features": [
+      {
+        "title": "Established Local Brands You Know",
+        "description": "Every PSP partner is a trusted, established pool service company in your community. We preserve their legacy and reputation while elevating their capabilities."
+      },
+      {
+        "title": "Technology-Powered Service",
+        "description": "Our partner companies are equipped with cutting-edge scheduling, diagnostics, and communication tools so nothing falls through the cracks and your pool stays perfect."
+      },
+      {
+        "title": "Invested, Career-Track Technicians",
+        "description": "PSP provides comprehensive benefits and career advancement opportunities, attracting and retaining the best pool technicians in the Northeast."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Get a straightforward quote tailored to your pool's needs. Fair pricing from a local partner you trust, backed by the resources of the region's leading platform."
+  },
+  "guarantee": {
+    "headline": "Our \"Partner-Backed\" Service Promise",
+    "description": "If you are not completely satisfied with any service visit, your local PSP partner will return and make it right at no additional cost. Every partner company in our network upholds the same standard of excellence, backed by our platform's resources and commitment to quality. Your satisfaction is not just a policy — it is the foundation our entire network is built on."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within 3-5 business days through your local PSP partner company. For urgent equipment issues or seasonal openings, many of our partners offer expedited scheduling. Call us at 484-929-2297 and we will connect you with the right team."
+    },
+    {
+      "question": "What makes Pool Service Partners different?",
+      "answer": "PSP combines the personal touch of your trusted local pool company with the resources of the Northeast's leading pool service platform. You get the same familiar faces and local expertise, now backed by advanced technology, better-equipped technicians, and a regional support network."
+    },
+    {
+      "question": "Will I still deal with my local pool company?",
+      "answer": "Absolutely. Your local partner company remains your point of contact. PSP works behind the scenes to provide them with better tools, training, and resources so they can serve you even better than before."
+    },
+    {
+      "question": "What areas does PSP serve?",
+      "answer": "Pool Service Partners operates across the Northeast including Connecticut, Pennsylvania, New Jersey, and surrounding states. Our network of local partner companies continues to grow, bringing PSP-backed service to more communities each season."
+    },
+    {
+      "question": "Are your technicians certified and insured?",
+      "answer": "Yes. Every technician across our partner network holds CPO certification, passes thorough background checks, and carries full liability insurance. PSP invests heavily in ongoing training and career development to keep our teams at the top of their field."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sean M.",
+      "context": "Owner, DS Pool Service",
+      "initials": "SM",
+      "text": "When first approached by PSP, we weren't sure — we had invested over 10 years building our business. But Mark and Gary's vision aligned with ours: continuing growth while forming a best-in-class pool company in the northeast. We are glad we took advantage of the opportunity."
+    },
+    {
+      "name": "Northeast Homeowner",
+      "context": "PSP Partner Client",
+      "initials": "NH",
+      "text": "Our pool company joined the PSP family last year and the difference has been remarkable. Same great technicians we have always had, but now they show up with better equipment and our service has never been more consistent."
+    },
+    {
+      "name": "David L.",
+      "context": "Residential Pool Owner, CT",
+      "initials": "DL",
+      "text": "I was nervous when I heard my pool company was partnering with a larger group, but nothing changed except the quality went up. My technician knows my pool inside and out, and now they have even better tools and support behind them."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care<br>You Can Count On?",
+    "subtitle": "Connect with your local PSP partner company for a free, no-pressure quote. Same trusted local service, now backed by the Northeast's leading pool platform.",
+    "benefits": [
+      "Free pool assessment with every quote",
+      "Response within 24 hours",
+      "Partner-backed satisfaction guarantee"
+    ]
+  },
+  "footer": {
+    "description": "The Northeast's leading pool service platform. Partnering with trusted local brands since 2022.",
+    "service_area": "Serving CT, PA, NJ & Throughout the Northeast",
+    "services": [
+      "Pool Maintenance",
+      "Repairs & Equipment",
+      "Pool Opening & Closing",
+      "Equipment Upgrades",
+      "Liner & Surface Repair"
+    ],
+    "copyright": "&copy; 2024 Pool Service Partners. All rights reserved. Avon, CT"
+  }
+}

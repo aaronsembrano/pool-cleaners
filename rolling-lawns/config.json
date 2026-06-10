@@ -1,0 +1,183 @@
+{
+  "folder_name": "rolling-lawns",
+  "company_name": "Rolling Lawns",
+  "tagline": "Transform Your Outdoor Space with Expert Landscape Design",
+  "phone": "+1 914-381-0123",
+  "email": "info@rollinglawns.com",
+  "review_count": "70",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#2D5A27",
+    "primary_dark": "#1E3E1A",
+    "primary_deeper": "#142B12",
+    "secondary": "#4A7C3F",
+    "cta": "#C8A96E",
+    "cta_dark": "#B08E4A"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 1955",
+    "badge_2": "4.5/5 Google Rated",
+    "badge_3": "Organic & Sustainable"
+  },
+  "hero": {
+    "badge_1": "Family-Owned Since 1955 — Westchester & Fairfield",
+    "badge_2": "Organic Lawn & Landscape Care",
+    "headline": "Seven Decades of Landscapes <span class=\"text-secondary italic\">Done Right</span>",
+    "subheadline": "Your property deserves more than a mow-and-go crew. Rolling Lawns has been designing, building, and caring for Westchester and Fairfield landscapes since 1955 — blending artistry with organic practices so your outdoor space thrives for generations.",
+    "cta_text": "Get My Free Consultation",
+    "checkmarks": [
+      "Free property walkthrough",
+      "Organic care programs",
+      "70+ years of local expertise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "70",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "2",
+    "stat_2_label": "States Served",
+    "stat_3_value": "5000",
+    "stat_3_label": "Properties Transformed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Family Commitment"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Landscape Services That Elevate<br class=\"hidden md:block\"> Your Entire Property",
+    "subtitle": "From the first sketch to every seasonal bloom, Rolling Lawns handles every detail so you can simply enjoy your yard.",
+    "cards": [
+      {
+        "title": "Custom Design & Build",
+        "description": "From concept sketches to finished hardscapes and plantings, we design landscapes that complement your home's architecture and your family's lifestyle."
+      },
+      {
+        "title": "Organic Lawn Care",
+        "description": "Healthier soil, greener grass, zero harsh chemicals. Our organic programs build long-term turf vitality your neighbors will notice."
+      },
+      {
+        "title": "Masonry & Hardscapes",
+        "description": "Patios, walkways, retaining walls, and outdoor living spaces built with precision craftsmanship and materials that last decades."
+      },
+      {
+        "title": "Seasonal Flower Rotations",
+        "description": "Curated color palettes planted each season so your property looks vibrant from the first spring crocus to the last fall mum."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Architectural and accent lighting that extends your outdoor enjoyment into the evening and adds security to every corner of your property."
+      },
+      {
+        "title": "Irrigation Systems",
+        "description": "Smart irrigation design and installation that delivers the right amount of water to every zone — saving resources while keeping everything lush."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Schedule a Property Walkthrough",
+        "description": "We visit your property, listen to your vision, and assess the site. You receive a detailed proposal with design options — no pressure, no obligation."
+      },
+      {
+        "title": "We Design & Execute",
+        "description": "Our team brings your landscape to life with meticulous installation, organic soil preparation, and expert plant selection chosen for your specific conditions."
+      },
+      {
+        "title": "Enjoy Year-Round Beauty",
+        "description": "Ongoing care programs keep everything thriving season after season. Sit back, pour a drink, and enjoy the yard you always wanted."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Westchester & Fairfield Trust Us",
+    "headline": "Three Generations of Landscape Excellence",
+    "description": "Rolling Lawns has been a family-owned cornerstone of Westchester and Fairfield County landscaping since 1955. Over seven decades, we have refined a collaborative approach — listening first, designing thoughtfully, and maintaining meticulously. Our organic practices and sustainable methods are not a trend for us; they are how we have always worked.",
+    "badge": "Est. 1955",
+    "features": [
+      {
+        "title": "70+ Years of Local Knowledge",
+        "description": "We know Westchester and Fairfield soil, climate, and plant palettes better than anyone. That experience shows in every property we touch."
+      },
+      {
+        "title": "Organic & Sustainable Practices",
+        "description": "Healthier landscapes start with healthier soil. Our organic programs protect your family, pets, and the local watershed."
+      },
+      {
+        "title": "Concept-to-Care Continuity",
+        "description": "The same team that designs your landscape maintains it. That continuity means nothing falls through the cracks — ever."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Lasting Value.",
+    "subtitle": "Every property is unique. We provide detailed proposals after your free walkthrough — no cookie-cutter quotes, no hidden charges."
+  },
+  "guarantee": {
+    "headline": "Our \"Landscape for Life\" Promise",
+    "description": "If any plant we install does not thrive within its first growing season, we replace it at no cost. If you are not completely satisfied with any maintenance visit, we return and make it right — free of charge. After 70 years, our reputation is our greatest asset, and we protect it on every property."
+  },
+  "faqs": [
+    {
+      "question": "How soon can you start on my project?",
+      "answer": "Design-build projects typically begin within 2-4 weeks of proposal approval, depending on scope and season. Maintenance programs can often start within the week. Contact us and we will find the best timeline for your property."
+    },
+    {
+      "question": "Do you serve both Westchester and Fairfield County?",
+      "answer": "Yes. We have been proudly serving homeowners across Westchester, NY and Fairfield, CT since 1955. Our crews know both regions intimately — the soil conditions, local regulations, and plant varieties that perform best in each area."
+    },
+    {
+      "question": "What makes your organic lawn care different?",
+      "answer": "Our organic programs focus on building soil health from the ground up rather than masking problems with synthetic chemicals. The result is a deeper root system, better drought tolerance, and a lawn that is safer for kids, pets, and the environment."
+    },
+    {
+      "question": "Do you handle both design and ongoing maintenance?",
+      "answer": "Absolutely. Our concept-to-care approach means the same team that designs and installs your landscape also maintains it. This continuity ensures your investment looks its best year after year."
+    },
+    {
+      "question": "Can you work with my existing landscape?",
+      "answer": "Of course. Many clients come to us for enhancement of an existing landscape rather than a full redesign. We assess what is working, what needs attention, and create a plan that respects your budget and your property's potential."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Patricia W.",
+      "text": "Rolling Lawns completely transformed our backyard. Their design team understood exactly what we wanted and delivered a beautiful outdoor space that exceeded our expectations. The attention to detail in both the masonry and planting was exceptional.",
+      "context": "Landscape Design & Build",
+      "initials": "PW"
+    },
+    {
+      "name": "Thomas H.",
+      "text": "We have been using Rolling Lawns for property maintenance for years. Their organic lawn care approach has made a noticeable difference in the health and appearance of our landscape. Truly a professional, reliable team.",
+      "context": "Ongoing Property Care",
+      "initials": "TH"
+    },
+    {
+      "name": "Elizabeth M.",
+      "text": "The seasonal flower rotations and landscape lighting Rolling Lawns installed have made our home the envy of the neighborhood. Their team is knowledgeable, punctual, and a pleasure to work with.",
+      "context": "Seasonal Enhancements",
+      "initials": "EM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Landscape You<br>Actually Love?",
+    "subtitle": "Get a free, no-pressure property walkthrough and proposal. No contracts, no commitments — just honest guidance from a family that has been doing this for over 70 years.",
+    "benefits": [
+      "Free property walkthrough with every proposal",
+      "Response within 24 hours",
+      "70+ years of satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned landscape design and care. Serving Westchester & Fairfield since 1955.",
+    "service_area": "Serving Westchester, NY & Fairfield, CT",
+    "services": [
+      "Design & Build",
+      "Organic Lawn Care",
+      "Masonry & Hardscapes",
+      "Landscape Lighting",
+      "Irrigation Systems"
+    ],
+    "copyright": "&copy; 2024 Rolling Lawns. All rights reserved. 509 Fayette Avenue, Mamaroneck, NY"
+  }
+}

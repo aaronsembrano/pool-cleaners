@@ -1,0 +1,184 @@
+{
+  "folder_name": "clean-sweep-pools",
+  "company_name": "Clean Sweep Pools",
+  "tagline": "The best pool service in the valley!",
+  "phone": "+1 951-302-2345",
+  "email": "rob.winograd@cleansweeppoolservice.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E40AF",
+    "primary_dark": "#1E3A8A",
+    "primary_deeper": "#172554",
+    "secondary": "#3B82F6",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured (#1050767)",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "Pentair Authorized Dealer"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "IPSSA Certified Experts",
+    "headline": "37 Years of Pools Done <span class=\"text-secondary italic\">Right on the<br>North Shore</span>",
+    "subheadline": "You bought a pool for family fun, not weekend chores. Clean Sweep Pools has kept North Shore pools crystal clear since 1989 so families like yours can skip the chemicals and just dive in.",
+    "cta_text": "Get My Free Pool Inspection",
+    "checkmarks": [
+      "Free on-site inspection",
+      "IPSSA-certified technicians",
+      "No long-term contracts"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "37",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits/Year",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From weekly maintenance to full equipment overhauls, our IPSSA-certified crew handles every aspect of pool care so you never have to worry about a thing.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Comprehensive skimming, vacuuming, brushing, chemical balancing, and equipment checks every week. Your pool stays swim-ready all season long."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Expert diagnosis and repair of pumps, heaters, filters, automation systems, salt cells, and plumbing. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Seasonal opening and winterization services that protect your investment through harsh Illinois winters and ensure a smooth start each spring."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "IPSSA-certified technicians deliver precise chemical balancing that keeps water safe, crystal clear, and gentle on skin. No red eyes, no guesswork."
+      },
+      {
+        "title": "Equipment Upgrades",
+        "description": "Energy-efficient variable speed pumps, automation controls, LED lighting, and salt systems that can save you up to 90% on electricity costs."
+      },
+      {
+        "title": "Commercial Pool Service",
+        "description": "Professional maintenance for hotels, HOAs, and community pools with full health department compliance and custom-tailored service plans."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Inspection",
+        "description": "Tell us about your pool and we will send a certified technician to inspect it at no cost. No pressure, no obligation, just honest recommendations."
+      },
+      {
+        "title": "Get a Custom Care Plan",
+        "description": "Every pool is different. We design a maintenance plan tailored to your pool's size, equipment, and usage. Pentair-backed solutions included."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Our IPSSA-certified team handles everything on schedule. Your pool stays crystal clear and swim-ready while you enjoy your weekends with family."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why North Shore Families Trust Us",
+    "headline": "37 Years of Keeping Pools Pristine Across Lincolnshire",
+    "description": "Founded in 1989 by Rob Winograd, Clean Sweep Pools has been the North Shore's go-to pool service for nearly four decades. Our technicians are IPSSA-certified water chemistry experts and Pentair Authorized Dealers who treat every pool like their own.",
+    "badge": "Pentair Authorized Dealer",
+    "features": [
+      {
+        "title": "IPSSA-Certified Technicians",
+        "description": "Every technician holds certification from the Independent Pool and Spa Service Association, ensuring expert-level water chemistry management."
+      },
+      {
+        "title": "Licensed & Fully Insured",
+        "description": "Pool Contractor License #1050767 and comprehensive insurance coverage give you complete peace of mind with every service visit."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a visit? We come back and make it right at no charge. After 37 years, our reputation is our most valuable asset."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime with zero fees or contracts."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us within 24 hours and we will come back and redo it at no charge. We have built our reputation over 37 years by standing behind every visit, and we are not stopping now. Your pool will look the way it should, or we keep working until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Lincolnshire and North Shore area are scheduled within 3-5 business days. For urgent situations like green pools or equipment failures, we offer priority same-day or next-day response."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our North Shore clients provide gate access and we take care of everything while you are away. You will receive a detailed service summary after each visit so you always know what was done."
+    },
+    {
+      "question": "What certifications do your technicians hold?",
+      "answer": "All of our technicians are certified water chemistry experts through the Independent Pool and Spa Service Association (IPSSA). We are also a Pentair Authorized Dealer and hold Pool Contractor License #1050767."
+    },
+    {
+      "question": "Do you handle pool openings and closings for Illinois winters?",
+      "answer": "Absolutely. Our seasonal opening and winterization services are specifically designed for the harsh Illinois climate. We protect your plumbing, equipment, and surfaces so your pool is ready to go each spring."
+    },
+    {
+      "question": "Do you service commercial properties and HOA pools?",
+      "answer": "Yes, we service hotels, HOAs, vacation rentals, and community pools across the North Shore. Commercial clients receive customized maintenance plans and full compliance with local health department requirements."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Verified Homeowner",
+      "text": "Rob is incredibly knowledgeable, professional, and honest. He is always responsive and goes above and beyond to make sure our pool is in perfect condition. Highly recommend Clean Sweep Pools to anyone looking for reliable pool service.",
+      "context": "HomeAdvisor Review",
+      "initials": "VH"
+    },
+    {
+      "name": "North Shore Client",
+      "text": "We have been using Clean Sweep Pools for years and they never disappoint. The team is always on time, thorough, and our pool has never looked better. Their expertise in water chemistry is unmatched.",
+      "context": "Verified Customer Review",
+      "initials": "NC"
+    },
+    {
+      "name": "HOA Manager",
+      "text": "Clean Sweep Pools handles all of our community pool maintenance with complete professionalism. They keep us fully compliant with health codes and the pool is always sparkling clean for our residents.",
+      "context": "Commercial Client Review",
+      "initials": "HM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect All Season?",
+    "subtitle": "Get a free, no-obligation inspection from our IPSSA-certified team. 37 years of North Shore pool expertise, zero pressure, and honest pricing.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Custom care plan within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "IPSSA-certified pool service. Proudly serving the North Shore since 1989.",
+    "service_area": "Serving Lincolnshire, Vernon Hills, Buffalo Grove, Lake Forest, Deerfield, Highland Park, Libertyville & the North Shore",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Pool Opening & Closing",
+      "Equipment Upgrades",
+      "Commercial Service"
+    ],
+    "copyright": "&copy; 2024 Clean Sweep Pools. All rights reserved. Licensed Pool Contractor #1050767"
+  }
+}

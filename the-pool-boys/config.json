@@ -1,0 +1,180 @@
+{
+  "folder_name": "the-pool-boys",
+  "company_name": "The Pool Boys",
+  "tagline": "Weekly Pool Service & Pool Equipment Repair You Can Depend On",
+  "phone": "+1 832-473-5715",
+  "email": "zac@poolboys.com",
+  "logo_path": "logo.png",
+  "review_count": "158",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3f",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "hero": {
+    "headline": "Pool Care Your Family <span class=\"text-secondary italic\">Can Count On</span>",
+    "subheadline": "Since 2011, The Pool Boys have delivered dependable weekly pool service and expert equipment repair to League City families. Licensed technicians, manufacturer-authorized expertise, and service you can trust every single week.",
+    "badges": [
+      "4.9 Stars - 158 Reviews",
+      "Family-Owned Since 2011"
+    ],
+    "checkmarks": [
+      "Licensed, bonded & insured technicians",
+      "Authorized Hayward, Pentair & Jandy installer",
+      "Consistent weekly service \u2014 never missed"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "14",
+    "stat_1_label": "Years Serving Clear Lake",
+    "stat_2_value": "4.9",
+    "stat_2_label": "Google Rating",
+    "stat_3_value": "158",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "5",
+    "stat_4_label": "Brand Authorizations"
+  },
+  "services": {
+    "headline": "Complete Pool Care Under One Roof",
+    "subtitle": "From weekly maintenance to complex equipment repairs, our licensed technicians handle it all with manufacturer-level expertise.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive cleaning, chemical balancing, and equipment checks every week so your pool stays crystal clear without you lifting a finger."
+      },
+      {
+        "title": "Equipment Repair & Installation",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and automation systems. Factory-trained on Hayward, Pentair, Jandy, and Raypak."
+      },
+      {
+        "title": "OnPoint Equipment Inspection",
+        "description": "Our proprietary diagnostic service evaluates every component of your pool equipment and delivers a detailed performance report with recommendations."
+      },
+      {
+        "title": "Chemical Balancing & Water Testing",
+        "description": "Precise water chemistry management using professional-grade testing to keep your pool safe, comfortable, and free of algae or scale buildup."
+      },
+      {
+        "title": "Pool Automation Systems",
+        "description": "Installation and programming of smart pool controls so you can manage your pool's pump, lights, heater, and more from your phone."
+      },
+      {
+        "title": "Filter & Pump Upgrades",
+        "description": "Energy-efficient equipment upgrades that reduce your electricity costs while improving water circulation and filtration performance."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Call us or fill out the form. We'll visit your pool, inspect your equipment, and discuss your needs \u2014 no cost, no pressure."
+      },
+      {
+        "title": "Get Your Custom Service Plan",
+        "description": "We'll recommend the right weekly service package and flag any equipment issues with honest, transparent pricing."
+      },
+      {
+        "title": "Enjoy a Worry-Free Pool",
+        "description": "Your dedicated technician arrives on the same day each week. Consistent care, clear communication, and a pool that's always ready."
+      }
+    ]
+  },
+  "about": {
+    "label": "About The Pool Boys",
+    "headline": "A Family Business Built on Doing Things Right",
+    "description": "Founded in 2011 by a family who believed pool service should be dependable, professional, and fairly priced, The Pool Boys has grown into one of the most trusted names in the Clear Lake area. Every technician on our team is trained, licensed, and committed to the same standard: treat every pool like it's our own. We're authorized installers for all major equipment brands because we earned that trust \u2014 and we bring that same commitment to your backyard every week.",
+    "badge": "Serving Clear Lake Since 2011",
+    "features": [
+      {
+        "title": "Family-Owned & Operated",
+        "description": "Your neighbors, not a franchise. We treat every pool like it is our own because our reputation is everything."
+      },
+      {
+        "title": "Trained, Licensed Technicians",
+        "description": "Every technician holds a Texas state license and is factory-trained on all major equipment brands."
+      },
+      {
+        "title": "Manufacturer Authorized",
+        "description": "Authorized by Hayward, Pentair, Jandy, Raypak and AquaStar for expert installation and warranty service."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing, No Surprises",
+    "subtitle": "Every pool is different. We'll assess yours for free and recommend a plan that fits your needs and budget \u2014 no hidden fees, no upselling."
+  },
+  "guarantee": {
+    "headline": "Our Dependability Promise",
+    "description": "If you're ever unsatisfied with a service visit, we'll come back and make it right at no additional charge. We've built our reputation on consistency and follow-through \u2014 and we stand behind every single visit. That's the Pool Boys way."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve around League City?",
+      "answer": "We provide weekly pool service and equipment repair throughout League City, Friendswood, Pearland, Clear Lake, Webster, Kemah, Seabrook, Dickinson, Pasadena, and surrounding communities."
+    },
+    {
+      "question": "What does your weekly pool service include?",
+      "answer": "Every visit includes water testing, chemical adjustments, skimming, brushing, vacuuming, filter checks, and a full equipment inspection. We leave a service report so you always know the status of your pool."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. Every Pool Boys technician holds a Texas state license, and our company is fully bonded and insured. We also maintain manufacturer authorizations from Hayward, Pentair, Jandy, Raypak, and AquaStar."
+    },
+    {
+      "question": "What is the OnPoint Equipment Inspection?",
+      "answer": "It's our proprietary diagnostic service. We thoroughly evaluate every piece of your pool equipment \u2014 pumps, filters, heaters, automation \u2014 and provide a detailed report with condition ratings and recommendations for repairs or upgrades."
+    },
+    {
+      "question": "How quickly can you respond to equipment breakdowns?",
+      "answer": "We prioritize repair calls from our weekly service customers and typically schedule diagnostics within 1-2 business days. Emergency situations are handled as quickly as possible based on technician availability."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert Vining",
+      "text": "Great Weekly Service! My weekly pool tech Cooper has been doing an excellent job. The pool is consistently clean and well-maintained every single week.",
+      "context": "League City, TX - Weekly Service",
+      "initials": "RV"
+    },
+    {
+      "name": "Renee",
+      "text": "Best in the Biz! Justin came out and got us up and running after lightning struck our house. Very knowledgeable of pool equipment and figures out the problem quickly. Reasonable prices and stands by their word.",
+      "context": "Santa Fe, TX - Equipment Repair",
+      "initials": "R"
+    },
+    {
+      "name": "Beth S.",
+      "text": "We are so pleased with our service and repairs from Pool Boys. Professional and prompt. We could not be happier with the service provided whether it be repair or cleaning.",
+      "context": "Weekly Service & Repairs",
+      "initials": "BS"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You Can Enjoy Every Day?",
+    "subtitle": "Get your free pool assessment and see why 158+ families trust The Pool Boys for dependable weekly service.",
+    "benefits": [
+      "Free on-site pool & equipment assessment",
+      "Custom service plan with transparent pricing",
+      "Same-day-each-week scheduling available"
+    ]
+  },
+  "footer": {
+    "description": "The Pool Boys is a family-owned pool service company providing dependable weekly maintenance and expert equipment repair to the Clear Lake area since 2011. Licensed, bonded, and insured.",
+    "service_area": "Serving League City, Friendswood, Pearland, Clear Lake, Webster, Kemah, Seabrook, Dickinson, Pasadena, and surrounding areas.",
+    "services": [
+      "Weekly Pool Maintenance",
+      "Equipment Repair & Installation",
+      "OnPoint Equipment Inspection",
+      "Pool Automation Systems",
+      "Filter & Pump Upgrades"
+    ],
+    "copyright": "The Pool Boys"
+  }
+}

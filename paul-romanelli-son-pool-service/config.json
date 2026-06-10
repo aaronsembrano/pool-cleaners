@@ -1,0 +1,101 @@
+{
+  "folder_name": "paul-romanelli-son-pool-service",
+  "company_name": "Paul Romanelli & Son Pool Service",
+  "tagline": "Long Island's Trusted Pool Care Experts Since 1999",
+  "phone": "(631) 472-6275",
+  "email": "info@romanellipools.com",
+  "colors": {
+    "primary": "#E86A10",
+    "primary_dark": "#C75A0D",
+    "primary_deeper": "#A34A0A",
+    "secondary": "#1E3A5F",
+    "cta": "#E86A10",
+    "cta_dark": "#C75A0D"
+  },
+  "hero": {
+    "headline": "The Easiest Way to a Crystal-Clear, Carefree Pool",
+    "subtitle": "For over 26 years, Long Island families have trusted Paul Romanelli & Son to keep their pools pristine — with zero hassle, transparent pricing, and weekly digital health reports.",
+    "badges": ["26+ Years in Business", "2,000+ Pools Serviced", "4.6-Star Rated"],
+    "checkmarks": ["No Hidden Fees — Ever", "Weekly Digital Pool Reports", "Licensed & Insured Technicians"],
+    "cta_text": "Get Your Free Pool Evaluation"
+  },
+  "stats": {
+    "stat_1_value": "2000",
+    "stat_1_label": "Pools Serviced",
+    "stat_2_value": "26",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "2500",
+    "stat_3_label": "Happy Customers",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "headline": "Complete Pool Care, From Opening to Closing",
+    "subtitle": "Whether you need weekly maintenance, a liner replacement, or a full equipment upgrade — we handle it all so you can just enjoy your pool.",
+    "cards": [
+      {"title": "Weekly Pool Maintenance", "description": "Consistent chemical balancing, skimming, and filter cleaning that keeps your water sparkling all season long."},
+      {"title": "Pool Openings & Closings", "description": "Seamless seasonal transitions handled by experienced technicians who get your pool ready faster than anyone on the Island."},
+      {"title": "Vinyl Liner Replacement", "description": "Expert measurement, selection, and installation of premium vinyl liners that transform the look and feel of your pool."},
+      {"title": "Equipment Repairs & Upgrades", "description": "From variable-speed pumps to salt systems and automation — we modernize your pool equipment for peak efficiency."},
+      {"title": "Safety Cover Installation", "description": "Protect your family and your investment with professionally fitted safety covers built to withstand Long Island winters."},
+      {"title": "Green Pool Recovery", "description": "Got algae? Our rapid-response team typically restores crystal clarity in just 48 hours — guaranteed."}
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {"title": "Request Your Free Evaluation", "description": "Call us or fill out the form — we'll schedule a convenient time to assess your pool's needs."},
+      {"title": "Get a Transparent Quote", "description": "We'll provide a clear, no-surprise quote tailored to your pool's size, condition, and your goals."},
+      {"title": "Sit Back & Enjoy", "description": "Our team handles everything while you receive weekly digital reports showing exactly what was done."}
+    ]
+  },
+  "about": {
+    "label": "Family-Owned Since 1999",
+    "headline": "Two Generations Dedicated to Your Pool",
+    "description": "Founded by Paul Romanelli and now led by his son Rocco, our family business has grown from a one-truck operation to Long Island's most trusted pool service company. With 45+ years of combined expertise between our lead technicians, we bring old-school craftsmanship together with modern digital tools — including weekly health reports and real-time technician tracking — so you always know your pool is in expert hands.",
+    "badge": "Serving Suffolk & Nassau Counties",
+    "features": [
+      {"title": "100% Digital — No Paperwork, No Guessing", "description": "Every service visit is tracked digitally with photos, chemical readings, and notes delivered straight to your phone."},
+      {"title": "Weekly Pool Health Reports", "description": "Receive detailed water chemistry reports after every visit so you always know your pool's exact condition."},
+      {"title": "No Contracts, Cancel Anytime", "description": "We earn your business every single visit. No long-term commitments, no cancellation fees, no surprises."}
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing, No Surprises",
+    "subtitle": "Every pool is different. We provide custom quotes based on your pool's size and needs — and the price we quote is the price you pay."
+  },
+  "guarantee": {
+    "headline": "Our Clear-Water Promise",
+    "description": "If your pool isn't crystal clear within 48 hours of our service, we'll come back and make it right at no extra charge. That's the Romanelli standard — the same commitment to excellence that's kept Long Island families coming back for over two decades."
+  },
+  "faqs": [
+    {"question": "What areas do you service on Long Island?", "answer": "We serve residential and commercial pools throughout Suffolk and Nassau counties, including Bohemia, Holbrook, Sayville, Islip, and surrounding communities."},
+    {"question": "How do your weekly digital reports work?", "answer": "After each service visit, you'll receive a detailed report on your phone showing chemical levels, work performed, and any recommendations — so you always know the exact state of your pool."},
+    {"question": "Do you handle pool openings and closings?", "answer": "Absolutely. We offer complete seasonal packages that include opening, weekly maintenance, and closing — making your entire pool season completely hands-off."},
+    {"question": "How quickly can you fix a green pool?", "answer": "Our rapid-response team typically restores a green or algae-filled pool to crystal clarity within 48 hours. We use professional-grade treatments and our saturation index expertise to balance your water fast."},
+    {"question": "Are your technicians licensed and insured?", "answer": "Yes. Every technician on our team is fully licensed, insured, and background-checked. With 45+ years of combined experience between our leads, you can trust your pool is in expert hands."}
+  ],
+  "testimonials": [
+    {"name": "Michael T.", "text": "Romanelli & Son turned our neglected green pool into a sparkling oasis in two days flat. Their weekly reports are a game-changer — I always know exactly what's going on with my water chemistry.", "context": "Weekly maintenance client since 2021", "initials": "MT"},
+    {"name": "Jennifer L.", "text": "After trying three other pool companies, we finally found one that actually shows up on time and communicates. The digital reports and transparent pricing make all the difference. Our pool has never looked better.", "context": "Full-season service package", "initials": "JL"},
+    {"name": "Robert K.", "text": "We've been with Paul Romanelli's crew for over 10 years now. They replaced our liner, upgraded our pump to a variable-speed unit, and handle our weekly maintenance flawlessly. True professionals.", "context": "Long-term customer, Suffolk County", "initials": "RK"}
+  ],
+  "contact": {
+    "headline": "Ready for a Hassle-Free Pool Season?",
+    "subtitle": "Get your free pool evaluation today. We'll assess your pool, provide a transparent quote, and show you why thousands of Long Island families trust Romanelli & Son.",
+    "benefits": [
+      "Free, no-obligation pool evaluation",
+      "Custom quote within 24 hours",
+      "Flexible scheduling that fits your life",
+      "Start service as soon as this week"
+    ]
+  },
+  "footer": {
+    "description": "Paul Romanelli & Son Pool Service has been Long Island's trusted pool care partner since 1999. From weekly maintenance to full equipment overhauls, we keep your pool perfect so you don't have to.",
+    "service_area": "Serving Suffolk & Nassau Counties — Bohemia, Holbrook, Sayville, Islip, Ronkonkoma, and all of Long Island",
+    "services": ["Weekly Maintenance", "Pool Openings & Closings", "Liner Replacement", "Equipment Upgrades", "Safety Covers"],
+    "copyright": "Paul Romanelli & Son Pool Service"
+  },
+  "review_count": 37,
+  "review_rating": 4.6
+}

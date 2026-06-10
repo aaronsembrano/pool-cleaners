@@ -5,71 +5,71 @@
   "phone": "+1 973-423-1533",
   "email": "jack@alpapools.com",
   "logo_path": "logo.png",
-  "review_count": "39",
-  "review_rating": "4.4",
+  "review_count": "40",
+  "review_rating": "4.1",
   "colors": {
-    "primary": "#1a5fb4",
-    "primary_dark": "#0d3b7a",
-    "primary_deeper": "#082a5a",
-    "secondary": "#4da6e8",
-    "cta": "#e8a030",
-    "cta_dark": "#c4841a"
+    "primary": "#1a5276",
+    "primary_dark": "#123a54",
+    "primary_deeper": "#0c2a3e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d4860a"
   },
   "trust_badges": {
-    "badge_1": "CPO & CSP Certified",
-    "badge_2": "4.4/5 from 39+ Reviews",
-    "badge_3": "Family Owned Since 1969"
+    "badge_1": "Serving NJ Since 1969",
+    "badge_2": "4.1/5 from 40+ Reviews",
+    "badge_3": "BioGuard Authorized Dealer"
   },
   "hero": {
-    "badge_1": "4.4/5 from 39+ Google Reviews",
-    "badge_2": "Family Owned Since 1969",
-    "headline": "57 Years of Pools Done <span class=\"text-secondary italic\">Right</span>",
-    "subheadline": "Your pool should be the best part of summer, not another chore. Since 1969, Alpa Pools & Spas has kept Bergen County families swimming in crystal-clear water. From openings to closings and everything in between, just dive in.",
-    "cta_text": "Schedule Your Pool Service",
+    "badge_1": "4.1/5 from 40+ Google Reviews",
+    "badge_2": "Trusted Since 1969",
+    "headline": "57 Years Keeping NJ Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Your pool should be your family's favorite place, not your weekend chore. Alpa Pools & Spas has been the trusted name in Northern New Jersey pool care since 1969. Let our professionally trained team handle every detail so you can just dive in.",
+    "cta_text": "Request Your Free Estimate",
     "checkmarks": [
-      "Free water analysis",
-      "Same-week service available",
-      "CPO-certified technicians"
+      "Free pool inspection",
+      "Full-service retail store on site",
+      "All major equipment brands serviced"
     ]
   },
   "stats": {
-    "stat_1_value": "1000",
-    "stat_1_label": "Pools Serviced",
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1969",
     "stat_2_value": "57",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "5000",
-    "stat_3_label": "Seasonal Services Done",
+    "stat_3_value": "40",
+    "stat_3_label": "Google Reviews",
     "stat_4_value": "100%",
-    "stat_4_label": "Dedication to Quality"
+    "stat_4_label": "Dedicated to Quality"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Opening Day to Closing",
-    "subtitle": "From the first warm day of spring to the last swim of fall, Alpa Pools handles every detail so you can focus on enjoying your backyard.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Opening to Closing Day",
+    "subtitle": "From weekly maintenance to full-scale renovations, Alpa Pools handles every aspect of pool ownership. Our trained technicians use premium BioGuard products and service all major equipment brands.",
     "cards": [
       {
-        "title": "Pool Openings",
-        "description": "We get your pool summer-ready with a full equipment inspection, water balancing, and system startup. Swim sooner with zero stress."
+        "title": "Weekly Pool Maintenance",
+        "description": "Full valet service including water testing, vacuuming, skimming, tile brushing, and basket cleaning. Monthly comprehensive water analysis at our on-site lab."
       },
       {
-        "title": "Weekly Maintenance",
-        "description": "Crystal-clear water all season long. We handle skimming, vacuuming, chemical balancing, and filter checks on a reliable schedule."
+        "title": "Equipment Repair & Upgrades",
+        "description": "Expert repairs on pumps, filters, heaters, salt systems, and automation controls. Pentair, Jandy, and Hayward certified — most repairs completed same visit."
       },
       {
-        "title": "Pool Closings",
-        "description": "Proper winterization protects your investment. We blow plumbing lines, balance chemistry, install covers, and secure all equipment."
+        "title": "Vinyl Liner Replacement",
+        "description": "Custom-fit vinyl liner services including precise measuring, old liner removal, surface preparation, and professional installation to refresh your pool."
       },
       {
-        "title": "Water Analysis & Chemicals",
-        "description": "Professional computerized water testing plus a full retail selection of BioGuard chemicals, salt products, and specialty treatments."
+        "title": "Chemical Stop Service",
+        "description": "Weekly or bi-weekly water testing and precise chemical balancing using premium BioGuard products. Monthly professional water sample analysis at our facility."
       },
       {
-        "title": "Equipment Sales & Repair",
-        "description": "Pumps, filters, heaters, and more. Expert diagnosis and fast repairs to keep your pool systems running efficiently all season."
+        "title": "Pool Renovations",
+        "description": "Comprehensive pool updates including coping, waterline tile, plaster, and surface restoration. Transform your aging pool into a backyard centerpiece."
       },
       {
-        "title": "Retail Pool Store",
-        "description": "Visit our North Haledon location for BioGuard chemicals, replacement parts, Salt Scapes and Mineral Springs products, and expert advice."
+        "title": "Pool Openings & Closings",
+        "description": "Seasonal services to properly start up or winterize your pool. Equipment checks, water balancing, and cover management handled by our experienced crew."
       }
     ]
   },
@@ -77,107 +77,107 @@
     "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Call or Visit Us",
-        "description": "Give us a call or stop by our North Haledon store. We'll discuss your pool's needs and provide a straightforward, honest estimate. No pressure, no sales games."
+        "title": "Call or Request a Quote",
+        "description": "Tell us about your pool and what you need. We will provide a straightforward, honest estimate with no pressure and no hidden fees."
       },
       {
         "title": "We Take Care of Everything",
-        "description": "Our CPO-certified team arrives on schedule and handles your pool with 57 years of expertise. Openings, closings, weekly care, repairs — it's all covered."
+        "description": "Our trained technicians arrive on schedule with premium BioGuard products and professional-grade equipment. Cleaning, chemistry, repairs — all handled."
       },
       {
-        "title": "Enjoy Your Summer",
-        "description": "Your pool stays sparkling, safe, and swim-ready all season. If something isn't right, one call to Russell and it gets fixed. That's the Alpa difference."
+        "title": "Enjoy Your Backyard Again",
+        "description": "Your pool stays crystal clear, swim-ready, and worry-free all season long. With 57 years of experience behind every visit, your pool is in the best hands in New Jersey."
       }
     ]
   },
   "about": {
-    "label": "Why Northern NJ Trusts Us",
+    "label": "Why Northern NJ Trusts Alpa Pools",
     "headline": "Family-Owned Since 1969 — Three Generations of Pool Expertise",
-    "description": "Russell and Liz Halbach purchased Alpa Pools in 2001 and have continued a legacy of exceptional service that started in 1969. As a Certified Pool Operator and Certified Service Professional, Russell holds the highest certifications awarded in the swimming pool industry. Our professionally trained staff treats every pool like their own.",
-    "badge": "CPO & CSP Certified",
+    "description": "Alpa Pools & Spas has been Northern New Jersey's go-to pool service company for over five decades. Owner Jack and his professionally trained team bring hands-on expertise to every job, from weekly maintenance to complex renovations. Our on-site retail store and water analysis lab mean faster diagnostics and the right products for your pool, every time.",
+    "badge": "BioGuard Authorized Dealer",
     "features": [
       {
-        "title": "Certified Pool Professionals",
-        "description": "Owner Russell Halbach holds CPO and CSP certifications — among the highest credentials in the entire pool industry."
+        "title": "Certified Multi-Brand Experts",
+        "description": "Pentair, Jandy, and Hayward certified. We service and repair all major pool equipment brands so you never need to call around."
       },
       {
-        "title": "Honest Advice, No Overselling",
-        "description": "We give you straight answers and expert guidance. Customers say they never feel pressured — we're truly there to help."
+        "title": "On-Site Retail Store & Lab",
+        "description": "Walk in for chemicals, parts, and accessories. Our professional water analysis lab provides precise diagnostics you cannot get from test strips."
       },
       {
-        "title": "57 Years of Proven Results",
-        "description": "Since 1969, families across Bergen County have trusted Alpa Pools for reliable, high-quality pool care season after season."
+        "title": "57 Years of Trusted Service",
+        "description": "Since 1969, families across Bergen and Passaic counties have trusted Alpa Pools to keep their pools safe, clean, and beautiful."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "We believe in honest quotes and transparent service. Call us for a free estimate tailored to your pool's needs."
+    "subtitle": "Every pool is different. Contact us for a personalized quote based on your pool's size, condition, and service needs."
   },
   "guarantee": {
-    "headline": "Our \"Swim-Ready\" Guarantee",
-    "description": "If you're not completely satisfied with any service visit, call us and we'll come back to make it right at no additional charge. We've been earning trust since 1969, and your satisfaction is how we keep it."
+    "headline": "Our \"Crystal Clear\" Promise",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional charge. We have built our reputation over 57 years by standing behind every job. Your satisfaction is not just a policy — it is how we have stayed in business since 1969."
   },
   "faqs": [
     {
-      "question": "When should I schedule my pool opening?",
-      "answer": "Most Bergen County pool owners open between late April and mid-May. We recommend booking early since our spring schedule fills up quickly. Call us as soon as the weather starts warming up and we'll get you on the calendar."
+      "question": "How long has Alpa Pools been in business?",
+      "answer": "Since 1969 — that is over 57 years of continuous pool service in Northern New Jersey. We are one of the longest-running pool companies in the state, and owner Jack is still personally involved in operations."
     },
     {
-      "question": "Do I need to be home during service visits?",
-      "answer": "Not at all. Most of our customers provide gate access and we handle everything while you're away. After each visit, you'll know exactly what was done and the current condition of your pool."
+      "question": "What areas do you serve?",
+      "answer": "We serve Bergen County, Passaic County, and the surrounding Northern New Jersey communities. Our home base is in North Haledon with a full retail store and water analysis lab on site."
     },
     {
-      "question": "What chemicals do you recommend?",
-      "answer": "We're an authorized BioGuard dealer and carry their full product line, plus Salt Scapes and Mineral Springs for saltwater pools. Bring in a water sample and we'll provide a free computerized analysis with specific product recommendations."
+      "question": "Do you work on all pool equipment brands?",
+      "answer": "Yes. We are certified by Pentair, Jandy, and Hayward, and service virtually every major brand of pump, filter, heater, salt system, and automation controller on the market."
     },
     {
-      "question": "How often should my pool be serviced?",
-      "answer": "During swimming season, we recommend weekly service for optimal water clarity and safety. We also offer bi-weekly plans for pools with lighter use. Our team will help you choose the right frequency for your situation."
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our clients provide gate access and we handle everything while you are away. You will always know what was done after each visit."
     },
     {
-      "question": "Do you service pools in my area?",
-      "answer": "We serve Bergen County, Passaic County, and communities throughout Northern New Jersey. If you're in the area, give us a call — chances are we're already servicing pools in your neighborhood."
+      "question": "Do you sell pool chemicals and parts?",
+      "answer": "Absolutely. Our North Haledon retail store carries a full line of BioGuard chemicals, Salt Scapes and Mineral Springs salt water products, replacement parts, and pool equipment. Stop by anytime."
     }
   ],
   "testimonials": [
     {
+      "name": "Angelo P.",
+      "text": "We have trusted Alpa Pools with our weekly pool maintenance for the past few years, and they have been consistently excellent. Their professionalism and quality of work is outstanding.",
+      "context": "Google Review",
+      "initials": "AP"
+    },
+    {
       "name": "Trenance R.",
-      "text": "I love Alpa Pools & Spas! They've served my family over 2 decades. They are thorough and extremely reliable. I recommend them to EVERYONE!",
-      "context": "Google Review — 20+ year customer",
+      "text": "I love Alpa Pools & Spas! They have served my family over 2 decades. They are thorough and extremely reliable.",
+      "context": "Customer for 20+ Years",
       "initials": "TR"
     },
     {
-      "name": "Gabriel C.",
-      "text": "I have used Alpa Pools for over 5 years and I trust them completely. The service is consistent, professional, and the team genuinely cares about doing great work.",
-      "context": "Google Review — 5+ year customer",
-      "initials": "GC"
-    },
-    {
-      "name": "Satisfied Homeowner",
-      "text": "After reaching out late on a Friday evening regarding an urgent issue, Russell was at my home within hours. That kind of dedication is rare and deeply appreciated.",
-      "context": "Online Review",
-      "initials": "SH"
+      "name": "Rich F.",
+      "text": "Unlike the usual story with contractors, owner Jack came through with responsiveness and reliability for my pool heater replacement. Highly recommend.",
+      "context": "Google Review",
+      "initials": "RF"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Never Worry About?",
-    "subtitle": "Call us or stop by our North Haledon store. We'll give you an honest assessment and a fair quote — no pressure, no gimmicks. Just 57 years of pool expertise at your service.",
+    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
+    "subtitle": "Get a free, no-pressure estimate from Northern New Jersey's most experienced pool team. Call us or fill out the form and we will get back to you within 24 hours.",
     "benefits": [
-      "Free water analysis with every visit",
-      "Same-week service available",
-      "Family-owned, CPO-certified team"
+      "Free pool inspection with every estimate",
+      "Serving NJ since 1969",
+      "BioGuard and major brand certified"
     ]
   },
   "footer": {
     "description": "Family-owned pool service. Proudly serving Northern New Jersey since 1969.",
     "service_area": "Serving Bergen County, Passaic County & Northern NJ",
     "services": [
-      "Pool Openings",
       "Weekly Maintenance",
-      "Pool Closings",
       "Equipment Repair",
-      "Water Analysis"
+      "Vinyl Liner Replacement",
+      "Pool Renovations",
+      "Openings & Closings"
     ],
     "copyright": "&copy; 2024 Alpa Pools & Spas. All rights reserved. North Haledon, NJ"
   }

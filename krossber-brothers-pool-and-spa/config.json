@@ -1,0 +1,171 @@
+{
+  "folder_name": "krossber-brothers-pool-and-spa",
+  "company_name": "Krossber Brothers Pool And Spa",
+  "tagline": "Your #1 Source For All Of Your Pool & Hot Tub Needs",
+  "phone": "+1 585-742-3207",
+  "email": "mike@krossberpools.com",
+  "logo_path": "logo.png",
+  "review_count": "305",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B3A6B",
+    "primary_dark": "#142C52",
+    "primary_deeper": "#0E1F3A",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "hero": {
+    "headline": "Where Families Come Together <span class=\"text-secondary italic\">Since 2009</span>",
+    "subheadline": "Krossber Brothers has helped hundreds of Farmington families create backyard escapes they love. From hot tubs to pools and saunas, we guide you every step of the way.",
+    "badges": [
+      "4.8 Stars - 305 Reviews",
+      "Authorized Caldera Spas Dealer"
+    ],
+    "checkmarks": [
+      "Free In-Home Consultations",
+      "Test Soak Before You Buy",
+      "Family-Owned for 17 Years"
+    ],
+    "cta_text": "Book Your Free Consultation"
+  },
+  "stats": {
+    "stat_1_value": "17",
+    "stat_1_label": "Years Serving Farmington",
+    "stat_2_value": "305",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "2009",
+    "stat_3_label": "Family-Founded",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "headline": "Everything Your Backyard Needs",
+    "subtitle": "From relaxing hot tubs to sparkling pools and wellness systems, we have you covered.",
+    "items": [
+      {
+        "title": "Hot Tub Sales",
+        "description": "Authorized dealer of Caldera Spas, Finger Lakes Series hot tubs, and quality used units to fit every budget and lifestyle."
+      },
+      {
+        "title": "Above-Ground Pools",
+        "description": "Wide selection of above-ground pool models with professional guidance on choosing the right size and style for your yard."
+      },
+      {
+        "title": "Pool Service & Maintenance",
+        "description": "Complete pool service including seasonal opening and closing, equipment repair, and ongoing maintenance to keep your pool sparkling."
+      },
+      {
+        "title": "Hot Tub Service & Repair",
+        "description": "Expert hot tub servicing, maintenance, and repair to keep your spa running efficiently year-round."
+      },
+      {
+        "title": "Saunas & Cold Plunge",
+        "description": "Warm Wave saunas and Emerge cold plunge systems for the ultimate wellness experience at home."
+      },
+      {
+        "title": "Water Care & Accessories",
+        "description": "Full line of water care chemicals, spa covers, accessories, and everything needed to maintain crystal-clear water."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Backyard Oasis in 3 Simple Steps",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Call or book online. We'll come to your home, assess your space, and discuss your vision for the perfect backyard."
+      },
+      {
+        "title": "Experience Before You Buy",
+        "description": "Visit our showroom for a test soak. Feel the difference and find the perfect fit for your family's lifestyle."
+      },
+      {
+        "title": "Relax & Enjoy",
+        "description": "We handle professional delivery, setup, and teach you everything. Plus ongoing service whenever you need us."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Krossber Brothers",
+    "headline": "A Family Business That Treats You Like Family",
+    "description": "Since 2009, the Krossber Brothers have been bringing families together through backyard fun and relaxation. We're not a big-box store — we're your neighbors in Farmington, NY who genuinely care about helping you find the right pool, hot tub, or wellness solution. Every customer gets a personalized experience because that's how we'd want to be treated.",
+    "badge": "BBB Accredited Business",
+    "features": [
+      { "title": "In-Home Consultations", "description": "We come to you with personalized recommendations tailored to your space, lifestyle, and budget." },
+      { "title": "Hot Tub Trade-In Program", "description": "Upgrade to a new spa affordably by trading in your current hot tub. We make switching easy." },
+      { "title": "Lifetime Service & Support", "description": "From the day you buy through years of enjoyment, we're here for maintenance, repairs, and advice." }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "We'll walk you through every cost upfront so you can make the best decision for your family and budget."
+  },
+  "guarantee": {
+    "headline": "Our Family Promise",
+    "description": "If you're not completely thrilled with your purchase or service, we'll make it right — no excuses, no runaround. We've built our reputation on trust for 17 years, and we stand behind every product we sell and every service we perform."
+  },
+  "faqs": [
+    {
+      "question": "Do you offer financing for hot tubs and pools?",
+      "answer": "Yes! We offer flexible financing options to help make your backyard dreams a reality. Ask us about current promotions during your consultation."
+    },
+    {
+      "question": "Can I try a hot tub before I buy?",
+      "answer": "Absolutely. We offer a unique test soak experience at our showroom so you can feel the quality and comfort before making a decision."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Farmington, NY and all surrounding Ontario County communities. Contact us to confirm service availability in your area."
+    },
+    {
+      "question": "Do you service hot tubs and pools you didn't sell?",
+      "answer": "Yes, we service all makes and models of hot tubs and pools. Whether you bought from us or not, our technicians can help keep your equipment running smoothly."
+    },
+    {
+      "question": "How long does it take to get a new hot tub installed?",
+      "answer": "Most hot tub deliveries and setups are completed within 1-2 weeks of purchase, depending on site preparation needs. We'll give you a clear timeline during your consultation."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-time Customer",
+      "text": "We have used Krossber for 25 years. They are very knowledgeable and friendly, willing to explain and help out with patience. I can't say enough about them and recommend them to everyone.",
+      "context": "Pool and spa service",
+      "initials": "LC"
+    },
+    {
+      "name": "Hot Tub Buyer",
+      "text": "Jeremiah is trustworthy and knowledgeable. He made the hot tub buying process easy and stress-free, walking us through every step and going above and beyond with maintenance questions.",
+      "context": "Hot tub purchase",
+      "initials": "HB"
+    },
+    {
+      "name": "Pool Equipment Customer",
+      "text": "Krossber was very competitive on pricing for pool equipment installation, which went off perfectly. Friendly and helpful — it truly feels like you are part of the family.",
+      "context": "Pool equipment installation",
+      "initials": "PC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your Backyard?",
+    "subtitle": "Get in touch today for your free in-home consultation. No pressure, just honest advice from a family that cares.",
+    "benefits": [
+      "Free in-home consultation with no obligation",
+      "Same-week response guaranteed",
+      "Personalized recommendations for your space and budget"
+    ]
+  },
+  "footer": {
+    "description": "Krossber Brothers Pool And Spa has been Farmington's trusted source for pools, hot tubs, saunas, and service since 2009. Family-owned, community-focused.",
+    "service_area": "Serving Farmington, NY and surrounding Ontario County communities",
+    "services": [
+      "Hot Tub Sales",
+      "Above-Ground Pools",
+      "Pool Service & Maintenance",
+      "Hot Tub Repair",
+      "Saunas & Cold Plunge"
+    ],
+    "copyright": "Krossber Brothers Pool And Spa. All rights reserved."
+  }
+}

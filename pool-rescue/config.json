@@ -1,0 +1,184 @@
+{
+  "folder_name": "pool-rescue",
+  "company_name": "Pool Rescue",
+  "tagline": "Transform Your Pool into an Oasis with Pool Rescue",
+  "phone": "(864) 397-7039",
+  "email": "tyler@poolrescue.com",
+  "logo_path": "logo.png",
+  "review_count": "50",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#152C49",
+    "primary_deeper": "#0E1F33",
+    "secondary": "#2196F3",
+    "cta": "#E65100",
+    "cta_dark": "#BF4300"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.6/5 from 50+ Reviews",
+    "badge_3": "Serving Greenville Since 2011"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 50+ Google Reviews",
+    "badge_2": "14+ Years of Expert Pool Care",
+    "headline": "Your Pool, Rescued <span class=\"text-secondary italic\">Every<br>Single Week</span>",
+    "subheadline": "You bought a pool to relax, not to spend your weekends testing chemicals and scrubbing tiles. Pool Rescue handles every detail — weekly photo reports, precise chemical readings, and a dedicated technician who knows your pool by name. You just dive in.",
+    "cta_text": "Rescue My Pool Today",
+    "checkmarks": [
+      "Photo report after every visit",
+      "Same-day signup available",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Happy Customers",
+    "stat_2_value": "14",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">One Trusted Team",
+    "subtitle": "From weekly maintenance to major repairs, Pool Rescue has the expertise and equipment to keep your pool sparkling year-round.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Full-service weekly care including inspection, cleaning, water testing, and chemical treatment. Plus a photo and Skimmer Report emailed after every visit."
+      },
+      {
+        "title": "Pool Systems Repair",
+        "description": "Pumps, filters, electrical, and plumbing — our trained technicians diagnose and fix equipment issues fast to keep your pool running smoothly."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Professional vinyl liner replacement that restores your pool's look and structural integrity. Quality materials with expert installation for lasting results."
+      },
+      {
+        "title": "Safety Cover Installation",
+        "description": "Custom-fitted safety covers to protect your pool during the off-season and keep your family safe. Built for any pool shape or size."
+      },
+      {
+        "title": "Salt Water Conversion",
+        "description": "Convert your chlorine pool to a salt water system for softer water, lower maintenance costs, and a more enjoyable swimming experience."
+      },
+      {
+        "title": "Filter Cleaning & Inspections",
+        "description": "Thorough filter cleaning and comprehensive equipment assessments to catch small problems before they become expensive repairs."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Crystal Clear Pool",
+    "steps": [
+      {
+        "title": "Sign Up in Minutes",
+        "description": "Tell us about your pool and pick a plan that fits your budget. We complete your signup within one business day — no long waits, no hassle."
+      },
+      {
+        "title": "Same Tech, Same Day, Every Week",
+        "description": "Your dedicated technician arrives on the same day each week, cleans and treats your pool, then emails you a photo and detailed Skimmer Report."
+      },
+      {
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready all season. If anything is ever off, we come back and make it right — that is our guarantee."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Greenville Trusts Pool Rescue",
+    "headline": "Started as Lifeguards. Now We Rescue 200+ Pools.",
+    "description": "Founded in 2009 as lifeguards, we started cleaning residential pools in 2010 and officially launched Pool Rescue in 2011. With over 14 years in the pool industry, we have grown into the Greenville area's most trusted pool care provider — serving 200+ happy customers with the same dedication and care we brought to the pool deck on day one.",
+    "badge": "14+ Years Experience",
+    "features": [
+      {
+        "title": "Photo Reports After Every Visit",
+        "description": "You will never wonder what happened at your pool. We email you a photo and detailed Skimmer Report with chlorine, pH, and alkalinity readings after every service."
+      },
+      {
+        "title": "Same Technician Every Week",
+        "description": "No rotating strangers. Your dedicated tech knows your pool inside and out, arrives the same day each week, and treats your backyard like their own."
+      },
+      {
+        "title": "Cost-Friendly Plans, No Surprises",
+        "description": "We offer budget-friendly maintenance plans with transparent pricing. Fully licensed and insured, with a satisfaction guarantee on every single visit."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. Plans for Every Budget.",
+    "subtitle": "Pick the plan that fits your pool and your wallet. Upgrade, downgrade, or cancel anytime — no contracts, no headaches."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and redo it at no extra charge. We have built our reputation on 200+ happy customers and 14 years of trust — and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How fast can I get started?",
+      "answer": "Fast. We complete most signups within one business day and can have your first service scheduled that same week. For urgent situations like a green pool, we offer same-day response."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our 200+ customers give us gate access and go about their day. After every visit, we email you a photo and a detailed Skimmer Report so you always know exactly what was done."
+    },
+    {
+      "question": "What is the Skimmer Report?",
+      "answer": "It is a detailed service summary we email after every visit. It includes your pool's chlorine, pH, and alkalinity readings along with a photo of the finished pool. Full transparency, every single week."
+    },
+    {
+      "question": "Will I get a different technician each time?",
+      "answer": "No. You get the same dedicated technician on the same day every week. They learn your pool's quirks and can spot problems early because they know exactly what normal looks like."
+    },
+    {
+      "question": "Do you handle repairs too, or just cleaning?",
+      "answer": "Both. Our trained technicians handle everything from weekly maintenance to pump repairs, liner replacements, salt water conversions, and safety cover installations. One team for all your pool needs."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Kenny B.",
+      "context": "Google Review",
+      "initials": "KB",
+      "text": "Tyler is awesome. My pool turned green and he came out everyday until he got it back to a crystal clear blue color. Prices are good and he knows what he is doing."
+    },
+    {
+      "name": "Ali M.",
+      "context": "Google Review",
+      "initials": "AM",
+      "text": "Pool Rescue takes care of my pool maintenance in all aspects. The staff is super kind and respectful. The service they provide each week is professional and with high quality."
+    },
+    {
+      "name": "Steven W.",
+      "context": "Homeowner, 1+ Year",
+      "initials": "SW",
+      "text": "Fantastic company to deal with. From day 1 signing up with them they've taken great care of my pool. I love the weekly photo they take and email to me after servicing."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Rescue<br>Your Pool?",
+    "subtitle": "Get a free, no-pressure quote today. Same-day signup, no contracts — just honest pricing from a team that has been doing this for 14+ years.",
+    "benefits": [
+      "Free pool assessment with every quote",
+      "Signup completed within 1 business day",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Greenville's trusted pool care team since 2011. Serving 200+ happy customers.",
+    "service_area": "Serving Greenville, SC & Surrounding Areas",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Systems Repair",
+      "Liner Replacement",
+      "Salt Water Conversion",
+      "Safety Cover Installation"
+    ],
+    "copyright": "&copy; 2024 Pool Rescue LLC. All rights reserved."
+  }
+}

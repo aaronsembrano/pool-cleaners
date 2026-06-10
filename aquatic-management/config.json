@@ -1,0 +1,180 @@
+{
+  "folder_name": "aquatic-management",
+  "company_name": "Aquatic Management Inc.",
+  "tagline": "Your #1 Aquatic Resource",
+  "phone": "+1 866-233-2486",
+  "email": "chauna.wiggins@aquaticms.com",
+  "logo_path": "logo.png",
+  "review_count": "35",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#142D48",
+    "primary_deeper": "#0E2035",
+    "secondary": "#2AACB8",
+    "cta": "#2AACB8",
+    "cta_dark": "#1E8A94"
+  },
+  "hero": {
+    "headline": "20+ Years Protecting <span class=\"text-secondary italic\">Your Aquatic Investment</span>",
+    "subheadline": "Atlanta's most trusted full-service aquatic management company. From lifeguard staffing to facility renovations, we handle every detail so you can enjoy a safe, compliant, and pristine pool environment.",
+    "badges": [
+      "Red Cross Certified Professionals",
+      "Health Department Compliant"
+    ],
+    "checkmarks": [
+      "On-deck evaluations & structured safety culture",
+      "Environmentally friendly products & equipment",
+      "Full compliance documentation handled for you"
+    ],
+    "cta_text": "Get Your Free Facility Assessment"
+  },
+  "stats": {
+    "stat_1_value": "20",
+    "stat_1_label": "Years of Experience",
+    "stat_2_value": "500",
+    "stat_2_label": "Facilities Managed",
+    "stat_3_value": "35",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Safety Compliance"
+  },
+  "services": {
+    "headline": "Complete Aquatic Facility Solutions",
+    "subtitle": "Everything your pool needs under one roof \u2014 from daily operations to major renovations.",
+    "cards": [
+      {
+        "title": "Pool Management",
+        "description": "Daily supervision, maintenance, and full operational oversight including Health Department compliance and documentation."
+      },
+      {
+        "title": "Lifeguard Staffing",
+        "description": "Certified lifeguards placed at your facility with ongoing on-deck evaluations to maintain the highest safety standards."
+      },
+      {
+        "title": "Pool Cleaning & Maintenance",
+        "description": "Professional cleaning on a structured schedule using high-quality equipment and environmentally friendly products."
+      },
+      {
+        "title": "Water Safety Training",
+        "description": "Red Cross Lifeguard Certification and Certified Pool Operator courses to keep your team qualified and confident."
+      },
+      {
+        "title": "Swimming Lessons",
+        "description": "Instruction programs for all skill levels taught by trained aquatic professionals who prioritize safety and fun."
+      },
+      {
+        "title": "Renovation & Repairs",
+        "description": "Complete facility upgrades from equipment replacement to structural improvements that extend your pool's lifespan."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Assessment",
+        "description": "We visit your facility to evaluate current conditions, safety protocols, and operational needs at no cost."
+      },
+      {
+        "title": "Receive a Tailored Plan",
+        "description": "Our team designs a custom management program built around your facility's unique requirements and budget."
+      },
+      {
+        "title": "Enjoy Worry-Free Operations",
+        "description": "We handle everything from staffing to compliance while you focus on your community and residents."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Aquatic Management",
+    "headline": "Atlanta's Aquatic Authority Since 2002",
+    "description": "Founded over two decades ago, Aquatic Management Inc. has grown into one of the nation's leading aquatic facility management companies. We built our reputation by treating every pool as if it were our own \u2014 combining certified expertise with a genuine commitment to community safety. Our structured safety culture approach means your facility isn't just maintained, it's protected.",
+    "badge": "Serving Communities Nationwide",
+    "features": [
+      {
+        "title": "Full-Service Under One Roof",
+        "description": "We handle every aspect of aquatic facility operations \u2014 staffing, maintenance, compliance, and renovations \u2014 so you never need multiple vendors."
+      },
+      {
+        "title": "Ongoing Safety Evaluations",
+        "description": "Our supervisors conduct regular on-deck evaluations beyond standard staffing to ensure your facility maintains the highest safety standards."
+      },
+      {
+        "title": "Certified Professionals Only",
+        "description": "Every team member holds current Red Cross certification and follows our structured safety culture approach on every shift."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pool Management Pricing",
+    "subtitle": "Custom programs designed around your facility's needs \u2014 no hidden fees, no surprise charges."
+  },
+  "guarantee": {
+    "headline": "Our Safety & Satisfaction Promise",
+    "description": "If you're not completely satisfied with our management services within the first 30 days, we'll work with you to make it right or refund your fees. With 20+ years of experience and hundreds of facilities served, we stand behind every team member we place and every service we deliver."
+  },
+  "faqs": [
+    {
+      "question": "What areas does Aquatic Management serve?",
+      "answer": "We're headquartered in Atlanta, Georgia but provide aquatic management services to communities across the United States. Contact us to confirm availability in your area."
+    },
+    {
+      "question": "How quickly can you staff our pool for the season?",
+      "answer": "We recommend reaching out at least 4-6 weeks before your season opens. However, we maintain a roster of certified lifeguards and can often accommodate shorter timelines depending on your location."
+    },
+    {
+      "question": "Are your lifeguards certified?",
+      "answer": "Yes. All our lifeguards hold current Red Cross Lifeguard Certification. We also conduct ongoing on-deck evaluations throughout the season to ensure performance stays at the highest level."
+    },
+    {
+      "question": "Do you handle Health Department inspections?",
+      "answer": "Absolutely. We manage all compliance documentation and work proactively to ensure your facility passes inspections without issues. Health Department compliance is built into our standard management program."
+    },
+    {
+      "question": "Can you manage just part of our pool operations?",
+      "answer": "Yes. While we offer full-service management, we also provide individual services like lifeguard staffing, cleaning, or consulting. We'll tailor a program that fits exactly what you need."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David Richardson",
+      "text": "Aquatic Management has consistently provided excellent pool management services for our community. Their professionalism and attention to safety give our residents peace of mind every swim season.",
+      "context": "Community Pool Manager",
+      "initials": "DR"
+    },
+    {
+      "name": "Sandra Mitchell",
+      "text": "We have relied on Aquatic Management for years to handle our pool operations. Their team is responsive, well-trained, and always ensures our facility is in compliance with health regulations.",
+      "context": "HOA Board Member",
+      "initials": "SM"
+    },
+    {
+      "name": "Marcus Thompson",
+      "text": "From lifeguard staffing to facility maintenance, they handle everything seamlessly. Our residents love the pool experience and we never worry about safety or compliance issues anymore.",
+      "context": "Property Management Director",
+      "initials": "MT"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Protect Your Aquatic Investment",
+    "subtitle": "Get a free facility assessment and custom management proposal \u2014 no obligation, just expert guidance.",
+    "benefits": [
+      "Free on-site facility evaluation",
+      "Custom management plan within 48 hours",
+      "No long-term contract required to start"
+    ]
+  },
+  "footer": {
+    "description": "Aquatic Management Inc. has provided professional aquatic facility management services since 2002, serving communities across Atlanta and the United States with certified expertise and a safety-first approach.",
+    "service_area": "Atlanta, Georgia & Nationwide",
+    "services": [
+      "Pool Management",
+      "Lifeguard Staffing",
+      "Pool Maintenance",
+      "Water Safety Training",
+      "Facility Renovations"
+    ],
+    "copyright": "Aquatic Management Inc."
+  }
+}

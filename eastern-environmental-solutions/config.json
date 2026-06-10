@@ -3,182 +3,178 @@
   "company_name": "Eastern Environmental Solutions",
   "tagline": "Providing Innovative Solutions for Today's Environmental Concerns",
   "phone": "+1 631-727-2700",
-  "email": "scotthamarich@easternenviro.com",
+  "email": "dan@easternenviro.com",
   "logo_path": "logo.png",
-  "review_count": "30",
-  "review_rating": "4.5",
+  "review_count": "45",
+  "review_rating": "4.8",
   "colors": {
-    "primary": "#1B3A5C",
-    "primary_dark": "#122842",
-    "primary_deeper": "#0C1C2E",
-    "secondary": "#4A90D9",
-    "cta": "#E8A317",
-    "cta_dark": "#C78A0E"
-  },
-  "trust_badges": {
-    "badge_1": "Veteran Owned & Operated",
-    "badge_2": "4.5/5 from 30+ Reviews",
-    "badge_3": "24/7 Emergency Response"
+    "primary": "#1a3a6b",
+    "primary_dark": "#122a4e",
+    "primary_deeper": "#0d1f3a",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
   },
   "hero": {
-    "badge_1": "4.5/5 from 30+ Google Reviews",
-    "badge_2": "10x Dan's Best of the Best",
-    "headline": "Long Island's #1 Environmental <span class=\"text-secondary italic\">Contractor Since 2001</span>",
-    "subheadline": "From oil tank removals to large-scale industrial cleanups, we handle environmental challenges of every size. Veteran-owned with 25 years of proven expertise and over 100 combined years of project management experience — so you can trust that the job gets done right.",
-    "cta_text": "Request Your Free Assessment",
+    "headline": "25 Years Protecting <span class=\"text-secondary italic\">Your Property & Environment</span>",
+    "subheadline": "New York's most comprehensive environmental contracting firm. From emergency spill response to tank removals, our 100+ years of combined expertise deliver peace of mind around the clock.",
+    "badges": [
+      "Platinum Award Winner - 3 Consecutive Years",
+      "24/7 Emergency Response"
+    ],
     "checkmarks": [
-      "Free site consultation",
-      "24/7 emergency response",
-      "Veteran-owned since 2001"
-    ]
+      "Fully Licensed & Part 364 Permitted",
+      "Trusted by Northrop Grumman & Brookhaven National Lab",
+      "Serving All of Long Island, NYC & New Jersey"
+    ],
+    "cta_button": "Get Your Free Site Assessment"
   },
   "stats": {
-    "stat_1_value": "5000",
-    "stat_1_label": "Projects Completed",
-    "stat_2_value": "25",
-    "stat_2_label": "Years Experience",
-    "stat_3_value": "100",
-    "stat_3_label": "Combined Years Expertise",
+    "stat_1_value": "25",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "100",
+    "stat_2_label": "Combined Years of Expertise",
+    "stat_3_value": "2500",
+    "stat_3_label": "Projects Completed",
     "stat_4_value": "24/7",
     "stat_4_label": "Emergency Response"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Environmental Solutions for<br class=\"hidden md:block\"> Every Challenge",
-    "subtitle": "Whether it is a residential oil tank issue or a large-scale industrial cleanup, our team has the experience, equipment, and certifications to handle it all safely and efficiently.",
+    "headline": "Comprehensive Environmental Solutions",
+    "subtitle": "From underground tanks to emergency spills, we handle every environmental challenge with precision and care.",
     "cards": [
       {
-        "title": "Oil Tank Services",
-        "description": "Underground and aboveground tank removal, installation, abandonment, and monitoring systems. Over 21 years of specialized expertise for residential and commercial properties."
+        "title": "Oil Tank Removal & Installation",
+        "description": "Expert underground and aboveground storage tank services \u2014 removal, installation, abandonment, and full regulatory compliance for your property."
+      },
+      {
+        "title": "24/7 Emergency Spill Response",
+        "description": "Round-the-clock rapid response for oil spills and hazardous material incidents. We contain and clean up fast to minimize damage."
+      },
+      {
+        "title": "Mold & Water Damage Remediation",
+        "description": "Professional mold testing, safe removal, and complete water damage restoration to protect your family's health and property value."
       },
       {
         "title": "Geoprobe & Sonic Drilling",
-        "description": "Soil sampling, well-drilling, site delineations, and vapor monitoring using the region's largest Geoprobe fleet for thorough environmental site assessments."
-      },
-      {
-        "title": "Mold & Water Damage",
-        "description": "Storm damage restoration, black mold removal, indoor air quality sampling, flood mitigation, and complete water damage remediation for homes and businesses."
-      },
-      {
-        "title": "Emergency Spill Response",
-        "description": "Round-the-clock emergency response for oil spills of any scale. From large tanker incidents to residential basement spills, we deploy rapidly and clean up professionally."
+        "description": "Advanced soil and groundwater sampling, monitoring well installation, and subsurface investigations using cutting-edge drilling technology."
       },
       {
         "title": "Cesspool & Septic Services",
-        "description": "Full cesspool and septic pump-outs, sewer pumping, system remediation, and specialized Vactor and Guzzler vacuum services for all property types."
+        "description": "Full-service cesspool and septic system maintenance, repair, and installation. Keep your drainage systems flowing properly year-round."
       },
       {
         "title": "Hazardous Waste Transport",
-        "description": "Fully licensed and insured liquid and solid hazardous waste transport. We hold a Part 364 New York State permit for safe, compliant disposal every time."
+        "description": "Licensed Part 364 permitted hazardous waste transportation ensuring safe, compliant disposal that meets all NYS regulations."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Solving Your Environmental Problem",
+    "headline": "How We Solve Your Environmental Problem",
     "steps": [
       {
-        "title": "Call for a Free Assessment",
-        "description": "Tell us about your environmental concern. We will provide an honest, no-pressure assessment and quote — typically within 24 hours. Emergency calls get same-day response."
+        "title": "Free Consultation",
+        "description": "Call us anytime \u2014 we assess your situation, explain your options clearly, and provide a transparent quote with no hidden fees."
       },
       {
-        "title": "We Deploy Our Expert Team",
-        "description": "Our fully licensed, veteran-led crews arrive on schedule with the region's best equipment. From Geoprobes to Vactor trucks, we bring the right tools for every job."
+        "title": "Expert Execution",
+        "description": "Our experienced crews arrive on schedule with specialized equipment, handling every detail from permits to project completion."
       },
       {
-        "title": "Problem Solved, Guaranteed",
-        "description": "Your property is restored, compliant, and safe. We handle all paperwork, regulatory filings, and follow-up testing so you have complete peace of mind."
+        "title": "Certified & Complete",
+        "description": "You receive full documentation, compliance certificates, and the confidence that your property is safe and protected."
       }
     ]
   },
   "about": {
-    "label": "Why Property Owners Trust Us",
-    "headline": "Veteran-Owned, Award-Winning Environmental Experts",
-    "description": "Founded in 2001 as a Service Disabled Veteran Owned business, Eastern Environmental Solutions has grown into the most diverse environmental contracting firm in the New York State region. With over 100 combined years of project management experience and clients ranging from homeowners to Northrup Grumman and Brookhaven National Laboratory, we bring the same level of professionalism and care to every single project.",
-    "badge": "10x Award Winner",
+    "label": "About Eastern Environmental",
+    "headline": "New York's Most Diverse Environmental Contracting Firm",
+    "description": "Since 2001, Eastern Environmental Solutions has been the region's go-to partner for complex environmental projects. Our project management team brings over 100 combined years of industry experience, earning the trust of major organizations like Northrop Grumman and Brookhaven National Laboratory. We've been voted the Platinum Award winner for Best Environmental Services three years running by local consumers.",
+    "badge": "Established 2001 \u2014 Manorville, NY",
     "features": [
       {
-        "title": "Veteran-Owned & Operated",
-        "description": "As a Service Disabled Veteran Owned business, we bring military discipline, integrity, and accountability to every environmental project we take on."
+        "title": "Full-Service 24/7 Operations",
+        "description": "Round-the-clock environmental contracting and remediation services \u2014 we never close when you need us most."
       },
       {
-        "title": "Fully Licensed & Permitted",
-        "description": "We hold a Part 364 NYS hazardous waste transport permit, carry full insurance, and maintain all required environmental contractor licenses."
+        "title": "NYS Part 364 Permitted",
+        "description": "Fully licensed waste transporter with Part 364 permit from New York State for safe, compliant hazardous waste handling."
       },
       {
-        "title": "10-Time Dan's Best of the Best",
-        "description": "Voted Long Island's best environmental services company by local consumers for ten consecutive years, including three Platinum Awards."
+        "title": "Platinum Award Winner",
+        "description": "Voted best Environmental Services three consecutive years by local consumers \u2014 a testament to our quality and reliability."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprise Charges.",
-    "subtitle": "Every project is unique. Contact us for a free, detailed assessment and honest quote tailored to your specific environmental needs."
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every project is unique. We provide detailed, upfront quotes so you know exactly what to expect before any work begins."
   },
   "guarantee": {
-    "headline": "Our \"Mission Complete\" Guarantee",
-    "description": "We do not consider a job finished until you are 100% satisfied and your property is fully compliant. If any issue arises after our work, we come back and make it right at no additional cost. That is the standard we have held for 25 years — and it is why Long Island keeps voting us the best."
+    "headline": "Our Commitment to You",
+    "description": "We stand behind every project with full documentation, regulatory compliance certificates, and responsive follow-up. If any issue arises after completion, our team is just one call away \u2014 24 hours a day, 7 days a week."
   },
   "faqs": [
     {
-      "question": "How quickly can you respond to an emergency?",
-      "answer": "We offer 24/7 emergency response for oil spills and environmental incidents. For emergencies, our crews can typically be on-site within hours. For non-emergency projects, we usually schedule within 3-5 business days."
+      "question": "How quickly can you respond to an environmental emergency?",
+      "answer": "We offer true 24/7 emergency response. Our crews are dispatched immediately and typically arrive on-site within hours, depending on your location across Long Island, NYC, or New Jersey."
     },
     {
-      "question": "Do you handle residential and commercial projects?",
-      "answer": "Absolutely. We handle everything from residential oil tank removals and cesspool repairs to large-scale industrial cleanups for clients like Northrup Grumman and Brookhaven National Laboratory. No project is too small or too large."
-    },
-    {
-      "question": "Are you licensed to transport hazardous waste?",
-      "answer": "Yes. We hold a Part 364 New York State permit for hazardous waste transportation. We are fully licensed and insured for both liquid and solid hazardous waste transport, ensuring safe and compliant disposal."
+      "question": "Do I need a permit to remove my underground oil tank?",
+      "answer": "Yes, tank removals require permits from your local municipality. We handle all permitting, inspections, and compliance documentation as part of our full-service approach \u2014 you don't have to worry about any of the paperwork."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve all of Long Island including Nassau and Suffolk Counties, New York City and all five boroughs, New Jersey, and Upstate New York. Our team regularly handles projects across the entire tri-state region."
+      "answer": "We serve all of Long Island (Nassau and Suffolk Counties), New York City (Brooklyn, Queens, Bronx), and parts of New Jersey. Our fleet and crews are positioned to reach you quickly."
     },
     {
-      "question": "What is tank abandonment and is it an option for me?",
-      "answer": "Tank abandonment is an alternative to full removal where the tank is properly cleaned, filled with sand or foam, and sealed in place. It is often more affordable and less disruptive to your property. We will assess your situation and recommend the best option for your needs."
+      "question": "Are you licensed and insured for hazardous waste work?",
+      "answer": "Absolutely. We hold a Part 364 Waste Transporter Permit from New York State and are fully licensed and insured for all environmental contracting services we provide."
+    },
+    {
+      "question": "How do I know if I have a mold problem?",
+      "answer": "Common signs include musty odors, visible discoloration on walls or ceilings, and respiratory issues. We offer professional mold testing to identify the type and extent of any contamination, then provide a remediation plan."
     }
   ],
   "testimonials": [
     {
-      "name": "Jay",
-      "text": "They were very professional, showed up when they said they would, and did their work quickly with minimal damage to the yard. Highly recommend for any oil tank work.",
-      "context": "Oil tank removal — Great Neck, NY",
-      "initials": "JY"
+      "name": "Tim",
+      "text": "Outstanding service! Scott was a pleasure to work with and handled our underground oil tank situation with professionalism and tact. Would highly recommend for commercial building needs.",
+      "context": "Valley Stream, NY - Oil Tank Services",
+      "initials": "T"
     },
     {
       "name": "Joy",
-      "text": "Let me start by saying I never write reviews. This company was amazing! Every person I had to deal with was awesome. They left everything very clean and handled our cesspool repair perfectly.",
-      "context": "Cesspool repair — Easthampton, NY",
-      "initials": "JO"
+      "text": "This company was amazing! I had no idea who to call when I had a problem with my cesspool. Every person I had to deal with was awesome.",
+      "context": "Easthampton, NY - Cesspool Services",
+      "initials": "J"
     },
     {
-      "name": "Alex",
-      "text": "Eastern Environmental walked me through an alternative option — tank abandonment — which I didn't even know was a thing! Within just a few days they got the job done quickly and professionally.",
-      "context": "Tank abandonment — Tuckahoe, NY",
-      "initials": "AX"
+      "name": "Leslie",
+      "text": "Eastern Environmental fit me into their schedule immediately. The crew and their awesome truck were punctual and extremely thorough.",
+      "context": "Massapequa, NY - Emergency Services",
+      "initials": "L"
     }
   ],
   "contact": {
-    "headline": "Ready to Solve Your<br>Environmental Problem?",
-    "subtitle": "Get a free, no-pressure assessment within 24 hours. From oil tanks to mold remediation, our veteran-owned team has seen it all and solved it all.",
+    "headline": "Get Your Free Environmental Assessment",
+    "subtitle": "Whether it's an emergency or a planned project, our team is ready to help protect your property.",
     "benefits": [
-      "Free on-site assessment with every quote",
-      "24/7 emergency response available",
-      "25 years of proven expertise"
+      "Free on-site consultation and quote",
+      "24/7 availability for emergencies",
+      "Full documentation and compliance certificates provided"
     ]
   },
   "footer": {
-    "description": "Veteran-owned environmental contractor. Serving Long Island and the tri-state region since 2001.",
-    "service_area": "Serving Long Island, NYC, New Jersey & Upstate NY",
+    "description": "Eastern Environmental Solutions is New York's most comprehensive environmental contracting firm, serving Long Island, NYC, and New Jersey since 2001.",
+    "service_area": "New York City, Long Island, Brooklyn, Queens, Bronx, Nassau County, Suffolk County, New Jersey",
     "services": [
-      "Oil Tank Services",
-      "Geoprobe Drilling",
-      "Mold Remediation",
+      "Oil Tank Removal",
       "Emergency Spill Response",
-      "Cesspool & Septic"
+      "Mold Remediation",
+      "Cesspool & Septic",
+      "Hazardous Waste Transport"
     ],
-    "copyright": "&copy; 2024 Eastern Environmental Solutions, Inc. All rights reserved. Service Disabled Veteran Owned Business"
+    "copyright": "Eastern Environmental Solutions, Inc."
   }
 }

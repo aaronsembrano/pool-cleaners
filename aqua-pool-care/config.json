@@ -5,7 +5,7 @@
   "phone": "+1 972-238-0008",
   "email": "brian@aquapoolcare.com",
   "review_count": "6",
-  "review_rating": "3.2",
+  "review_rating": "3.5",
   "colors": {
     "primary": "#0077B6",
     "primary_dark": "#005A8C",
@@ -14,13 +14,16 @@
     "cta": "#F4A261",
     "cta_dark": "#D4843A"
   },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured in Texas",
+    "badge_2": "3.5/5 from 6+ Reviews",
+    "badge_3": "Owner-Operated Since 2010"
+  },
   "hero": {
+    "badge_1": "3.5/5 from 6+ Google Reviews",
+    "badge_2": "Owner-Operated Since 2010",
     "headline": "Your Neighborhood Pool Team <span class=\"text-secondary italic\">Since 2010</span>",
-    "subheadline": "Richardson families trust Aqua Pool Care for honest, owner-operated service you can count on. No corporate runaround — just Brian and his 9-person crew keeping your pool pristine all year long.",
-    "badges": [
-      "Licensed & Insured",
-      "16+ Years Serving North Texas"
-    ],
+    "subheadline": "Richardson families trust Aqua Pool Care for honest, owner-operated service you can count on. No corporate runaround — just Brian and his crew keeping your pool pristine all year long.",
     "checkmarks": [
       "Direct access to the owner on every job",
       "Photo updates so you always know the status",
@@ -167,13 +170,13 @@
   "footer": {
     "description": "Aqua Pool Care Inc has provided dependable pool cleaning, maintenance, and repair services to Richardson and North Texas families since 2010. Owner-operated, licensed, and insured.",
     "service_area": "Serving Richardson, Allen, Melissa, Plano, McKinney & surrounding North Texas communities",
-    "service_links": [
+    "services": [
       "Weekly Pool Service",
       "Pool Equipment Repair",
       "Pool Replastering",
       "Algae Treatment",
       "Seasonal Maintenance"
     ],
-    "copyright": "Aqua Pool Care Inc"
+    "copyright": "&copy; 2024 Aqua Pool Care Inc. All rights reserved. Licensed Pool Service — State of Texas"
   }
 }

@@ -1,0 +1,171 @@
+{
+  "folder_name": "mcm-pools",
+  "company_name": "MCM Pool Service",
+  "tagline": "Enjoy your pool — Let us handle the work",
+  "phone": "+1 855-626-7665",
+  "email": "matt@mcmpoolservice.com",
+  "logo_path": "logo.png",
+  "review_count": "30",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a44",
+    "primary_deeper": "#0d1f33",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d9901a"
+  },
+  "hero": {
+    "headline": "New England's #1 Pool <span class=\"text-secondary italic\">Experts</span>",
+    "subheadline": "For over 20 years, MCM Pool Service has kept Massachusetts families swimming in crystal-clear water. Rated #1 in New England by Pool & Spa News — your pool deserves the best.",
+    "badges": [
+      "#1 Pool Company in New England",
+      "BBB A+ Rated Since 2013"
+    ],
+    "checkmarks": [
+      "Serving 70+ towns across Massachusetts",
+      "No travel fee for 47 communities",
+      "In-ground, above-ground, hot tubs & spas"
+    ],
+    "cta_button": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "23",
+    "stat_1_label": "Years of Experience",
+    "stat_2_value": "70",
+    "stat_2_label": "Towns Served",
+    "stat_3_value": "30",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "#1",
+    "stat_4_label": "Ranked in New England"
+  },
+  "services": {
+    "headline": "Complete Pool Care, Start to Finish",
+    "subtitle": "From seasonal openings to full liner replacements, we handle every aspect of pool ownership so you can just enjoy the water.",
+    "cards": [
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Expert seasonal startup and winterization for in-ground and above-ground pools — done right the first time."
+      },
+      {
+        "title": "Cleaning & Maintenance",
+        "description": "Weekly and bi-weekly cleaning programs that keep your water sparkling clear and chemically balanced all season."
+      },
+      {
+        "title": "Filter & Pump Repair",
+        "description": "Fast diagnosis and repair of filtration systems and pumps to restore proper water circulation."
+      },
+      {
+        "title": "Liner Replacement",
+        "description": "Complete vinyl liner installation for in-ground and above-ground pools, restoring your pool to like-new condition."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Advanced pressure testing and leak detection to pinpoint and resolve water loss issues quickly."
+      },
+      {
+        "title": "Heater & Salt Systems",
+        "description": "Professional heater installation and salt water conversions to extend your season and improve water quality."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy",
+    "steps": [
+      {
+        "title": "Call or Request Online",
+        "description": "Reach out at 855-626-7665 or fill out our contact form. We'll discuss your pool's needs and schedule a visit."
+      },
+      {
+        "title": "Free On-Site Assessment",
+        "description": "Our certified technician inspects your pool, identifies any issues, and provides a clear, honest quote."
+      },
+      {
+        "title": "Enjoy Your Pool",
+        "description": "We handle the work — you enjoy clean, safe water all season long with zero hassle."
+      }
+    ]
+  },
+  "about": {
+    "label": "Locally Owned Since 2003",
+    "headline": "The Team Behind New England's Best Pool Service",
+    "description": "MCM Pool Service was founded with a simple mission: give homeowners a safe, relaxing backyard they can actually enjoy. Over two decades later, we've grown from a one-man operation into the #1 ranked pool company in New England — but we still treat every customer like a neighbor. Our dedicated technicians bring expertise, honesty, and genuine care to every service call across Massachusetts and Rhode Island.",
+    "badge": "#1 Best Overall Pool Company in New England",
+    "features": [
+      { "title": "20+ Years of Expertise", "description": "Two decades of hands-on experience with every pool type, earning us the #1 ranking in New England." },
+      { "title": "BBB A+ Accredited", "description": "Consistently top-rated since 2013 with a 4.9-star Google rating across 30+ verified reviews." },
+      { "title": "No Travel Fees", "description": "We serve 70+ towns and charge zero travel fees for 47 communities across Massachusetts." }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every quote is upfront and honest. No hidden fees, no travel charges for 47 towns, and no pressure — just fair pricing for expert pool care."
+  },
+  "guarantee": {
+    "headline": "Our Promise to You",
+    "description": "If you're not completely satisfied with our work, we'll come back and make it right — no questions asked. With a 4.9-star rating across 30+ reviews and BBB A+ accreditation since 2013, our reputation speaks for itself. We stand behind every service call because your trust is everything to us."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve 70+ towns across Massachusetts and Rhode Island, including Norton, Foxborough, Attleboro, Bridgewater, Brockton, Canton, Easton, Franklin, Mansfield, Taunton, and many more. There's no travel fee for 47 of those communities."
+    },
+    {
+      "question": "Do you service both in-ground and above-ground pools?",
+      "answer": "Yes! We service all pool types — in-ground, above-ground, hot tubs, and spas. Whether you need routine maintenance, repairs, or a full liner replacement, we've got you covered."
+    },
+    {
+      "question": "How often should I have my pool serviced?",
+      "answer": "During swimming season, we recommend weekly or bi-weekly professional maintenance to keep water chemistry balanced and equipment running efficiently. We offer flexible maintenance plans to fit your schedule and budget."
+    },
+    {
+      "question": "What makes MCM different from other pool companies?",
+      "answer": "We're ranked #1 in New England and #12 in the entire U.S. by Pool & Spa News Magazine. With over 20 years of experience, BBB A+ accreditation, and a 4.9-star rating, we bring unmatched expertise and genuine care to every job."
+    },
+    {
+      "question": "Do you offer pool inspections for home buyers?",
+      "answer": "Absolutely. We provide comprehensive pool inspections for home buyers and sellers, checking equipment condition, liner integrity, plumbing, and overall safety so you know exactly what you're getting."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert J.",
+      "text": "Absolutely the best service we ever received on our pool. Very knowledgeable. Great find.",
+      "context": "Taunton, MA",
+      "initials": "RJ"
+    },
+    {
+      "name": "K.K.",
+      "text": "Every single person I ever speak to at MCM is awesome! I'll never call anyone else.",
+      "context": "North Attleboro, MA",
+      "initials": "KK"
+    },
+    {
+      "name": "Sara Murphy",
+      "text": "Miguel performs meticulous care weekly, is willing to engage to give information, and goes above and beyond to share excellent pool care tips.",
+      "context": "Westwood, MA",
+      "initials": "SM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Enjoy Your Pool Again?",
+    "subtitle": "Get in touch today for a free assessment. No pressure, no obligation — just honest advice from New England's top-rated pool team.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Same-week scheduling available",
+      "No travel fee for 47 towns"
+    ]
+  },
+  "footer": {
+    "description": "MCM Pool Service has been keeping Massachusetts pools crystal clear since 2003. Ranked #1 in New England by Pool & Spa News Magazine, we provide expert maintenance, repair, and installation for pools, hot tubs, and spas.",
+    "service_area": "Serving Norton, Foxborough, Attleboro, Bridgewater, Brockton, Canton, Easton, Franklin, Mansfield, Taunton, Stoughton, Walpole, Westwood, and 60+ towns across Massachusetts & Rhode Island.",
+    "services": [
+      "Pool Opening & Closing",
+      "Cleaning & Maintenance",
+      "Liner Replacement",
+      "Leak Detection",
+      "Heater Installation"
+    ],
+    "copyright": "MCM Pool Service. All rights reserved."
+  }
+}

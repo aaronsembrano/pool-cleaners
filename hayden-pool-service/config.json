@@ -1,0 +1,180 @@
+{
+  "folder_name": "hayden-pool-service",
+  "company_name": "Hayden Pool Service",
+  "tagline": "We Make It Easy to Own a Pool",
+  "phone": "+1 214-361-7665",
+  "email": "james.h@haydenpools.com",
+  "logo_path": "logo.png",
+  "review_count": "23",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2980b9",
+    "cta": "#e67e22",
+    "cta_dark": "#d35400"
+  },
+  "hero": {
+    "headline": "30+ Years Keeping Dallas Pools <span class=\"text-secondary italic\">Crystal Clear</span>",
+    "subheadline": "Hayden Pool Service combines cutting-edge water chemistry technology with three decades of hands-on expertise. Your pool deserves the precision care that only certified professionals can deliver.",
+    "badges": [
+      "CPO & CPI Certified",
+      "TDLR Regulated (TICL# 241)"
+    ],
+    "checkmarks": [
+      "WaterLink Spin Touch computer-tested water balance",
+      "24-48 hour response times guaranteed",
+      "Trusted by Dallas families since 1994"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "30",
+    "stat_1_label": "Years Serving Dallas",
+    "stat_2_value": "23",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "2500",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "100%",
+    "stat_4_label": "Certified Team"
+  },
+  "services": {
+    "headline": "Complete Pool Care Solutions",
+    "subtitle": "From weekly maintenance to full renovations, we handle every aspect of pool ownership so you can simply enjoy your backyard oasis.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Computer-tested water chemistry using WaterLink Spin Touch technology ensures precise balance every single week — no guesswork, no damage."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Fast, expert diagnosis and repair backed by partnerships with Pentair, Hayward, and Zodiac for genuine parts and reliable fixes."
+      },
+      {
+        "title": "Pool Inspections",
+        "description": "CPI-certified inspections for buyers, sellers, and homeowners. Identify hidden problems before they become expensive emergencies."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Surface refinishing, equipment upgrades, and modernization that extend the life and beauty of your pool investment."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Advanced computer-based testing eliminates chemical imbalances that cause staining, scaling, and premature equipment failure."
+      },
+      {
+        "title": "Seasonal Maintenance",
+        "description": "Spring openings, winterization, and storm recovery services keep your pool protected and ready year-round in the Texas climate."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Assessment",
+        "description": "Call or request a visit online. We'll come out within 24-48 hours to evaluate your pool's condition and equipment."
+      },
+      {
+        "title": "Get Your Custom Plan",
+        "description": "We'll recommend the right service package based on your pool's size, equipment age, and your family's usage patterns."
+      },
+      {
+        "title": "Enjoy Your Pool",
+        "description": "Sit back while our certified team handles everything — consistent, reliable service you can count on week after week."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Hayden Pool Service",
+    "headline": "Three Decades of Dallas Pool Expertise",
+    "description": "Founded in 1994 by Jamie Hayden, we built our reputation one pool at a time through consistency, reliability, and genuine care for our customers. Today we combine modern technology like WaterLink Spin Touch testing with a lifetime of hands-on experience to deliver results other companies simply cannot match. As a CARECRAFT member with CPO and CPI certifications, we hold ourselves to the highest industry standards.",
+    "badge": "Serving Dallas Since 1994",
+    "features": [
+      {
+        "title": "Certified Industry Partners",
+        "description": "Pentair, Hayward, Zodiac & PoolCorp certified partners ensuring quality parts and expert service on every brand."
+      },
+      {
+        "title": "Computer-Based Water Testing",
+        "description": "WaterLink Spin Touch technology delivers lab-accurate chemistry results in 60 seconds on every single visit."
+      },
+      {
+        "title": "State Regulated & Licensed",
+        "description": "Regulated by the Texas Department of Licensing and Regulation (TICL# 241) for your protection and peace of mind."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pool Care Pricing",
+    "subtitle": "No hidden fees, no surprise charges. Get a custom quote based on your pool's specific needs and size."
+  },
+  "guarantee": {
+    "headline": "Our 30-Year Reputation Guarantee",
+    "description": "We've spent over three decades building trust with Dallas families. If you're ever unsatisfied with our service, we'll return within 24 hours to make it right — no questions asked. Your pool and your peace of mind are our priority."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "We typically schedule initial assessments within 24-48 hours of your call. Once we've evaluated your pool, weekly service can begin as soon as the following week."
+    },
+    {
+      "question": "What makes your water testing different from other pool companies?",
+      "answer": "We use WaterLink Spin Touch computer-based chemistry testing — the same technology used by commercial aquatic facilities. This eliminates guesswork and provides lab-accurate results in 60 seconds, preventing chemical imbalances that damage surfaces and equipment."
+    },
+    {
+      "question": "Do you service pools with older equipment?",
+      "answer": "Absolutely. As certified partners with Pentair, Hayward, Zodiac, and PoolCorp, we can service, repair, or upgrade virtually any pool equipment regardless of age or brand."
+    },
+    {
+      "question": "What areas do you serve in the Dallas Metroplex?",
+      "answer": "We serve Dallas, Plano, Park Cities, Frisco, Preston Hollow, Richardson, Farmers Branch, and surrounding areas throughout the Dallas Metroplex."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our team holds CPO (Certified Pool Operator) and CPI (Certified Pool Inspector) certifications. We're also a CARECRAFT member and regulated by the Texas Department of Licensing and Regulation (TICL# 241)."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Richard S.",
+      "text": "Hayden Pools has been our 'Go to' company. Jamie Hayden and his staff are always quick to respond and usually within 24-48 hours which is unheard of these days.",
+      "context": "Long-term customer",
+      "initials": "RS"
+    },
+    {
+      "name": "Sarah M.",
+      "text": "This is an excellent local business run by knowledgeable people who really care about their customers. Scheduling is easy and efficient, and the technicians are always prompt, friendly, and helpful.",
+      "context": "Repeat service customer",
+      "initials": "SM"
+    },
+    {
+      "name": "David L.",
+      "text": "We have used Hayden Pools for over 5 years. Their technicians are very reliable. They have never not shown up on the day they are supposed to service.",
+      "context": "5+ year customer",
+      "initials": "DL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Worry-Free Pool Ownership?",
+    "subtitle": "Get in touch today and discover why Dallas families have trusted us for over 30 years.",
+    "benefits": [
+      "Free no-obligation pool assessment",
+      "Response within 24-48 hours guaranteed",
+      "Customized service plan for your pool"
+    ]
+  },
+  "footer": {
+    "description": "Hayden Pool Service has proudly served the Dallas Metroplex since 1994, delivering reliable, technology-driven pool care backed by 30+ years of expertise and industry-leading certifications.",
+    "service_area": "Serving Dallas, Plano, Park Cities, Frisco, Preston Hollow, Richardson, Farmers Branch, and surrounding areas",
+    "service_links": [
+      "Weekly Pool Cleaning",
+      "Equipment Repair",
+      "Pool Inspections",
+      "Pool Renovations",
+      "Water Chemistry Management"
+    ],
+    "copyright": "Hayden Pool Service Inc."
+  }
+}

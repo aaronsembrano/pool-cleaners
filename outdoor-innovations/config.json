@@ -3,73 +3,73 @@
   "company_name": "Outdoor Innovations Landscaping",
   "tagline": "Make the Moments Worth Remembering",
   "phone": "+1 651-983-1976",
-  "email": "craig@outdoorinnovations.com",
+  "email": "eric@outdoorinnovations.com",
   "logo_path": "logo.png",
   "review_count": "50",
   "review_rating": "4.3",
   "colors": {
-    "primary": "#2D5A27",
-    "primary_dark": "#1A3A1A",
-    "primary_deeper": "#0F2510",
-    "secondary": "#C8A96E",
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0B1A2E",
+    "secondary": "#4A90D9",
     "cta": "#D97706",
     "cta_dark": "#B45309"
   },
   "trust_badges": {
-    "badge_1": "BBB A+ Rated",
+    "badge_1": "ICPI Certified & Insured",
     "badge_2": "4.3/5 from 50+ Reviews",
-    "badge_3": "ICPI Certified Installers"
+    "badge_3": "Full Design-Build Firm"
   },
   "hero": {
     "badge_1": "4.3/5 from 50+ Google Reviews",
-    "badge_2": "19 Years of Excellence",
-    "headline": "Your Backyard Retreat <span class=\"text-secondary italic\">Starts<br>Right Here</span>",
-    "subheadline": "Your family deserves a backyard that feels like a private resort. Outdoor Innovations brings architects, builders, and artisans together under one roof to design and build custom pools, outdoor kitchens, and living spaces built for Minnesota and Western Wisconsin winters.",
-    "cta_text": "Start Your Backyard Transformation",
+    "badge_2": "Full Design-Build Under One Roof",
+    "headline": "Your Backyard, Built for <span class=\"text-secondary italic\">Living</span>",
+    "subheadline": "From custom pools to outdoor kitchens, our architects, builders, and artisans bring your vision to life under one roof. No subcontractors, no runaround -- just one team turning your yard into the place where your family makes memories.",
+    "cta_text": "Start Your Design Consultation",
     "checkmarks": [
       "Free design consultation",
-      "Full design-build under one roof",
-      "Built for Midwestern winters"
+      "One team from concept to completion",
+      "Built for Minnesota living"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Backyards Transformed",
-    "stat_2_value": "19",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "40",
-    "stat_3_label": "Years Combined Experience",
-    "stat_4_value": "A+",
-    "stat_4_label": "BBB Rating"
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in the Twin Cities",
+    "stat_3_value": "50",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Design-Build In-House"
   },
   "services": {
     "label": "What We Build",
-    "headline": "Design-Build Outdoor Living<br class=\"hidden md:block\"> That Endures Every Season",
-    "subtitle": "From custom pools to outdoor kitchens, we handle every detail of your project from concept sketches to the final walkthrough. Built by Midwestern craftsmen who understand freeze-thaw cycles, snow loads, and how to make a backyard shine year-round.",
+    "headline": "Custom Outdoor Spaces Built<br class=\"hidden md:block\"> for How You Live",
+    "subtitle": "Your backyard should work as hard as you do -- hosting dinners, splashing with the kids, or just unwinding after a long week. We design and build every element to fit your life.",
     "cards": [
       {
         "title": "Custom In-Ground Pools",
-        "description": "Resort-style swimming pools designed specifically for Minnesota and Wisconsin climates. We handle engineering, permitting, and construction so you just pick a dive-in date."
+        "description": "Designed for Minnesota's seasons and your family's lifestyle. From lap pools to freeform retreats, every pool is a custom build from concept to first splash."
       },
       {
         "title": "Outdoor Kitchens & Bars",
-        "description": "Fully equipped cooking and entertaining spaces with built-in grills, countertops, and seating. Designed for four-season Midwestern enjoyment."
+        "description": "Fully equipped cooking and entertaining spaces with grills, counters, sinks, and seating -- built to host everything from weeknight dinners to weekend parties."
       },
       {
         "title": "Pool Houses & Cabanas",
-        "description": "Custom pool house structures for changing, storage, and entertaining. Architecturally matched to your home for a seamless look."
+        "description": "Custom pool house design and construction that blends seamlessly with your home. Storage, changing rooms, wet bars -- whatever your oasis needs."
       },
       {
-        "title": "Decks, Patios & Hardscaping",
-        "description": "Premium pavers, natural stone, and composite decking installed by ICPI-certified crews. Engineered for heavy freeze-thaw cycles."
+        "title": "Decks, Patios & Porches",
+        "description": "Premium decking and patio hardscaping that expands your living space outdoors. Durable materials, expert craftsmanship, and designs that complement your home."
+      },
+      {
+        "title": "Pergolas & Shade Structures",
+        "description": "Architectural pergolas and gazebos that add character, shade, and year-round comfort to your outdoor environment."
       },
       {
         "title": "Fire & Water Features",
-        "description": "Custom fire pits, fireplaces, fountains, and waterfalls that create stunning focal points and extend your outdoor season into fall."
-      },
-      {
-        "title": "Pergolas & Outdoor Rooms",
-        "description": "Architectural shade structures and fully furnished outdoor living rooms designed for connection, comfort, and year-round gatherings."
+        "description": "Custom fire pits, fireplaces, fountains, and water features that create ambiance and transform your space into an evening destination."
       }
     ]
   },
@@ -78,107 +78,107 @@
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "Tell us how your family uses your backyard today and how you want to use it tomorrow. We'll visit your property, listen carefully, and provide an honest design consultation at no cost."
+        "description": "Tell us how you want to live outdoors. Our design team visits your property, listens to your ideas, and creates a custom concept that fits your home, your lot, and your budget."
       },
       {
         "title": "We Design & Build It",
-        "description": "Our in-house architects and master builders create detailed plans, handle all permitting, and construct your project with premium materials built to withstand Midwestern weather."
+        "description": "Our in-house architects draft your plans while our construction crew brings them to life. One team, one point of contact, no subcontractor headaches -- just a seamless build."
       },
       {
-        "title": "Make Memories",
-        "description": "Your backyard becomes the place your family gathers, entertains, and relaxes for years to come. We stand behind every project with a craftsmanship guarantee."
+        "title": "Start Making Memories",
+        "description": "Your new outdoor space is ready. Fire up the grill, dive into the pool, gather around the fire pit. This is the backyard you always wanted -- and we built it to last."
       }
     ]
   },
   "about": {
-    "label": "Why Families Trust Us",
-    "headline": "Two Decades of Building Backyards That Bring Families Together",
-    "description": "Founded in 2007 by Craig Palmer and Asher Judd — each with 25+ years in landscape architecture — Outdoor Innovations has grown from a two-person crew to a full design-build firm serving the Twin Cities and Western Wisconsin. In 2024, Casey Hedeen's Nature's Quest Inc. merged with us, adding 21 more years of craftsmanship. Every project is handled under one roof: architects, builders, and artisans who treat your backyard like their own.",
+    "label": "Why Twin Cities Homeowners Choose Us",
+    "headline": "One Team. One Vision. Your Dream Built Right.",
+    "description": "Most companies sub out the work. We do it all in-house -- architects, builders, and artisans working together from day one. That means your pool matches your patio, your kitchen flows into your living space, and every detail connects. Serving Hugo and the greater Twin Cities metro, we understand Midwestern soil, climate, and how to build outdoor spaces that hold up through every season.",
     "badge": "ICPI Certified",
     "features": [
       {
-        "title": "Full Design-Build Team",
-        "description": "Architects, builders, and artisans collaborate under one roof so your vision is executed seamlessly from first sketch to final walkthrough."
+        "title": "Full Design-Build In-House",
+        "description": "Architects, builders, and artisans all under one roof. No subcontractors, no miscommunication -- just one team from blueprint to final walkthrough."
       },
       {
-        "title": "Built for Midwestern Winters",
-        "description": "Every pool, patio, and structure we build is engineered for Minnesota freeze-thaw cycles, heavy snow loads, and four-season durability."
+        "title": "Built for Minnesota Seasons",
+        "description": "We engineer every project for freeze-thaw cycles, heavy snow loads, and summer heat. Your outdoor space is built to perform year after year."
       },
       {
-        "title": "Your Project, Your Timeline",
-        "description": "We tailor every design to your family's lifestyle and budget. No cookie-cutter plans, no high-pressure sales — just honest craftsmanship."
+        "title": "Seamless Start to Finish",
+        "description": "One point of contact, one timeline, one vision. We guide you through every decision so the process feels easy and the result feels perfect."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Project Pricing. No Surprises.",
-    "subtitle": "Every project starts with a free consultation. We provide detailed proposals so you know exactly what you're investing in before we break ground."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed proposal upfront. No hidden fees, no change-order games -- just honest numbers for exceptional work."
   },
   "guarantee": {
-    "headline": "Our Craftsmanship Guarantee",
-    "description": "If any element of your project doesn't meet the standard we promised, we come back and make it right at no additional cost. We've built our reputation on standing behind every stone, every beam, and every finish — and we're not about to stop after 19 years."
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any element of your project does not meet the standards we agreed on, we come back and make it right at no additional cost. We stand behind every stone, every board, and every tile -- because your backyard is our reputation."
   },
   "faqs": [
     {
-      "question": "How long does a custom pool project take?",
-      "answer": "Most custom pool projects take 8-12 weeks from design approval to completion, depending on complexity and permitting. We provide a detailed timeline during your design consultation so you know exactly what to expect."
+      "question": "How long does a typical pool or outdoor living project take?",
+      "answer": "Timelines vary by scope, but most custom pool builds take 8-12 weeks from breaking ground. Patios, kitchens, and smaller features often wrap in 2-4 weeks. We provide a detailed timeline during your design consultation so there are no surprises."
     },
     {
-      "question": "Do you work through the winter months?",
-      "answer": "We plan projects strategically around Minnesota seasons. Design and planning happen in winter so we can break ground early in spring and have your backyard ready for summer. Hardscaping and structural work can continue into late fall."
+      "question": "Do you handle the entire project or do you use subcontractors?",
+      "answer": "Everything is done in-house. Our architects, builders, and artisans all work under one roof. That means better communication, tighter quality control, and a smoother experience for you from start to finish."
     },
     {
-      "question": "Can you handle the entire backyard — pool, patio, kitchen, everything?",
-      "answer": "Absolutely. That's our specialty. Our design-build model means one team handles architecture, construction, landscaping, and finishing. No juggling subcontractors or worrying about coordination."
+      "question": "Can you work with my existing landscaping and structures?",
+      "answer": "Absolutely. Our design team specializes in integrating new features with your existing home, deck, and yard. We will visit your property and create a plan that flows naturally with what is already there."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve the Minneapolis-St. Paul metro, including Stillwater, Woodbury, Lake Elmo, Orono, Minnetonka, Eagan, and Mendota Heights. In Wisconsin, we cover Hudson, New Richmond, and surrounding communities."
+      "answer": "We serve Hugo, Stillwater, Woodbury, Lake Elmo, North Oaks, Eagan, Mendota Heights, Minnetonka, Saint Paul, and communities throughout the greater Twin Cities metro area -- including Hudson, WI."
     },
     {
-      "question": "What does a typical backyard transformation cost?",
-      "answer": "Projects range widely based on scope — from patio installations starting around $15,000 to full backyard transformations with pools, kitchens, and structures. We provide transparent, detailed proposals after your free consultation so there are never surprises."
+      "question": "How do I get started?",
+      "answer": "Just give us a call or fill out the form on this page. We will schedule a free design consultation at your home, walk your property, talk through your vision, and put together a custom proposal -- no pressure, no obligation."
     }
   ],
   "testimonials": [
     {
       "name": "Catherine J.",
-      "text": "Asher Judd with Outdoor Innovations created an exceptional landscape design of the pool placement and subsequent hardscape — a perfectly sized pool deck that is beautiful and meets all our entertaining needs.",
+      "text": "Asher Judd with Outdoor Innovations created an exceptional landscape design of the pool placement and subsequent hardscape that organically flowed with our home, deck, and yard. His teams thoughtfully, artistically, and precisely placed each piece with great care. We are thrilled with the result.",
       "context": "Pool and hardscape project",
       "initials": "CJ"
     },
     {
-      "name": "Karen M.",
-      "text": "Craig and his team did an outstanding job creating a backyard oasis for us. From the initial design to completion, the professionalism and expertise were evident every step of the way.",
-      "context": "Backyard oasis project",
-      "initials": "KM"
+      "name": "Nathan M.",
+      "text": "The professionalism and quality of work were outstanding throughout the entire project. Communication was excellent from start to finish and the craftsmanship exceeded our expectations.",
+      "context": "Landscape project",
+      "initials": "NM"
     },
     {
       "name": "Catherine R.",
-      "text": "We just finished a backyard pool project with Outdoor Innovations and it turned out absolutely beautiful! The whole process was smooth and the results exceeded our expectations.",
+      "text": "We just finished a backyard pool project with Outdoor Innovations and it turned out absolutely beautiful! From the initial design to completion, the attention to detail and commitment to our vision truly set them apart.",
       "context": "Backyard pool project",
       "initials": "CR"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free design consultation and see what's possible for your outdoor space. No pressure, no obligation — just honest ideas from a team that's been doing this for 19 years.",
+    "headline": "Ready to Build the Backyard<br>You Have Always Wanted?",
+    "subtitle": "Get a free, no-pressure design consultation. We will visit your property, listen to your vision, and put together a custom plan with transparent pricing.",
     "benefits": [
       "Free on-site design consultation",
       "Detailed proposal within one week",
-      "Craftsmanship guarantee on every project"
+      "Full design-build under one roof"
     ]
   },
   "footer": {
-    "description": "Design-build outdoor living. Serving the Twin Cities and Western Wisconsin since 2007.",
-    "service_area": "Serving Minneapolis-St. Paul, Stillwater, Woodbury, Hudson WI & Surrounding Areas",
+    "description": "Full-service design-build firm serving the Twin Cities metro. Custom pools, outdoor kitchens, and landscapes built for living.",
+    "service_area": "Serving Hugo, Stillwater, Woodbury & the Twin Cities Metro",
     "services": [
       "Custom Pools",
       "Outdoor Kitchens",
       "Decks & Patios",
       "Fire Features",
-      "Pool Houses"
+      "Hardscaping"
     ],
-    "copyright": "&copy; 2024 Outdoor Innovations Landscaping. All rights reserved. New Richmond, WI"
+    "copyright": "&copy; 2026 Outdoor Innovations Landscaping. All rights reserved."
   }
 }

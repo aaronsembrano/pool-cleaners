@@ -1,0 +1,184 @@
+{
+  "folder_name": "coyote-creek-outdoors",
+  "company_name": "Coyote Creek Outdoors",
+  "tagline": "The shop for all shooting, hunting, and outdoor enthusiasts",
+  "phone": "+1 615-971-7450",
+  "email": "anna@coyotecreekoutdoors.com",
+  "logo_path": "logo.png",
+  "review_count": "20",
+  "review_rating": "4.0",
+  "colors": {
+    "primary": "#000000",
+    "primary_dark": "#111111",
+    "primary_deeper": "#0a0a0a",
+    "secondary": "#C8A95B",
+    "cta": "#C8A95B",
+    "cta_dark": "#A8893B"
+  },
+  "trust_badges": {
+    "badge_1": "USCCA Official Training Partner",
+    "badge_2": "4.0/5 from 20+ Reviews",
+    "badge_3": "Licensed FFL Dealer"
+  },
+  "hero": {
+    "badge_1": "USCCA Official Training Partner",
+    "badge_2": "Licensed FFL Dealer",
+    "headline": "Southeast Minnesota's Premier <span class=\"text-secondary italic\">Shooting & Archery Facility</span>",
+    "subheadline": "From your first shot to competition day, Coyote Creek Outdoors has the ranges, training, and gear you need under one roof. 12 indoor gun lanes, two archery ranges, expert gunsmithing, and certified firearms classes in Rochester, MN.",
+    "cta_text": "Visit the Range Today",
+    "checkmarks": [
+      "12-lane indoor shooting range",
+      "Certified firearms & archery classes",
+      "Full-service gunsmithing on site"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "12",
+    "stat_1_label": "Indoor Shooting Lanes",
+    "stat_2_value": "2",
+    "stat_2_label": "Indoor Archery Ranges",
+    "stat_3_value": "14",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "20+",
+    "stat_4_label": "5-Star Google Reviews"
+  },
+  "services": {
+    "label": "What We Offer",
+    "headline": "Ranges, Training & Gear<br class=\"hidden md:block\"> All Under One Roof",
+    "subtitle": "Whether you are a first-time shooter, a seasoned archer, or a hunter gearing up for the season, we have everything you need and the expertise to back it up.",
+    "cards": [
+      {
+        "title": "Indoor Gun Range",
+        "description": "12 state-of-the-art lanes for shooters of every skill level. Memberships available with free rental days and walk-ins always welcome."
+      },
+      {
+        "title": "Indoor Archery Range",
+        "description": "Two dedicated archery ranges for youth, novice, and experienced archers. Leagues and competitive events run year-round."
+      },
+      {
+        "title": "Firearms Classes",
+        "description": "Conceal Carry permit courses, safety instruction, and private lessons through our USCCA-certified training partnership."
+      },
+      {
+        "title": "Gunsmithing Services",
+        "description": "Professional repair, customization, and maintenance from experienced gunsmiths who treat every firearm like their own."
+      },
+      {
+        "title": "Gun Sales & Transfers",
+        "description": "New and used firearms, FFL transfers, silencers, NFA items, and a full ammunition selection at competitive prices."
+      },
+      {
+        "title": "Hunting & Outdoor Gear",
+        "description": "Your one-stop shop for hunting and fishing licenses, outdoor supplies, and expert advice from people who actually use the gear."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Easy",
+    "steps": [
+      {
+        "title": "Walk In or Call Ahead",
+        "description": "Stop by our Rochester location or give us a call. Our friendly staff will help you choose the right range time, class, or service."
+      },
+      {
+        "title": "Get Expert Guidance",
+        "description": "Whether you need range safety basics, a Conceal Carry class, or gunsmithing advice, our team walks you through every step."
+      },
+      {
+        "title": "Shoot, Train & Enjoy",
+        "description": "Hit the lanes, join a league, or pick up the gear you need. From first-timers to regulars, everyone leaves with a great experience."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Rochester Trusts Us",
+    "headline": "Southeast Minnesota's Complete Shooting & Outdoor Destination",
+    "description": "Located at 3600 South Broadway in Rochester, Coyote Creek Outdoors is more than a gun shop. We are a full-service facility combining 12 indoor shooting lanes, two archery ranges, certified firearms training, professional gunsmithing, and a fully stocked retail floor. Our team of 14 passionate outdoor enthusiasts delivers the kind of personalized, knowledgeable service that big-box stores simply cannot match.",
+    "badge": "USCCA Certified",
+    "features": [
+      {
+        "title": "Licensed & Certified Facility",
+        "description": "Licensed FFL dealer and USCCA Official Training Partner. Every instructor is certified and every transaction meets federal compliance standards."
+      },
+      {
+        "title": "Everything Under One Roof",
+        "description": "Ranges, retail, training, and gunsmithing in a single location. No running around town. Get it all done in one visit."
+      },
+      {
+        "title": "Personalized Service, Every Visit",
+        "description": "Our 14-person team knows regulars by name and treats newcomers like family. Friendly, patient, and always willing to help."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Fair Pricing. No Surprises.",
+    "subtitle": "Range fees, memberships, classes, and services are all clearly posted. Ask our staff about membership packages that include free rental days."
+  },
+  "guarantee": {
+    "headline": "Our \"Hit the Mark\" Guarantee",
+    "description": "If you are not completely satisfied with any service, class, or gunsmithing work, let us know and we will make it right. With a team of 14 dedicated professionals and a reputation built on repeat customers, we stand behind everything we do at Coyote Creek Outdoors."
+  },
+  "faqs": [
+    {
+      "question": "Do I need experience to use the gun range?",
+      "answer": "Not at all. We welcome complete beginners. Our range safety officers will walk you through proper handling, safety protocols, and shooting basics before you ever touch a trigger. Firearm rentals are available on site."
+    },
+    {
+      "question": "What firearms classes do you offer?",
+      "answer": "We offer Conceal Carry permit classes, basic firearms safety courses, and private one-on-one lessons. All instruction is delivered through our USCCA-certified training partnership by experienced, patient instructors."
+    },
+    {
+      "question": "Can I bring my own firearm to the range?",
+      "answer": "Absolutely. You are welcome to bring your own firearms and ammunition. We also have rental firearms available if you want to try something new before you buy."
+    },
+    {
+      "question": "Do you offer archery leagues or competitions?",
+      "answer": "Yes. We run organized archery leagues and competitive shooting events on our two indoor archery ranges. Leagues are open to all skill levels, from youth beginners to experienced competitors."
+    },
+    {
+      "question": "What gunsmithing services do you provide?",
+      "answer": "Our experienced gunsmiths handle repairs, customization, cleaning, and maintenance for all major firearm brands. Bring your firearm in for an estimate and we will give you an honest assessment."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Hennessy H.",
+      "context": "Google Review - November 2025",
+      "initials": "HH",
+      "text": "Coyote Creek is incredible. I feel so spoiled having such an amazing, local archery/gun range near me. I just recently got into firearms and didn't know much about them at all."
+    },
+    {
+      "name": "Rui",
+      "context": "Google Review - October 2025",
+      "initials": "RU",
+      "text": "The staff was very nice. It was my first time at a shooting range, and John was extremely patient in explaining how to shoot safely and accurately. My kids really enjoyed it here too."
+    },
+    {
+      "name": "Melissa C.",
+      "context": "Google Review - May 2024",
+      "initials": "MC",
+      "text": "Very helpful place with great instructors who are very experienced, careful and knowledgeable. Clean. Fair prices."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Hit<br>the Range?",
+    "subtitle": "Stop by our Rochester location, give us a call, or send us a message. Walk-ins are always welcome.",
+    "benefits": [
+      "Walk-ins welcome, no appointment needed",
+      "Friendly staff for beginners & experts alike",
+      "Full-service facility open to the public"
+    ]
+  },
+  "footer": {
+    "description": "Rochester's premier indoor shooting and archery facility. Ranges, training, retail, and gunsmithing under one roof.",
+    "service_area": "Serving Rochester & Southeast Minnesota",
+    "services": [
+      "Indoor Gun Range",
+      "Indoor Archery Range",
+      "Firearms Classes",
+      "Gunsmithing Services",
+      "Gun Sales & Transfers"
+    ],
+    "copyright": "&copy; 2026 Coyote Creek Outdoors. All rights reserved. 3600 South Broadway, Rochester, MN"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "folder_name": "north-georgia-landscape-management",
+  "company_name": "North Georgia Landscape Management",
+  "tagline": "Enhancing Property Value. Elevating Communities.",
+  "phone": "+1 770-417-8737",
+  "email": "jeremy.talboy@northgeorgialandscape.com",
+  "review_count": "87",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#2E7D32",
+    "primary_dark": "#1B5E20",
+    "primary_deeper": "#0D3B10",
+    "secondary": "#1B5E20",
+    "cta": "#F9A825",
+    "cta_dark": "#F57F17"
+  },
+  "hero": {
+    "headline": "Landscapes That <span class=\"text-secondary italic\">Elevate Communities</span>",
+    "subheadline": "For 16 years, North Georgia Landscape Management has transformed HOA communities, multi-family properties, and commercial campuses across Metro Atlanta. We deliver the kind of grounds care that makes residents proud and property values rise.",
+    "badges": [
+      "4.6-Star Rated on Google (87 Reviews)",
+      "BBB Listed Business Since 2010"
+    ],
+    "checkmarks": [
+      "Full-service landscape solutions under one roof",
+      "Trusted by HOAs and property managers across North Georgia",
+      "Consistent crews with trained, accountable teams"
+    ],
+    "cta_text": "Get Your Free Property Assessment"
+  },
+  "stats": {
+    "stat_1_value": "120",
+    "stat_1_label": "Properties Maintained",
+    "stat_2_value": "16",
+    "stat_2_label": "Years Serving North Georgia",
+    "stat_3_value": "87",
+    "stat_3_label": "5-Star Google Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Client Satisfaction"
+  },
+  "services": {
+    "headline": "Complete Landscape Solutions",
+    "subtitle": "From routine maintenance to full installations, we handle every aspect of your property's outdoor spaces.",
+    "cards": [
+      {
+        "title": "HOA Landscape Maintenance",
+        "description": "Year-round mowing, trimming, seasonal color, and grounds upkeep that keeps your community looking immaculate and HOA boards confident."
+      },
+      {
+        "title": "HOA Installations & Enhancements",
+        "description": "New plantings, hardscapes, irrigation systems, and landscape upgrades designed to elevate curb appeal and community pride."
+      },
+      {
+        "title": "Multi-Family Property Care",
+        "description": "Comprehensive grounds management for apartment complexes and multi-unit communities that retains tenants and impresses prospects."
+      },
+      {
+        "title": "Commercial Landscape Services",
+        "description": "Reliable maintenance for office parks, retail centers, and business complexes with schedules you can count on every single week."
+      },
+      {
+        "title": "Industrial Grounds Management",
+        "description": "Professional landscape care for industrial facilities and campuses, maintaining clean appearances while working around operational needs."
+      },
+      {
+        "title": "Seasonal Color & Plantings",
+        "description": "Rotating seasonal flower beds, shrub installations, and mulch programs that keep properties vibrant and welcoming through every season."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule a Property Walk-Through",
+        "description": "We visit your property, assess its needs, and listen to your goals and concerns. No pressure, just honest recommendations."
+      },
+      {
+        "title": "Receive Your Custom Proposal",
+        "description": "Within days, you'll get a detailed plan with clear pricing, scope of services, and a maintenance calendar tailored to your property."
+      },
+      {
+        "title": "Watch Your Property Transform",
+        "description": "Our trained crews arrive on schedule, communicate proactively, and deliver results that make you proud to manage your property."
+      }
+    ]
+  },
+  "about": {
+    "label": "About NGLM",
+    "headline": "Built on Integrity. Driven by Results.",
+    "description": "Founded by Jeremy Talboy in 2010, North Georgia Landscape Management was born from the belief that landscapes do more than beautify — they shape how people feel, live, and connect. For over 16 years, we've served Metro Atlanta and North Georgia with a commitment to accountability, continuous improvement, and genuine partnership with every client we serve.",
+    "badge": "Serving Metro Atlanta Since 2010",
+    "features": [
+      {
+        "title": "Trained & Accountable Crews",
+        "description": "Every team member receives ongoing training and is held to the highest professional standards on every property visit."
+      },
+      {
+        "title": "One-Stop Landscape Partner",
+        "description": "From weekly maintenance to full installations, we handle all your landscape needs under one roof — no juggling multiple vendors."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with a service visit? Call us within 24 hours and we'll return to make it right at no additional cost."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every property is unique. Contact us for a custom proposal based on your property's size, needs, and goals — with no hidden fees or surprise charges."
+  },
+  "guarantee": {
+    "headline": "Our Commitment to You",
+    "description": "If you're not completely satisfied with any service visit, call us within 24 hours and we'll return to make it right at no additional cost. We stake our 16-year reputation on every single property we maintain."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Metro Atlanta and North Georgia including Buford, Duluth, Snellville, Sugar Hill, Alpharetta, Forsyth County, and Gwinnett County. Contact us to confirm coverage for your specific location."
+    },
+    {
+      "question": "Do you work with HOAs and property management companies?",
+      "answer": "Absolutely. HOA and multi-family communities are our specialty. We understand board expectations, budget cycles, and the communication standards property managers require."
+    },
+    {
+      "question": "How quickly can you start service?",
+      "answer": "After your property walk-through and proposal approval, most new accounts begin within 1-2 weeks. We'll coordinate timing that works best for your community or property."
+    },
+    {
+      "question": "Do you handle both maintenance and installations?",
+      "answer": "Yes. We're your one-stop landscape partner. From weekly mowing and seasonal color to full hardscape installations and irrigation systems, everything is managed under one roof."
+    },
+    {
+      "question": "What makes NGLM different from other landscape companies?",
+      "answer": "We invest heavily in training our crews, improving our systems, and building genuine partnerships with clients. You'll have consistent teams, proactive communication, and a company that treats your property like our reputation depends on it — because it does."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Sean Nebel",
+      "text": "An exceptional business that is well managed and customer friendly. These guys really seem to care about the customer and the work they do. Not just a check.",
+      "context": "General service",
+      "initials": "SN"
+    },
+    {
+      "name": "Michelle Anderson-Beatty",
+      "text": "NGLM takes care of our HOA contract. They do a fantastic job!!! Great service and great communication.",
+      "context": "HOA contract management",
+      "initials": "MA"
+    },
+    {
+      "name": "Arnold Darsey",
+      "text": "After creating a design for the East side of my home/lot in Snellville, GA, Philip and his crew yesterday did a marvelous job in fulfilling our expectations.",
+      "context": "Design and installation",
+      "initials": "AD"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Elevate Your Property?",
+    "subtitle": "Schedule your free property assessment today and discover why HOAs and property managers across North Georgia trust NGLM.",
+    "benefits": [
+      "Free on-site property walk-through",
+      "Custom proposal within days, not weeks",
+      "No contracts required to get started"
+    ]
+  },
+  "footer": {
+    "description": "North Georgia Landscape Management has served Metro Atlanta and North Georgia since 2010, providing comprehensive landscape solutions for HOA communities, multi-family properties, commercial campuses, and industrial facilities.",
+    "service_area": "Serving Buford, Duluth, Snellville, Sugar Hill, Alpharetta, Forsyth County, Gwinnett County, and all of Metro Atlanta & North Georgia",
+    "services": [
+      "HOA Landscape Maintenance",
+      "HOA Installations",
+      "Multi-Family Services",
+      "Commercial Landscaping",
+      "Industrial Grounds Care"
+    ],
+    "copyright": "North Georgia Landscape Management. All rights reserved."
+  }
+}

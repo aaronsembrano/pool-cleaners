@@ -1,179 +1,184 @@
 {
   "folder_name": "anything-wet",
   "company_name": "Anything Wet Pools & Spas",
-  "tagline": "Built for Florida Living. Designed with Precision.",
+  "tagline": "Custom Pools & Outdoor Living in South Florida",
   "phone": "+1 561-432-6100",
   "email": "info@anythingwetpools.com",
   "logo_path": "logo.png",
   "review_count": "77",
   "review_rating": "4.2",
   "colors": {
-    "primary": "#1a3a5c",
-    "primary_dark": "#122a44",
-    "primary_deeper": "#0d1f33",
-    "secondary": "#2b6cb0",
-    "cta": "#e8a838",
-    "cta_dark": "#d4922a"
+    "primary": "#1a2e5a",
+    "primary_dark": "#111e3d",
+    "primary_deeper": "#0a1428",
+    "secondary": "#2563eb",
+    "cta": "#e8a019",
+    "cta_dark": "#c48815"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — 28+ Years",
+    "badge_2": "4.2/5 from 77+ Reviews",
+    "badge_3": "BBB Accredited 18+ Years"
   },
   "hero": {
     "badge_1": "4.2/5 from 77+ Google Reviews",
-    "badge_2": "10,000+ Pools Built Since 1997",
-    "headline": "28 Years Building <span class=\"text-secondary italic\">Dream Pools</span>",
-    "subheadline": "Since 1997, Anything Wet Pools & Spas has built over 10,000 custom pools across Palm Beach County. Owner Pat is on every job site — because your backyard deserves hands-on craftsmanship, not a sales pitch.",
-    "cta_text": "Start Your Backyard Transformation",
+    "badge_2": "BBB Accredited 18+ Years",
+    "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Built to<br>Last Decades</span>",
+    "subheadline": "For 28 years, Anything Wet Pools & Spas has turned ordinary South Florida backyards into resort-style escapes. From custom pools and spas to outdoor kitchens and fire features — we handle every detail so you just enjoy the result.",
+    "cta_text": "Start Your Pool Project",
     "checkmarks": [
-      "Over 10,000 pools built across South Florida",
-      "On-time, on-budget — transparent from day one",
-      "Full-service: pools, kitchens, fire features & more"
+      "Free design consultation",
+      "Full-service build from start to finish",
+      "28+ years of South Florida expertise"
     ]
   },
   "stats": {
-    "stat_1_value": "10000",
-    "stat_1_label": "Pools Built",
+    "stat_1_value": "1500",
+    "stat_1_label": "Projects Completed",
     "stat_2_value": "28",
     "stat_2_label": "Years in Business",
     "stat_3_value": "77",
     "stat_3_label": "Google Reviews",
-    "stat_4_value": "100%",
-    "stat_4_label": "Licensed & Insured"
+    "stat_4_value": "18+",
+    "stat_4_label": "Years BBB Accredited"
   },
   "services": {
-    "label": "What We Build",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Solutions Under One Roof",
-    "subtitle": "From custom pool construction to full backyard transformations — everything handled by one trusted team with 28 years of South Florida experience.",
+    "label": "Our Expertise",
+    "headline": "Complete Pool & Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
+    "subtitle": "From the first sketch to the final tile, Anything Wet handles every phase of your backyard transformation. No subcontractor runaround — just one team, one vision, one stunning result.",
     "cards": [
       {
         "title": "Pool Design & Construction",
-        "description": "Custom in-ground pools tailored to your lifestyle, space, and South Florida climate. Every detail designed with precision from concept to completion."
+        "description": "Custom in-ground pools tailored to your lifestyle, space, and vision. From freeform lagoons to sleek modern designs — built to last in the South Florida climate."
       },
       {
         "title": "Pool Remodeling",
-        "description": "Modernize your existing pool with updated finishes, new tile, resurfacing, and design upgrades that transform your backyard into something you love again."
+        "description": "Breathe new life into your existing pool with updated finishes, tile, coping, and equipment upgrades that make it look and perform like new."
       },
       {
-        "title": "Outdoor Kitchens",
-        "description": "Fully equipped cooking spaces built for entertaining — with built-in grills, stone countertops, and custom cabinetry made for Florida's outdoor lifestyle."
+        "title": "Outdoor Kitchens & Living",
+        "description": "Fully equipped outdoor cooking and entertaining spaces designed to complement your pool area and elevate your backyard lifestyle."
       },
       {
-        "title": "Spas & Waterfalls",
-        "description": "Relaxing spa installations and custom water features including waterfalls, grottos, and modern water accents that bring resort-level luxury home."
+        "title": "Spas & Water Features",
+        "description": "Relaxing spa installations and custom water features — waterfalls, grottos, and modern accent elements that add drama and tranquility."
       },
       {
-        "title": "Fire Pits & Features",
-        "description": "Ambient fire installations including fire pits, fire bowls, and built-in features that create year-round outdoor warmth and ambiance."
+        "title": "Fire Features & Lighting",
+        "description": "Custom fire pits, fire bowls, and ambient LED lighting that extend your outdoor enjoyment well into the evening hours."
       },
       {
         "title": "Decks, Patios & Pergolas",
-        "description": "Durable pavers, travertine, stamped concrete, and custom shade structures designed to complement your pool and complete your outdoor living space."
+        "description": "Elegant hardscape surfaces and shade structures including pavers, natural stone, and custom pergolas for beautiful outdoor living."
       }
     ]
   },
   "how_it_works": {
-    "headline": "How Your Dream Pool Comes to Life",
+    "headline": "From Vision to Backyard Paradise",
     "steps": [
       {
         "title": "Share Your Vision",
-        "description": "We start by listening. Tell us how you want to live outdoors — Pat will visit your property, understand your goals, and discuss your budget openly. No pressure, no obligations."
+        "description": "Tell us what you want for your backyard. We visit your property, listen to your ideas, and provide a free design consultation with honest pricing — no pressure, no obligation."
       },
       {
-        "title": "Custom Design & Plan",
-        "description": "Our team creates a detailed 3D design tailored to your space, lifestyle, and budget. You see exactly what you're getting before a single shovel hits the ground."
+        "title": "We Design & Build It",
+        "description": "Our experienced in-house team handles everything from permits and design to construction and finishing. Owner Pat oversees every project personally for quality you can count on."
       },
       {
-        "title": "Expert Build & Enjoy",
-        "description": "Pat and his crew handle everything on-site — construction, landscaping, lighting, and finishing touches. Your backyard transformation is delivered on time and on budget."
+        "title": "Enjoy Your Paradise",
+        "description": "Your resort-style backyard is ready for family gatherings, weekend barbecues, and evening relaxation. We stand behind every project and are always a phone call away."
       }
     ]
   },
   "about": {
-    "label": "Family-Owned Since 1997",
-    "headline": "Palm Beach County's Most Trusted Pool Builder",
-    "description": "For 28 years, Pat and the Anything Wet team have been turning South Florida backyards into luxurious outdoor living spaces. As an owner-operated company, Pat is personally on your job site — not managing from an office. With over 10,000 pools built, BBB accreditation for 18+ years, and a reputation built on listening to clients and delivering exactly what was promised, we bring the kind of trust and craftsmanship that only comes from nearly three decades of hands-on experience.",
-    "badge": "10,000+ Pools Built Since 1997",
+    "label": "Why South Florida Trusts Us",
+    "headline": "Owner-Operated Since 1997 — Your Backyard Is Personal to Us",
+    "description": "Founded in 1997 by Pat, Anything Wet Pools & Spas has spent nearly three decades transforming backyards across Palm Beach, Broward, and surrounding South Florida communities. We are not a franchise or a faceless corporation — we are a hands-on team that treats every project like it is our own home. With BBB accreditation for 18+ years and hundreds of completed projects, our reputation is built on delivering exactly what we promise.",
+    "badge": "BBB Accredited 18+ Years",
     "features": [
       {
-        "title": "Owner On Every Job",
-        "description": "Pat is personally involved on your project — hands-on oversight from start to finish."
+        "title": "Licensed & Fully Insured",
+        "description": "State-licensed pool contractor with full liability coverage. Every project meets or exceeds Florida building codes and safety standards."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees, no surprises. You get a clear estimate and we stick to it."
+        "title": "Owner On Every Job Site",
+        "description": "Pat personally manages each project from design through completion. You always have a direct line to the person in charge."
       },
       {
-        "title": "Full-Service Team",
-        "description": "Pools, kitchens, fire features, pergolas, and landscaping — all handled in-house."
+        "title": "Built to Last in South Florida",
+        "description": "We use materials and techniques proven to withstand South Florida's heat, humidity, and salt air — so your investment looks stunning for decades."
       }
     ]
   },
   "pricing": {
-    "headline": "Honest Pricing, No Surprises",
-    "subtitle": "Every project is custom, so we quote after understanding your vision. No cookie-cutter pricing — just fair, detailed proposals you can trust from a team that has been doing this for 28 years."
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is unique. Contact us for a free design consultation and detailed quote tailored to your backyard and budget."
   },
   "guarantee": {
-    "headline": "The Anything Wet Promise",
-    "description": "After 28 years and 10,000+ pools, our reputation is our guarantee. We stand behind every project with licensed, insured craftsmanship, BBB-accredited service, and Pat's personal commitment that your backyard transformation will exceed your expectations — or we make it right."
+    "headline": "Our \"Resort-Quality\" Promise",
+    "description": "We do not cut corners and we do not disappear after the build. If anything about your project does not meet the standard we promised, we come back and make it right — period. With 28 years of standing behind our work, your satisfaction is not just a goal, it is our reputation."
   },
   "faqs": [
     {
-      "question": "How long does it take to build a custom pool in South Florida?",
-      "answer": "Most custom pool projects take 8-12 weeks from permit approval to completion, depending on scope and complexity. Pat keeps you updated throughout the process, and we're known for finishing ahead of schedule — many clients are surprised how quickly their dream pool comes to life."
+      "question": "How long does a custom pool project take?",
+      "answer": "Most custom pool builds take 8-14 weeks depending on scope and complexity. Remodeling projects are typically faster at 3-6 weeks. We provide a detailed timeline during your free consultation so you know exactly what to expect."
     },
     {
-      "question": "Do you handle the entire backyard or just the pool?",
-      "answer": "We do it all under one roof — pools, outdoor kitchens, fire features, pergolas, decks, patios, landscaping, and lighting. Having one team manage your entire outdoor transformation means better coordination, consistent quality, and a seamless finished product."
+      "question": "Do you handle permits and inspections?",
+      "answer": "Absolutely. We handle every permit, inspection, and code requirement from start to finish. As a licensed Florida pool contractor, we know the local building codes inside and out so you never have to worry about compliance."
     },
     {
       "question": "What areas do you serve?",
-      "answer": "We serve all of Palm Beach County including Loxahatchee, Palm Beach, Boca Raton, Delray Beach, Wellington, and surrounding South Florida areas including parts of Broward County. We have been building in this region since 1997."
+      "answer": "We serve Palm Beach County, Broward County, and surrounding South Florida communities including Boca Raton, Delray Beach, Loxahatchee Groves, and more. If you are in South Florida, give us a call — we likely cover your area."
     },
     {
-      "question": "Is Pat really on the job site?",
-      "answer": "Absolutely. Unlike larger companies where you deal with salespeople and project managers, Pat is personally involved on every project. He is on-site regularly, overseeing quality and making sure every detail matches your vision. That is the owner-operated difference."
+      "question": "Can you remodel my existing pool?",
+      "answer": "Yes! Pool remodeling is one of our specialties. Whether you want new tile, updated finishes, modern coping, LED lighting, or a complete backyard overhaul — we can transform your existing pool into something you will love again."
     },
     {
-      "question": "How do I get started with a project?",
-      "answer": "Just give us a call at 561-432-6100 or fill out the form on this page. We will schedule a free on-site consultation where Pat visits your property, listens to your ideas, and provides a detailed, no-obligation estimate."
+      "question": "Do you offer financing options?",
+      "answer": "We work with homeowners to find solutions that fit their budget. Contact us to discuss your project and we will walk you through available options during your free consultation."
     }
   ],
   "testimonials": [
     {
-      "name": "Palm",
-      "text": "We could not be any happier with Pat and his entire crew. From our initial phone call to the completion of our dream pool, the experience could not have been more enjoyable.",
-      "context": "Pool Construction Client",
-      "initials": "PA"
+      "name": "Donny",
+      "text": "Pat and his team were true to their word. They were true professionals and built an exceptional pool in record time at a competitive cost!!",
+      "context": "Google Review — Local Guide",
+      "initials": "DN"
     },
     {
-      "name": "Sunprestes T.",
-      "text": "Outstanding service from Anything Wet Pools and Spas! From start to finish, my experience was exceptional. The team was professional, knowledgeable, and guided me through the entire pool installation process.",
-      "context": "Pool Installation Client",
-      "initials": "ST"
+      "name": "Frances A.",
+      "text": "Very professional and they exceeded our expectations. They finished everything in less time than calculated. Could not be happier with the result.",
+      "context": "Google Review — Local Guide",
+      "initials": "FA"
     },
     {
-      "name": "Chris S.",
-      "text": "The entire process was smooth and virtually stress-free from start to finish. Pat kept us informed every step of the way. Our pool is absolutely beautiful.",
-      "context": "Google Review",
-      "initials": "CS"
+      "name": "Jill A. Kay",
+      "text": "My pool looks AMAZING and I am so pleased with the outcome. I am so glad I went with Anything Wet. They delivered exactly what they promised.",
+      "context": "Google Review — Local Guide",
+      "initials": "JK"
     }
   ],
   "contact": {
-    "headline": "Let's Build Your Dream Backyard",
-    "subtitle": "Get a free on-site consultation with Pat. We will walk your property, discuss your vision, and give you a transparent estimate — no pressure, no obligation.",
+    "headline": "Ready to Transform<br>Your Backyard?",
+    "subtitle": "Get a free design consultation and honest quote. No pressure, no obligation — just expert guidance on bringing your backyard vision to life.",
     "benefits": [
-      "Free on-site consultation with the owner",
-      "Transparent estimate with no hidden fees",
-      "28 years of trusted South Florida experience"
+      "Free on-site design consultation",
+      "Detailed quote within 48 hours",
+      "28+ years of proven results"
     ]
   },
   "footer": {
-    "description": "Anything Wet Pools & Spas has been building custom pools and outdoor living spaces across South Florida since 1997. Licensed, insured, and BBB-accredited — with over 10,000 pools built.",
-    "service_area": "Serving Palm Beach County, Boca Raton, Delray Beach, Palm Beach, Broward County & surrounding South Florida areas",
+    "description": "Custom pools and outdoor living in South Florida since 1997. Licensed, insured, and BBB accredited.",
+    "service_area": "Serving Palm Beach, Broward & South Florida",
     "services": [
-      "Pool Design & Construction",
+      "Pool Construction",
       "Pool Remodeling",
       "Outdoor Kitchens",
-      "Spas & Waterfalls",
-      "Fire Pits & Features"
+      "Spas & Water Features",
+      "Fire Features & Lighting"
     ],
-    "copyright": "&copy; 2026 Anything Wet Pools & Spas. All rights reserved. Licensed Florida Pool Contractor."
+    "copyright": "&copy; 2024 Anything Wet Pools & Spas. All rights reserved. Licensed Pool Contractor, State of Florida."
   }
 }

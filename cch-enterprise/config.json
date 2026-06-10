@@ -1,0 +1,171 @@
+{
+  "folder_name": "cch-enterprise",
+  "company_name": "CCH Enterprise",
+  "logo_path": "logo.png",
+  "tagline": "Elevate Your Outdoor Living Experience",
+  "phone": "+1 805-439-4404",
+  "email": "info@cchenterprise.com",
+  "review_count": "27",
+  "review_rating": "3.4",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a44",
+    "primary_deeper": "#0d1f33",
+    "secondary": "#3b82f6",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "hero": {
+    "headline": "53 Years Perfecting <span class=\"text-secondary italic\">Outdoor Living</span>",
+    "subheadline": "Since 1973, CCH Enterprise has been the Central Coast's trusted one-stop shop for pools, hot tubs, outdoor furniture, and everything in between. Visit our San Luis Obispo showroom and let our licensed experts bring your backyard vision to life.",
+    "badges": [
+      "Licensed CA Contractor — Top 27%",
+      "Serving the Central Coast Since 1973"
+    ],
+    "checkmarks": [
+      "Full-service pool building, remodeling & maintenance",
+      "Hot tubs, saunas, BBQs & outdoor furniture showroom",
+      "Trusted by homeowners & short-term rental owners alike"
+    ],
+    "cta_text": "Visit Our Showroom"
+  },
+  "stats": {
+    "stat_1_value": "53",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "1973",
+    "stat_2_label": "Founded on the Central Coast",
+    "stat_3_value": "8",
+    "stat_3_label": "Outdoor Living Categories",
+    "stat_4_value": "93",
+    "stat_4_label": "BuildZoom Quality Score"
+  },
+  "services": {
+    "headline": "Your Complete Outdoor Living Headquarters",
+    "subtitle": "From the pool in your backyard to the furniture on your patio, CCH Enterprise covers every element of outdoor living under one roof.",
+    "cards": [
+      {
+        "title": "Custom Pool Building",
+        "description": "Dream it, and we'll build it. Our licensed team designs and constructs residential pools tailored to your property, lifestyle, and budget — from classic lap pools to resort-style retreats."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Breathe new life into your existing pool with replastering, retiling, resurfacing, and modern equipment upgrades that transform an aging pool into a backyard centerpiece."
+      },
+      {
+        "title": "Pool Service & Maintenance",
+        "description": "Keep your water crystal clear year-round with our weekly and monthly maintenance programs — chemical balancing, cleaning, equipment checks, and dedicated short-term rental pool care."
+      },
+      {
+        "title": "Hot Tubs & Spas",
+        "description": "Browse our showroom for the perfect hot tub or spa. Our knowledgeable staff helps you select, install, and maintain your unit for years of relaxation."
+      },
+      {
+        "title": "BBQs & Fire Features",
+        "description": "Upgrade your outdoor entertaining with premium BBQ grills, custom fire pits, and fireplaces that make your backyard the neighborhood gathering spot."
+      },
+      {
+        "title": "Outdoor Furniture & Saunas",
+        "description": "Complete your outdoor oasis with curated, high-quality patio furniture and home saunas — handpicked for comfort, durability, and Central Coast style."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How We Bring Your Backyard to Life",
+    "steps": [
+      {
+        "title": "Visit & Explore",
+        "description": "Stop by our showroom at 1227 Archer Street in San Luis Obispo. Browse hot tubs, furniture, BBQs, and talk with our expert staff about your vision."
+      },
+      {
+        "title": "Design & Plan",
+        "description": "Our licensed team creates a custom plan — whether it's a new pool build, a remodel, or a complete outdoor living makeover — with transparent pricing and timelines."
+      },
+      {
+        "title": "Build & Enjoy",
+        "description": "We handle construction, installation, and ongoing maintenance so you can relax and enjoy your new outdoor space for decades to come."
+      }
+    ]
+  },
+  "about": {
+    "label": "About CCH Enterprise",
+    "headline": "The Central Coast's Outdoor Living Experts Since 1973",
+    "description": "For over 50 years, CCH Enterprise has been San Luis Obispo's ultimate one-stop shop for outdoor living. What started as a pool company in 1973 has grown into a full-service destination covering pools, hot tubs, outdoor furniture, BBQs, fire features, saunas, and more. Our licensed team is dedicated to using the best practices while remaining competitive and upholding the highest standards of quality. Visit our showroom and discover why Central Coast homeowners have trusted us for over five decades.",
+    "badge": "53+ Years of Central Coast Excellence",
+    "features": [
+      { "title": "Top-Ranked Licensed Contractor", "description": "Licensed California contractor ranked in the top 27% by BuildZoom with a quality score of 93." },
+      { "title": "Full-Service Showroom", "description": "Visit our San Luis Obispo showroom to browse hot tubs, furniture, BBQs, saunas, and more with expert staff." },
+      { "title": "Design to Maintenance", "description": "From custom pool design and construction to weekly maintenance programs — we handle it all under one roof." }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, Honest Value",
+    "subtitle": "Every project is unique. Contact us for a personalized quote — no pressure, no hidden fees, just straightforward pricing from a team that's been doing this for over 50 years."
+  },
+  "guarantee": {
+    "headline": "Our 53-Year Promise to You",
+    "description": "We've been earning the Central Coast's trust since 1973. Every project we take on is backed by our commitment to quality craftsmanship, transparent communication, and your complete satisfaction. If something isn't right, we make it right — that's been our standard for over five decades."
+  },
+  "faqs": [
+    {
+      "question": "What areas does CCH Enterprise serve?",
+      "answer": "We serve San Luis Obispo and the entire Central Coast of California. Our showroom is located at 1227 Archer Street in San Luis Obispo, and our service teams cover the surrounding communities."
+    },
+    {
+      "question": "Do you offer pool maintenance for short-term rental properties?",
+      "answer": "Absolutely. We specialize in pool maintenance programs designed for short-term rental owners who need reliable, consistent care to keep their properties guest-ready at all times."
+    },
+    {
+      "question": "Can I visit your showroom without an appointment?",
+      "answer": "Yes! Our showroom at 1227 Archer Street in San Luis Obispo is open to walk-ins. Browse hot tubs, outdoor furniture, BBQs, saunas, and more — our staff is always happy to help."
+    },
+    {
+      "question": "How long does a custom pool build typically take?",
+      "answer": "Timelines vary based on design complexity and permits, but most residential pool builds take between 8 to 16 weeks. We'll give you a clear timeline during the planning phase so there are no surprises."
+    },
+    {
+      "question": "Are you a licensed contractor?",
+      "answer": "Yes. CCH Enterprise is a fully licensed California contractor with a BuildZoom score of 93, placing us in the top 27% of all licensed contractors in the state."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Customer",
+      "text": "Derek and the entire staff at CCH Pools are true professionals who have performed on everything they promised.",
+      "context": "Google Review",
+      "initials": "SC"
+    },
+    {
+      "name": "Short-Term Rental Owner",
+      "text": "This pool company is incredible for weekly maintenance as well as for short term rental properties!",
+      "context": "Google Review",
+      "initials": "SR"
+    },
+    {
+      "name": "Showroom Visitor",
+      "text": "Amazing place. I loved the new atmosphere. Staff is extremely helpful and knowledgeable. I have not been in a place like this in a long time where staff was more than willing to help.",
+      "context": "Google Review",
+      "initials": "SV"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Create Your Perfect Outdoor Space",
+    "subtitle": "Whether you need a new pool, a hot tub, weekly maintenance, or just want to browse our showroom — we're here to help.",
+    "benefits": [
+      "Free, no-pressure consultations at our SLO showroom",
+      "Personalized project quotes within 48 hours",
+      "53 years of Central Coast expertise at your service"
+    ]
+  },
+  "footer": {
+    "description": "CCH Enterprise has been the Central Coast's one-stop shop for outdoor living since 1973. Pools, hot tubs, furniture, BBQs, saunas, and more — all under one roof in San Luis Obispo.",
+    "service_area": "San Luis Obispo & Central Coast, California",
+    "services": [
+      "Pool Building",
+      "Pool Remodeling",
+      "Pool Maintenance",
+      "Hot Tubs & Spas",
+      "Outdoor Furniture"
+    ],
+    "copyright": "CCH Enterprise"
+  }
+}

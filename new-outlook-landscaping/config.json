@@ -1,0 +1,180 @@
+{
+  "folder_name": "new-outlook-landscaping",
+  "company_name": "New Outlook Landscaping",
+  "tagline": "Creating and maintaining the outdoor space of your dreams",
+  "phone": "+1 717-877-5018",
+  "email": "luke@newoutlooklandscaping.com",
+  "logo_path": "logo.png",
+  "review_count": "137",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a3a1a",
+    "primary_dark": "#122a12",
+    "primary_deeper": "#0a1a0a",
+    "secondary": "#DAA520",
+    "cta": "#DAA520",
+    "cta_dark": "#B8860B"
+  },
+  "hero": {
+    "headline": "Your Dream Outdoor Space <span class=\"text-secondary italic\">Starts Here</span>",
+    "subheadline": "From custom hardscapes to inground pools, New Outlook Landscaping transforms Harrisburg backyards into stunning retreats. 9 years of craftsmanship backed by 137 five-star reviews.",
+    "badges": [
+      "4.9 Stars on Google (137 Reviews)",
+      "BBB Accredited Business"
+    ],
+    "checkmarks": [
+      "Custom designs tailored to your property",
+      "On-time, reliable service guaranteed",
+      "Owner-involved on every project"
+    ],
+    "cta_text": "Get Your Free Design Consultation"
+  },
+  "stats": {
+    "stat_1_value": "9",
+    "stat_1_label": "Years Serving Central PA",
+    "stat_2_value": "137",
+    "stat_2_label": "Five-Star Google Reviews",
+    "stat_3_value": "500",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "headline": "Complete Outdoor Transformations",
+    "subtitle": "From weekly lawn care to custom pools and hardscapes, we handle every detail of your outdoor space.",
+    "cards": [
+      {
+        "title": "Custom Inground Pools",
+        "description": "Fiberglass pool installations designed to create your perfect backyard oasis for family enjoyment all summer long."
+      },
+      {
+        "title": "Hardscapes & Patios",
+        "description": "Custom stone patios, walkways, and retaining walls that add beauty and functionality to your outdoor living space."
+      },
+      {
+        "title": "Landscape Lighting",
+        "description": "Professional pathway, spot, and accent lighting that enhances safety and showcases your landscape after dark."
+      },
+      {
+        "title": "Water Features",
+        "description": "Customized fountains and water elements designed to bring tranquility and elegance to your property."
+      },
+      {
+        "title": "Lawn Maintenance",
+        "description": "Reliable weekly care including mowing, edging, fertilizing, and mulching to keep your lawn looking pristine year-round."
+      },
+      {
+        "title": "Seasonal Clean Ups",
+        "description": "Thorough spring and fall cleanups that prepare your landscape for the changing Pennsylvania seasons."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How Your Project Comes to Life",
+    "steps": [
+      {
+        "title": "Free Consultation",
+        "description": "Meet with Luke to discuss your vision, walk your property, and explore creative design options that fit your budget."
+      },
+      {
+        "title": "Custom Design & Proposal",
+        "description": "Receive a detailed plan with clear pricing, material selections, and a timeline so you know exactly what to expect."
+      },
+      {
+        "title": "Expert Installation",
+        "description": "Our skilled crew brings your design to life with attention to every detail, on time and built to last."
+      }
+    ]
+  },
+  "about": {
+    "label": "Locally Owned Since 2017",
+    "headline": "Harrisburg's Most Trusted Landscape Team",
+    "description": "Founded by Luke Hanmer in 2017, New Outlook Landscaping was built on a simple promise: treat every property like our own. We've grown from a one-man operation into Central PA's go-to team for everything from weekly lawn care to complete outdoor transformations. Our 4.9-star reputation comes from showing up on time, communicating clearly, and delivering craftsmanship that lasts.",
+    "badge": "137+ Five-Star Reviews",
+    "features": [
+      {
+        "title": "Owner-Involved Projects",
+        "description": "Luke personally oversees every project from design through completion, ensuring quality craftsmanship at every stage."
+      },
+      {
+        "title": "Unlock Authorized Contractor",
+        "description": "Certified and accredited professionals with the training and expertise to deliver outstanding results every time."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with our work? We will make it right at no additional cost. That is the New Outlook promise."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every project includes a detailed written proposal so you know exactly what you're getting before we start."
+  },
+  "guarantee": {
+    "headline": "Our Satisfaction Guarantee",
+    "description": "We stand behind every project we complete. If you're not thrilled with the results, we'll make it right at no additional cost. That's the New Outlook promise that's earned us 137 five-star reviews from homeowners across Central Pennsylvania."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve around Harrisburg?",
+      "answer": "We serve Harrisburg, Camp Hill, Hershey, Hummelstown, Mechanicsburg, and surrounding Central Pennsylvania communities within approximately 30 miles of our home base."
+    },
+    {
+      "question": "How long does a typical hardscape or patio project take?",
+      "answer": "Most patio and hardscape projects take 1-3 weeks depending on size and complexity. During your consultation, we'll provide a specific timeline so you can plan accordingly."
+    },
+    {
+      "question": "Do you offer financing for pool installations?",
+      "answer": "Yes, we work with financing partners to help make your dream pool affordable. We'll discuss all payment options during your free consultation."
+    },
+    {
+      "question": "Can I bundle lawn maintenance with a larger project?",
+      "answer": "Absolutely. Many of our clients start with a hardscape or pool project and add ongoing maintenance to keep everything looking its best year-round."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes, we are fully licensed, insured, and an Unlock Authorized Contractor. We're also a BBB Accredited Business and a member of the National Association of Landscape Professionals."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "AJ Dewey",
+      "text": "Professionals from top to bottom. My property has never looked so good! The attention to detail and communication throughout the project was outstanding.",
+      "context": "Landscaping Project",
+      "initials": "AD"
+    },
+    {
+      "name": "Bernie Carson",
+      "text": "True craftsmen with incredible attention to detail. Professional and just good people. Our hardscape turned out even better than we imagined.",
+      "context": "Hardscape Installation",
+      "initials": "BC"
+    },
+    {
+      "name": "Ginny McIlhenny",
+      "text": "If I had to use one word to describe New Outlook Landscaping, it would be Integrity. They do what they say and the results speak for themselves.",
+      "context": "General Landscaping",
+      "initials": "GM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your Outdoor Space?",
+    "subtitle": "Get a free consultation and see why 137 homeowners gave us five stars.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed written proposal within 48 hours",
+      "No pressure, no obligation"
+    ]
+  },
+  "footer": {
+    "description": "New Outlook Landscaping has been creating stunning outdoor spaces for Harrisburg-area homeowners since 2017. From custom pools to complete landscape transformations, we bring your vision to life.",
+    "service_area": "Serving Harrisburg, Camp Hill, Hershey, Hummelstown, Mechanicsburg, and surrounding Central PA communities.",
+    "services": [
+      "Custom Inground Pools",
+      "Hardscapes & Patios",
+      "Landscape Lighting",
+      "Lawn Maintenance",
+      "Snow Removal"
+    ],
+    "copyright": "New Outlook Landscaping. All rights reserved."
+  }
+}

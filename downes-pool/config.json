@@ -1,0 +1,184 @@
+{
+  "folder_name": "downes-pool",
+  "company_name": "Downes Swimming Pool Co",
+  "tagline": "Build Your Backyard Paradise",
+  "phone": "+1 847-398-7665",
+  "email": "info@downespool.com",
+  "logo_path": "logo.png",
+  "review_count": "38",
+  "review_rating": "3.6",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122843",
+    "primary_deeper": "#0c1d30",
+    "secondary": "#4a90d9",
+    "cta": "#d4a843",
+    "cta_dark": "#b8912e"
+  },
+  "trust_badges": {
+    "badge_1": "BBB A+ Rated",
+    "badge_2": "Family-Owned Since 1970",
+    "badge_3": "Free Consultations"
+  },
+  "hero": {
+    "badge_1": "BBB A+ Rated — Complaint-Free Since 2002",
+    "badge_2": "460+ Industry Awards",
+    "headline": "55 Years Building <span class=\"text-secondary italic\">Chicago's Finest Pools</span>",
+    "subheadline": "Since 1970, the Downes family has designed and built thousands of stunning pools across Northern Illinois. With 90+ employees, 40+ service vehicles, and over 460 industry awards, we deliver the craftsmanship and reliability your backyard deserves.",
+    "cta_text": "Start Your Backyard Transformation",
+    "checkmarks": [
+      "Free on-site design consultation",
+      "Factory-trained technicians on every job",
+      "Full-service from build through maintenance"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "55+",
+    "stat_1_label": "Years Serving Chicago Families",
+    "stat_2_value": "460+",
+    "stat_2_label": "Industry Awards Won",
+    "stat_3_value": "90+",
+    "stat_3_label": "Full-Time Team Members",
+    "stat_4_value": "40+",
+    "stat_4_label": "Dedicated Service Vehicles"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Complete Pool Solutions<br class=\"hidden md:block\">From Design to Decades of Care",
+    "subtitle": "From custom inground pools and spa installations to seasonal maintenance and emergency repairs, Downes Pool handles every aspect of pool ownership so you can simply enjoy the water.",
+    "cards": [
+      {
+        "title": "Pool Design & Construction",
+        "description": "Custom inground pools tailored to your property and lifestyle — freeform, geometric, or indoor designs brought to life by award-winning builders."
+      },
+      {
+        "title": "Pool & Spa Maintenance",
+        "description": "Customized maintenance programs with factory-trained technicians and 40+ service vehicles ensuring your pool stays crystal clear all season."
+      },
+      {
+        "title": "Pool Repairs & Restoration",
+        "description": "Expert diagnostics and repair for all pool systems, equipment, surfaces, and plumbing. We fix it right the first time so you are back in the water fast."
+      },
+      {
+        "title": "Automatic Pool Covers",
+        "description": "Professional installation and service of automatic pool covers for safety, energy savings, and effortless convenience every day."
+      },
+      {
+        "title": "Seasonal Opening & Closing",
+        "description": "Protect your investment through harsh Midwest winters with professional opening and closing services handled by experienced technicians."
+      },
+      {
+        "title": "Spas, Hot Tubs & Upgrades",
+        "description": "Design and installation of luxury spas, hot tubs, lighting, water features, and custom enhancements that elevate your entire backyard experience."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Pool",
+    "steps": [
+      {
+        "title": "Schedule a Free Consultation",
+        "description": "Call us or fill out our form. An award-winning designer visits your property, listens to your vision, and provides an honest, detailed proposal — no pressure, no obligation."
+      },
+      {
+        "title": "We Design and Build It Right",
+        "description": "Our 90+ person team handles every detail — permitting, excavation, plumbing, finishing. With 55 years of expertise and 460+ awards backing every decision, your pool is in the best hands in Chicago."
+      },
+      {
+        "title": "Enjoy It for Decades",
+        "description": "Dive into your finished backyard paradise. Our 40+ vehicle maintenance fleet keeps your pool pristine season after season, so all you have to do is relax and enjoy."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Chicago Families Trust Downes",
+    "headline": "Two Generations of Pool Excellence — One Family's Commitment to Yours",
+    "description": "Founded by Lou Downes in 1970 to fund his college education after serving in the Army, Downes Swimming Pool Co has grown into one of the Chicago area's premier pool companies. Now led by Mike Downes, the founder's son, the company operates with 90+ employees and 40+ dedicated service vehicles. For over 55 years, the Downes family has earned more than 460 industry awards — including 18 international honors — by treating every pool like it is their own. That is what second-generation family ownership looks like.",
+    "badge": "BBB A+ Rated Since 2002",
+    "features": [
+      {
+        "title": "460+ Awards, 18 International",
+        "description": "More industry awards than any pool company in the region. Our work has been recognized at local, national, and international levels for design excellence."
+      },
+      {
+        "title": "90+ Employees, 40+ Vehicles",
+        "description": "We are not a two-man crew. Our full-scale operation means faster response times, deeper expertise, and the capacity to handle any project."
+      },
+      {
+        "title": "Factory-Trained Technicians",
+        "description": "Every technician is factory-trained on the latest pool technology and equipment, ensuring your pool is serviced with precision and up-to-date knowledge."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Costs.",
+    "subtitle": "Every project receives a comprehensive, itemized estimate before work begins. We walk you through every detail so there are no surprises — just the pool you envisioned at the price we agreed on."
+  },
+  "guarantee": {
+    "headline": "The Downes Family Guarantee",
+    "description": "For over 55 years and two generations, the Downes name has stood for quality and accountability. If something is not right, call us directly and we will make it right — period. Our BBB A+ rating and complaint-free record since 2002 is not a marketing claim, it is how we operate every single day."
+  },
+  "faqs": [
+    {
+      "question": "How long does it take to build a custom inground pool?",
+      "answer": "Most custom inground pools take 8-12 weeks from groundbreaking to completion, depending on design complexity, weather, and permitting. Our 90+ person team and decades of experience help us keep projects on schedule and on budget."
+    },
+    {
+      "question": "What areas does Downes Pool serve?",
+      "answer": "We serve all of Northern Illinois including Arlington Heights, the Northshore suburbs, and the greater Chicago metropolitan area. We also serve Lake Geneva and parts of Southern Wisconsin."
+    },
+    {
+      "question": "Do you offer pool maintenance after construction?",
+      "answer": "Absolutely. We provide customized residential pool and spa maintenance programs with factory-trained technicians and 40+ dedicated service vehicles for rapid response throughout the season."
+    },
+    {
+      "question": "Can you install an automatic pool cover?",
+      "answer": "Yes, we are experienced installers and servicers of automatic pool covers. They provide safety for families with children, energy savings by reducing heat loss, and daily convenience — we handle the full installation and ongoing maintenance."
+    },
+    {
+      "question": "What makes Downes Pool different from other pool companies?",
+      "answer": "With 55+ years in business, 460+ industry awards including 18 international honors, 90+ employees, a BBB A+ complaint-free record, and second-generation family leadership, we bring a level of experience and accountability that most pool companies simply cannot match."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Traci H.",
+      "text": "You have completely changed my mind and won us over! Your team has been amazing to work with — professional, punctual and caring. We could not be happier with our new pool.",
+      "context": "Pool construction",
+      "initials": "TH"
+    },
+    {
+      "name": "Andrea T.",
+      "text": "Every single thing went smoothly. Follow up and attention to detail has been amazing. We LOVE our finished product and would recommend Downes to anyone.",
+      "context": "Pool installation",
+      "initials": "AT"
+    },
+    {
+      "name": "Lance P.",
+      "text": "Responsive, knowledgeable, good technicians, and reliable. I recommend them in the highest manner. Far superior to other pool companies we have worked with.",
+      "context": "Pool maintenance",
+      "initials": "LP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your Backyard Paradise?",
+    "subtitle": "Get a free, no-obligation consultation with the most awarded pool company in the Chicago area.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Detailed proposal within one week",
+      "No pressure, no obligation"
+    ]
+  },
+  "footer": {
+    "description": "Downes Swimming Pool Co has been designing, building, and maintaining pools across Northern Illinois since 1970. Two generations of family ownership, 460+ industry awards, and tens of thousands of satisfied customers.",
+    "service_area": "Serving Arlington Heights, Northshore suburbs, the greater Chicago metropolitan area, Lake Geneva, and Southern Wisconsin.",
+    "services": [
+      "Pool Design & Construction",
+      "Pool & Spa Maintenance",
+      "Pool Repairs",
+      "Automatic Pool Covers",
+      "Seasonal Opening & Closing"
+    ],
+    "copyright": "Downes Swimming Pool Co"
+  }
+}

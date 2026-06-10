@@ -1,11 +1,11 @@
 {
   "folder_name": "macs-place",
   "company_name": "Mac's Place",
-  "tagline": "A Private Club. For Members Only.",
-  "phone": "(801) 555-0199",
+  "tagline": "Kick Up Your Feet, Enjoy a Beverage, and Walk Out Sporting a Fresh Cut",
+  "phone": "(801) 555-0127",
   "email": "eric@macsplacelounge.com",
   "logo_path": "logo.png",
-  "review_count": "43",
+  "review_count": "85",
   "review_rating": "4.9",
   "colors": {
     "primary": "#1a1a1a",
@@ -13,59 +13,59 @@
     "primary_deeper": "#0a0a0a",
     "secondary": "#c9a96e",
     "cta": "#c9a96e",
-    "cta_dark": "#a8873f"
+    "cta_dark": "#b08f55"
   },
   "hero": {
-    "headline": "Where Gentlemen <span class=\"text-secondary italic\">Belong</span>",
-    "subheadline": "Salt Lake City's most exclusive members-only club. Limited to 300 members who enjoy unlimited barber services, massages, shoe shines, and a private lounge surrounded by authentic Western antiques.",
+    "headline": "Your Private Retreat for <span class=\"text-secondary italic\">Distinguished Grooming</span>",
+    "subheadline": "Salt Lake City's exclusive members-only barbershop and social club. Kick back with a beverage, enjoy vinyl music, and leave looking your absolute best.",
     "badges": [
-      "4.9 Stars on Google (43 Reviews)",
-      "Exclusive Members-Only Since 2019"
+      "4.9 Stars - 85 Reviews",
+      "Private Members Club Since 2019"
     ],
     "checkmarks": [
-      "Unlimited monthly visits for all services",
-      "Only 300 membership slots available",
-      "All-in-one grooming & social destination"
+      "Expert barbers, massage therapists & skin care specialists",
+      "Vintage curated lounge with complimentary amenities",
+      "Exclusive membership community in SLC"
     ],
-    "cta_text": "Inquire About Membership"
+    "cta_text": "Become a Member"
   },
   "stats": {
-    "stat_1_value": "300",
-    "stat_1_label": "Maximum Members",
-    "stat_2_value": "7",
-    "stat_2_label": "Years Exclusive",
-    "stat_3_value": "43",
-    "stat_3_label": "Five-Star Reviews",
-    "stat_4_value": "Unlimited",
-    "stat_4_label": "Monthly Visits"
+    "stat_1_value": "7",
+    "stat_1_label": "Years Serving SLC",
+    "stat_2_value": "85",
+    "stat_2_label": "5-Star Reviews",
+    "stat_3_value": "7",
+    "stat_3_label": "Skilled Professionals",
+    "stat_4_value": "100%",
+    "stat_4_label": "Members-Only Experience"
   },
   "services": {
-    "headline": "The Full Member Experience",
-    "subtitle": "Every service included with your membership. No add-on fees. No limits.",
+    "headline": "Everything a Gentleman Needs",
+    "subtitle": "Full-service grooming, relaxation, and social amenities under one roof \u2014 all included with your membership.",
     "cards": [
       {
-        "title": "Premium Barber Services",
-        "description": "Haircuts, steam towels, and straight razor shaves from top-tier barbers in an authentic 1930s-1940s atmosphere."
+        "title": "Barber Services",
+        "description": "Expert haircuts, hot towel shaves, and precision grooming from skilled barbers who take pride in classic technique and modern style."
       },
       {
-        "title": "Chair Massage",
-        "description": "Rejuvenating massages from skilled therapists. Walk in anytime during club hours for unlimited monthly sessions."
+        "title": "Massage Therapy",
+        "description": "Licensed massage therapists provide rejuvenating treatments to help you unwind, recover, and leave feeling completely renewed."
       },
       {
-        "title": "Professional Shoe Shines",
-        "description": "Keep your shoes looking impeccable with our on-site shine service, available every visit at no extra charge."
+        "title": "Skin Care",
+        "description": "Professional skin care treatments tailored to keep you looking sharp and feeling confident every day."
       },
       {
-        "title": "Private Lounge Access",
-        "description": "Leather Chesterfield sofas, vinyl music, Western antiques, and premium beverages in an exclusive gathering space."
+        "title": "Haberdasher",
+        "description": "Curated accessories and fine haberdashery items for the well-dressed gentleman, available exclusively to members."
       },
       {
-        "title": "Conference Room",
-        "description": "A private business meeting room for members. Host clients, close deals, or work remotely in distinguished surroundings."
+        "title": "Private Conference Room",
+        "description": "Complimentary one-hour bookings for members who need a private, professional space for meetings and calls."
       },
       {
-        "title": "Skin Care & Grooming",
-        "description": "Professional skin care treatments and haberdasher consultations to keep the modern gentleman looking refined."
+        "title": "Penthouse Venue",
+        "description": "An exclusive penthouse space available for private events, celebrations, and special gatherings with your crew."
       }
     ]
   },
@@ -73,107 +73,107 @@
     "headline": "How Membership Works",
     "steps": [
       {
-        "title": "Get Referred",
-        "description": "Membership grows exclusively through word-of-mouth. Receive a referral from a current member or inquire directly."
+        "title": "Apply for Membership",
+        "description": "Submit your application and get approved to join Salt Lake City's most exclusive private club."
       },
       {
-        "title": "Secure Your Slot",
-        "description": "With only 300 slots available, we review each application to maintain our exclusive community standards."
+        "title": "Book Your Services",
+        "description": "Schedule barber appointments, massages, skin care, or reserve the conference room and penthouse at your convenience."
       },
       {
-        "title": "Enjoy Unlimited Access",
-        "description": "Once approved, visit as often as you like. All services \u2014 barber, massage, shoe shine, lounge \u2014 are included."
+        "title": "Enjoy the Experience",
+        "description": "Walk in, kick up your feet, enjoy a beverage, connect with fellow members, and leave looking and feeling your best."
       }
     ]
   },
   "about": {
     "label": "About Mac's Place",
-    "headline": "Salt Lake City's Best-Kept Secret Since 2019",
-    "description": "Mac's Place is an exclusive members-only city club offering a refined gathering place where gentlemen enjoy beverages, socialize, receive haircuts and shaves, and listen to vinyl music. Every corner is sprawling with Western antiques: vintage Harley-Davidson signs, leather Chesterfield sofas, and a cowboy bar built in 1901. Founded in 2019, membership has grown entirely through word-of-mouth \u2014 no marketing, no advertising. Just an experience worth talking about.",
-    "badge": "Limited to 300 Members",
+    "headline": "A Private Club Salt Lake City Has Been Missing",
+    "description": "Founded in 2019 in the Rio Grande neighborhood, Mac's Place is more than a barbershop \u2014 it's a private social club where members enjoy top-tier grooming, vinyl music, vintage decor, and genuine camaraderie. We cater to those who desire the best of the best in a relaxed, exclusive atmosphere.",
+    "badge": "Est. 2019 - Salt Lake City, UT",
     "features": [
       {
-        "title": "Word-of-Mouth Only",
-        "description": "Membership has grown entirely through personal referrals since 2019. No marketing, no advertising \u2014 just an experience worth sharing."
+        "title": "Members-Only Access",
+        "description": "Exclusive community benefits with private club access reserved for approved members only."
       },
       {
-        "title": "Authentic Western Antiques",
-        "description": "Every corner features genuine 1930s-1940s pieces: vintage Harley signs, leather Chesterfields, and a cowboy bar built in 1901."
+        "title": "Team of 7 Professionals",
+        "description": "Skilled barbers, licensed massage therapists, and skin care specialists dedicated to your experience."
       },
       {
-        "title": "Hand-Picked Staff",
-        "description": "The owner personally recruits every barber, massage therapist, and team member to ensure only top-tier talent serves our members."
+        "title": "Vintage Curated Atmosphere",
+        "description": "Vinyl music, carefully curated decor, and complimentary beverages create the perfect environment to unwind."
       }
     ]
   },
   "pricing": {
-    "headline": "One Membership. Everything Included.",
-    "subtitle": "No per-visit fees. No service add-ons. Unlimited access to every amenity, every month."
+    "headline": "Invest in Your Experience",
+    "subtitle": "Membership gives you access to all services, amenities, and the exclusive Mac's Place community. Contact us for current membership rates and availability."
   },
   "guarantee": {
     "headline": "The Mac's Place Promise",
-    "description": "We built this club for gentlemen who demand the best. If at any point your membership experience does not exceed your expectations, speak directly with our team. We personally ensure every member feels the value from day one."
+    "description": "Every visit should leave you feeling like the best version of yourself. If your experience doesn't meet expectations, our team will make it right \u2014 no questions asked. That's the standard we hold ourselves to."
   },
   "faqs": [
     {
       "question": "How do I become a member?",
-      "answer": "Membership is primarily through word-of-mouth referrals from existing members. You may also inquire directly \u2014 we review each application to ensure the right fit for our community."
+      "answer": "You can apply for membership through our website or by visiting Mac's Place in person. Our team will walk you through the process and benefits of joining our private club."
     },
     {
-      "question": "What is included with membership?",
-      "answer": "Everything. Unlimited haircuts, straight razor shaves, steam towels, massages, shoe shines, skin care, lounge access, conference room use, and beverages are all included in your monthly membership."
+      "question": "What's included with membership?",
+      "answer": "Membership includes access to all grooming services (barber, massage, skin care), the private lounge, complimentary conference room bookings, beverages, and exclusive community events."
     },
     {
-      "question": "How often can I visit?",
-      "answer": "As often as you like. There are no limits on monthly visits. Many members come weekly for barber services and drop by the lounge even more frequently."
+      "question": "Do I need an appointment?",
+      "answer": "We recommend booking appointments for barber services and massages to guarantee your preferred time. Walk-ins are welcome for lounge access and the haberdasher."
     },
     {
-      "question": "Are there really only 300 membership slots?",
-      "answer": "Yes. We intentionally cap membership at 300 to maintain our exclusive atmosphere and ensure every member receives personalized, unhurried service."
+      "question": "Where is Mac's Place located?",
+      "answer": "We're located in the Rio Grande neighborhood of Salt Lake City, Utah. Contact us for the exact address and directions \u2014 we keep things exclusive."
     },
     {
-      "question": "Can I bring a guest?",
-      "answer": "Members may bring guests on select occasions. This is a private club, so guest policies are designed to preserve the exclusive experience for all members."
+      "question": "Can I host a private event?",
+      "answer": "Absolutely. Our penthouse venue is available for private events, celebrations, and gatherings. Reach out to our team to discuss availability and details for your occasion."
     }
   ],
   "testimonials": [
     {
-      "name": "Verified Member",
-      "text": "Mac's Place provides something that Salt Lake has been missing but needed for years - a private club that caters to those who desire the best of the best. The owner seeks out and hires the top barbers, massage therapists, and staff.",
+      "name": "Local Member",
+      "text": "The most chill people and place in SLC. Mac's Place provides something that Salt Lake has been missing but needed for years \u2014 a private club that caters to those who desire the best of the best.",
       "context": "Google Review",
-      "initials": "VM"
+      "initials": "LM"
     },
     {
       "name": "Club Member",
-      "text": "The attention to detail in service and decor, coupled with the warm hospitality from the staff, makes Mac's Place a hidden gem in the city. More than just a barbershop, it is a community hub that celebrates quality, comfort, and camaraderie.",
-      "context": "Online Review",
+      "text": "A unique oasis in Salt Lake City combining an inviting barbershop atmosphere with exclusive membership benefits. The skilled barbers and massage therapists ensure every visit leaves you feeling revitalized.",
+      "context": "Google Review",
       "initials": "CM"
     },
     {
-      "name": "Loyal Member",
-      "text": "You can get a haircut, steam towel, straight razor shave, massage and a shoe shine all in one visit. As a member, you can go as many times a month as you want and all the services are included. The atmosphere is unmatched.",
-      "context": "Member Testimonial",
-      "initials": "LM"
+      "name": "Regular Patron",
+      "text": "The blend of style and comfort with captivating decor that reflects decades of carefully curated vintage charm. Top-notch services including exceptional haircuts, rejuvenating massages, and shoe shines.",
+      "context": "Online Review",
+      "initials": "RP"
     }
   ],
   "contact": {
-    "headline": "Inquire About Membership",
-    "subtitle": "Slots are limited. Reach out to learn how to join Salt Lake City's most exclusive private club.",
+    "headline": "Ready to Join the Club?",
+    "subtitle": "Apply for membership or schedule a visit to experience what makes Mac's Place unlike anything else in Salt Lake City.",
     "benefits": [
-      "Discreet, no-pressure conversation about membership",
-      "Learn about current availability and referral process",
-      "Tour the club by appointment"
+      "Exclusive members-only access to all services",
+      "Private lounge with beverages and vinyl music",
+      "Join a community of like-minded gentlemen"
     ]
   },
   "footer": {
-    "description": "Mac's Place is Salt Lake City's premier members-only private club, offering unlimited grooming services, a refined lounge, and an exclusive community since 2019.",
-    "service_area": "Salt Lake City, Utah",
+    "description": "Mac's Place is Salt Lake City's premier private members-only barbershop and social club, offering top-tier grooming, relaxation, and community since 2019.",
+    "service_area": "Salt Lake City, UT and surrounding areas",
     "service_links": [
       "Barber Services",
-      "Chair Massage",
-      "Shoe Shines",
-      "Private Lounge",
-      "Conference Room"
+      "Massage Therapy",
+      "Skin Care",
+      "Private Conference Room",
+      "Penthouse Venue"
     ],
     "copyright": "Mac's Place. All rights reserved."
   }

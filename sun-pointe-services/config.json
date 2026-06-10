@@ -1,0 +1,179 @@
+{
+  "folder_name": "sun-pointe-services",
+  "company_name": "Sun Pointe Services",
+  "tagline": "Making pools sparkle since 1980",
+  "phone": "+1 925-724-7669",
+  "email": "pools@sunpointeservices.com",
+  "review_count": "37",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#142D48",
+    "primary_deeper": "#0E2035",
+    "secondary": "#4A90D9",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "hero": {
+    "headline": "46 Years of Family-Trusted <span class=\"text-secondary italic\">Pool Expertise</span>",
+    "subheadline": "Three generations of the Yecny family have dedicated their lives to building, maintaining, and perfecting pools across the Bay Area. From routine cleaning to ground-up construction, Sun Pointe handles every aspect of pool care under one roof.",
+    "badges": [
+      "Certified Pool Operators (CPO)",
+      "California Licensed Contractor"
+    ],
+    "checkmarks": [
+      "Service, Repairs & Construction — all in-house",
+      "Authorized warranty station for major brands",
+      "Serving Bay Area & San Luis Obispo since 1980"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "46",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "2",
+    "stat_2_label": "Locations Serving CA",
+    "stat_3_value": "37",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "headline": "Complete Pool & Spa Solutions",
+    "subtitle": "Three divisions working together so you never have to juggle multiple contractors again.",
+    "cards": [
+      {
+        "title": "Pool & Spa Maintenance",
+        "description": "Weekly cleaning, chemical balancing, filter care, and seasonal prep — keeping your water crystal clear year-round without you lifting a finger."
+      },
+      {
+        "title": "Pool Construction & Remodels",
+        "description": "Custom pool builds, complete remodels, and replastering by our dedicated construction division. We turn backyard dreams into reality."
+      },
+      {
+        "title": "Pool Deck Overlays",
+        "description": "Restore cracked, faded, or slippery pool decks with durable overlay solutions that boost curb appeal and safety."
+      },
+      {
+        "title": "Equipment Services",
+        "description": "Pumps, heaters, filters, salt systems, and solar collectors — installed, repaired, and backed by factory-authorized warranty service."
+      },
+      {
+        "title": "Mechanical, Electrical & Plumbing",
+        "description": "Full MEP work for pools and spas, from hot tub wiring to plumbing overhauls. Licensed, insured, and done right the first time."
+      },
+      {
+        "title": "VGB Compliance & Safety",
+        "description": "Federal safety drain cover installation and replacement to protect swimmers from entrapment hazards. Stay compliant and keep your family safe."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Visit",
+        "description": "Reach out by phone or email. We'll schedule a convenient time to inspect your pool and discuss your needs."
+      },
+      {
+        "title": "Get a Transparent Plan",
+        "description": "Our team evaluates your pool, explains every finding, and provides an honest quote — no upsells, no surprises."
+      },
+      {
+        "title": "Enjoy Your Pool",
+        "description": "We handle the work with the care of a family business that's been doing this for 46 years. You just relax and swim."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Sun Pointe Services",
+    "headline": "A Family Legacy Built on Trust",
+    "description": "Founded in 1980 by Ken Yecny, Sun Pointe Services is now proudly run by his sons Phil, Eric, and Jason. What started as one man's passion for pool care has grown into a full-service operation with three divisions — Service, Repairs & Installs, and Construction — serving the Bay Area from Livermore and the Central Coast from San Luis Obispo. We hold CPO certifications, National Plasterers Council credentials, and serve as an authorized warranty station for major equipment manufacturers. When you hire Sun Pointe, you're hiring a family that stakes its 46-year reputation on every job.",
+    "badge": "Family-Owned Since 1980",
+    "features": [
+      {
+        "title": "Second-Generation Family Ownership",
+        "description": "Phil, Eric, and Jason Yecny carry on the legacy their father Ken started in 1980 — bringing decades of hands-on expertise to every job."
+      },
+      {
+        "title": "CPO & National Plasterers Council Certified",
+        "description": "Our team holds industry-leading certifications so you can trust the quality and safety of every service we provide."
+      },
+      {
+        "title": "Two Locations Across California",
+        "description": "We serve the Bay Area from Livermore and the Central Coast from San Luis Obispo — bringing family-quality pool care to more communities."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing, No Hidden Fees",
+    "subtitle": "Every pool is different, so we tailor our plans to your exact needs. Request a quote and we'll walk you through every line item."
+  },
+  "guarantee": {
+    "headline": "The Sun Pointe Family Promise",
+    "description": "We treat every pool like it's our own. If you're not completely satisfied with our work, we'll come back and make it right — no questions asked. With 46 years and a family name on the line, we don't cut corners."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the greater Bay Area from our Livermore headquarters — including Tracy, Pleasanton, Dublin, Walnut Creek, Concord, San Jose, and surrounding counties — plus the Central Coast from our San Luis Obispo location covering Atascadero and nearby communities."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We hold California Contractor License #1033996 with C53, C61, and D35 classifications. We're also CPO certified through the Pool and Hot Tub Alliance and certified by the National Plasterers Council."
+    },
+    {
+      "question": "Can you handle both maintenance and construction?",
+      "answer": "Absolutely. Our three integrated divisions — Service, Repairs & Installs, and Construction — let us handle everything from weekly cleaning to full pool builds, all under one company."
+    },
+    {
+      "question": "Do you service pool equipment warranties?",
+      "answer": "Yes, we're an authorized warranty service station for major pool equipment brands. We can diagnose, repair, and replace equipment under manufacturer warranty coverage."
+    },
+    {
+      "question": "How long has Sun Pointe been in business?",
+      "answer": "Sun Pointe was founded in 1980 by Ken Yecny — that's over 46 years of continuous pool service. Today, his sons Phil, Eric, and Jason carry on the family tradition with the same hands-on dedication."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David L.",
+      "text": "Outstanding service for installing a salt system for my pool. They also repaired my solar collector that saved me $700.",
+      "context": "Salt system installation & solar repair",
+      "initials": "DL"
+    },
+    {
+      "name": "Diana C.",
+      "text": "Communication is accessible and reliable and we don't feel abandoned after the job. Cannot say enough good things about them!",
+      "context": "Ongoing pool service",
+      "initials": "DC"
+    },
+    {
+      "name": "Zoe",
+      "text": "Very knowledgeable and experienced staff. They diagnosed and fixed the ongoing issues with my pool that others couldn't solve.",
+      "context": "Pool repair & diagnostics",
+      "initials": "ZO"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Talk About Your Pool",
+    "subtitle": "Whether it's a quick repair or a brand-new build, the Yecny family is ready to help.",
+    "benefits": [
+      "Free on-site assessments for new customers",
+      "Flexible scheduling — evenings and weekends available",
+      "Honest advice from a family that's been in pools since 1980"
+    ]
+  },
+  "footer": {
+    "description": "Sun Pointe Services is a family-owned pool and spa company serving the Bay Area and Central Coast since 1980. Licensed, certified, and committed to making your pool sparkle.",
+    "service_area": "Livermore, Tracy, Pleasanton, Dublin, Walnut Creek, Concord, San Jose, San Leandro, Castro Valley, San Rafael, Napa County, Alameda County, San Mateo County, Contra Costa County, San Luis Obispo & Atascadero",
+    "service_links": [
+      "Pool & Spa Maintenance",
+      "Pool Construction",
+      "Deck Overlays",
+      "Equipment Services",
+      "VGB Compliance"
+    ],
+    "copyright": "Sun Pointe Services, LLC. All rights reserved. CA License #1033996"
+  }
+}

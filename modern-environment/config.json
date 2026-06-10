@@ -1,0 +1,184 @@
+{
+  "folder_name": "modern-environment",
+  "company_name": "Modern Environment Luxury Pools & Landscapes",
+  "tagline": "Trusted for Taste — Defined by Intention",
+  "phone": "+1 405-601-5001",
+  "email": "harvey@modernscapes.co",
+  "logo_path": "logo.png",
+  "review_count": "27",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#4a6741",
+    "primary_dark": "#1a1a1a",
+    "primary_deeper": "#111111",
+    "secondary": "#c9a84c",
+    "cta": "#c9a84c",
+    "cta_dark": "#b08f3a"
+  },
+  "trust_badges": {
+    "badge_1": "BBB Accredited Business",
+    "badge_2": "5.0/5 from 27 Google Reviews",
+    "badge_3": "Financing Available"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 27 Google Reviews",
+    "badge_2": "19 Years of Excellence",
+    "headline": "Your Outdoor Vision, <span class=\"text-secondary italic\">Flawlessly<br>Brought to Life</span>",
+    "subheadline": "You deserve an outdoor space that feels like it was always meant to be there. Modern Environment handles every detail — pools, landscapes, hardscapes, and lighting — so you get the backyard of your dreams without the stress of managing it yourself.",
+    "cta_text": "Start Your Transformation",
+    "checkmarks": [
+      "Free design consultation",
+      "Full-service outdoor living",
+      "Turnkey project execution"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "19",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "50",
+    "stat_3_label": "Years Combined Expertise",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\">Under One Roof",
+    "subtitle": "From custom pools to landscape lighting, we design, build, and maintain every element of your outdoor space. One team, one vision, zero headaches.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "Luxury pools tailored to your property, lifestyle, and aesthetic. From concept sketches to the first splash, we build backyard retreats that turn heads."
+      },
+      {
+        "title": "Landscape Architecture",
+        "description": "Timeless landscape designs for homes and businesses — full installation with expert attention to curb appeal, drainage, and long-term sustainability."
+      },
+      {
+        "title": "Outdoor Kitchens & Fire Features",
+        "description": "Custom cooking areas, fireplaces, and fire pits that make your backyard the go-to gathering spot for family and friends year-round."
+      },
+      {
+        "title": "Deck & Patio Hardscaping",
+        "description": "Durable, beautiful surfaces that extend your living space outdoors. Stone, flagstone, and custom hardscape designs built to last decades."
+      },
+      {
+        "title": "Pergolas & Shade Structures",
+        "description": "Architectural pergola installations that add elegance, comfort, and usable shade to any outdoor area. Custom-designed for your space."
+      },
+      {
+        "title": "Pool Service & Maintenance",
+        "description": "Keep your investment in pristine condition year-round with our professional pool maintenance, cleaning, and equipment care services."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Outdoor Space",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your property and what you envision. We schedule a free on-site consultation to discuss possibilities, budget, and timeline — no pressure, no obligation."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our design team creates a custom plan you will love. Once approved, our experienced crews handle everything — coordinated, on-schedule, and built to last."
+      },
+      {
+        "title": "Live in Your New Space",
+        "description": "Your outdoor living area is complete and ready to enjoy. We stand behind every project and offer ongoing maintenance to keep it looking its best for years to come."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why OKC Homeowners Choose Us",
+    "headline": "Not Just Contractors — Your Outdoor Living Partners",
+    "description": "Founded by Harvey Cobbs in 2007, Modern Environment brings together a team with over 50 years of combined experience in landscape architecture and design. We take on the burden of managing complex outdoor projects so you can focus on enjoying the result. Every space we create is unmistakably yours — designed with intention, built with precision, and delivered turnkey.",
+    "badge": "BBB Accredited",
+    "features": [
+      {
+        "title": "Design-First Philosophy",
+        "description": "Every project starts with collaborative design. We work closely with you through interactive planning to ensure the final result matches your vision exactly."
+      },
+      {
+        "title": "Turnkey Project Execution",
+        "description": "One coordinated team handles your entire project from design through completion. No juggling subcontractors, no miscommunication, no stress."
+      },
+      {
+        "title": "Owner-Operated Excellence",
+        "description": "Harvey, Jacob, and Clark are personally involved in every project. When you hire Modern Environment, you get the owners — not just a crew."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Financing Available.",
+    "subtitle": "Every project is custom-quoted to your property and vision. Flexible financing through HFS Financial makes your dream outdoor space affordable."
+  },
+  "guarantee": {
+    "headline": "Our \"Built to Last\" Promise",
+    "description": "We stand behind every project we complete. If any element of our work does not meet the standard we promised, we come back and make it right at no additional cost. Our 5.0 Google rating is not an accident — it is the result of treating every client's home like our own."
+  },
+  "faqs": [
+    {
+      "question": "How long does a typical pool or landscape project take?",
+      "answer": "Timelines vary by scope, but most landscape projects take 1-3 weeks and custom pool builds run 8-14 weeks. We provide a detailed timeline during your consultation and keep you updated at every milestone."
+    },
+    {
+      "question": "Do you offer financing options?",
+      "answer": "Yes! We partner with HFS Financial to offer flexible financing options that make your outdoor living project affordable. Ask us about monthly payment plans during your free consultation."
+    },
+    {
+      "question": "Can you handle my entire outdoor project — pool, landscaping, and hardscaping?",
+      "answer": "Absolutely. That is what sets us apart. We are a full-service outdoor living company. One team coordinates your pool, landscaping, hardscaping, lighting, and more — so everything is designed and built cohesively."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the entire Oklahoma City metro area, and we are expanding to Tulsa soon. If you are in the OKC region, give us a call — we are likely already working in your neighborhood."
+    },
+    {
+      "question": "Do you provide ongoing maintenance after the project is complete?",
+      "answer": "Yes. We offer pool service, lawn care, and landscape maintenance to keep your outdoor space looking its best year-round. Many clients choose ongoing care so their investment stays pristine."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jake's Client",
+      "context": "Backyard landscape transformation",
+      "initials": "JC",
+      "text": "Jake and his crew were very professional and did an amazing job. In one week they turned my backyard from a pile of dirt to an amazing space. I'm very happy and will hire them again in the future to do my front yard."
+    },
+    {
+      "name": "OKC Homeowner",
+      "context": "Full outdoor living project",
+      "initials": "OH",
+      "text": "Modern Environment delivered exactly what we envisioned for our outdoor space. Their attention to detail and professionalism made the entire process stress-free from start to finish."
+    },
+    {
+      "name": "Satisfied Client",
+      "context": "Landscape design and installation",
+      "initials": "SC",
+      "text": "Highly recommend Modern Environment for all of your design and landscape needs! They took our ideas and turned them into something even better than we imagined. Top-notch team."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free, no-obligation design consultation. We will visit your property, discuss your vision, and provide an honest quote — no pressure, no surprises.",
+    "benefits": [
+      "Free on-site design consultation",
+      "Custom quote within 48 hours",
+      "Financing options available"
+    ]
+  },
+  "footer": {
+    "description": "Oklahoma City's trusted outdoor living company. Designing and building dream spaces since 2007.",
+    "service_area": "Serving the Oklahoma City Metro Area",
+    "services": [
+      "Custom Pools",
+      "Landscape Design",
+      "Outdoor Kitchens",
+      "Hardscaping",
+      "Pool Maintenance"
+    ],
+    "copyright": "&copy; 2024 Modern Environment Luxury Pools & Landscapes. All rights reserved. Oklahoma City, OK"
+  }
+}

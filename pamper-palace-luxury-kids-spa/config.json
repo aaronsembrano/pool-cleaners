@@ -1,0 +1,184 @@
+{
+  "folder_name": "pamper-palace-luxury-kids-spa",
+  "company_name": "The Pamper Palace Luxury Kids Spa",
+  "tagline": "Luxurious pampering awaits your princess at the Pamper Palace Luxury Kids Spa!",
+  "phone": "(352) 512-5067",
+  "email": "kierra.anderson@pamperpalacekidsspa.com",
+  "logo_path": "logo.png",
+  "review_count": "45",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#E91E8C",
+    "primary_dark": "#B5156D",
+    "primary_deeper": "#8A0F53",
+    "secondary": "#9B59B6",
+    "cta": "#E91E8C",
+    "cta_dark": "#B5156D"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Kids Spa",
+    "badge_2": "5.0/5 from 45+ Reviews",
+    "badge_3": "Non-Toxic Products Only"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 45+ Google Reviews",
+    "badge_2": "Ocala, Orlando & Mobile Spa Bus",
+    "headline": "Every Girl Deserves to Feel <span class=\"text-secondary italic\">Like Royalty</span>",
+    "subheadline": "The Pamper Palace is Central Florida's premier luxury spa designed exclusively for girls, tweens, and teens. Birthday parties, special occasions, or just-because pampering — we create magical moments she'll never forget.",
+    "cta_text": "Book Her Spa Experience",
+    "checkmarks": [
+      "Non-toxic, kid-safe products",
+      "Mobile spa bus available",
+      "Birthday packages from A to Z"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Princesses Pampered",
+    "stat_2_value": "3",
+    "stat_2_label": "Years of Magic",
+    "stat_3_value": "200",
+    "stat_3_label": "Parties Hosted",
+    "stat_4_value": "100%",
+    "stat_4_label": "5-Star Experience"
+  },
+  "services": {
+    "label": "Our Spa Services",
+    "headline": "Luxury Spa Experiences Designed<br class=\"hidden md:block\"> Just for Her",
+    "subtitle": "From manicures to makeovers, every service is age-appropriate, uses non-toxic products, and makes your girl feel like the princess she is.",
+    "cards": [
+      {
+        "title": "Kids Manicures & Pedicures",
+        "description": "Age-appropriate nail services including polish, nail art, and hand and feet massages designed to make young girls feel like royalty in a safe, fun environment."
+      },
+      {
+        "title": "Kids Facials",
+        "description": "Gentle, kid-friendly facial treatments using non-toxic products that teach young girls about skincare while providing a truly relaxing spa experience."
+      },
+      {
+        "title": "Hair Glam & Styling",
+        "description": "Professional hair styling for girls, tweens, and teens including braids, updos, and glamorous styles perfect for special occasions and party-ready looks."
+      },
+      {
+        "title": "Makeup Application",
+        "description": "Age-appropriate makeup services for tweens and teens, perfect for special events, photoshoots, pageants, and milestone celebrations."
+      },
+      {
+        "title": "Birthday Party Packages",
+        "description": "Complete birthday celebration packages including spa treatments, decorations, an ice cream bar, and personalized attention to make every birthday girl feel like a princess."
+      },
+      {
+        "title": "Mobile Spa Bus",
+        "description": "Our fully-equipped luxury mobile spa brings the complete Pamper Palace experience directly to your location for parties, events, and special occasions anywhere in Central Florida."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Her Dream Spa Day",
+    "steps": [
+      {
+        "title": "Choose Her Experience",
+        "description": "Browse our spa packages or tell us about her special occasion. We'll help you pick the perfect pampering experience — at our spa or on our mobile bus."
+      },
+      {
+        "title": "We Create the Magic",
+        "description": "Our trained, kid-friendly staff sets up a beautiful, luxurious spa environment with non-toxic products, decorations, and all the extras that make it unforgettable."
+      },
+      {
+        "title": "She Feels Like Royalty",
+        "description": "Watch her light up as she's pampered head to toe. From the moment she walks in to her final sparkle, every girl leaves feeling like the princess she truly is."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Families Choose Us",
+    "headline": "More Than a Spa — A Magical Experience for Your Girl",
+    "description": "Founded by Kierra Anderson, a former Miss Florida Gator and local real estate agent, The Pamper Palace was born from a desire to give young girls the same luxury spa experience available at high-end adult boutiques. With locations in Ocala and Orlando plus a mobile spa bus, we create safe, glamorous environments where girls can celebrate birthdays, graduations, and every milestone in between. Every product we use is gluten-free and non-toxic — because your daughter deserves the very best.",
+    "badge": "Child-Safe Certified",
+    "features": [
+      {
+        "title": "100% Non-Toxic Products",
+        "description": "Every product in our spa is gluten-free, non-toxic, and specifically selected to be safe and gentle for young skin."
+      },
+      {
+        "title": "Mobile Spa Bus Available",
+        "description": "Can't come to us? Our luxury mobile spa bus brings the full Pamper Palace experience to your home, school, or event venue."
+      },
+      {
+        "title": "Every Detail Handled",
+        "description": "From decorations to ice cream bars, we plan every element of her special day so you can relax and enjoy watching her smile."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Spa Packages for Every Princess",
+    "subtitle": "Choose the perfect pampering experience. Individual services, group packages, and custom party options available."
+  },
+  "guarantee": {
+    "headline": "Our \"Princess Promise\" Guarantee",
+    "description": "If your daughter doesn't leave feeling like royalty, we'll make it right. Every visit is backed by our promise that she'll have the time of her life — or we'll go above and beyond until she does."
+  },
+  "faqs": [
+    {
+      "question": "What ages do you serve at The Pamper Palace?",
+      "answer": "We specialize in spa services for girls, tweens, and teens — typically ages 4 through 17. Our services and products are carefully selected to be age-appropriate, safe, and fun for every age group."
+    },
+    {
+      "question": "How do birthday party packages work?",
+      "answer": "Our birthday packages include spa treatments, decorations, an ice cream bar, and personalized attention for the birthday girl and her guests. We handle every detail so you can relax and enjoy the celebration. Just tell us your guest count and we'll customize the perfect party."
+    },
+    {
+      "question": "Are your products safe for kids with allergies?",
+      "answer": "Yes! All of our bath and beauty products are gluten-free and non-toxic. We take allergies seriously and always ask about sensitivities before any treatment. If your child has specific allergies, let us know when booking and we'll accommodate."
+    },
+    {
+      "question": "How far does the mobile spa bus travel?",
+      "answer": "Our mobile spa bus serves Ocala, Orlando, Gainesville, and the greater Central Florida area. We bring the full luxury Pamper Palace experience to your home, school, church, or event venue. Contact us for availability in your area."
+    },
+    {
+      "question": "Do you serve boys or is it girls only?",
+      "answer": "The Pamper Palace is designed exclusively for girls, tweens, and teens. Our entire environment — from the decor to the products to the music — is crafted to make young girls feel like princesses. It's a special space just for them."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Birthday Party Parent",
+      "context": "Birthday celebration",
+      "initials": "BP",
+      "text": "My daughter was greeted like a mini celebrity and pampered and given the full spa treatment that you would expect at a 5 star resort. This completely blew my expectations out of the water!"
+    },
+    {
+      "name": "Happy Mom",
+      "context": "Special occasion visit",
+      "initials": "HM",
+      "text": "The staff went above and beyond to make my girls feel like little princesses. My daughter said Mommy this has been the best day ever! Every single detail was perfectly planned out."
+    },
+    {
+      "name": "Satisfied Customer",
+      "context": "First-time visit",
+      "initials": "SC",
+      "text": "The place is GORGEOUS and the staff members are extremely kind, patient, fun and talented. Even my shy and anxious child was all smiles by the end and had a great time."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Make Her<br>Feel Like a Princess?",
+    "subtitle": "Book her spa experience today. Whether it's a birthday party, special occasion, or just-because pampering — we'll create a magical day she'll talk about forever.",
+    "benefits": [
+      "Custom packages for any occasion",
+      "Mobile spa bus or in-spa visits",
+      "Response within 24 hours"
+    ]
+  },
+  "footer": {
+    "description": "Central Florida's premier luxury spa for girls, tweens, and teens. Ocala & Orlando locations plus mobile spa bus.",
+    "service_area": "Serving Ocala, Orlando, Gainesville & Central Florida",
+    "services": [
+      "Kids Manicures & Pedicures",
+      "Kids Facials",
+      "Hair Glam & Styling",
+      "Birthday Party Packages",
+      "Mobile Spa Bus"
+    ],
+    "copyright": "&copy; 2024 The Pamper Palace Luxury Kids Spa. All rights reserved. Licensed Kids Spa — Ocala & Orlando, FL"
+  }
+}

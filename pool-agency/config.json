@@ -1,0 +1,183 @@
+{
+  "folder_name": "pool-agency",
+  "company_name": "Pool Agency",
+  "tagline": "Cutting-Edge Pool Service, Repair & Construction in Phoenix",
+  "phone": "+1 602-635-3159",
+  "email": "mike@poolagency.com",
+  "colors": {
+    "primary": "#0066CC",
+    "primary_dark": "#003366",
+    "primary_deeper": "#001F3F",
+    "secondary": "#00AAFF",
+    "cta": "#FF6B00",
+    "cta_dark": "#E05A00"
+  },
+  "trust_badges": {
+    "badge_1": "Hayward Authorized Service Center",
+    "badge_2": "4.5/5 from 53+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.5/5 from 53+ Google Reviews",
+    "badge_2": "First 4 Weeks Free",
+    "headline": "See Every Detail of <span class=\"text-secondary italic\">Your Pool's Care</span>",
+    "subheadline": "Pool Agency is the only pool company in Phoenix that lets you view before-and-after photos and full chemical data from every service visit online. Backed by 20 years of expertise and Hayward-authorized repairs, we handle everything so you just dive in.",
+    "cta_text": "Get My First 4 Weeks Free",
+    "checkmarks": [
+      "Free 4-week trial for new clients",
+      "Online portal with photos & chemical data",
+      "All work fully warranted"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in Phoenix",
+    "stat_3_value": "53",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Pool Care From<br class=\"hidden md:block\"> Weekly Cleaning to New Construction",
+    "subtitle": "From your first call to your last splash of the season, Pool Agency covers every aspect of pool ownership with cutting-edge technology and Hayward-certified expertise.",
+    "cards": [
+      {
+        "title": "Weekly Cleaning & Maintenance",
+        "description": "Comprehensive weekly pool service with online access to before-and-after photos and chemical data from every visit. Your first 4 weeks are on us."
+      },
+      {
+        "title": "Pool Equipment Repair",
+        "description": "As a Hayward Authorized Service Center, we diagnose and fix pumps, filters, heaters, and salt systems with a full warranty on every repair."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Advanced technology pinpoints leaks in plumbing, shells, and equipment fast — minimizing water loss and preventing costly structural damage."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing keeps your water safe, crystal clear, and gentle on skin. Full data from every test available through your online portal."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Resurfacing, tile replacement, deck updates, and equipment upgrades. We modernize your pool with the latest products and technology in the industry."
+      },
+      {
+        "title": "New Pool Construction",
+        "description": "Custom-designed pools built from concept to first splash. We handle every detail so your new pool fits your backyard, style, and budget perfectly."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Smarter Pool Experience",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and what you need. We'll come out, inspect everything, and give you an honest quote — no pressure, no obligations. New clients get 4 weeks free."
+      },
+      {
+        "title": "We Service & Document Everything",
+        "description": "Our Hayward-certified technicians arrive on schedule and handle all cleaning, chemicals, and equipment checks. Every visit is documented with photos and chemical data in your online portal."
+      },
+      {
+        "title": "Enjoy Total Transparency",
+        "description": "View before-and-after pictures and full chemical reports from every service visit online. You always know exactly what was done, and all our work is fully warranted."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Phoenix Trusts Pool Agency",
+    "headline": "20 Years of Innovation in Pool Care",
+    "description": "Since 2006, Pool Agency has been on the cutting edge of the pool industry in Phoenix. We were the first pool company to develop custom software so clients can view before-and-after photos and chemical data from every service visit. As a Hayward Authorized Service Center with an A+ BBB rating, we combine tech-forward transparency with hands-on expertise that covers everything from weekly cleaning to new construction.",
+    "badge": "Hayward Authorized",
+    "features": [
+      {
+        "title": "Online Service Portal",
+        "description": "We built custom software so you can see before-and-after photos and chemical data from every single service visit — a first in the industry."
+      },
+      {
+        "title": "Hayward Certified Repairs",
+        "description": "As a Hayward Authorized Service Center, every equipment repair comes with a full warranty. We handle all major brands with confidence."
+      },
+      {
+        "title": "Full Warranty on All Work",
+        "description": "Pool Agency warrants all work performed. Combined with our A+ BBB rating and 20 years in business, your investment is always protected."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. First 4 Weeks Free.",
+    "subtitle": "New clients start with 4 complimentary weeks of service. No contracts, no hidden fees — just honest pool care you can verify online."
+  },
+  "guarantee": {
+    "headline": "Our \"Total Transparency\" Guarantee",
+    "description": "Every service visit is documented with before-and-after photos and full chemical data in your online portal. If you're ever not satisfied with a visit, we come back and make it right at no charge. With an A+ BBB rating and 20 years in business, we stand behind every job we do — and we prove it with the data."
+  },
+  "faqs": [
+    {
+      "question": "What makes Pool Agency different from other pool companies?",
+      "answer": "We're the first and only pool company to develop custom software that lets you view before-and-after photos and full chemical data from every service visit online. Combined with our Hayward Authorized Service Center status and A+ BBB rating, you get a level of transparency and expertise that's unmatched in Phoenix."
+    },
+    {
+      "question": "Do new clients really get 4 weeks free?",
+      "answer": "Absolutely. Your first 4 weeks of weekly pool service are completely free — no strings attached. We believe once you experience our service and online portal, you'll see the Pool Agency difference for yourself."
+    },
+    {
+      "question": "What areas do you serve in the Phoenix metro?",
+      "answer": "We service Phoenix, Scottsdale, North Phoenix, Glendale, Peoria, and surrounding Maricopa County areas. If you're unsure whether we cover your neighborhood, give us a call and we'll let you know right away."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Pool Agency is licensed with the Arizona Registrar of Contractors, fully insured, and maintains an A+ rating with the Better Business Bureau. We're also a Hayward Authorized Service Center, meaning our technicians are factory-trained on all major equipment."
+    },
+    {
+      "question": "Can you handle pool construction and remodeling too?",
+      "answer": "We're a true full-service pool company. From weekly cleaning and equipment repair to complete remodels and brand-new pool construction, Pool Agency handles it all. One company, one relationship, every pool need covered."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Yelp Reviewer",
+      "text": "Pool Agency has always been on the cutting edge of technology and provides excellent service with full transparency through their online portal. I can see exactly what they did each week.",
+      "context": "Weekly Pool Service",
+      "initials": "YR"
+    },
+    {
+      "name": "Phoenix Homeowner",
+      "text": "They were the only pool company that let me see before and after pictures and chemical data from every single service visit online. That kind of transparency earned my trust immediately.",
+      "context": "Pool Maintenance",
+      "initials": "PH"
+    },
+    {
+      "name": "Satisfied Customer",
+      "text": "As a Hayward Authorized Service Center, Pool Agency handled all of our equipment repairs with a full warranty. Professional, reliable, and they stand behind their work every time.",
+      "context": "Pool Repair",
+      "initials": "SC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool Service You<br>Can Actually See Working?",
+    "subtitle": "Get a free assessment and your first 4 weeks of service free. No contracts, no commitments — just transparent pool care backed by 20 years of experience.",
+    "benefits": [
+      "Free 4-week trial for new clients",
+      "Online portal access from day one",
+      "All work fully warranted"
+    ]
+  },
+  "footer": {
+    "description": "Phoenix's tech-forward pool company. Serving the Valley since 2006.",
+    "service_area": "Serving Phoenix, Scottsdale, Glendale, Peoria & Maricopa County",
+    "services": [
+      "Weekly Cleaning",
+      "Equipment Repair",
+      "Leak Detection",
+      "Pool Remodeling",
+      "New Construction"
+    ],
+    "copyright": "&copy; 2024 Pool Agency. All rights reserved. Licensed with the Arizona Registrar of Contractors."
+  },
+  "review_count": "53",
+  "review_rating": "4.5"
+}

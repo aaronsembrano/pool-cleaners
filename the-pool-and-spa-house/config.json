@@ -1,75 +1,75 @@
 {
   "folder_name": "the-pool-and-spa-house",
-  "company_name": "The Pool & Spa House",
-  "tagline": "Complete pool and spa care in the Northwest",
+  "company_name": "The Pool And Spa House",
+  "tagline": "Professional help with a personal touch",
   "phone": "+1 503-906-8118",
   "email": "brendan@thepoolandspahouse.com",
   "logo_path": "logo.png",
   "review_count": "33",
   "review_rating": "4.2",
   "colors": {
-    "primary": "#2c5f8a",
-    "primary_dark": "#1a2a3a",
-    "primary_deeper": "#0f1a26",
-    "secondary": "#4a90c4",
-    "cta": "#d97706",
-    "cta_dark": "#b45309"
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0b1c2e",
+    "secondary": "#2980b9",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
   },
   "trust_badges": {
     "badge_1": "BBB Accredited Business",
     "badge_2": "4.2/5 from 33+ Reviews",
-    "badge_3": "50 Years of Expertise"
+    "badge_3": "Serving Portland Since 1976"
   },
   "hero": {
     "badge_1": "4.2/5 from 33+ Google Reviews",
-    "badge_2": "Serving the NW Since 1976",
-    "headline": "50 Years of Pool & Spa <span class=\"text-secondary italic\">Expertise<br>You Can Trust</span>",
-    "subheadline": "Your pool and spa should be your escape, not your headache. The Pool & Spa House has kept Pacific Northwest families swimming happy since 1976 — with five locations, expert water analysis, and a team that treats every backyard like their own.",
-    "cta_text": "Get Expert Help Today",
+    "badge_2": "5 Locations Across Portland Metro",
+    "headline": "50 Years of Pool Expertise <span class=\"text-secondary italic\">Right in<br>Your Neighborhood</span>",
+    "subheadline": "Since 1976, Portland families have trusted The Pool And Spa House to keep their pools and spas in perfect shape. Five locations, free water analysis, and a team that actually picks up the phone — so you can stop worrying and start swimming.",
+    "cta_text": "Get My Free Water Analysis",
     "checkmarks": [
-      "Free professional water analysis",
-      "Five locations across the NW",
-      "24-hour response guarantee"
+      "Free water analysis at any location",
+      "Same-day phone response guaranteed",
+      "50 years of Pacific NW expertise"
     ]
   },
   "stats": {
     "stat_1_value": "50",
     "stat_1_label": "Years in Business",
     "stat_2_value": "5",
-    "stat_2_label": "Retail Locations",
+    "stat_2_label": "Portland-Area Locations",
     "stat_3_value": "1000",
-    "stat_3_label": "Families Served Yearly",
-    "stat_4_value": "24hr",
-    "stat_4_label": "Response Guarantee"
+    "stat_3_label": "Families Served Annually",
+    "stat_4_value": "FREE",
+    "stat_4_label": "Water Analysis"
   },
   "services": {
-    "label": "How We Help",
-    "headline": "Everything Your Pool & Spa<br class=\"hidden md:block\"> Needs Under One Roof",
-    "subtitle": "From water testing to equipment upgrades, our experts have the answers. Five decades of experience means we have seen it all and can solve it all.",
+    "label": "What We Offer",
+    "headline": "Complete Pool & Spa Care<br class=\"hidden md:block\">Under One Roof",
+    "subtitle": "From water chemistry to hot tub sales, our factory-trained experts handle everything so you can enjoy your pool and spa without the guesswork.",
     "cards": [
       {
-        "title": "Water Analysis & Chemistry",
-        "description": "ALEX Pro technology delivers precise water testing and customized chemical plans. Crystal-clear water without the guesswork, balanced perfectly for your setup."
+        "title": "Water Analysis & Chemical Care",
+        "description": "Bring in a water sample and get a complimentary analysis using ALEX Pro technology. We create a customized care plan so your water stays balanced, safe, and crystal clear."
       },
       {
-        "title": "Pool & Spa Supplies",
-        "description": "Oregon's largest selection of chemicals, pumps, filters, heaters, and accessories. Everything you need from brands you trust, all in one stop."
+        "title": "Pool Equipment & Parts",
+        "description": "Pumps, filters, heaters, solar heating, and replacement parts for every major brand. Our team helps you find exactly the right fit — no guessing, no wrong orders."
       },
       {
-        "title": "Pool School Education",
-        "description": "Learn proper maintenance techniques and water chemistry from our experts. Walk away confident in caring for your pool and earn exclusive rewards."
-      },
-      {
-        "title": "Expert Consultation",
-        "description": "One-on-one guidance from seasoned professionals on maintenance, equipment selection, and troubleshooting. Personal help with a personal touch."
-      },
-      {
-        "title": "Equipment Sales & Install",
-        "description": "Pumps, filters, heaters, automation systems — we carry top manufacturers and install them right. Upgrade your pool with confidence."
+        "title": "Professional Pool & Spa Service",
+        "description": "Maintenance, repairs, and installations handled by factory-trained technicians who know Pacific Northwest pools inside and out. We get it right the first time."
       },
       {
         "title": "Hot Tub & Spa Sales",
-        "description": "Find the perfect hot tub for your lifestyle. Our team helps you choose the right model, size, and features for year-round relaxation."
+        "description": "Find the perfect hot tub for your backyard and budget. Our experts guide you through selection, delivery, and setup so you can soak stress-free from day one."
+      },
+      {
+        "title": "In-Ground & Above-Ground Pools",
+        "description": "Planning your dream backyard? We help you design and select the right pool — in-ground or above-ground — tailored to your space, style, and Oregon climate."
+      },
+      {
+        "title": "Pool School & Education",
+        "description": "Learn to maintain your pool like a pro through our SMART START digital campus. Hands-on classes and online courses that save you time and money long-term."
       }
     ]
   },
@@ -78,107 +78,107 @@
     "steps": [
       {
         "title": "Bring In a Water Sample",
-        "description": "Visit any of our five locations with a water sample. Our ALEX Pro system analyzes it in minutes and creates a custom care plan tailored to your pool or spa."
+        "description": "Drop by any of our five Portland-area locations with a water sample. Our ALEX Pro system analyzes it in minutes and creates a personalized care plan — completely free."
       },
       {
-        "title": "Get Your Custom Solution",
-        "description": "Our experts walk you through exactly what your water needs. No upselling, no confusion — just honest recommendations backed by 50 years of experience."
+        "title": "Get Expert Guidance",
+        "description": "Our knowledgeable staff walks you through exactly what your pool or spa needs. No upselling, no confusion — just honest recommendations from people who have been doing this for 50 years."
       },
       {
         "title": "Enjoy Perfect Water",
-        "description": "Follow your personalized plan and enjoy water that is clean, balanced, and inviting all season long. Questions? Call us anytime — we guarantee a response within 24 hours."
+        "description": "Follow your customized plan, grab everything you need in one stop, and get back to enjoying your pool or spa. Questions later? Just call — we actually answer the phone."
       }
     ]
   },
   "about": {
-    "label": "Why NW Families Choose Us",
-    "headline": "Five Decades of Keeping the Pacific Northwest Swimming",
-    "description": "Since 1976, The Pool & Spa House has grown from a single shop into Oregon's largest pool and spa supply company. With five retail locations across Portland, Gresham, Tigard, Vancouver, and West Linn, we combine big-company resources with the personal attention of a family business. Our team continually educates themselves on the latest pool and spa technology so we can pass that knowledge directly to you.",
-    "badge": "50 Years Est. 1976",
+    "label": "Why Portland Trusts Us",
+    "headline": "Five Stores, One Family — Serving the Pacific Northwest Since 1976",
+    "description": "For nearly 50 years, The Pool And Spa House has been the go-to resource for pool and spa owners across the Portland metro area. What started as a single store in 1976 has grown into five locations — Portland, Gresham, Tigard, Vancouver, and West Linn — all staffed by friendly experts who know your name. Led by Brendan Reilly, our team combines deep technical knowledge with the kind of personal attention that big-box stores simply cannot match.",
+    "badge": "ALEX Pro Certified",
     "features": [
       {
-        "title": "ALEX Pro Water Analysis",
-        "description": "Advanced computerized water testing that pinpoints exactly what your pool or spa needs. No more guessing with test strips."
+        "title": "Factory-Trained Technicians",
+        "description": "Every team member receives hands-on training and ongoing education so you get accurate advice and expert service at every location."
       },
       {
-        "title": "24-Hour Response Promise",
-        "description": "Every inquiry gets a response within 24 hours. We pick up the phone or call you back the same day, guaranteed."
+        "title": "Free Water Analysis at Every Store",
+        "description": "Walk in with a sample, walk out with a complete care plan. Our ALEX Pro technology takes the guesswork out of water chemistry."
       },
       {
-        "title": "Pool Schools for Owners",
-        "description": "We believe educated customers are happy customers. Our Pool School programs teach you how to care for your investment with confidence."
+        "title": "We Actually Pick Up the Phone",
+        "description": "All inquiries answered within 24 hours — most same-day. No phone trees, no runaround, just real people who want to help."
       }
     ]
   },
   "pricing": {
     "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Whether you need a single water test or a full equipment overhaul, we give you honest pricing upfront. No hidden fees, no pressure."
+    "subtitle": "Every pool and spa is different. Visit any location for a free consultation and honest pricing tailored to your needs."
   },
   "guarantee": {
-    "headline": "Our \"Northwest Promise\" Guarantee",
-    "description": "If you are not completely satisfied with any product, service, or recommendation, let us know. We will make it right — whether that means a re-test, a replacement, or a full refund. We have been standing behind our work for 50 years, and we are not stopping now."
+    "headline": "Our \"Pacific Northwest Pool Promise\"",
+    "description": "If you follow our customized water care plan and your pool or spa water is not balanced and clear, bring in another sample and we will make it right at no extra charge. We have stood behind our work since 1976 and that is not changing anytime soon."
   },
   "faqs": [
     {
-      "question": "How does the ALEX Pro water analysis work?",
-      "answer": "Just bring a water sample to any of our five locations. Our ALEX Pro system runs a comprehensive analysis in minutes and generates a customized treatment plan specific to your pool or spa. It is free and takes about 10 minutes."
+      "question": "How does the free water analysis work?",
+      "answer": "Just bring a water sample to any of our five locations. Our ALEX Pro system analyzes it in minutes and generates a step-by-step care plan customized to your pool or spa. It is completely free, no purchase required."
     },
     {
-      "question": "Do I need an appointment for water testing?",
-      "answer": "No appointment needed. Walk into any of our Portland, Gresham, Tigard, Vancouver, or West Linn locations during business hours and we will test your water on the spot."
+      "question": "Which location is closest to me?",
+      "answer": "We have stores in Portland, Gresham, Tigard, Vancouver (WA), and West Linn. Visit our website or call us at 503-906-8118 and we will point you to the nearest location with the best hours for your schedule."
     },
     {
-      "question": "What is Pool School and how do I sign up?",
-      "answer": "Pool School is our educational program where our experts teach you proper pool and spa maintenance, water chemistry, and care techniques. You will also earn exclusive rewards for participating. Ask at any location or call us to register for the next session."
+      "question": "Do you service hot tubs as well as pools?",
+      "answer": "Absolutely. We are The Pool AND Spa House for a reason. From hot tub sales and water care to repairs and replacement parts, our team handles every aspect of spa ownership."
     },
     {
-      "question": "Do you offer commercial accounts?",
-      "answer": "Yes. We support commercial pool and spa businesses with our dedicated Pro Site ordering system, volume pricing, and specialized technical support. Contact us to set up your commercial account."
+      "question": "What is the SMART START program?",
+      "answer": "SMART START is our digital education campus designed for new pool and spa owners. It includes step-by-step lessons on water chemistry, equipment maintenance, and seasonal care — so you feel confident managing your investment from day one."
     },
     {
-      "question": "Can you help me choose a new hot tub?",
-      "answer": "Absolutely. Our team will walk you through models, sizes, features, and pricing to find the perfect spa for your lifestyle and budget. Visit any location for a hands-on consultation."
+      "question": "Can I get help choosing the right equipment or chemicals?",
+      "answer": "That is what we are here for. Our staff are factory-trained and will recommend only what your pool or spa actually needs — no upselling. Bring in your water sample or describe your setup and we will guide you to the right products."
     }
   ],
   "testimonials": [
     {
-      "name": "Loyal Customer",
-      "text": "They are 100 percent committed to customer service. One of the few companies that actually picks up the phone or calls you back the same day.",
-      "context": "Yelp Review",
-      "initials": "LC"
+      "name": "Allison R.",
+      "context": "Google Review",
+      "initials": "AR",
+      "text": "Luke helped me out today. He was so nice and taught me so much about water care! This store is very clean and organized and has a lot of supplies. I finally feel confident maintaining my pool."
     },
     {
-      "name": "Portland Homeowner",
-      "text": "The folks who work there are considerate, knowledgeable, friendly and helpful. The store is clean, inviting, and logically laid-out and organized with reasonable prices.",
-      "context": "Birdeye Review",
-      "initials": "PH"
+      "name": "Susan O.",
+      "context": "Google Review",
+      "initials": "SO",
+      "text": "After getting red sores from our hot tub, I went to The Pool And Spa House and worked with Jay. He diagnosed the problem immediately and got our water balanced perfectly. I will always appreciate Jay for making our hot tub safe and fun again."
     },
     {
-      "name": "Satisfied Customer",
-      "text": "Howard was great at explaining everything and they were able to do the job within a couple of days, not months as quoted by other companies. They were the only company to point out that the original heater had been installed incorrectly.",
-      "context": "Angi Review",
-      "initials": "SC"
+      "name": "Martin S.",
+      "context": "Google Review",
+      "initials": "MS",
+      "text": "Very knowledgeable and helpful staff. Jay, the store manager, was great — he explained everything clearly and did not try to push products I did not need. This is how a local business should be run."
     }
   ],
   "contact": {
-    "headline": "Ready for Expert Pool &<br>Spa Advice?",
-    "subtitle": "Visit any of our five NW locations or call for a free water analysis. 50 years of expertise, zero pressure — just honest help from people who love pools.",
+    "headline": "Ready to Take the Guesswork<br>Out of Pool Care?",
+    "subtitle": "Stop by any of our five locations for a free water analysis, or call us for expert advice. We have been helping Portland-area families since 1976 — and we would love to help you too.",
     "benefits": [
-      "Free ALEX Pro water analysis",
-      "Response within 24 hours guaranteed",
-      "Five convenient NW locations"
+      "Free water analysis at any location",
+      "Response within 24 hours — usually same day",
+      "50 years of trusted Pacific NW expertise"
     ]
   },
   "footer": {
-    "description": "Oregon's largest pool & spa supply company. Serving the Pacific Northwest since 1976.",
+    "description": "Portland's trusted pool and spa experts since 1976. Five locations across the Pacific Northwest.",
     "service_area": "Serving Portland, Gresham, Tigard, Vancouver & West Linn",
     "services": [
       "Water Analysis",
-      "Pool & Spa Supplies",
-      "Pool Schools",
-      "Equipment Sales",
-      "Hot Tub Sales"
+      "Equipment & Parts",
+      "Pool & Spa Service",
+      "Hot Tub Sales",
+      "Pool School"
     ],
-    "copyright": "&copy; 2024 The Pool & Spa House. All rights reserved."
+    "copyright": "&copy; 2024 The Pool And Spa House. All rights reserved. Five locations serving the Portland metro area since 1976."
   }
 }

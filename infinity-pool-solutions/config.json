@@ -1,0 +1,184 @@
+{
+  "folder_name": "infinity-pool-solutions",
+  "company_name": "Infinity Pool Solutions",
+  "tagline": "Not Your Typical Pool Company.",
+  "phone": "+1 610-825-9471",
+  "email": "chris@infinitypoolsolutions.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.2",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#E85D04",
+    "cta_dark": "#C44D03"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.2/5 from 15+ Reviews",
+    "badge_3": "Serving the Main Line Since 2006"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 15+ Google Reviews",
+    "badge_2": "20 Years of Pool Excellence",
+    "headline": "Pool Care Powered by <span class=\"text-secondary italic\">Modern<br>Innovation</span>",
+    "subheadline": "Your pool deserves more than harsh chemicals and outdated methods. Infinity Pool Solutions uses advanced technology to keep your water pristine, safe, and gentle on your family. Serving the Main Line for 20 years, we handle everything so you just dive in.",
+    "cta_text": "Request a Free Pool Assessment",
+    "checkmarks": [
+      "Free on-site pool assessment",
+      "Chemical-reducing technology",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Main Line Pools Maintained",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> One Trusted Team",
+    "subtitle": "From routine cleaning to full-scale renovations, Infinity Pool Solutions is your single source for everything pool. We bring 20 years of expertise and modern technology to every job on the Main Line.",
+    "cards": [
+      {
+        "title": "Pool Cleaning Service",
+        "description": "Twice weekly, weekly, or bimonthly cleaning to keep your pool swim-ready. Skimming, vacuuming, chemical balancing, and filter maintenance handled every visit."
+      },
+      {
+        "title": "Repairs & Equipment",
+        "description": "Pumps, filters, heaters, UV systems, automation, and electrical — we diagnose and fix it right. Most repairs finished in a single visit."
+      },
+      {
+        "title": "Openings & Closings",
+        "description": "Comprehensive spring openings and winter closings so your pool transitions seamlessly between seasons. We handle every detail so you don't have to."
+      },
+      {
+        "title": "Maintenance & Chemistry",
+        "description": "Precise chemical treatments, plaster care, and stain removal using advanced methods that reduce harsh chemical dependency. Healthier water, happier swimmers."
+      },
+      {
+        "title": "Renovations & Upgrades",
+        "description": "Pool resurfacing, tile replacement, deck renovations, LED lighting, automation, and water features. Transform your aging pool into a backyard retreat."
+      },
+      {
+        "title": "Safety Fence Installation",
+        "description": "Protect your children and pets with professionally installed pool safety fences. Peace of mind that meets or exceeds local safety standards."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Better Pool Experience",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and what you need. We'll visit your property, assess everything on-site, and provide an honest, no-pressure recommendation within 24 hours."
+      },
+      {
+        "title": "We Deploy Modern Solutions",
+        "description": "Our trained technicians arrive on schedule with advanced tools and equipment. From chemical-reducing UV systems to precision water chemistry, we use technology that works smarter."
+      },
+      {
+        "title": "Enjoy Your Pool, Worry-Free",
+        "description": "Your pool stays crystal clear with less chemical exposure and zero guesswork. If you're ever not completely satisfied, we come back and make it right — no questions asked."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Main Line Pool Owners Choose Us",
+    "headline": "Not Your Typical Pool Company — And That's the Point",
+    "description": "Since 2006, Infinity Pool Solutions has been redefining pool care on the Main Line. While other companies rely on outdated methods, we invest in modern technology that reduces chemical dependency and delivers superior results. Our team is trained on the latest equipment and techniques, treating every pool with the attention to detail it deserves. From Villanova to West Conshohocken, we've built our reputation one backyard at a time.",
+    "badge": "20 Years of Innovation",
+    "features": [
+      {
+        "title": "Advanced Technology & Equipment",
+        "description": "We use UV systems, variable speed pumps, and smart automation to reduce chemical use and deliver cleaner, safer pool water."
+      },
+      {
+        "title": "One Team for Everything",
+        "description": "Cleaning, repairs, installations, renovations, safety fences — no need to juggle multiple contractors. We handle it all under one roof."
+      },
+      {
+        "title": "Guaranteed Satisfaction",
+        "description": "Not happy with any service? We come back and make it right at no extra charge. Our reputation depends on your experience."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is different, so we provide custom quotes after a free on-site assessment. No hidden fees, no upselling — just honest pricing for quality work."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll return to make it right at absolutely no extra cost. We've been earning trust on the Main Line for 20 years because we stand behind every visit, every time. Your pool will meet our standards — or we keep working until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients on the Main Line are scheduled within 3-5 business days. For urgent issues like equipment failures or water problems, we offer priority response. Call us and we'll work with your schedule."
+    },
+    {
+      "question": "What makes your approach different from other pool companies?",
+      "answer": "We invest in modern technology — UV systems, variable speed pumps, and smart chemistry — that reduces your pool's reliance on harsh traditional chemicals. The result is cleaner water, lower costs, and a healthier swimming environment for your family."
+    },
+    {
+      "question": "Do you handle both maintenance and major renovations?",
+      "answer": "Absolutely. We're a full-service pool company offering everything from weekly cleaning to complete renovations including resurfacing, tile work, deck upgrades, and equipment installations. One team handles it all."
+    },
+    {
+      "question": "Do I need to be home when you service my pool?",
+      "answer": "Not at all. Most of our Main Line clients provide gate access, and we take care of everything while you're away. You'll know exactly what was done after each visit so nothing is a mystery."
+    },
+    {
+      "question": "Can you install safety fences for my pool?",
+      "answer": "Yes. We install professional pool safety fences designed to protect children and pets. Our fences meet or exceed local safety standards and are built to last, giving you peace of mind every day."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ana M.",
+      "text": "If you're searching for a pool company you can truly rely on — one that's not only affordable but highly knowledgeable about all pool systems, including heaters and filters — I can't recommend Infinity Pool Solutions enough. We're beyond happy to have finally found them!",
+      "context": "Google Review",
+      "initials": "AM"
+    },
+    {
+      "name": "David R.",
+      "text": "We've tried three pool companies over the years and Infinity is in a completely different league. They actually explain what they're doing and why, and our water has never looked better. The tech-forward approach really makes a difference.",
+      "context": "Main Line Homeowner, 2 Years",
+      "initials": "DR"
+    },
+    {
+      "name": "Jennifer L.",
+      "text": "Chris and his team handled our full pool renovation — resurfacing, new lighting, and a salt system install. They were on time, on budget, and the result is stunning. Our backyard feels like a resort now.",
+      "context": "Pool Renovation Client",
+      "initials": "JL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Smarter<br>Pool Care?",
+    "subtitle": "Get a free, no-obligation pool assessment from the Main Line's trusted pool experts. 20 years of innovation, one phone call away.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Not your typical pool company. Serving the Main Line with innovative pool care since 2006.",
+    "service_area": "Serving Villanova, West Conshohocken & the Main Line",
+    "services": [
+      "Pool Cleaning",
+      "Repairs & Equipment",
+      "Openings & Closings",
+      "Renovations & Upgrades",
+      "Safety Fences"
+    ],
+    "copyright": "&copy; 2024 Infinity Pool Solutions. All rights reserved. Serving the Main Line, PA."
+  }
+}

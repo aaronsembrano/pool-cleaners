@@ -1,0 +1,177 @@
+{
+  "folder_name": "clean-brite-pools",
+  "company_name": "Clean & Brite Pools",
+  "tagline": "Your Sun City Pool Care Experts",
+  "phone": "(480) 492-5501",
+  "email": "debbie@cleanandbritepools.com",
+  "colors": {
+    "primary": "#0E7490",
+    "primary_dark": "#155E75",
+    "primary_deeper": "#0C4A5E",
+    "secondary": "#22D3EE",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "5.0/5 from Verified Reviews",
+    "badge_3": "Nextdoor Neighborhood Fave"
+  },
+  "hero": {
+    "badge_1": "5.0/5 — Nextdoor Neighborhood Favorite",
+    "badge_2": "Owner-Operated Service",
+    "headline": "A Sparkling Pool <span class=\"text-secondary italic\">Without<br>Lifting a Finger</span>",
+    "subheadline": "You bought a pool to relax — not spend weekends scrubbing tiles and testing chemicals. Let Dan and Debbie handle everything so you can just dive in.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free pool inspection",
+      "Same-week start available",
+      "HOA-approved service"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "10",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "150",
+    "stat_2_label": "Monthly Clients",
+    "stat_3_value": "1800",
+    "stat_3_label": "Services Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Owner-Operated"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Sun City Homeowners",
+    "subtitle": "From weekly maintenance to equipment repairs, we keep your pool crystal clear so you can spend your time enjoying the Arizona sun — not wrestling with chemicals.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Full-service weekly care including water testing, chemical balancing, brushing, vacuuming, and filter maintenance. Your pool stays swim-ready every visit."
+      },
+      {
+        "title": "Filter Deep Cleaning",
+        "description": "Thorough D.E. and cartridge filter disassembly, deep cleaning, inspection, and O-ring assessment. Recommended 1-3 times per year for peak performance."
+      },
+      {
+        "title": "Green-to-Clean Recovery",
+        "description": "Neglected pool turned swampy green? We'll restore it to sparkling blue in 48-72 hours with our proven recovery process. Emergency response available."
+      },
+      {
+        "title": "Water Chemistry Balancing",
+        "description": "Precise chemical management that keeps water safe, clear, and gentle on skin. Specialty chemicals like shock, stabilizer, and algaecides applied as needed."
+      },
+      {
+        "title": "Equipment Repair & Parts",
+        "description": "Pumps, filters, skimmer baskets, gaskets, and more. We diagnose issues fast and carry common parts on our truck for same-visit repairs."
+      },
+      {
+        "title": "Seasonal Pool Prep",
+        "description": "Getting ready for summer or winding down for winter? We prepare your pool and equipment for each Arizona season so nothing gets damaged."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Simple Steps to a Spotless Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Quote",
+        "description": "Call or text us about your pool. We'll visit, inspect your equipment, and provide an honest quote within 24 hours — no pressure, no obligation."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Dan or Debbie arrive on your scheduled day — on time, every time. Cleaning, chemicals, equipment checks, and detailed service records are all included."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays crystal clear and swim-ready week after week. If anything isn't perfect, we come back and make it right — that's our promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Sun City Trusts Us",
+    "headline": "Family-Owned, Owner-Operated — Every Single Visit",
+    "description": "Dan and Debbie started Clean & Brite Pools over 10 years ago with a simple belief: pool owners deserve dependable, professional service from people who actually care. As a Sun City HOA-approved partner and Nextdoor Neighborhood Favorite, we treat every pool like it's our own — because our reputation depends on it.",
+    "badge": "HOA Approved",
+    "features": [
+      {
+        "title": "Owner-Operated Every Visit",
+        "description": "No random technicians. Dan personally services your pool each week, so you always know who's in your backyard."
+      },
+      {
+        "title": "No Contracts. Ever.",
+        "description": "We earn your loyalty every visit. No long-term commitments, no cancellation fees, no hassle if you need to pause."
+      },
+      {
+        "title": "Sun City HOA Approved",
+        "description": "We're an approved partner of the Sun City Home Owners Association — verified, insured, and trusted by your community."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Weekly service starting at $150/month. No contracts, no hidden fees — upgrade, downgrade, or cancel anytime."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're ever not satisfied with a service visit, call us and we'll come back to make it right — at no extra charge. We don't consider the job done until your pool is sparkling and you're happy. That's the Clean & Brite promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on our schedule within 3-5 days. For green pool emergencies, we offer priority response. Just call or text and we'll find a time that works for you."
+    },
+    {
+      "question": "Do I need to be home when you service my pool?",
+      "answer": "Not at all! Most of our Sun City clients provide gate access and we handle everything while you're out. You'll get a service record after each visit so you always know what was done."
+    },
+    {
+      "question": "What's included in the $150/month weekly service?",
+      "answer": "Full water testing, chemical additions, equipment inspection, filter backwashing, brushing of steps and walls, vacuuming, debris netting, and onsite service records. Specialty chemicals are billed separately at cost."
+    },
+    {
+      "question": "What if I want to pause or cancel service?",
+      "answer": "No problem at all. We don't do contracts or cancellation fees. Just let us know and we'll pause or stop service — no questions asked, no guilt trips."
+    },
+    {
+      "question": "Are you insured and HOA-approved?",
+      "answer": "Yes! We carry full liability insurance and are an approved service partner of the Sun City Home Owners Association. We're also a BBB A+ rated business and Nextdoor Neighborhood Favorite."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert M.",
+      "text": "Dan and Clean & Brite have serviced our pool for almost two years. They go out of their way to do the job quickly and correctly, and follow up every single time. Couldn't ask for better service.",
+      "context": "Sun City homeowner, 2 years",
+      "initials": "RM"
+    },
+    {
+      "name": "Janet P.",
+      "text": "We found Clean & Brite to be the perfect solution for our pool maintenance. Debbie and Dan are professional, thorough, and always within budget. Our pool has never looked better.",
+      "context": "Weekly maintenance client",
+      "initials": "JP"
+    },
+    {
+      "name": "Tom & Linda S.",
+      "text": "After trying two other pool companies that were unreliable, Clean & Brite has been a breath of fresh air. Owner-operated means consistent quality every single week. Highly recommend them.",
+      "context": "Sun City West homeowners",
+      "initials": "TS"
+    }
+  ],
+  "review_count": "50",
+  "review_rating": "5.0",
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Perfect Year-Round?",
+    "subtitle": "Get a free, no-obligation quote from Dan and Debbie. No contracts, no pressure — just honest pricing for dependable pool care in Sun City.",
+    "benefits": [
+      "Free pool inspection with every quote",
+      "On our schedule within days",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned, owner-operated pool service. Proudly serving Sun City & Sun City West for 10+ years.",
+    "service_area": "Serving Sun City & Sun City West, AZ",
+    "services": ["Weekly Maintenance", "Filter Deep Cleaning", "Green Pool Recovery", "Equipment Repair", "Seasonal Prep"],
+    "copyright": "&copy; 2024 Clean & Brite Pools. All rights reserved. Licensed & Insured — Sun City, AZ"
+  }
+}

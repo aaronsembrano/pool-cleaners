@@ -1,0 +1,180 @@
+{
+  "folder_name": "aquamarine-pools",
+  "company_name": "Aquamarine Pools & Spas",
+  "tagline": "Cincinnati's Original Fiberglass Pool Installer Since 1988",
+  "phone": "+1 513-604-6450",
+  "email": "info@aquamarinepools.com",
+  "logo_path": "logo.png",
+  "colors": {
+    "primary": "#1a5fb4",
+    "primary_dark": "#144a8f",
+    "primary_deeper": "#0d3b7a",
+    "secondary": "#f59e0b",
+    "cta": "#f59e0b",
+    "cta_dark": "#d97706"
+  },
+  "hero": {
+    "headline": "Cincinnati's Trusted Pool <span class=\"text-secondary italic\">Experts Since 1988</span>",
+    "subheadline": "For nearly four decades, families across Cincinnati have trusted Aquamarine Pools & Spas for flawless fiberglass pool installations. From backyard dreams to resort-worthy retreats, we handle everything so you can simply enjoy the water.",
+    "badges": [
+      "4.4 Stars - 105 Google Reviews",
+      "38 Years Serving Cincinnati"
+    ],
+    "checkmarks": [
+      "Complete turnkey installation - no subcontractors",
+      "Cincinnati's exclusive fiberglass pool dealer",
+      "Family business with roots dating to 1956"
+    ],
+    "cta_text": "Get Your Free Pool Consultation"
+  },
+  "stats": {
+    "stat_1_value": "38",
+    "stat_1_label": "Years in Business",
+    "stat_2_value": "105",
+    "stat_2_label": "Google Reviews",
+    "stat_3_value": "1000",
+    "stat_3_label": "Pools Installed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "headline": "Everything Your Pool Needs, Under One Roof",
+    "subtitle": "From installation day to decades of enjoyment, Aquamarine Pools handles it all with family-business care.",
+    "cards": [
+      {
+        "title": "Fiberglass Pool Installation",
+        "description": "Complete turnkey installations including excavation, plumbing, electrical, and finishing. Your dream pool, professionally built from start to finish."
+      },
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Regular cleaning, chemical balancing, and equipment checks that keep your pool sparkling and swim-ready every single week."
+      },
+      {
+        "title": "Pool Openings & Winterization",
+        "description": "Seasonal prep done right. We open your pool for summer fun and close it properly to prevent costly winter damage."
+      },
+      {
+        "title": "Repairs & Renovations",
+        "description": "From equipment troubleshooting to complete surface renovations, we restore your pool to like-new condition quickly."
+      },
+      {
+        "title": "Landscape & Hardscape Design",
+        "description": "Patios, decking, and landscaping that turn your pool area into a complete outdoor living paradise."
+      },
+      {
+        "title": "Commercial & HOA Services",
+        "description": "Comprehensive maintenance programs designed for community pools, HOAs, and commercial aquatic facilities."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Pool Project in 3 Simple Steps",
+    "steps": [
+      {
+        "title": "Free Consultation",
+        "description": "We visit your property, discuss your vision, and provide a detailed, no-pressure estimate with honest recommendations."
+      },
+      {
+        "title": "Expert Installation",
+        "description": "Our experienced crew handles every detail - excavation, plumbing, electrical, landscaping - so you never juggle multiple contractors."
+      },
+      {
+        "title": "Enjoy Your Oasis",
+        "description": "Dive into your new pool knowing our team is always here for maintenance, repairs, and seasonal care whenever you need us."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Aquamarine Pools",
+    "headline": "A Family Legacy Built on Trust & Craftsmanship",
+    "description": "Since 1988, Aquamarine Pools & Spas has been Cincinnati's original and exclusive fiberglass pool installer. Our roots in the pool industry go back even further - to 1956 in Florida. That heritage means every pool we build benefits from decades of hands-on expertise passed down through our family. We take pride in delivering complete, turnkey installations where quality is never compromised.",
+    "badge": "Family-Owned Since 1988",
+    "features": [
+      {
+        "title": "Cincinnati's Oldest Fiberglass Installer",
+        "description": "Since 1988, we have been the area's original and exclusive fiberglass pool dealer with roots in the industry dating back to 1956."
+      },
+      {
+        "title": "Complete Turnkey Projects",
+        "description": "We handle everything - excavation, plumbing, electrical, landscaping, and hardscape - so you never juggle multiple contractors."
+      },
+      {
+        "title": "Residential & Commercial Experts",
+        "description": "From backyard family pools to community HOA facilities, we bring the same dedication and craftsmanship to every project."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every quote includes the full scope of work - excavation, plumbing, electrical, and finishing. No hidden fees, no surprise change orders."
+  },
+  "guarantee": {
+    "headline": "Our Family Promise to You",
+    "description": "When you choose Aquamarine Pools, you are choosing a family that stakes its 38-year reputation on every project. If something is not right, we make it right - period. Our commitment to quality craftsmanship and honest service is why Cincinnati families have trusted us for nearly four decades."
+  },
+  "faqs": [
+    {
+      "question": "How long does a fiberglass pool installation take?",
+      "answer": "Most fiberglass pool installations are completed in 2-4 weeks from excavation to swim day, depending on the complexity of the project and any additional hardscape or landscape work included."
+    },
+    {
+      "question": "Do you handle all the permits and inspections?",
+      "answer": "Yes. As a turnkey installer, we manage the entire process including permits, inspections, excavation, plumbing, electrical, and finishing so you never have to coordinate multiple contractors."
+    },
+    {
+      "question": "What areas do you serve around Cincinnati?",
+      "answer": "We serve Cincinnati, Milford, and surrounding Ohio communities. If you are within the greater Cincinnati area, we would be happy to schedule a free consultation at your property."
+    },
+    {
+      "question": "Why choose fiberglass over concrete or vinyl?",
+      "answer": "Fiberglass pools install faster, require less maintenance, resist algae growth, and typically last longer than concrete or vinyl alternatives. They also come with smooth, non-abrasive surfaces that are gentle on skin."
+    },
+    {
+      "question": "Do you service pools you did not install?",
+      "answer": "Absolutely. Our maintenance, repair, and renovation services are available for all pool types - fiberglass, concrete, and vinyl liner - regardless of who originally installed them."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Customer",
+      "text": "Great customer service, professional, knowledgeable, and hard working staff. Their price beats everyone else in town.",
+      "context": "Google Review",
+      "initials": "SC"
+    },
+    {
+      "name": "Local Homeowner",
+      "text": "Marc and his team are the best. He takes pride in staying up to date with continued education and gave a direct, no nonsense estimate while taking time to explain his recommendations.",
+      "context": "Google Review",
+      "initials": "LH"
+    },
+    {
+      "name": "Pool Owner",
+      "text": "Professional, quality work, and very responsive. They handled our pool light repair, filter cleaning, and water treatment with expertise.",
+      "context": "Google Review",
+      "initials": "PO"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Start Your Pool Project?",
+    "subtitle": "Get a free, no-pressure consultation from Cincinnati's most experienced fiberglass pool team.",
+    "benefits": [
+      "Free on-site consultation and estimate",
+      "No-pressure, honest recommendations",
+      "Flexible scheduling that works for you"
+    ]
+  },
+  "footer": {
+    "description": "Cincinnati's original fiberglass pool installer since 1988. Family-owned and operated, delivering turnkey pool installations with decades of expertise.",
+    "service_area": "Serving Cincinnati, Milford, and surrounding Ohio communities",
+    "services": [
+      "Fiberglass Pool Installation",
+      "Weekly Pool Maintenance",
+      "Pool Openings & Winterization",
+      "Repairs & Renovations",
+      "Landscape & Hardscape Design"
+    ],
+    "copyright": "Aquamarine Pools & Spas. All rights reserved."
+  },
+  "review_count": "105",
+  "review_rating": "4.4"
+}

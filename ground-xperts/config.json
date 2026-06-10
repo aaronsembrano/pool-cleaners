@@ -1,0 +1,184 @@
+{
+  "folder_name": "ground-xperts",
+  "company_name": "Ground Xperts Outdoor & Design",
+  "tagline": "Precision & Expertise for Every Outdoor Project",
+  "phone": "(423) 598-8016",
+  "email": "shelby.cropper@groundxperts.com",
+  "logo_path": "logo.png",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1B4D3E",
+    "primary_dark": "#143B2F",
+    "primary_deeper": "#0D2920",
+    "secondary": "#2E86AB",
+    "cta": "#F5A623",
+    "cta_dark": "#D4891A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "BBB A+ Rated"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Belgard Authorized Contractor",
+    "headline": "Your Dream Outdoor Space <span class=\"text-secondary italic\">Built to<br>Last a Lifetime</span>",
+    "subheadline": "Your backyard should be the best room in the house. Ground Xperts brings 10+ years of precision craftsmanship to every landscape, hardscape, and pool project across Chattanooga and North Georgia. We handle every detail so you can simply enjoy the result.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free on-site consultation",
+      "10+ years of expertise",
+      "Family-owned & operated"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "10",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "45",
+    "stat_3_label": "Five-Star Reviews",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Complete Outdoor Solutions<br class=\"hidden md:block\"> From Ground to Finish",
+    "subtitle": "From lush landscapes to custom pools and everything in between, Ground Xperts delivers turnkey outdoor living solutions with the precision and care your property deserves.",
+    "cards": [
+      {
+        "title": "Landscaping & Design",
+        "description": "Custom landscape design and installation that transforms ordinary yards into stunning outdoor retreats. We work with your vision and budget to deliver lasting beauty."
+      },
+      {
+        "title": "Hardscaping & Patios",
+        "description": "Durable patios, walkways, and retaining walls built with Belgard-quality materials. We add structure, function, and value to every property we touch."
+      },
+      {
+        "title": "In-Ground Pool Installation",
+        "description": "Full-service pool design and installation to create your ultimate backyard oasis. From planning through the first splash, we handle it all."
+      },
+      {
+        "title": "Lawn Care & Maintenance",
+        "description": "Reliable mowing, trimming, edging, and seasonal care to keep your lawn healthy and pristine year-round. Always on time, always thorough."
+      },
+      {
+        "title": "Drainage & Irrigation",
+        "description": "Smart drainage solutions and efficient irrigation systems that protect your investment and keep your landscape thriving without wasting water."
+      },
+      {
+        "title": "Outdoor Lighting & More",
+        "description": "Professional landscape lighting, excavation, and commercial services that complete the picture. Safety, ambiance, and curb appeal — all in one call."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Outdoor Space",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your project and we'll visit your property for a no-pressure, on-site consultation. You'll receive a detailed estimate within 48 hours."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our experienced crew brings your vision to life with precision craftsmanship, top-tier equipment, and clear communication at every stage of the project."
+      },
+      {
+        "title": "Love Your Outdoor Space",
+        "description": "Step outside into a backyard that feels like a resort. We stand behind every project and are always just a call away for ongoing care or future upgrades."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Homeowners Choose Us",
+    "headline": "Family-Owned, Precision-Driven, Built on Trust",
+    "description": "Ground Xperts is a family-owned outdoor living company serving homeowners and businesses across Chattanooga and North Georgia since 2016. We bring hands-on attention to every project, from routine lawn care to full backyard transformations. Our team uses top-tier professional equipment and treats every property like our own.",
+    "badge": "BBB A+ Rated",
+    "features": [
+      {
+        "title": "Licensed & Fully Insured",
+        "description": "Every project is backed by full licensing and insurance coverage, giving you complete peace of mind from start to finish."
+      },
+      {
+        "title": "Belgard Authorized Contractor",
+        "description": "We carry Belgard authorization, meaning your hardscape project meets the highest standards for materials, installation, and warranty."
+      },
+      {
+        "title": "Clear Communication Always",
+        "description": "We keep you informed at every stage. No surprises, no guesswork — just straightforward updates and honest timelines."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is scoped honestly and quoted fairly. No hidden fees, no bait-and-switch — just reliable craftsmanship at a price that makes sense."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any aspect of our work doesn't meet your expectations, we'll come back and make it right at no additional cost. We stand behind every project with the same pride we'd put into our own home. Your satisfaction isn't just a goal — it's our standard."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the greater Chattanooga and North Georgia region including Hixson, Ooltewah, Cleveland, Soddy-Daisy, Ringgold, Fort Oglethorpe, Dalton, Lafayette, Rock Spring, Rome, Jasper, and Lookout Mountain. If you're nearby, give us a call."
+    },
+    {
+      "question": "How soon can you start my project?",
+      "answer": "Most projects are scheduled within 1-2 weeks of signing. For lawn care and maintenance, we can often start within a few days. We'll give you a clear timeline during your free consultation."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. Ground Xperts is fully licensed and insured for all the services we provide. We also hold BBB A+ accreditation and Belgard Authorized Contractor status."
+    },
+    {
+      "question": "Do you handle both residential and commercial projects?",
+      "answer": "Yes, we serve both homeowners and businesses throughout our service area. From single-family backyards to commercial property maintenance, we have the equipment and experience for projects of any scale."
+    },
+    {
+      "question": "Can you handle my entire outdoor project from start to finish?",
+      "answer": "That's what we do best. From initial design and excavation through landscaping, hardscaping, pools, lighting, and irrigation — we handle every phase so you have one trusted team and one point of contact."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jeremy's Client",
+      "text": "Jeremy and his team gave us a backyard we never thought was possible. They are true visionaries. The attention to detail was incredible from start to finish.",
+      "context": "Backyard design & installation",
+      "initials": "JC"
+    },
+    {
+      "name": "Long-term Client",
+      "text": "I have used Ground Xperts for three years to keep my yard mowed and trimmed. The guys are always on time, do good work, and are friendly. They also did landscaping work for us.",
+      "context": "Lawn care & landscaping",
+      "initials": "LC"
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "text": "We finally found a reliable and consistent lawn care company. I recommend Ground Xperts to anyone who values reliability at reasonable prices. They show up when they say they will.",
+      "context": "Lawn maintenance services",
+      "initials": "SH"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Outdoor Space?",
+    "subtitle": "Get a free, no-pressure consultation and estimate. We'll visit your property, listen to your vision, and show you what's possible.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Detailed estimate within 48 hours",
+      "10+ years of trusted craftsmanship"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned outdoor living company. Serving Chattanooga & North Georgia for 10+ years.",
+    "service_area": "Serving Chattanooga, North Georgia & Surrounding Areas",
+    "services": [
+      "Landscaping & Design",
+      "Hardscaping & Patios",
+      "Pool Installation",
+      "Lawn Care",
+      "Drainage & Irrigation"
+    ],
+    "copyright": "&copy; 2024 Ground Xperts Outdoor & Design. All rights reserved. Licensed & Insured."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "folder_name": "j-hubler-landscaping",
+  "company_name": "J. Hubler Landscaping",
+  "tagline": "Far from your typical landscaper",
+  "phone": "(717) 367-6637",
+  "email": "jon@jhubler.com",
+  "logo_path": "logo.png",
+  "review_count": "93",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#007842",
+    "primary_dark": "#005C32",
+    "primary_deeper": "#003D21",
+    "secondary": "#BF2026",
+    "cta": "#BF2026",
+    "cta_dark": "#991A1F"
+  },
+  "trust_badges": {
+    "badge_1": "PA Licensed #072665",
+    "badge_2": "4.7/5 from 93+ Reviews",
+    "badge_3": "ICPI Certified"
+  },
+  "hero": {
+    "badge_1": "4.7/5 from 93+ Google Reviews",
+    "badge_2": "Serving Central PA Since 1995",
+    "headline": "31 Years of Craftsmanship <span class=\"text-secondary italic\">One Trusted<br>Name</span>",
+    "subheadline": "Your property deserves more than a typical landscaper. From pristine lawns and custom pools to full hardscaping, J. Hubler delivers precision craftsmanship backed by three decades of Central Pennsylvania expertise.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free on-site consultation",
+      "7-county service area",
+      "Family-owned since 1995"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Properties Served",
+    "stat_2_value": "31",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "7",
+    "stat_3_label": "Counties Covered",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Property Care Under<br class=\"hidden md:block\">One Trusted Name",
+    "subtitle": "Most companies specialize in one thing. We handle everything from lawn care and landscaping to pool installation and snow removal, so you deal with one dependable team year-round.",
+    "cards": [
+      {
+        "title": "Turf Care Programs",
+        "description": "Our elite 5-step lawn program uses organic-based fertilizers for a lush, healthy lawn. Includes weed control, grub treatment, and mosquito and tick management."
+      },
+      {
+        "title": "Landscaping & Planting",
+        "description": "Expert landscape design and installation tailored to Central Pennsylvania's climate. From seasonal plantings to full property transformations."
+      },
+      {
+        "title": "Patios, Walls & Hardscaping",
+        "description": "Custom patios, retaining walls, and driveways built with premium materials and ICPI-certified craftsmanship that stands the test of time."
+      },
+      {
+        "title": "Swimming Pool Installation",
+        "description": "Full-service in-ground pool design and construction. We manage every detail from permits to the final splash so you can enjoy a stress-free build."
+      },
+      {
+        "title": "Irrigation & Lighting",
+        "description": "Efficient irrigation system design and professional landscape lighting that enhances beauty, safety, and functionality across your entire property."
+      },
+      {
+        "title": "Commercial Property Care",
+        "description": "Comprehensive grounds maintenance, landscaping, snow removal, and storm water management for businesses and institutions across Central PA."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Property",
+    "steps": [
+      {
+        "title": "Schedule a Consultation",
+        "description": "Tell us about your vision. We'll visit your property, listen carefully, and provide an honest, detailed estimate within 48 hours. No pressure, no obligation."
+      },
+      {
+        "title": "We Execute with Precision",
+        "description": "Our experienced crews arrive on schedule with professional equipment. Every project is managed with the precision, dependability, and innovation that have defined us for 31 years."
+      },
+      {
+        "title": "Enjoy the Results",
+        "description": "Your property looks exactly the way you imagined, maintained to the highest standard. And if something isn't right, we come back and make it right. That's the Hubler commitment."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central PA Trusts Us",
+    "headline": "Not Just a Landscaper — Your Complete Property Partner",
+    "description": "Family-owned and serving Central Pennsylvania since 1995, J. Hubler Landscaping was built on superior craftsmanship and a continued pursuit of excellence. Our core values of Precision, Honesty, Innovation, Dependability, and Efficiency guide every project we touch. From your first phone call to project completion, our team treats your property like their own.",
+    "badge": "ICPI Certified",
+    "features": [
+      {
+        "title": "PA Licensed & ICPI Certified",
+        "description": "Fully licensed in Pennsylvania (072665) and ICPI certified. Our credentials back up our commitment to professional-grade workmanship."
+      },
+      {
+        "title": "One Company, Every Service",
+        "description": "Lawn care, landscaping, pools, hardscaping, irrigation, lighting, snow removal, and more. One trusted team handles it all year-round."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "31 years of earned trust. If any work doesn't meet your expectations, we come back and make it right at no additional charge."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Honest Estimates.",
+    "subtitle": "Every project is unique. We provide detailed, written estimates so you know exactly what you're getting. No hidden fees, no surprises."
+  },
+  "guarantee": {
+    "headline": "Our Craftsmanship Guarantee",
+    "description": "If you're not completely satisfied with any work we perform, we'll return and make it right at no additional cost. After 31 years in business, our reputation is built on standing behind every project. We don't consider a job done until you're thrilled with the result."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in Central PA?",
+      "answer": "We serve a 7-county region including Lancaster, York, Lebanon, Dauphin, Cumberland, Perry, and Berks counties. If you're in Central Pennsylvania, chances are we can help. Call us and we'll confirm coverage for your address."
+    },
+    {
+      "question": "Can you really handle both lawn care and pool installation?",
+      "answer": "Absolutely. We're far from your typical landscaper. With 31 years of experience, we've built the team and expertise to handle everything from a 5-step turf care program to full in-ground pool construction, all under one roof. That means one trusted team for your entire property."
+    },
+    {
+      "question": "Do you use organic products for lawn care?",
+      "answer": "Yes. Our elite lawn care program uses organic-based fertilizers combined with targeted weed control, grub treatment, and mosquito and tick management. It's effective, responsible, and designed for Central Pennsylvania's climate and soil conditions."
+    },
+    {
+      "question": "How long does a pool installation take?",
+      "answer": "A typical in-ground pool installation takes 6-12 weeks depending on design complexity and permitting. We manage the entire process from start to finish, including permits, excavation, construction, and final inspection so you can enjoy a stress-free experience."
+    },
+    {
+      "question": "Do you offer commercial property services?",
+      "answer": "Yes, we provide comprehensive commercial grounds maintenance, landscaping, snow removal, hydroseeding, and storm water management. We're a COSTARS member, which means we can work with Pennsylvania municipalities and government agencies as well."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jackie A.",
+      "text": "Their customer service continues to exceed my expectations every time! The attention to detail and consistency is what keeps me coming back year after year. I wouldn't trust anyone else with my property.",
+      "context": "Property Maintenance Client",
+      "initials": "JA"
+    },
+    {
+      "name": "Anne K.",
+      "text": "Karl was genuinely interested in what we wanted for our landscaping and followed through with thoroughness, accuracy, and attention to detail. The crew was prompt, courteous, and reliable with professional follow-up after project completion.",
+      "context": "Landscaping Project",
+      "initials": "AK"
+    },
+    {
+      "name": "Mike T.",
+      "text": "Jon at J. Hubler Landscaping delivers excellence at every turn with truly unmatched attention to detail. He is a trusted advisor who understands what is best for your property. 31 years in business tells you everything you need to know.",
+      "context": "Full Property Services",
+      "initials": "MT"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Property?",
+    "subtitle": "Get a free, no-obligation consultation and estimate. We'll visit your property, discuss your vision, and provide honest pricing for every service you need.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Detailed written estimate within 48 hours",
+      "31 years of Central PA craftsmanship"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned property care since 1995. Serving 7 counties across Central Pennsylvania.",
+    "service_area": "Serving Lancaster, York, Lebanon, Dauphin, Cumberland, Perry & Berks Counties",
+    "services": [
+      "Turf Care Programs",
+      "Landscaping & Planting",
+      "Pool Installation",
+      "Hardscaping & Patios",
+      "Commercial Services"
+    ],
+    "copyright": "&copy; 2024 J. Hubler Landscaping, Inc. All rights reserved. PA License #072665"
+  }
+}

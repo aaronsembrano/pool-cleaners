@@ -1,0 +1,183 @@
+{
+  "folder_name": "professional-poolcare",
+  "company_name": "Professional Poolcare & Construction",
+  "tagline": "A Smarter Service Company",
+  "phone": "(407) 255-7665",
+  "email": "peter.degregory@professionalpoolcareorlando.com",
+  "colors": {
+    "primary": "#1a6fa0",
+    "primary_dark": "#0d3b5e",
+    "primary_deeper": "#092a44",
+    "secondary": "#4db8e8",
+    "cta": "#e8892d",
+    "cta_dark": "#c97322"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured - CPC1459913",
+    "badge_2": "4.2/5 from 64+ Reviews",
+    "badge_3": "Serving Orlando Since 1993"
+  },
+  "hero": {
+    "badge_1": "4.2/5 from 64+ Google Reviews",
+    "badge_2": "BBB Accredited Business",
+    "headline": "30+ Years Keeping Orlando <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "When your pool needs more than just a guy with a net, call the licensed commercial pool builder that other pool companies call for advice. Professional Poolcare has been Central Florida's trusted pool experts since 1993.",
+    "cta_text": "Get a Free Pool Assessment",
+    "checkmarks": [
+      "Free pool & equipment inspection",
+      "Live person always answers the phone",
+      "Online portal for service logs & billing"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Pools Serviced Since 1993",
+    "stat_2_value": "30",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "64",
+    "stat_3_label": "Google Reviews",
+    "stat_4_value": "3",
+    "stat_4_label": "Counties Served"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Cleaning to Construction",
+    "subtitle": "From weekly maintenance to full pool builds, we handle every aspect of pool ownership so you can focus on enjoying your backyard oasis.",
+    "cards": [
+      {
+        "title": "Weekly Pool Cleaning",
+        "description": "Dependable weekly service including skimming, brushing, vacuuming, and precise chemical balancing. Your pool stays swim-ready every single week."
+      },
+      {
+        "title": "Pool Repair & Equipment",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, lights, timers, and robotic cleaners. Most repairs completed same-visit."
+      },
+      {
+        "title": "Leak Detection",
+        "description": "Professional leak detection services to find and fix leaks in your pool structure, plumbing, or equipment before they become costly problems."
+      },
+      {
+        "title": "Pool Resurfacing",
+        "description": "Restore your pool's beauty with premium resurfacing options. We use high-quality materials to give your pool a fresh, long-lasting finish."
+      },
+      {
+        "title": "Renovations & Remodeling",
+        "description": "Transform your pool with new tile, deck upgrades, water features, LED lighting, and modern design updates. Make your backyard a resort."
+      },
+      {
+        "title": "New Pool Construction",
+        "description": "Custom pool design and construction by a licensed commercial pool builder. Including Blue Hawaiian fiberglass pool installations."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Call or Request a Quote",
+        "description": "A real person answers every call. Tell us about your pool and we'll schedule a free on-site assessment. No phone trees, no voicemail runarounds."
+      },
+      {
+        "title": "We Take It From Here",
+        "description": "Our experienced technicians arrive on schedule and handle everything. Track your service through our online portal with photos, chemical readings, and service logs."
+      },
+      {
+        "title": "Dive In and Relax",
+        "description": "Your pool stays crystal clear and swim-ready year-round. If anything ever needs attention, we're just a phone call away and a real person will answer."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Orlando Trusts Us",
+    "headline": "The Pool Expert Other Pool Companies Call for Advice",
+    "description": "Founded in 1993 by licensed commercial pool builder Pete DeGregory, Professional Poolcare has spent three decades earning Central Florida's trust. Pete is regularly consulted by other pool company owners on complex repair issues. We built our reputation on improved communication, courtesy, and attention to detail because your pool deserves more than guesswork.",
+    "badge": "Licensed Commercial Pool Builder",
+    "features": [
+      {
+        "title": "Online Client Portal",
+        "description": "View service logs, chemical readings, invoices, and make credit card payments through your personal online portal anytime."
+      },
+      {
+        "title": "A Real Person Answers Every Call",
+        "description": "No call centers, no voicemail mazes. You'll always reach a live person who can help you right away."
+      },
+      {
+        "title": "Photo-Documented Service",
+        "description": "We photograph all pool equipment and digitally track every route and service visit for complete transparency and accountability."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every pool is different. Contact us for a custom quote based on your pool's size, features, and service needs. No contracts required."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Promise",
+    "description": "If you're not completely satisfied with any service visit, call us and a real person will answer. We'll come back and make it right at no extra charge. With 30+ years of experience, we've built our reputation on doing the job right the first time, and standing behind our work when you need us."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are added to our route within one week. We'll start with a comprehensive pool and equipment inspection so we know exactly what your pool needs from day one."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate access and we handle everything. You can review exactly what was done through your online portal, including chemical readings and service notes."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. We are a licensed commercial pool contractor (CPC1459913), bonded, and fully insured. Our owner holds a state contractor registration and is recognized as a HomeAdvisor Elite Service provider."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Orange, Seminole, and North Osceola counties including Orlando, Longwood, Altamonte Springs, Winter Park, Lake Mary, Oviedo, Sanford, Casselberry, Maitland, Winter Springs, and Windermere."
+    },
+    {
+      "question": "Can you build a new pool?",
+      "answer": "Absolutely. Our owner Pete DeGregory is a licensed commercial pool builder. We offer custom pool design and construction including Blue Hawaiian fiberglass pool installations. From concept to first splash."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert P.",
+      "context": "Customer for 5+ years",
+      "initials": "RP",
+      "text": "I have used Professional Pool Care for 5 or 6 years with NEVER a complaint. Pete DeGregory is ALWAYS TRUE TO HIS WORD. You can count on this team to deliver."
+    },
+    {
+      "name": "Brian W.",
+      "context": "Customer for 10 years",
+      "initials": "BW",
+      "text": "I have enjoyed the service of Professional Poolcare for close to 10 years and have no complaints. Pete handles all issues in a very professional manner at a reasonable price."
+    },
+    {
+      "name": "Kim P.",
+      "context": "Pool heater repair client since 2013",
+      "initials": "KP",
+      "text": "Professional Pool Care has serviced me with my pool heater repair needs since 2013. They are quick, reliable, professional and very helpful. I wouldn't trust anyone else."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
+    "subtitle": "Get a free, no-obligation pool assessment. Call us and a real person will answer, or fill out the form and we'll respond within 24 hours.",
+    "benefits": [
+      "Free on-site pool & equipment inspection",
+      "Real person answers every call",
+      "30+ years of Central Florida expertise"
+    ]
+  },
+  "footer": {
+    "description": "Licensed commercial pool builder serving Central Florida since 1993. Over 30 years of trusted pool care.",
+    "service_area": "Serving Orange, Seminole & North Osceola Counties",
+    "services": [
+      "Weekly Pool Cleaning",
+      "Pool Repair & Equipment",
+      "Leak Detection",
+      "Renovations & Remodeling",
+      "New Pool Construction"
+    ],
+    "copyright": "&copy; 2024 Professional Poolcare & Construction. All rights reserved. Licensed Commercial Pool Builder #CPC1459913"
+  },
+  "review_count": "64",
+  "review_rating": "4.2"
+}

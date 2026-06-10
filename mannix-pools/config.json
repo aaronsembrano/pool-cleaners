@@ -5,180 +5,176 @@
   "phone": "+1 863-326-9656",
   "email": "info@mannixpools.net",
   "logo_path": "logo.png",
-  "review_count": "94",
-  "review_rating": "4.6",
+  "review_count": "66",
+  "review_rating": "4.0",
   "colors": {
-    "primary": "#1a5276",
-    "primary_dark": "#123a54",
-    "primary_deeper": "#0c2738",
-    "secondary": "#2980b9",
-    "cta": "#e67e22",
-    "cta_dark": "#d35400"
-  },
-  "trust_badges": {
-    "badge_1": "FL Certified Contractor CPC-1458804",
-    "badge_2": "4.6/5 from 94+ Reviews",
-    "badge_3": "BBB Accredited Since 2001"
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a44",
+    "primary_deeper": "#0d1f33",
+    "secondary": "#4a90d9",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
   },
   "hero": {
-    "badge_1": "4.6/5 from 94+ Google Reviews",
-    "badge_2": "BBB Accredited Business",
-    "headline": "27 Years of Outdoor Living <span class=\"text-secondary italic\">Done Right</span>",
-    "subheadline": "Since 1999, Mannix Pools & Grills has been Polk County's trusted name for pool care, remodeling, pavers, and outdoor kitchens. From weekly maintenance to full backyard transformations, BJ and his team handle it all so you can simply enjoy your outdoor space.",
-    "cta_text": "Get My Free Site Visit",
+    "headline": "27 Years of Polk County <span class=\"text-secondary italic\">Pool Perfection</span>",
+    "subheadline": "From weekly maintenance to stunning remodels and outdoor kitchens, Mannix Pools & Grills has been the name Winter Haven families trust since 1999. Florida State Certified, BBB A+ rated, and chemicals always included.",
+    "badges": [
+      "FL Certified Contractor - CPC-1458804",
+      "BBB A+ Rated Since 2001"
+    ],
     "checkmarks": [
-      "Free on-site visit & quote",
-      "No surprise charges ever",
-      "FL State Certified Contractor"
-    ]
+      "Chemicals included with every weekly service",
+      "Factory-trained technicians on every job",
+      "Full outdoor living: pools, grills, kitchens & pavers"
+    ],
+    "cta_text": "Get Your Free Estimate Today"
   },
   "stats": {
-    "stat_1_value": "1500",
-    "stat_1_label": "Projects Completed",
-    "stat_2_value": "27",
-    "stat_2_label": "Years in Business",
-    "stat_3_value": "5000",
+    "stat_1_value": "27",
+    "stat_1_label": "Years Serving Polk County",
+    "stat_2_value": "66",
+    "stat_2_label": "5-Star Google Reviews",
+    "stat_3_value": "2500",
     "stat_3_label": "Pools Serviced",
-    "stat_4_value": "Top 22%",
-    "stat_4_label": "FL Licensed Contractors"
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Outdoor Living<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "From crystal-clear pools to show-stopping outdoor kitchens, Mannix handles every detail of your backyard. One company, one call, total peace of mind.",
+    "headline": "Complete Outdoor Living Solutions",
+    "subtitle": "From crystal-clear pools to sizzling grills, we handle every detail of your backyard paradise.",
     "cards": [
       {
         "title": "Pool Maintenance",
-        "description": "Weekly professional pool cleaning with chemicals included. Green pool cleanup and restoration to get your pool sparkling clear and keep it that way all season."
+        "description": "Professional weekly cleaning with chemicals included. We also rescue green pools and restore them to sparkling condition fast."
       },
       {
         "title": "Pool Remodeling",
-        "description": "Complete pool renovation including new tile, coping, LED lighting, sun shelves, bubblers, auto fill systems, and equipment upgrades. Free site visits and quotes."
+        "description": "Transform your outdated pool into a modern backyard retreat. New finishes, tile, coping, and complete renovations done right."
       },
       {
         "title": "Equipment Sales & Repair",
-        "description": "Top-brand pool equipment sales and expert repair for pumps, filters, heaters, and automation systems. Fast diagnosis and most repairs done same-visit."
+        "description": "Top-brand pool equipment sold and serviced by factory-trained technicians. Pumps, filters, heaters, and automation systems."
       },
       {
         "title": "Custom Pavers",
-        "description": "Beautiful walkways, patios, and pool surrounds with unlimited design options. Professional installation of durable paver systems that transform your outdoor space."
+        "description": "Beautiful walkways, patios, and pool decks designed to complement your home. Dozens of styles and colors available."
       },
       {
         "title": "Outdoor Kitchens",
-        "description": "Custom-designed outdoor cooking spaces with all the amenities for the ultimate backyard entertaining experience. Built to last and made to impress."
+        "description": "Custom-designed cooking spaces with premium materials and built-in features for the ultimate backyard entertaining experience."
       },
       {
-        "title": "Premium Grills",
-        "description": "Quality grills from top brands you won't find in big box stores. Expert guidance on selection and setup so you get the perfect grill for your lifestyle."
+        "title": "Grills & Accessories",
+        "description": "Authorized dealer for Big Green Egg, Delta Heat, and Napoleon grills. Expert guidance to find your perfect setup."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Your Dream Backyard",
+    "headline": "Getting Started Is Easy",
     "steps": [
       {
-        "title": "Schedule Your Free Visit",
-        "description": "Call or fill out the form and BJ will personally visit your property. You'll get an honest, detailed quote with no pressure and no hidden fees."
+        "title": "Call or Request a Quote",
+        "description": "Reach out by phone or form. Tell us about your pool, outdoor space, or project vision."
       },
       {
-        "title": "We Get to Work",
-        "description": "Our FL State Certified team handles everything — from weekly pool care to full remodels and outdoor builds. We stay in contact throughout every project."
+        "title": "Free On-Site Consultation",
+        "description": "A factory-trained technician visits your property, assesses your needs, and provides an honest, no-surprise quote."
       },
       {
         "title": "Enjoy Your Backyard",
-        "description": "Your pool stays crystal clear, your outdoor space looks incredible, and you get to spend time where it matters — relaxing with family and friends."
+        "description": "We complete the work on time and on budget. Then sit back and enjoy your upgraded outdoor living space."
       }
     ]
   },
   "about": {
-    "label": "Why Polk County Trusts Us",
-    "headline": "Family-Owned Since 1999 — Your Neighbors, Not a Franchise",
-    "description": "Mannix Pools & Grills has been serving Polk County for over 27 years. Owner BJ is personally involved in every project, ensuring the same craftsmanship and attention to detail that earned us BBB Accreditation and a top 22% ranking among Florida licensed contractors. We treat every backyard like our own because your neighbors are our neighbors too.",
-    "badge": "FL Certified CPC-1458804",
+    "label": "About Mannix Pools & Grills",
+    "headline": "A Winter Haven Family Business Since 1999",
+    "description": "Founded by B.J. Mannix as a one-person operation, Mannix Pools & Grills has grown into Polk County's trusted full-service outdoor living provider. Born in Mitchell, Indiana and raised right here in Winter Haven, B.J. built this company on relationships, not contracts. Every technician is factory-trained, every quote is fair, and every customer is treated like a neighbor. As B.J. says: \"Nothing is more satisfying than a customer who loves the work we do and tells their friends.\"",
+    "badge": "FL State Certified Contractor - CPC-1458804",
     "features": [
       {
-        "title": "Owner-Operated Quality",
-        "description": "BJ personally oversees every project from quote to completion. You deal with the owner, not a revolving door of subcontractors."
+        "title": "27+ Years of Local Expertise",
+        "description": "Serving Polk County since 1999 with deep knowledge of local pool conditions and building codes."
       },
       {
-        "title": "No Surprises. Competitive Pricing.",
-        "description": "You get an honest quote upfront and that's what you pay. No hidden fees, no surprise charges, no bait-and-switch. Ever."
+        "title": "Certified Warranty Center",
+        "description": "Authorized warranty center for major manufacturers. Your equipment repairs are covered and done right."
       },
       {
-        "title": "Full-Service Outdoor Living",
-        "description": "Pools, pavers, outdoor kitchens, and grills — all from one trusted company. No juggling multiple contractors for your backyard project."
+        "title": "No Contracts, Just Results",
+        "description": "We earn your business every visit. No long-term commitments — just honest work and fair pricing."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Zero Surprises.",
-    "subtitle": "Get a free on-site quote tailored to your pool and outdoor space. Competitive rates with no hidden fees — just honest pricing from a company that's been here 27 years."
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every quote includes chemicals, labor, and honest communication from start to finish. No hidden fees, ever."
   },
   "guarantee": {
-    "headline": "Our \"Done Right\" Guarantee",
-    "description": "If you're not 100% satisfied with any work we perform, we'll come back and make it right at no additional cost. With 27 years of serving Polk County, our reputation is everything — and we stand behind every job until you're completely happy."
+    "headline": "Our 100% Satisfaction Promise",
+    "description": "We stand behind every service call, remodel, and installation. If you are not completely satisfied with our work, we will make it right at no additional cost. That is the Mannix commitment — the same integrity that has kept Polk County families coming back for over 27 years."
   },
   "faqs": [
     {
-      "question": "How long has Mannix Pools been in business?",
-      "answer": "Since 1999 — over 27 years serving Polk County. We're a FL State Certified Pool/Spa Contractor (CPC-1458804) and BBB Accredited since 2001. We rank in the top 22% of all Florida licensed contractors."
-    },
-    {
-      "question": "Do you offer free quotes and site visits?",
-      "answer": "Yes! BJ will personally visit your property, assess your pool or outdoor project, and provide a detailed, no-pressure quote. There's never a charge for estimates and we never use high-pressure sales tactics."
-    },
-    {
       "question": "What areas do you serve?",
-      "answer": "We serve Winter Haven, Lakeland, Auburndale, Lake Wales, Haines City, Cypress Gardens, and throughout Polk County and Central Florida. If you're nearby, give us a call and we'll let you know."
+      "answer": "We serve all of Polk County including Winter Haven, Lakeland, Lake Wales, Bartow, Auburndale, Davenport, Haines City, Lake Alfred, Mulberry, Eagle Lake, Frostproof, and Polk City."
     },
     {
-      "question": "Can you handle both pool service and outdoor remodeling?",
-      "answer": "Absolutely. We're a full-service outdoor living company. Whether you need weekly pool maintenance, a complete pool remodel, new pavers, an outdoor kitchen, or a premium grill, we handle it all under one roof."
+      "question": "Are chemicals included with weekly pool service?",
+      "answer": "Yes! All necessary chemicals are included with our weekly pool maintenance plans. No surprise chemical charges or add-on fees."
     },
     {
-      "question": "Will there be hidden fees or surprise charges?",
-      "answer": "Never. We provide a detailed quote before any work begins and we stick to it. Our customers consistently praise our competitive pricing and transparency. What we quote is what you pay — period."
+      "question": "Are your technicians certified?",
+      "answer": "Absolutely. All our technicians are factory-trained and we are a Florida State Certified Pool Contractor (CPC-1458804) and certified warranty center for major manufacturers."
+    },
+    {
+      "question": "Do you offer free estimates?",
+      "answer": "Yes, we provide free on-site consultations and estimates for all projects including remodels, pavers, outdoor kitchens, and equipment installations."
+    },
+    {
+      "question": "Can you help with my green or neglected pool?",
+      "answer": "Definitely. Green pool cleanup is one of our specialties. We can restore even the most neglected pools to crystal-clear condition, usually within a few days."
     }
   ],
   "testimonials": [
     {
-      "name": "Long-time Customer",
-      "text": "I have used Mannix Pools for 11 years and they have always provided wonderful and fast service. My pool went from green to sparkling clear and stays that way at very reasonable prices.",
-      "context": "Pool Maintenance, 11 years",
+      "name": "Loyal Customer",
+      "text": "We have been using Mannix Pools for 11 years and always had wonderful and fast service. They truly treat you like family.",
+      "context": "Pool Maintenance",
       "initials": "LC"
     },
     {
-      "name": "Pool Remodel Client",
-      "text": "Mannix totally remodeled our pool — LED light, sun shelf, bubblers, auto fill, new pavers, coping, tile, and new equipment. The work was outstanding and they maintained contact throughout the entire project.",
-      "context": "Full Pool Remodel",
+      "name": "Pool Remodel Customer",
+      "text": "Mannix totally remodeled our pool, always were in contact and went above and beyond! Our pool and deck look absolutely great!",
+      "context": "Pool Remodeling",
       "initials": "PR"
     },
     {
       "name": "Satisfied Homeowner",
-      "text": "Work was professionally done and on schedule. They were timely, stayed within the quote with no surprises, and offered competitive pricing. The staff and owner BJ are extremely friendly and knowledgeable.",
-      "context": "General Service",
+      "text": "They were timely and stayed in quote with no surprises. Very professional and honest. Exactly what you want in a contractor.",
+      "context": "Pool Service",
       "initials": "SH"
     }
   ],
   "contact": {
-    "headline": "Ready to Transform<br>Your Backyard?",
-    "subtitle": "Get a free on-site visit and quote from BJ himself. No contracts, no pressure — just 27 years of honest expertise for your pool and outdoor living space.",
+    "headline": "Ready to Transform Your Backyard?",
+    "subtitle": "Call us today or fill out the form for a free, no-obligation estimate on any pool or outdoor living project.",
     "benefits": [
-      "Free on-site visit with every quote",
-      "Personal response from owner BJ",
-      "27 years of Polk County expertise"
+      "Free on-site consultation and estimate",
+      "Same-week scheduling available",
+      "Serving all of Polk County since 1999"
     ]
   },
   "footer": {
-    "description": "Family-owned outdoor living experts. Serving Polk County since 1999.",
-    "service_area": "Serving Winter Haven, Lakeland & All of Polk County",
+    "description": "Mannix Pools & Grills has proudly served Polk County families since 1999. Florida State Certified Contractor providing pool maintenance, remodeling, outdoor kitchens, pavers, and premium grills.",
+    "service_area": "Serving Winter Haven, Lakeland, Lake Wales, Bartow, Auburndale, Davenport, Haines City, and all of Polk County, Florida.",
     "services": [
       "Pool Maintenance",
       "Pool Remodeling",
       "Equipment Repair",
-      "Pavers & Kitchens",
-      "Grills & BBQ"
+      "Outdoor Kitchens",
+      "Pavers & Decks"
     ],
-    "copyright": "&copy; 2024 Mannix Pools & Grills. All rights reserved. FL Certified Pool/Spa Contractor #CPC-1458804"
+    "copyright": "Mannix Pools & Grills. All rights reserved. FL Certified Contractor CPC-1458804."
   }
 }
