@@ -2,183 +2,183 @@
   "folder_name": "aloha-pool-service",
   "company_name": "Aloha Pool Service",
   "tagline": "All you have to do is dive in. We'll handle the rest.",
-  "phone": "(817) 560-7665",
+  "phone": "+1 817-560-7665",
   "email": "howdy@alohapoolstexas.com",
-  "logo_path": "logo.webp",
-  "review_count": "123",
+  "logo_path": "logo.png",
+  "review_count": "122",
   "review_rating": "4.5",
   "colors": {
-    "primary": "#1B3A5C",
-    "primary_dark": "#122842",
-    "primary_deeper": "#0C1C2E",
-    "secondary": "#3B82F6",
-    "cta": "#F59E0B",
-    "cta_dark": "#D97706"
+    "primary": "#1a6fa0",
+    "primary_dark": "#145a82",
+    "primary_deeper": "#0e4565",
+    "secondary": "#f5a623",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
   },
   "trust_badges": {
-    "badge_1": "Employee-Owned Company",
-    "badge_2": "4.5/5 from 123+ Reviews",
-    "badge_3": "Award-Winning Service"
+    "badge_1": "Best Pool Co. in Fort Worth (2022)",
+    "badge_2": "4.5/5 from 122+ Reviews",
+    "badge_3": "Employee-Owned Company"
   },
   "hero": {
-    "badge_1": "4.5/5 from 123+ Google Reviews",
-    "badge_2": "Best Pool Company in Fort Worth",
-    "headline": "Your Pool, Our Passion <span class=\"text-secondary italic\">Since 2006</span>",
-    "subheadline": "Aloha Pool Service is employee-owned, meaning every technician has real skin in the game. Award-winning care from certified pros who treat your pool like it's their own. All you have to do is dive in.",
-    "cta_text": "Get My Free Pool Assessment",
+    "badge_1": "Best Pool Company in Fort Worth — Fort Worth Magazine",
+    "badge_2": "Top 50 Pool Company in the U.S.",
+    "headline": "Fort Worth's Award-Winning <span class=\"text-secondary italic\">Employee-Owned<br>Pool Team</span>",
+    "subheadline": "All you have to do is dive in. Our certified, employee-owner technicians handle every detail of your pool care with the pride and accountability that earned us Best Pool Company in Fort Worth and a Top 50 national ranking.",
+    "cta_text": "Get Your Free Pool Quote",
     "checkmarks": [
-      "Free pool inspection included",
-      "Award-winning DFW team",
-      "Employee-owned dedication"
+      "All certified pool technicians",
+      "Employee-owned accountability",
+      "Award-winning service since 2018"
     ]
   },
   "stats": {
-    "stat_1_value": "3000",
-    "stat_1_label": "Pools Maintained",
-    "stat_2_value": "20",
-    "stat_2_label": "Years in DFW",
-    "stat_3_value": "50",
-    "stat_3_label": "Top US Ranking",
-    "stat_4_value": "100%",
-    "stat_4_label": "Employee-Owned"
+    "stat_1_value": "122+",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "8",
+    "stat_2_label": "Years Serving DFW",
+    "stat_3_value": "Top 50",
+    "stat_3_label": "Pool Company in the U.S.",
+    "stat_4_value": "#1",
+    "stat_4_label": "in Fort Worth (2022)"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> a Team That Owns the Outcome",
-    "subtitle": "When every technician is an owner, every pool gets treated like it matters. From weekly maintenance to emergency rescues, we handle it all so you can enjoy your backyard oasis.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">Fort Worth's Best",
+    "subtitle": "From weekly maintenance to green pool rescues, our certified employee-owners deliver pool care with a level of pride and precision that's earned us national recognition.",
     "cards": [
       {
         "title": "Weekly Pool Service",
-        "description": "Chemical balancing, skimming, brushing, and equipment checks every week. Your pool stays crystal-clear and swim-ready without you lifting a finger."
-      },
-      {
-        "title": "Pool Repairs",
-        "description": "Pumps, heaters, filters, plumbing — our certified technicians diagnose and fix it right the first time. Most repairs completed same-visit."
-      },
-      {
-        "title": "Green Pool Cleaning",
-        "description": "Algae took over? We'll restore your green pool to sparkling blue in 48-72 hours. Emergency same-day response available across DFW."
+        "description": "Consistent weekly maintenance keeps your water crystal clear and chemically balanced. Your pool stays swim-ready every single day — that's our promise as employee-owners."
       },
       {
         "title": "Filter Cleanings",
-        "description": "Thorough cleaning and inspection of your pool filters to ensure optimal water circulation and peak filtration performance year-round."
+        "description": "Thorough cleaning and inspection of your pool filters to ensure optimal circulation and filtration. Proper filter care prevents costly equipment problems down the road."
       },
       {
         "title": "Pool Inspections",
-        "description": "Comprehensive inspections covering equipment, surfaces, plumbing, and safety features — perfect for homebuyers or annual checkups."
+        "description": "Comprehensive inspections for homebuyers, sellers, and property owners. Our certified technicians assess every component and deliver an honest, detailed report."
       },
       {
-        "title": "Seasonal Start-Ups & Winterization",
-        "description": "From spring openings to winter shutdowns, we protect your pool investment through every Texas season with full-service care."
+        "title": "Pool Repairs",
+        "description": "Expert diagnosis and repair of equipment, plumbing, and structural issues. We fix the root cause right the first time so your pool gets back to peak performance fast."
+      },
+      {
+        "title": "Green Pool Cleaning",
+        "description": "Neglected pool turned swamp green? Our specialized treatment process restores even the worst pools back to clean, clear, swimmable condition — often faster than you'd expect."
+      },
+      {
+        "title": "Pool Winterization & Start-Ups",
+        "description": "Complete seasonal opening and closing services including equipment checks, chemical balancing, and system protection to keep your pool safe through every Texas season."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to the Aloha Experience",
+    "headline": "Three Steps to an Aloha-Level Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Assessment",
-        "description": "Tell us about your pool and we'll provide an honest, no-pressure quote within 24 hours. No contracts, no commitments — just straightforward pricing."
+        "title": "Request Your Free Quote",
+        "description": "Tell us about your pool and what you need. We'll assess everything, answer your questions, and provide a clear, no-pressure quote — typically within 48 hours."
       },
       {
-        "title": "Our Owners Show Up",
-        "description": "Because we're employee-owned, your technician isn't just doing a job — they're building their future. Certified pros arrive on schedule and handle everything."
+        "title": "Meet Your Certified Technician",
+        "description": "You're matched with a certified, employee-owner technician who takes personal pride in your pool. They know your system inside and out and treat it like their own."
       },
       {
         "title": "Dive In and Relax",
-        "description": "Your pool stays crystal-clear and worry-free. Pools are where your favorite memories are made — we handle the rest so you can make more of them."
+        "description": "Your pool stays pristine, your equipment runs smoothly, and you never stress about maintenance again. All you have to do is enjoy the water — we handle everything else."
       }
     ]
   },
   "about": {
     "label": "Why Fort Worth Trusts Aloha",
-    "headline": "Employee-Owned Means Every Tech Has Skin in the Game",
-    "description": "Since 2006, Aloha Pool Service has been the DFW area's most trusted pool care team. We're not a franchise — we're an employee-owned company where every technician is invested in your satisfaction. Named Best Pool Company in Fort Worth by Fort Worth Magazine and ranked among the Top 50 Pool Companies in America, our award-winning team brings certified expertise and genuine ownership mentality to every backyard we service.",
-    "badge": "Top 50 in the US",
+    "headline": "Employee-Owned. Award-Winning. All Certified.",
+    "description": "Aloha Pool Service isn't your typical pool company. We're employee-owned — meaning every technician who works on your pool has a personal stake in getting it right. That ownership mentality has earned us Best Pool Company in Fort Worth (Fort Worth Magazine, 2022) and a Top 50 ranking nationally (Pool & Spa News). Every technician on our team is a certified pool professional, and we've been serving the DFW metroplex with pride since 2018.",
+    "badge": "Top 50 Nationally",
     "features": [
       {
-        "title": "Certified Pool Technicians",
-        "description": "Every Aloha technician is professionally certified and trained to the highest industry standards before servicing your pool."
-      },
-      {
         "title": "Employee-Owned Accountability",
-        "description": "Our ownership structure means every team member has a personal stake in delivering exceptional service — not just a paycheck."
+        "description": "Every technician is an employee-owner with a personal stake in your satisfaction. That means higher standards, more care, and service that goes above and beyond."
       },
       {
-        "title": "Award-Winning Since 2006",
-        "description": "Recognized by Fort Worth Magazine and Pool & Spa News nationally, our track record speaks for itself. Nearly 20 years of proven results."
+        "title": "All Certified Professionals",
+        "description": "Every pool tech on our team holds professional certifications. You'll never get an untrained helper — only knowledgeable experts who can handle any pool situation."
+      },
+      {
+        "title": "Award-Winning Track Record",
+        "description": "Recognized by Fort Worth Magazine and Pool & Spa News for excellence, our awards reflect thousands of happy pool owners across the DFW area."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. No Surprises.",
-    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — we earn your business every visit."
+    "headline": "Simple, Transparent Pool Service Pricing",
+    "subtitle": "Choose the plan that fits your pool. Every plan comes with certified technicians and our employee-owner commitment to quality."
   },
   "guarantee": {
-    "headline": "The Aloha \"Crystal Clear\" Guarantee",
-    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back and make it right at no extra charge. That's the Aloha promise — backed by 20 years of award-winning service and the pride of employee ownership. We don't rest until your pool is perfect."
+    "headline": "The Aloha Satisfaction Promise",
+    "description": "When employee-owners take care of your pool, the standard is higher. If you're ever unsatisfied with a service visit, call us and we'll come back to make it right — no extra charge, no runaround. Our reputation as Fort Worth's best didn't happen by accident. It happened because we treat every pool like it belongs to us. That's the Aloha difference."
   },
   "faqs": [
     {
-      "question": "How quickly can Aloha start servicing my pool?",
-      "answer": "Most new clients in the Fort Worth and DFW area are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Just call us at (817) 560-7665 and we'll work with your schedule."
-    },
-    {
       "question": "What makes Aloha different from other pool companies?",
-      "answer": "We're employee-owned — every technician has a real ownership stake in the company. That means the person servicing your pool isn't just clocking hours, they're building their future. Combined with our certified technicians and nearly 20 years of experience, you get a level of care other companies simply can't match."
+      "answer": "We're employee-owned, which means every technician on your property has a personal stake in doing excellent work. Combined with the fact that all our techs are certified pool professionals, you get a level of care and expertise that earned us Best Pool Company in Fort Worth and a Top 50 national ranking."
     },
     {
-      "question": "Are your technicians certified and insured?",
-      "answer": "Yes, every Aloha technician is professionally certified, fully insured, and trained to the highest industry standards. We're also BBB Accredited and have been recognized as a Top 50 Pool Company in the United States."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are on the schedule within one week. We'll start with a pool assessment, discuss your needs, and match you with a certified technician who will handle your account going forward."
     },
     {
-      "question": "Do I need to be home when you service my pool?",
-      "answer": "Nope! Most of our clients provide gate access and we handle everything while you're away. You'll always know what was done — our team leaves detailed service notes after every visit."
+      "question": "Do you service pools outside of Fort Worth?",
+      "answer": "Yes! While we're based in the Benbrook/Fort Worth area, we serve pools throughout the entire Dallas-Fort Worth metroplex. Contact us to confirm we cover your specific neighborhood."
     },
     {
-      "question": "What areas do you serve in the DFW metroplex?",
-      "answer": "We serve Fort Worth, Benbrook, and the greater Dallas-Fort Worth metropolitan area. If you're in the DFW metroplex, chances are we've got you covered. Call us to confirm service availability in your neighborhood."
+      "question": "Are your technicians certified?",
+      "answer": "Every single technician on our team holds professional pool certifications. We don't send untrained helpers to your home — only knowledgeable, certified professionals who can diagnose issues and deliver expert care."
+    },
+    {
+      "question": "Do you require long-term contracts?",
+      "answer": "We believe in earning your trust every visit, not locking you in. Our service plans are flexible — you can adjust or cancel anytime without penalties. Most clients stay because they love the service, not because of a contract."
     }
   ],
   "testimonials": [
     {
-      "name": "Rob W.",
-      "text": "Aloha is by far the most professional and knowledgable company I have ever dealt with. Their team truly cares about doing things right.",
-      "context": "Google Review",
+      "name": "Rob Willette",
+      "text": "Aloha is by far the most professional and knowledgeable company I have ever dealt with. Their certified team knows pools inside and out.",
+      "context": "Fort Worth Customer",
       "initials": "RW"
     },
     {
-      "name": "John H.",
-      "text": "An excellent pool service company. They go up and beyond expected levels. You can tell the employee-ownership model makes a real difference in how they treat your pool.",
-      "context": "Google Review",
+      "name": "John Hayden",
+      "text": "An excellent pool service company. They go up and beyond expected levels. You can tell the employee-owners genuinely care about getting it right.",
+      "context": "Fort Worth Customer",
       "initials": "JH"
     },
     {
-      "name": "Karl B.",
-      "text": "Very thorough and always on time. Pool always looks great! Very customer oriented. Been with Aloha for years and wouldn't switch to anyone else.",
-      "context": "Google Review",
+      "name": "Karl Biggs",
+      "text": "Very thorough and always on time. Pool always looks great! Very customer oriented. Wouldn't trust anyone else with our pool.",
+      "context": "Fort Worth Customer",
       "initials": "KB"
     }
   ],
   "contact": {
-    "headline": "Ready for the Aloha<br>Difference?",
-    "subtitle": "Get a free, no-pressure pool assessment within 24 hours. No contracts, no commitments — just honest pricing from Fort Worth's best pool team.",
+    "headline": "Ready for Award-Winning<br>Pool Service?",
+    "subtitle": "Get a free quote from Fort Worth's best pool company. No pressure, no contracts — just certified, employee-owner care for your pool.",
     "benefits": [
-      "Free pool inspection with every quote",
-      "Response within 24 hours",
-      "Award-winning, employee-owned team"
+      "Free pool assessment and honest quote",
+      "Certified technician assigned to your pool",
+      "Employee-owned accountability on every visit"
     ]
   },
   "footer": {
-    "description": "Employee-owned pool service. Proudly serving DFW since 2006.",
-    "service_area": "Serving Fort Worth, Benbrook & the Greater DFW Area",
+    "description": "Employee-owned pool service. Best in Fort Worth since 2018.",
+    "service_area": "Serving Fort Worth, Benbrook & the DFW Metroplex",
     "services": [
       "Weekly Pool Service",
-      "Pool Repairs",
-      "Green Pool Cleaning",
       "Filter Cleanings",
-      "Pool Inspections"
+      "Pool Inspections",
+      "Pool Repairs",
+      "Green Pool Cleaning"
     ],
-    "copyright": "&copy; 2024 Aloha Pool Service. All rights reserved. Fort Worth, TX."
+    "copyright": "&copy; 2026 Aloha Pool Service. All rights reserved."
   }
 }

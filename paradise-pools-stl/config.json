@@ -1,183 +1,183 @@
 {
   "folder_name": "paradise-pools-stl",
   "company_name": "Paradise Pools STL",
-  "tagline": "Your Family & Veteran Owned Pool Service Experts in Greater St. Louis",
+  "tagline": "Your Trusted Family & Veteran Owned Pool Service in Greater St. Louis",
   "phone": "+1 314-665-5500",
   "email": "support@paradisepoolsstl.com",
   "review_count": "14",
-  "review_rating": "4.8",
+  "review_rating": "4.7",
   "colors": {
-    "primary": "#0077B6",
-    "primary_dark": "#005A8C",
-    "primary_deeper": "#003D5E",
-    "secondary": "#00B4D8",
-    "cta": "#E6A817",
-    "cta_dark": "#C48E12"
+    "primary": "#1a73e8",
+    "primary_dark": "#0d47a1",
+    "primary_deeper": "#092e6b",
+    "secondary": "#4fc3f7",
+    "cta": "#ff6f00",
+    "cta_dark": "#e65100"
   },
   "trust_badges": {
-    "badge_1": "BBB A+ Rated",
-    "badge_2": "4.8/5 from 14+ Reviews",
-    "badge_3": "Veteran Owned & Operated"
+    "badge_1": "Veteran & Family Owned",
+    "badge_2": "4.7/5 Google Rating",
+    "badge_3": "BBB A+ Rated"
   },
   "hero": {
-    "badge_1": "4.8/5 from 14+ Google Reviews",
+    "badge_1": "4.7/5 from 14+ Google Reviews",
     "badge_2": "BBB A+ Rated Since 2008",
-    "headline": "Veteran-Owned Pool Care <span class=\"text-secondary italic\">St. Louis<br>Families Trust</span>",
-    "subheadline": "For 18 years, our certified, background-checked technicians have kept Greater St. Louis pools crystal clear. We document every visit and send you a full report so you always know exactly what was done. Relax and enjoy your backyard — we handle the rest.",
-    "cta_text": "Request Your Free Pool Quote",
+    "headline": "Family-Owned Pool Care <span class=\"text-secondary italic\">You Can<br>Always Trust</span>",
+    "subheadline": "Your pool should be your backyard escape, not a weekend chore. Paradise Pools STL is a veteran and family owned team serving Greater St. Louis since 2008. We handle every detail so you can just dive in.",
+    "cta_text": "Get My Free Pool Quote",
     "checkmarks": [
-      "Free on-site pool inspection",
-      "Service reports after every visit",
-      "Background-checked technicians"
+      "Free pool inspection",
+      "Photo reports every visit",
+      "Military discount available"
     ]
   },
   "stats": {
     "stat_1_value": "500",
-    "stat_1_label": "Pools Maintained",
+    "stat_1_label": "Pools Serviced",
     "stat_2_value": "18",
-    "stat_2_label": "Years Serving STL",
-    "stat_3_value": "1000",
-    "stat_3_label": "Service Visits Logged",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "11",
+    "stat_3_label": "Certified Technicians",
     "stat_4_value": "A+",
     "stat_4_label": "BBB Rating"
   },
   "services": {
-    "label": "Our Pool Services",
-    "headline": "Full-Service Pool Care for<br class=\"hidden md:block\">Greater St. Louis Homeowners",
-    "subtitle": "From spring openings to winter closings and everything in between, Paradise Pools STL keeps your pool safe, clean, and swim-ready all season long.",
+    "label": "Our Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\"> Greater St. Louis Families",
+    "subtitle": "From weekly cleanings to full repairs, our certified and background-checked technicians handle everything your pool needs. Every visit includes a detailed photo report.",
     "cards": [
       {
-        "title": "Pool Opening",
-        "description": "Complete spring opening starting at $400. We remove covers, lower anchors, install hardware, and fire up your filtration. Opening Plus adds cleaning and chlorine for $500."
+        "title": "Weekly Pool Cleaning",
+        "description": "Recurring maintenance starting at $70/visit. We skim debris, empty baskets, test and balance chemicals, and email you a photo service report after every single visit."
       },
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Reliable weekly visits starting at $70. We skim debris, empty baskets, and run a full chemical check so your pool is always ready for a swim."
+        "title": "Pool Opening & Closing",
+        "description": "Comprehensive seasonal services starting at $400. We remove winter covers, install hardware, start filtration, and winterize equipment so your pool is protected year-round."
       },
       {
-        "title": "Pool Closing & Winterization",
-        "description": "Protect your pool through harsh St. Louis winters. We use advanced wet chemistry testing to close at precise chemical levels, safeguarding pipes and equipment from freeze damage."
+        "title": "Green to Clean Recovery",
+        "description": "Algae-filled pool? We restore neglected pools to crystal clear condition through deep cleaning and professional chemical treatment. Swim again in days, not weeks."
       },
       {
-        "title": "Equipment Sales & Installation",
-        "description": "New pumps, filters, and energy-efficient filtration systems installed by certified techs. We keep your pool running clean and clear with professional-grade equipment."
+        "title": "Pumps & Filter Installation",
+        "description": "Energy efficient pool pump and filtration system sales and installation. Upgrade your equipment to improve water quality and cut your monthly operating costs."
       },
       {
-        "title": "Saltwater Pool Systems",
-        "description": "Convert your chlorine pool to saltwater or maintain your existing system. Our technicians are trained in saltwater installation, servicing, and repair throughout St. Louis County."
+        "title": "Leak Detection & Repairs",
+        "description": "Professional leak detection and full repair services. We find the source of water loss and fix it before small problems turn into expensive headaches."
       },
       {
-        "title": "Pool Repairs & Plumbing",
-        "description": "Leak detection, plumbing repairs, and complete in-ground concrete pool renovations. We diagnose the problem fast and fix it right the first time."
+        "title": "Hot Tub Services",
+        "description": "Maintenance, repair, and servicing for hot tubs and spas. We keep your spa clean, safe, and running at peak performance all year long."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Crystal-Clear Pool",
+    "headline": "Three Steps to a Worry-Free Pool",
     "steps": [
       {
-        "title": "Schedule Your Free Inspection",
-        "description": "Tell us about your pool and we will come out for a no-obligation inspection. We assess your pool's condition and provide an honest, upfront quote within 24 hours."
+        "title": "Request Your Free Quote",
+        "description": "Tell us about your pool and what you need. We will provide an honest, no-pressure quote quickly. Veteran and family owned means straight talk, no gimmicks."
       },
       {
-        "title": "Our Certified Techs Go to Work",
-        "description": "Every background-checked technician arrives on schedule, performs the service, and documents everything. You receive a detailed report after each visit for complete transparency."
+        "title": "Our Certified Team Gets to Work",
+        "description": "Background-checked, certified technicians arrive on schedule. Cleaning, chemicals, equipment checks, photos, and a detailed report emailed to you after every visit."
       },
       {
-        "title": "Enjoy Your Backyard Paradise",
-        "description": "Your pool stays sparkling, balanced, and swim-ready all season. If anything is not right, we come back and make it right at no extra charge — that is our veteran's promise."
+        "title": "Enjoy Your Pool with Confidence",
+        "description": "Your pool stays crystal clear and swim-ready all season. With photo reports after every visit, you always know exactly what was done and how your pool looks."
       }
     ]
   },
   "about": {
-    "label": "Why St. Louis Trusts Paradise Pools",
-    "headline": "Family & Veteran Owned — Serving STL Since 2008",
-    "description": "Founded by Greg Maurath Jr. in 2008, Paradise Pools STL has grown from a one-man operation into the Greater St. Louis area's trusted full-service pool company. As a family and veteran owned business, we bring military-grade discipline to every pool we touch. Every technician is certified, background checked, and committed to earning your trust one visit at a time.",
+    "label": "Why St. Louis Trusts Us",
+    "headline": "Veteran Owned, Family Operated, Community Committed",
+    "description": "Founded in 2008 by Greg Maurath Jr., Paradise Pools STL has grown from a one-person operation to a team of 11 certified professionals. As a veteran and family owned business, we hold ourselves to the highest standards. Every technician is background checked and certified. Every visit includes a photo report. We treat your pool like it is our own.",
     "badge": "BBB A+ Rated",
     "features": [
       {
-        "title": "Certified & Background-Checked Techs",
-        "description": "Every technician passes a thorough background check and holds professional pool certifications before they ever step into your backyard."
+        "title": "Background-Checked & Certified",
+        "description": "Every technician passes a thorough background check and holds current certifications before ever stepping foot in your backyard."
       },
       {
-        "title": "Documented Service Reports",
-        "description": "After every visit, you receive a detailed report with photos and notes. You always know exactly what was done and what your pool needs next."
+        "title": "Photo Reports Every Visit",
+        "description": "After every service, we email you a detailed report with photos so you know exactly what was done and how your pool looks. Complete transparency."
       },
       {
-        "title": "Veteran's Honor Guarantee",
-        "description": "Not satisfied? We come back and redo the work at no charge. Our reputation is built on doing what we say — every single time."
+        "title": "Military Discount Available",
+        "description": "As a veteran owned company, we proudly offer a military discount to fellow service members and their families. Thank you for your service."
       }
     ]
   },
   "pricing": {
-    "headline": "Transparent Pricing. No Surprises.",
-    "subtitle": "Fair, upfront pricing from a veteran-owned business. Weekly maintenance starts at $70/visit. No hidden fees, no contracts required."
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Honest quotes from a veteran owned business. We accept Google Pay, PayPal, credit, debit, check, and cash."
   },
   "guarantee": {
-    "headline": "Our Veteran's Honor Guarantee",
-    "description": "If you are not 100% satisfied with any service visit, call us and we will come back to make it right at no additional cost. We built Paradise Pools STL on the same values we served our country with — integrity, accountability, and doing what we say we will do. Your satisfaction is not just a promise, it is our standard."
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back and make it right at no extra charge. We have maintained our BBB A+ rating since 2008 because we stand behind every job. Your satisfaction is not just a promise, it is how we have built our reputation."
   },
   "faqs": [
     {
-      "question": "How soon can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within 3-5 business days. For urgent situations like a green pool or equipment failure, we do our best to get to you within 24-48 hours. Just give us a call at 314-665-5500."
+      "question": "How quickly can you start service?",
+      "answer": "Most new clients are scheduled within a few days. For green pool emergencies, we respond as quickly as possible. Call us at 314-665-5500 and we will work with your schedule."
     },
     {
-      "question": "Do your technicians need me to be home?",
-      "answer": "Not at all. Most clients provide gate access and we handle everything while you are away. After each visit, you will receive a detailed service report with photos so you know exactly what was done."
+      "question": "Are your technicians background-checked?",
+      "answer": "Absolutely. Every single technician on our team passes a comprehensive background check and holds current pool service certifications. Your family's safety and peace of mind come first."
     },
     {
-      "question": "Are all your technicians background checked?",
-      "answer": "Yes, every single technician is background checked, certified, and fully insured. As a veteran-owned company, we take trust and safety seriously. You can feel confident about who is in your backyard."
+      "question": "What areas do you serve?",
+      "answer": "We serve the Greater St. Louis Area including Chesterfield, Ballwin, Manchester, Des Peres, Wildwood, Frontenac, Town and Country, Ladue, Kirkwood, Sunset Hills, and Fenton."
     },
     {
-      "question": "Can you convert my pool to saltwater?",
-      "answer": "Absolutely. We specialize in saltwater system installation and conversion throughout St. Louis County. We will evaluate your current setup, recommend the right equipment, and handle the full conversion professionally."
+      "question": "Do you send service reports?",
+      "answer": "Yes. After every single visit, we email you a detailed service report with photos so you know exactly what was done and how your pool looks. Full transparency is standard with us."
     },
     {
-      "question": "What areas do you serve around St. Louis?",
-      "answer": "We serve the Greater St. Louis Area including Chesterfield, Ballwin, Manchester, Des Peres, Wildwood, Frontenac, Town and Country, Ladue, Kirkwood, Sunset Hills, Fenton, and surrounding communities."
+      "question": "Do you offer a military discount?",
+      "answer": "Yes, we do. As a veteran owned business, we are proud to offer a military discount to active duty members, veterans, and their families. Just let us know when you request your quote."
     }
   ],
   "testimonials": [
     {
-      "name": "Allie G.",
-      "text": "Very knowledgeable, provided excellent service at a reasonable price. Highly recommend their pool opening and water balancing services.",
-      "context": "Pool Opening & Water Balancing",
-      "initials": "AG"
+      "name": "Sarah T.",
+      "text": "Paradise Pools has been taking care of our pool for years. Their technicians are professional, thorough, and always on time. The service reports with photos after every visit give us complete peace of mind.",
+      "context": "Weekly Pool Cleaning",
+      "initials": "ST"
     },
     {
-      "name": "Facebook Reviewer",
-      "text": "Paradise Pools has been maintaining our pool for years. Their technicians are always professional, thorough, and reliable. They document everything and send reports after each visit which gives us great peace of mind.",
-      "context": "Long-Term Maintenance Client",
-      "initials": "FR"
+      "name": "Michael R.",
+      "text": "As a fellow veteran, I appreciate how Greg and his team run this business. The pool opening service was flawless and they had everything running perfectly in no time. Honest, dependable people.",
+      "context": "Pool Opening Service",
+      "initials": "MR"
     },
     {
-      "name": "Local Customer",
-      "text": "Family and veteran owned business that truly cares about their customers. Fair pricing and quality work every time. Would not trust anyone else with our pool.",
-      "context": "Repeat Customer, STL Area",
-      "initials": "LC"
+      "name": "Jennifer W.",
+      "text": "We called Paradise Pools based on their BBB A+ rating and were not disappointed. Timely, professional service and they took the time to explain our entire pool system to us. Highly recommend.",
+      "context": "Manchester Area Homeowner",
+      "initials": "JW"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool You<br>Never Have to Worry About?",
-    "subtitle": "Get a free, no-obligation quote from our veteran-owned team. We respond within 24 hours with honest pricing and a plan tailored to your pool.",
+    "headline": "Ready for a Pool You<br>Never Worry About?",
+    "subtitle": "Get a free, no-pressure quote from our veteran and family owned team. Honest pricing, certified technicians, and photo reports after every visit.",
     "benefits": [
-      "Free on-site pool inspection",
+      "Free pool inspection with every quote",
       "Response within 24 hours",
-      "Veteran's honor satisfaction guarantee"
+      "Military discount available"
     ]
   },
   "footer": {
-    "description": "Veteran & family-owned pool service. Proudly serving Greater St. Louis since 2008.",
-    "service_area": "Serving Greater St. Louis — Chesterfield, Ballwin, Wildwood, Kirkwood & More",
+    "description": "Veteran & family owned pool service. Proudly serving Greater St. Louis since 2008.",
+    "service_area": "Serving Chesterfield, Ballwin, Manchester, Des Peres, Wildwood & Greater STL",
     "services": [
-      "Weekly Maintenance",
+      "Weekly Cleaning",
       "Pool Opening & Closing",
-      "Equipment Installation",
-      "Saltwater Systems",
-      "Pool Repairs"
+      "Green to Clean",
+      "Pumps & Filters",
+      "Leak Detection"
     ],
-    "copyright": "&copy; 2024 Paradise Pools STL. All rights reserved. Veteran & Family Owned. BBB A+ Rated."
+    "copyright": "&copy; 2024 Paradise Pools STL. All rights reserved."
   }
 }

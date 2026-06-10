@@ -1,75 +1,75 @@
 {
   "folder_name": "redlands-pool-spa",
   "company_name": "Redlands Pool & Spa Center",
-  "tagline": "Clear Water Starts Here",
-  "phone": "(909) 793-9082",
+  "tagline": "Your Backyard's Best Friend — Healthy Pool People",
+  "phone": "+1 909-793-9082",
   "email": "cal@redlandspool.com",
   "logo_path": "logo.png",
   "review_count": "106",
   "review_rating": "4.4",
   "colors": {
-    "primary": "#1a6b3c",
-    "primary_dark": "#14532d",
-    "primary_deeper": "#0a3318",
-    "secondary": "#2980b9",
-    "cta": "#e67e22",
-    "cta_dark": "#c96a15"
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5F",
+    "secondary": "#00A86B",
+    "cta": "#F47A20",
+    "cta_dark": "#D4660E"
   },
   "trust_badges": {
-    "badge_1": "Licensed C53 Contractor",
+    "badge_1": "C-53 Licensed Contractor",
     "badge_2": "4.4/5 from 106+ Reviews",
     "badge_3": "Serving the IE Since 1984"
   },
   "hero": {
     "badge_1": "4.4/5 from 106+ Google Reviews",
-    "badge_2": "42 Years of Trusted Service",
-    "headline": "Your Inland Empire Pool Experts <span class=\"text-secondary italic\">Since 1984</span>",
-    "subheadline": "From weekly maintenance to full pool construction, Redlands Pool & Spa Center is the one-stop destination your backyard deserves. Over 40 years of local expertise means you get clear water, reliable equipment, and a team that treats every pool like their own.",
-    "cta_text": "Get Your Free Water Test",
+    "badge_2": "40+ Years in the Inland Empire",
+    "headline": "40 Years Keeping Pools <span class=\"text-secondary italic\">Pristine Across<br>the Inland Empire</span>",
+    "subheadline": "Since 1984, Redlands Pool & Spa Center has been the one-stop destination for weekly maintenance, expert repairs, pool construction, and everything in between. With 13+ certified technicians and a fully stocked retail showroom, we handle it all so you can just enjoy the water.",
+    "cta_text": "Get a Free Pool Consultation",
     "checkmarks": [
-      "Free BioGuard water testing",
-      "50+ years combined technician experience",
-      "Licensed pool construction contractor"
+      "Free computerized water testing",
+      "Licensed C-53 pool contractor",
+      "No-pressure honest estimates"
     ]
   },
   "stats": {
     "stat_1_value": "5000",
     "stat_1_label": "Pools Maintained",
-    "stat_2_value": "42",
+    "stat_2_value": "40",
     "stat_2_label": "Years in Business",
-    "stat_3_value": "106",
-    "stat_3_label": "Google Reviews",
-    "stat_4_value": "7",
-    "stat_4_label": "Expert Team Members"
+    "stat_3_value": "13",
+    "stat_3_label": "Certified Technicians",
+    "stat_4_value": "50+",
+    "stat_4_label": "Years Combined Experience"
   },
   "services": {
-    "label": "Full-Service Pool & Spa Destination",
-    "headline": "Every Pool & Spa Service<br class=\"hidden md:block\"> Under One Roof",
-    "subtitle": "Retail store, weekly maintenance, equipment repair, construction, and hot tub sales — Redlands Pool & Spa Center handles it all so you never have to call around.",
+    "label": "Full-Service Pool & Spa Care",
+    "headline": "One Destination for Every<br class=\"hidden md:block\"> Pool & Spa Need",
+    "subtitle": "From weekly maintenance to complete pool construction, our licensed team and retail showroom have everything your backyard needs under one roof.",
     "cards": [
       {
         "title": "Weekly Pool & Spa Maintenance",
-        "description": "Comprehensive weekly service to keep your pool and spa crystal clear, chemically balanced, and running at peak performance all year long."
+        "description": "Comprehensive Poolrite weekly service that keeps your pool and spa crystal clear year-round. Chemical balancing, skimming, brushing, and equipment checks — all handled by our skilled team."
       },
       {
         "title": "Equipment Repair & Installation",
-        "description": "Pumps, heaters, filters, automation systems — our technicians with 50+ years of combined experience diagnose and fix it right the first time."
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and automation. Our licensed technicians get it fixed fast — most repairs completed same-visit."
       },
       {
         "title": "Pool Construction & Remodeling",
-        "description": "Licensed C53 contractor building dream pools and renovating existing ones with smart technology, energy-efficient equipment, and custom backyard designs."
+        "description": "Full backyard design, new pool builds, and renovations with smart technology integration. Replastering, tile work, and complete remodels backed by our C-53 contractor license."
       },
       {
-        "title": "Water Testing & Chemical Supply",
-        "description": "Walk in for free computerized BioGuard water analysis. Walk out with a personalized treatment plan and every chemical your pool needs."
+        "title": "Saltwater Conversions",
+        "description": "Professional conversion from traditional chlorine to modern saltwater systems. Softer water that is gentler on skin and eyes while cutting your ongoing chemical costs."
       },
       {
         "title": "Hot Tub & Spa Sales",
-        "description": "Authorized Hot Spring dealer with a full showroom of portable hot tubs. Professional delivery, expert installation, and ongoing support included."
+        "description": "Authorized HotSpring Spas dealer with a showroom featuring the latest models. Full delivery, installation, and ongoing maintenance support for every spa we sell."
       },
       {
-        "title": "Retail Pool & Spa Supplies",
-        "description": "Your one-stop shop for pool parts, energy-efficient equipment, floats, toys, backyard accessories, and Big Green Egg grills."
+        "title": "Retail Store & Water Testing",
+        "description": "Walk-in retail showroom stocked with chemicals, supplies, and accessories. Plus free BioGuard computerized water testing with specific recommendations for your pool."
       }
     ]
   },
@@ -77,108 +77,108 @@
     "headline": "Getting Started Is Easy",
     "steps": [
       {
-        "title": "Bring In a Water Sample",
-        "description": "Stop by our store at 310 Alabama St. in Redlands. Our free computerized BioGuard water test gives you a detailed analysis and personalized treatment plan in minutes."
+        "title": "Call or Visit Our Showroom",
+        "description": "Reach us by phone or stop by our Redlands retail store. We'll discuss your pool needs and schedule a convenient time to evaluate your backyard."
       },
       {
-        "title": "We Tailor Your Service Plan",
-        "description": "Whether you need weekly maintenance, equipment repair, or a full pool remodel, our team builds a plan around your pool, your budget, and your schedule."
+        "title": "We Assess & Recommend",
+        "description": "Our certified technicians inspect your pool and equipment, test your water chemistry, and provide an honest, no-pressure recommendation tailored to your situation."
       },
       {
-        "title": "Enjoy Crystal Clear Water",
-        "description": "Relax knowing your pool and spa are in the hands of Inland Empire pros with over 40 years of experience. We handle the work so you enjoy the water."
+        "title": "Relax & Enjoy the Water",
+        "description": "Whether it is weekly maintenance, a repair, or a full remodel — we handle every detail so your only job is enjoying the pool with family and friends."
       }
     ]
   },
   "about": {
-    "label": "Why Inland Empire Families Choose Us",
-    "headline": "40+ Years of Keeping the Inland Empire Swimming",
-    "description": "Since 1984, Redlands Pool & Spa Center has been the trusted name for pool and spa care across Redlands, Yucaipa, Loma Linda, Highland, and beyond. We are a family-run, full-service operation — not a franchise, not a side hustle. Our technicians carry over 50 years of combined hands-on experience, and every one of them treats your backyard like their own.",
-    "badge": "Licensed C53 Contractor",
+    "label": "Why the Inland Empire Trusts Us",
+    "headline": "Not Just a Pool Company — Your Backyard's Best Friend Since 1984",
+    "description": "Redlands Pool & Spa Center has been the Inland Empire's go-to pool and spa destination for over four decades. As a Poolwerx franchise, we combine the expertise of a locally owned business with the backing of a global pool care brand. Our 13+ industry-certified technicians bring 50+ years of combined experience to every job — from routine maintenance to complex construction projects. We hold a California C-53 contractor license and treat every backyard like our own.",
+    "badge": "C-53 Licensed",
     "features": [
       {
-        "title": "50+ Years Combined Experience",
-        "description": "Our service team brings over half a century of combined pool and spa expertise to every job — from routine cleanings to complex equipment overhauls."
+        "title": "13+ Certified Technicians",
+        "description": "Every technician on our team is industry-certified with years of hands-on experience, ensuring expert care for your pool and spa."
       },
       {
-        "title": "Authorized Dealer Network",
-        "description": "Factory-authorized dealer for Hayward, Pentair, Zodiac, Hot Spring, BioGuard, and Big Green Egg. You get genuine parts and warranty-backed service."
+        "title": "Full-Service Under One Roof",
+        "description": "Maintenance, repairs, construction, retail supplies, hot tubs, and water testing — everything you need in one trusted destination."
       },
       {
-        "title": "Your Complete Backyard Partner",
-        "description": "Retail, maintenance, repair, construction, and hot tub sales — everything under one roof so you never have to coordinate between multiple vendors."
+        "title": "Poolwerx-Backed Quality",
+        "description": "Locally owned with the training, technology, and standards of a global pool care franchise. The best of both worlds for your backyard."
       }
     ]
   },
   "pricing": {
-    "headline": "Straightforward Pricing. Real Value.",
-    "subtitle": "From a single water test to full weekly service — choose what fits your pool and your budget. Call us for an honest quote."
+    "headline": "Transparent Pricing. Honest Recommendations.",
+    "subtitle": "Every pool is different. We provide customized quotes based on your pool size and needs — no cookie-cutter packages, no hidden fees."
   },
   "guarantee": {
-    "headline": "Our \"Crystal Clear\" Guarantee",
-    "description": "If your pool or spa water is not crystal clear after our service, we come back and make it right at no additional charge. We have stood behind that promise for over 40 years — and we are not stopping now."
+    "headline": "Our \"Healthy Pool\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will come back to make it right at no additional charge. We have built our reputation on trust and integrity for over 40 years, and we stand behind every job our team performs."
   },
   "faqs": [
     {
-      "question": "How do I get started with weekly maintenance?",
-      "answer": "Just give us a call at (909) 793-9082 or stop by our store at 310 Alabama St. in Redlands. We will assess your pool, recommend a service plan, and can usually schedule your first visit within a few days."
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are added to our service route within one week. Call us or stop by the showroom and we will get you scheduled right away."
     },
     {
-      "question": "Do you service pools outside of Redlands?",
-      "answer": "Absolutely. We serve Redlands, Loma Linda, Yucaipa, Highland, Beaumont, and the surrounding Inland Empire area. Many of our loyal customers have been with us for 10, 15, even 25 years across these communities."
+      "question": "Do you offer free water testing?",
+      "answer": "Yes! Bring a water sample to our Redlands retail store anytime. Our BioGuard computerized testing system analyzes your water and provides specific chemical recommendations — completely free."
     },
     {
-      "question": "Is the water testing really free?",
-      "answer": "Yes, 100% free. Bring a water sample to our store and our computerized BioGuard testing stations will analyze it in minutes. You will receive a detailed printout with a personalized chemical treatment plan — no purchase required."
+      "question": "Are your technicians licensed and certified?",
+      "answer": "Absolutely. We hold a California C-53 swimming pool contractor license, and our team of 13+ technicians are industry-certified with over 50 years of combined experience."
     },
     {
-      "question": "What hot tub brands do you carry?",
-      "answer": "We are an authorized Hot Spring dealer and carry a full showroom of portable hot tub models. Stop by to see them in person and our team will help you find the right fit for your space and budget, including delivery and installation."
+      "question": "What areas do you serve?",
+      "answer": "We serve Redlands, Loma Linda, Yucaipa, Highland, Grand Terrace, Beaumont, Bryn Mawr, and surrounding Inland Empire communities. Call us to confirm we cover your area."
     },
     {
-      "question": "Are you licensed for pool construction?",
-      "answer": "Yes. We hold a California Swimming Pool Construction license (C53-494950) and have completed pool builds and major remodels throughout the Inland Empire. From backyard design to smart pool technology, we handle it all."
+      "question": "Can you help me choose a hot tub or spa?",
+      "answer": "Yes! We are an authorized HotSpring Spas dealer. Visit our showroom to see the latest models, and our team will help you find the perfect fit for your space and budget, including delivery and installation."
     }
   ],
   "testimonials": [
     {
+      "name": "A.S.",
+      "text": "Been coming here for 25 years. You can't beat their experience, service, value and integrity! The whole team is knowledgeable and always willing to help.",
+      "context": "25-Year Customer",
+      "initials": "AS"
+    },
+    {
       "name": "J.P.",
-      "text": "Redlands Pool and Spa Center has taken care of our pool in Yucaipa for over 10 years. Honest and dependable service.",
-      "context": "10+ year maintenance customer",
+      "text": "Honest and dependable service over 10 years. Never a hard sell. They answer their phone. Talented crew that truly knows pools inside and out.",
+      "context": "10-Year Customer",
       "initials": "JP"
     },
     {
-      "name": "B.S.",
-      "text": "A very professional operation. Top notch sales staff and expert delivery and installation crew delivered my new Hot Springs Aria without a hitch.",
-      "context": "Hot tub purchase & installation",
-      "initials": "BS"
-    },
-    {
-      "name": "A.S.",
-      "text": "Been coming here from East Highlands and Redlands during the past 25 years for pool products, service, repair and new equipment.",
-      "context": "25-year loyal customer",
-      "initials": "AS"
+      "name": "T.O.",
+      "text": "They tested my pool water for free and gave me specific recommendations. My pool is now looking awesome — crystal clear and perfectly balanced.",
+      "context": "Water Testing & Service",
+      "initials": "TO"
     }
   ],
   "contact": {
-    "headline": "Ready for Clear Water<br>All Year Round?",
-    "subtitle": "Stop by our Redlands store for a free water test, or call for an honest quote on any pool or spa service. Over 40 years of trust — no pressure, just expertise.",
+    "headline": "Ready to Enjoy Your<br>Pool Again?",
+    "subtitle": "Get a free consultation from the Inland Empire's most trusted pool and spa team. Over 40 years of experience, no pressure, just honest recommendations.",
     "benefits": [
-      "Free computerized BioGuard water testing",
-      "Same-week service scheduling available",
-      "40+ years of Inland Empire expertise"
+      "Free computerized water testing",
+      "Response within 24 hours",
+      "40+ years of trusted service"
     ]
   },
   "footer": {
-    "description": "Family-owned pool & spa center serving the Inland Empire since 1984. Retail, service, construction, and hot tub sales.",
-    "service_area": "Serving Redlands, Loma Linda, Yucaipa, Highland, Beaumont & the Inland Empire",
+    "description": "Serving the Inland Empire since 1984. Your one-stop destination for pool and spa care.",
+    "service_area": "Serving Redlands, Loma Linda, Yucaipa, Highland, Grand Terrace, Beaumont & the Inland Empire",
     "services": [
       "Weekly Maintenance",
       "Equipment Repair",
       "Pool Construction",
-      "Water Testing",
-      "Hot Tub Sales"
+      "Hot Tub Sales",
+      "Water Testing"
     ],
-    "copyright": "&copy; 2024 Redlands Pool & Spa Center. All rights reserved. CA License #C53-494950"
+    "copyright": "&copy; 2024 Redlands Pool & Spa Center. All rights reserved. CA C-53 License #494950"
   }
 }
