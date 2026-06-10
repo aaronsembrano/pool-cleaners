@@ -1,0 +1,180 @@
+{
+  "folder_name": "monteiro-and-sons",
+  "company_name": "Monteiro And Sons' Landscape Services",
+  "tagline": "From weekly lawn care to custom patios and stonework, we design, build, and maintain beautiful outdoor spaces.",
+  "phone": "+1 508-290-8171",
+  "email": "monteiroandsons@gmail.com",
+  "logo_path": "logo.png",
+  "colors": {
+    "primary": "#2d5a27",
+    "primary_dark": "#1e3d1a",
+    "primary_deeper": "#142b12",
+    "secondary": "#4a3728",
+    "cta": "#d4a843",
+    "cta_dark": "#b8922e"
+  },
+  "hero": {
+    "headline": "Your Yard Deserves <span class=\"text-secondary italic\">25 Years of Expertise</span>",
+    "subheadline": "Monteiro and Sons is the family-owned team MetroWest Massachusetts trusts for lawn care, custom patios, and hardscape design-build. We show up on time, stay on budget, and treat your property like our own.",
+    "badges": [
+      "4.8 Stars on Google (83 Reviews)",
+      "BBB Accredited Since 2015"
+    ],
+    "checkmarks": [
+      "On-time, on-budget guarantee",
+      "Custom hardscape design & maintenance under one roof",
+      "Free no-obligation estimates"
+    ],
+    "cta_text": "Get Your Free Estimate Today"
+  },
+  "stats": {
+    "stat_1_value": "25",
+    "stat_1_label": "Years Serving MetroWest",
+    "stat_2_value": "83",
+    "stat_2_label": "5-Star Google Reviews",
+    "stat_3_value": "15",
+    "stat_3_label": "Percent Home Value Increase",
+    "stat_4_value": "100%",
+    "stat_4_label": "On-Time Guarantee"
+  },
+  "services": {
+    "headline": "Everything Your Outdoor Space Needs",
+    "subtitle": "From weekly mowing to custom stonework, one trusted team handles it all.",
+    "cards": [
+      {
+        "title": "Weekly Lawn Maintenance",
+        "description": "Precision mowing, edging, and blowing every week so your lawn stays neighborhood-best without lifting a finger."
+      },
+      {
+        "title": "Custom Patio Design & Build",
+        "description": "Natural stone, pavers, or bluestone patios designed for your lifestyle and built to last decades in New England weather."
+      },
+      {
+        "title": "Walkways & Retaining Walls",
+        "description": "Functional hardscape that solves drainage issues and adds curb appeal with expert craftsmanship."
+      },
+      {
+        "title": "Seasonal Clean-Ups",
+        "description": "Spring and fall clean-ups including leaf removal, bed prep, and pruning to keep your property pristine year-round."
+      },
+      {
+        "title": "Outdoor Fire Pits & Living Spaces",
+        "description": "Custom fire pits, seating walls, and outdoor kitchens that turn your backyard into an entertainment destination."
+      },
+      {
+        "title": "Planting & Garden Design",
+        "description": "Curated plantings, mulching, and garden beds designed for color, texture, and low-maintenance beauty across all seasons."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Simple Steps to Your Dream Yard",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Call or fill out our form. We will visit your property, listen to your vision, and provide an honest quote with no surprises."
+      },
+      {
+        "title": "We Design & Schedule Your Project",
+        "description": "Our team creates a custom plan tailored to your property, timeline, and budget. You approve before any work begins."
+      },
+      {
+        "title": "Enjoy Your Transformed Outdoor Space",
+        "description": "We handle every detail from start to finish, leaving you with a yard that increases your home value and makes neighbors jealous."
+      }
+    ]
+  },
+  "about": {
+    "label": "Family-Owned Since Day One",
+    "headline": "25+ Years of Honest, Quality Work in MetroWest",
+    "description": "Monteiro and Sons started as a father-and-son dream and grew into MetroWest Massachusetts' most trusted landscaping team. We are BBB Accredited, ranked in the top 1% of Framingham landscapers, and still answer every call personally. Our word is our bond: we show up when we say we will, finish on budget, and never cut corners.",
+    "badge": "Top 1% Quality Score in Framingham",
+    "features": [
+      {
+        "title": "Family-Owned Accountability",
+        "description": "Every project is personally overseen by the Monteiro family. Your satisfaction is our reputation."
+      },
+      {
+        "title": "Maintenance & Builds Under One Roof",
+        "description": "Weekly lawn care and custom hardscape design-build from the same trusted team. No juggling contractors."
+      },
+      {
+        "title": "Honest Communication Always",
+        "description": "From your first estimate to the final walkthrough, we tell you exactly what to expect \u2014 no surprises, no upsells."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every project starts with a free on-site estimate. You will know exactly what you are paying for before we begin."
+  },
+  "guarantee": {
+    "headline": "Our On-Time, On-Budget Promise",
+    "description": "We guarantee we will show up on the scheduled day and complete your project within the quoted price. If we miss a scheduled maintenance visit, your next service is on us. For hardscape projects, if our final invoice exceeds the approved quote, we cover the difference. That is how a family business earns trust for 25 years."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in Massachusetts?",
+      "answer": "We serve Framingham, Natick, Needham, Newton, Sherborn, Sudbury, Wellesley, Weston, Dover, and surrounding MetroWest Massachusetts towns within about 20 miles of our Framingham base."
+    },
+    {
+      "question": "Do you offer both one-time projects and ongoing maintenance?",
+      "answer": "Yes. We handle everything from weekly lawn mowing contracts to one-time custom patio builds. Many clients start with maintenance and later hire us for hardscape projects because they trust our work."
+    },
+    {
+      "question": "How long does a typical patio or hardscape project take?",
+      "answer": "Most residential patio projects take 3-7 days depending on size and complexity. We provide a detailed timeline during your free estimate so you know exactly what to expect."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Absolutely. We are fully insured, BBB Accredited since 2015, and have earned a 95%+ quality score ranking us in the top 1% of Framingham landscapers."
+    },
+    {
+      "question": "What happens if weather delays my project?",
+      "answer": "We communicate proactively about weather delays and reschedule as quickly as possible. Our on-time guarantee accounts for contractor-controlled delays, not acts of nature, and we always keep you informed."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Local Homeowner",
+      "text": "Doug and his team exceeded our expectations. His talent and training in design, his commitment to doing a good job and pleasing the customer, and his enthusiasm for his work truly make a difference.",
+      "context": "Landscaping project",
+      "initials": "LH"
+    },
+    {
+      "name": "Long-time Customer",
+      "text": "They have been consistently excellent with our weekly lawn care for more than two years, and exceeded expectations on major landscaping projects with high-quality workmanship and outstanding attention to detail.",
+      "context": "Ongoing lawn care and landscaping",
+      "initials": "LC"
+    },
+    {
+      "name": "Satisfied Client",
+      "text": "Great communication, great service, and friendliness while being respectful of our wishes and property. They gave great ideas and a fair price, were prompt, and went above and beyond.",
+      "context": "Hardscape installation",
+      "initials": "SC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform Your Outdoor Space?",
+    "subtitle": "Get a free, no-obligation estimate from the family team MetroWest trusts most.",
+    "benefits": [
+      "Free on-site estimate within 48 hours",
+      "Personalized design recommendations",
+      "No pressure, just honest advice"
+    ]
+  },
+  "footer": {
+    "description": "Monteiro and Sons is a family-owned landscaping and hardscaping company serving MetroWest Massachusetts for over 25 years. We design, build, and maintain beautiful outdoor spaces with honesty and craftsmanship.",
+    "service_area": "Serving Framingham, Natick, Needham, Newton, Sherborn, Sudbury, Wellesley, Weston, Dover & surrounding towns",
+    "services": [
+      "Weekly Lawn Maintenance",
+      "Custom Patio Design",
+      "Walkways & Retaining Walls",
+      "Seasonal Clean-Ups",
+      "Hardscape Installation"
+    ],
+    "copyright": "Monteiro And Sons' Landscape Services, Inc."
+  },
+  "review_count": "83",
+  "review_rating": "4.8"
+}

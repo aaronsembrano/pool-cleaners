@@ -1,0 +1,184 @@
+{
+  "folder_name": "ilandscape",
+  "company_name": "iLandscape",
+  "tagline": "Designing Beautiful Landscapes, One Yard at a Time",
+  "phone": "240-394-1299",
+  "email": "andres.vazquez@ilandscape.ca",
+  "logo_path": "logo.png",
+  "review_count": "41",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#1a7a6d",
+    "primary_dark": "#145f55",
+    "primary_deeper": "#0e443d",
+    "secondary": "#4caf50",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "trust_badges": {
+    "badge_1": "NALP Member & BBB A+ Rated",
+    "badge_2": "4.8/5 from 41+ Reviews",
+    "badge_3": "Licensed & Insured in MD"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 41+ Google Reviews",
+    "badge_2": "BBB A+ Rated Since 2012",
+    "headline": "Your Dream Yard, <span class=\"text-secondary italic\">Designed &<br>Delivered</span>",
+    "subheadline": "Your outdoor space should inspire you, not stress you out. iLandscape handles every detail — from design to installation — so you get a landscape that turns heads and lasts for years. Just sit back and enjoy your yard.",
+    "cta_text": "Get My Free Consultation",
+    "checkmarks": [
+      "Free property assessment",
+      "Custom design included",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Properties Transformed",
+    "stat_2_value": "14",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1200",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Commitment to Quality"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Professional Landscape Services That<br class=\"hidden md:block\"> Transform Your Property",
+    "subtitle": "Stop staring at a yard that doesn't reflect your vision. From fresh mulch beds to full hardscape installations, we handle it all so you can enjoy a landscape you're proud of.",
+    "cards": [
+      {
+        "title": "Mulching & Edge Definition",
+        "description": "Crisp edge definition and premium mulch application that gives garden beds a clean, polished look while retaining moisture and suppressing weeds."
+      },
+      {
+        "title": "Garden Bed Design & Installation",
+        "description": "Custom garden beds tailored to your property with the right plant mix, expert soil preparation, and a layout designed for lasting beauty."
+      },
+      {
+        "title": "Patios & Outdoor Living",
+        "description": "Functional patios and seating areas that create inviting outdoor living spaces for relaxation, family gatherings, and entertaining guests."
+      },
+      {
+        "title": "Walkways & Garden Paths",
+        "description": "Designed walkways and garden circulation paths that improve flow throughout your landscape while adding visual interest and curb appeal."
+      },
+      {
+        "title": "Drainage Solutions",
+        "description": "Comprehensive drainage services including decorative features, swales, channels, downspout solutions, and infiltration basins to protect your property."
+      },
+      {
+        "title": "Lawn Maintenance",
+        "description": "Regular lawn care including mowing, trimming, aeration, and seasonal cleanup to keep your yard looking its absolute best year-round."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Landscape",
+    "steps": [
+      {
+        "title": "Schedule Your Free Consultation",
+        "description": "Tell us about your vision for your outdoor space. We'll visit your property, assess the landscape, and provide a detailed proposal within 48 hours. No pressure, no obligations."
+      },
+      {
+        "title": "We Design & Build",
+        "description": "Our experienced team creates a custom design tailored to your property. Once approved, we handle every detail of the installation — from soil prep to the finishing touches."
+      },
+      {
+        "title": "Enjoy Your Outdoor Space",
+        "description": "Your landscape is transformed into a beautiful, functional outdoor environment. We stand behind every project and offer ongoing maintenance to keep it thriving season after season."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Central Maryland Trusts Us",
+    "headline": "More Than Landscapers — We're Your Outdoor Partners",
+    "description": "Family-owned and serving Central Maryland since 2012, iLandscape brings over a decade of expertise to every project. As proud NALP members with a BBB A+ rating, we approach every yard with the same care and attention we'd give our own. Our values-driven team emphasizes ownership, wisdom, and an unwavering commitment to your satisfaction.",
+    "badge": "NALP Certified",
+    "features": [
+      {
+        "title": "Licensed Maryland Professionals",
+        "description": "Fully licensed, insured, and holding a Maryland Home Improvement License. Your property is in qualified, trustworthy hands."
+      },
+      {
+        "title": "Sustainable Practices Built In",
+        "description": "From permeable patios to eco-friendly drainage solutions, we design landscapes that work with nature — not against it."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "Not happy with any aspect of your project? We'll come back and make it right at no extra charge. That's our commitment to you."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is unique. We provide detailed proposals so you know exactly what to expect — no hidden fees, no unexpected charges."
+  },
+  "guarantee": {
+    "headline": "Our \"Beautiful Landscape\" Guarantee",
+    "description": "If you're not completely satisfied with any aspect of our work, we'll come back and make it right — no questions asked, no extra charges. We've built our reputation on this promise for over 14 years, and we stand behind every single project we complete."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start my project?",
+      "answer": "Most new projects are scheduled within 1-2 weeks depending on scope. For smaller services like mulching or cleanup, we can often accommodate same-week scheduling. Contact us and we'll work around your timeline."
+    },
+    {
+      "question": "Do you provide custom landscape designs?",
+      "answer": "Absolutely. Every project begins with a consultation where we learn about your vision, assess your property, and create a custom design. We don't use cookie-cutter templates — your landscape is designed specifically for your space and lifestyle."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We hold a Maryland Home Improvement License, carry full liability insurance, and are proud members of the National Association of Landscape Professionals. We also maintain a BBB A+ rating."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Upper Marlboro, Bowie, Crofton, Mitchellville, Largo, Fort Washington, Brandywine, Clinton, and surrounding Central Maryland communities. If you're nearby, give us a call — we're happy to discuss your project."
+    },
+    {
+      "question": "Do you offer ongoing maintenance after installation?",
+      "answer": "Yes. We offer regular lawn maintenance, seasonal cleanup, and garden bed upkeep to ensure your landscape stays beautiful year-round. Many of our clients pair an installation project with a maintenance plan for the best results."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jim W.",
+      "context": "Google Review - 5 stars",
+      "initials": "JW",
+      "text": "iLandscape did a great job cleaning up the yard in my rental property that the tenants had let go. They came and made it look just like brand new."
+    },
+    {
+      "name": "Marcus N.",
+      "context": "Google Review - 5 stars",
+      "initials": "MN",
+      "text": "Excellent, friendly and professional service! A great family business. They truly care about their work and it shows in every detail."
+    },
+    {
+      "name": "Verified Customer",
+      "context": "Google Review - 5 stars",
+      "initials": "VC",
+      "text": "iLandscape are the truth. Their craftsmanship is impeccable. They are timely and did an excellent job of communicating to me via text throughout the whole project."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Yard You<br>Actually Love?",
+    "subtitle": "Get a free, no-pressure consultation within 48 hours. No contracts, no commitments — just honest guidance for your landscape project.",
+    "benefits": [
+      "Free property assessment with every consultation",
+      "Custom design proposal within 48 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Professional landscape design & installation. Serving Central Maryland since 2012.",
+    "service_area": "Serving Upper Marlboro, Bowie, Crofton & Central Maryland",
+    "services": [
+      "Mulching & Edging",
+      "Garden Bed Design",
+      "Patios & Walkways",
+      "Drainage Solutions",
+      "Lawn Maintenance"
+    ],
+    "copyright": "&copy; 2024 iLandscape. All rights reserved. Maryland Home Improvement License"
+  }
+}

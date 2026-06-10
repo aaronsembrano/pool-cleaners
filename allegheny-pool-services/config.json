@@ -1,0 +1,180 @@
+{
+  "folder_name": "allegheny-pool-services",
+  "company_name": "Allegheny Pool Services Co",
+  "tagline": "Providing the Pittsburgh area with safe, clean, and fun pools.",
+  "phone": "+1 412-651-1942",
+  "email": "info@alleghenypoolservices.com",
+  "logo_path": "logo.png",
+  "review_count": "35",
+  "review_rating": "4.7",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3f",
+    "secondary": "#2e86c1",
+    "cta": "#f39c12",
+    "cta_dark": "#d68910"
+  },
+  "hero": {
+    "headline": "Pittsburgh Pools Deserve <span class=\"text-secondary italic\">Certified Care</span>",
+    "subheadline": "For over a decade, Allegheny Pool Services has kept communities, clubs, and HOAs swimming safely. Our trained professionals deliver reliable maintenance so you never worry about water quality again.",
+    "badges": [
+      "4.7★ Rated — 35 Reviews",
+      "Serving Pittsburgh Since 2014"
+    ],
+    "checkmarks": [
+      "Certified pool professionals on every job",
+      "Commercial & residential expertise",
+      "PA registered and fully insured"
+    ],
+    "cta_button": "Get Your Free Pool Assessment"
+  },
+  "stats": {
+    "stat_1_value": "12",
+    "stat_1_label": "Years Serving Pittsburgh",
+    "stat_2_value": "4.7",
+    "stat_2_label": "Google Rating",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Safety Focused"
+  },
+  "services": {
+    "headline": "Complete Pool Solutions",
+    "subtitle": "From weekly maintenance to full renovations — everything your pool needs under one trusted roof.",
+    "cards": [
+      {
+        "title": "Pool Maintenance",
+        "description": "Weekly water chemistry management, cleaning, and inspections that keep your pool safe, sanitary, and swim-ready year-round."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, and plumbing — we diagnose and fix mechanical issues fast to minimize downtime."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Restore aging pools to like-new condition with structural repairs, resurfacing, and modern aesthetic upgrades."
+      },
+      {
+        "title": "Pool Painting & Refinishing",
+        "description": "Professional surface coatings that protect your pool shell and bring back that crisp, clean appearance."
+      },
+      {
+        "title": "Safety Covers",
+        "description": "Custom-fitted safety covers that protect your pool off-season and prevent unauthorized access for peace of mind."
+      },
+      {
+        "title": "Automated Systems",
+        "description": "Robotic cleaners and smart controllers installed so your pool practically maintains itself between service visits."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "How It Works",
+    "steps": [
+      {
+        "title": "Schedule Your Assessment",
+        "description": "Call or fill out our form. We'll visit your pool, evaluate its condition, and recommend the right service plan."
+      },
+      {
+        "title": "We Handle Everything",
+        "description": "Our certified technicians perform all maintenance, repairs, or renovations on a schedule that works for you."
+      },
+      {
+        "title": "Enjoy a Perfect Pool",
+        "description": "Relax knowing your pool is clean, compliant, and ready for swimmers whenever you need it."
+      }
+    ]
+  },
+  "about": {
+    "label": "About Allegheny Pool Services",
+    "headline": "A Decade of Commitment to Pittsburgh's Pools",
+    "description": "Founded in 2014, Allegheny Pool Services Co was built on a simple belief: every community deserves access to a safe, well-maintained pool. We specialize in commercial and multifamily aquatic facilities — from condo complexes to private clubs — bringing trained, certified expertise and genuine personal care to every relationship.",
+    "badge": "PA Registration PA125706",
+    "features": [
+      {
+        "title": "Industry Membership",
+        "description": "Member of the Apartment Association of Metropolitan Pittsburgh"
+      },
+      {
+        "title": "Commercial Specialists",
+        "description": "Specialized in HOA, condo, and public facility pools"
+      },
+      {
+        "title": "Certified Professionals",
+        "description": "Trained and certified technicians on every team"
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing, No Surprises",
+    "subtitle": "Every pool is different. We provide custom quotes based on your pool's size, condition, and service needs — no hidden fees, no long-term contracts required."
+  },
+  "guarantee": {
+    "headline": "Our Commitment to You",
+    "description": "If you're not satisfied with our service, we'll return and make it right at no additional charge. We stand behind every visit because your trust is what built our business over the past 12 years."
+  },
+  "faqs": [
+    {
+      "question": "Do you service residential pools or just commercial?",
+      "answer": "We serve both. While we specialize in commercial, HOA, and multifamily pools, we also provide full maintenance and renovation services for residential pool owners throughout Allegheny County."
+    },
+    {
+      "question": "How often should my pool be serviced?",
+      "answer": "Commercial pools typically need 3-5 visits per week depending on bather load. Residential pools generally benefit from weekly service. We'll recommend a schedule based on your pool's specific needs."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. All our pool professionals are trained and certified. We maintain current certifications and continuously update our technical knowledge to provide the highest standard of care."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Allegheny County and surrounding counties throughout the greater Pittsburgh, Pennsylvania area. Contact us to confirm service availability at your location."
+    },
+    {
+      "question": "Can you help with pool opening and closing?",
+      "answer": "Absolutely. We handle seasonal openings and winterizations, including safety cover installation, equipment prep, and chemical balancing to protect your investment year-round."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "HomePros Verified Customer",
+      "text": "Allegheny Pool Services is a professionally run company with excellent service and extremely kind employees. Tim will take care of you and all your pool needs!",
+      "context": "HomePros Verified Review",
+      "initials": "HV"
+    },
+    {
+      "name": "Local Customer",
+      "text": "The guys there are very knowledgeable. Highly recommend.",
+      "context": "Online Review",
+      "initials": "LC"
+    },
+    {
+      "name": "Residential Client",
+      "text": "Hired them for a friend's old pool that was decommissioned. They added their custom touch and now the pool is usable and looks fantastic.",
+      "context": "Online Review",
+      "initials": "RC"
+    }
+  ],
+  "contact": {
+    "headline": "Get Your Pool Taken Care Of",
+    "subtitle": "Request a free assessment and see why Pittsburgh trusts Allegheny Pool Services.",
+    "benefits": [
+      "Free on-site pool evaluation",
+      "Custom service plan within 24 hours",
+      "No obligation — just honest advice"
+    ]
+  },
+  "footer": {
+    "description": "Allegheny Pool Services Co has been keeping Pittsburgh-area pools safe, clean, and enjoyable since 2014. Commercial and residential pool care you can count on.",
+    "service_area": "Serving Allegheny County and surrounding counties in the greater Pittsburgh, Pennsylvania area",
+    "service_links": [
+      "Pool Maintenance",
+      "Equipment Repair",
+      "Pool Renovations",
+      "Safety Covers",
+      "Automated Systems"
+    ],
+    "copyright": "© 2026 Allegheny Pool Services Co. All rights reserved."
+  }
+}
