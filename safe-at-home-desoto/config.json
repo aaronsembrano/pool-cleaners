@@ -1,184 +1,180 @@
 {
   "folder_name": "safe-at-home-desoto",
   "company_name": "Safe At Home Pet Sitting And Home Care LLC",
-  "tagline": "Keeping Pets and Homes Safe. Giving You Peace of Mind.",
-  "phone": "(662) 469-5939",
+  "tagline": "Keeping pets and homes safe. Giving you Peace of Mind.",
+  "phone": "+1 662-469-5939",
   "email": "stephanie.pate@safeathomedesoto.com",
   "logo_path": "logo.png",
   "colors": {
-    "primary": "#2C5F2D",
-    "primary_dark": "#1E4220",
-    "primary_deeper": "#142E16",
-    "secondary": "#D4A843",
-    "cta": "#D4A843",
-    "cta_dark": "#B8912E"
-  },
-  "trust_badges": {
-    "badge_1": "Insured & Certified",
-    "badge_2": "5.0/5 from 15+ Reviews",
-    "badge_3": "Veteran Owned"
+    "primary": "#2E5D3A",
+    "primary_dark": "#1F4028",
+    "primary_deeper": "#152B1B",
+    "secondary": "#D4A853",
+    "cta": "#D4A853",
+    "cta_dark": "#B8913F"
   },
   "hero": {
-    "badge_1": "5.0/5 from 15+ Google Reviews",
-    "badge_2": "DeSoto's Best Pet Sitter 2024 & 2025",
-    "headline": "Your Pets Deserve <span class=\"text-secondary italic\">Family-Level<br>Care at Home</span>",
-    "subheadline": "Leaving your pets behind should never mean leaving them with strangers. Mike and Stephanie Pate, certified professional pet sitters and law enforcement veterans, treat every animal like their own. Stress-free care in your home, so you can travel with total peace of mind.",
-    "cta_text": "Book Your Free Meet & Greet",
+    "headline": "Veteran-Owned Care Your <span class=\"text-secondary italic\">Pets Deserve</span>",
+    "subheadline": "Certified professional pet sitters trusted by families across Desoto County. We treat your pets like our own while keeping your home safe and secure.",
+    "badges": [
+      "Voted Desoto's Best Pet Sitter 2024 & 2025",
+      "Law Enforcement Veteran Owned"
+    ],
     "checkmarks": [
-      "Free 30-min consultation",
-      "Certified & insured care",
-      "Award-winning service"
-    ]
+      "Certified Professional Pet Sitters (PSI)",
+      "Fully insured for pets and property",
+      "Real-time photo & video updates"
+    ],
+    "cta_text": "Book Your Pet's Care Today"
   },
   "stats": {
-    "stat_1_value": "200",
-    "stat_1_label": "Happy Pets Served",
+    "stat_1_value": "4.9",
+    "stat_1_label": "Google Rating",
     "stat_2_value": "3",
-    "stat_2_label": "Years of Service",
-    "stat_3_value": "15",
-    "stat_3_label": "Five-Star Reviews",
+    "stat_2_label": "Years Serving Desoto County",
+    "stat_3_value": "25",
+    "stat_3_label": "5-Star Reviews",
     "stat_4_value": "100%",
-    "stat_4_label": "5-Star Rating"
+    "stat_4_label": "Insured & Certified"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Pet & Home Care That Gives You<br class=\"hidden md:block\"> Complete Peace of Mind",
-    "subtitle": "Stop worrying about your pets and home while you are away. From daily walks to full house sitting, we handle everything so you can focus on your trip.",
+    "headline": "Everything Your Pets & Home Need",
+    "subtitle": "From daily dog walks to farm animal care, we handle it all so you can travel worry-free.",
     "cards": [
       {
         "title": "Dog Walking",
-        "description": "Professional 30-minute ($30) or 60-minute ($50) walking sessions to keep your pup active, happy, and well-exercised while you are at work or away."
+        "description": "Professional 30 or 60-minute walks tailored to your dog's energy level, providing exercise and mental stimulation while you are away."
       },
       {
         "title": "Drop-In Visits",
-        "description": "In-home visits for feedings, potty breaks, medication administration, waste disposal, and litter box cleaning. Available in 30-minute ($30) or 60-minute ($50) sessions."
+        "description": "Scheduled visits for feeding, potty breaks, medication, litter box cleaning, and quality one-on-one time with your pets."
       },
       {
         "title": "House Sitting",
-        "description": "Comprehensive home security while you travel — package pickup, plant watering, mail collection, and coordination of house cleaning and lawn care services."
+        "description": "Complete home security including package pickup, plant watering, light cleaning, and lawn care coordination while you travel."
       },
       {
         "title": "Pet Taxi",
-        "description": "Safe, reliable transportation for your pet to and from grooming appointments, veterinary visits, and other destinations across DeSoto County."
+        "description": "Safe, reliable transportation for your pets to grooming appointments, vet visits, and other destinations across Desoto County."
       },
       {
-        "title": "Package Pick-Up",
-        "description": "Secure retrieval and safekeeping of delivered packages while you are away from home, preventing theft and weather damage to your deliveries."
+        "title": "Farm & Exotic Animal Care",
+        "description": "Experienced hands-on care for horses, pigs, chickens, and other farm or exotic animals right on your property."
       },
       {
-        "title": "Meet & Greet",
-        "description": "Free 30-minute initial consultation where Mike and Stephanie get to know you and your pets, discuss care needs, and answer every question before service begins."
+        "title": "Package Pick-Up & Home Checks",
+        "description": "Regular home monitoring with mail and package retrieval, ensuring your home looks lived-in and secure while you are away."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to Worry-Free Pet Care",
+    "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Schedule Your Free Meet & Greet",
-        "description": "Contact us and we will set up a complimentary 30-minute visit at your home. Your pets meet their sitters, and we go over every detail of their routine and your home needs."
+        "title": "Schedule a Meet & Greet",
+        "description": "We visit your home to meet your pets, learn their routines, and discuss your specific needs at no charge."
       },
       {
-        "title": "We Care for Everything",
-        "description": "Our certified, insured pet sitters arrive on schedule for every visit. Walks, feedings, medications, home checks — all handled with the same love and attention you would give."
+        "title": "We Create Your Care Plan",
+        "description": "Based on your pets' personalities and your schedule, we build a customized care plan with clear pricing."
       },
       {
-        "title": "Travel with Peace of Mind",
-        "description": "Receive photo and video updates throughout the day. Your pets stay happy at home, your house stays secure, and you enjoy your time away completely stress-free."
+        "title": "Relax While We Handle Everything",
+        "description": "Receive real-time photo and video updates while your pets enjoy professional, loving care in their own home."
       }
     ]
   },
   "about": {
-    "label": "Why Pet Owners Trust Us",
-    "headline": "Veteran-Owned, Pet-Certified, and Voted DeSoto's Best",
-    "description": "Founded by law enforcement veteran Mike Pate and his wife Stephanie, Safe At Home brings the discipline, reliability, and trustworthiness you would expect from a veteran-owned business. As Certified Professional Pet Sitters through Pet Sitters International, we treat every pet as our own. Voted DeSoto's Best Pet Sitter in both 2024 and 2025, we have earned the trust of families across DeSoto County through genuine love for animals and unwavering commitment to your peace of mind.",
-    "badge": "CPPS Certified",
+    "label": "About Us",
+    "headline": "Law Enforcement Veterans Dedicated to Your Peace of Mind",
+    "description": "Safe At Home is operated by Mike and Stephanie Pate, law enforcement veterans who bring the same dedication and trustworthiness to pet care that they brought to protecting their community. Certified Professional Pet Sitters through Pet Sitters International, they handle everything from dogs and cats to horses, pigs, and chickens across Desoto County.",
+    "badge": "Voted Desoto's Best Pet Sitter 2024 & 2025",
     "features": [
       {
         "title": "Law Enforcement Veterans",
-        "description": "Mike and Stephanie bring decades of trust, discipline, and reliability from their law enforcement careers to every single visit."
+        "description": "Security-minded professionals who bring the same dedication to your pets and home that they brought to protecting communities."
       },
       {
-        "title": "Fully Insured Coverage",
-        "description": "All pets and property are covered by business insurance during our care. Your home and animals are fully protected at all times."
+        "title": "PSI Certified & Fully Insured",
+        "description": "Certified Professional Pet Sitters through Pet Sitters International with full business insurance covering pets and property."
       },
       {
-        "title": "Real-Time Photo & Video Updates",
-        "description": "We send regular photos, videos, and detailed check-ins so you never have to wonder how your pets are doing while you are away."
+        "title": "All Animals Welcome",
+        "description": "From dogs and cats to horses, pigs, and chickens — we have hands-on experience caring for every type of animal."
       }
     ]
   },
   "pricing": {
-    "headline": "Simple, Transparent Pricing.",
-    "subtitle": "Choose the service that fits your needs. No hidden fees, no long-term contracts — just honest, reliable pet and home care."
+    "headline": "Transparent, Honest Pricing",
+    "subtitle": "No hidden fees. No surprise charges. Just straightforward rates for professional pet and home care services."
   },
   "guarantee": {
-    "headline": "Our \"Peace of Mind\" Guarantee",
-    "description": "If you are not completely satisfied with any visit, we will come back and make it right at no additional charge. Your pets deserve the best care, and we will not rest until you feel confident in our service. That is the Safe At Home promise from one DeSoto County family to another."
+    "headline": "Our Peace of Mind Promise",
+    "description": "We are fully insured, PSI certified, and backed by years of law enforcement service. If you are ever unsatisfied with our care, we will make it right immediately. Your pets' safety and your home's security are our top priorities — guaranteed."
   },
   "faqs": [
     {
-      "question": "What areas do you serve?",
-      "answer": "We proudly serve all of DeSoto County, Mississippi, including Olive Branch, Hernando, and Southaven. If you are nearby, reach out and we will let you know if we can accommodate your area."
-    },
-    {
-      "question": "Do I need to be home during visits?",
-      "answer": "For the initial free Meet and Greet, yes — so we can learn your pets' routines and any special needs. After that, most clients provide us with a key or door code and we handle everything while you are away."
+      "question": "What areas do you serve in Mississippi?",
+      "answer": "We serve all of Desoto County including Southaven, Hernando, Olive Branch, and surrounding communities. Contact us to confirm service availability in your area."
     },
     {
       "question": "Are you insured and certified?",
-      "answer": "Absolutely. We are Certified Professional Pet Sitters through Pet Sitters International and carry full business insurance covering both your pets and your property during our care."
+      "answer": "Absolutely. We are Certified Professional Pet Sitters through Pet Sitters International and carry full business insurance covering both your pets and your property."
     },
     {
-      "question": "How do I book a visit?",
-      "answer": "Simply call or text us at (662) 469-5939 or email stephanie.pate@safeathomedesoto.com. We will schedule a free Meet and Greet and set up your visits using our computerized scheduling system."
+      "question": "What types of animals do you care for?",
+      "answer": "We care for dogs, cats, horses, pigs, chickens, and most other domestic and farm animals. During our meet and greet, we discuss your specific animals and their needs."
     },
     {
-      "question": "Can you administer medication to my pet?",
-      "answer": "Yes, we handle medication administration as part of our Drop-In Visit service. During the Meet and Greet, we will go over all medication schedules and instructions to make sure your pet gets exactly what they need."
+      "question": "Will I receive updates while I am away?",
+      "answer": "Yes! We send real-time photos and videos throughout each visit so you always know your pets are happy and safe."
+    },
+    {
+      "question": "What if I need last-minute pet sitting?",
+      "answer": "We understand emergencies happen. Contact us as soon as possible and we will do our best to accommodate your schedule, even on short notice."
     }
   ],
   "testimonials": [
     {
       "name": "Heather S.W.",
-      "text": "I can't recommend them enough. They saved me at the last minute, the day before my daughter's wedding. My pet sitter cancelled and she swooped in to save the day. My German shepherd is very finicky with strangers and she knew just how to handle him.",
-      "context": "Wedding emergency rescue",
-      "initials": "HW"
+      "text": "They saved me at the last minute, the day before my daughter's wedding. My pet sitter cancelled on me and she swooped in to save the day. She sent me pictures and it made me and my daughter cry because we were so relieved.",
+      "context": "Emergency pet sitting service",
+      "initials": "HS"
     },
     {
       "name": "Angeleah O.",
-      "text": "Stephanie does such a great job with my Minnie! I love that she checks in with me, sends updates, pictures and videos, and tells me everything she has done. Makes me feel so comfortable leaving my fur baby with her.",
+      "text": "Stephanie does such a great job with my Minnie! I love that she checks in with me, sends me updates, pictures/videos, and tells me all that she's done with Minnie for the day. Makes me feel comfortable leaving my fur baby with her.",
       "context": "Regular pet sitting client",
       "initials": "AO"
     },
     {
       "name": "Sandra M.",
-      "text": "Stephanie is not only professional but also prompt, ethical, and incredibly loving. My dog adores her too! She truly treats them like her own family.",
-      "context": "Ongoing pet care",
+      "text": "Stephanie is not only professional but also prompt, ethical, and incredibly loving and caring. I trust her completely with my pets and my home.",
+      "context": "Ongoing pet care services",
       "initials": "SM"
     }
   ],
-  "review_count": "15",
-  "review_rating": "5.0",
   "contact": {
-    "headline": "Ready for Pet Care You<br>Can Actually Trust?",
-    "subtitle": "Book a free, no-pressure Meet and Greet today. We will come to your home, meet your pets, and create a care plan tailored to your family's needs.",
+    "headline": "Ready for Worry-Free Pet Care?",
+    "subtitle": "Schedule your free meet and greet today. We will come to your home, meet your pets, and create a personalized care plan.",
     "benefits": [
-      "Free 30-minute Meet & Greet",
-      "Response within 24 hours",
-      "100% satisfaction guaranteed"
+      "Free in-home consultation",
+      "Customized care plan for your pets",
+      "No obligation — just peace of mind"
     ]
   },
   "footer": {
-    "description": "Veteran-owned pet sitting and home care. Proudly serving DeSoto County since 2023.",
-    "service_area": "Serving Olive Branch, Hernando & Southaven, MS",
+    "description": "Safe At Home Pet Sitting And Home Care LLC is a law enforcement veteran-owned, fully insured, and PSI-certified pet care company serving Desoto County, Mississippi.",
+    "service_area": "Serving Southaven, Hernando, Olive Branch, and all of Desoto County, Mississippi",
     "services": [
       "Dog Walking",
       "Drop-In Visits",
       "House Sitting",
       "Pet Taxi",
-      "Package Pick-Up"
+      "Farm Animal Care"
     ],
-    "copyright": "&copy; 2024 Safe At Home Pet Sitting And Home Care LLC. All rights reserved."
-  }
+    "copyright": "Safe At Home Pet Sitting And Home Care LLC"
+  },
+  "review_count": "25",
+  "review_rating": "4.9"
 }

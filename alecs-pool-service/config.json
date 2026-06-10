@@ -2,182 +2,179 @@
   "folder_name": "alecs-pool-service",
   "company_name": "Alec's Pool Service",
   "tagline": "Our Clients, Our Family",
-  "phone": "(909) 527-0737",
-  "email": "alecs@alexpools.com",
-  "review_count": "24",
-  "review_rating": "4.5",
+  "phone": "909.527.0737",
+  "email": "alecspoolservice@gmail.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.9",
   "colors": {
-    "primary": "#1E3A5F",
-    "primary_dark": "#142842",
-    "primary_deeper": "#0D1C2E",
-    "secondary": "#4A90D9",
-    "cta": "#F5A623",
-    "cta_dark": "#D4891A"
-  },
-  "trust_badges": {
-    "badge_1": "BBB Accredited Business",
-    "badge_2": "4.5/5 from 24+ Reviews",
-    "badge_3": "3rd Generation Family-Owned"
+    "primary": "#1a73e8",
+    "primary_dark": "#1557b0",
+    "primary_deeper": "#0d47a1",
+    "secondary": "#4fc3f7",
+    "cta": "#e8651a",
+    "cta_dark": "#c75415"
   },
   "hero": {
-    "badge_1": "4.5/5 from 24+ Google Reviews",
-    "badge_2": "3rd Generation Pool Experts",
-    "headline": "Three Generations of <span class=\"text-secondary italic\">Pool Care<br>Excellence</span>",
-    "subheadline": "Your pool deserves the same care we'd give our own family's. As a 3rd generation pool service company in Los Angeles and the Inland Empire, we bring decades of handed-down expertise, fair pricing, and the kind of reliability that only a family business can deliver.",
-    "cta_text": "Get Your Free Pool Quote",
+    "headline": "Three Generations of <span class=\"text-secondary italic\">Pool Perfection</span>",
+    "subheadline": "Alec's Pool Service brings decades of family expertise to every backyard in Rancho Cucamonga. We treat your pool like our own and your family like ours \u2014 because that's how we were raised.",
+    "badges": [
+      "4.9 \u2605 Rating on Google",
+      "CPO Certified Technicians"
+    ],
     "checkmarks": [
-      "Free pool inspection",
-      "Same-week service available",
-      "Family-owned since 2019"
-    ]
+      "3rd generation family-owned and operated",
+      "Fair, transparent pricing \u2014 no surprise fees",
+      "Serving the Inland Empire since 2019"
+    ],
+    "cta_text": "Get Your Free Pool Assessment"
   },
   "stats": {
-    "stat_1_value": "500",
-    "stat_1_label": "Pools Maintained",
-    "stat_2_value": "6",
-    "stat_2_label": "Years Serving SoCal",
-    "stat_3_value": "3",
-    "stat_3_label": "Generations of Expertise",
-    "stat_4_value": "100%",
-    "stat_4_label": "Commitment to You"
+    "stat_1_value": "7",
+    "stat_1_label": "Years Serving Rancho Cucamonga",
+    "stat_2_value": "3",
+    "stat_2_label": "Generations of Pool Experts",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Serviced",
+    "stat_4_value": "4.9",
+    "stat_4_label": "Google Rating"
   },
   "services": {
-    "label": "Our Services",
-    "headline": "Complete Pool Care From a<br class=\"hidden md:block\"> Family That Knows Pools",
-    "subtitle": "From weekly maintenance to full equipment overhauls, we handle every aspect of pool care so you can focus on making memories in your backyard.",
+    "headline": "Pool Services Built on Family Trust",
+    "subtitle": "From weekly maintenance to complex repairs, our three generations of knowledge mean we get it right the first time.",
     "cards": [
       {
         "title": "Monthly Pool Maintenance",
-        "description": "Comprehensive weekly pool care including chemical balancing, brushing, skimming, and tablet replenishment to keep your pool crystal clear and swim-ready all year round."
+        "description": "Weekly cleaning, skimming, brushing, and chemical balancing that keeps your pool crystal clear and swim-ready every single day."
       },
       {
-        "title": "Pool Equipment Repair",
-        "description": "Expert diagnosis and repair of pool pumps, motors, filters, heaters, valves, timers, blowers, and pool lights to restore your pool system to peak performance."
+        "title": "Pool & Equipment Repairs",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, and plumbing \u2014 often catching problems other companies miss entirely."
       },
       {
         "title": "Equipment Installation",
-        "description": "Professional installation of new pool equipment including heaters, pumps, filters, motorized valves, timers, and lighting systems using quality products from major national distributors."
+        "description": "Professional installation of new pumps, filters, salt systems, heaters, and automation to modernize and upgrade your pool."
       },
       {
-        "title": "Plumbing & Line Repair",
-        "description": "Repair and replacement of pool plumbing, valves, and clearing of clogged pool lines to ensure proper water circulation and system efficiency."
+        "title": "Pool Inspections",
+        "description": "Thorough pre-purchase and seasonal startup inspections so you know exactly what shape your pool system is in."
       },
       {
-        "title": "Filter Cleaning & Replacement",
-        "description": "Thorough filter clean-ups and full filter replacements to maintain optimal water filtration and extend the life of your pool equipment."
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing tailored to Inland Empire water conditions, preventing scale, algae, and equipment damage."
       },
       {
-        "title": "Equipment Troubleshooting",
-        "description": "Comprehensive diagnostic services to identify and resolve pool equipment issues, including motorized valve synchronization and complex system problems."
+        "title": "Seasonal Pool Prep",
+        "description": "Spring opening and winterization services to protect your investment and ensure your pool is ready when you are."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Getting Started Is Easy as 1-2-3",
+    "headline": "Getting Started Is Simple",
     "steps": [
       {
-        "title": "Call or Text Us",
-        "description": "Reach out by phone, text, or email and tell us about your pool. We respond quickly — usually the same day — with an honest, no-pressure quote."
+        "title": "Schedule Your Free Assessment",
+        "description": "Call or text us at 909.527.0737. We'll come out, inspect your pool, and give you an honest recommendation \u2014 no pressure."
       },
       {
-        "title": "We Show Up On Schedule",
-        "description": "Our experienced technicians arrive on time, every time. We handle all cleaning, chemical balancing, and equipment checks with the care your pool deserves."
+        "title": "Get a Straightforward Plan",
+        "description": "We'll create a customized service plan with clear, fair pricing. No hidden fees, no upsells \u2014 just what your pool actually needs."
       },
       {
-        "title": "Enjoy Your Backyard Oasis",
-        "description": "Your pool stays sparkling clean and swim-ready year-round. If anything ever falls short of your expectations, we come back and make it right — no questions asked."
+        "title": "Enjoy Your Pool Worry-Free",
+        "description": "Relax knowing a 3rd generation pool family is keeping your water perfect. We handle everything so you just enjoy swimming."
       }
     ]
   },
   "about": {
-    "label": "Why SoCal Families Trust Us",
-    "headline": "A Family Business Built on Generations of Pool Expertise",
-    "description": "Alec's Pool Service is a 3rd generation, family-owned pool company serving Los Angeles and the Inland Empire. We carry forward decades of handed-down knowledge and treat every client's pool with the same care and courtesy we'd give our own. Fair pricing, reliable scheduling, and prompt communication aren't just promises — they're how we were raised to do business.",
-    "badge": "BBB Accredited",
+    "label": "About Alec's Pool Service",
+    "headline": "Three Generations of Pool Knowledge, One Family's Promise",
+    "description": "Alec's Pool Service is a 3rd generation family-owned company serving Rancho Cucamonga, Upland, and Alta Loma. The knowledge passed down through our family over decades means we bring unmatched expertise to every pool we touch. We built this business on a simple promise: treat every client like family, charge fair prices, and never cut corners. That's what our grandfather taught our father, and what our father taught us.",
+    "badge": "Serving the Inland Empire Since 2019",
     "features": [
       {
-        "title": "3rd Generation Family Expertise",
-        "description": "Pool care knowledge passed down through three generations means you get seasoned expertise that no newcomer can match."
+        "title": "3rd Generation Expertise",
+        "description": "Family expertise passed down through 3 generations means we bring unmatched knowledge to every pool we service."
       },
       {
-        "title": "Fair & Transparent Pricing",
-        "description": "We source equipment through major national distributors and pass the savings on. No hidden fees, no surprise charges — ever."
+        "title": "Licensed & CPO Certified",
+        "description": "Our technicians are fully licensed, insured, and CPO certified \u2014 you can trust us with your pool and your property."
       },
       {
-        "title": "We Always Return Your Call",
-        "description": "Calls, texts, emails — we respond promptly because your time matters. You'll never feel ignored or left waiting."
+        "title": "Deep Local Knowledge",
+        "description": "We understand Inland Empire water conditions, climate patterns, and common pool issues specific to this region."
       }
     ]
   },
   "pricing": {
-    "headline": "Fair Pricing, No Surprises.",
-    "subtitle": "Straightforward rates from a family that believes in honest work at honest prices. No contracts, no hidden fees."
+    "headline": "Fair, Transparent Pool Service Pricing",
+    "subtitle": "No contracts required. No hidden fees. Just honest pricing from a family that values long-term relationships over quick profits."
   },
   "guarantee": {
-    "headline": "Our Family-to-Family Guarantee",
-    "description": "If you're ever unsatisfied with our service, we'll come back and make it right at no extra cost. We treat every client like family, and family doesn't cut corners. Your pool will be clean, balanced, and swim-ready — or we'll keep working until it is."
+    "headline": "Our Family's Promise to Yours",
+    "description": "If you're ever unhappy with our service, we'll come back and make it right \u2014 free of charge. We've built our reputation on trust over three generations, and we're not about to break that now. Your satisfaction isn't just a policy; it's a family value."
   },
   "faqs": [
     {
-      "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within the same week. Just give us a call or text at (909) 527-0737 and we'll find a time that works for you."
-    },
-    {
       "question": "What areas do you serve?",
-      "answer": "We serve Los Angeles, Rancho Cucamonga, Upland, Alta Loma, Moreno Valley, Rialto, Fontana, and surrounding Inland Empire communities. If you're not sure whether you're in our range, just ask — we're happy to check."
+      "answer": "We proudly serve Rancho Cucamonga, Upland, Alta Loma, Ontario, Fontana, and surrounding Inland Empire communities. If you're unsure whether you're in our service area, just give us a call."
     },
     {
-      "question": "Do I need to be home during service?",
-      "answer": "Not at all. Most of our clients provide gate access and we take care of everything while you're out. You can always reach us by call, text, or email if you have questions about your service."
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "No. We earn your business every month with great service, not with contracts. You're free to cancel anytime \u2014 though our clients tend to stay with us for years because we treat them like family."
     },
     {
-      "question": "Are you licensed and insured?",
-      "answer": "Yes. Alec's Pool Service is a BBB Accredited Business, fully insured, and we accept all major credit cards. Your property and peace of mind are always protected."
+      "question": "How often will you service my pool?",
+      "answer": "Our standard maintenance plan includes weekly service visits. During each visit, we skim, brush, vacuum, empty baskets, check equipment, and balance your water chemistry."
     },
     {
-      "question": "What if I need an equipment repair?",
-      "answer": "We handle everything from pump and heater repairs to full equipment installations. We source quality products from major national distributors at competitive prices, so you get expert work without overpaying."
+      "question": "What makes you different from other pool companies?",
+      "answer": "We're a 3rd generation pool family. The knowledge and techniques passed down through our family over decades give us an edge in diagnosing problems and maintaining pools that other companies simply don't have."
+    },
+    {
+      "question": "How quickly can you respond to repair emergencies?",
+      "answer": "We prioritize existing clients for emergency repairs and typically respond within 24-48 hours. For urgent situations like major leaks or pump failures, we do our best to get there same-day."
     }
   ],
   "testimonials": [
     {
-      "name": "Maria L.",
-      "context": "Google Review",
-      "initials": "ML",
-      "text": "He does excellent pool servicing. Our water is always clear and clean. We also hire him for equipment and remodeling, and he is always fair and does the best job that he can."
+      "name": "Michael R.",
+      "text": "Alec and his team have been maintaining our pool for over two years now. The water is always crystal clear and he is very responsive whenever we have questions or issues. Highly recommend!",
+      "context": "Monthly maintenance client",
+      "initials": "MR"
     },
     {
-      "name": "David R.",
-      "context": "Yelp Review",
-      "initials": "DR",
-      "text": "My neighbor recommended Alex and I ended up hiring him to replace my heater and my pool pump. His prices were fair, and he did quality work. I now use him regularly to maintain my pool."
+      "name": "Sarah T.",
+      "text": "Third generation pool knowledge really shows. They diagnosed a leak that two other companies missed and fixed it at a fair price. Honest and reliable service.",
+      "context": "Pool repair client",
+      "initials": "ST"
     },
     {
-      "name": "Jennifer K.",
-      "context": "Google Review",
-      "initials": "JK",
-      "text": "Very reliable and friendly! Always shows up on time and our pool has never looked better. Highly recommend for anyone in the area looking for dependable pool service."
+      "name": "David L.",
+      "text": "We switched to Alec's Pool Service after a bad experience with another company. Night and day difference. They treat us like family and our pool has never looked better.",
+      "context": "Monthly maintenance client",
+      "initials": "DL"
     }
   ],
   "contact": {
-    "headline": "Ready for a Pool That<br>Feels Like Family?",
-    "subtitle": "Get a free, no-pressure quote from a 3rd generation pool family. We'll respond quickly — usually the same day — with honest pricing and zero obligations.",
+    "headline": "Let's Talk About Your Pool",
+    "subtitle": "Whether you need weekly maintenance, a repair, or just honest advice \u2014 we're here to help. Reach out and experience the family difference.",
     "benefits": [
-      "Free pool inspection with every quote",
-      "Same-day response to calls and texts",
-      "100% satisfaction guaranteed"
+      "Free no-obligation pool assessment",
+      "Same-week service start available",
+      "Friendly, knowledgeable team ready to help"
     ]
   },
   "footer": {
-    "description": "3rd generation, family-owned pool service proudly serving Los Angeles and the Inland Empire.",
-    "service_area": "Serving Los Angeles, Rancho Cucamonga, Upland, Fontana & the Inland Empire",
-    "services": [
-      "Monthly Maintenance",
-      "Equipment Repair",
+    "description": "Alec's Pool Service is a 3rd generation family-owned pool company serving the Inland Empire with honest, reliable pool care since 2019.",
+    "service_area": "Rancho Cucamonga, Upland, Alta Loma, Ontario, Fontana & the Inland Empire",
+    "service_links": [
+      "Monthly Pool Maintenance",
+      "Pool & Equipment Repairs",
       "Equipment Installation",
-      "Plumbing & Line Repair",
-      "Filter Cleaning"
+      "Pool Inspections",
+      "Water Chemistry Management"
     ],
-    "copyright": "&copy; 2024 Alec's Pool Service. All rights reserved. BBB Accredited Business."
+    "copyright": "Alec's Pool Service. All rights reserved."
   }
 }
