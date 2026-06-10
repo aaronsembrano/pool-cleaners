@@ -1,0 +1,184 @@
+{
+  "folder_name": "poseidon-pool-maintenance",
+  "company_name": "Poseidon Pool Maintenance",
+  "tagline": "Reliable. Professional. Crystal Clear Results.",
+  "phone": "(786) 356-5538",
+  "email": "george.lopez@poseidongr.com",
+  "logo_path": "logo.png",
+  "review_count": "16",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#0f2640",
+    "primary_deeper": "#091a2e",
+    "secondary": "#00b4d8",
+    "cta": "#e07b2b",
+    "cta_dark": "#c4651f"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured — FL Registered Contractor",
+    "badge_2": "4.6/5 from 16+ Reviews",
+    "badge_3": "Top 37% FL Contractors"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 16+ Google Reviews",
+    "badge_2": "Licensed FL Pool Contractor",
+    "headline": "Fort Lauderdale's Most Trusted <span class=\"text-secondary italic\">Pool Care<br>Professionals</span>",
+    "subheadline": "From weekly maintenance to leak detection and equipment repair, Poseidon Pool Maintenance keeps your pool crystal clear so you never have to worry. Licensed, insured, and serving Broward County since 2016 — just dive in.",
+    "cta_text": "Request Your Free Pool Assessment",
+    "checkmarks": [
+      "Free pool assessment",
+      "No hidden fees — ever",
+      "Licensed & insured contractor"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "10",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "1200",
+    "stat_3_label": "Service Calls Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Insured"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care for Homes<br class=\"hidden md:block\"> and Commercial Properties",
+    "subtitle": "Whether you own a backyard pool or manage a commercial facility, Poseidon delivers professional-grade maintenance, repairs, and water care across Broward County.",
+    "cards": [
+      {
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Comprehensive weekly and bi-weekly service including skimming, vacuuming, brushing, filter cleaning, and full equipment inspections. Your pool stays swim-ready year-round."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Advanced leak detection using professional Leakalyzer equipment to pinpoint leaks in pool shells, plumbing lines, and equipment pads — then fix them fast."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing to maintain safe, crystal-clear water with proper pH, chlorine, alkalinity, and calcium hardness levels. No red eyes, no irritation."
+      },
+      {
+        "title": "Equipment Repair & Service",
+        "description": "Expert diagnosis and repair of pumps, filters, heaters, salt systems, and automation controllers. Most repairs completed same-visit to minimize downtime."
+      },
+      {
+        "title": "Commercial Pool Services",
+        "description": "Full-service commercial pool care for hotels, fitness centers, apartment complexes, and HOAs including daily operations, seasonal prep, and regulatory compliance."
+      },
+      {
+        "title": "Pool Resurfacing & Painting",
+        "description": "Professional pool painting and resurfacing to restore beauty and structural integrity to aging pool surfaces. Extend your pool's life by years."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Crystal Clear Water",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your pool and we'll provide an honest, no-pressure assessment within 24 hours. We'll inspect your pool, equipment, and water chemistry at no cost."
+      },
+      {
+        "title": "We Handle Everything",
+        "description": "Our licensed, CPO-certified technicians arrive on schedule with professional-grade equipment. Cleaning, chemicals, leak detection, repairs — all covered under one roof."
+      },
+      {
+        "title": "Enjoy Your Pool Year-Round",
+        "description": "Your pool stays crystal clear, safe, and swim-ready every day. With Poseidon on the job, you get your weekends back and peace of mind that everything is handled."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Broward County Trusts Poseidon",
+    "headline": "Licensed Contractors — Not Just Pool Guys",
+    "description": "Founded in 2016 by George Lopez, Poseidon Pool Maintenance holds multiple active state and county contractor licenses and ranks in the top 37% of all Florida licensed contractors. We serve both residential homeowners and commercial properties across Fort Lauderdale and Broward County with the same level of professionalism and care. Every technician is trained, certified, and treats your pool like their own.",
+    "badge": "FL Licensed Contractor",
+    "features": [
+      {
+        "title": "Multiple Active Licenses",
+        "description": "Swimming Pool/Spa Servicing Contractor and Registered Pool/Spa Contractor certifications — fully compliant with Florida and Broward County regulations."
+      },
+      {
+        "title": "Transparent Pricing, No Surprises",
+        "description": "We quote honestly upfront with no hidden fees, no upsells, and no surprise charges. What we quote is what you pay."
+      },
+      {
+        "title": "Residential & Commercial Expertise",
+        "description": "From backyard pools to hotel facilities and apartment complexes, we bring the same licensed, insured, professional-grade service to every property."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Pick the plan that fits your pool. Upgrade, downgrade, or cancel anytime — we earn your business every visit."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us within 24 hours and we'll come back to make it right at no extra charge. We've built our reputation on doing the job right the first time — and standing behind our work when it matters most. That's the Poseidon promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients in the Fort Lauderdale and Broward County area are scheduled within 3-5 business days. For emergencies like green pools or equipment failures, we offer priority same-day or next-day response."
+    },
+    {
+      "question": "Are you properly licensed and insured?",
+      "answer": "Absolutely. We hold a Swimming Pool/Spa Servicing Contractor license (Broward County) and a Registered Pool/Spa Contractor license (State of Florida). We carry full liability insurance and rank in the top 37% of all Florida licensed contractors on BuildZoom."
+    },
+    {
+      "question": "Do you service commercial properties?",
+      "answer": "Yes — commercial pool care is one of our specialties. We serve hotels, fitness centers, apartment complexes, and HOA communities across Broward County with dedicated service plans, regulatory compliance support, and flexible scheduling."
+    },
+    {
+      "question": "What is included in your pool maintenance service?",
+      "answer": "Our weekly and bi-weekly maintenance includes skimming, vacuuming, brushing, filter cleaning, chemical balancing, and a full equipment inspection. We also provide detailed service reports so you always know what was done."
+    },
+    {
+      "question": "How does your leak detection work?",
+      "answer": "We use professional-grade Leakalyzer equipment to accurately identify leaks in pool shells, plumbing lines, and equipment pads. Once located, we provide a clear repair plan with upfront pricing — no guesswork, no surprises."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Homeowner",
+      "context": "Pool renovation project",
+      "initials": "SH",
+      "text": "Everything was perfectly done on budget and on time. The team was professional and thorough from start to finish. I couldn't be happier with the results."
+    },
+    {
+      "name": "Local Pool Owner",
+      "context": "Pool maintenance service",
+      "initials": "LP",
+      "text": "Impeccable customer service with clear and polite responses. The team worked cleanly and meticulously on our pool. We finally found a company we can trust."
+    },
+    {
+      "name": "Repeat Customer",
+      "context": "Ongoing pool maintenance",
+      "initials": "RC",
+      "text": "They take care of pool cleaning, maintenance, and repairs as if the pool were their own. Always on time and responsive to any issues that come up. Highly recommend."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's Always<br>Crystal Clear?",
+    "subtitle": "Get a free, no-pressure pool assessment within 24 hours. Transparent pricing, licensed contractors, and a guarantee that your pool stays pristine.",
+    "benefits": [
+      "Free pool assessment with every quote",
+      "Response within 24 hours",
+      "Licensed, insured FL contractor"
+    ]
+  },
+  "footer": {
+    "description": "Licensed pool contractor serving Fort Lauderdale and Broward County since 2016.",
+    "service_area": "Serving Fort Lauderdale, Tamarac & Broward County",
+    "services": [
+      "Pool Maintenance",
+      "Leak Detection & Repair",
+      "Water Chemistry",
+      "Equipment Repair",
+      "Commercial Pool Services"
+    ],
+    "copyright": "&copy; 2024 Poseidon Pool Maintenance. All rights reserved. FL License #RP252555637"
+  }
+}

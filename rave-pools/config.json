@@ -1,0 +1,184 @@
+{
+  "folder_name": "rave-pools",
+  "company_name": "Rave Pools",
+  "tagline": "You've tried the Rest, now Rave about the Best",
+  "phone": "+1 203-856-4842",
+  "email": "jessica@ravepools.com",
+  "logo_path": "logo.png",
+  "review_count": "32",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1a1a2e",
+    "primary_dark": "#111122",
+    "primary_deeper": "#0a0a18",
+    "secondary": "#0077b6",
+    "cta": "#0077b6",
+    "cta_dark": "#005f92"
+  },
+  "trust_badges": {
+    "badge_1": "Angi Approved (4.89 Rating)",
+    "badge_2": "4.9/5 from 32+ Reviews",
+    "badge_3": "Licensed Pool Contractor"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 32+ Google Reviews",
+    "badge_2": "Owner-Operated Since 2014",
+    "headline": "Your Pool Deserves the <span class=\"text-secondary italic\">Family Touch</span>",
+    "subheadline": "Most pool companies treat you like an account number. Rave Pools treats you like family. Jaime and Jessica bring over a decade of hands-on expertise to every inground pool in lower Fairfield County, delivering the white-glove care your backyard investment deserves.",
+    "cta_text": "Get My Free Pool Evaluation",
+    "checkmarks": [
+      "Free on-site pool inspection",
+      "Preventative care that saves you money",
+      "No long-term contracts required"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "12",
+    "stat_1_label": "Years Serving Fairfield County",
+    "stat_2_value": "32",
+    "stat_2_label": "Five-Star Reviews",
+    "stat_3_value": "4.9",
+    "stat_3_label": "Average Google Rating",
+    "stat_4_value": "100%",
+    "stat_4_label": "Owner-Supervised Service"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Inground Pool Care<br class=\"hidden md:block\"> From Open to Close",
+    "subtitle": "From weekly maintenance to full renovations, Rave Pools handles every detail of your inground pool and spa so you can enjoy crystal-clear water without the worry.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Comprehensive weekly service to keep your pool clean, balanced, and swim-ready all season long. Includes water testing, chemical balancing, skimming, brushing, and equipment checks."
+      },
+      {
+        "title": "Seasonal Pool Openings",
+        "description": "Professional spring opening service to get your pool ready for the season. Includes full equipment inspection, system startup, water treatment, and a thorough deep cleaning."
+      },
+      {
+        "title": "Seasonal Pool Closings",
+        "description": "Expert winterization to protect your pool through Connecticut's harsh cold months. Includes water chemistry adjustment, plumbing line clearing, cover installation, and equipment shutdown."
+      },
+      {
+        "title": "Pool Renovations",
+        "description": "Complete renovation services to restore and upgrade your existing inground pool. From resurfacing and tile work to equipment upgrades and aesthetic improvements that add value."
+      },
+      {
+        "title": "Leak Detection & Repair",
+        "description": "Specialized leak detection for inground pools. Expert diagnosis of hard-to-find leaks that other companies miss, followed by reliable, lasting repairs that protect your investment."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of pool filters, pumps, heaters, and automation systems to keep your pool running efficiently and reliably through every Connecticut season."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Evaluation",
+        "description": "Call or fill out the form and we will visit your property for a complete pool inspection. You will receive an honest, transparent quote within 24 hours — no pressure, no sales tactics."
+      },
+      {
+        "title": "We Handle Everything",
+        "description": "Jaime and the Rave Pools team arrive on schedule, every time. Cleaning, chemistry, equipment, and repairs are handled with the preventative care philosophy that has kept Fairfield County pools pristine for over a decade."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays sparkling, your equipment runs smoothly, and you get your weekends back. If anything is ever less than perfect, we make it right — that is the Rave Pools promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Fairfield County Trusts Rave Pools",
+    "headline": "Family-Operated Means Every Client Gets Personal Attention",
+    "description": "Founded in 2014, Rave Pools is lower Fairfield County's trusted name in elevated pool care. Owners Jaime and Jessica built this company on a simple principle: treat every client like family, not just an account number. With over a decade of proven expertise exclusively in inground swimming pools and spas, we combine a preventative care philosophy with high-touch communication that protects your investment for the long term.",
+    "badge": "Angi Approved",
+    "features": [
+      {
+        "title": "Preventative Care Philosophy",
+        "description": "We catch small issues before they become expensive problems. Our proactive approach saves you money and extends the life of your pool and equipment."
+      },
+      {
+        "title": "High-Touch Communication",
+        "description": "You will always know exactly what is happening with your pool. We coordinate every detail and keep you informed at every step — no surprises, no guesswork."
+      },
+      {
+        "title": "Exclusively Inground Pools & Spas",
+        "description": "We specialize in one thing and do it exceptionally well. Our focused expertise means your inground pool gets the specialized care it requires."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Fees.",
+    "subtitle": "Choose the service level that fits your pool and budget. Upgrade, downgrade, or cancel anytime — we earn your loyalty through results, not contracts."
+  },
+  "guarantee": {
+    "headline": "Our \"Rave-Worthy\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no charge. We have built our reputation one pool at a time over 12 years in Fairfield County, and we stake our family name on every single visit. That is the Rave Pools promise."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are on the schedule within 3-5 business days. For urgent situations like equipment failures or green pools, we prioritize emergency response. Call us at 203-856-4842 and we will work around your timeline."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate or yard access and we handle everything while you are away. After each visit, we keep you informed about what was done and any observations about your pool's condition."
+    },
+    {
+      "question": "What makes Rave Pools different from other pool companies?",
+      "answer": "We are owner-operated and exclusively focused on inground pools and spas. Jaime and Jessica are personally involved in every client relationship, ensuring the same level of care and communication that has earned us a 4.9-star rating over 12 years in business."
+    },
+    {
+      "question": "Do you service all types of inground pools?",
+      "answer": "Yes. We service all inground pool types including concrete, gunite, fiberglass, and vinyl liner pools, as well as attached spas and water features. Our decade of experience covers every system and configuration."
+    },
+    {
+      "question": "What areas do you serve in Connecticut?",
+      "answer": "We proudly serve Weston, Norwalk, and the greater lower Fairfield County area. If you are unsure whether your property falls within our service area, give us a call and we will let you know right away."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Elise L.G.",
+      "context": "Greenfield Hill Magazine",
+      "initials": "EL",
+      "text": "Their motto 'You've tried the Rest, now Rave about the Best' surely fits the bill. It all begins with their responsiveness and personal customer relationship that the owners extend to reliable, consistent maintenance."
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "context": "Pool restoration & ongoing maintenance",
+      "initials": "SH",
+      "text": "Rave Pools restored our existing pool, fixed a leak no one else could find, installed a new filter, and now maintains our pool. The team is fantastic in every way — courteous, responsive, and knowledgeable."
+    },
+    {
+      "name": "Local Pool Owner",
+      "context": "Weekly maintenance client",
+      "initials": "LP",
+      "text": "The technician took a dingy pool and made it beautiful. Very professional and always on time. He went above and beyond his duties to help us. Highly recommended to anyone in the area!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Rave About<br>Your Pool?",
+    "subtitle": "Get a free, no-pressure evaluation within 24 hours. No contracts, no commitments — just honest, family-operated service from a team that has kept Fairfield County pools pristine since 2014.",
+    "benefits": [
+      "Free on-site pool inspection included",
+      "Response within 24 hours guaranteed",
+      "Owner-involved on every account"
+    ]
+  },
+  "footer": {
+    "description": "Family-operated pool care for inground pools and spas. Proudly serving lower Fairfield County since 2014.",
+    "service_area": "Serving Weston, Norwalk & Lower Fairfield County, CT",
+    "services": [
+      "Weekly Pool Maintenance",
+      "Seasonal Openings & Closings",
+      "Pool Renovations",
+      "Leak Detection & Repair",
+      "Equipment Installation"
+    ],
+    "copyright": "&copy; 2026 Rave Pools. All rights reserved. Licensed Pool Service Contractor | Angi Approved"
+  }
+}

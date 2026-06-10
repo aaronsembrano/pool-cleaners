@@ -1,0 +1,183 @@
+{
+  "folder_name": "acquality-pool-service",
+  "company_name": "Acquality Pool Service",
+  "tagline": "Professional. Discreet. Punctual.",
+  "phone": "+1 305-982-7481",
+  "email": "carlos.grau@acqualitypool.com",
+  "review_count": "30",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#E85D04",
+    "cta_dark": "#C44D03"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified & Insured",
+    "badge_2": "5.0/5 from 30+ Reviews",
+    "badge_3": "BBB A+ Accredited"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 30+ Google Reviews",
+    "badge_2": "BBB A+ Accredited",
+    "headline": "Your Pool Deserves <span class=\"text-secondary italic\">Boutique<br>Concierge Care</span>",
+    "subheadline": "Carlos and Beatriz Grau built Acquality on one belief: every pool owner deserves white-glove attention, honest communication, and crystal-clear water. Get detailed reports after every visit so you always know exactly what was done.",
+    "cta_text": "Request Your Free Pool Assessment",
+    "checkmarks": [
+      "Detailed email report every visit",
+      "Family-owned since 2014",
+      "Bilingual service (EN/ES)"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "12",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "20",
+    "stat_3_label": "Years Combined Experience",
+    "stat_4_value": "5.0",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Boutique Pool Care Tailored<br class=\"hidden md:block\"> to Your Miami Home",
+    "subtitle": "From weekly concierge maintenance to full outdoor transformations, the Grau family delivers personalized service you can feel in every sparkling detail.",
+    "cards": [
+      {
+        "title": "Weekly Pool Concierge",
+        "description": "Skimming, vacuuming, brushing, filter cleaning, and full chemical testing. You receive a detailed email report after every visit with water quality readings and services performed."
+      },
+      {
+        "title": "Repair & Remodel",
+        "description": "Variable-speed pump upgrades, salt chlorine generators, Jandy system repairs, and full pool remodels. We diagnose fast and fix it right the first time."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Expert algaecide selection for every algae type combined with shock treatments. We restore neglected or storm-damaged pools to crystal-clear condition."
+      },
+      {
+        "title": "Water Chemistry Balancing",
+        "description": "Comprehensive testing and balancing of alkalinity, cyanuric acid, calcium hardness, and pH levels to keep your water safe, clear, and gentle on skin."
+      },
+      {
+        "title": "Acid Wash & Deep Clean",
+        "description": "Post-hurricane recovery, stubborn stain removal, and deep surface cleaning that restores neglected pool surfaces to like-new condition."
+      },
+      {
+        "title": "Outdoor Living Solutions",
+        "description": "Artificial turf installation, audiovisual setups, pergolas, pressure washing, and exterior window cleaning to complete your backyard oasis."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Concierge Pool Care",
+    "steps": [
+      {
+        "title": "Book Your Free Assessment",
+        "description": "Tell us about your pool and we will schedule a no-obligation on-site assessment. Carlos personally evaluates every new pool to create a custom care plan."
+      },
+      {
+        "title": "We Handle Every Detail",
+        "description": "Our CPO-certified technicians arrive on schedule, perform thorough service, and send you a detailed email report with water chemistry readings and photos."
+      },
+      {
+        "title": "Relax and Enjoy Your Pool",
+        "description": "Your pool stays pristine, swim-ready, and worry-free week after week. If anything is ever less than perfect, we come back and make it right at no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Miami Families Trust Us",
+    "headline": "A Family Business Built on Care, Dignity, and Respect",
+    "description": "Founded in 2014 by husband and wife team Carlos and Beatriz Grau, Acquality Pool Service brings a boutique concierge approach to residential pool care in the greater Miami area. With over 20 years of combined experience and CPO certification, we treat every client like family. Carlos manages operations and supervises every technician. Beatriz ensures your experience is seamless from first call to every visit after.",
+    "badge": "CPO Certified #107405",
+    "features": [
+      {
+        "title": "Detailed Reports After Every Visit",
+        "description": "You receive an email after each service with water quality readings, chemical adjustments, and a summary of all work performed. No guessing, ever."
+      },
+      {
+        "title": "Bilingual, Family-Owned Service",
+        "description": "Carlos and Beatriz serve Miami's diverse community in both English and Spanish, bringing personal attention that big companies simply cannot match."
+      },
+      {
+        "title": "BBB A+ Rating, 5-Star Reviews",
+        "description": "Accredited by the Better Business Bureau with an A+ rating and perfect 5-star reviews across Google, Facebook, HomeAdvisor, and Yelp."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Boutique Service.",
+    "subtitle": "Every pool is unique, so we provide custom quotes after a free on-site assessment. No hidden fees, no surprise charges."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us and we will return to make it right at no additional charge. We built this business on trust, and we stand behind every visit with the same care we would give our own family pool."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients are scheduled within one week of their free assessment. For green pool emergencies or post-hurricane recovery, we offer expedited same-day or next-day response throughout the Miami area."
+    },
+    {
+      "question": "What is included in the email report after each visit?",
+      "answer": "Every report includes water chemistry readings (pH, chlorine, alkalinity, cyanuric acid, calcium hardness), a summary of all services performed, any recommendations for repairs or adjustments, and photos when relevant."
+    },
+    {
+      "question": "Do you service salt chlorine pools?",
+      "answer": "Absolutely. We are salt pool and saline specialists. We install, maintain, and repair salt chlorine generator systems and understand the unique chemistry requirements of saltwater pools."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most clients provide gate or backyard access and we handle everything while you are away. Your detailed email report after each visit ensures you always know exactly what was done."
+    },
+    {
+      "question": "Do you offer service in Spanish?",
+      "answer": "Yes. Acquality Pool Service is fully bilingual. Beatriz and our team provide seamless service in both English and Spanish, ensuring clear communication with every client."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "James S.",
+      "context": "Google Review, August 2024",
+      "initials": "JS",
+      "text": "The most reliable and honest pool service I have ever received. Would not change them for the world. True professionals who care about doing the job right."
+    },
+    {
+      "name": "Juan P.",
+      "context": "8+ Year Client",
+      "initials": "JP",
+      "text": "Detailed photos, chemical reports, and honorable family business practices. After 8 years as a client, I HIGHLY recommend Acquality to anyone who wants real pool care."
+    },
+    {
+      "name": "Michelle B.",
+      "context": "Google Review, 24-Year Resident",
+      "initials": "MB",
+      "text": "At the top of my list among service providers in South Florida over 24 years. They check the water quality each visit and you receive an email giving you the readings and services performed."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Pool Care<br>You Can Actually Trust?",
+    "subtitle": "Request a free, no-obligation pool assessment. Carlos will personally evaluate your pool and provide honest recommendations tailored to your needs.",
+    "benefits": [
+      "Free on-site pool assessment",
+      "Detailed quote within 24 hours",
+      "Bilingual service (English & Spanish)"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned boutique pool concierge service. Serving Miami since 2014.",
+    "service_area": "Serving Miami, Coral Gables & Greater Miami Area",
+    "services": [
+      "Weekly Pool Concierge",
+      "Repair & Remodel",
+      "Green Pool Recovery",
+      "Acid Wash & Deep Clean",
+      "Outdoor Living"
+    ],
+    "copyright": "&copy; 2024 Acquality Pool Service Corp. All rights reserved. CPO #107405"
+  }
+}

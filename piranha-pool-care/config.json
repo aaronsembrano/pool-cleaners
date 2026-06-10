@@ -1,0 +1,184 @@
+{
+  "folder_name": "piranha-pool-care",
+  "company_name": "Piranha Pool Care",
+  "tagline": "Crystal Clear Pools Every Time",
+  "phone": "+1 813-699-2121",
+  "email": "info@piranhapoolcare.com",
+  "logo_path": "logo.png",
+  "review_count": "72",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1a1a2e",
+    "primary_dark": "#111122",
+    "primary_deeper": "#0a0a18",
+    "secondary": "#0ea5e9",
+    "cta": "#f97316",
+    "cta_dark": "#ea580c"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "5.0/5 from 72+ Reviews",
+    "badge_3": "Chemicals Included"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 72+ Google Reviews",
+    "badge_2": "Weekly Reports Included",
+    "headline": "Your Pool Tracked, Treated & <span class=\"text-secondary italic\">Always Crystal Clear</span>",
+    "subheadline": "Stop guessing what your pool needs. Piranha Pool Care delivers weekly service with detailed chemistry reports and real-time text alerts, so you always know your water is safe. Tampa families trust us because we treat every pool like our own.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free pool inspection",
+      "Chemicals included in service",
+      "Text alerts after every visit"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "72",
+    "stat_1_label": "5-Star Reviews",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving Tampa",
+    "stat_3_value": "500",
+    "stat_3_label": "Pools Maintained",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\"> Chemistry to Equipment",
+    "subtitle": "Whether you need weekly maintenance, a green pool rescue, or equipment repairs, our Tampa-based team handles it all so you can get back to enjoying your backyard.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Full-service weekly maintenance starting at $135/month. Includes water chemistry testing, surface brushing, skimming, vacuuming, and all standard chemicals at no extra cost."
+      },
+      {
+        "title": "Pool Equipment Repairs",
+        "description": "Expert diagnosis and repair for pumps, lights, salt generators, filters, O-rings, broken tiles, surface cracks, and leak detection. Fast turnaround to keep your pool running."
+      },
+      {
+        "title": "Green To Clean Recovery",
+        "description": "Murky, green pool? We transform it back to crystal clear in 3-4 days with multiple filter cleanings, specialty chemicals, thorough brushing, and complete vacuuming."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Professional chemical balancing for pool owners with screened enclosures and auto-vacuums. We handle the science so your water stays safe, clear, and perfectly balanced."
+      },
+      {
+        "title": "Quarterly Deep Testing",
+        "description": "Advanced testing for conditioner and calcium hardness levels included with every weekly service plan. We catch problems early before they become expensive repairs."
+      },
+      {
+        "title": "Filter & System Maintenance",
+        "description": "Routine filter cleaning, equipment inspections, and preventative maintenance that extends the life of your pool systems and keeps everything running efficiently."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Book Your Free Assessment",
+        "description": "Tell us about your pool and we will schedule a free on-site inspection. We evaluate your water chemistry, equipment condition, and surface health, then send you an honest quote."
+      },
+      {
+        "title": "We Take Over From Here",
+        "description": "Our trained technicians arrive on your scheduled day and handle everything: cleaning, chemicals, equipment checks. You get a detailed text report after every single visit."
+      },
+      {
+        "title": "Dive In With Confidence",
+        "description": "Your pool stays crystal clear and swim-ready all year round. Track your water chemistry history through our weekly reports. Questions? We answer seven days a week."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Tampa Trusts Piranha",
+    "headline": "We Track Every Detail So You Never Have to Worry",
+    "description": "Founded in 2022, Piranha Pool Care has quickly become one of Tampa's most trusted pool service providers. We are not a franchise or a corporate call center. We are a local team that treats every customer's pool like it is our own. Our detailed weekly reports track water chemistry adjustments, our text alerts keep you informed after every visit, and our team answers questions seven days a week, including weekends.",
+    "badge": "72 Five-Star Reviews",
+    "features": [
+      {
+        "title": "Weekly Chemistry Reports",
+        "description": "After every visit, you receive a detailed report tracking all water chemistry adjustments and service notes, delivered straight to your phone via text."
+      },
+      {
+        "title": "Chemicals Included. No Surprises.",
+        "description": "Chlorine, muriatic acid, sodium bicarbonate, and calcium are all included in your monthly rate. No hidden fees, no surprise charges on your bill."
+      },
+      {
+        "title": "Available 7 Days a Week",
+        "description": "Have a question on a Saturday? No problem. Our team is responsive every day of the week, including weekends. Your pool never has to wait for Monday."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Chemicals Included.",
+    "subtitle": "Weekly pool service starting at $135/month with all standard chemicals included. No contracts, no hidden fees."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call or text us and we will come back to make it right at no extra charge. We answer seven days a week and stand behind every visit. Your pool should always be swim-ready, and we do not stop until it is."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new clients in the Tampa area are scheduled within 3-5 business days. For green pool emergencies, we can often respond same-day or next-day. Just call or text us and we will work around your schedule."
+    },
+    {
+      "question": "Are chemicals included in the monthly price?",
+      "answer": "Yes! Standard chemicals including chlorine, muriatic acid, sodium bicarbonate, and calcium are all included in your weekly service rate starting at $135/month. No surprise add-ons or hidden fees."
+    },
+    {
+      "question": "What are the weekly reports I keep hearing about?",
+      "answer": "After every visit, your technician logs all water chemistry readings and adjustments into a detailed report. You receive a text alert summarizing what was done so you always know the exact state of your pool."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most of our Tampa clients provide gate access and we handle everything while you are away. You will receive a text report after each visit so you always know exactly what was done."
+    },
+    {
+      "question": "What areas do you serve around Tampa?",
+      "answer": "We serve New Tampa, Wesley Chapel, Westchase, Riverview, South Tampa, Brandon, Temple Terrace, Carrollwood, and the greater Tampa, FL area. If you are nearby, give us a call and we will let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Satisfied Customer",
+      "context": "Google Review",
+      "initials": "SC",
+      "text": "Best pool cleaning service! Brandon is awesome and super friendly. We chat every week when he comes by to clean the pool. Our water has never looked this good."
+    },
+    {
+      "name": "Happy Homeowner",
+      "context": "Google Review",
+      "initials": "HH",
+      "text": "Best company I've dealt with in a long time! The technician is awesome and the owner truly cares about their customers. You can tell this is not just a job to them."
+    },
+    {
+      "name": "Local Resident",
+      "context": "Google Review",
+      "initials": "LR",
+      "text": "Awesome company! Great staff and manager. Willing to answer questions every day of the week, even weekends. That kind of responsiveness is rare and really appreciated."
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Stays Crystal Clear?",
+    "subtitle": "Get a free pool assessment and honest quote within 24 hours. No contracts, no pressure, just straightforward pricing for Tampa's best pool care.",
+    "benefits": [
+      "Free on-site pool inspection",
+      "Quote within 24 hours",
+      "Chemicals included in every plan"
+    ]
+  },
+  "footer": {
+    "description": "Tampa's trusted pool care team. Detailed weekly reports, chemicals included, 7-day support.",
+    "service_area": "Serving Tampa, Wesley Chapel, Westchase, Riverview & Surrounding Areas",
+    "services": [
+      "Weekly Pool Service",
+      "Pool Equipment Repairs",
+      "Green To Clean Recovery",
+      "Water Chemistry Management",
+      "Filter & System Maintenance"
+    ],
+    "copyright": "&copy; 2024 Piranha Pool Care. All rights reserved. Tampa, FL"
+  }
+}

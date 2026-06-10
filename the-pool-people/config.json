@@ -1,0 +1,184 @@
+{
+  "folder_name": "the-pool-people",
+  "company_name": "The Pool People",
+  "tagline": "Independent Commercial Pool Chemical Dosing & Water Control Specialists",
+  "phone": "(615) 555-0172",
+  "email": "tim@thepoolpeople.co.uk",
+  "logo_path": "logo.png",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#0C4A6E",
+    "primary_dark": "#083350",
+    "primary_deeper": "#052238",
+    "secondary": "#0EA5E9",
+    "cta": "#F59E0B",
+    "cta_dark": "#D97706"
+  },
+  "trust_badges": {
+    "badge_1": "CPO Certified & Insured",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Brand-Neutral Specialists"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "Brand-Neutral Specialists",
+    "headline": "Precision Pool Care From <span class=\"text-secondary italic\">People Who<br>Know Water</span>",
+    "subheadline": "Your pool deserves more than guesswork. The Pool People deliver expert chemical dosing, calibration, and maintenance backed by nearly a decade of hands-on experience. We work for you, not a product brand -- so you always get the right solution, not just a sales pitch.",
+    "cta_text": "Get My Free Pool Assessment",
+    "checkmarks": [
+      "Free system assessment",
+      "Same-week service available",
+      "No brand bias, ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "9",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "500",
+    "stat_3_label": "Systems Installed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Compliance Rate"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Commercial-Grade Pool Care<br class=\"hidden md:block\"> For Every Facility",
+    "subtitle": "From automated dosing systems to weekly maintenance, we bring precision engineering and independent expertise to every pool we touch across Middle Tennessee.",
+    "cards": [
+      {
+        "title": "Pool Installations & Upgrades",
+        "description": "Expert installation and replacement of automated chemical dosing and water control systems for both commercial and residential pools, ensuring optimal water quality from day one."
+      },
+      {
+        "title": "Pool Servicing & Calibration",
+        "description": "Planned servicing schedules including thorough testing, probe calibration, and performance checks to keep your pool system running at peak efficiency year-round."
+      },
+      {
+        "title": "Water Quality Monitoring",
+        "description": "Advanced mobile monitoring solutions providing real-time visibility of chemical levels, system alerts, and water quality data so you always know your pool is safe."
+      },
+      {
+        "title": "Dosing System Audits",
+        "description": "Independent assessments of your pool chemical dosing system's accuracy, efficiency, and compliance, with detailed reports and recommendations for improvement."
+      },
+      {
+        "title": "Pool Maintenance & Cleaning",
+        "description": "Comprehensive weekly and bi-weekly pool maintenance including skimming, brushing, vacuuming, chemical balancing, and equipment inspection to keep your pool crystal clear."
+      },
+      {
+        "title": "Equipment Repair & Replacement",
+        "description": "Fast, reliable repair and replacement of pumps, filters, heaters, and automation systems to minimize downtime and extend the life of your pool equipment."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Perfect Water Quality",
+    "steps": [
+      {
+        "title": "Book Your Free Assessment",
+        "description": "Tell us about your pool or facility. We inspect your current setup, test your water, and deliver an honest, no-pressure recommendation within 24 hours -- tailored to your needs, not a product catalogue."
+      },
+      {
+        "title": "We Engineer the Solution",
+        "description": "Our CPO-certified specialists design, install, or service your system using the best-fit equipment from leading manufacturers. Every calibration is documented for full compliance and peace of mind."
+      },
+      {
+        "title": "Enjoy Worry-Free Water",
+        "description": "Your pool stays pristine with ongoing monitoring, planned servicing, and real-time alerts. If anything drifts out of spec, we catch it before your swimmers ever notice."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Nashville Trusts Us",
+    "headline": "Independent Experts, Not Product Salespeople",
+    "description": "Founded in 2017 and serving Middle Tennessee ever since, The Pool People are specialists in automated chemical dosing and water control. Our brand-neutral approach means we recommend the best solution for your pool -- not the one that earns us the biggest commission. With hands-on experience across major health clubs, leisure facilities, and residential pools, our small dedicated team delivers the personalized attention and precision your water deserves.",
+    "badge": "CPO Certified",
+    "features": [
+      {
+        "title": "Brand-Neutral Recommendations",
+        "description": "We work with all leading European manufacturers so your pool gets the right system, not just the one we happen to sell."
+      },
+      {
+        "title": "Compliance Documentation",
+        "description": "Every calibration, service, and audit comes with thorough documentation so you stay fully regulation-compliant."
+      },
+      {
+        "title": "Direct Communication Always",
+        "description": "Our small, dedicated team means you talk directly to the people working on your pool -- no call centers, no runaround."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Hidden Costs.",
+    "subtitle": "Every pool is different. We quote based on your specific system and needs -- always fair, always upfront."
+  },
+  "guarantee": {
+    "headline": "Our \"Crystal Clear\" Guarantee",
+    "description": "If your water quality falls below standard between scheduled visits, we come back and correct it at no additional charge. We stake our reputation on precision -- every reading, every calibration, every time. Your satisfaction is not negotiable."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new clients are scheduled within the same week. For urgent water quality issues, we offer priority response. Just call us at (615) 555-0172 and we will work with your timeline."
+    },
+    {
+      "question": "What does 'brand-neutral' mean for my pool?",
+      "answer": "It means we are not tied to any single equipment manufacturer. We evaluate your specific needs and recommend the best-fit solution from all leading brands, so you get optimal performance and value rather than a one-size-fits-all product push."
+    },
+    {
+      "question": "Do you handle both residential and commercial pools?",
+      "answer": "Absolutely. We service everything from backyard residential pools to large-scale health club and leisure facility installations. Commercial clients receive dedicated scheduling, compliance documentation, and priority support."
+    },
+    {
+      "question": "How does your water quality monitoring work?",
+      "answer": "We install mobile monitoring solutions that provide real-time visibility into your chemical levels and system performance. You receive alerts if anything drifts out of spec, and we can often resolve issues remotely before they become problems."
+    },
+    {
+      "question": "Are your technicians certified?",
+      "answer": "Yes. Our team holds Certified Pool Operator (CPO) credentials and Commercial Water Treatment Specialist certifications. We are also an authorized Kuntze Instruments service provider, ensuring expert-level care for advanced dosing systems."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "David R.",
+      "text": "The Pool People transformed our backyard pool. Their attention to detail with the chemical dosing system is unmatched -- our water has never been clearer. Tim and his team are incredibly responsive and knowledgeable.",
+      "context": "Residential pool system installation",
+      "initials": "DR"
+    },
+    {
+      "name": "Sarah M.",
+      "text": "We have been using The Pool People for our weekly maintenance for over two years now. They are always on time, thorough, and proactive about catching small issues before they become expensive problems. Highly recommend!",
+      "context": "Ongoing pool maintenance",
+      "initials": "SM"
+    },
+    {
+      "name": "James T.",
+      "text": "After struggling with inconsistent water quality at our facility, The Pool People came in, audited our entire system, and recommended a solution that has worked flawlessly. Professional, honest, and fair pricing.",
+      "context": "Commercial facility dosing audit",
+      "initials": "JT"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for Water Quality<br>You Can Trust?",
+    "subtitle": "Get a free, no-obligation pool assessment. We will evaluate your system, test your water, and deliver honest recommendations -- no sales pressure, just expertise.",
+    "benefits": [
+      "Free pool and system assessment",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Independent pool specialists. Serving Middle Tennessee since 2017.",
+    "service_area": "Serving Nashville, Brentwood, Franklin, Hendersonville & Middle Tennessee",
+    "services": [
+      "Pool Installations",
+      "Servicing & Calibration",
+      "Water Monitoring",
+      "Dosing Audits",
+      "Maintenance & Cleaning"
+    ],
+    "copyright": "&copy; 2024 The Pool People. All rights reserved. CPO Certified | Commercial Water Treatment Specialists"
+  }
+}

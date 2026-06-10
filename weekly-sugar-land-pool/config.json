@@ -1,0 +1,183 @@
+{
+  "folder_name": "weekly-sugar-land-pool",
+  "company_name": "Weekly Sugar Land Pool Service",
+  "tagline": "We Love Pools!",
+  "phone": "+1 281-545-7080",
+  "email": "carl.terrell@poolservicesugarland.com",
+  "colors": {
+    "primary": "#0288D1",
+    "primary_dark": "#01579B",
+    "primary_deeper": "#003F6B",
+    "secondary": "#FF8F00",
+    "cta": "#FF8F00",
+    "cta_dark": "#E65100"
+  },
+  "review_count": "35",
+  "review_rating": "4.8",
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 2009",
+    "badge_2": "4.8/5 from 35+ Reviews",
+    "badge_3": "Pool Service Guarantee"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 35+ Google Reviews",
+    "badge_2": "Pool Service Guarantee",
+    "headline": "17 Years Keeping Sugar Land <span class=\"text-secondary italic\">Pools Perfect</span>",
+    "subheadline": "Our family has been caring for Sugar Land pools since 2009 with a meticulous 23-point care system on every visit. Stop worrying about water chemistry and equipment failures -- just dive in.",
+    "cta_text": "Get My Free Pool Evaluation",
+    "checkmarks": [
+      "Free pool evaluation",
+      "23-point care every visit",
+      "Pool Service Guarantee"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Sugar Land Pools Served",
+    "stat_2_value": "17",
+    "stat_2_label": "Years in Sugar Land",
+    "stat_3_value": "23",
+    "stat_3_label": "Point Care System",
+    "stat_4_value": "100%",
+    "stat_4_label": "Guarantee Backed"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Complete Pool Care by a Family<br class=\"hidden md:block\"> That Lives and Breathes Pools",
+    "subtitle": "From weekly chemical balancing to full equipment repair, our experienced technicians follow a rigorous 23-point care system using only premium brands like Pentair, Hayward, Jandy, and Polaris.",
+    "cards": [
+      {
+        "title": "Complete Pool Service",
+        "description": "Our premium $209/month plan covers everything: chemical maintenance, equipment checks, hose vacuum, leaf vacuum, wall and step brushing, bottom netting, and spa care. Full 23-point system every week."
+      },
+      {
+        "title": "Standard Pool Service",
+        "description": "Essential weekly maintenance at $149/month covering chemical balancing and equipment checks. We monitor chloramines, total alkalinity, cyanuric acid, and chlorine levels to keep your pool safe."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Expert chemical balancing including chloramine control, total alkalinity stabilization, cyanuric acid assessment, and chlorine disinfection. Crystal-clear, safe water every time."
+      },
+      {
+        "title": "Equipment Repair & Service",
+        "description": "We diagnose and repair pumps, filters, heaters, and more using premium parts from Pentair, Hayward, Jandy, and Polaris. Most repairs completed same-visit."
+      },
+      {
+        "title": "Weekly Cleaning & Vacuuming",
+        "description": "Thorough cleaning including hose vacuuming, leaf vacuuming, wall and step brushing, pool bottom netting, and spa brushing. Every surface left spotless and debris-free."
+      },
+      {
+        "title": "Pool Safety Inspections",
+        "description": "As a Pool Safely Pledge participant, we inspect your pool for safety hazards, check drain covers, verify equipment compliance, and ensure your family swims safely all season."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Schedule Your Free Evaluation",
+        "description": "Tell us about your pool and we will provide an honest, no-pressure evaluation within 24 hours. We assess your pool's condition and recommend the right service plan for your needs."
+      },
+      {
+        "title": "We Follow Our 23-Point System",
+        "description": "Our experienced technicians arrive on schedule and perform every item on our comprehensive 23-point care checklist. Chemicals, cleaning, equipment -- nothing gets missed."
+      },
+      {
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and swim-ready week after week. If you are ever not satisfied, our Pool Service Guarantee means we come back and make it right -- free."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Sugar Land Trusts Us",
+    "headline": "A Family Business Built on Generations of Pool Care Expertise",
+    "description": "Weekly Sugar Land Pool Service was founded in 2009 by a family with multiple generations of pool care knowledge. For 17 years, we have delivered meticulous, professional workmanship at economical rates to Sugar Land homeowners. Every technician follows our proven 23-point care system, and every service is backed by our Pool Service Guarantee.",
+    "badge": "Association of Aquatic Professionals",
+    "features": [
+      {
+        "title": "Premium Brands Only",
+        "description": "We use exclusively Pentair, Hayward, Jandy, and Polaris parts and equipment. No shortcuts, no off-brand substitutions."
+      },
+      {
+        "title": "Transparent Monthly Pricing",
+        "description": "Plans start at $149/month with no hidden fees. You know exactly what you pay and what you get every single visit."
+      },
+      {
+        "title": "Pool Service Guarantee",
+        "description": "Not satisfied with any visit? We come back and redo the work at no additional charge. That is our standing promise to every customer."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Economical rates from a family that believes in honest, fair pricing."
+  },
+  "guarantee": {
+    "headline": "Our Pool Service Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, call us and we will come back to make it right at no extra cost. We have stood behind this guarantee since 2009 because we believe you should never have to wonder if the job was done right. Your pool deserves the best, and we will not stop until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start weekly service?",
+      "answer": "Most new Sugar Land clients are scheduled within 3-5 business days. We will perform a thorough initial evaluation and have your pool on our weekly rotation right away."
+    },
+    {
+      "question": "What is included in the 23-point care system?",
+      "answer": "Our 23-point system covers everything from chemical balancing (chloramines, alkalinity, cyanuric acid, chlorine) to physical cleaning (vacuuming, brushing walls, steps, netting the bottom) to equipment checks. Every item is completed every visit."
+    },
+    {
+      "question": "What brands of equipment do you use?",
+      "answer": "We use only premium brands: Pentair, Hayward, Jandy, and Polaris. These are industry-leading manufacturers that ensure your pool equipment operates at peak performance and lasts longer."
+    },
+    {
+      "question": "Do I need to sign a long-term contract?",
+      "answer": "No contracts required. We offer straightforward monthly plans starting at $149/month. You can adjust or cancel at any time. We believe in earning your business every single visit."
+    },
+    {
+      "question": "What makes you different from other pool companies?",
+      "answer": "We are a family-founded business with multiple generations of pool care experience, serving Sugar Land since 2009. Our weekly 23-point care system, premium brand parts, and Pool Service Guarantee set us apart from companies that cut corners."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Robert M.",
+      "text": "They have been taking care of our pool for over three years now. Always on time, very thorough with the cleaning, and the water chemistry is always perfect. Worth every penny for the peace of mind.",
+      "context": "Complete Pool Service customer",
+      "initials": "RM"
+    },
+    {
+      "name": "Jennifer T.",
+      "text": "We switched to Weekly Sugar Land Pool Service after a bad experience with another company. Night and day difference. Professional, reliable, and our pool has never looked better.",
+      "context": "Sugar Land homeowner",
+      "initials": "JT"
+    },
+    {
+      "name": "David K.",
+      "text": "Carl and his team are fantastic. They really know their stuff when it comes to pool chemistry and equipment. Great communication and fair pricing. Highly recommend to any Sugar Land family.",
+      "context": "Long-term customer",
+      "initials": "DK"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That's Always<br>Swim-Ready?",
+    "subtitle": "Get a free pool evaluation from Sugar Land's trusted family pool service. No contracts, no pressure -- just honest care from a team with 17 years of local experience.",
+    "benefits": [
+      "Free 23-point pool evaluation",
+      "Response within 24 hours",
+      "Pool Service Guarantee on every visit"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service. Proudly serving Sugar Land since 2009.",
+    "service_area": "Serving Sugar Land, TX 77479, 77498, 77478 & Surrounding Areas",
+    "services": [
+      "Complete Pool Service",
+      "Standard Pool Service",
+      "Equipment Repair",
+      "Water Chemistry",
+      "Pool Safety Inspections"
+    ],
+    "copyright": "&copy; 2024 Weekly Sugar Land Pool Service. All rights reserved. Association of Aquatic Professionals Member."
+  }
+}

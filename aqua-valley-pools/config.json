@@ -1,0 +1,184 @@
+{
+  "folder_name": "aqua-valley-pools",
+  "company_name": "Aqua Valley Pools",
+  "tagline": "Crystal-Clear Pools, Zero Stress",
+  "phone": "+1 260-224-9528",
+  "email": "sujey.reyes@aquavalleypools.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#0077B6",
+    "primary_dark": "#005A8C",
+    "primary_deeper": "#003D5E",
+    "secondary": "#00B4D8",
+    "cta": "#E85D04",
+    "cta_dark": "#C44B03"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "5.0/5 from 15+ Reviews",
+    "badge_3": "Angi Super Service Award"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 15+ Google Reviews",
+    "badge_2": "Angi 2024 Super Service Award",
+    "headline": "Crystal-Clear Pools <span class=\"text-secondary italic\">Without<br>Lifting a Finger</span>",
+    "subheadline": "Your backyard should be your escape, not another chore. Aqua Valley Pools handles every detail of your pool care so the only thing you need to do is enjoy the water. Licensed, bonded, and trusted across the East Valley.",
+    "cta_text": "Get My Free Estimate",
+    "checkmarks": [
+      "Free no-pressure estimate",
+      "Same-week service available",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "200",
+    "stat_1_label": "Pools Maintained",
+    "stat_2_value": "3",
+    "stat_2_label": "Years Serving Mesa",
+    "stat_3_value": "750",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "5-Star Satisfaction"
+  },
+  "services": {
+    "label": "Our Pool Services",
+    "headline": "Complete Pool Care for<br class=\"hidden md:block\">Every Mesa Homeowner",
+    "subtitle": "From weekly maintenance to emergency green pool rescues, Aqua Valley Pools keeps your water pristine so you can spend your weekends relaxing poolside instead of testing chemicals.",
+    "cards": [
+      {
+        "title": "Weekly Pool Service",
+        "description": "Chemical testing, skimming, brushing, vacuuming, and equipment checks every week. Your pool stays swim-ready and perfectly balanced all year long."
+      },
+      {
+        "title": "Equipment Repair",
+        "description": "Pumps, filters, heaters, salt systems — our technicians diagnose the problem fast and get your equipment running right. Most repairs done in a single visit."
+      },
+      {
+        "title": "Green Pool Recovery",
+        "description": "Pool turned swamp-green? We bring it back to crystal-clear in days, not weeks. Emergency response available for urgent situations across the East Valley."
+      },
+      {
+        "title": "Water Chemistry Balancing",
+        "description": "Precise chemical adjustments that keep your water safe, clear, and gentle on skin. No more guesswork or red eyes after a swim."
+      },
+      {
+        "title": "Automation Upgrades",
+        "description": "Modernize your pool with smart controls, variable speed pumps, and energy-efficient systems. Easier management and lower utility bills."
+      },
+      {
+        "title": "Seasonal Deep Cleaning",
+        "description": "Comprehensive one-time cleaning for pool openings, post-storm recovery, or getting your backyard party-ready on short notice."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Pool",
+    "steps": [
+      {
+        "title": "Request Your Free Estimate",
+        "description": "Tell us about your pool and what you need. We provide an honest, no-pressure estimate within 24 hours. No contracts, no hidden fees — just straightforward pricing."
+      },
+      {
+        "title": "We Take It from Here",
+        "description": "Our licensed technicians arrive on schedule and handle everything — cleaning, chemicals, equipment checks. You get a service summary after every visit so you always know the status."
+      },
+      {
+        "title": "Relax and Enjoy",
+        "description": "Your pool stays crystal-clear and swim-ready week after week. If anything is not perfect, we come back and make it right at no extra charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why East Valley Homeowners Choose Us",
+    "headline": "Licensed Pros Who Treat Your Pool Like Their Own",
+    "description": "Aqua Valley Pools is a licensed, bonded, and insured pool service company built on one simple idea: pool care should be thorough, honest, and hassle-free. Serving Tempe, Chandler, Mesa, Gilbert, Ahwatukee, and Apache Junction, our team has earned the Angi 2024 Super Service Award for outstanding customer service. We show up on time, explain what your pool needs, and deliver results you can see.",
+    "badge": "ROC Certified",
+    "features": [
+      {
+        "title": "Licensed, Bonded & Insured",
+        "description": "Full Arizona licensing through the Registrar of Contractors. Your property and investment are protected on every visit."
+      },
+      {
+        "title": "Transparent Pricing, No Contracts",
+        "description": "We earn your business every visit. Free estimates up front, competitive pricing always, and you can cancel anytime with zero fees."
+      },
+      {
+        "title": "Angi Super Service Award Winner",
+        "description": "Recognized for outstanding customer service and quality work. We do not just clean pools — we build lasting relationships with homeowners."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your pool. Upgrade, downgrade, or cancel anytime — no contracts, no penalties."
+  },
+  "guarantee": {
+    "headline": "Our Crystal-Clear Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will come back to make it right — at no additional cost. Your pool should always look its best, and we stand behind every visit until it does."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start servicing my pool?",
+      "answer": "Most new customers in the Mesa and East Valley area are scheduled within 3-5 business days. For green pool emergencies, we offer same-day or next-day response. Call us and we will work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service visits?",
+      "answer": "Not at all. Most of our customers provide gate access and we handle everything while you are away. You will receive a service summary after each visit through our customer portal so you always know what was done."
+    },
+    {
+      "question": "Are you licensed and insured in Arizona?",
+      "answer": "Yes. Aqua Valley Pools is fully licensed through the Arizona Registrar of Contractors, bonded, and carries comprehensive liability insurance. Your property is protected on every visit."
+    },
+    {
+      "question": "What if I need to cancel or change my service?",
+      "answer": "Cancel anytime with zero fees or penalties. No contracts, no cancellation charges. We believe in earning your trust every single visit, not locking you in with fine print."
+    },
+    {
+      "question": "What areas do you service?",
+      "answer": "We serve the entire East Valley including Mesa, Tempe, Chandler, Gilbert, Ahwatukee, and Apache Junction. If you are unsure whether we cover your area, give us a call and we will let you know."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Brandon K.",
+      "text": "The pool techs are knowledgeable, friendly, and honest. They are great about helping us maintain our pool and always explain what needs to be done.",
+      "context": "Weekly Pool Service",
+      "initials": "BK"
+    },
+    {
+      "name": "Mesa Homeowner",
+      "text": "I honestly thought my pool was beyond repair, but Aqua Valley had it looking like new in no time. Incredible transformation!",
+      "context": "One-Time Cleaning",
+      "initials": "MH"
+    },
+    {
+      "name": "Verified Customer",
+      "text": "Brandon was excellent in professionalism, customer service, and communication. He had options for pool equipment and explained each one to help us make an informed choice. Pricing was competitive and reasonable.",
+      "context": "Equipment Repair",
+      "initials": "VC"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool That<br>Practically Runs Itself?",
+    "subtitle": "Get a free, no-pressure estimate within 24 hours. No contracts, no hidden fees — just honest pricing from a licensed East Valley pool service team.",
+    "benefits": [
+      "Free pool assessment with every estimate",
+      "Response within 24 hours guaranteed",
+      "Licensed, bonded, and fully insured"
+    ]
+  },
+  "footer": {
+    "description": "Licensed, bonded, and insured pool service. Proudly serving the Phoenix East Valley since 2023.",
+    "service_area": "Serving Mesa, Tempe, Chandler, Gilbert, Ahwatukee & Apache Junction",
+    "services": [
+      "Weekly Pool Service",
+      "Equipment Repair",
+      "Green Pool Recovery",
+      "Automation Upgrades",
+      "Seasonal Deep Cleaning"
+    ],
+    "copyright": "&copy; 2024 Aqua Valley Pools. All rights reserved. Licensed, Bonded & Insured — Arizona ROC Certified"
+  }
+}

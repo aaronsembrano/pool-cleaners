@@ -1,0 +1,184 @@
+{
+  "folder_name": "jen-the-concierge",
+  "company_name": "Jen The Concierge",
+  "tagline": "Woman Owned - Handyman, Landscape & Pool Repair & Service",
+  "phone": "+1 602-524-3354",
+  "email": "jen@jentheconcierge.com",
+  "logo_path": "logo.png",
+  "review_count": "15",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#2C3E50",
+    "primary_dark": "#1A252F",
+    "primary_deeper": "#0F171D",
+    "secondary": "#C9A96E",
+    "cta": "#C9A96E",
+    "cta_dark": "#B08C4A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed, Bonded & Insured",
+    "badge_2": "4.9/5 from 15+ Reviews",
+    "badge_3": "ROC #356358"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 15+ Google Reviews",
+    "badge_2": "Licensed General Contractor",
+    "headline": "Your Home Deserves a <span class=\"text-secondary italic\">Woman's Touch</span>",
+    "subheadline": "Jen The Concierge hand-selects skilled craftsmen and licensed specialists for every job — pool care, home repairs, landscaping, and beyond. No generic handyman service. Just exceptional quality from a team that treats your home like their own.",
+    "cta_text": "Request Your Free Estimate",
+    "checkmarks": [
+      "Free property assessment",
+      "Hand-selected licensed specialists",
+      "Satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Happy Homeowners",
+    "stat_2_value": "3",
+    "stat_2_label": "Years Serving Phoenix",
+    "stat_3_value": "1200",
+    "stat_3_label": "Jobs Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Licensed & Insured"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "One Call Handles It All —<br class=\"hidden md:block\"> Pool, Home & Beyond",
+    "subtitle": "Stop juggling multiple contractors for every little thing. From pool maintenance to plumbing, electrical to landscaping — Jen The Concierge coordinates it all so you don't have to.",
+    "cards": [
+      {
+        "title": "Pool Maintenance & Repairs",
+        "description": "Weekly or as-needed pool cleaning, chemical balancing, and equipment repairs. Your pool stays crystal clear and swim-ready year-round in the Arizona heat."
+      },
+      {
+        "title": "Home Maintenance & Repairs",
+        "description": "Hand-selected skilled craftsmen for every household job — drywall, painting, fixture installs, and those nagging to-do list items you never get to."
+      },
+      {
+        "title": "Landscape Renovation",
+        "description": "Full landscape redesign, new plantings, desert-friendly vegetation, irrigation repair, and outdoor kitchen construction to transform your Arizona backyard."
+      },
+      {
+        "title": "Electrical Services",
+        "description": "Licensed electrician services including smart lighting systems, light fixture installation, EV charging stations, and troubleshooting outages safely."
+      },
+      {
+        "title": "Plumbing & Cleaning",
+        "description": "Licensed plumber on staff for leaks, clogs, and fixture installations. Plus professional house cleaning and window washing crews."
+      },
+      {
+        "title": "Home Watch & Pet Sitting",
+        "description": "Heading out of town? We monitor your property, check on your home, and care for your pets with day visits, walks, and overnight stays."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Worry-Free Home",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "description": "Call or text Jen directly. Describe your project — pool, home repair, landscaping, or anything else. We'll match you with the right licensed specialist within 24 hours."
+      },
+      {
+        "title": "We Send the Right Expert",
+        "description": "No generic Jack of All Trades. We hand-select skilled craftsmen and licensed professionals tailored to your specific job, ensuring exceptional quality every time."
+      },
+      {
+        "title": "Relax — It's Handled",
+        "description": "Your project is completed with care and precision. We follow up to make sure you're thrilled. If anything isn't perfect, we make it right — that's the concierge promise."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Phoenix Homeowners Trust Jen",
+    "headline": "Not a Handyman Service — Your Personal Home Concierge",
+    "description": "Founded by Jennifer Arias, a licensed general contractor (ROC #356358), Jen The Concierge is a woman-owned business built on a simple idea: your home deserves better than a random handyman. We hand-select skilled craftsmen and licensed specialists for every job, from pool maintenance to electrical work. Serving Scottsdale, Paradise Valley, Arcadia, Biltmore, and surrounding communities with the personal attention that larger companies simply cannot match.",
+    "badge": "ROC #356358",
+    "features": [
+      {
+        "title": "Licensed Specialists on Staff",
+        "description": "Every job is handled by the right expert — licensed electricians, plumbers, and certified technicians, not a generic Jack of All Trades."
+      },
+      {
+        "title": "Woman-Owned & Operated",
+        "description": "A personal touch that larger companies cannot match. Jen oversees every project to ensure quality, communication, and care at every step."
+      },
+      {
+        "title": "Full-Service Concierge",
+        "description": "Pool, home, landscape, pets, custom requests — one phone call handles everything. We coordinate so you don't have to."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets an upfront, honest quote. No hidden fees, no bait-and-switch — just fair pricing for exceptional work."
+  },
+  "guarantee": {
+    "headline": "Our \"Concierge Promise\" Guarantee",
+    "description": "If you're not 100% satisfied with any service, we come back and make it right at no additional charge. Jennifer personally oversees every project, and her reputation is on the line with every job. That's the difference between a concierge service and a handyman — we don't leave until it does."
+  },
+  "faqs": [
+    {
+      "question": "What areas do you serve in the Phoenix metro?",
+      "answer": "We proudly serve Scottsdale, Paradise Valley, Arcadia, Biltmore, Phoenix, Carefree, and Cave Creek. If you're in the greater Phoenix area, give us a call — we're happy to discuss your project."
+    },
+    {
+      "question": "How is Jen The Concierge different from a regular handyman?",
+      "answer": "We don't send a generic Jack of All Trades to every job. Instead, we hand-select skilled craftsmen and licensed specialists matched to your specific project. Our founder is a licensed general contractor, and we have licensed electricians and plumbers on staff."
+    },
+    {
+      "question": "Are you licensed, bonded, and insured?",
+      "answer": "Absolutely. We hold Arizona ROC License #356358, and we are fully bonded and insured. Our team includes licensed electricians and licensed plumbers — not just general handymen."
+    },
+    {
+      "question": "Can you handle pool maintenance and home repairs together?",
+      "answer": "That's exactly what we do best. One call to Jen coordinates everything — pool cleaning, home repairs, landscaping, electrical, plumbing, even pet sitting while you're away. No more juggling multiple contractors."
+    },
+    {
+      "question": "Do you offer home watch services for snowbirds?",
+      "answer": "Yes! Our Home Watch service is perfect for seasonal residents and snowbirds. We regularly check on your property, monitor for issues, care for your pets, and coordinate any maintenance needed while you're away."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Rebecca M.",
+      "text": "Jen and her team are incredibly reliable and professional. As a woman-owned business, they bring a personal touch to every project that larger companies simply cannot match. Highly recommend for any home maintenance needs.",
+      "context": "Home Maintenance Client",
+      "initials": "RM"
+    },
+    {
+      "name": "David T.",
+      "text": "We needed pool repairs, landscape work, and some electrical fixes all at once. One call to Jen and everything was coordinated seamlessly. The specialists she sent were top-notch — nothing like the random handyman services we tried before.",
+      "context": "Full-Service Client, Scottsdale",
+      "initials": "DT"
+    },
+    {
+      "name": "Patricia L.",
+      "text": "As a snowbird, I needed someone I could trust to watch my Paradise Valley home and keep the pool maintained while I'm away. Jen's team gives me complete peace of mind. They even take care of my two dogs. Absolutely worth every penny.",
+      "context": "Home Watch & Pet Sitting Client",
+      "initials": "PL"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Home That<br>Runs Itself?",
+    "subtitle": "Get a free, no-pressure estimate from Jen's team. One call coordinates pool care, home repairs, landscaping, and everything in between.",
+    "benefits": [
+      "Free property assessment with every quote",
+      "Response within 24 hours",
+      "Licensed, bonded & insured — ROC #356358"
+    ]
+  },
+  "footer": {
+    "description": "Woman-owned home concierge. Serving Phoenix's finest communities since 2023.",
+    "service_area": "Serving Scottsdale, Paradise Valley, Arcadia, Biltmore, Phoenix, Carefree & Cave Creek",
+    "services": [
+      "Pool Maintenance",
+      "Home Repairs",
+      "Landscape Renovation",
+      "Electrical & Plumbing",
+      "Home Watch & Pet Care"
+    ],
+    "copyright": "&copy; 2024 Jen The Concierge. All rights reserved. Licensed General Contractor ROC #356358"
+  }
+}

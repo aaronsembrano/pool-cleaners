@@ -1,0 +1,183 @@
+{
+  "folder_name": "specialty-equipment-repair",
+  "company_name": "Specialty Equipment Repair",
+  "tagline": "Omaha Coffee Equipment Repair Specialists",
+  "phone": "(531) 444-7529",
+  "email": "hannah.kalb@specialtyequipmentrepair.com",
+  "review_count": "5",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1a3a5c",
+    "primary_dark": "#122a42",
+    "primary_deeper": "#0c1e30",
+    "secondary": "#c8a96e",
+    "cta": "#e86a2e",
+    "cta_dark": "#c95520"
+  },
+  "trust_badges": {
+    "badge_1": "SCA Certified & Insured",
+    "badge_2": "5.0/5 from Google Reviews",
+    "badge_3": "Same-Day Emergency Service"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from Google Reviews",
+    "badge_2": "Transparent Upfront Pricing",
+    "headline": "Your Equipment Fixed Right <span class=\"text-secondary italic\">the First Time</span>",
+    "subheadline": "Broken espresso machine stalling your morning rush? Mixer down during your busiest week? Our SCA certified technicians diagnose fast, quote upfront, and get your equipment running again so you never lose another dollar to downtime.",
+    "cta_text": "Get My Free Diagnosis",
+    "checkmarks": [
+      "Free equipment diagnosis",
+      "Same-day emergency response",
+      "Upfront quotes before any work"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Repairs Completed",
+    "stat_2_value": "3",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "100",
+    "stat_3_label": "Local Businesses Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "What We Fix",
+    "headline": "Equipment Repair That Keeps<br class=\"hidden md:block\"> Your Business Running",
+    "subtitle": "From commercial espresso machines to home kitchen appliances, we fix what others cannot. SCA certified expertise with honest pricing and fast turnarounds.",
+    "cards": [
+      {
+        "title": "Coffee Equipment Repair",
+        "description": "Expert diagnosis and repair of commercial and residential espresso machines, grinders, and brewers. SCA certified technicians who speak your machine's language."
+      },
+      {
+        "title": "Small Appliance Repair",
+        "description": "KitchenAid mixers, food processors, and workshop tools brought back to life. If it has a motor or heating element, we can fix it."
+      },
+      {
+        "title": "Emergency Breakdown Service",
+        "description": "Equipment down during peak hours? We offer same-day emergency response via call or text. After-hours and weekend availability when you need it most."
+      },
+      {
+        "title": "Preventative Maintenance",
+        "description": "Scheduled maintenance plans that catch small problems before they become expensive breakdowns. Keep your equipment at peak performance year-round."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Professional installation of commercial coffee systems, kitchen equipment upgrades, and new home espresso setups. Done right from day one."
+      },
+      {
+        "title": "Pool Equipment Service",
+        "description": "Residential pool equipment maintenance and repair to keep your systems running smoothly all season. Pumps, filters, and heaters serviced."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Equipment That Works",
+    "steps": [
+      {
+        "title": "Call, Text, or Book Online",
+        "description": "Tell us what is going on with your equipment. We will ask a few questions to understand the issue and schedule a convenient time to take a look. No pressure, no runaround."
+      },
+      {
+        "title": "We Diagnose & Quote Upfront",
+        "description": "Our SCA certified technician examines your equipment, identifies the problem, and gives you an honest quote before any work begins. No surprises on your bill, ever."
+      },
+      {
+        "title": "Get Back to Business",
+        "description": "We complete the repair with quality parts and expert workmanship. Most jobs are finished within days, not weeks. Your equipment runs like new and you are back in action."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Omaha Trusts Us",
+    "headline": "Not Just a Repair Shop — Your Equipment Partner",
+    "description": "Founded by Codey Skiles, an SCA certified technician, Specialty Equipment Repair is a locally owned small business serving the greater Omaha and La Vista area. We built this company on a simple belief: you deserve to know exactly what is wrong, what it costs, and when it will be fixed before we ever pick up a wrench. From busy cafes to home kitchens, our team treats every piece of equipment like our livelihood depends on it — because yours does.",
+    "badge": "SCA Certified",
+    "features": [
+      {
+        "title": "SCA Certified Technicians",
+        "description": "Specialty Coffee Association certified expertise means your commercial coffee equipment is in the hands of trained professionals who know these machines inside and out."
+      },
+      {
+        "title": "Transparent Pricing. Always.",
+        "description": "We diagnose first, quote second, and only begin work after you approve. No hidden fees, no surprise charges, no pressure to say yes."
+      },
+      {
+        "title": "Fast Turnaround Guaranteed",
+        "description": "Most repairs completed within a week. Emergency same-day service available. We know every hour of downtime costs you money."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every repair starts with a free diagnosis and upfront quote. You approve the price before we begin — no hidden fees, no guesswork."
+  },
+  "guarantee": {
+    "headline": "Our \"Done Right\" Guarantee",
+    "description": "If your equipment is not working properly after our repair, we will come back and make it right at no additional charge. We stand behind every diagnosis, every part, and every hour of labor. Your satisfaction is not negotiable — it is the foundation of our business."
+  },
+  "faqs": [
+    {
+      "question": "What types of equipment do you repair?",
+      "answer": "We repair commercial and residential coffee machines, espresso machines, grinders, KitchenAid mixers, food processors, and other small kitchen and workshop appliances. We also service residential pool equipment. If it is electrical or mechanical, give us a call."
+    },
+    {
+      "question": "How fast can you get to my equipment?",
+      "answer": "For standard repairs, we typically schedule within a few business days. For emergencies where your business is losing revenue, we offer same-day response when you call or text. We understand downtime costs you money."
+    },
+    {
+      "question": "Do you work on commercial espresso machines?",
+      "answer": "Absolutely. Our lead technician is SCA certified and specializes in commercial coffee equipment. We work on all major brands and can handle everything from routine descaling to full rebuilds."
+    },
+    {
+      "question": "How does your pricing work?",
+      "answer": "We diagnose your equipment first and provide a detailed, upfront quote before any work begins. You approve the price and the plan. No hidden fees, no surprise charges. If we find additional issues during the repair, we will contact you before proceeding."
+    },
+    {
+      "question": "Do you offer ongoing maintenance plans?",
+      "answer": "Yes. Our preventative maintenance plans include regular scheduled visits to clean, calibrate, and inspect your equipment. This catches small problems before they become expensive breakdowns and extends the life of your machines significantly."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Local Business Owner",
+      "context": "KitchenAid Mixer Repair",
+      "initials": "LB",
+      "text": "Specialty Equipment Repair really saved the day after one company put off fixing our mixer for months. We expanded and really needed this mixer to increase our productivity. Codey ensured the process was quick, painless and affordable. He stayed in communication with us and returned a working mixer within a week. Definitely recommend!"
+    },
+    {
+      "name": "Downtown Cafe Manager",
+      "context": "Commercial Espresso Repair",
+      "initials": "DC",
+      "text": "Our espresso machine went down on a Friday morning during our busiest rush. Codey responded within hours and had us back up and pulling shots by the afternoon. The diagnosis was spot-on and the price was exactly what he quoted. This is who you call when your equipment cannot wait."
+    },
+    {
+      "name": "Rebecca T.",
+      "context": "Home Espresso Setup",
+      "initials": "RT",
+      "text": "I bought a used commercial espresso machine for my home and needed help getting it installed and dialed in. Codey walked me through everything, set it up properly, and even gave me tips on maintenance. Incredibly knowledgeable and genuinely cares about doing great work."
+    }
+  ],
+  "contact": {
+    "headline": "Equipment Down? Let Us<br>Get You Running Again.",
+    "subtitle": "Call, text, or fill out the form for a free diagnosis and upfront quote. No pressure, no contracts — just honest repair from a local team that has your back.",
+    "benefits": [
+      "Free equipment diagnosis with every inquiry",
+      "Same-day emergency response available",
+      "Upfront quotes before work begins"
+    ]
+  },
+  "footer": {
+    "description": "SCA certified equipment repair serving the greater Omaha area since 2023.",
+    "service_area": "Serving La Vista, Omaha, Papillion, Bellevue & Sarpy County",
+    "services": [
+      "Coffee Equipment Repair",
+      "Small Appliance Repair",
+      "Emergency Breakdown Service",
+      "Preventative Maintenance",
+      "Equipment Installation"
+    ],
+    "copyright": "&copy; 2024 Specialty Equipment Repair. All rights reserved. La Vista, Nebraska."
+  }
+}

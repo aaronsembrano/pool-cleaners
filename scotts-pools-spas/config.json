@@ -1,0 +1,184 @@
+{
+  "folder_name": "scotts-pools-spas",
+  "company_name": "Scott's Pools & Spas",
+  "tagline": "Luxury Outdoor Living. Built Right.",
+  "phone": "+1 904-364-0028",
+  "email": "spc@scottspools.net",
+  "logo_path": "logo.png",
+  "review_count": "63",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#1E3A5F",
+    "primary_dark": "#142A45",
+    "primary_deeper": "#0E1E33",
+    "secondary": "#3B82F6",
+    "cta": "#E8890C",
+    "cta_dark": "#C6740A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed FL Contractor CPC1460880",
+    "badge_2": "5.0/5 from 63+ Reviews",
+    "badge_3": "Family-Owned & Operated"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from 63+ Google Reviews",
+    "badge_2": "Pentair & Jandy Partner",
+    "headline": "Your Dream Pool, <span class=\"text-secondary italic\">Built by<br>People Who Care</span>",
+    "subheadline": "Scott's Pools & Spas is the Jacksonville pool contractor that treats every backyard like our own. From custom builds to weekly maintenance, we deliver honest work, transparent pricing, and craftsmanship you can see. You bring the vision -- we handle everything else.",
+    "cta_text": "Get My Free Pool Consultation",
+    "checkmarks": [
+      "Free on-site consultation",
+      "Response within 30 minutes",
+      "Honest, no-pressure pricing"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "63",
+    "stat_1_label": "Five-Star Reviews",
+    "stat_2_value": "4",
+    "stat_2_label": "Years Serving Jax",
+    "stat_3_value": "500",
+    "stat_3_label": "Projects Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "From Custom Builds to<br class=\"hidden md:block\"> Weekly Pool Care",
+    "subtitle": "Whether you need a brand-new pool built from scratch or want to keep your existing one in pristine shape, Scott's Pools & Spas handles it all with the same care and attention to detail.",
+    "cards": [
+      {
+        "title": "Custom Pool Construction",
+        "description": "Fully custom-designed swimming pools tailored to your home, yard, and lifestyle. Every detail planned around your vision for the perfect outdoor living space."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Complete pool renovations that breathe new life into aging pools -- resurfacing, tile work, deck updates, and modern feature additions that transform your backyard."
+      },
+      {
+        "title": "Spa & Water Features",
+        "description": "Custom spas, fountains, waterfalls, and bubblers designed to complement your pool and turn your backyard into a private resort with soothing sights and sounds."
+      },
+      {
+        "title": "Equipment & Repairs",
+        "description": "Expert repair and replacement of pumps, heaters, automation, LED lighting, and filters. We fix and maximize your equipment instead of upselling replacements."
+      },
+      {
+        "title": "Signature Pool Packages",
+        "description": "Pre-designed pool packages scaled to fit your budget. Luxury pool construction at accessible price points without sacrificing the quality you deserve."
+      },
+      {
+        "title": "Weekly Maintenance",
+        "description": "Routine pool care including chemical balancing, cleaning, and equipment checks. You get detailed service reports with photos after every single visit."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Perfect Pool",
+    "steps": [
+      {
+        "title": "Tell Us Your Vision",
+        "description": "Call or text Scott directly. He'll visit your property, listen to your goals, and provide an honest quote with transparent pricing -- no sales pressure, no hidden fees."
+      },
+      {
+        "title": "We Build It Right",
+        "description": "Our licensed crew handles every detail from permits to final finish. You'll receive photo updates throughout the process so you always know exactly where your project stands."
+      },
+      {
+        "title": "Dive In & Relax",
+        "description": "Your pool is ready to enjoy. And with our weekly maintenance service, it stays crystal clear year-round. If anything isn't perfect, we come back and make it right -- guaranteed."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Jacksonville Trusts Scott's",
+    "headline": "Family-Owned, Owner-Operated, Built on Integrity",
+    "description": "Founded by Scott Campbell on the belief that pool contractors should do what's right -- even when it's inconvenient. Every call is answered personally, every project is overseen by Scott himself, and every customer is treated like a neighbor. We don't cut corners, we don't upsell, and we don't disappear after the job is done. That's how a small company earns a perfect 5-star rating.",
+    "badge": "FL Licensed CPC1460880",
+    "features": [
+      {
+        "title": "Owner On Every Project",
+        "description": "Scott personally answers your calls, visits your property, and oversees every project from start to finish. You're never handed off to a stranger."
+      },
+      {
+        "title": "Transparent Communication",
+        "description": "Photos and detailed reports after every service visit, including chemicals applied. You always know exactly what was done and why."
+      },
+      {
+        "title": "Honest Recommendations",
+        "description": "We fix and maximize your existing equipment instead of pushing unnecessary replacements. Our goal is saving you money, not padding our invoice."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. Zero Surprises.",
+    "subtitle": "Every quote is detailed, upfront, and honest. No hidden fees, no bait-and-switch -- just fair pricing for quality craftsmanship."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If you're not completely satisfied with any service or project, Scott will personally come to your property and make it right at no additional cost. We don't consider a job done until you're thrilled with the result. That's the standard every Jacksonville homeowner deserves."
+  },
+  "faqs": [
+    {
+      "question": "How long does a custom pool build take?",
+      "answer": "Most custom pool builds take 8-12 weeks from permit to completion, depending on design complexity and weather. Scott keeps you updated with photos and progress reports throughout the entire process so there are never any surprises."
+    },
+    {
+      "question": "Do I get to talk directly to the owner?",
+      "answer": "Absolutely. Scott personally answers calls, visits properties, and oversees every project. You'll never be handed off to a sales rep or call center. When you call Scott's Pools & Spas, you get Scott."
+    },
+    {
+      "question": "What does your weekly maintenance include?",
+      "answer": "Every visit includes chemical testing and balancing, surface skimming, vacuuming, filter checks, and equipment inspection. After each visit, you receive a detailed report with photos showing exactly what was done and which chemicals were applied."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. We're a fully licensed Florida pool contractor (CPC1460880), insured, BBB accredited, and partnered with top equipment brands Pentair and Jandy. Your property and investment are fully protected."
+    },
+    {
+      "question": "Do you service existing pools from other builders?",
+      "answer": "Yes, we work on all pool types regardless of who built them. Whether you need maintenance, repairs, equipment upgrades, or a complete remodel, we treat your pool with the same care as if we built it ourselves."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Marie M.",
+      "context": "Google Review",
+      "initials": "MM",
+      "text": "They exceeded my expectations on every level. Would text me when on their way AND emailed pics. Even noted a leaky valve problem and got it fixed. Fair pricing and outstanding communication."
+    },
+    {
+      "name": "Molly K.",
+      "context": "Google Review",
+      "initials": "MK",
+      "text": "Scott came out within 30 minutes of us calling! Great guy, honest work. Will definitely use them again for future pool work. Hard to find this level of responsiveness."
+    },
+    {
+      "name": "Fred D.",
+      "context": "Google Review",
+      "initials": "FD",
+      "text": "Scott has been amazing! He has fixed and maximized my pool and equipment, something the previous pool company wouldn't do. So grateful for the improved service quality."
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Build Your<br>Dream Backyard?",
+    "subtitle": "Get a free, no-pressure consultation from Scott himself. He'll visit your property, listen to your vision, and give you an honest quote -- no sales games, no hidden fees.",
+    "benefits": [
+      "Free on-site property consultation",
+      "Scott responds within 30 minutes",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned Jacksonville pool contractor. Licensed, insured, and built on integrity since 2022.",
+    "service_area": "Serving Jacksonville, Jax Beach & Northeast Florida",
+    "services": [
+      "Custom Pool Builds",
+      "Pool Remodeling",
+      "Equipment & Repairs",
+      "Spa & Water Features",
+      "Weekly Maintenance"
+    ],
+    "copyright": "&copy; 2024 Scott's Pools & Spas. All rights reserved. Licensed Florida Pool Contractor #CPC1460880"
+  }
+}

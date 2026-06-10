@@ -7,9 +7,11 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/Users/aaronsembrano/Desktop/Pool Cleaners/weekly-sugar-land-pool"
-publishOrigin = "default"
+publish = "/Users/aaronsembrano/Desktop/Pool Cleaners/weekly-sugar-land-pool/public"
+publishOrigin = "ui"
+commandOrigin = "ui"
 base = "/Users/aaronsembrano/Desktop/Pool Cleaners/weekly-sugar-land-pool"
+command = "hugo"
 
 [build.environment]
 
