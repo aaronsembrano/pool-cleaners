@@ -1,0 +1,184 @@
+{
+  "folder_name": "pool-pros-dallas",
+  "company_name": "Pool Pro's",
+  "tagline": "Crystal Clear Pools. Professional Care. Every Time.",
+  "phone": "+1 972-590-8161",
+  "email": "blake@poolprostexas.com",
+  "logo_path": "logo.png",
+  "review_count": "22",
+  "review_rating": "4.6",
+  "colors": {
+    "primary": "#1a73e8",
+    "primary_dark": "#0d47a1",
+    "primary_deeper": "#092e6b",
+    "secondary": "#f5a623",
+    "cta": "#f5a623",
+    "cta_dark": "#d4891a"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed Pool Technicians",
+    "badge_2": "4.6/5 from 22+ Reviews",
+    "badge_3": "Family-Owned Since 2014"
+  },
+  "hero": {
+    "badge_1": "4.6/5 from 22+ Google Reviews",
+    "badge_2": "100% Satisfaction Guarantee",
+    "headline": "Your Family's Pool, <span class=\"text-secondary italic\">Our Family's<br>Promise</span>",
+    "subheadline": "For over 12 years, Dallas-Fort Worth families have trusted Pool Pro's to keep their pools crystal clear and swim-ready. We handle the chemicals, the cleaning, and the headaches so you can focus on making memories in your backyard.",
+    "cta_text": "Get My Free Pool Quote",
+    "checkmarks": [
+      "Free 1-hour quote walkthrough",
+      "Same-day scheduling available",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Families Served",
+    "stat_2_value": "12",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "5000",
+    "stat_3_label": "Service Visits Completed",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guarantee"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Expert Pool Care From a<br class=\"hidden md:block\"> Family That Cares",
+    "subtitle": "From weekly maintenance to full remodels, Pool Pro's delivers honest work and lasting results. Our licensed technicians treat every pool like it belongs to their own family.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Crystal clear water maintained year-round with chemical balancing, skimming, filter cleaning, and weekly email photo reports so you always know your pool's condition."
+      },
+      {
+        "title": "Pool Repair Services",
+        "description": "Pumps, filters, heaters, salt systems — our licensed techs diagnose and fix equipment issues fast. Most repairs completed in a single visit."
+      },
+      {
+        "title": "Pool Resurfacing",
+        "description": "Restore beauty and extend the life of your pool with premium finishes and expert application. We use only high-quality materials that stand the test of time."
+      },
+      {
+        "title": "Pool Remodeling",
+        "description": "Complete pool transformations including tile upgrades, coping replacement, deck renovations, and full redesigns to bring your backyard vision to life."
+      },
+      {
+        "title": "Water Chemistry Management",
+        "description": "Precise chemical balancing that keeps your water safe, sparkling, and gentle on skin. No red eyes, no irritation — just perfectly balanced water every week."
+      },
+      {
+        "title": "Seasonal Pool Care",
+        "description": "Opening and closing services, winterization, and seasonal deep cleans to protect your investment year-round through Texas heat and cold snaps."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Schedule Your Free Walkthrough",
+        "description": "Call or fill out the form. We'll schedule a free 1-hour pool assessment where we walk you through exactly what your pool needs — no pressure, no hidden fees."
+      },
+      {
+        "title": "We Take Care of Everything",
+        "description": "Our licensed technicians arrive on schedule and handle it all. You'll get weekly email photo reports after every visit so you can see your pool's condition firsthand."
+      },
+      {
+        "title": "Enjoy Your Backyard Again",
+        "description": "Your pool stays crystal clear and swim-ready all year long. If you're ever not happy, we come back and make it right — that's our family promise to yours."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Dallas Families Trust Us",
+    "headline": "A Family Business That Treats Your Pool Like Our Own",
+    "description": "Founded in 2014 by a family passionate about honest work and great service, Pool Pro's has grown from a small local operation into a trusted name serving Dallas-Fort Worth and Waco. Every technician on our team is licensed, background-checked, and committed to the same values we built this company on — integrity, reliability, and treating your pool like it belongs to our own family.",
+    "badge": "HomeAdvisor Elite Service",
+    "features": [
+      {
+        "title": "Licensed Pool Technicians",
+        "description": "Every technician is fully licensed and insured, bringing professional-grade expertise to your backyard every single visit."
+      },
+      {
+        "title": "Weekly Photo Reports",
+        "description": "After every maintenance visit, you receive an email with photos of your pool so you always know its condition — even when you're away."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "Not happy with any visit? We come back and redo it at no charge. We earn your trust every single time we show up."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the plan that fits your pool. Upgrade, downgrade, or cancel anytime — we earn your business every visit."
+  },
+  "guarantee": {
+    "headline": "Our Family-to-Family Guarantee",
+    "description": "If you're not 100% satisfied with any service visit, call us and we'll come back to make it right at no extra cost. No fine print, no runaround. We've been doing this for 12 years because we stand behind our work — your satisfaction is our reputation, and we protect it fiercely."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can Pool Pro's start service?",
+      "answer": "Most new clients are scheduled within the same week. We offer same-day scheduling for urgent needs. Just give us a call at 972-590-8161 and we'll work with your timeline."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We proudly serve Dallas-Fort Worth, Lewisville, Waco, and communities across North Texas and Central Texas. If you're unsure whether we cover your area, just give us a call — we're always expanding."
+    },
+    {
+      "question": "Do I get updates after each service visit?",
+      "answer": "Absolutely. After every maintenance visit, you'll receive a detailed email with photos of your pool's condition. You'll always know exactly what was done and how your pool looks, even if you're not home."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. Every Pool Pro's technician is fully licensed, insured, and background-checked. We're also a HomeAdvisor Elite Service provider and Nextdoor Neighborhood Favorite. Your safety and peace of mind are non-negotiable."
+    },
+    {
+      "question": "What if I need to cancel or change my plan?",
+      "answer": "No problem at all. There are no contracts and no cancellation fees. We believe in earning your business every visit. You can upgrade, downgrade, or cancel anytime with a simple phone call."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Teresa",
+      "text": "All the staff has been amazing with answering all my questions, educating me, and consistently providing exceptional communication and service. I've used Pool Pros for over 2 years and couldn't be happier.",
+      "context": "Weekly Maintenance Customer",
+      "initials": "T"
+    },
+    {
+      "name": "Gabby",
+      "text": "Pool Pros is the best pool service I've ever had! After trying three previous companies, they surpassed my expectations in every way.",
+      "context": "Long-term Customer",
+      "initials": "G"
+    },
+    {
+      "name": "Damon",
+      "text": "We have used Pool Pros for the past seven years. They do quality work and always keep our pool looking great.",
+      "context": "7-Year Customer",
+      "initials": "D"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Pool Your<br>Family Will Love?",
+    "subtitle": "Get a free, no-pressure quote with a full 1-hour walkthrough. No contracts, no hidden fees — just honest pricing from a family that cares about your pool.",
+    "benefits": [
+      "Free 1-hour pool assessment included",
+      "Same-day scheduling available",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned pool service proudly serving Dallas-Fort Worth and Waco since 2014.",
+    "service_area": "Serving Dallas-Fort Worth, Lewisville, Waco & North Texas",
+    "services": [
+      "Weekly Maintenance",
+      "Pool Repairs",
+      "Pool Resurfacing",
+      "Pool Remodeling",
+      "Water Chemistry"
+    ],
+    "copyright": "&copy; 2024 Pool Pro's. All rights reserved. Licensed Pool Service — Dallas-Fort Worth & Waco, TX"
+  }
+}
