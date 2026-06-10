@@ -1,0 +1,184 @@
+{
+  "folder_name": "creekside-outdoor-living",
+  "company_name": "Creekside Outdoor Living",
+  "tagline": "Live Your Best Life, Outside",
+  "phone": "+1 219-365-1981",
+  "email": "mike@creeksidenwi.com",
+  "logo_path": "logo.png",
+  "review_count": "4",
+  "review_rating": "5.0",
+  "colors": {
+    "primary": "#2E5339",
+    "primary_dark": "#1E3B27",
+    "primary_deeper": "#142918",
+    "secondary": "#D4A84B",
+    "cta": "#D4A84B",
+    "cta_dark": "#B8903A"
+  },
+  "trust_badges": {
+    "badge_1": "Authorized Unilock Contractor",
+    "badge_2": "5.0/5 on Google Reviews",
+    "badge_3": "ICPI Certified"
+  },
+  "hero": {
+    "badge_1": "5.0/5 from Google Reviews",
+    "badge_2": "Serving NWI Since 2007",
+    "headline": "Your Dream Backyard <span class=\"text-secondary italic\">Starts<br>Right Here</span>",
+    "subheadline": "Your outdoor space should be the best room in your house. Creekside Outdoor Living designs and builds stunning landscapes, pools, patios, and more across Northwest Indiana and Chicagoland — so you can stop imagining and start living outside.",
+    "cta_text": "Get My Free Design Consultation",
+    "checkmarks": [
+      "Free 3D design rendering",
+      "18+ years of experience",
+      "Financing options available"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "500",
+    "stat_1_label": "Projects Completed",
+    "stat_2_value": "18",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "1000",
+    "stat_3_label": "Happy Families",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Rate"
+  },
+  "services": {
+    "label": "What We Do",
+    "headline": "Complete Outdoor Living<br class=\"hidden md:block\">Design, Build & Maintain",
+    "subtitle": "From a single patio to a full backyard transformation, Creekside handles every detail so you get the outdoor space you deserve without the headaches.",
+    "cards": [
+      {
+        "title": "Landscape Design & Build",
+        "description": "Full-service landscape architecture using 3D rendering so you see your dream space before we break ground. From concept through completion, your vision comes to life."
+      },
+      {
+        "title": "Swimming Pool Installation",
+        "description": "Custom-designed pools that integrate seamlessly with your landscape. We handle every detail from permits to the final splash — your backyard oasis awaits."
+      },
+      {
+        "title": "Hardscape Construction",
+        "description": "Patios, driveways, walkways, retaining walls, fire pits, and outdoor kitchens built with premium materials. Authorized Unilock contractor for lasting quality."
+      },
+      {
+        "title": "Lawn Care & Maintenance",
+        "description": "Weekly mowing, a 6-step fertilizer program, irrigation oversight, seasonal cleanups, and bush trimming. Your property stays pristine year-round without lifting a finger."
+      },
+      {
+        "title": "Snow & Ice Control",
+        "description": "24/7 commercial snow removal and ice management for businesses and HOAs across NWI and Chicagoland. Safe, accessible properties all winter long."
+      },
+      {
+        "title": "Tree & Sod Services",
+        "description": "Professional tree and shrub planting, removal, and maintenance plus expert sod installation for instant green coverage. Healthy landscapes start here."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Your Dream Outdoor Space",
+    "steps": [
+      {
+        "title": "Share Your Vision",
+        "description": "Tell us about your outdoor living goals. We visit your property, listen to your ideas, and provide an honest consultation — no pressure, no obligations."
+      },
+      {
+        "title": "See It in 3D Before We Build",
+        "description": "Our design team creates a detailed 3D rendering of your project so you can see exactly what your new space will look like before any work begins."
+      },
+      {
+        "title": "Enjoy Your New Outdoor Life",
+        "description": "Our experienced crew brings the design to life with precision craftsmanship. Then our maintenance team keeps it looking stunning season after season."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why NWI Families Trust Creekside",
+    "headline": "Not Just Contractors — Your Outdoor Living Partners",
+    "description": "What started as a teenager mowing neighborhood lawns has grown into Northwest Indiana's trusted outdoor living company. Owner Mike Arnold has been personally leading projects since 2008, bringing 18+ years of hands-on experience to every backyard transformation. Our team treats your property like our own because our reputation is built one project at a time.",
+    "badge": "Authorized Unilock Contractor",
+    "features": [
+      {
+        "title": "3D Design Before We Build",
+        "description": "See your finished project in photorealistic 3D before we break ground. No surprises, no guesswork — just confidence in your investment."
+      },
+      {
+        "title": "One Team, Start to Finish",
+        "description": "Design, construction, and ongoing maintenance all under one roof. No juggling multiple contractors or coordinating schedules."
+      },
+      {
+        "title": "Financing Options Available",
+        "description": "Your dream outdoor space does not have to wait. Flexible financing options make it easy to get started on your project today."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project gets a detailed written estimate upfront. We stand behind our numbers — no hidden fees, no change-order games."
+  },
+  "guarantee": {
+    "headline": "Our \"Built Right\" Guarantee",
+    "description": "If any aspect of your project does not meet the standards we agreed upon, we come back and make it right at no additional cost. We have been building our reputation in Northwest Indiana for over 18 years, and we are not about to cut corners now. Your satisfaction is not negotiable — it is our standard."
+  },
+  "faqs": [
+    {
+      "question": "How does the design process work?",
+      "answer": "It starts with a free on-site consultation where we learn about your vision and assess your property. From there, our team creates a detailed 3D rendering so you can see exactly what the finished project will look like. We refine the design until you love it, then move into construction."
+    },
+    {
+      "question": "How long does a typical project take?",
+      "answer": "Timelines vary by scope. A patio or walkway might take 1-2 weeks, while a full backyard transformation with pool can take 6-10 weeks. We provide a detailed timeline upfront and keep you updated throughout the process."
+    },
+    {
+      "question": "Do you offer financing?",
+      "answer": "Yes, we offer flexible financing options to help make your dream outdoor space a reality. During your consultation, we can discuss payment plans that fit your budget so you can get started sooner rather than later."
+    },
+    {
+      "question": "Do you handle maintenance after the project is done?",
+      "answer": "Absolutely. We offer comprehensive lawn maintenance, irrigation oversight, seasonal cleanups, and ongoing landscape care. Many clients choose us specifically because we handle everything from design through long-term maintenance."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve families and businesses throughout Northwest Indiana and the greater Chicagoland area, including Crown Point, St. John, Cedar Lake, Schererville, Dyer, Munster, and surrounding communities. Contact us to confirm service in your area."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Brandi L.",
+      "text": "Mike and his team have been amazing to work with. Very professional, great communication, and quality work!",
+      "context": "Google Review",
+      "initials": "BL"
+    },
+    {
+      "name": "Neill O.",
+      "text": "WOW, did he and his team do fantastic and exceptional work! His recommendations were spot on, and the attention to detail from everyone during execution was spot on.",
+      "context": "Google Review",
+      "initials": "NO"
+    },
+    {
+      "name": "Renee M.",
+      "text": "Creekside Outdoor Living did a beautiful job on our front porch. We did not have a single negative encounter with any of their team.",
+      "context": "Google Review",
+      "initials": "RM"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Love Your<br>Outdoor Space?",
+    "subtitle": "Get a free design consultation and 3D rendering of your dream project. No pressure, no obligations — just honest ideas from a team that has been doing this for 18+ years.",
+    "benefits": [
+      "Free on-site design consultation",
+      "3D rendering of your project included",
+      "Response within 24 hours"
+    ]
+  },
+  "footer": {
+    "description": "Design, build, and maintenance for outdoor living spaces across Northwest Indiana and Chicagoland since 2007.",
+    "service_area": "Serving Crown Point, NWI & Chicagoland",
+    "services": [
+      "Landscape Design & Build",
+      "Pool Installation",
+      "Hardscapes & Patios",
+      "Lawn Maintenance",
+      "Snow & Ice Control"
+    ],
+    "copyright": "&copy; 2024 Creekside Outdoor Living. All rights reserved."
+  }
+}

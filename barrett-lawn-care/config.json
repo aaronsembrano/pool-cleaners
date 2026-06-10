@@ -1,0 +1,184 @@
+{
+  "folder_name": "barrett-lawn-care",
+  "company_name": "Barrett Lawn Care",
+  "tagline": "Enhancing Lives - Beautifying Properties",
+  "phone": "+1 612-866-7522",
+  "email": "victor.barrett@barrettlawncare.com",
+  "logo_path": "logo.png",
+  "review_count": "45",
+  "review_rating": "4.8",
+  "colors": {
+    "primary": "#2D5E2A",
+    "primary_dark": "#1E4A1C",
+    "primary_deeper": "#143513",
+    "secondary": "#4A7C48",
+    "cta": "#D4A843",
+    "cta_dark": "#B8912E"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.8/5 from 45+ Reviews",
+    "badge_3": "Serving Since 1998"
+  },
+  "hero": {
+    "badge_1": "4.8/5 from 45+ Google Reviews",
+    "badge_2": "28 Years of Trusted Service",
+    "headline": "Your Property Deserves <span class=\"text-secondary italic\">a Partner,<br>Not Just a Crew</span>",
+    "subheadline": "For 28 years, Barrett Lawn Care has been the name Indian Trail homeowners trust for beautiful, expertly maintained landscapes. From design to weekly upkeep, Victor Barrett and his dedicated team handle it all so you can simply enjoy your outdoor space.",
+    "cta_text": "Get My Free Lawn Estimate",
+    "checkmarks": [
+      "Free property assessment",
+      "Same-week service start",
+      "100% satisfaction promise"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "2000",
+    "stat_1_label": "Properties Served",
+    "stat_2_value": "28",
+    "stat_2_label": "Years Experience",
+    "stat_3_value": "18",
+    "stat_3_label": "Team Members",
+    "stat_4_value": "4.8",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Services",
+    "headline": "Full-Service Lawn & Landscape Care<br class=\"hidden md:block\"> From One Trusted Team",
+    "subtitle": "Stop juggling multiple contractors for your outdoor needs. Barrett Lawn Care handles everything from weekly mowing to complete landscape transformations, all with the same crew who knows your property by heart.",
+    "cards": [
+      {
+        "title": "Lawn Maintenance",
+        "description": "Professional weekly and bi-weekly mowing, edging, and trimming that keeps your yard looking pristine through every season. Reliable, consistent, and always on schedule."
+      },
+      {
+        "title": "Landscape Design & Install",
+        "description": "Custom landscape designs brought to life by the same team that created them. Garden beds, outdoor living spaces, and everything in between, tailored to your property."
+      },
+      {
+        "title": "Fertilization & Weed Control",
+        "description": "Science-based lawn treatments and targeted weed programs that deliver a thick, green, healthy lawn. Certified applicators ensure safe, effective results."
+      },
+      {
+        "title": "Irrigation Services",
+        "description": "Installation, repair, and seasonal maintenance for sprinkler systems. Efficient watering that keeps your landscape thriving without wasting a drop."
+      },
+      {
+        "title": "Tree & Hedge Trimming",
+        "description": "Expert pruning and shaping for trees, hedges, and shrubs. Includes nutrient-rich tree injections to promote long-term health and beautiful form."
+      },
+      {
+        "title": "Pressure Washing",
+        "description": "Restore driveways, patios, walkways, decks, and home exteriors to like-new condition. Professional-grade equipment delivers results you can see immediately."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to a Beautiful Property",
+    "steps": [
+      {
+        "title": "Schedule Your Free Assessment",
+        "description": "Tell us about your property and goals. Victor will personally visit, walk the grounds with you, and provide an honest, no-pressure estimate within 24 hours."
+      },
+      {
+        "title": "We Design & Execute",
+        "description": "Your dedicated Barrett crew arrives on schedule every time. The same people who design your landscape install it and maintain it, season after season."
+      },
+      {
+        "title": "Enjoy Your Outdoor Space",
+        "description": "Your property stays beautiful, healthy, and pristine year-round. If something ever falls short of your expectations, we come back and make it right at no charge."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Indian Trail Trusts Us",
+    "headline": "More Than Your Lawn Crew — We're Your Property Partner",
+    "description": "Founded in 1998 by Victor Barrett, Barrett Lawn Care has grown from a one-man operation into a dedicated team of 18 professionals serving the greater Charlotte metro. We take as much pride in your property as you do. Our personalized approach means the same people who design your landscape will install it, then keep it fresh and in pristine condition, season after season.",
+    "badge": "NC Licensed Contractor",
+    "features": [
+      {
+        "title": "Owner-Involved on Every Project",
+        "description": "Victor Barrett personally oversees operations and stays hands-on with clients. You always have a direct line to the person in charge."
+      },
+      {
+        "title": "One Team From Start to Finish",
+        "description": "The crew that designs your landscape installs it and maintains it. No handoffs, no miscommunication, just consistent quality every visit."
+      },
+      {
+        "title": "28 Years of Proven Results",
+        "description": "Since 1998, we have built our reputation on reliability, honesty, and properties that speak for themselves. Our track record is our best advertisement."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Straightforward Pricing. No Surprises.",
+    "subtitle": "Choose the service level that fits your property. Adjust or cancel anytime — we earn your trust every visit."
+  },
+  "guarantee": {
+    "headline": "Our \"Beautiful Property\" Guarantee",
+    "description": "If you are not completely satisfied with any service visit, call us within 24 hours and we will return to make it right at absolutely no additional cost. We have stood behind this promise for 28 years because your property's appearance reflects on both of us."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you start lawn service?",
+      "answer": "Most new clients are scheduled within 3-5 business days. For urgent needs like overgrown properties or storm cleanup, we offer expedited response. Call us and we will work around your schedule."
+    },
+    {
+      "question": "Do I need to be home during service?",
+      "answer": "Not at all. Most clients simply give us gate access and we handle everything while you are away. You will see the results when you get home, and we are always a phone call away if you have questions."
+    },
+    {
+      "question": "Are your technicians licensed and insured?",
+      "answer": "Yes. Barrett Lawn Care is fully licensed as a North Carolina Landscape Contractor, carries comprehensive liability insurance, and our fertilizer and pesticide applicators hold current state certifications."
+    },
+    {
+      "question": "Do you handle both residential and commercial properties?",
+      "answer": "Absolutely. We maintain residential lawns, HOA common areas, commercial properties, and multi-unit communities throughout Indian Trail, Charlotte, and surrounding Union County."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve Indian Trail, Monroe, Matthews, Waxhaw, Stallings, Mint Hill, Charlotte, and surrounding Union County communities. If you are nearby, give us a call and we will let you know if we can help."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Client",
+      "context": "Lawn maintenance & landscaping",
+      "initials": "LC",
+      "text": "Our yard hasn't looked so great since I can remember. Barrett Lawn Care truly transformed our property and we couldn't be happier with the results. They treat our yard like it's their own."
+    },
+    {
+      "name": "Repeat Customer",
+      "context": "Ongoing maintenance, 5+ years",
+      "initials": "RC",
+      "text": "Victor and his crew have been doing our lawn mowing, seasonal cleanup, and maintenance for several years. They are professional, reliable, and extremely customer service oriented. You will not be disappointed."
+    },
+    {
+      "name": "Local Homeowner",
+      "context": "Full lawn care service",
+      "initials": "LH",
+      "text": "Honesty, dependability and integrity are Victor's characteristics. He calls with honest reviews of lawn conditions, his work is professionally completed when scheduled, and he takes time for all the details. Highly recommend!"
+    }
+  ],
+  "contact": {
+    "headline": "Ready for a Property You're<br>Proud to Come Home To?",
+    "subtitle": "Get a free, no-pressure property assessment from Victor and his team. 28 years of experience, honest pricing, and results that speak for themselves.",
+    "benefits": [
+      "Free property assessment with every estimate",
+      "Response within 24 hours",
+      "100% satisfaction guaranteed"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned lawn care serving Indian Trail and Charlotte since 1998.",
+    "service_area": "Serving Indian Trail, Charlotte & Union County",
+    "services": [
+      "Lawn Maintenance",
+      "Landscape Design",
+      "Fertilization & Weed Control",
+      "Irrigation Services",
+      "Pressure Washing"
+    ],
+    "copyright": "&copy; 2024 Barrett Lawn Care. All rights reserved. NC Licensed Landscape Contractor."
+  }
+}

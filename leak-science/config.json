@@ -1,0 +1,184 @@
+{
+  "folder_name": "leak-science",
+  "company_name": "Leak Science",
+  "tagline": "Stop the Leak. Save the Water.",
+  "phone": "+1 480-794-0959",
+  "email": "office@leakscience.com",
+  "logo_path": "logo.png",
+  "review_count": "200",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#1B3A5C",
+    "primary_dark": "#122840",
+    "primary_deeper": "#0B1A2B",
+    "secondary": "#F47920",
+    "cta": "#F47920",
+    "cta_dark": "#D4651A"
+  },
+  "trust_badges": {
+    "badge_1": "Licensed & Insured",
+    "badge_2": "4.9/5 from 200+ Reviews",
+    "badge_3": "Veteran-Owned & Operated"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 200+ Google Reviews",
+    "badge_2": "Veteran-Owned Since 2006",
+    "headline": "Find Every Leak <span class=\"text-secondary italic\">Fix It<br>For Good</span>",
+    "subheadline": "Losing water and losing patience? Leak Science has pinpointed and repaired over 10,000 leaks across the Phoenix metro since 2006. From pools to plumbing to slabs, our veteran-owned team handles detection through repair so you never get passed off to a subcontractor.",
+    "cta_text": "Schedule My Leak Detection",
+    "checkmarks": [
+      "Free phone consultation",
+      "Same-day emergency service",
+      "No subcontractors ever"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "10000",
+    "stat_1_label": "Leaks Detected & Fixed",
+    "stat_2_value": "20",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "200",
+    "stat_3_label": "5-Star Reviews",
+    "stat_4_value": "A+",
+    "stat_4_label": "BBB Rating"
+  },
+  "services": {
+    "label": "Our Specialties",
+    "headline": "Leak Detection & Repair<br class=\"hidden md:block\">You Can Actually Trust",
+    "subtitle": "Stop guessing where the water is going. Our advanced technology pinpoints leaks with precision so repairs are targeted, fast, and done right the first time.",
+    "cards": [
+      {
+        "title": "Pool Leak Detection",
+        "description": "Acoustic equipment, dye testing, and pressure testing pinpoint your pool leak within a 2x2 foot area -- all without draining the water."
+      },
+      {
+        "title": "Plumbing Leak Detection",
+        "description": "Hidden leaks behind walls, beneath concrete slabs, and underground located with non-invasive technology. No guesswork, no unnecessary demolition."
+      },
+      {
+        "title": "Irrigation Leak Detection",
+        "description": "Full irrigation audits and tracer gas surveys identify leaks and high water usage events in residential and commercial systems."
+      },
+      {
+        "title": "Gas Line Leak Detection",
+        "description": "Professional gas line detection services ensuring safety and compliance for homes and businesses throughout the Phoenix metro."
+      },
+      {
+        "title": "Leak Repair & Restoration",
+        "description": "Complete repair services handled in-house from start to finish. No subcontractors, no hand-offs, no surprises on quality."
+      },
+      {
+        "title": "Trenchless Pipe Relining",
+        "description": "Modern trenchless technology as an alternative to traditional pipe replacement. Less disruption, less mess, lasting results."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Three Steps to Stop Your Leak",
+    "steps": [
+      {
+        "title": "Call Us or Book Online",
+        "description": "Describe the issue and we will schedule your detection visit -- often same-day for emergencies. Free phone consultations help us arrive prepared."
+      },
+      {
+        "title": "We Pinpoint the Problem",
+        "description": "Our technicians use acoustic equipment, dye testing, pressure testing, and tracer gas to locate your leak with precision. No guesswork, no unnecessary digging."
+      },
+      {
+        "title": "We Fix It Right",
+        "description": "Our in-house team completes the repair and verifies the fix. You get one company from detection through restoration -- and your water bill goes back to normal."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Phoenix Trusts Leak Science",
+    "headline": "Veteran-Owned. Full-Service. Zero Complaints.",
+    "description": "Founded in 2006 by a veteran committed to doing things right, Leak Science has grown into the Phoenix metro's most trusted leak detection and repair company. With over 10,000 leaks found and fixed, an A+ BBB rating with zero customer complaints, and a team that stays with you from detection through final repair, we do not cut corners and we never subcontract your job. Every technician is trained, licensed, and backed by nearly two decades of expertise.",
+    "badge": "Veteran-Owned",
+    "features": [
+      {
+        "title": "Full-Service, No Subcontractors",
+        "description": "We handle every stage of your leak resolution in-house. One company, one point of contact, consistent quality from start to finish."
+      },
+      {
+        "title": "Non-Invasive Technology",
+        "description": "Advanced acoustic equipment, tracer gas, and dye testing locate leaks precisely -- without draining pools or tearing up property."
+      },
+      {
+        "title": "A+ BBB, Zero Complaints",
+        "description": "Nearly 20 years of service and not a single BBB complaint. Our 4.9-star Google rating speaks to a standard we refuse to lower."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprise Charges.",
+    "subtitle": "Every job starts with an honest quote. We explain what we found, what it costs, and what your options are -- before any work begins."
+  },
+  "guarantee": {
+    "headline": "Our \"Find It & Fix It\" Guarantee",
+    "description": "If we cannot locate your leak, you do not pay for the detection. And every repair we complete is backed by our workmanship warranty. We have built our reputation on 10,000+ successful leak resolutions and an A+ BBB rating with zero complaints -- and we plan to keep it that way."
+  },
+  "faqs": [
+    {
+      "question": "How quickly can you come out for a leak detection?",
+      "answer": "We offer same-day emergency service for urgent situations. For standard appointments, most clients are scheduled within 1-3 business days. Call us and we will work with your timeline."
+    },
+    {
+      "question": "Do you need to drain my pool to find the leak?",
+      "answer": "No. Our acoustic equipment, dye testing, and pressure testing technology allows us to pinpoint leaks without draining your pool. We locate the problem within a 2x2 foot area using non-invasive methods."
+    },
+    {
+      "question": "Do you also handle the repair, or just detection?",
+      "answer": "We handle everything -- detection through complete repair and restoration. Unlike companies that find the leak and hand you off to someone else, our in-house team stays with you from start to finish."
+    },
+    {
+      "question": "What types of leaks do you detect?",
+      "answer": "Pool leaks, plumbing leaks (behind walls, under slabs, underground), irrigation system leaks, and gas line leaks. We serve residential and commercial properties across the entire Phoenix metro area."
+    },
+    {
+      "question": "Are you licensed and insured?",
+      "answer": "Yes. Leak Science is fully licensed, insured, veteran-owned and operated, and holds an A+ BBB rating with zero customer complaints. We have been serving the Phoenix metro since 2006."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Ryan S.",
+      "text": "Leak Science was a joy to work with from first inquiry to testing assured the leak was found and fixed. Professional, honest, and thorough.",
+      "context": "Phoenix Homeowner",
+      "initials": "RS"
+    },
+    {
+      "name": "Julie R.",
+      "text": "Every single person I communicated with was knowledgeable, prompt, professional, and operated with integrity. I cannot recommend them highly enough.",
+      "context": "Scottsdale Homeowner",
+      "initials": "JR"
+    },
+    {
+      "name": "Andrew R.",
+      "text": "Excellent communication from office staff and technician, from start to finish, for identifying two leaks. They explained everything clearly and fixed both issues.",
+      "context": "Phoenix Homeowner",
+      "initials": "AR"
+    }
+  ],
+  "contact": {
+    "headline": "Suspect a Leak?<br>Get Answers Today.",
+    "subtitle": "Schedule a detection visit or call for a free phone consultation. We will assess your situation honestly and give you a clear path forward -- no pressure, no runaround.",
+    "benefits": [
+      "Free phone consultation before booking",
+      "Same-day emergency service available",
+      "Detection through repair -- one company"
+    ]
+  },
+  "footer": {
+    "description": "Veteran-owned leak detection and repair. Serving Phoenix since 2006.",
+    "service_area": "Serving Phoenix, Scottsdale, Mesa, Tempe, Gilbert, Chandler & the Valley",
+    "services": [
+      "Pool Leak Detection",
+      "Plumbing Leak Detection",
+      "Leak Repair & Restoration",
+      "Trenchless Pipe Relining",
+      "Emergency Detection"
+    ],
+    "copyright": "&copy; 2024 Leak Science. All rights reserved. Licensed & Insured | Veteran-Owned & Operated | ROC #326498"
+  }
+}

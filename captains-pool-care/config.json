@@ -3,181 +3,181 @@
   "company_name": "Captains Pool Care",
   "tagline": "Premium Services at Fair Prices",
   "phone": "(470) 264-0075",
-  "email": "hunter@captainspool.com",
+  "email": "miguel@captainspool.com",
   "logo_path": "logo.png",
   "review_count": "15",
   "review_rating": "4.0",
   "colors": {
-    "primary": "#0A2647",
-    "primary_dark": "#071A33",
-    "primary_deeper": "#041020",
-    "secondary": "#1E5AA8",
+    "primary": "#1B3A5C",
+    "primary_dark": "#122842",
+    "primary_deeper": "#0C1C2E",
+    "secondary": "#2980B9",
     "cta": "#F5A623",
     "cta_dark": "#D4891A"
   },
   "trust_badges": {
-    "badge_1": "Certified Pool Operators",
+    "badge_1": "CPO-Certified Technicians",
     "badge_2": "4.0/5 from 15+ Reviews",
-    "badge_3": "Money-Back Guarantee"
+    "badge_3": "Transparent Pricing"
   },
   "hero": {
     "badge_1": "4.0/5 from 15+ Google Reviews",
-    "badge_2": "Money-Back Guarantee",
-    "headline": "Transparent Pool Care <span class=\"text-secondary italic\">You Can<br>Actually Trust</span>",
-    "subheadline": "Tired of pool companies that overcharge and underdeliver? Captains Pool Care sends photo proof after every visit, never surprises you with hidden fees, and backs every service with a money-back guarantee. Just honest, professional pool care across Atlanta.",
-    "cta_text": "Get My Free Pool Quote",
+    "badge_2": "Certified Pool Operators on Every Visit",
+    "headline": "Premium Pool Care <span class=\"text-secondary italic\">at Prices<br>You Deserve</span>",
+    "subheadline": "You bought the pool for the memories, not the maintenance headaches. Captains Pool Care handles every detail so all you do is enjoy crystal-clear water. Certified technicians, honest pricing, and proof-of-service photos after every visit.",
+    "cta_text": "Get Instant Pool Quote",
     "checkmarks": [
-      "Photo proof after every visit",
-      "No surprise upsells ever",
-      "Free repairs for weekly customers"
+      "Instant transparent pricing",
+      "Before-and-after photo reports",
+      "Background-checked CPO techs"
     ]
   },
   "stats": {
-    "stat_1_value": "100",
+    "stat_1_value": "500",
     "stat_1_label": "Pools Maintained",
-    "stat_2_value": "2",
-    "stat_2_label": "Years Serving Atlanta",
-    "stat_3_value": "500",
-    "stat_3_label": "Service Visits Completed",
+    "stat_2_value": "30",
+    "stat_2_label": "Years Business Experience",
+    "stat_3_value": "100",
+    "stat_3_label": "Service Reports Sent",
     "stat_4_value": "100%",
-    "stat_4_label": "Money-Back Guarantee"
+    "stat_4_label": "Transparency Promise"
   },
   "services": {
     "label": "Our Services",
-    "headline": "Professional Pool Care<br class=\"hidden md:block\"> for Every Atlanta Home",
-    "subtitle": "From weekly maintenance to emergency repairs, our Certified Pool Operators handle it all so you can spend your time swimming instead of scrubbing.",
+    "headline": "Complete Pool Care From<br class=\"hidden md:block\">Certified Professionals",
+    "subtitle": "Every technician is a Certified Pool Operator who treats your pool like their own. From weekly maintenance to equipment repairs, we deliver uncommon results with honest pricing.",
     "cards": [
       {
-        "title": "Weekly Pool Maintenance",
-        "description": "Regular cleaning, water chemistry balancing, skimming, brushing, and vacuuming. You get a detailed photo-proof service report after every single visit."
+        "title": "Weekly Maintenance (Captain's Plan)",
+        "description": "Comprehensive weekly cleaning, water balancing, chemical treatment, and complimentary chemicals. Your pool stays pristine year-round with zero effort on your part."
       },
       {
-        "title": "Pool Cleaning & Recovery",
-        "description": "One-time deep cleans, seasonal openings, and green-to-clean algae removal. We bring neglected pools back to crystal clear fast."
+        "title": "Pool Cleaning",
+        "description": "Professional skimming, brushing, vacuuming, and basket emptying. We restore and maintain crystal-clear water regardless of your pool's size or current condition."
       },
       {
-        "title": "Equipment Repair & Service",
-        "description": "Expert diagnosis and repair of pumps, filters, heaters, and salt systems. Weekly maintenance customers get free repair work included."
+        "title": "Chemical Balancing",
+        "description": "Precision water testing and expert chemical adjustment. Your pool stays safe, comfortable, and gentle on skin with perfectly balanced chemistry every week."
       },
       {
-        "title": "Pool Opening & Winterization",
-        "description": "Seasonal services to properly open your pool for summer or protect it through Georgia winters. Keep your investment safe year-round."
+        "title": "Equipment Repairs",
+        "description": "Pumps, filters, heaters, and salt systems diagnosed and fixed by certified technicians. Fast turnaround with upfront pricing and no surprise charges."
+      },
+      {
+        "title": "Opening & Winterization",
+        "description": "Seasonal preparation to get your pool swim-ready for summer or properly protected through Georgia's cooler months. Full equipment inspection included."
       },
       {
         "title": "Commercial Pool Services",
-        "description": "Professional maintenance for apartments, hotels, and HOA communities across the Atlanta metro. Consistent service with detailed reporting."
-      },
-      {
-        "title": "Filter System Cleaning",
-        "description": "Thorough cleaning and maintenance of your pool filtration system to ensure optimal water circulation, clarity, and equipment longevity."
+        "description": "Tailored maintenance plans for apartment complexes, hotels, HOA communities, and Airbnb properties. Consistent quality your residents and guests notice."
       }
     ]
   },
   "how_it_works": {
-    "headline": "Three Steps to a Worry-Free Pool",
+    "headline": "Three Steps to a Captain-Grade Pool",
     "steps": [
       {
-        "title": "Get Your Free Quote",
-        "description": "Tell us about your pool and we provide instant, transparent pricing. No hidden fees, no pressure, no contracts required."
+        "title": "Get Your Instant Quote",
+        "description": "Tell us about your pool and get transparent pricing within minutes. No haggling, no hidden fees, and absolutely no hard-sell tactics."
       },
       {
-        "title": "We Do the Work Right",
-        "description": "Our CPO-certified, background-checked technicians arrive on schedule. After every visit, you receive before-and-after photo proof via email."
+        "title": "We Deploy Certified Techs",
+        "description": "Our background-checked, CPO-certified technicians arrive on schedule. You receive before-and-after photos and a full service report after every visit."
       },
       {
-        "title": "Swim with Confidence",
-        "description": "Your pool stays crystal clear and swim-ready all season. Not satisfied? Our money-back guarantee means you never risk a penny."
+        "title": "Enjoy Your Backyard Oasis",
+        "description": "Your pool stays crystal clear and swim-ready every day. We treat it like our own, so all you do is make memories with family and friends."
       }
     ]
   },
   "about": {
     "label": "Why Atlanta Trusts the Captain",
-    "headline": "Built by an Entrepreneur Who Demanded Better Pool Service",
-    "description": "After 30 years in business, our founder was frustrated by poor-quality pool companies that overcharged and underdelivered. So he started Captains Pool Care to prove it could be done right. Every technician is a Certified Pool Operator who passes criminal background checks. We send you photo proof after every visit and never surprise you with upsells. If we fall short, you get your money back.",
-    "badge": "CPO Certified Technicians",
+    "headline": "30 Years of Business Excellence, Now Focused on Your Pool",
+    "description": "Captains Pool Care was born from frustration. After years of disappointing pool services, our founder Miguel brought 30 years of entrepreneurial expertise to an industry that desperately needed higher standards. Every technician is a Certified Pool Operator who has passed a criminal background check. We provide proof-of-service reports with before-and-after photos because we believe transparency builds trust.",
+    "badge": "CPO Certified",
     "features": [
       {
-        "title": "Background-Checked & CPO Certified",
-        "description": "Every technician is a Certified Pool Operator who passes a criminal background check before entering your backyard."
+        "title": "Background-Checked CPO Technicians",
+        "description": "Every technician is a Certified Pool Operator who has passed a comprehensive criminal background check before entering your property."
       },
       {
-        "title": "Transparent Pricing, No Upsells",
-        "description": "You see the price upfront before we start. No surprise charges, no add-ons, no games. What we quote is what you pay."
+        "title": "Proof-of-Service Photo Reports",
+        "description": "After every visit, you receive before-and-after photos and a detailed report. You always know exactly what was done and why."
       },
       {
-        "title": "Money-Back Guarantee",
-        "description": "Not satisfied with any service? We refund your money, no questions asked. That is how confident we are in our work."
+        "title": "Instant Pricing, No Hidden Fees",
+        "description": "Get your quote upfront with full transparency. No surprise charges, no upselling, no bait-and-switch tactics. Just honest pricing."
       }
     ]
   },
   "pricing": {
     "headline": "Transparent Pricing. Zero Surprises.",
-    "subtitle": "See your price upfront before we start. No contracts, no hidden fees, and weekly customers get free repairs included."
+    "subtitle": "Get your instant quote with everything included upfront. No hidden fees, no contracts, no bait-and-switch."
   },
   "guarantee": {
-    "headline": "Our Money-Back Service Guarantee",
-    "description": "If you are not 100% satisfied with any service visit, we will make it right or refund your money. Every visit includes before-and-after photo proof so you can see exactly what was done. We believe in earning your trust with results, not promises."
+    "headline": "Our \"Captain's Honor\" Guarantee",
+    "description": "If you are not 100% satisfied with any service visit, we will return and make it right at no additional cost. We treat your pool as if it were our own, and we stand behind every single visit with our reputation. That is our promise to every customer."
   },
   "faqs": [
     {
       "question": "How quickly can you start servicing my pool?",
-      "answer": "Most new clients are scheduled within the same week. We service the greater Atlanta metro area including Buckhead, Alpharetta, Dunwoody, Sandy Springs, and Roswell. Just call or fill out the form and we will get you on the schedule fast."
+      "answer": "Most new clients are scheduled within 3-5 business days across the Greater Atlanta area. For urgent situations, we offer expedited service. Just call us at (470) 264-0075 and we will work with your timeline."
     },
     {
-      "question": "What makes Captains Pool Care different from other pool companies?",
-      "answer": "Every technician is a Certified Pool Operator with a clean background check. We send before-and-after photo proof after every visit, never surprise you with upsells, and back every service with a money-back guarantee. We were founded specifically to fix what is broken in this industry."
+      "question": "Are your technicians certified and vetted?",
+      "answer": "Absolutely. Every technician is a Certified Pool Operator (CPO) who has passed a thorough criminal background check. We also carry full general liability and workers compensation insurance for your protection."
     },
     {
-      "question": "Do I need to sign a long-term contract?",
-      "answer": "No contracts, ever. We earn your business every single visit. You can cancel anytime with zero fees or penalties. We keep customers because of our results, not fine print."
-    },
-    {
-      "question": "What is included in weekly pool maintenance?",
-      "answer": "Skimming, brushing, vacuuming, chemical testing and balancing, filter checks, and equipment inspection. After every visit you receive a detailed service report with before-and-after photos. Weekly customers also get free repair work included."
+      "question": "What is the Captain's Plan weekly maintenance?",
+      "answer": "Our signature weekly service includes complete cleaning, water testing and chemical balancing, filter maintenance, and complimentary chemicals based on typical usage. You receive a proof-of-service report with before-and-after photos after every visit."
     },
     {
       "question": "Do you service commercial properties?",
-      "answer": "Absolutely. We maintain pools for apartments, hotels, and HOA communities throughout the Atlanta metro area. Commercial clients receive consistent, professional service with detailed reporting for property management."
+      "answer": "Yes. We provide specialized pool maintenance for apartment complexes, hotels, HOA communities, and Airbnb properties throughout the Atlanta metro area. Each commercial client gets a tailored service plan."
+    },
+    {
+      "question": "How does your pricing work?",
+      "answer": "We provide instant, transparent pricing with no hidden charges. You see exactly what you are paying for before we start. No contracts, no cancellation fees, and no surprise add-ons. We believe in earning your trust every single visit."
     }
   ],
   "testimonials": [
     {
       "name": "Nancy P.",
-      "text": "Captains Pool Care is simply outstanding! This is by far the best pool service company we worked with. They are professional, reliable, and our pool has never looked better.",
+      "text": "Captains Pool Care is simply outstanding! This is by far the best pool service company we worked with. The team is professional, cordial, and the pool maintenance quality is excellent.",
       "context": "Thumbtack Review",
       "initials": "NP"
     },
     {
-      "name": "Satisfied Customer",
-      "text": "The level of professionalism I received from this company exceeded my expectations. They were prompt, knowledgeable, friendly, and offered great customer service. I cannot say enough good things!",
-      "context": "Google Review",
-      "initials": "SC"
+      "name": "Airbnb Property Owner",
+      "text": "I am using Captain's Pool Services for all of our Airbnb homes, and I am absolutely thrilled with the service! From start to finish, the team is very professional, punctual, and incredibly thorough. Our pools have never looked better!",
+      "context": "Airbnb Property Manager",
+      "initials": "AP"
     },
     {
-      "name": "Airbnb Property Mgr.",
-      "text": "I am absolutely thrilled with the service. The team is very professional, punctual, and incredibly thorough. My pools have never looked better than they do now.",
-      "context": "Online Review",
-      "initials": "AP"
+      "name": "Satisfied Homeowner",
+      "text": "Captains Pool Care was prompt, knowledgeable, friendly, and offered my husband and I great customer service. I cannot say enough good things about this company!",
+      "context": "Atlanta Homeowner",
+      "initials": "SH"
     }
   ],
   "contact": {
-    "headline": "Ready for Pool Service<br>You Can Count On?",
-    "subtitle": "Get a free, no-pressure quote with transparent pricing. No contracts, no hidden fees, and a money-back guarantee on every service.",
+    "headline": "Ready for Pool Care<br>You Can Actually Trust?",
+    "subtitle": "Get your instant, no-pressure quote today. No contracts, no hidden fees — just transparent pricing from Certified Pool Operators who treat your pool like their own.",
     "benefits": [
-      "Instant transparent pricing upfront",
-      "Photo proof report after every visit",
-      "Money-back guarantee on all services"
+      "Instant transparent pricing included",
+      "CPO-certified tech response within 24 hours",
+      "Before-and-after proof-of-service photos"
     ]
   },
   "footer": {
-    "description": "Certified Pool Operators serving the greater Atlanta metro. Premium pool care at fair prices since 2024.",
-    "service_area": "Serving Atlanta, Buckhead, Alpharetta, Dunwoody, Sandy Springs & Roswell",
+    "description": "CPO-certified pool care serving Atlanta with honesty, integrity, and uncommon results since 2024.",
+    "service_area": "Serving Atlanta, Buckhead, Alpharetta, Dunwoody, Sandy Springs, Roswell & Dawsonville",
     "services": [
       "Weekly Maintenance",
       "Equipment Repairs",
-      "Green Pool Recovery",
-      "Commercial Services",
-      "Filter Cleaning"
+      "Chemical Balancing",
+      "Opening & Winterization",
+      "Commercial Services"
     ],
     "copyright": "&copy; 2024 Captains Pool Care, LLC. All rights reserved."
   }

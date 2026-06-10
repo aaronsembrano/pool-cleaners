@@ -1,0 +1,180 @@
+{
+  "folder_name": "jayson-company",
+  "company_name": "The Jayson Company",
+  "tagline": "Over 75 Years — Satisfaction Guaranteed",
+  "phone": "+1 855-529-7661",
+  "email": "cyannelli@jaysoncompany.com",
+  "logo_path": "logo.png",
+  "review_count": "17",
+  "review_rating": "4.5",
+  "colors": {
+    "primary": "#1a5276",
+    "primary_dark": "#133d59",
+    "primary_deeper": "#0d2b3e",
+    "secondary": "#2ecc71",
+    "cta": "#e67e22",
+    "cta_dark": "#cf6d17"
+  },
+  "hero": {
+    "headline": "Three Generations of <span class=\"text-secondary italic\">Pool Perfection</span>",
+    "subheadline": "Since 1936, the Jayson family has kept New Jersey pools sparkling and water pure. Nearly 90 years of trust, expertise, and a family name that rides on every job.",
+    "badges": [
+      "Licensed NJ Contractors & Plumbers",
+      "Family-Owned Since 1936"
+    ],
+    "checkmarks": [
+      "Authorized Anthony & Sylvan dealer",
+      "Free chemical delivery across Northern & Central NJ",
+      "Third-generation local expertise you can count on"
+    ],
+    "cta_text": "Get Your Free Pool Consultation"
+  },
+  "stats": {
+    "stat_1_value": "90",
+    "stat_1_label": "Years Serving New Jersey",
+    "stat_2_value": "3",
+    "stat_2_label": "Generations of Jayson Family",
+    "stat_3_value": "4500",
+    "stat_3_label": "NJ Families Served",
+    "stat_4_value": "100%",
+    "stat_4_label": "Satisfaction Guaranteed"
+  },
+  "services": {
+    "headline": "Complete Pool & Water Care Under One Roof",
+    "subtitle": "From weekly maintenance to whole-home water softening, The Jayson Company handles it all — so you only need one call.",
+    "cards": [
+      {
+        "title": "Weekly Pool Maintenance",
+        "description": "Crystal-clear water all season long. We handle vacuuming, chemical balancing, filter checks, and pump inspections every single week."
+      },
+      {
+        "title": "Pool Opening & Closing",
+        "description": "Start summer worry-free and winterize with confidence. Our seasonal pros get your pool ready on schedule, every year."
+      },
+      {
+        "title": "Pool & Spa Repairs",
+        "description": "Tile, coping, leaks, pumps, heaters, and safety covers — our licensed technicians diagnose and fix it right the first time."
+      },
+      {
+        "title": "Equipment Installation",
+        "description": "Pentair IntelliFlo pumps, salt chlorination, automation controls, underwater lighting, and more — installed by credentialed professionals."
+      },
+      {
+        "title": "Water Softening Solutions",
+        "description": "Whole-home systems designed specifically for New Jersey water. Professional installation plus ongoing salt delivery service included."
+      },
+      {
+        "title": "Water Purification & Filtration",
+        "description": "Reverse osmosis, bottleless coolers, and advanced filters delivering clean, pure drinking water throughout your home."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Getting Started Is Simple",
+    "steps": [
+      {
+        "title": "Call or Request a Visit",
+        "description": "Reach out by phone or form. We'll schedule a convenient time to assess your pool or water needs — no pressure, no obligation."
+      },
+      {
+        "title": "Get Your Custom Plan",
+        "description": "A Jayson family expert visits your property, tests your water, and builds a personalized service plan that fits your home and budget."
+      },
+      {
+        "title": "Enjoy Worry-Free Water",
+        "description": "We handle everything from weekly maintenance to chemical delivery. You just enjoy your pool and pristine water all year round."
+      }
+    ]
+  },
+  "about": {
+    "label": "About The Jayson Company",
+    "headline": "A Family Name on Every Job Since 1936",
+    "description": "Founded by Cornelius Jayson in 1936, we've grown into one of the largest water conditioning and pool service companies in New Jersey — still family-owned, still putting our name on every job. Three generations of Jaysons have served Essex County and Northern/Central New Jersey, bringing deep local expertise in water conditions that no franchise can match. As an authorized Anthony & Sylvan dealer with full NJ contractor and plumbing licenses, we deliver the kind of accountability that only a family legacy can guarantee.",
+    "badge": "Third-Generation Family Business",
+    "features": [
+      {
+        "title": "Licensed & Credentialed",
+        "description": "NJ Contractor License #13VH00342000 and Plumbing License #5948 — fully credentialed professionals on every job."
+      },
+      {
+        "title": "Authorized Anthony & Sylvan Dealer",
+        "description": "Official dealer for pool construction and renovation, bringing factory-trained expertise to your project."
+      },
+      {
+        "title": "Deep Local Expertise",
+        "description": "Serving Essex County and all of Northern/Central New Jersey with unmatched knowledge of local water conditions."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent, Honest Pricing — The Jayson Way",
+    "subtitle": "No hidden fees, no surprise charges. We'll walk you through every cost before any work begins — that's how we've done business for nearly 90 years."
+  },
+  "guarantee": {
+    "headline": "The Jayson Family Guarantee",
+    "description": "For nearly 90 years, the Jayson name has stood for reliability and accountability. If you're not completely satisfied with our work, we'll make it right — no excuses, no runaround. Our family reputation depends on your satisfaction, and that's a promise three generations strong."
+  },
+  "faqs": [
+    {
+      "question": "What areas in New Jersey do you serve?",
+      "answer": "We serve Union, Essex County, and communities throughout Northern and Central New Jersey, including the Lakewood Township area. If you're unsure whether you're in our coverage zone, just give us a call — we're happy to check."
+    },
+    {
+      "question": "Do you only work on in-ground concrete pools?",
+      "answer": "Yes, our pool division specializes exclusively in in-ground concrete pools and spas. This focused expertise, combined with our status as an authorized Anthony & Sylvan dealer, ensures top-quality work on every project."
+    },
+    {
+      "question": "Can you handle both my pool service and home water quality?",
+      "answer": "Absolutely — that's one of the things that makes us unique. We offer pool maintenance, water softening, and water purification all under one roof, so you only need one trusted company for every water need in your home."
+    },
+    {
+      "question": "How does your chemical delivery service work?",
+      "answer": "We offer free local delivery of our full chemical line, including the X Factor products for problem water. We can set up regular deliveries or you can order as needed. Our team can also recommend the right products for your specific water conditions."
+    },
+    {
+      "question": "What makes The Jayson Company different from a franchise?",
+      "answer": "We're a third-generation, family-owned business — the Jayson family name rides on every single job. That means personal accountability, deep knowledge of New Jersey water, and a level of care that a national chain simply can't replicate."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-Time Pool Customer",
+      "text": "I have used the Jayson Company for over ten years. I trust them, and they have always been respectful of my pool and property.",
+      "context": "Pool Maintenance",
+      "initials": "LP"
+    },
+    {
+      "name": "Satisfied Homeowner",
+      "text": "They are the most reliable, competent pool company out there.",
+      "context": "Pool Service",
+      "initials": "SH"
+    },
+    {
+      "name": "Repeat Customer",
+      "text": "Extremely professional, knowledgeable, and offer great customer service. They go out of their way to make sure you are happy.",
+      "context": "General Service",
+      "initials": "RC"
+    }
+  ],
+  "contact": {
+    "headline": "Let's Talk About Your Pool or Water Needs",
+    "subtitle": "Whether you need weekly pool care, a water softener, or just honest advice from a family that's been in the business for 90 years — we're here.",
+    "benefits": [
+      "Free, no-pressure consultations",
+      "Same-week scheduling available",
+      "Serving Northern & Central NJ since 1936"
+    ]
+  },
+  "footer": {
+    "description": "The Jayson Company has been a trusted name in New Jersey water conditioning and pool service since 1936. Three generations of family ownership, one unwavering commitment to quality.",
+    "service_area": "Union, NJ | Essex County | Northern New Jersey | Central New Jersey",
+    "service_links": [
+      "Weekly Pool Maintenance",
+      "Pool Opening & Closing",
+      "Pool & Spa Repairs",
+      "Water Softening",
+      "Water Purification"
+    ],
+    "copyright": "The Jayson Company"
+  }
+}

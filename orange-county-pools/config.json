@@ -1,0 +1,184 @@
+{
+  "folder_name": "orange-county-pools",
+  "company_name": "Orange County Pools & Spas",
+  "tagline": "Outdoor Living Defined",
+  "phone": "(914) 528-9000",
+  "email": "vincent@orangecountypools.com",
+  "logo_path": "logo.png",
+  "review_count": "164",
+  "review_rating": "4.9",
+  "colors": {
+    "primary": "#F57C20",
+    "primary_dark": "#C45E10",
+    "primary_deeper": "#8C4009",
+    "secondary": "#F5A623",
+    "cta": "#F57C20",
+    "cta_dark": "#C45E10"
+  },
+  "trust_badges": {
+    "badge_1": "Family-Owned Since 1969",
+    "badge_2": "4.9/5 from 164+ Reviews",
+    "badge_3": "Aqua 100 Award Winner"
+  },
+  "hero": {
+    "badge_1": "4.9/5 from 164+ Google Reviews",
+    "badge_2": "Aqua 100 Award Winner",
+    "headline": "55 Years of Backyard <span class=\"text-secondary italic\">Dreams<br>Built to Last</span>",
+    "subheadline": "Since 1969, our family has been transforming backyards across the Hudson Valley into incredible recreation spaces. From custom pools and hot tubs to saunas and swim spas, we handle design, installation, and service so you can focus on making memories.",
+    "cta_text": "Visit Our Showroom",
+    "checkmarks": [
+      "Free design consultation",
+      "Three showroom locations",
+      "Full-service installation & care"
+    ]
+  },
+  "stats": {
+    "stat_1_value": "5000",
+    "stat_1_label": "Happy Families",
+    "stat_2_value": "55",
+    "stat_2_label": "Years in Business",
+    "stat_3_value": "3",
+    "stat_3_label": "Showroom Locations",
+    "stat_4_value": "4.9★",
+    "stat_4_label": "Google Rating"
+  },
+  "services": {
+    "label": "Our Expertise",
+    "headline": "Everything for Your<br class=\"hidden md:block\"> Backyard Paradise",
+    "subtitle": "From the first sketch to years of enjoyment, Orange County Pools & Spas delivers a complete outdoor living experience under one roof.",
+    "cards": [
+      {
+        "title": "Custom Pool Design & Build",
+        "description": "From concept to first splash, our design team creates swimming pools tailored to your yard, style, and family. Professional installation backed by 55 years of expertise."
+      },
+      {
+        "title": "Hot Tubs & Spas",
+        "description": "Premium brands including Hydropool, Passion Spas, Strong Spas, Wellis, and Nordic. Visit our showrooms to find the perfect fit for relaxation and hydrotherapy."
+      },
+      {
+        "title": "Swim Spas & Cold Plunge",
+        "description": "Year-round fitness and recovery in your own backyard. Our swim spas combine exercise systems with hydromassage, plus cold plunge tubs for contrast therapy."
+      },
+      {
+        "title": "Saunas by Finnleo",
+        "description": "Bring world-class wellness home with Finnleo saunas. Traditional and infrared options designed for health, relaxation, and daily rejuvenation."
+      },
+      {
+        "title": "Pool Service & Repairs",
+        "description": "Our dedicated service department keeps your pool and spa running flawlessly. Maintenance plans, equipment repairs, and a convenient service text line for fast help."
+      },
+      {
+        "title": "Backyard Courts & Recreation",
+        "description": "Complete your outdoor living space with custom sport courts for basketball, pickleball, and more. Turn your backyard into the ultimate family destination."
+      }
+    ]
+  },
+  "how_it_works": {
+    "headline": "Your Dream Backyard in Three Steps",
+    "steps": [
+      {
+        "title": "Visit a Showroom or Call Us",
+        "description": "Stop by one of our three locations in Mohegan Lake, New Windsor, or Brookfield to explore products in person. Or call us for a free consultation and we'll guide you through every option."
+      },
+      {
+        "title": "We Design & Install",
+        "description": "Our expert team designs your custom backyard space and handles every detail of the installation. From permits to plumbing, we manage the entire process so you don't have to."
+      },
+      {
+        "title": "Enjoy for Years to Come",
+        "description": "Dive in and start making memories. Our service department is always here for maintenance, supplies, and support to keep your backyard paradise in perfect condition."
+      }
+    ]
+  },
+  "about": {
+    "label": "Why Families Choose Us",
+    "headline": "Three Generations of Backyard Excellence",
+    "description": "Family-owned and operated since 1969, Orange County Pools & Spas has spent over five decades helping Hudson Valley families create incredible outdoor spaces. Led by Vinnie Moscatello Jr. and a passionate team, we carry premier brands and provide full-service support from design through ongoing care. Our three showrooms let you see, touch, and experience products before you buy.",
+    "badge": "Aqua 100 Award Winner",
+    "features": [
+      {
+        "title": "55+ Years Family-Owned",
+        "description": "Three generations of pool and spa expertise, serving the Hudson Valley community since 1969 with unwavering commitment to quality."
+      },
+      {
+        "title": "Premier Brand Partners",
+        "description": "We carry only top-tier brands like Hydropool, Finnleo, Covana, and more — products at the vanguard of innovation and style."
+      },
+      {
+        "title": "Full-Service Experience",
+        "description": "Design, product selection, professional installation, and ongoing maintenance — all handled in-house by our dedicated team."
+      }
+    ]
+  },
+  "pricing": {
+    "headline": "Transparent Pricing. No Surprises.",
+    "subtitle": "Every project is unique. Visit our showroom or call for a personalized quote — we'll walk you through every cost upfront."
+  },
+  "guarantee": {
+    "headline": "Our Family Promise to Yours",
+    "description": "We stand behind every product we sell and every installation we complete. If something isn't right, our service team makes it right — period. That's the standard we've held for over 55 years, and it's why families keep coming back generation after generation."
+  },
+  "faqs": [
+    {
+      "question": "How do I get started on a new pool or spa project?",
+      "answer": "Visit any of our three showroom locations in Mohegan Lake, New Windsor, or Brookfield CT to explore options in person. You can also call us at (914) 528-9000 for a free consultation. We'll discuss your space, preferences, and budget to create a personalized plan."
+    },
+    {
+      "question": "What brands of hot tubs do you carry?",
+      "answer": "We proudly carry Hydropool, Passion Spas, Strong Spas, Wellis Spas, and Nordic Hot Tubs. Each brand is hand-selected for quality, innovation, and value. Visit our showrooms to test them out and find your perfect match."
+    },
+    {
+      "question": "Do you provide ongoing pool and spa service?",
+      "answer": "Absolutely. Our dedicated service department handles maintenance, repairs, and water chemistry. We even have a convenient service text line so you can reach our technicians quickly when you need help."
+    },
+    {
+      "question": "What areas do you serve?",
+      "answer": "We serve the Hudson Valley and surrounding areas including Orange County, Westchester County, and parts of Connecticut. With showrooms in Mohegan Lake NY, New Windsor NY, and Brookfield CT, we're conveniently located throughout the region."
+    },
+    {
+      "question": "Can I see products before purchasing?",
+      "answer": "Yes! That's exactly what our three showroom locations are for. You can see, touch, and experience hot tubs, swim spas, saunas, and more before making any decisions. Our knowledgeable staff will walk you through every feature."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Long-time Customer",
+      "text": "We have been purchasing pools and hot tubs from Orange County Pools since 2001. Vincent and his staff always go above and beyond to help. They treat us like family, with the best prices and high quality products.",
+      "context": "Customer Since 2001",
+      "initials": "LC"
+    },
+    {
+      "name": "Verified Buyer",
+      "text": "Had an extremely positive experience at OC Pools and Spa. Everything was handled expertly from start to finish. Highly recommend this company for all your pool and spa needs.",
+      "context": "Google Review",
+      "initials": "VB"
+    },
+    {
+      "name": "New Pool Owner",
+      "text": "Staff were punctual, friendly, and helpful. They patiently answered my numerous questions and made reasonable observations about improving my pool setup. Excellent service from start to finish.",
+      "context": "First-Time Buyer",
+      "initials": "NP"
+    }
+  ],
+  "contact": {
+    "headline": "Ready to Transform<br>Your Backyard?",
+    "subtitle": "Visit one of our three showrooms or call for a free consultation. Over 55 years of experience, premier brands, and a family that truly cares about your outdoor living space.",
+    "benefits": [
+      "Free design consultation at any showroom",
+      "Response within 24 hours",
+      "55+ years of family expertise behind every project"
+    ]
+  },
+  "footer": {
+    "description": "Family-owned since 1969. Three showroom locations serving the Hudson Valley and beyond.",
+    "service_area": "Serving the Hudson Valley, Orange County, Westchester & CT",
+    "services": [
+      "Pool Design & Build",
+      "Hot Tubs & Spas",
+      "Swim Spas & Saunas",
+      "Pool Service & Repairs",
+      "Backyard Recreation"
+    ],
+    "copyright": "&copy; 2024 Orange County Pools & Spas. All rights reserved. Family-owned since 1969."
+  }
+}
